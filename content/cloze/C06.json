@@ -1,0 +1,209 @@
+{
+ "id": "C06",
+ "title": "Plastic in the Sea",
+ "genre": "ข่าว/สิ่งแวดล้อม",
+ "level": "B1",
+ "text": "Every year, millions of tons of plastic end up in the sea. (1) is a serious problem for sea animals. Turtles, for example, often eat plastic bags because (2) look like jellyfish. Scientists say that the amount of plastic in the ocean today is much larger than (3) twenty years ago.\nSome countries have started to fight (4) problem. In (5) countries, shops no longer give out free plastic bags, so people (6) to bring their own. (7) small actions can make a big difference.\nMy school and (8) students also joined the campaign last year. We collected over 500 plastic bottles (9) one month and sent them to a recycling center. (10) of us felt proud of what we did.",
+ "items": [
+  {
+   "id": "C06-1",
+   "skill": "g.demonstrative",
+   "difficulty": 2,
+   "stem": "(1) ___ is a serious problem for sea animals.",
+   "options": [
+    "These",
+    "This",
+    "Those",
+    "They"
+   ],
+   "answer": 1,
+   "explanation_th": "ชี้ทั้งเรื่อง \"พลาสติกลงทะเลทุกปี\" เป็นความคิดเดียว และกริยา is เอกพจน์ → This",
+   "why_wrong": [
+    "These เป็นพหูพจน์ ไม่เข้ากับ is",
+    null,
+    "Those เป็นพหูพจน์",
+    "They is ผิดไวยากรณ์"
+   ]
+  },
+  {
+   "id": "C06-2",
+   "skill": "g.pronoun",
+   "difficulty": 2,
+   "stem": "(2) Turtles, for example, often eat plastic bags because ___ look like jellyfish.",
+   "options": [
+    "it",
+    "them",
+    "they",
+    "their"
+   ],
+   "answer": 2,
+   "explanation_th": "หน้ากริยา look = ประธาน หมายถึง plastic bags (พหูพจน์) → they",
+   "why_wrong": [
+    "it เป็นเอกพจน์ แต่ bags เป็นพหูพจน์",
+    "them เป็นกรรม",
+    null,
+    "their ต้องมีคำนามตาม"
+   ]
+  },
+  {
+   "id": "C06-3",
+   "skill": "g.demonstrative",
+   "difficulty": 3,
+   "stem": "(3) Scientists say that the amount of plastic in the ocean today is much larger than ___ twenty years ago.",
+   "options": [
+    "that",
+    "those",
+    "this",
+    "these"
+   ],
+   "answer": 0,
+   "explanation_th": "that แทน the amount (เอกพจน์) ในการเปรียบเทียบ",
+   "why_wrong": [
+    null,
+    "those แทนนามพหูพจน์",
+    "this ไม่ใช้แทนนามในการเปรียบเทียบแบบนี้",
+    "these เป็นพหูพจน์"
+   ]
+  },
+  {
+   "id": "C06-4",
+   "skill": "g.demonstrative",
+   "difficulty": 1,
+   "stem": "(4) Some countries have started to fight ___ problem.",
+   "options": [
+    "these",
+    "those",
+    "them",
+    "this"
+   ],
+   "answer": 3,
+   "explanation_th": "ปัญหานี้ที่เพิ่งพูด (problem เอกพจน์) → this problem",
+   "why_wrong": [
+    "these ใช้กับพหูพจน์",
+    "those ใช้กับพหูพจน์",
+    "them วางหน้าคำนามไม่ได้",
+    null
+   ]
+  },
+  {
+   "id": "C06-5",
+   "skill": "g.demonstrative",
+   "difficulty": 2,
+   "stem": "(5) In ___ countries, shops no longer give out free plastic bags, so people … to bring their own.",
+   "options": [
+    "this",
+    "these",
+    "that",
+    "it"
+   ],
+   "answer": 1,
+   "explanation_th": "ประเทศเหล่านี้ที่เพิ่งพูด (countries พหูพจน์) → these",
+   "why_wrong": [
+    "this ใช้กับเอกพจน์",
+    null,
+    "that ใช้กับเอกพจน์",
+    "it วางหน้าคำนามไม่ได้"
+   ]
+  },
+  {
+   "id": "C06-6",
+   "skill": "g.agreement",
+   "difficulty": 1,
+   "stem": "(6) In … countries, shops no longer give out free plastic bags, so people ___ to bring their own.",
+   "options": [
+    "has",
+    "having",
+    "have",
+    "is"
+   ],
+   "answer": 2,
+   "explanation_th": "people เป็นพหูพจน์ + have to = ต้อง → have",
+   "why_wrong": [
+    "has ใช้กับเอกพจน์",
+    "having อยู่ลำพังเป็นกริยาแท้ไม่ได้",
+    null,
+    "is to bring ความหมายเป็นคำสั่งทางการ ไม่เข้ากับบริบท และ people ไม่ใช้ is"
+   ]
+  },
+  {
+   "id": "C06-7",
+   "skill": "g.demonstrative",
+   "difficulty": 1,
+   "stem": "(7) ___ small actions can make a big difference.",
+   "options": [
+    "This",
+    "That",
+    "These",
+    "It"
+   ],
+   "answer": 2,
+   "explanation_th": "ชี้การกระทำเล็ก ๆ หลายอย่างที่เพิ่งพูด (actions พหูพจน์) → These",
+   "why_wrong": [
+    "This ใช้กับเอกพจน์",
+    "That ใช้กับเอกพจน์",
+    null,
+    "It วางหน้าคำนามไม่ได้"
+   ]
+  },
+  {
+   "id": "C06-8",
+   "skill": "g.pronoun",
+   "difficulty": 2,
+   "stem": "(8) My school and ___ students also joined the campaign last year.",
+   "options": [
+    "it's",
+    "it",
+    "their",
+    "its"
+   ],
+   "answer": 3,
+   "explanation_th": "นักเรียนของโรงเรียน (school = it) หน้าคำนาม → its",
+   "why_wrong": [
+    "it's = it is",
+    "it ไม่ได้บอกเจ้าของ",
+    "their ใช้กับเจ้าของพหูพจน์ แต่ school เป็นเอกพจน์",
+    null
+   ]
+  },
+  {
+   "id": "C06-9",
+   "skill": "g.preposition",
+   "difficulty": 2,
+   "stem": "(9) We collected over 500 plastic bottles ___ one month and sent them to a recycling center.",
+   "options": [
+    "in",
+    "since",
+    "at",
+    "on"
+   ],
+   "answer": 0,
+   "explanation_th": "in + ระยะเวลา = ภายใน (in one month)",
+   "why_wrong": [
+    null,
+    "since + จุดเริ่ม",
+    "at ใช้กับจุดเวลา",
+    "on ใช้กับวัน"
+   ]
+  },
+  {
+   "id": "C06-10",
+   "skill": "g.article",
+   "difficulty": 2,
+   "stem": "(10) ___ of us felt proud of what we did.",
+   "options": [
+    "Every",
+    "All",
+    "Any",
+    "Much"
+   ],
+   "answer": 1,
+   "explanation_th": "All of us = พวกเราทุกคน",
+   "why_wrong": [
+    "Every of ไม่มีในภาษาอังกฤษ",
+    null,
+    "Any of us felt proud ไม่ใช้ในประโยคบอกเล่า",
+    "Much of us ใช้กับคนไม่ได้"
+   ]
+  }
+ ]
+}

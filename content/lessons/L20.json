@@ -1,0 +1,664 @@
+{
+ "id": "L20",
+ "phase": 3,
+ "skill": "r.vocab",
+ "title_th": "เดาศัพท์จากบริบท",
+ "title_en": "Vocabulary in context",
+ "villain": "morphy",
+ "hook": {
+  "beats": [
+   {
+    "say": "ปิ๊ปเจอคำว่า inevitable ในบทความ ไม่เคยเห็นมาก่อน",
+    "anim": "enter",
+    "board": "Mistakes are **inevitable** when you learn."
+   },
+   {
+    "say": "มอร์ฟี่! เจ้าไม่รู้ศัพท์ งั้นก็เดามั่วไปเลยสิ",
+    "actor": "villain",
+    "anim": "shake",
+    "board": "???"
+   },
+   {
+    "say": "ไม่ต้องรู้ทุกคำ ดูคำรอบ ๆ มันจะบอกใบ้เอง",
+    "anim": "think",
+    "board": "ดูประโยครอบข้าง"
+   },
+   {
+    "say": "ถ้าประโยคต่อไปบอกว่า everyone makes them ก็แปลว่าหลีกเลี่ยงไม่ได้",
+    "anim": "jump",
+    "board": "inevitable = unavoidable"
+   },
+   {
+    "say": "แล้วลองเอาคำตอบแทนลงไป ถ้าประโยคยังเข้าใจได้ คือถูก",
+    "anim": "zap",
+    "board": "Mistakes are unavoidable ✓"
+   },
+   {
+    "say": "ร่างคำศัพท์ของข้าถูกจับได้!",
+    "actor": "villain",
+    "anim": "swap"
+   }
+  ]
+ },
+ "discover": {
+  "examples": [
+   "The road was so **narrow** that two cars could not pass.",
+   "He was **exhausted**, so he fell asleep at once.",
+   "The museum is **free**; you do not have to pay.",
+   "She was **reluctant** to speak because she was shy."
+  ],
+  "question_th": "ทำไมเดาได้ว่า narrow แปลว่า แคบ?",
+  "options_th": [
+   "เพราะประโยคบอกผลว่ารถสองคันสวนกันไม่ได้",
+   "เพราะคำนี้ขึ้นต้นด้วย n",
+   "เพราะเป็นคำยาว",
+   "เดาไม่ได้เลย"
+  ],
+  "answer": 0,
+  "reveal_th": "เบาะแส 4 แบบ: (1) ผลลัพธ์ so…that / so (2) คำอธิบายหลัง ; หรือ — (3) คำตรงข้ามหลัง but / although (4) ตัวอย่าง such as · แล้วเช็กด้วยการแทนค่า"
+ },
+ "rule": {
+  "line_th": "หาเบาะแสรอบคำ (ผล / คำอธิบาย / คำตรงข้าม / ตัวอย่าง) → เดาความหมาย → แทนคำตอบลงไปเช็ก",
+  "memory_th": "🧩 จิ๊กซอว์: คำที่ไม่รู้คือชิ้นที่หาย ดูรูปชิ้นรอบ ๆ แล้วเลือกชิ้นที่ต่อได้พอดี",
+  "terms": [
+   [
+    "context clue",
+    "เบาะแสจากบริบท"
+   ],
+   [
+    "synonym",
+    "คำพ้องความหมาย"
+   ],
+   [
+    "antonym",
+    "คำตรงข้าม"
+   ]
+  ]
+ },
+ "speak": [
+  "The road was so narrow that two cars could not pass.",
+  "He was exhausted, so he fell asleep at once.",
+  "Water is essential for all living things."
+ ],
+ "twists": [
+  {
+   "id": "L20-t1",
+   "skill": "r.vocab",
+   "type": "match",
+   "prompt_th": "จับคู่คำกับความหมาย",
+   "pairs": [
+    [
+     "brief",
+     "short"
+    ],
+    [
+     "essential",
+     "necessary"
+    ],
+    [
+     "remote",
+     "far away"
+    ],
+    [
+     "delighted",
+     "very happy"
+    ]
+   ],
+   "explanation_th": "คำศัพท์ที่พบบ่อยในบทอ่านข้อสอบ"
+  },
+  {
+   "id": "L20-t2",
+   "skill": "r.vocab",
+   "type": "fill",
+   "stem": "The thief ___ before the police arrived. (ran away, เริ่มด้วย f)",
+   "accept": [
+    "fled"
+   ],
+   "hint_th": "อดีตของ flee",
+   "explanation_th": "fled = ran away"
+  },
+  {
+   "id": "L20-t3",
+   "skill": "r.vocab",
+   "type": "order",
+   "words": [
+    "Water",
+    "is",
+    "essential",
+    "for",
+    "all",
+    "living",
+    "things."
+   ],
+   "explanation_th": "essential = จำเป็นมาก"
+  }
+ ],
+ "questions": [
+  {
+   "id": "L20-01",
+   "skill": "r.vocab",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"The road was so **narrow** that two cars could not pass each other.\" — \"narrow\" means ___.",
+   "options": [
+    "very long",
+    "not wide",
+    "dangerous",
+    "busy"
+   ],
+   "answer": 1,
+   "explanation_th": "รถสองคันสวนกันไม่ได้ = ถนนแคบ (not wide)",
+   "why_wrong": [
+    "ความยาวไม่ทำให้สวนกันไม่ได้",
+    null,
+    "อันตรายไม่ใช่เหตุที่สวนไม่ได้",
+    "รถเยอะไม่ได้ถูกพูดถึง"
+   ]
+  },
+  {
+   "id": "L20-02",
+   "skill": "r.vocab",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"After running for an hour, he was **exhausted** and fell asleep on the sofa.\" — \"exhausted\" means ___.",
+   "options": [
+    "very happy",
+    "hungry",
+    "very tired",
+    "angry"
+   ],
+   "answer": 2,
+   "explanation_th": "วิ่งชั่วโมงหนึ่งแล้วหลับ = เหนื่อยมาก",
+   "why_wrong": [
+    "ไม่มีเบาะแสเรื่องดีใจ",
+    "ไม่มีเบาะแสเรื่องหิว",
+    null,
+    "ไม่มีเบาะแสเรื่องโกรธ"
+   ]
+  },
+  {
+   "id": "L20-03",
+   "skill": "r.vocab",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"The museum is **free** on Sundays, so you do not have to pay.\" — \"free\" here means ___.",
+   "options": [
+    "closed",
+    "empty",
+    "open late",
+    "costing nothing"
+   ],
+   "answer": 3,
+   "explanation_th": "so you do not have to pay = ไม่เสียเงิน",
+   "why_wrong": [
+    "ถ้าปิดก็ไม่ต้องพูดเรื่องจ่าย",
+    "ไม่มีเบาะแสเรื่องคน",
+    "ไม่มีเบาะแสเรื่องเวลา",
+    null
+   ]
+  },
+  {
+   "id": "L20-04",
+   "skill": "r.vocab",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"She was **reluctant** to speak in front of the class because she was shy.\" — \"reluctant\" means ___.",
+   "options": [
+    "not willing",
+    "excited",
+    "ready",
+    "proud"
+   ],
+   "answer": 0,
+   "explanation_th": "because she was shy = ไม่อยากพูด",
+   "why_wrong": [
+    null,
+    "ขี้อายไม่ทำให้ตื่นเต้นอยากพูด",
+    "ขัดกับความขี้อาย",
+    "ไม่มีเบาะแส"
+   ]
+  },
+  {
+   "id": "L20-05",
+   "skill": "r.vocab",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"The medicine **relieved** her headache, and she felt much better.\" — \"relieved\" means ___.",
+   "options": [
+    "caused",
+    "made less painful",
+    "increased",
+    "hid"
+   ],
+   "answer": 1,
+   "explanation_th": "felt much better = ยาทำให้ปวดน้อยลง",
+   "why_wrong": [
+    "ทำให้เกิดอาการปวด ขัดกับ felt better",
+    null,
+    "เพิ่มความปวด ขัดกับ felt better",
+    "ซ่อน ไม่ใช่ความหมาย"
+   ]
+  },
+  {
+   "id": "L20-06",
+   "skill": "r.vocab",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"The village is very **remote**; the nearest town is 80 kilometers away.\" — \"remote\" means ___.",
+   "options": [
+    "crowded",
+    "modern",
+    "far from other places",
+    "beautiful"
+   ],
+   "answer": 2,
+   "explanation_th": "เมืองที่ใกล้ที่สุดอยู่ไกล 80 กม. = ห่างไกล",
+   "why_wrong": [
+    "ไม่มีเบาะแสเรื่องคนเยอะ",
+    "ไม่มีเบาะแสเรื่องความทันสมัย",
+    null,
+    "ไม่มีเบาะแสเรื่องความสวย"
+   ]
+  },
+  {
+   "id": "L20-07",
+   "skill": "r.vocab",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"He **declined** the invitation politely because he was busy that day.\" — \"declined\" means ___.",
+   "options": [
+    "accepted",
+    "wrote",
+    "forgot",
+    "said no to"
+   ],
+   "answer": 3,
+   "explanation_th": "ยุ่ง → ปฏิเสธคำเชิญอย่างสุภาพ",
+   "why_wrong": [
+    "ยุ่งแล้วตอบรับ ขัดกัน",
+    "ไม่มีเบาะแส",
+    "politely ไม่เข้ากับการลืม",
+    null
+   ]
+  },
+  {
+   "id": "L20-08",
+   "skill": "r.vocab",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"The team was **delighted** when they won the trophy.\" — \"delighted\" means ___.",
+   "options": [
+    "very pleased",
+    "surprised",
+    "worried",
+    "tired"
+   ],
+   "answer": 0,
+   "explanation_th": "ชนะถ้วย = ดีใจมาก",
+   "why_wrong": [
+    null,
+    "แปลกใจได้แต่ไม่ใช่ความหมายหลัก",
+    "ขัดกับการชนะ",
+    "ไม่มีเบาะแส"
+   ]
+  },
+  {
+   "id": "L20-09",
+   "skill": "r.vocab",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"Plastic bags are **harmful** to sea animals that eat them.\" — \"harmful\" means ___.",
+   "options": [
+    "useful",
+    "causing damage",
+    "interesting",
+    "normal"
+   ],
+   "answer": 1,
+   "explanation_th": "สัตว์ทะเลกินถุง = เป็นอันตราย",
+   "why_wrong": [
+    "ขัดกับบริบท",
+    null,
+    "ไม่มีเบาะแส",
+    "ไม่มีเบาะแส"
+   ]
+  },
+  {
+   "id": "L20-10",
+   "skill": "r.vocab",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"The storm **destroyed** the old school; nothing was left.\" — \"destroyed\" means ___.",
+   "options": [
+    "painted",
+    "cleaned",
+    "damaged completely",
+    "built"
+   ],
+   "answer": 2,
+   "explanation_th": "nothing was left = ทำลายสิ้น",
+   "why_wrong": [
+    "ขัดกับ nothing was left",
+    "ขัดกับ nothing was left",
+    null,
+    "ขัดกับบริบท"
+   ]
+  },
+  {
+   "id": "L20-11",
+   "skill": "r.vocab",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"Please be **punctual**; the meeting starts at exactly nine o'clock.\" — \"punctual\" means ___.",
+   "options": [
+    "quiet",
+    "polite",
+    "prepared",
+    "on time"
+   ],
+   "answer": 3,
+   "explanation_th": "starts at exactly nine = ต้องตรงเวลา",
+   "why_wrong": [
+    "ไม่มีเบาะแสเรื่องเสียง",
+    "ไม่มีเบาะแส",
+    "ใกล้เคียงแต่เบาะแสคือเวลา",
+    null
+   ]
+  },
+  {
+   "id": "L20-12",
+   "skill": "r.vocab",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"Water is **essential** for life; no plant or animal can live without it.\" — \"essential\" means ___.",
+   "options": [
+    "necessary",
+    "dangerous",
+    "expensive",
+    "rare"
+   ],
+   "answer": 0,
+   "explanation_th": "อยู่ไม่ได้ถ้าไม่มี = จำเป็น",
+   "why_wrong": [
+    null,
+    "ขัดกับบริบท",
+    "ไม่มีเบาะแสเรื่องราคา",
+    "ไม่มีเบาะแส"
+   ]
+  },
+  {
+   "id": "L20-13",
+   "skill": "r.vocab",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"The principal gave a **brief** talk; it lasted only five minutes.\" — \"brief\" means ___.",
+   "options": [
+    "boring",
+    "short",
+    "loud",
+    "important"
+   ],
+   "answer": 1,
+   "explanation_th": "only five minutes = สั้น",
+   "why_wrong": [
+    "ไม่มีเบาะแส",
+    null,
+    "ไม่มีเบาะแส",
+    "ไม่มีเบาะแส"
+   ]
+  },
+  {
+   "id": "L20-14",
+   "skill": "r.vocab",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"The thief **fled** before the police arrived, so they could not catch him.\" — \"fled\" means ___.",
+   "options": [
+    "waited",
+    "shouted",
+    "ran away",
+    "stole"
+   ],
+   "answer": 2,
+   "explanation_th": "จับไม่ได้ = หนีไป",
+   "why_wrong": [
+    "ถ้ารออยู่ตำรวจจะจับได้",
+    "ไม่มีเบาะแส",
+    null,
+    "ขโมยเป็นสิ่งที่ทำก่อน ไม่ใช่สิ่งที่ทำก่อนตำรวจมา"
+   ]
+  },
+  {
+   "id": "L20-15",
+   "skill": "r.vocab",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"Many students find grammar **confusing** because there are so many rules.\" — \"confusing\" means ___.",
+   "options": [
+    "easy",
+    "funny",
+    "boring",
+    "difficult to understand"
+   ],
+   "answer": 3,
+   "explanation_th": "กฎเยอะมาก = เข้าใจยาก/สับสน",
+   "why_wrong": [
+    "ขัดกับกฎเยอะ",
+    "ไม่มีเบาะแส",
+    "เป็นไปได้แต่เบาะแสชี้เรื่องความเข้าใจ",
+    null
+   ]
+  },
+  {
+   "id": "L20-16",
+   "skill": "r.vocab",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"Somchai was very **frugal**. He never bought new clothes unless his old ones had holes, and he always cooked at home to save money.\" — \"frugal\" means ___.",
+   "options": [
+    "careful with money",
+    "lazy",
+    "unhappy",
+    "rich"
+   ],
+   "answer": 0,
+   "explanation_th": "ไม่ซื้อเสื้อใหม่ ทำกินเอง to save money = ประหยัด",
+   "why_wrong": [
+    null,
+    "ไม่มีเบาะแสเรื่องขี้เกียจ",
+    "ไม่มีเบาะแส",
+    "ไม่มีเบาะแส และการประหยัดไม่ได้แปลว่ารวย"
+   ]
+  },
+  {
+   "id": "L20-17",
+   "skill": "r.vocab",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "\"The scientist's theory was **controversial**. Some experts strongly supported it, while others said it was completely wrong.\" — \"controversial\" means ___.",
+   "options": [
+    "easy to prove",
+    "causing strong disagreement",
+    "very old",
+    "completely wrong"
+   ],
+   "answer": 1,
+   "explanation_th": "บางคนสนับสนุน บางคนว่าผิด = มีข้อถกเถียง",
+   "why_wrong": [
+    "ขัดกับการถกเถียง",
+    null,
+    "ไม่มีเบาะแส",
+    "เป็นความเห็นแค่ฝ่ายเดียว"
+   ]
+  },
+  {
+   "id": "L20-18",
+   "skill": "r.vocab",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"At first, the new student was **timid**. She spoke very quietly and avoided looking at people. After a few weeks, however, she became more confident.\" — \"timid\" means ___.",
+   "options": [
+    "rude",
+    "clever",
+    "shy and nervous",
+    "tired"
+   ],
+   "answer": 2,
+   "explanation_th": "พูดเบา ไม่สบตา ตรงข้ามกับ confident = ขี้อาย",
+   "why_wrong": [
+    "ไม่มีเบาะแสเรื่องหยาบคาย",
+    "ไม่มีเบาะแส",
+    null,
+    "ไม่มีเบาะแส"
+   ]
+  },
+  {
+   "id": "L20-19",
+   "skill": "r.vocab",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"Prices have **soared** this year. A bowl of noodles that cost 40 baht in January now costs 60 baht.\" — \"soared\" means ___.",
+   "options": [
+    "stayed the same",
+    "gone down",
+    "changed slowly",
+    "risen quickly"
+   ],
+   "answer": 3,
+   "explanation_th": "40 → 60 บาทในปีเดียว = พุ่งขึ้น",
+   "why_wrong": [
+    "ขัดกับตัวเลข",
+    "ขัดกับตัวเลข",
+    "ขึ้น 50% ไม่ใช่ช้า",
+    null
+   ]
+  },
+  {
+   "id": "L20-20",
+   "skill": "r.vocab",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "\"The two brothers look **identical**. Even their mother sometimes calls them by the wrong name.\" — \"identical\" means ___.",
+   "options": [
+    "exactly the same",
+    "very different",
+    "very tall",
+    "unfriendly"
+   ],
+   "answer": 0,
+   "explanation_th": "แม่ยังเรียกชื่อผิด = เหมือนกันทุกอย่าง",
+   "why_wrong": [
+    null,
+    "ขัดกับบริบท",
+    "ไม่มีเบาะแส",
+    "ไม่มีเบาะแส"
+   ]
+  },
+  {
+   "id": "L20-21",
+   "skill": "r.vocab",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"The village was **isolated** during the flood. The roads were under water and the phone lines were down, so no one could get in or out.\" — \"isolated\" means ___.",
+   "options": [
+    "crowded",
+    "cut off from other places",
+    "destroyed",
+    "cleaned"
+   ],
+   "answer": 1,
+   "explanation_th": "เข้าออกไม่ได้ ติดต่อไม่ได้ = ถูกตัดขาด",
+   "why_wrong": [
+    "ขัดกับบริบท",
+    null,
+    "ไม่ได้บอกว่าหมู่บ้านพัง",
+    "ไม่มีเบาะแส"
+   ]
+  },
+  {
+   "id": "L20-22",
+   "skill": "r.vocab",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "\"Mr. Prasert is a very **generous** man. He gives money to the local school every year and often buys food for poor families.\" — \"generous\" means ___.",
+   "options": [
+    "strict",
+    "old",
+    "willing to give to others",
+    "rich and proud"
+   ],
+   "answer": 2,
+   "explanation_th": "ให้เงินโรงเรียน ซื้ออาหารให้คนจน = ใจกว้าง",
+   "why_wrong": [
+    "ไม่มีเบาะแส",
+    "ไม่มีเบาะแส",
+    null,
+    "การให้ไม่ได้แปลว่าหยิ่ง"
+   ]
+  },
+  {
+   "id": "L20-23",
+   "skill": "r.vocab",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"The plan to build a new mall was **abandoned** after the company ran out of money. Nobody worked on it again.\" — \"abandoned\" means ___.",
+   "options": [
+    "finished early",
+    "made bigger",
+    "started again",
+    "stopped completely"
+   ],
+   "answer": 3,
+   "explanation_th": "หมดเงินและไม่มีใครทำต่อ = ล้มเลิก",
+   "why_wrong": [
+    "ขัดกับ nobody worked on it again",
+    "ขัดกับบริบท",
+    "ขัดกับบริบท",
+    null
+   ]
+  },
+  {
+   "id": "L20-24",
+   "skill": "r.vocab",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "\"The doctor said the injury was **minor**. Nok only needed a small bandage and could go home the same day.\" — \"minor\" means ___.",
+   "options": [
+    "not serious",
+    "very serious",
+    "painful",
+    "strange"
+   ],
+   "answer": 0,
+   "explanation_th": "ผ้าพันแผลเล็ก กลับบ้านได้วันเดียว = ไม่ร้ายแรง",
+   "why_wrong": [
+    null,
+    "ขัดกับบริบท",
+    "ไม่มีเบาะแส",
+    "ไม่มีเบาะแส"
+   ]
+  },
+  {
+   "id": "L20-25",
+   "skill": "r.vocab",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"The final exam is **compulsory**. Students who do not take it cannot graduate.\" — \"compulsory\" means ___.",
+   "options": [
+    "easy",
+    "required",
+    "optional",
+    "expensive"
+   ],
+   "answer": 1,
+   "explanation_th": "ไม่สอบ = เรียนไม่จบ → บังคับ",
+   "why_wrong": [
+    "ไม่มีเบาะแส",
+    null,
+    "ความหมายตรงข้าม",
+    "ไม่มีเบาะแส"
+   ]
+  }
+ ],
+ "cloze": "C13"
+}

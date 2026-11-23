@@ -1,0 +1,209 @@
+{
+ "id": "C13",
+ "title": "The Young Inventor",
+ "genre": "ข่าว",
+ "level": "B1",
+ "text": "Fourteen-year-old Krit has become (1) in his town for an unusual invention: a low-cost water filter made from bamboo. The idea came to him after a (2) flood, when clean water was hard to find. \"I wanted to make something simple and (3),\" he said.\nKrit worked (4) for six months in his family's garage. His first designs were not (5), but he did not give up. Finally, his filter removed most of the dirt from river water. Scientists from a local university were (6) by the results and helped him test it (7). The filter costs only 50 baht to make, and its low price makes it (8) for poor families. \"His (9) shows that age is not important,\" said his teacher. Krit now dreams of (10) engineering at university.",
+ "items": [
+  {
+   "id": "C13-1",
+   "skill": "g.wordform",
+   "difficulty": 1,
+   "stem": "(1) Fourteen-year-old Krit has become ___ in his town for an unusual invention: a low-cost water filter made from bamboo.",
+   "options": [
+    "fame",
+    "famous",
+    "famously",
+    "fames"
+   ],
+   "answer": 1,
+   "explanation_th": "หลัง become ต้องเป็น adjective → famous",
+   "why_wrong": [
+    "fame เป็นคำนาม",
+    null,
+    "famously เป็น adverb",
+    "fames ไม่ใช่คำที่ใช้"
+   ]
+  },
+  {
+   "id": "C13-2",
+   "skill": "g.wordform",
+   "difficulty": 1,
+   "stem": "(2) The idea came to him after a ___ flood, when clean water was hard to find.",
+   "options": [
+    "terribly",
+    "terror",
+    "terrible",
+    "terrify"
+   ],
+   "answer": 2,
+   "explanation_th": "ขยายคำนาม flood → terrible",
+   "why_wrong": [
+    "terribly เป็น adverb",
+    "terror เป็นคำนาม",
+    null,
+    "terrify เป็นกริยา"
+   ]
+  },
+  {
+   "id": "C13-3",
+   "skill": "g.wordform",
+   "difficulty": 1,
+   "stem": "(3) \"I wanted to make something simple and ___,\"",
+   "options": [
+    "use",
+    "usefully",
+    "usefulness",
+    "useful"
+   ],
+   "answer": 3,
+   "explanation_th": "simple and ___ (คู่ขนานกับ adjective) → useful",
+   "why_wrong": [
+    "use เป็นกริยา/คำนาม",
+    "usefully เป็น adverb",
+    "usefulness เป็นคำนาม",
+    null
+   ]
+  },
+  {
+   "id": "C13-4",
+   "skill": "g.wordform",
+   "difficulty": 3,
+   "stem": "(4) Krit worked ___ for six months in his family's garage.",
+   "options": [
+    "hard",
+    "hardly",
+    "hardness",
+    "harden"
+   ],
+   "answer": 0,
+   "explanation_th": "worked hard = ทำงานหนัก (hard เป็น adverb ได้เลย)",
+   "why_wrong": [
+    null,
+    "hardly = แทบจะไม่ ความหมายกลับ",
+    "hardness เป็นคำนาม",
+    "harden เป็นกริยา"
+   ]
+  },
+  {
+   "id": "C13-5",
+   "skill": "g.wordform",
+   "difficulty": 2,
+   "stem": "(5) His first designs were not ___, but he did not give up.",
+   "options": [
+    "success",
+    "successful",
+    "successfully",
+    "succeed"
+   ],
+   "answer": 1,
+   "explanation_th": "หลัง were not ต้องเป็น adjective → successful",
+   "why_wrong": [
+    "success เป็นคำนาม",
+    null,
+    "successfully เป็น adverb",
+    "succeed เป็นกริยา"
+   ]
+  },
+  {
+   "id": "C13-6",
+   "skill": "g.wordform",
+   "difficulty": 2,
+   "stem": "(6) Scientists from a local university were ___ by the results and helped him test it ….",
+   "options": [
+    "impressive",
+    "impression",
+    "impressed",
+    "impress"
+   ],
+   "answer": 2,
+   "explanation_th": "นักวิทยาศาสตร์ (คน) รู้สึกประทับใจ + by → impressed",
+   "why_wrong": [
+    "impressive = น่าประทับใจ ใช้บรรยายสิ่ง",
+    "impression เป็นคำนาม",
+    null,
+    "impress เป็นกริยา"
+   ]
+  },
+  {
+   "id": "C13-7",
+   "skill": "g.wordform",
+   "difficulty": 2,
+   "stem": "(7) Scientists from a local university were … by the results and helped him test it ___.",
+   "options": [
+    "proper",
+    "property",
+    "propriety",
+    "properly"
+   ],
+   "answer": 3,
+   "explanation_th": "ขยายกริยา test → properly",
+   "why_wrong": [
+    "proper เป็น adjective",
+    "property = ทรัพย์สิน",
+    "propriety เป็นคำนาม",
+    null
+   ]
+  },
+  {
+   "id": "C13-8",
+   "skill": "g.wordform",
+   "difficulty": 2,
+   "stem": "(8) The filter costs only 50 baht to make, and its low price makes it ___ for poor families.",
+   "options": [
+    "affordable",
+    "afford",
+    "affordably",
+    "affordability"
+   ],
+   "answer": 0,
+   "explanation_th": "make + กรรม + adjective → affordable",
+   "why_wrong": [
+    null,
+    "afford เป็นกริยา",
+    "affordably เป็น adverb",
+    "affordability เป็นคำนาม"
+   ]
+  },
+  {
+   "id": "C13-9",
+   "skill": "g.wordform",
+   "difficulty": 2,
+   "stem": "(9) \"His ___ shows that age is not important,\"",
+   "options": [
+    "creative",
+    "creativity",
+    "creatively",
+    "create"
+   ],
+   "answer": 1,
+   "explanation_th": "หลัง His ต้องเป็นคำนาม → creativity",
+   "why_wrong": [
+    "creative เป็น adjective",
+    null,
+    "creatively เป็น adverb",
+    "create เป็นกริยา"
+   ]
+  },
+  {
+   "id": "C13-10",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(10) Krit now dreams of ___ engineering at university.",
+   "options": [
+    "study",
+    "studied",
+    "studying",
+    "to study"
+   ],
+   "answer": 2,
+   "explanation_th": "หลังบุพบท of ต้องเป็น V-ing → dreams of studying",
+   "why_wrong": [
+    "หลังบุพบทใช้ V1 ไม่ได้",
+    "studied เป็นอดีต",
+    null,
+    "หลัง of ไม่ใช้ to V"
+   ]
+  }
+ ]
+}

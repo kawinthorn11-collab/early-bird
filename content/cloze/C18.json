@@ -1,0 +1,209 @@
+{
+ "id": "C18",
+ "title": "Rockets in the Rain",
+ "genre": "ข่าว",
+ "level": "B1",
+ "text": "(1) to the local tourism office, more than 20,000 visitors came to the Rocket Festival in Yasothon last weekend. (2) the bad weather, the festival was a great success. It was (3) a colorful event that many tourists stayed for all three days. Visitors enjoyed the music and dancing (4) the famous rocket competition.\n\"(5) I am concerned, this is the best festival in Thailand,\" said one visitor from Bangkok. The organizers built a new car park (6) to reduce traffic in the town. (7) the other hand, some residents complained about the noise. \"We do not mind the festival (8) it ends before midnight,\" said one shop owner. The mayor promised to meet residents (9) soon as the festival was over. He said the town would rather (10) the festival bigger than lose its visitors.",
+ "items": [
+  {
+   "id": "C18-1",
+   "skill": "g.fixed",
+   "difficulty": 1,
+   "stem": "(1) ___ to the local tourism office, more than 20,000 visitors came to the Rocket Festival in Yasothon last weekend.",
+   "options": [
+    "Because",
+    "According",
+    "Instead",
+    "Spite"
+   ],
+   "answer": 1,
+   "explanation_th": "According to = ตามที่ (แหล่งข้อมูล) ระบุ",
+   "why_wrong": [
+    "Because to ผิดรูป",
+    null,
+    "Instead to ผิดรูป",
+    "Spite to ผิดรูป"
+   ]
+  },
+  {
+   "id": "C18-2",
+   "skill": "g.fixed",
+   "difficulty": 1,
+   "stem": "(2) ___ the bad weather, the festival was a great success.",
+   "options": [
+    "Because of",
+    "Instead of",
+    "In spite of",
+    "In case of"
+   ],
+   "answer": 2,
+   "explanation_th": "อากาศแย่แต่สำเร็จ = ทั้งที่ → In spite of",
+   "why_wrong": [
+    "Because of ความหมายกลับ",
+    "Instead of ความหมายผิด",
+    null,
+    "In case of ความหมายผิด"
+   ]
+  },
+  {
+   "id": "C18-3",
+   "skill": "g.fixed",
+   "difficulty": 1,
+   "stem": "(3) It was ___ a colorful event that many tourists stayed for all three days.",
+   "options": [
+    "so",
+    "too",
+    "very",
+    "such"
+   ],
+   "answer": 3,
+   "explanation_th": "such + a + adj + N + that",
+   "why_wrong": [
+    "so ใช้กับ adj ไม่มีคำนาม",
+    "too ไม่ใช้กับ that",
+    "very ไม่ใช้กับ that",
+    null
+   ]
+  },
+  {
+   "id": "C18-4",
+   "skill": "g.fixed",
+   "difficulty": 2,
+   "stem": "(4) Visitors enjoyed the music and dancing ___ the famous rocket competition.",
+   "options": [
+    "as well as",
+    "as long as",
+    "as far as",
+    "as soon as"
+   ],
+   "answer": 0,
+   "explanation_th": "as well as = รวมถึง",
+   "why_wrong": [
+    null,
+    "as long as ความหมายผิด",
+    "as far as ความหมายผิด",
+    "as soon as ความหมายผิด"
+   ]
+  },
+  {
+   "id": "C18-5",
+   "skill": "g.fixed",
+   "difficulty": 2,
+   "stem": "(5) \"___ I am concerned, this is the best festival in Thailand,\"",
+   "options": [
+    "As long as",
+    "As far as",
+    "As well as",
+    "As soon as"
+   ],
+   "answer": 1,
+   "explanation_th": "As far as I am concerned = สำหรับฉันแล้ว",
+   "why_wrong": [
+    "As long as ความหมายผิด",
+    null,
+    "As well as ความหมายผิด",
+    "As soon as ความหมายผิด"
+   ]
+  },
+  {
+   "id": "C18-6",
+   "skill": "g.fixed",
+   "difficulty": 2,
+   "stem": "(6) The organizers built a new car park ___ to reduce traffic in the town.",
+   "options": [
+    "so that",
+    "because",
+    "in order",
+    "such"
+   ],
+   "answer": 2,
+   "explanation_th": "in order to + V1 = เพื่อที่จะ",
+   "why_wrong": [
+    "so that ต้องตามด้วยประโยค",
+    "because to ผิด",
+    null,
+    "such to ผิด"
+   ]
+  },
+  {
+   "id": "C18-7",
+   "skill": "g.fixed",
+   "difficulty": 1,
+   "stem": "(7) ___ the other hand, some residents complained about the noise.",
+   "options": [
+    "In",
+    "At",
+    "By",
+    "On"
+   ],
+   "answer": 3,
+   "explanation_th": "On the other hand = ในทางกลับกัน",
+   "why_wrong": [
+    "In the other hand ผิด",
+    "At the other hand ผิด",
+    "By the other hand ผิด",
+    null
+   ]
+  },
+  {
+   "id": "C18-8",
+   "skill": "g.fixed",
+   "difficulty": 2,
+   "stem": "(8) \"We do not mind the festival ___ it ends before midnight,\"",
+   "options": [
+    "as long as",
+    "as far as",
+    "as well as",
+    "as soon as"
+   ],
+   "answer": 0,
+   "explanation_th": "ไม่ว่า ตราบใดที่เลิกก่อนเที่ยงคืน → as long as",
+   "why_wrong": [
+    null,
+    "as far as ความหมายผิด",
+    "as well as ความหมายผิด",
+    "as soon as ความหมายผิด"
+   ]
+  },
+  {
+   "id": "C18-9",
+   "skill": "g.fixed",
+   "difficulty": 1,
+   "stem": "(9) The mayor promised to meet residents ___ soon as the festival was over.",
+   "options": [
+    "so",
+    "as",
+    "such",
+    "too"
+   ],
+   "answer": 1,
+   "explanation_th": "as soon as = ทันทีที่",
+   "why_wrong": [
+    "so soon as ไม่ใช่รูปมาตรฐาน",
+    null,
+    "such soon ผิด",
+    "too soon as ผิด"
+   ]
+  },
+  {
+   "id": "C18-10",
+   "skill": "g.fixed",
+   "difficulty": 2,
+   "stem": "(10) He said the town would rather ___ the festival bigger than lose its visitors.",
+   "options": [
+    "to make",
+    "making",
+    "make",
+    "made"
+   ],
+   "answer": 2,
+   "explanation_th": "would rather + V1 → \"make\"",
+   "why_wrong": [
+    "would rather ไม่ตามด้วย to",
+    "ไม่ตามด้วย V-ing",
+    null,
+    "made ผิด"
+   ]
+  }
+ ]
+}

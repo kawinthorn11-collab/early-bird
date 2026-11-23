@@ -1,0 +1,689 @@
+{
+ "id": "L13",
+ "phase": 2,
+ "skill": "g.wordform",
+ "title_th": "รูปคำ: นาม / คุณศัพท์ / กริยาวิเศษณ์",
+ "title_en": "Word forms: noun, adjective, adverb, gerund",
+ "villain": "morphy",
+ "hook": {
+  "beats": [
+   {
+    "say": "ปิ๊ปเห็นคุณยายร้องเพลง เพราะมาก",
+    "anim": "enter",
+    "board": "She sings ___."
+   },
+   {
+    "say": "ข้าคือมอร์ฟี่ ร่างแปลง! ข้ามีให้เลือก beauty beautiful beautifully",
+    "actor": "villain",
+    "anim": "shake",
+    "board": "beauty? beautiful? beautifully?"
+   },
+   {
+    "say": "รากคำเดียวกัน แต่ต่างหน้าที่ ดูว่าช่องนี้ขยายอะไร",
+    "anim": "think",
+    "board": "sings ___ = ร้องอย่างไร"
+   },
+   {
+    "say": "ขยายกริยาใช้ adverb ส่วนใหญ่ลงท้าย ly ขยายคำนามใช้ adjective",
+    "anim": "jump",
+    "board": "She sings beautifully. · a beautiful song"
+   },
+   {
+    "say": "หลัง a the my his ต้องเป็นคำนาม และกริยาที่เป็นประธานใช้ ing",
+    "anim": "zap",
+    "board": "her beauty · Swimming is fun."
+   },
+   {
+    "say": "ร่างข้าแตก! ไม่มีร่างไหนหลอกได้แล้ว",
+    "actor": "villain",
+    "anim": "swap"
+   }
+  ]
+ },
+ "discover": {
+  "examples": [
+   "She is a **careful** driver.",
+   "She drives **carefully**.",
+   "Thank you for your **care**.",
+   "The film was **boring**, so I was **bored**."
+  ],
+  "question_th": "careful กับ carefully ต่างกันอย่างไร?",
+  "options_th": [
+   "careful ขยายคำนาม (driver) / carefully ขยายกริยา (drives)",
+   "careful ใช้กับอดีต",
+   "carefully เป็นคำนาม",
+   "ใช้แทนกันได้"
+  ],
+  "answer": 0,
+  "reveal_th": "หน้าคำนาม/หลัง be, feel, look → adjective · ขยายกริยาหรือ adjective → adverb (-ly) · หลัง a/the/my/his หรือเป็นประธาน → noun / V-ing · -ing = ทำให้รู้สึก (boring) · -ed = คนที่รู้สึก (bored)"
+ },
+ "rule": {
+  "line_th": "ดูตำแหน่ง: หน้านาม/หลัง be → adj · ขยายกริยา/adj → adv (-ly) · หลัง a/the/his หรือเป็นประธาน → noun/V-ing · -ing ทำให้รู้สึก, -ed คนรู้สึก",
+  "memory_th": "🧬 รากเดียว ร่างต่าง: ทายตำแหน่งก่อน แล้วค่อยเลือกหางคำ -ness/-tion/-ment = นาม · -ful/-ous/-ive/-al = คุณศัพท์ · -ly = กริยาวิเศษณ์",
+  "terms": [
+   [
+    "noun",
+    "คำนาม"
+   ],
+   [
+    "adjective",
+    "คำคุณศัพท์"
+   ],
+   [
+    "adverb",
+    "คำกริยาวิเศษณ์"
+   ],
+   [
+    "suffix",
+    "หางคำ"
+   ],
+   [
+    "gerund",
+    "V-ing ที่เป็นคำนาม"
+   ]
+  ]
+ },
+ "speak": [
+  "She is a careful driver. She drives carefully.",
+  "Swimming is good for your health.",
+  "The film was boring, so I was bored."
+ ],
+ "twists": [
+  {
+   "id": "L13-t1",
+   "skill": "g.wordform",
+   "type": "error",
+   "parts": [
+    "The movie",
+    "was so",
+    "bored",
+    "that I fell asleep."
+   ],
+   "answer": 2,
+   "explanation_th": "หนังทำให้เบื่อ ใช้ boring (bored ใช้กับคน)",
+   "why_wrong": [
+    "ถูกแล้ว",
+    "ถูกแล้ว",
+    null,
+    "ถูกแล้ว"
+   ]
+  },
+  {
+   "id": "L13-t2",
+   "skill": "g.wordform",
+   "type": "fill",
+   "stem": "Thank you for your ___. (kind)",
+   "accept": [
+    "kindness"
+   ],
+   "hint_th": "หลัง your ต้องเป็นคำนาม",
+   "explanation_th": "kind → kindness (คำนาม)"
+  },
+  {
+   "id": "L13-t3",
+   "skill": "g.wordform",
+   "type": "order",
+   "words": [
+    "He",
+    "answered",
+    "every",
+    "question",
+    "correctly."
+   ],
+   "explanation_th": "correctly (adverb) ขยายกริยา answered"
+  },
+  {
+   "id": "L13-t4",
+   "skill": "g.wordform",
+   "type": "match",
+   "prompt_th": "จับคู่หางคำกับชนิดคำ",
+   "pairs": [
+    [
+     "happiness",
+     "noun"
+    ],
+    [
+     "happy",
+     "adjective"
+    ],
+    [
+     "happily",
+     "adverb"
+    ],
+    [
+     "to make happy",
+     "verb phrase"
+    ]
+   ],
+   "explanation_th": "-ness นาม · ไม่มีหาง/ -y คุณศัพท์ · -ly กริยาวิเศษณ์"
+  }
+ ],
+ "questions": [
+  {
+   "id": "L13-01",
+   "skill": "g.wordform",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "My grandmother sings ___.",
+   "options": [
+    "beautiful",
+    "beautifully",
+    "beauty",
+    "beautify"
+   ],
+   "answer": 1,
+   "explanation_th": "ขยายกริยา sings → adverb beautifully",
+   "why_wrong": [
+    "beautiful เป็น adjective ขยายคำนาม",
+    null,
+    "beauty เป็นคำนาม",
+    "beautify เป็นกริยา"
+   ]
+  },
+  {
+   "id": "L13-02",
+   "skill": "g.wordform",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "He is a very ___ driver.",
+   "options": [
+    "carefully",
+    "care",
+    "careful",
+    "carefulness"
+   ],
+   "answer": 2,
+   "explanation_th": "ขยายคำนาม driver → adjective careful",
+   "why_wrong": [
+    "carefully เป็น adverb",
+    "care เป็นคำนาม/กริยา",
+    null,
+    "carefulness เป็นคำนาม"
+   ]
+  },
+  {
+   "id": "L13-03",
+   "skill": "g.wordform",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "Thank you for your ___.",
+   "options": [
+    "kind",
+    "kindly",
+    "kinder",
+    "kindness"
+   ],
+   "answer": 3,
+   "explanation_th": "หลัง your ต้องเป็นคำนาม → kindness",
+   "why_wrong": [
+    "kind เป็น adjective (ในความหมายใจดี)",
+    "kindly เป็น adverb",
+    "kinder เป็นคุณศัพท์ขั้นกว่า",
+    null
+   ]
+  },
+  {
+   "id": "L13-04",
+   "skill": "g.wordform",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "The documentary about space was really ___.",
+   "options": [
+    "interesting",
+    "interested",
+    "interest",
+    "interestingly"
+   ],
+   "answer": 0,
+   "explanation_th": "สารคดีทำให้รู้สึกสนใจ → interesting",
+   "why_wrong": [
+    null,
+    "interested ใช้กับคนที่รู้สึก",
+    "interest เป็นคำนาม/กริยา",
+    "interestingly เป็น adverb"
+   ]
+  },
+  {
+   "id": "L13-05",
+   "skill": "g.wordform",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "I am very ___ in learning about space.",
+   "options": [
+    "interesting",
+    "interested",
+    "interest",
+    "interestingly"
+   ],
+   "answer": 1,
+   "explanation_th": "คนที่รู้สึกสนใจ + in → interested",
+   "why_wrong": [
+    "interesting = น่าสนใจ (ใช้บรรยายสิ่ง)",
+    null,
+    "interest เป็นคำนาม",
+    "interestingly เป็น adverb"
+   ]
+  },
+  {
+   "id": "L13-06",
+   "skill": "g.wordform",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "___ is good for your health.",
+   "options": [
+    "Swim",
+    "Swam",
+    "Swimming",
+    "Swims"
+   ],
+   "answer": 2,
+   "explanation_th": "ประธานที่เป็นกิจกรรม → V-ing Swimming",
+   "why_wrong": [
+    "Swim เป็นกริยา ทำหน้าที่ประธานแบบนี้ไม่ได้",
+    "Swam เป็นอดีต",
+    null,
+    "Swims เป็นกริยาเอกพจน์"
+   ]
+  },
+  {
+   "id": "L13-07",
+   "skill": "g.wordform",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "His ___ to help us was a big surprise.",
+   "options": [
+    "refuse",
+    "refused",
+    "refuses",
+    "refusal"
+   ],
+   "answer": 3,
+   "explanation_th": "หลัง His ต้องเป็นคำนาม → refusal",
+   "why_wrong": [
+    "refuse เป็นกริยา",
+    "refused เป็นกริยาช่อง 2",
+    "refuses เป็นกริยา",
+    null
+   ]
+  },
+  {
+   "id": "L13-08",
+   "skill": "g.wordform",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "The test was ___ difficult, so many students failed.",
+   "options": [
+    "surprisingly",
+    "surprising",
+    "surprise",
+    "surprised"
+   ],
+   "answer": 0,
+   "explanation_th": "ขยาย adjective (difficult) → adverb surprisingly",
+   "why_wrong": [
+    null,
+    "surprising เป็น adjective ขยาย adjective ไม่ได้",
+    "surprise เป็นคำนาม/กริยา",
+    "surprised เป็น adjective"
+   ]
+  },
+  {
+   "id": "L13-09",
+   "skill": "g.wordform",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "We need to find a ___ to this problem.",
+   "options": [
+    "solve",
+    "solution",
+    "solved",
+    "solvable"
+   ],
+   "answer": 1,
+   "explanation_th": "หลัง a ต้องเป็นคำนาม → solution",
+   "why_wrong": [
+    "solve เป็นกริยา",
+    null,
+    "solved เป็นกริยาช่อง 2/3",
+    "solvable เป็น adjective"
+   ]
+  },
+  {
+   "id": "L13-10",
+   "skill": "g.wordform",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "She felt completely ___ after the long trip.",
+   "options": [
+    "exhausting",
+    "exhaust",
+    "exhausted",
+    "exhaustion"
+   ],
+   "answer": 2,
+   "explanation_th": "คนที่รู้สึกเหนื่อย หลัง felt → exhausted",
+   "why_wrong": [
+    "exhausting = ทำให้เหนื่อย (ใช้บรรยายสิ่ง)",
+    "exhaust เป็นกริยา/คำนาม",
+    null,
+    "exhaustion เป็นคำนาม"
+   ]
+  },
+  {
+   "id": "L13-11",
+   "skill": "g.wordform",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "He answered every question ___.",
+   "options": [
+    "correct",
+    "correction",
+    "correctness",
+    "correctly"
+   ],
+   "answer": 3,
+   "explanation_th": "ขยายกริยา answered → correctly",
+   "why_wrong": [
+    "correct เป็น adjective",
+    "correction เป็นคำนาม",
+    "correctness เป็นคำนาม",
+    null
+   ]
+  },
+  {
+   "id": "L13-12",
+   "skill": "g.wordform",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "Pollution from factories is very ___ to fish.",
+   "options": [
+    "harmful",
+    "harmless",
+    "harm",
+    "harmfully"
+   ],
+   "answer": 0,
+   "explanation_th": "หลัง is ต้องเป็น adjective และความหมาย \"เป็นอันตราย\" → harmful",
+   "why_wrong": [
+    null,
+    "harmless = ไม่มีอันตราย ความหมายกลับ",
+    "harm เป็นคำนาม/กริยา",
+    "harmfully เป็น adverb"
+   ]
+  },
+  {
+   "id": "L13-13",
+   "skill": "g.wordform",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "The ___ of the new library was a big event for our town.",
+   "options": [
+    "open",
+    "opening",
+    "opened",
+    "opens"
+   ],
+   "answer": 1,
+   "explanation_th": "หลัง The ต้องเป็นคำนาม \"การเปิด\" → opening",
+   "why_wrong": [
+    "open เป็นกริยา/คุณศัพท์",
+    null,
+    "opened เป็นกริยา",
+    "opens เป็นกริยา"
+   ]
+  },
+  {
+   "id": "L13-14",
+   "skill": "g.wordform",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "She is very ___ about her future. She believes everything will be fine.",
+   "options": [
+    "optimism",
+    "optimist",
+    "optimistic",
+    "optimistically"
+   ],
+   "answer": 2,
+   "explanation_th": "หลัง very (ขยาย adjective) และหลัง is → optimistic",
+   "why_wrong": [
+    "optimism เป็นคำนาม",
+    "optimist เป็นคำนาม (คนมองโลกแง่ดี)",
+    null,
+    "optimistically เป็น adverb"
+   ]
+  },
+  {
+   "id": "L13-15",
+   "skill": "g.wordform",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "Please speak more ___. I cannot hear you.",
+   "options": [
+    "clear",
+    "clarity",
+    "clearness",
+    "clearly"
+   ],
+   "answer": 3,
+   "explanation_th": "ขยายกริยา speak → clearly",
+   "why_wrong": [
+    "clear เป็น adjective",
+    "clarity เป็นคำนาม",
+    "clearness เป็นคำนาม",
+    null
+   ]
+  },
+  {
+   "id": "L13-16",
+   "skill": "g.wordform",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "The children were very noisy in the library. The librarian asked them ___ to be quiet.",
+   "options": [
+    "politely",
+    "polite",
+    "politeness",
+    "more polite"
+   ],
+   "answer": 0,
+   "explanation_th": "ขยายกริยา asked → politely",
+   "why_wrong": [
+    null,
+    "polite เป็น adjective",
+    "politeness เป็นคำนาม",
+    "more polite เป็น adjective"
+   ]
+  },
+  {
+   "id": "L13-17",
+   "skill": "g.wordform",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Mai failed the test twice, but she never gave up. Her ___ finally paid off when she passed with 90%.",
+   "options": [
+    "determine",
+    "determination",
+    "determined",
+    "determining"
+   ],
+   "answer": 1,
+   "explanation_th": "หลัง Her ต้องเป็นคำนาม → determination",
+   "why_wrong": [
+    "determine เป็นกริยา",
+    null,
+    "determined เป็น adjective",
+    "determining เป็น V-ing ที่ไม่ใช่คำนามของความมุ่งมั่น"
+   ]
+  },
+  {
+   "id": "L13-18",
+   "skill": "g.wordform",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Our school has strict rules. Cheating in an exam is ___ behavior, and students who cheat will fail.",
+   "options": [
+    "unacceptably",
+    "acceptance",
+    "unacceptable",
+    "accept"
+   ],
+   "answer": 2,
+   "explanation_th": "ขยายคำนาม behavior → adjective unacceptable",
+   "why_wrong": [
+    "unacceptably เป็น adverb",
+    "acceptance เป็นคำนาม",
+    null,
+    "accept เป็นกริยา"
+   ]
+  },
+  {
+   "id": "L13-19",
+   "skill": "g.wordform",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "The guide at the temple explained its long history very ___, so even the children understood.",
+   "options": [
+    "simple",
+    "simplicity",
+    "simplify",
+    "simply"
+   ],
+   "answer": 3,
+   "explanation_th": "ขยายกริยา explained → simply",
+   "why_wrong": [
+    "simple เป็น adjective",
+    "simplicity เป็นคำนาม",
+    "simplify เป็นกริยา",
+    null
+   ]
+  },
+  {
+   "id": "L13-20",
+   "skill": "g.wordform",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "___ a new language takes time and patience. Do not expect to be perfect in a month.",
+   "options": [
+    "Learning",
+    "Learn",
+    "Learned",
+    "Learns"
+   ],
+   "answer": 0,
+   "explanation_th": "ประธานที่เป็นกิจกรรม → Learning",
+   "why_wrong": [
+    null,
+    "Learn เป็นกริยา ทำหน้าที่ประธานแบบนี้ไม่ได้",
+    "Learned เป็นอดีต",
+    "Learns เป็นกริยา"
+   ]
+  },
+  {
+   "id": "L13-21",
+   "skill": "g.wordform",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Last night a strong storm hit the coast. It caused ___ damage to many houses in the village.",
+   "options": [
+    "seriously",
+    "serious",
+    "seriousness",
+    "series"
+   ],
+   "answer": 1,
+   "explanation_th": "ขยายคำนาม damage → serious",
+   "why_wrong": [
+    "seriously เป็น adverb",
+    null,
+    "seriousness เป็นคำนาม",
+    "series = ชุด/ซีรีส์ ความหมายไม่เกี่ยว"
+   ]
+  },
+  {
+   "id": "L13-22",
+   "skill": "g.wordform",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Many tourists love Thai food, but they find it ___ spicy at first.",
+   "options": [
+    "extreme",
+    "extremity",
+    "extremely",
+    "extremes"
+   ],
+   "answer": 2,
+   "explanation_th": "ขยาย adjective spicy → adverb extremely",
+   "why_wrong": [
+    "extreme เป็น adjective ขยาย adjective ไม่ได้",
+    "extremity เป็นคำนาม",
+    null,
+    "extremes เป็นคำนาม"
+   ]
+  },
+  {
+   "id": "L13-23",
+   "skill": "g.wordform",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "We walked for six hours in the mountains. When we finally reached the camp, we were ___ hungry and tired.",
+   "options": [
+    "terrible",
+    "terror",
+    "terrify",
+    "terribly"
+   ],
+   "answer": 3,
+   "explanation_th": "ขยาย adjective hungry → adverb terribly (มาก ๆ)",
+   "why_wrong": [
+    "terrible เป็น adjective",
+    "terror เป็นคำนาม",
+    "terrify เป็นกริยา",
+    null
+   ]
+  },
+  {
+   "id": "L13-24",
+   "skill": "g.wordform",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "The earthquake happened far away, but its ___ was felt hundreds of kilometers away.",
+   "options": [
+    "strength",
+    "strong",
+    "strongly",
+    "strengthen"
+   ],
+   "answer": 0,
+   "explanation_th": "หลัง its ต้องเป็นคำนาม → strength",
+   "why_wrong": [
+    null,
+    "strong เป็น adjective",
+    "strongly เป็น adverb",
+    "strengthen เป็นกริยา"
+   ]
+  },
+  {
+   "id": "L13-25",
+   "skill": "g.wordform",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Before, people had to take a boat to cross the river. The new bridge has made traveling between the two towns much more ___.",
+   "options": [
+    "convenience",
+    "convenient",
+    "conveniently",
+    "convene"
+   ],
+   "answer": 1,
+   "explanation_th": "make + กรรม + adjective → more convenient",
+   "why_wrong": [
+    "convenience เป็นคำนาม",
+    null,
+    "conveniently เป็น adverb",
+    "convene เป็นกริยา (ประชุม) ความหมายไม่เกี่ยว"
+   ]
+  }
+ ],
+ "cloze": "C13"
+}

@@ -1,0 +1,209 @@
+{
+ "id": "C10",
+ "title": "Advice from a Senior",
+ "genre": "ชีวิตนักเรียน",
+ "level": "B1",
+ "text": "My older cousin, Ton, is now a second-year student at university. Last week he gave me some advice about the entrance exam. \"First, sleep well the night before, (1) you will not be able to focus,\" he said. \"(2) you feel nervous, take three deep breaths.\" He told me not to worry about (3) I knew every answer. \"(4) difficult a question looks, read it twice before you choose.\"\nHe also said I should bring two pencils (5) one breaks. \"And don't spend too long on one question, (6) you won't have time for the reading part.\" I asked him (7) he had been nervous on the day of his exam. He laughed and said, \"Of course! Everyone is. But practice every day, (8) you will feel more confident.\" (9) happens, I know I will do my best. I will remember his words (10) I sit in the exam room.",
+ "items": [
+  {
+   "id": "C10-1",
+   "skill": "g.conj-or",
+   "difficulty": 1,
+   "stem": "(1) \"First, sleep well the night before, ___ you will not be able to focus,\"",
+   "options": [
+    "and",
+    "or",
+    "so",
+    "but"
+   ],
+   "answer": 1,
+   "explanation_th": "ถ้าไม่นอนให้พอ จะไม่มีสมาธิ → or (ไม่อย่างนั้น)",
+   "why_wrong": [
+    "and = นอนดีแล้วจะไม่มีสมาธิ ไม่สมเหตุผล",
+    null,
+    "so ไม่สมเหตุผล",
+    "but ไม่สมเหตุผล"
+   ]
+  },
+  {
+   "id": "C10-2",
+   "skill": "g.conj-or",
+   "difficulty": 1,
+   "stem": "(2) \"___ you feel nervous, take three deep breaths.\"",
+   "options": [
+    "Whatever",
+    "However",
+    "Wherever",
+    "Whenever"
+   ],
+   "answer": 3,
+   "explanation_th": "ทุกครั้งที่รู้สึกตื่นเต้น → Whenever",
+   "why_wrong": [
+    "Whatever = อะไรก็ตาม",
+    "However = แค่ไหนก็ตาม",
+    "Wherever = ที่ไหนก็ตาม",
+    null
+   ]
+  },
+  {
+   "id": "C10-3",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stem": "(3) He told me not to worry about ___ I knew every answer.",
+   "options": [
+    "whether",
+    "what",
+    "which",
+    "unless"
+   ],
+   "answer": 0,
+   "explanation_th": "ไม่ต้องกังวลว่ารู้ทุกข้อหรือไม่ → whether",
+   "why_wrong": [
+    null,
+    "what ต้องมีช่องว่างในประโยคตาม",
+    "which ต้องมีคำนามให้ขยาย",
+    "unless = ถ้าไม่"
+   ]
+  },
+  {
+   "id": "C10-4",
+   "skill": "g.conj-or",
+   "difficulty": 3,
+   "stem": "(4) \"___ difficult a question looks, read it twice before you choose.\"",
+   "options": [
+    "Whatever",
+    "Whenever",
+    "However",
+    "Although"
+   ],
+   "answer": 2,
+   "explanation_th": "However + adj (difficult) = ไม่ว่าจะยากแค่ไหน",
+   "why_wrong": [
+    "Whatever difficult ผิดโครงสร้าง",
+    "Whenever difficult ผิดโครงสร้าง",
+    null,
+    "Although difficult a question looks ผิดลำดับคำ"
+   ]
+  },
+  {
+   "id": "C10-5",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stem": "(5) He also said I should bring two pencils ___ one breaks.",
+   "options": [
+    "so that",
+    "or",
+    "in case",
+    "whether"
+   ],
+   "answer": 2,
+   "explanation_th": "เผื่อว่าดินสอหัก → in case",
+   "why_wrong": [
+    "so that one breaks = เพื่อให้มันหัก ผิดความหมาย",
+    "or one breaks ไม่สมเหตุผล",
+    null,
+    "whether ต้องมี or"
+   ]
+  },
+  {
+   "id": "C10-6",
+   "skill": "g.conj-or",
+   "difficulty": 1,
+   "stem": "(6) \"And don't spend too long on one question, ___ you won't have time for the reading part.\"",
+   "options": [
+    "so",
+    "or",
+    "and",
+    "unless"
+   ],
+   "answer": 1,
+   "explanation_th": "ถ้าใช้เวลานานเกิน จะไม่มีเวลาทำพาร์ทอ่าน → or",
+   "why_wrong": [
+    "so ไม่สมเหตุผล",
+    null,
+    "and = อย่าใช้เวลานาน แล้วจะไม่มีเวลา ไม่สมเหตุผล",
+    "unless ไม่สมเหตุผล"
+   ]
+  },
+  {
+   "id": "C10-7",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stem": "(7) I asked him ___ he had been nervous on the day of his exam.",
+   "options": [
+    "what",
+    "that",
+    "unless",
+    "whether"
+   ],
+   "answer": 3,
+   "explanation_th": "ถามว่า (yes/no) เขาตื่นเต้นหรือไม่ → whether",
+   "why_wrong": [
+    "what ต้องมีช่องว่างในประโยคตาม",
+    "asked him that ใช้กับคำถามไม่ได้",
+    "unless = ถ้าไม่",
+    null
+   ]
+  },
+  {
+   "id": "C10-8",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stem": "(8) But practice every day, ___ you will feel more confident.\"",
+   "options": [
+    "and",
+    "or",
+    "but",
+    "unless"
+   ],
+   "answer": 0,
+   "explanation_th": "ฝึกทุกวัน แล้วจะมั่นใจขึ้น (ผลดี) → and",
+   "why_wrong": [
+    null,
+    "or = ถ้าไม่ฝึกจะมั่นใจ ไม่สมเหตุผล",
+    "but ไม่สมเหตุผล",
+    "unless ไม่สมเหตุผล"
+   ]
+  },
+  {
+   "id": "C10-9",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stem": "(9) ___ happens, I know I will do my best.",
+   "options": [
+    "Whenever",
+    "Whatever",
+    "However",
+    "Wherever"
+   ],
+   "answer": 1,
+   "explanation_th": "ไม่ว่าอะไรจะเกิดขึ้น → Whatever happens",
+   "why_wrong": [
+    "Whenever happens ขาดประธาน",
+    null,
+    "However happens ผิด",
+    "Wherever happens ขาดประธาน"
+   ]
+  },
+  {
+   "id": "C10-10",
+   "skill": "g.conj-or",
+   "difficulty": 1,
+   "stem": "(10) I will remember his words ___ I sit in the exam room.",
+   "options": [
+    "whether",
+    "what",
+    "when",
+    "whatever"
+   ],
+   "answer": 2,
+   "explanation_th": "ตอนที่นั่งในห้องสอบ → when",
+   "why_wrong": [
+    "whether = หรือไม่",
+    "what ไม่ใช้เชื่อมเวลา",
+    null,
+    "whatever = อะไรก็ตาม"
+   ]
+  }
+ ]
+}

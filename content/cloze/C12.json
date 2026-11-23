@@ -1,0 +1,209 @@
+{
+ "id": "C12",
+ "title": "The Floating Library",
+ "genre": "ข่าว",
+ "level": "B1",
+ "text": "A boat library (1) by a group of volunteers in Ayutthaya last year. The boat, which (2) from an old rice barge, now visits riverside villages twice a month. On each visit, more than 300 books (3) by children and their parents.\nThe project (4) by a local bookshop owner, Khun Dao, who grew up by the river. Most of the books (5) by people from Bangkok. Last month, the library (6) a national award for community service. However, the volunteers say the boat (7) repairs soon, as its engine is very old. Money (8) online right now to pay for a new engine. If enough money (9) by June, the boat will visit ten more villages. \"Every child should (10) the chance to read,\" said Khun Dao.",
+ "items": [
+  {
+   "id": "C12-1",
+   "skill": "g.passive",
+   "difficulty": 1,
+   "stem": "(1) A boat library ___ by a group of volunteers in Ayutthaya last year.",
+   "options": [
+    "started",
+    "was started",
+    "has started",
+    "is starting"
+   ],
+   "answer": 1,
+   "explanation_th": "ห้องสมุดเรือถูกเริ่มโดยอาสาสมัคร (last year) → was started",
+   "why_wrong": [
+    "started by ใช้เป็นกริยาแท้ไม่ได้ (ห้องสมุดไม่ได้เริ่มเอง)",
+    null,
+    "has started ไม่ใช้กับ last year",
+    "is starting ผิดเวลาและความหมาย"
+   ]
+  },
+  {
+   "id": "C12-2",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stem": "(2) The boat, which ___ from an old rice barge, now visits riverside villages twice a month.",
+   "options": [
+    "made",
+    "has made",
+    "was made",
+    "makes"
+   ],
+   "answer": 2,
+   "explanation_th": "เรือถูกทำจากเรือข้าวเก่า → was made",
+   "why_wrong": [
+    "made = เรือทำ (active) ผิด",
+    "has made = เรือทำ ผิด",
+    null,
+    "makes = เรือทำ ผิด"
+   ]
+  },
+  {
+   "id": "C12-3",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stem": "(3) On each visit, more than 300 books ___ by children and their parents.",
+   "options": [
+    "borrow",
+    "are borrowing",
+    "borrowed",
+    "are borrowed"
+   ],
+   "answer": 3,
+   "explanation_th": "หนังสือถูกยืมโดยเด็ก (ทุกครั้งที่ไป) → are borrowed",
+   "why_wrong": [
+    "books borrow = หนังสือยืม ผิด",
+    "are borrowing = หนังสือกำลังยืม ผิด",
+    "borrowed by … ขาด are",
+    null
+   ]
+  },
+  {
+   "id": "C12-4",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stem": "(4) The project ___ by a local bookshop owner, Khun Dao, who grew up by the river.",
+   "options": [
+    "was founded",
+    "founded",
+    "has founded",
+    "founds"
+   ],
+   "answer": 0,
+   "explanation_th": "โครงการถูกก่อตั้งโดย… → was founded",
+   "why_wrong": [
+    null,
+    "founded by ใช้เป็นกริยาแท้ไม่ได้ ต้องมี was",
+    "has founded = โครงการก่อตั้ง ผิด",
+    "founds ผิด"
+   ]
+  },
+  {
+   "id": "C12-5",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stem": "(5) Most of the books ___ by people from Bangkok.",
+   "options": [
+    "donated",
+    "were donated",
+    "donate",
+    "have donated"
+   ],
+   "answer": 1,
+   "explanation_th": "หนังสือถูกบริจาคโดยคนกรุงเทพ → were donated",
+   "why_wrong": [
+    "donated by ขาด were",
+    null,
+    "donate = หนังสือบริจาค ผิด",
+    "have donated = หนังสือบริจาค ผิด"
+   ]
+  },
+  {
+   "id": "C12-6",
+   "skill": "g.passive",
+   "difficulty": 3,
+   "stem": "(6) Last month, the library ___ a national award for community service.",
+   "options": [
+    "was won",
+    "has been won",
+    "won",
+    "wins"
+   ],
+   "answer": 2,
+   "explanation_th": "ห้องสมุดเป็นผู้ชนะรางวัล (active) + Last month → won",
+   "why_wrong": [
+    "was won = ห้องสมุดถูกชนะ ผิดความหมาย",
+    "has been won ผิดความหมาย",
+    null,
+    "wins เป็นปัจจุบัน"
+   ]
+  },
+  {
+   "id": "C12-7",
+   "skill": "g.passive",
+   "difficulty": 3,
+   "stem": "(7) However, the volunteers say the boat ___ repairs soon, as its engine is very old.",
+   "options": [
+    "is needed",
+    "needed",
+    "is needing",
+    "needs"
+   ],
+   "answer": 3,
+   "explanation_th": "เรือต้องการการซ่อม (active: the boat needs repairs)",
+   "why_wrong": [
+    "is needed = เรือถูกต้องการ ผิดความหมาย",
+    "needed เป็นอดีต ขัดกับ soon",
+    "need ไม่ใช้รูป -ing",
+    null
+   ]
+  },
+  {
+   "id": "C12-8",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stem": "(8) Money ___ online right now to pay for a new engine.",
+   "options": [
+    "is being raised",
+    "is raising",
+    "raises",
+    "raised"
+   ],
+   "answer": 0,
+   "explanation_th": "เงินกำลังถูกระดมทุน (right now) → is being raised",
+   "why_wrong": [
+    null,
+    "is raising = เงินกำลังระดมทุน ผิด",
+    "raises ผิด",
+    "raised ผิดเวลา"
+   ]
+  },
+  {
+   "id": "C12-9",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stem": "(9) If enough money ___ by June, the boat will visit ten more villages.",
+   "options": [
+    "collects",
+    "is collected",
+    "will collect",
+    "collected"
+   ],
+   "answer": 1,
+   "explanation_th": "If แบบที่ 1 + เงินถูกเก็บ → is collected",
+   "why_wrong": [
+    "collects = เงินเก็บ ผิด",
+    null,
+    "หลัง if ไม่ใช้ will",
+    "collected เป็นอดีต/ผิดรูป"
+   ]
+  },
+  {
+   "id": "C12-10",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stem": "(10) \"Every child should ___ the chance to read,\"",
+   "options": [
+    "give",
+    "given",
+    "be given",
+    "giving"
+   ],
+   "answer": 2,
+   "explanation_th": "should + be + V3 (ควรได้รับ) → be given",
+   "why_wrong": [
+    "should give = เด็กควรให้ ผิดความหมาย",
+    "should given ผิดรูป",
+    null,
+    "should giving ผิดรูป"
+   ]
+  }
+ ]
+}

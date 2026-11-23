@@ -1,0 +1,748 @@
+{
+ "id": "L24",
+ "phase": 1,
+ "skill": "g.quantifier",
+ "title_th": "มากหรือน้อย นับได้ไหม? (much / many / few / little)",
+ "title_en": "Quantifiers",
+ "villain": "arti",
+ "hook": {
+  "beats": [
+   {
+    "say": "ปิ๊ปจะทำเค้กกับแม่ แต่สูตรอ่านไม่ออก คำบอกปริมาณหายไปหมด",
+    "anim": "enter",
+    "board": "How ___ eggs? How ___ flour?"
+   },
+   {
+    "say": "ข้าคืออาร์ติ กลับมาแล้ว! คราวนี้ข้าสลับ much กับ many ให้มั่วไปเลย!",
+    "actor": "villain",
+    "anim": "shake",
+    "board": "How much eggs?? How many flour??"
+   },
+   {
+    "say": "ไข่นับได้เป็นฟอง ๆ ใช้ many และ a few",
+    "anim": "think",
+    "board": "How many eggs? · a few eggs"
+   },
+   {
+    "say": "แป้งนับเป็นชิ้นไม่ได้ ใช้ much และ a little",
+    "anim": "jump",
+    "board": "How much flour? · a little flour"
+   },
+   {
+    "say": "มี a = มีอยู่บ้าง พอใช้ ไม่มี a = น้อยจนแทบไม่มี",
+    "anim": "zap",
+    "board": "a few friends 🙂 · few friends 🙁"
+   },
+   {
+    "say": "เค้กอบเสร็จแล้ว หอมจัง ข้าขอชิ้นหนึ่งได้ไหม แง!",
+    "actor": "villain",
+    "anim": "swap"
+   }
+  ]
+ },
+ "discover": {
+  "examples": [
+   "How **many** eggs do we need?",
+   "How **much** flour do we need?",
+   "I have **a few** friends in Phuket.",
+   "There is **a little** milk in the glass."
+  ],
+  "question_th": "ทำไมไข่ใช้ many แต่แป้งใช้ much?",
+  "options_th": [
+   "ไข่นับได้เป็นฟอง (many) / แป้งนับเป็นชิ้นไม่ได้ (much)",
+   "เพราะไข่แพงกว่าแป้ง",
+   "many ใช้กับอาหาร much ใช้กับเงินเท่านั้น",
+   "ใช้แทนกันได้ ไม่ต่างกัน"
+  ],
+  "answer": 0,
+  "reveal_th": "ถามตัวเองก่อนว่า นับ 1, 2, 3 ได้ไหม นับได้ (eggs, books, friends) → many / a few / few นับไม่ได้ (water, money, time, homework) → much / a little / little ส่วน a lot of กับ some / any ใช้ได้ทั้งสองแบบ ในข้อสอบ ให้ดูคำนามหลังช่องว่างก่อนเสมอ"
+ },
+ "rule": {
+  "line_th": "นับได้ → many · a few · few · นับไม่ได้ → much · a little · little · ใช้ได้ทั้งคู่ → a lot of · some (บอกเล่า) · any (คำถาม/ปฏิเสธ)",
+  "memory_th": "🍳 ไข่กับแป้ง: ไข่นับได้ใช้ many แป้งนับไม่ได้ใช้ much · มี a = แก้วยังมีน้ำบ้าง (ยิ้ม) ไม่มี a = แก้วเกือบว่าง (เศร้า)",
+  "terms": [
+   [
+    "quantifier",
+    "คำบอกปริมาณ"
+   ],
+   [
+    "countable noun",
+    "นามนับได้ (eggs, friends)"
+   ],
+   [
+    "uncountable noun",
+    "นามนับไม่ได้ (water, money, time)"
+   ],
+   [
+    "plural",
+    "พหูพจน์"
+   ]
+  ]
+ },
+ "speak": [
+  "How much water do you drink every day?",
+  "I have a few friends in Chiang Mai.",
+  "There isn't much time, so let's hurry."
+ ],
+ "twists": [
+  {
+   "id": "L24-t1",
+   "skill": "g.quantifier",
+   "type": "error",
+   "parts": [
+    "How",
+    "many",
+    "money",
+    "do you need?"
+   ],
+   "answer": 1,
+   "explanation_th": "money นับไม่ได้ ต้องใช้ How much money",
+   "why_wrong": [
+    "How ถูกแล้ว",
+    null,
+    "money ถูกแล้ว แค่ต้องเปลี่ยนคำหน้ามัน",
+    "do you need ถูกแล้ว"
+   ]
+  },
+  {
+   "id": "L24-t2",
+   "skill": "g.quantifier",
+   "type": "fill",
+   "stem": "Could I have ___ sugar in my coffee? Just one spoon, please.",
+   "accept": [
+    "a little",
+    "some"
+   ],
+   "hint_th": "sugar นับไม่ได้ และอยากได้นิดหน่อย",
+   "explanation_th": "นามนับไม่ได้ + ปริมาณนิดหน่อย → a little sugar (some sugar ก็ได้)"
+  },
+  {
+   "id": "L24-t3",
+   "skill": "g.quantifier",
+   "type": "order",
+   "words": [
+    "How",
+    "many",
+    "pens",
+    "do",
+    "you",
+    "have?"
+   ],
+   "explanation_th": "pens นับได้ พหูพจน์ → How many pens"
+  },
+  {
+   "id": "L24-t4",
+   "skill": "g.quantifier",
+   "type": "match",
+   "prompt_th": "เลือกคำบอกปริมาณที่เข้ากับคำนาม",
+   "pairs": [
+    [
+     "How ___ books?",
+     "many"
+    ],
+    [
+     "How ___ rice?",
+     "much"
+    ],
+    [
+     "___ friends (มีอยู่บ้าง)",
+     "a few"
+    ],
+    [
+     "___ money (มีอยู่บ้าง)",
+     "a little"
+    ]
+   ],
+   "explanation_th": "books, friends นับได้ → many, a few · rice, money นับไม่ได้ → much, a little"
+  },
+  {
+   "id": "L24-t5",
+   "skill": "g.quantifier",
+   "type": "error",
+   "parts": [
+    "She has",
+    "a little",
+    "cousins",
+    "in Phuket."
+   ],
+   "answer": 1,
+   "explanation_th": "cousins นับได้ (พหูพจน์) ต้องใช้ a few cousins",
+   "why_wrong": [
+    "She has ถูกแล้ว",
+    null,
+    "cousins ถูกแล้ว",
+    "in Phuket ถูกแล้ว"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "L24-01",
+   "skill": "g.quantifier",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "How ___ water do you drink every day?",
+   "options": [
+    "many",
+    "much",
+    "few",
+    "a few"
+   ],
+   "answer": 1,
+   "explanation_th": "water นับไม่ได้ → How much",
+   "why_wrong": [
+    "many ใช้กับนามนับได้พหูพจน์ แต่ water นับไม่ได้",
+    null,
+    "few ใช้กับนามนับได้พหูพจน์ และไม่ใช้หลัง How",
+    "a few ใช้กับนามนับได้พหูพจน์ และไม่ใช้หลัง How"
+   ]
+  },
+  {
+   "id": "L24-02",
+   "skill": "g.quantifier",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "How ___ brothers and sisters do you have?",
+   "options": [
+    "many",
+    "much",
+    "little",
+    "a little"
+   ],
+   "answer": 0,
+   "explanation_th": "brothers and sisters นับได้ → How many",
+   "why_wrong": [
+    null,
+    "much ใช้กับนามนับไม่ได้",
+    "little ใช้กับนามนับไม่ได้ และไม่ใช้หลัง How",
+    "a little ใช้กับนามนับไม่ได้"
+   ]
+  },
+  {
+   "id": "L24-03",
+   "skill": "g.quantifier",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "There aren't ___ eggs in the fridge. Let's buy some.",
+   "options": [
+    "much",
+    "many",
+    "a little",
+    "little"
+   ],
+   "answer": 1,
+   "explanation_th": "ปฏิเสธ + eggs นับได้ → not many",
+   "why_wrong": [
+    "much ใช้กับนามนับไม่ได้ แต่ eggs นับได้",
+    null,
+    "a little ใช้กับนามนับไม่ได้",
+    "little ใช้กับนามนับไม่ได้"
+   ]
+  },
+  {
+   "id": "L24-04",
+   "skill": "g.quantifier",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "I don't have ___ time today. I have three exams.",
+   "options": [
+    "many",
+    "much",
+    "a few",
+    "few"
+   ],
+   "answer": 1,
+   "explanation_th": "ปฏิเสธ + time (เวลา) นับไม่ได้ → not much",
+   "why_wrong": [
+    "many ใช้กับนามนับได้พหูพจน์ แต่ time นับไม่ได้",
+    null,
+    "a few ใช้กับนามนับได้พหูพจน์",
+    "few ใช้กับนามนับได้พหูพจน์"
+   ]
+  },
+  {
+   "id": "L24-05",
+   "skill": "g.quantifier",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "There are ___ people at the beach today. It's very crowded.",
+   "options": [
+    "a lot of",
+    "much",
+    "a little",
+    "little"
+   ],
+   "answer": 0,
+   "explanation_th": "คนเยอะ (crowded) + people นับได้ → a lot of people",
+   "why_wrong": [
+    null,
+    "much ใช้กับนามนับไม่ได้ แต่ people นับได้",
+    "a little ใช้กับนามนับไม่ได้ และแปลว่าน้อย",
+    "little ใช้กับนามนับไม่ได้ และแปลว่าน้อย"
+   ]
+  },
+  {
+   "id": "L24-06",
+   "skill": "g.quantifier",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Can I ask you ___ questions about the homework?",
+   "options": [
+    "a little",
+    "much",
+    "little",
+    "a few"
+   ],
+   "answer": 3,
+   "explanation_th": "questions นับได้ และอยากถามสองสามข้อ → a few",
+   "why_wrong": [
+    "a little ใช้กับนามนับไม่ได้ แต่ questions นับได้",
+    "much ใช้กับนามนับไม่ได้",
+    "little ใช้กับนามนับไม่ได้",
+    null
+   ]
+  },
+  {
+   "id": "L24-07",
+   "skill": "g.quantifier",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Could I have ___ milk in my tea, please?",
+   "options": [
+    "a few",
+    "many",
+    "few",
+    "a little"
+   ],
+   "answer": 3,
+   "explanation_th": "milk นับไม่ได้ ขอนิดหน่อย → a little",
+   "why_wrong": [
+    "a few ใช้กับนามนับได้พหูพจน์ แต่ milk นับไม่ได้",
+    "many ใช้กับนามนับได้พหูพจน์",
+    "few ใช้กับนามนับได้พหูพจน์",
+    null
+   ]
+  },
+  {
+   "id": "L24-08",
+   "skill": "g.quantifier",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Is there ___ rice left? I'm still hungry.",
+   "options": [
+    "any",
+    "many",
+    "a few",
+    "few"
+   ],
+   "answer": 0,
+   "explanation_th": "คำถาม + rice นับไม่ได้ → any",
+   "why_wrong": [
+    null,
+    "many ใช้กับนามนับได้พหูพจน์ แต่ rice นับไม่ได้",
+    "a few ใช้กับนามนับได้พหูพจน์",
+    "few ใช้กับนามนับได้พหูพจน์"
+   ]
+  },
+  {
+   "id": "L24-09",
+   "skill": "g.quantifier",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Sorry, there's very ___ bread left. Only one small piece.",
+   "options": [
+    "little",
+    "a little",
+    "few",
+    "many"
+   ],
+   "answer": 0,
+   "explanation_th": "very little = น้อยมาก bread นับไม่ได้ และเหลือแค่ชิ้นเดียว → little",
+   "why_wrong": [
+    null,
+    "very ใช้ข้างหน้า a little ไม่ได้",
+    "few ใช้กับนามนับได้พหูพจน์ แต่ bread นับไม่ได้",
+    "many ใช้กับนามนับได้พหูพจน์ และแปลว่าเยอะ"
+   ]
+  },
+  {
+   "id": "L24-10",
+   "skill": "g.quantifier",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "The film was boring, so very ___ people came to watch it.",
+   "options": [
+    "a few",
+    "little",
+    "much",
+    "few"
+   ],
+   "answer": 3,
+   "explanation_th": "very few = น้อยมาก หนังน่าเบื่อจึงมีคนมาน้อย people นับได้ → few",
+   "why_wrong": [
+    "very ใช้ข้างหน้า a few ไม่ได้",
+    "little ใช้กับนามนับไม่ได้ แต่ people นับได้",
+    "much ใช้กับนามนับไม่ได้ และแปลว่าเยอะ",
+    null
+   ]
+  },
+  {
+   "id": "L24-11",
+   "skill": "g.quantifier",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "I've got ___ friends in Chiang Mai, so I visit them every summer.",
+   "options": [
+    "few",
+    "a few",
+    "a little",
+    "much"
+   ],
+   "answer": 1,
+   "explanation_th": "มีเพื่อนอยู่บ้าง จึงไปหาทุกปี (ความหมายบวก) friends นับได้ → a few",
+   "why_wrong": [
+    "few = แทบไม่มี ขัดกับไปหาทุกปี",
+    null,
+    "a little ใช้กับนามนับไม่ได้",
+    "much ใช้กับนามนับไม่ได้"
+   ]
+  },
+  {
+   "id": "L24-12",
+   "skill": "g.quantifier",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Mali speaks ___ English, so she can order food in London.",
+   "options": [
+    "little",
+    "a few",
+    "a little",
+    "many"
+   ],
+   "answer": 2,
+   "explanation_th": "พูดได้บ้าง พอสั่งอาหารได้ (ความหมายบวก) English นับไม่ได้ → a little",
+   "why_wrong": [
+    "little = แทบไม่ได้ ขัดกับสั่งอาหารได้",
+    "a few ใช้กับนามนับได้พหูพจน์",
+    null,
+    "many ใช้กับนามนับได้พหูพจน์"
+   ]
+  },
+  {
+   "id": "L24-13",
+   "skill": "g.quantifier",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "There isn't ___ juice in the bottle.",
+   "options": [
+    "some",
+    "many",
+    "a few",
+    "any"
+   ],
+   "answer": 3,
+   "explanation_th": "ประโยคปฏิเสธ + juice นับไม่ได้ → any",
+   "why_wrong": [
+    "some ใช้ในประโยคบอกเล่า ไม่ใช้กับ isn't",
+    "many ใช้กับนามนับได้พหูพจน์",
+    "a few ใช้กับนามนับได้พหูพจน์",
+    null
+   ]
+  },
+  {
+   "id": "L24-14",
+   "skill": "g.quantifier",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "I'd like ___ apples, please. Three or four is fine.",
+   "options": [
+    "any",
+    "much",
+    "some",
+    "a little"
+   ],
+   "answer": 2,
+   "explanation_th": "ขอ + บอกเล่า + apples พหูพจน์ → some",
+   "why_wrong": [
+    "any ใช้ในคำถามและปฏิเสธ",
+    "much ใช้กับนามนับไม่ได้ แต่ apples นับได้",
+    null,
+    "a little ใช้กับนามนับไม่ได้"
+   ]
+  },
+  {
+   "id": "L24-15",
+   "skill": "g.quantifier",
+   "difficulty": 3,
+   "stage": 1,
+   "stem": "Too ___ sugar is bad for your teeth.",
+   "options": [
+    "many",
+    "few",
+    "a few",
+    "much"
+   ],
+   "answer": 3,
+   "explanation_th": "too much + นามนับไม่ได้ = มากเกินไป sugar นับไม่ได้ → much",
+   "why_wrong": [
+    "many ใช้กับนามนับได้พหูพจน์ แต่ sugar นับไม่ได้",
+    "few ใช้กับนามนับได้พหูพจน์ และแปลว่าน้อย",
+    "a few ใช้กับนามนับได้พหูพจน์",
+    null
+   ]
+  },
+  {
+   "id": "L24-16",
+   "skill": "g.quantifier",
+   "difficulty": 3,
+   "stage": 1,
+   "stem": "There are too ___ cars in the city centre. The air is dirty.",
+   "options": [
+    "many",
+    "much",
+    "little",
+    "a little"
+   ],
+   "answer": 0,
+   "explanation_th": "too many + นามนับได้ = มากเกินไป cars นับได้ → many",
+   "why_wrong": [
+    null,
+    "much ใช้กับนามนับไม่ได้ แต่ cars นับได้",
+    "little ใช้กับนามนับไม่ได้ และแปลว่าน้อย",
+    "a little ใช้กับนามนับไม่ได้"
+   ]
+  },
+  {
+   "id": "L24-17",
+   "skill": "g.quantifier",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "How ___ does this T-shirt cost?",
+   "options": [
+    "many",
+    "much",
+    "few",
+    "little"
+   ],
+   "answer": 1,
+   "explanation_th": "ถามราคา (เงิน นับไม่ได้) → How much",
+   "why_wrong": [
+    "many ใช้นับจำนวนชิ้น ไม่ใช้ถามราคา",
+    null,
+    "few ไม่ใช้หลัง How เพื่อถามราคา",
+    "little ไม่ใช้หลัง How เพื่อถามราคา"
+   ]
+  },
+  {
+   "id": "L24-18",
+   "skill": "g.quantifier",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "A: Do you have any pets? B: No, I don't have ___ pets.",
+   "options": [
+    "any",
+    "some",
+    "much",
+    "a little"
+   ],
+   "answer": 0,
+   "explanation_th": "ประโยคปฏิเสธ + pets พหูพจน์ → any",
+   "why_wrong": [
+    null,
+    "some ใช้ในประโยคบอกเล่า ไม่ใช้กับ don't",
+    "much ใช้กับนามนับไม่ได้ แต่ pets นับได้",
+    "a little ใช้กับนามนับไม่ได้"
+   ]
+  },
+  {
+   "id": "L24-19",
+   "skill": "g.quantifier",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "My mum went to the market this morning. She bought ___ vegetables and a fish for dinner.",
+   "options": [
+    "any",
+    "much",
+    "some",
+    "a little"
+   ],
+   "answer": 2,
+   "explanation_th": "ประโยคบอกเล่า + vegetables พหูพจน์ → some",
+   "why_wrong": [
+    "any ใช้ในคำถามและปฏิเสธ",
+    "much ใช้กับนามนับไม่ได้ แต่ vegetables นับได้",
+    null,
+    "a little ใช้กับนามนับไม่ได้"
+   ]
+  },
+  {
+   "id": "L24-20",
+   "skill": "g.quantifier",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Our school library is small. It doesn't have ___ books about science, so I often read online.",
+   "options": [
+    "much",
+    "many",
+    "a little",
+    "little"
+   ],
+   "answer": 1,
+   "explanation_th": "ปฏิเสธ + books นับได้ → not many",
+   "why_wrong": [
+    "much ใช้กับนามนับไม่ได้ แต่ books นับได้",
+    null,
+    "a little ใช้กับนามนับไม่ได้",
+    "little ใช้กับนามนับไม่ได้"
+   ]
+  },
+  {
+   "id": "L24-21",
+   "skill": "g.quantifier",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "Lek is new at our school. She is shy and has very ___ friends here, so she often eats lunch alone.",
+   "options": [
+    "a few",
+    "little",
+    "few",
+    "much"
+   ],
+   "answer": 2,
+   "explanation_th": "very few = น้อยมาก กินข้าวคนเดียวบ่อยเพราะเพื่อนแทบไม่มี friends นับได้ → few",
+   "why_wrong": [
+    "very ใช้ข้างหน้า a few ไม่ได้",
+    "little ใช้กับนามนับไม่ได้ แต่ friends นับได้",
+    null,
+    "much ใช้กับนามนับไม่ได้ และแปลว่าเยอะ"
+   ]
+  },
+  {
+   "id": "L24-22",
+   "skill": "g.quantifier",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "The soup was too salty. I think the cook put too ___ salt in it.",
+   "options": [
+    "many",
+    "few",
+    "a few",
+    "much"
+   ],
+   "answer": 3,
+   "explanation_th": "เค็มเกินไป = ใส่มากไป salt นับไม่ได้ → too much",
+   "why_wrong": [
+    "many ใช้กับนามนับได้พหูพจน์ แต่ salt นับไม่ได้",
+    "few ใช้กับนามนับได้พหูพจน์",
+    "a few ใช้กับนามนับได้พหูพจน์",
+    null
+   ]
+  },
+  {
+   "id": "L24-23",
+   "skill": "g.quantifier",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "I was worried about the test, but it was easy. I only made ___ small mistakes, so I got 18 out of 20.",
+   "options": [
+    "few",
+    "a little",
+    "a few",
+    "much"
+   ],
+   "answer": 2,
+   "explanation_th": "only a few = แค่สองสามข้อ mistakes นับได้ → a few",
+   "why_wrong": [
+    "only ต้องตามด้วย a few เมื่อหมายถึงมีอยู่สองสามอัน",
+    "a little ใช้กับนามนับไม่ได้ แต่ mistakes นับได้",
+    null,
+    "much ใช้กับนามนับไม่ได้"
+   ]
+  },
+  {
+   "id": "L24-24",
+   "skill": "g.quantifier",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "We are going camping this weekend. We need to take ___ water because there are no shops near the river.",
+   "options": [
+    "many",
+    "a lot of",
+    "a few",
+    "few"
+   ],
+   "answer": 1,
+   "explanation_th": "ไม่มีร้านค้า ต้องพกน้ำเยอะ water นับไม่ได้ → a lot of",
+   "why_wrong": [
+    "many ใช้กับนามนับได้พหูพจน์ แต่ water นับไม่ได้",
+    null,
+    "a few ใช้กับนามนับได้พหูพจน์",
+    "few ใช้กับนามนับได้พหูพจน์ และแปลว่าน้อย"
+   ]
+  },
+  {
+   "id": "L24-25",
+   "skill": "g.quantifier",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "I can't buy the new game this month. I only have ___ money left, about 20 baht.",
+   "options": [
+    "a few",
+    "many",
+    "a little",
+    "few"
+   ],
+   "answer": 2,
+   "explanation_th": "only a little = มีนิดเดียว money นับไม่ได้ → a little",
+   "why_wrong": [
+    "a few ใช้กับนามนับได้พหูพจน์ แต่ money นับไม่ได้",
+    "many ใช้กับนามนับได้พหูพจน์ และขัดกับ only",
+    null,
+    "few ใช้กับนามนับได้พหูพจน์"
+   ]
+  },
+  {
+   "id": "L24-26",
+   "skill": "g.quantifier",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Anan loves reading. He read ___ books last year, more than fifty!",
+   "options": [
+    "a lot of",
+    "much",
+    "a little",
+    "few"
+   ],
+   "answer": 0,
+   "explanation_th": "มากกว่าห้าสิบเล่ม = เยอะ books นับได้ → a lot of",
+   "why_wrong": [
+    null,
+    "much ใช้กับนามนับไม่ได้ แต่ books นับได้",
+    "a little ใช้กับนามนับไม่ได้",
+    "few แปลว่าน้อย ขัดกับมากกว่าห้าสิบเล่ม"
+   ]
+  },
+  {
+   "id": "L24-27",
+   "skill": "g.quantifier",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "How ___ hours do you sleep every night? The doctor says teenagers need about nine hours.",
+   "options": [
+    "much",
+    "little",
+    "many",
+    "a little"
+   ],
+   "answer": 2,
+   "explanation_th": "hours นับได้ → How many hours",
+   "why_wrong": [
+    "much ใช้กับนามนับไม่ได้ แต่ hours นับได้",
+    "little ใช้กับนามนับไม่ได้ และไม่ใช้หลัง How",
+    null,
+    "a little ใช้กับนามนับไม่ได้"
+   ]
+  }
+ ],
+ "cloze": "C20"
+}

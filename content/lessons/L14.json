@@ -1,0 +1,682 @@
+{
+ "id": "L14",
+ "phase": 2,
+ "skill": "g.gerund-inf",
+ "title_th": "V-ing หรือ to V? (รวม too…to)",
+ "title_en": "Gerunds and infinitives",
+ "villain": "morphy",
+ "hook": {
+  "beats": [
+   {
+    "say": "ปิ๊ปเขียนเรียงความเรื่องงานอดิเรก",
+    "anim": "enter",
+    "board": "I enjoy ___ to music."
+   },
+   {
+    "say": "มอร์ฟี่อีกแล้ว! ใส่ to listen ดูเป็นทางการดีนะ",
+    "actor": "villain",
+    "anim": "shake",
+    "board": "to listen??"
+   },
+   {
+    "say": "กริยาบางตัวต้องตามด้วย ing บางตัวต้องตามด้วย to ต้องจำเป็นคู่",
+    "anim": "think",
+    "board": "enjoy + V-ing · want + to V"
+   },
+   {
+    "say": "enjoy finish avoid mind และหลังบุพบททุกตัว ใช้ ing",
+    "anim": "jump",
+    "board": "I enjoy listening to music."
+   },
+   {
+    "say": "ส่วน want decide hope plan ใช้ to และ too ตามด้วย adjective แล้วต่อด้วย to",
+    "anim": "zap",
+    "board": "too young to drive"
+   },
+   {
+    "say": "ร่างข้าแปลงไม่ทันแล้ว!",
+    "actor": "villain",
+    "anim": "swap"
+   }
+  ]
+ },
+ "discover": {
+  "examples": [
+   "I enjoy **reading** comics.",
+   "I want **to read** this comic.",
+   "She is too tired **to walk**.",
+   "Thank you for **helping** me."
+  ],
+  "question_th": "อะไรเป็นตัวกำหนดว่าใช้ V-ing หรือ to V?",
+  "options_th": [
+   "คำที่อยู่ข้างหน้า (กริยาบางตัว/บุพบท/too…)",
+   "ความยาวประโยค",
+   "ประธานเป็นเอกพจน์หรือพหูพจน์",
+   "เลือกได้ตามใจ"
+  ],
+  "answer": 0,
+  "reveal_th": "+V-ing: enjoy, finish, avoid, mind, keep, spend time, be used to, look forward to และหลังบุพบททุกตัว (for, of, in, without, instead of) · +to V: want, decide, hope, plan, promise, ask/tell sb to, too…to, enough to, It is important to · make/let + V1 · stop to V = หยุดเพื่อทำ / stop V-ing = เลิกทำ"
+ },
+ "rule": {
+  "line_th": "จำเป็นคู่: enjoy/finish/avoid/mind + V-ing · want/decide/hope/plan + to V · บุพบท + V-ing · too/enough + to V · make/let + V1",
+  "memory_th": "🚂 ตู้รถไฟ 2 สาย: สาย -ing (ชอบ/เสร็จ/เลี่ยง/หลังบุพบท) กับสาย to (อยาก/ตัดสินใจ/หวัง/วางแผน — มองไปอนาคต)",
+  "terms": [
+   [
+    "gerund",
+    "V-ing ที่เป็นคำนาม"
+   ],
+   [
+    "infinitive",
+    "to + V1"
+   ],
+   [
+    "bare infinitive",
+    "V1 ไม่มี to (หลัง make/let)"
+   ]
+  ]
+ },
+ "speak": [
+  "I enjoy listening to music before bed.",
+  "She decided to study medicine.",
+  "He is too young to drive a car."
+ ],
+ "twists": [
+  {
+   "id": "L14-t1",
+   "skill": "g.gerund-inf",
+   "type": "error",
+   "parts": [
+    "I am looking forward",
+    "to see",
+    "you",
+    "next week."
+   ],
+   "answer": 1,
+   "explanation_th": "look forward to + V-ing (to ตรงนี้เป็นบุพบท) → to seeing",
+   "why_wrong": [
+    "ถูกแล้ว",
+    null,
+    "ถูกแล้ว",
+    "ถูกแล้ว"
+   ]
+  },
+  {
+   "id": "L14-t2",
+   "skill": "g.gerund-inf",
+   "type": "fill",
+   "stem": "The box was too heavy for me ___. (lift)",
+   "accept": [
+    "to lift"
+   ],
+   "hint_th": "too + adj + (for sb) + to V",
+   "explanation_th": "too heavy to lift"
+  },
+  {
+   "id": "L14-t3",
+   "skill": "g.gerund-inf",
+   "type": "order",
+   "words": [
+    "She",
+    "avoided",
+    "talking",
+    "about",
+    "the",
+    "exam."
+   ],
+   "explanation_th": "avoid + V-ing"
+  },
+  {
+   "id": "L14-t4",
+   "skill": "g.gerund-inf",
+   "type": "match",
+   "prompt_th": "กริยาไหนตามด้วยอะไร",
+   "pairs": [
+    [
+     "enjoy",
+     "swimming"
+    ],
+    [
+     "decide",
+     "to swim"
+    ],
+    [
+     "let me",
+     "swim"
+    ],
+    [
+     "good at",
+     "swimming well"
+    ]
+   ],
+   "explanation_th": "enjoy/บุพบท + V-ing · decide + to V · let + V1"
+  }
+ ],
+ "questions": [
+  {
+   "id": "L14-01",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "I really enjoy ___ to music in the evening.",
+   "options": [
+    "to listen",
+    "listening",
+    "listen",
+    "listened"
+   ],
+   "answer": 1,
+   "explanation_th": "enjoy + V-ing → \"listening\"",
+   "why_wrong": [
+    "enjoy ไม่ตามด้วย to V",
+    null,
+    "enjoy ไม่ตามด้วย V1",
+    "enjoy ไม่ตามด้วย V2"
+   ]
+  },
+  {
+   "id": "L14-02",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "After a long talk with her parents, she decided ___ medicine.",
+   "options": [
+    "studying",
+    "study",
+    "to study",
+    "studied"
+   ],
+   "answer": 2,
+   "explanation_th": "decide + to V",
+   "why_wrong": [
+    "decide ไม่ตามด้วย V-ing",
+    "decide ไม่ตามด้วย V1",
+    null,
+    "decide ไม่ตามด้วย V2"
+   ]
+  },
+  {
+   "id": "L14-03",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "He is too young ___ a car.",
+   "options": [
+    "driving",
+    "drive",
+    "for driving",
+    "to drive"
+   ],
+   "answer": 3,
+   "explanation_th": "too + adj + to V",
+   "why_wrong": [
+    "too young driving ผิดโครงสร้าง",
+    "too young drive ขาด to",
+    "too young for driving ไม่ใช่รูปมาตรฐานของ too…to",
+    null
+   ]
+  },
+  {
+   "id": "L14-04",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Would you mind ___ the window? It is very hot.",
+   "options": [
+    "opening",
+    "to open",
+    "open",
+    "opened"
+   ],
+   "answer": 0,
+   "explanation_th": "mind + V-ing → \"opening\"",
+   "why_wrong": [
+    null,
+    "mind ไม่ตามด้วย to V",
+    "mind ไม่ตามด้วย V1",
+    "mind ไม่ตามด้วย V2"
+   ]
+  },
+  {
+   "id": "L14-05",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "I'm looking forward to ___ you at the party.",
+   "options": [
+    "see",
+    "seeing",
+    "to see",
+    "saw"
+   ],
+   "answer": 1,
+   "explanation_th": "look forward to (to เป็นบุพบท) + V-ing → \"seeing\"",
+   "why_wrong": [
+    "หลังบุพบท to ตรงนี้ใช้ V1 ไม่ได้",
+    null,
+    "to to see ซ้ำ to",
+    "saw เป็นอดีต"
+   ]
+  },
+  {
+   "id": "L14-06",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "She is old enough ___ alone by train.",
+   "options": [
+    "traveling",
+    "travel",
+    "to travel",
+    "for travel"
+   ],
+   "answer": 2,
+   "explanation_th": "adj + enough + to V",
+   "why_wrong": [
+    "enough traveling ผิดโครงสร้าง",
+    "enough travel ขาด to",
+    null,
+    "enough for travel ไม่ใช่รูปของ enough to"
+   ]
+  },
+  {
+   "id": "L14-07",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "We hope ___ you again soon.",
+   "options": [
+    "seeing",
+    "see",
+    "saw",
+    "to see"
+   ],
+   "answer": 3,
+   "explanation_th": "hope + to V",
+   "why_wrong": [
+    "hope ไม่ตามด้วย V-ing",
+    "hope ไม่ตามด้วย V1",
+    "saw เป็นอดีต",
+    null
+   ]
+  },
+  {
+   "id": "L14-08",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "Have you finished ___ your report yet?",
+   "options": [
+    "writing",
+    "to write",
+    "write",
+    "wrote"
+   ],
+   "answer": 0,
+   "explanation_th": "finish + V-ing → \"writing\"",
+   "why_wrong": [
+    null,
+    "finish ไม่ตามด้วย to V",
+    "finish ไม่ตามด้วย V1",
+    "wrote เป็นอดีต"
+   ]
+  },
+  {
+   "id": "L14-09",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "My uncle stopped ___ when he became ill. Now he is much healthier.",
+   "options": [
+    "to smoke",
+    "smoking",
+    "smoke",
+    "smoked"
+   ],
+   "answer": 1,
+   "explanation_th": "stop + V-ing = เลิกทำ → \"smoking\"",
+   "why_wrong": [
+    "stop to smoke = หยุดเพื่อจะสูบ ความหมายกลับ",
+    null,
+    "stop smoke ผิดรูป",
+    "stop smoked ผิดรูป"
+   ]
+  },
+  {
+   "id": "L14-10",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Remember ___ the door before you leave the house.",
+   "options": [
+    "locking",
+    "lock",
+    "to lock",
+    "locked"
+   ],
+   "answer": 2,
+   "explanation_th": "remember to V = อย่าลืมที่จะทำ (ในอนาคต)",
+   "why_wrong": [
+    "remember locking = จำได้ว่าล็อกไปแล้ว ความหมายไม่เข้า",
+    "remember lock ผิดรูป",
+    null,
+    "remember locked ผิดรูป"
+   ]
+  },
+  {
+   "id": "L14-11",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "The teacher asked us ___ quiet during the test.",
+   "options": [
+    "being",
+    "be",
+    "been",
+    "to be"
+   ],
+   "answer": 3,
+   "explanation_th": "ask + sb + to V",
+   "why_wrong": [
+    "ask us being ผิด",
+    "ask us be ขาด to",
+    "been ต้องมี have",
+    null
+   ]
+  },
+  {
+   "id": "L14-12",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "My parents let me ___ out late on Saturdays.",
+   "options": [
+    "stay",
+    "to stay",
+    "staying",
+    "stayed"
+   ],
+   "answer": 0,
+   "explanation_th": "let + sb + V1 (ไม่มี to) → \"stay\"",
+   "why_wrong": [
+    null,
+    "let ไม่ตามด้วย to V",
+    "let ไม่ตามด้วย V-ing",
+    "let ไม่ตามด้วย V2"
+   ]
+  },
+  {
+   "id": "L14-13",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "She avoided ___ him at the party because they had argued.",
+   "options": [
+    "to meet",
+    "meeting",
+    "meet",
+    "met"
+   ],
+   "answer": 1,
+   "explanation_th": "avoid + V-ing → \"meeting\"",
+   "why_wrong": [
+    "avoid ไม่ตามด้วย to V",
+    null,
+    "avoid ไม่ตามด้วย V1",
+    "met เป็นอดีต"
+   ]
+  },
+  {
+   "id": "L14-14",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "It's important ___ enough water when the weather is hot.",
+   "options": [
+    "drinking",
+    "drink",
+    "to drink",
+    "drank"
+   ],
+   "answer": 2,
+   "explanation_th": "It is + adj + to V",
+   "why_wrong": [
+    "It is important drinking ไม่ใช่รูปมาตรฐาน",
+    "ขาด to",
+    null,
+    "drank เป็นอดีต"
+   ]
+  },
+  {
+   "id": "L14-15",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "I'm interested in ___ a new language next year.",
+   "options": [
+    "learn",
+    "to learn",
+    "learned",
+    "learning"
+   ],
+   "answer": 3,
+   "explanation_th": "หลังบุพบท in → V-ing → \"learning\"",
+   "why_wrong": [
+    "หลังบุพบทใช้ V1 ไม่ได้",
+    "หลังบุพบทไม่ใช้ to V",
+    "learned เป็นอดีต",
+    null
+   ]
+  },
+  {
+   "id": "L14-16",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "The box of books was very heavy. It was too heavy for me ___ by myself.",
+   "options": [
+    "to lift",
+    "lifting",
+    "lift",
+    "lifted"
+   ],
+   "answer": 0,
+   "explanation_th": "too + adj + for sb + to V",
+   "why_wrong": [
+    null,
+    "too heavy lifting ผิด",
+    "ขาด to",
+    "lifted ผิดรูป"
+   ]
+  },
+  {
+   "id": "L14-17",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Fon loves animals. She spends every weekend ___ at the animal shelter near her house.",
+   "options": [
+    "to help",
+    "helping",
+    "help",
+    "helped"
+   ],
+   "answer": 1,
+   "explanation_th": "spend + เวลา + V-ing → \"helping\"",
+   "why_wrong": [
+    "spend time to help ไม่ใช่รูปมาตรฐาน",
+    null,
+    "spend time help ผิด",
+    "spend time helped ผิด"
+   ]
+  },
+  {
+   "id": "L14-18",
+   "skill": "g.gerund-inf",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "The village had no school. The villagers appealed to the governor ___ a new one.",
+   "options": [
+    "building",
+    "build",
+    "to build",
+    "for building"
+   ],
+   "answer": 2,
+   "explanation_th": "appeal to + คน + to V = ร้องขอให้ใครทำอะไร",
+   "why_wrong": [
+    "appeal to sb building ผิด",
+    "ขาด to",
+    null,
+    "appeal to sb for building ไม่ใช่โครงสร้างนี้"
+   ]
+  },
+  {
+   "id": "L14-19",
+   "skill": "g.gerund-inf",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "After three hours of hiking, we stopped ___ some water. We were very thirsty.",
+   "options": [
+    "drinking",
+    "drink",
+    "drank",
+    "to drink"
+   ],
+   "answer": 3,
+   "explanation_th": "stop to V = หยุด (สิ่งที่ทำอยู่) เพื่อไปทำอีกอย่าง",
+   "why_wrong": [
+    "stop drinking = เลิกดื่ม ความหมายกลับ",
+    "stop drink ผิด",
+    "stop drank ผิด",
+    null
+   ]
+  },
+  {
+   "id": "L14-20",
+   "skill": "g.gerund-inf",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "I'll never forget ___ the sea for the first time. I was only five years old.",
+   "options": [
+    "seeing",
+    "to see",
+    "see",
+    "saw"
+   ],
+   "answer": 0,
+   "explanation_th": "forget + V-ing = ลืมสิ่งที่เคยเกิดขึ้นแล้ว (ไม่มีวันลืม) → \"seeing\"",
+   "why_wrong": [
+    null,
+    "forget to see = ลืมที่จะดู ความหมายไม่เข้า",
+    "forget see ผิด",
+    "forget saw ผิด"
+   ]
+  },
+  {
+   "id": "L14-21",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "The paintings in the museum are very old. The guide told us not ___ them.",
+   "options": [
+    "touching",
+    "to touch",
+    "touch",
+    "touched"
+   ],
+   "answer": 1,
+   "explanation_th": "tell + sb + not to V",
+   "why_wrong": [
+    "not touching ผิด",
+    null,
+    "ขาด to",
+    "touched ผิด"
+   ]
+  },
+  {
+   "id": "L14-22",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Our football coach was very strict. He made us ___ ten laps around the field every morning.",
+   "options": [
+    "to run",
+    "running",
+    "run",
+    "ran"
+   ],
+   "answer": 2,
+   "explanation_th": "make + sb + V1 (ไม่มี to) → \"run\"",
+   "why_wrong": [
+    "make sb to run ผิด (active)",
+    "make sb running ผิด",
+    null,
+    "ran ผิด"
+   ]
+  },
+  {
+   "id": "L14-23",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "All classes in this program are taught in English. Is your English good enough ___ in an international program?",
+   "options": [
+    "studying",
+    "study",
+    "for study",
+    "to study"
+   ],
+   "answer": 3,
+   "explanation_th": "good enough + to V",
+   "why_wrong": [
+    "enough studying ผิด",
+    "ขาด to",
+    "enough for study ผิด",
+    null
+   ]
+  },
+  {
+   "id": "L14-24",
+   "skill": "g.gerund-inf",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "My grandfather was a farmer for fifty years. He is used to ___ up at five every morning.",
+   "options": [
+    "getting",
+    "get",
+    "got",
+    "to get"
+   ],
+   "answer": 0,
+   "explanation_th": "be used to (เคยชินกับ) + V-ing → \"getting\"",
+   "why_wrong": [
+    null,
+    "be used to + V1 ผิด (ต่างจาก used to + V1)",
+    "got ผิด",
+    "to to get ซ้ำ to"
+   ]
+  },
+  {
+   "id": "L14-25",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "It was a lovely evening. Instead of ___ the bus, we walked home along the river.",
+   "options": [
+    "take",
+    "taking",
+    "to take",
+    "took"
+   ],
+   "answer": 1,
+   "explanation_th": "instead of (บุพบท) + V-ing → \"taking\"",
+   "why_wrong": [
+    "หลังบุพบทใช้ V1 ไม่ได้",
+    null,
+    "หลัง of ไม่ใช้ to V",
+    "took ผิด"
+   ]
+  }
+ ],
+ "cloze": "C14"
+}

@@ -1,0 +1,1480 @@
+{
+  "code": "ENL181",
+  "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+  "in_class_th": [
+    "น่าจะได้ฝึกใช้พจนานุกรมภาษาอังกฤษ และค้นข้อมูลจากอินเทอร์เน็ตกับฐานข้อมูลอิเล็กทรอนิกส์ของห้องสมุด",
+    "อาจมีงานให้เขียนรายการอ้างอิงตามรูปแบบที่อาจารย์กำหนด ซึ่งอาจเป็น APA หรือแบบอื่น",
+    "น่าจะได้คุยเรื่องการวางแผนการเรียนตามหลักสูตร หน่วยกิต และวิชาบังคับก่อน",
+    "อาจมีการพูดถึงการลอกเลียนผลงาน (plagiarism) และกติกาการใช้เครื่องมือ AI ในงาน"
+  ],
+  "units": [
+    {
+      "id": "ENL181-U1",
+      "title_th": "การเรียนระดับมหาวิทยาลัยและแผนการเรียน",
+      "title_en": "University Study and Your Degree Plan",
+      "covers": "แนวปฏิบัติในการศึกษาภาษาอังกฤษระดับอุดมศึกษา การวางแผนการศึกษาตามหลักสูตร",
+      "minutes": 14,
+      "cards": [
+        {
+          "title_th": "หน่วยกิต (credit)",
+          "body_th": "บอกน้ำหนักของวิชา วิชา 3 หน่วยกิตมีผลต่อเกรดเฉลี่ยมากกว่าวิชา 1 หน่วยกิต หลักสูตรของคุณรวม 135 หน่วยกิต"
+        },
+        {
+          "title_th": "อ่าน 3(3-0-6)",
+          "body_th": "เลขหน้าวงเล็บคือหน่วยกิต ในวงเล็บคือ บรรยาย 3 ชม. ปฏิบัติ 0 ชม. ศึกษาด้วยตนเอง 6 ชม. ต่อสัปดาห์",
+          "example": "ENL181 3(3-0-6) = 3 credits, 3 lecture hours, 0 lab hours, 6 self-study hours a week"
+        },
+        {
+          "title_th": "แผนการเรียน (degree plan)",
+          "body_th": "บอกว่าแต่ละภาคต้องเรียนวิชาอะไร เปิดดูก่อนลงทะเบียนทุกภาค จะไม่พลาดวิชาที่ต้องเรียนตามลำดับ"
+        },
+        {
+          "title_th": "วิชาบังคับก่อน (prerequisite)",
+          "body_th": "ต้องเคยเรียนวิชาหนึ่งก่อน จึงลงอีกวิชาได้",
+          "example": "ENL102 English Grammar II: Prerequisite ENL101"
+        },
+        {
+          "title_th": "เกรดเฉลี่ย (GPA)",
+          "body_th": "เอาค่าเกรดคูณหน่วยกิตของแต่ละวิชา รวมกัน แล้วหารด้วยหน่วยกิตทั้งหมด ในมหาวิทยาลัยไทยหลายแห่ง A = 4, B = 3, C = 2, D = 1, F = 0 และมี B+, C+, D+ คั่น"
+        }
+      ],
+      "vocab": [
+        [
+          "credit",
+          "หน่วยกิต"
+        ],
+        [
+          "lecture",
+          "การบรรยาย"
+        ],
+        [
+          "self-study",
+          "การศึกษาด้วยตนเอง"
+        ],
+        [
+          "degree plan",
+          "แผนการเรียนตามหลักสูตร"
+        ],
+        [
+          "prerequisite",
+          "วิชาบังคับก่อน"
+        ],
+        [
+          "GPA (grade point average)",
+          "เกรดเฉลี่ย"
+        ],
+        [
+          "semester",
+          "ภาคการศึกษา"
+        ],
+        [
+          "register",
+          "ลงทะเบียน"
+        ],
+        [
+          "syllabus",
+          "เค้าโครงรายวิชา"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "ENL181-U1-01",
+          "skill": "ENL181-U1",
+          "difficulty": 1,
+          "stem": "A course is 3(3-0-6). How many credits is it?",
+          "options": [
+            "6 credits",
+            "9 credits",
+            "3 credits",
+            "12 credits"
+          ],
+          "answer": 2,
+          "explanation_th": "เลขหน้าวงเล็บคือจำนวนหน่วยกิต",
+          "why_wrong": [
+            "6 คือชั่วโมงศึกษาด้วยตนเองต่อสัปดาห์",
+            "9 คือชั่วโมงในห้องรวมกับชั่วโมงอ่านเอง ไม่ใช่หน่วยกิต",
+            null,
+            "เป็นการเอาตัวเลขทั้งหมดมาบวกกัน ซึ่งไม่มีความหมาย"
+          ]
+        },
+        {
+          "id": "ENL181-U1-02",
+          "skill": "ENL181-U1",
+          "difficulty": 1,
+          "stem": "In 3(3-0-6), what does the 6 mean?",
+          "options": [
+            "6 hours of lecture each week",
+            "6 credits",
+            "6 hours of self-study each week",
+            "6 exams in the term"
+          ],
+          "answer": 2,
+          "explanation_th": "ตัวเลขสุดท้ายในวงเล็บคือชั่วโมงศึกษาด้วยตนเอง",
+          "why_wrong": [
+            "ชั่วโมงบรรยายคือเลข 3 ตัวแรกในวงเล็บ",
+            "หน่วยกิตคือเลข 3 หน้าวงเล็บ",
+            null,
+            "ตัวเลขนี้ไม่ได้บอกจำนวนสอบ"
+          ]
+        },
+        {
+          "id": "ENL181-U1-03",
+          "skill": "ENL181-U1",
+          "difficulty": 2,
+          "stem": "In 3(3-0-6), what does the 0 mean?",
+          "options": [
+            "The course gives 0 credits",
+            "There is no final exam",
+            "There are no lab or practice hours",
+            "You do not need to study at home"
+          ],
+          "answer": 2,
+          "explanation_th": "ตัวกลางในวงเล็บคือชั่วโมงปฏิบัติ ซึ่งวิชานี้ไม่มี",
+          "why_wrong": [
+            "วิชานี้ได้ 3 หน่วยกิต",
+            "ตัวเลขนี้ไม่เกี่ยวกับการสอบ",
+            null,
+            "ยังมีชั่วโมงอ่านเอง 6 ชั่วโมง"
+          ]
+        },
+        {
+          "id": "ENL181-U1-04",
+          "skill": "ENL181-U1",
+          "difficulty": 1,
+          "stem": "ENL102 has the prerequisite ENL101. What does this mean?",
+          "options": [
+            "You must take both in the same term",
+            "ENL101 is optional",
+            "You must study ENL102 first",
+            "You must study ENL101 before you take ENL102"
+          ],
+          "answer": 3,
+          "explanation_th": "วิชาบังคับก่อนต้องเรียนมาก่อน",
+          "why_wrong": [
+            "แบบนี้ไม่ใช่วิชาบังคับก่อน",
+            "วิชาบังคับก่อนไม่ใช่วิชาที่เลือกได้ตามใจ",
+            "กลับลำดับ ENL101 ต้องมาก่อน",
+            null
+          ]
+        },
+        {
+          "id": "ENL181-U1-05",
+          "skill": "ENL181-U1",
+          "difficulty": 2,
+          "stem": "You get A (4.0) in a 3-credit course and C (2.0) in another 3-credit course. What is your GPA?",
+          "options": [
+            "3.00",
+            "2.00",
+            "4.00",
+            "6.00"
+          ],
+          "answer": 0,
+          "explanation_th": "(4 x 3 + 2 x 3) / 6 = 18 / 6 = 3.00",
+          "why_wrong": [
+            null,
+            "เป็นค่าเกรดของวิชาที่ได้ C อย่างเดียว",
+            "เป็นค่าเกรดของวิชาที่ได้ A อย่างเดียว",
+            "เอาเกรดมาบวกกันแต่ลืมหาร GPA ไม่เกิน 4.00"
+          ]
+        },
+        {
+          "id": "ENL181-U1-06",
+          "skill": "ENL181-U1",
+          "difficulty": 3,
+          "stem": "You get A (4.0) in a 1-credit course and C (2.0) in a 3-credit course. What is your GPA?",
+          "options": [
+            "2.50",
+            "3.00",
+            "2.00",
+            "4.00"
+          ],
+          "answer": 0,
+          "explanation_th": "(4 x 1 + 2 x 3) / 4 = 10 / 4 = 2.50 วิชาที่หน่วยกิตมากมีน้ำหนักมากกว่า",
+          "why_wrong": [
+            null,
+            "เป็นค่าเฉลี่ยแบบไม่คิดหน่วยกิต ซึ่งผิด",
+            "ลืมนับวิชาที่ได้ A",
+            "ลืมนับวิชาที่ได้ C"
+          ]
+        },
+        {
+          "id": "ENL181-U1-07",
+          "skill": "ENL181-U1",
+          "difficulty": 1,
+          "stem": "What is a degree plan?",
+          "options": [
+            "A list of the courses to take in each term until you graduate",
+            "A map of the campus",
+            "A class timetable for one day",
+            "A list of your grades"
+          ],
+          "answer": 0,
+          "explanation_th": "แผนการเรียนบอกวิชาของแต่ละภาคตลอดหลักสูตร",
+          "why_wrong": [
+            null,
+            "แผนที่ไม่ได้บอกวิชาที่ต้องเรียน",
+            "ตารางวันเดียวไม่ใช่แผนทั้งหลักสูตร",
+            "นั่นคือใบแสดงผลการเรียน (transcript)"
+          ]
+        },
+        {
+          "id": "ENL181-U1-08",
+          "skill": "ENL181-U1",
+          "difficulty": 2,
+          "stem": "A 3(3-0-6) course has 3 class hours a week. About how many hours a week should you spend on it in total?",
+          "options": [
+            "About 3 hours",
+            "About 6 hours",
+            "About 9 hours",
+            "About 18 hours"
+          ],
+          "answer": 2,
+          "explanation_th": "ในห้อง 3 ชั่วโมง บวกอ่านเอง 6 ชั่วโมง เป็น 9 ชั่วโมงต่อสัปดาห์",
+          "why_wrong": [
+            "นับแค่ชั่วโมงในห้อง ลืมชั่วโมงอ่านเอง",
+            "นับแค่ชั่วโมงอ่านเอง ลืมชั่วโมงในห้อง",
+            null,
+            "มากเกินกว่าที่ตัวเลขในวงเล็บบอก"
+          ]
+        },
+        {
+          "id": "ENL181-U1-09",
+          "skill": "ENL181-U1",
+          "difficulty": 1,
+          "stem": "What is a syllabus?",
+          "options": [
+            "Your student ID card",
+            "A course document with topics, assignments and how you are graded",
+            "A map of the university",
+            "A list of all the students in the class"
+          ],
+          "answer": 1,
+          "explanation_th": "syllabus บอกหัวข้อ งาน และเกณฑ์ให้คะแนนของวิชา",
+          "why_wrong": [
+            "บัตรนักศึกษาไม่ใช่เอกสารรายวิชา",
+            null,
+            "แผนที่ไม่ได้บอกเนื้อหาวิชา",
+            "รายชื่อนักศึกษาไม่ใช่ syllabus"
+          ]
+        }
+      ],
+      "say": [
+        "This course is three credits.",
+        "I study six hours a week on my own for each course.",
+        "What is the prerequisite for this course?"
+      ],
+      "task_th": "เปิดหน้าแผน 4 ปีในแอปนี้ แล้วนับว่าปี 1 ภาค 1/1 และ 1/2 รวมกันกี่หน่วยกิต จากนั้นคำนวณว่าถ้าทุกวิชาเป็น 3(3-0-6) ต้องอ่านเองสัปดาห์ละกี่ชั่วโมง"
+    },
+    {
+      "id": "ENL181-U2",
+      "title_th": "ภาษาอังกฤษในห้องเรียนและอีเมลถึงอาจารย์",
+      "title_en": "Classroom English and Emailing a Lecturer",
+      "covers": "ทักษะการสื่อสารภาษาอังกฤษเบื้องต้น",
+      "minutes": 12,
+      "cards": [
+        {
+          "title_th": "ถามซ้ำแบบสุภาพ",
+          "body_th": "ฟังไม่ทันไม่ผิด ขอให้พูดซ้ำได้เลย",
+          "example": "Sorry, could you repeat that, please?"
+        },
+        {
+          "title_th": "ถามความหมายและการสะกด",
+          "body_th": "ใช้ประโยคสั้น ๆ ถามได้ทันที",
+          "example": "What does 'deadline' mean? How do you spell it?"
+        },
+        {
+          "title_th": "Could และ Would",
+          "body_th": "ขึ้นต้นคำขอด้วย Could you... หรือ Would it be possible... สุภาพกว่าการสั่งตรง ๆ"
+        },
+        {
+          "title_th": "โครงอีเมลถึงอาจารย์",
+          "body_th": "Subject ชัด → Dear Ajarn + ชื่อ → แนะนำตัว ชื่อ รหัสนักศึกษา วิชา → เรื่องที่ต้องการ 1 เรื่อง → ขอบคุณ → Best regards + ชื่อ"
+        },
+        {
+          "title_th": "เลี่ยงภาษาแชต",
+          "body_th": "ในอีเมลถึงอาจารย์ ไม่ใช้ Hey, u, plz หรืออีโมจิ"
+        }
+      ],
+      "vocab": [
+        [
+          "lecturer",
+          "อาจารย์ผู้สอน"
+        ],
+        [
+          "assignment",
+          "งานที่ได้รับมอบหมาย"
+        ],
+        [
+          "deadline",
+          "กำหนดส่ง"
+        ],
+        [
+          "office hours",
+          "ชั่วโมงที่อาจารย์ว่างให้นักศึกษาเข้าพบ"
+        ],
+        [
+          "subject line",
+          "หัวเรื่องอีเมล"
+        ],
+        [
+          "clarify",
+          "ทำให้ชัดเจน"
+        ],
+        [
+          "extension",
+          "การขยายเวลาส่ง"
+        ],
+        [
+          "attachment",
+          "ไฟล์แนบ"
+        ],
+        [
+          "polite",
+          "สุภาพ"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "ENL181-U2-01",
+          "skill": "ENL181-U2",
+          "difficulty": 1,
+          "stem": "You did not hear the teacher. What is the most polite thing to say?",
+          "options": [
+            "What? Say again.",
+            "Sorry, could you repeat that, please?",
+            "I don't care.",
+            "Repeat!"
+          ],
+          "answer": 1,
+          "explanation_th": "มี Sorry, could และ please จึงสุภาพที่สุด",
+          "why_wrong": [
+            "ห้วนเกินไปสำหรับพูดกับอาจารย์",
+            null,
+            "ไม่สุภาพ และไม่ได้ขอให้พูดซ้ำ",
+            "เป็นคำสั่ง ไม่ใช่คำขอ"
+          ]
+        },
+        {
+          "id": "ENL181-U2-02",
+          "skill": "ENL181-U2",
+          "difficulty": 1,
+          "stem": "You don't know a word the teacher used. What can you ask?",
+          "options": [
+            "Excuse me, what does 'deadline' mean?",
+            "Excuse me, what time is it?",
+            "Excuse me, can I go home?",
+            "Excuse me, where is the deadline?"
+          ],
+          "answer": 0,
+          "explanation_th": "ถามความหมายของคำตรงตามที่ต้องการ",
+          "why_wrong": [
+            null,
+            "ถามเวลา ไม่ได้ถามความหมายของคำ",
+            "ขอกลับบ้าน ไม่เกี่ยวกับคำศัพท์",
+            "deadline ไม่ใช่สถานที่ ใช้ where ไม่ได้"
+          ]
+        },
+        {
+          "id": "ENL181-U2-03",
+          "skill": "ENL181-U2",
+          "difficulty": 1,
+          "stem": "Which is the best subject line for an email to a lecturer?",
+          "options": [
+            "ENL181: Question about Assignment 2",
+            "Hi!!!",
+            "(no subject)",
+            "URGENT READ NOW"
+          ],
+          "answer": 0,
+          "explanation_th": "บอกวิชาและเรื่องชัดเจน อาจารย์รู้ทันทีว่าเรื่องอะไร",
+          "why_wrong": [
+            null,
+            "ไม่บอกเรื่อง และเครื่องหมายเยอะเกินไป",
+            "ไม่มีหัวเรื่อง อาจารย์อาจไม่เปิดอ่าน",
+            "ตัวพิมพ์ใหญ่ทั้งหมดดูเหมือนตะโกน และไม่สุภาพ"
+          ]
+        },
+        {
+          "id": "ENL181-U2-04",
+          "skill": "ENL181-U2",
+          "difficulty": 1,
+          "stem": "Which greeting is best in an email to your lecturer?",
+          "options": [
+            "Hey teacher,",
+            "Yo!",
+            "To whom it may concern,",
+            "Dear Ajarn Somchai,"
+          ],
+          "answer": 3,
+          "explanation_th": "Dear + คำเรียก + ชื่อ เป็นทางการและสุภาพ",
+          "why_wrong": [
+            "Hey เป็นภาษาไม่ทางการเกินไป",
+            "เป็นภาษาเพื่อน ไม่เหมาะกับอาจารย์",
+            "ใช้เมื่อไม่รู้ว่าผู้รับเป็นใคร แต่เรารู้ชื่ออาจารย์อยู่แล้ว",
+            null
+          ]
+        },
+        {
+          "id": "ENL181-U2-05",
+          "skill": "ENL181-U2",
+          "difficulty": 1,
+          "stem": "Which sentence is the most polite request?",
+          "options": [
+            "Could you please give me some feedback on my draft?",
+            "Give me feedback now.",
+            "You must check my draft.",
+            "Check my draft, OK?"
+          ],
+          "answer": 0,
+          "explanation_th": "ใช้ Could you please เป็นคำขอที่สุภาพ",
+          "why_wrong": [
+            null,
+            "เป็นคำสั่ง และเร่งอาจารย์",
+            "must ใช้สั่งอาจารย์ไม่ได้",
+            "ยังเป็นคำสั่ง แม้มี OK ต่อท้าย"
+          ]
+        },
+        {
+          "id": "ENL181-U2-06",
+          "skill": "ENL181-U2",
+          "difficulty": 1,
+          "stem": "What should you write near the start of an email to a lecturer?",
+          "options": [
+            "Your home address and phone bill",
+            "Your name, student ID and course",
+            "A long story about your weekend",
+            "Your password"
+          ],
+          "answer": 1,
+          "explanation_th": "อาจารย์สอนหลายกลุ่ม ต้องรู้ว่าเราเป็นใครและเรียนวิชาไหน",
+          "why_wrong": [
+            "ไม่เกี่ยวกับเรื่องที่ติดต่อ และเป็นข้อมูลส่วนตัว",
+            null,
+            "ยาวและไม่ตรงเรื่อง",
+            "ห้ามส่งรหัสผ่านให้ใครเด็ดขาด"
+          ]
+        },
+        {
+          "id": "ENL181-U2-07",
+          "skill": "ENL181-U2",
+          "difficulty": 1,
+          "stem": "Which closing is best for an email to a lecturer?",
+          "options": [
+            "Best regards, Krit",
+            "Bye bye!!",
+            "Love you",
+            "Reply fast"
+          ],
+          "answer": 0,
+          "explanation_th": "Best regards ตามด้วยชื่อ เป็นคำลงท้ายที่สุภาพ",
+          "why_wrong": [
+            null,
+            "เป็นภาษาพูดเล่น ๆ",
+            "ไม่เหมาะกับอีเมลถึงอาจารย์",
+            "เป็นการเร่งและไม่สุภาพ"
+          ]
+        },
+        {
+          "id": "ENL181-U2-08",
+          "skill": "ENL181-U2",
+          "difficulty": 2,
+          "stem": "You want to ask for more time for your assignment. Which sentence is best?",
+          "options": [
+            "Give me two more days.",
+            "Would it be possible to have a two-day extension?",
+            "I will send it whenever I want.",
+            "My friend says you always give extensions."
+          ],
+          "answer": 1,
+          "explanation_th": "ขอแบบสุภาพและบอกจำนวนวันชัดเจน",
+          "why_wrong": [
+            "เป็นคำสั่ง ไม่ใช่คำขอ",
+            null,
+            "ไม่ได้ขอ และไม่เคารพกำหนดส่ง",
+            "อ้างเพื่อนและกดดันอาจารย์ ไม่ใช่คำขอที่สุภาพ"
+          ]
+        },
+        {
+          "id": "ENL181-U2-09",
+          "skill": "ENL181-U2",
+          "difficulty": 1,
+          "stem": "What are office hours?",
+          "options": [
+            "Hours when the office is closed",
+            "The times of the final exams",
+            "Hours you must work in an office",
+            "Times when a lecturer is free to meet students"
+          ],
+          "answer": 3,
+          "explanation_th": "office hours คือเวลาที่อาจารย์ว่างให้เข้าพบหรือปรึกษา",
+          "why_wrong": [
+            "ความหมายกลับกัน",
+            "ไม่ใช่ตารางสอบ",
+            "ไม่ใช่เวลาทำงานของนักศึกษา",
+            null
+          ]
+        }
+      ],
+      "say": [
+        "Sorry, could you repeat that, please?",
+        "Excuse me, what does this word mean?",
+        "Could I ask a question about the assignment?"
+      ],
+      "task_th": "เขียนอีเมลภาษาอังกฤษสั้น ๆ 5 ถึง 6 บรรทัดถึงอาจารย์สมมติ ถามว่างานชิ้นแรกส่งทางไหน ใช้โครง Subject, Dear Ajarn..., แนะนำตัว, คำถาม, Thank you, Best regards แล้วบันทึกเป็นแบบร่างไว้ใช้จริง"
+    },
+    {
+      "id": "ENL181-U3",
+      "title_th": "จรรยาบรรณทางวิชาการ",
+      "title_en": "Academic Integrity",
+      "covers": "หลักจรรยาบรรณทางวิชาการ",
+      "minutes": 12,
+      "cards": [
+        {
+          "title_th": "ซื่อสัตย์ในงานวิชาการ",
+          "body_th": "Academic integrity คืองานของเราต้องเป็นของเรา และให้เครดิตคนอื่นทุกครั้งที่ใช้คำหรือความคิดของเขา"
+        },
+        {
+          "title_th": "Plagiarism",
+          "body_th": "คือการเอาคำหรือความคิดของคนอื่นมาใช้โดยไม่อ้างอิง รวมถึงก๊อปมาแล้วเปลี่ยนแค่บางคำ"
+        },
+        {
+          "title_th": "ถอดความก็ต้องอ้าง",
+          "body_th": "Paraphrase คือเขียนใหม่ด้วยภาษาเรา แต่ความคิดยังเป็นของเจ้าของ จึงต้องอ้างอิงเสมอ"
+        },
+        {
+          "title_th": "ความรู้ทั่วไปไม่ต้องอ้าง",
+          "body_th": "Common knowledge คือสิ่งที่คนทั่วไปรู้และตรวจได้ง่าย เช่น A week has seven days. ส่วนตัวเลขสถิติหรือผลวิจัยต้องอ้าง"
+        },
+        {
+          "title_th": "AI และงานกลุ่ม",
+          "body_th": "แต่ละวิชามีกติกาต่างกัน ไม่แน่ใจว่าใช้ AI หรือช่วยเพื่อนได้แค่ไหน ให้ถามอาจารย์ก่อน"
+        }
+      ],
+      "vocab": [
+        [
+          "academic integrity",
+          "ความซื่อสัตย์ทางวิชาการ"
+        ],
+        [
+          "plagiarism",
+          "การลอกเลียนผลงาน"
+        ],
+        [
+          "cite",
+          "อ้างอิง"
+        ],
+        [
+          "paraphrase",
+          "ถอดความด้วยคำของตนเอง"
+        ],
+        [
+          "quotation",
+          "ข้อความที่ยกมาตรงตัว"
+        ],
+        [
+          "common knowledge",
+          "ความรู้ทั่วไป"
+        ],
+        [
+          "collusion",
+          "การร่วมกันทำงานเดี่ยวโดยไม่ได้รับอนุญาต"
+        ],
+        [
+          "fabrication",
+          "การแต่งข้อมูลขึ้นเอง"
+        ],
+        [
+          "original",
+          "เป็นของตนเอง ไม่ได้ลอกใคร"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "ENL181-U3-01",
+          "skill": "ENL181-U3",
+          "difficulty": 1,
+          "stem": "What is plagiarism?",
+          "options": [
+            "Reading many books for an essay",
+            "Asking the teacher a question",
+            "Using someone else's words or ideas without giving credit",
+            "Writing your own ideas"
+          ],
+          "answer": 2,
+          "explanation_th": "plagiarism คือใช้งานคนอื่นโดยไม่อ้างอิง",
+          "why_wrong": [
+            "การอ่านมากเป็นเรื่องดี ไม่ใช่การลอก",
+            "การถามอาจารย์ไม่เกี่ยวกับการลอก",
+            null,
+            "ความคิดของเราเองไม่ใช่การลอก"
+          ]
+        },
+        {
+          "id": "ENL181-U3-02",
+          "skill": "ENL181-U3",
+          "difficulty": 2,
+          "stem": "You copy a paragraph and change a few words. You don't cite it. Is this OK?",
+          "options": [
+            "Yes, because you changed some words",
+            "No, it is still plagiarism",
+            "Yes, if you copy it from a website",
+            "Yes, if your friends do it too"
+          ],
+          "answer": 1,
+          "explanation_th": "เปลี่ยนแค่บางคำและไม่อ้าง ยังถือว่าลอก",
+          "why_wrong": [
+            "การเปลี่ยนไม่กี่คำไม่ได้ทำให้เป็นงานของเรา",
+            null,
+            "งานบนเว็บก็มีเจ้าของ ต้องอ้างอิง",
+            "คนอื่นทำด้วยไม่ได้ทำให้ถูก"
+          ]
+        },
+        {
+          "id": "ENL181-U3-03",
+          "skill": "ENL181-U3",
+          "difficulty": 2,
+          "stem": "You paraphrase an idea from a book. Do you need to cite it?",
+          "options": [
+            "Yes, because the idea belongs to the author",
+            "No, because the words are yours now",
+            "No, only direct quotes need citations",
+            "Only if the book is in English"
+          ],
+          "answer": 0,
+          "explanation_th": "ถอดความแล้ว ความคิดยังเป็นของผู้เขียน",
+          "why_wrong": [
+            null,
+            "คำเป็นของเรา แต่ความคิดไม่ใช่",
+            "การถอดความก็ต้องอ้างอิงเช่นกัน",
+            "ภาษาไหนก็ต้องอ้างอิง"
+          ]
+        },
+        {
+          "id": "ENL181-U3-04",
+          "skill": "ENL181-U3",
+          "difficulty": 2,
+          "stem": "Which sentence is common knowledge and usually does not need a citation?",
+          "options": [
+            "35% of first-year students sleep less than six hours.",
+            "A 2021 study found that music helps memory.",
+            "The author argues that paper books are better than e-books.",
+            "There are seven days in a week."
+          ],
+          "answer": 3,
+          "explanation_th": "คนทั่วไปรู้และตรวจได้ง่าย",
+          "why_wrong": [
+            "ตัวเลขสถิติเฉพาะต้องบอกแหล่งที่มา",
+            "อ้างถึงงานวิจัย ต้องบอกว่างานไหน",
+            "เป็นความเห็นของผู้เขียนคนหนึ่ง ต้องอ้างอิง",
+            null
+          ]
+        },
+        {
+          "id": "ENL181-U3-05",
+          "skill": "ENL181-U3",
+          "difficulty": 1,
+          "stem": "Your friend wants to copy your homework for an individual assignment. What should you do?",
+          "options": [
+            "Send it, because friends share everything",
+            "Send it, but tell them to change the font",
+            "Do the homework for them",
+            "Say no, but offer to explain the topic"
+          ],
+          "answer": 3,
+          "explanation_th": "ช่วยให้เข้าใจได้ แต่ไม่ให้ลอกงานเดี่ยว",
+          "why_wrong": [
+            "เป็นการร่วมกันโกง (collusion)",
+            "เปลี่ยนฟอนต์ไม่ได้ทำให้เป็นงานของเพื่อน",
+            "ยังเป็นการโกง และเพื่อนไม่ได้เรียนรู้",
+            null
+          ]
+        },
+        {
+          "id": "ENL181-U3-06",
+          "skill": "ENL181-U3",
+          "difficulty": 2,
+          "stem": "You want to use an AI chatbot for an assignment. What should you do first?",
+          "options": [
+            "Use it and hide it",
+            "Check the course rules or ask the lecturer",
+            "Copy its answer and submit it as your work",
+            "Assume every course allows any AI use"
+          ],
+          "answer": 1,
+          "explanation_th": "แต่ละวิชามีกติกาเรื่อง AI ต่างกัน",
+          "why_wrong": [
+            "การปิดบังขัดกับความซื่อสัตย์ทางวิชาการ",
+            null,
+            "ส่งงานที่ไม่ได้ทำเองในชื่อตัวเอง",
+            "ไม่ควรเดา ต้องดูกติกาของแต่ละวิชา"
+          ]
+        },
+        {
+          "id": "ENL181-U3-07",
+          "skill": "ENL181-U3",
+          "difficulty": 1,
+          "stem": "Making up survey data that you never collected is called...",
+          "options": [
+            "paraphrasing",
+            "citation",
+            "brainstorming",
+            "fabrication"
+          ],
+          "answer": 3,
+          "explanation_th": "การแต่งข้อมูลที่ไม่มีจริงคือ fabrication",
+          "why_wrong": [
+            "คือการถอดความ ไม่ใช่การแต่งข้อมูล",
+            "คือการอ้างอิง ซึ่งเป็นสิ่งที่ถูกต้อง",
+            "คือการระดมความคิด",
+            null
+          ]
+        },
+        {
+          "id": "ENL181-U3-08",
+          "skill": "ENL181-U3",
+          "difficulty": 3,
+          "stem": "You hand in your old high school essay again in a university class without asking. What is the problem?",
+          "options": [
+            "There is no problem because it is your work",
+            "It is fine if you change the title",
+            "It can count as self-plagiarism unless the lecturer allows it",
+            "It is fine because high school work does not count"
+          ],
+          "answer": 2,
+          "explanation_th": "งานใหม่ควรเป็นงานใหม่ ถ้าจะใช้งานเก่าต้องได้รับอนุญาต",
+          "why_wrong": [
+            "แม้เป็นงานเรา การส่งซ้ำโดยไม่บอกก็มีปัญหา",
+            "เปลี่ยนชื่อเรื่องไม่ได้ทำให้เป็นงานใหม่",
+            null,
+            "งานเก่าทุกระดับก็นับ ต้องขออนุญาตก่อน"
+          ]
+        }
+      ],
+      "say": [
+        "I always cite my sources.",
+        "Is it OK to use AI for this assignment?",
+        "I wrote this in my own words, and I cited the author."
+      ],
+      "task_th": "เลือกย่อหน้าสั้น ๆ ภาษาอังกฤษจากบทความ 1 ย่อหน้า ลองถอดความ (paraphrase) เป็นประโยคของตัวเอง 2 ประโยค แล้วเขียนชื่อผู้เขียนและปีไว้ท้ายประโยค"
+    },
+    {
+      "id": "ENL181-U4",
+      "title_th": "ใช้พจนานุกรมให้คุ้ม",
+      "title_en": "Using an English Dictionary",
+      "covers": "รวมทั้งฝึกสืบค้นและอ้างอิงข้อมูลจากพจนานุกรม",
+      "minutes": 12,
+      "cards": [
+        {
+          "title_th": "พจนานุกรมสำหรับผู้เรียน",
+          "body_th": "Learner's dictionary เช่น Longman, Oxford Learner's, Cambridge อธิบายด้วยคำง่าย และมีประโยคตัวอย่างเยอะ"
+        },
+        {
+          "title_th": "ชนิดของคำ",
+          "body_th": "ดูป้าย n. (noun), v. (verb), adj. (adjective), adv. (adverb) คำเดียวอาจเป็นได้หลายชนิด",
+          "example": "study (n.) / study (v.)"
+        },
+        {
+          "title_th": "การออกเสียง",
+          "body_th": "ดูสัญลักษณ์ IPA และเครื่องหมาย ˈ ที่วางหน้าพยางค์ที่ลงเสียงหนัก กดฟังเสียงได้ในพจนานุกรมออนไลน์",
+          "example": "/ˈstʌdi/"
+        },
+        {
+          "title_th": "คำที่ใช้คู่กัน",
+          "body_th": "Collocation คือคำที่มักไปด้วยกัน ถ้าใช้คู่ผิด คนฟังจะรู้สึกแปลก",
+          "example": "make a decision, do homework, heavy rain"
+        },
+        {
+          "title_th": "นับได้หรือไม่ได้",
+          "body_th": "[C] = countable นับได้ [U] = uncountable นับไม่ได้",
+          "example": "advice [U]: some advice, not an advice"
+        }
+      ],
+      "vocab": [
+        [
+          "part of speech",
+          "ชนิดของคำ"
+        ],
+        [
+          "noun",
+          "คำนาม"
+        ],
+        [
+          "verb",
+          "คำกริยา"
+        ],
+        [
+          "adjective",
+          "คำคุณศัพท์"
+        ],
+        [
+          "pronunciation",
+          "การออกเสียง"
+        ],
+        [
+          "stress",
+          "การลงเสียงหนัก"
+        ],
+        [
+          "collocation",
+          "คำที่มักใช้คู่กัน"
+        ],
+        [
+          "countable",
+          "นับได้"
+        ],
+        [
+          "uncountable",
+          "นับไม่ได้"
+        ],
+        [
+          "example sentence",
+          "ประโยคตัวอย่าง"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "ENL181-U4-01",
+          "skill": "ENL181-U4",
+          "difficulty": 1,
+          "stem": "In a dictionary, what does 'adj.' mean?",
+          "options": [
+            "adverb",
+            "address",
+            "addition",
+            "adjective"
+          ],
+          "answer": 3,
+          "explanation_th": "adj. ย่อมาจาก adjective คำคุณศัพท์",
+          "why_wrong": [
+            "adverb ใช้ตัวย่อ adv.",
+            "ไม่ใช่ป้ายชนิดของคำ",
+            "ไม่ใช่ป้ายชนิดของคำ",
+            null
+          ]
+        },
+        {
+          "id": "ENL181-U4-02",
+          "skill": "ENL181-U4",
+          "difficulty": 1,
+          "stem": "Choose the correct collocation: ___ a decision",
+          "options": [
+            "make",
+            "do",
+            "build",
+            "say"
+          ],
+          "answer": 0,
+          "explanation_th": "make a decision เป็นคู่คำที่ถูก",
+          "why_wrong": [
+            null,
+            "do a decision ไม่ใช่คู่คำที่เจ้าของภาษาใช้",
+            "build ใช้กับสิ่งก่อสร้าง ไม่ใช้กับ decision",
+            "say ใช้กับคำพูด ไม่ใช้กับ decision"
+          ]
+        },
+        {
+          "id": "ENL181-U4-03",
+          "skill": "ENL181-U4",
+          "difficulty": 1,
+          "stem": "Choose the correct collocation: ___ your homework",
+          "options": [
+            "make",
+            "do",
+            "play",
+            "say"
+          ],
+          "answer": 1,
+          "explanation_th": "do homework เป็นคู่คำที่ถูก",
+          "why_wrong": [
+            "make homework เป็นข้อผิดที่คนไทยเจอบ่อย",
+            null,
+            "play ใช้กับกีฬา เกม หรือดนตรี",
+            "say ใช้กับคำพูด"
+          ]
+        },
+        {
+          "id": "ENL181-U4-04",
+          "skill": "ENL181-U4",
+          "difficulty": 2,
+          "stem": "The dictionary shows 'advice [U]'. What does [U] tell you?",
+          "options": [
+            "It is a verb",
+            "It is American English only",
+            "It is an old word",
+            "It is uncountable, so you can't say 'an advice'"
+          ],
+          "answer": 3,
+          "explanation_th": "[U] คือ uncountable นับไม่ได้ ใช้ some advice หรือ a piece of advice",
+          "why_wrong": [
+            "ป้ายกริยาคือ v. และ advice เป็นคำนาม",
+            "ป้ายภาษาอเมริกันมักเขียนว่า AmE หรือ US",
+            "ป้ายคำเก่ามักเขียนว่า old-fashioned",
+            null
+          ]
+        },
+        {
+          "id": "ENL181-U4-05",
+          "skill": "ENL181-U4",
+          "difficulty": 2,
+          "stem": "In /ˈstʌdi/, what does the mark ˈ show?",
+          "options": [
+            "The word is a verb",
+            "The next syllable is stressed",
+            "The word is plural",
+            "You should pause here"
+          ],
+          "answer": 1,
+          "explanation_th": "ˈ วางหน้าพยางค์ที่ลงเสียงหนัก",
+          "why_wrong": [
+            "ชนิดของคำดูจากป้าย n. v. adj.",
+            null,
+            "เครื่องหมายนี้ไม่ได้บอกพหูพจน์",
+            "ไม่ใช่เครื่องหมายหยุด"
+          ]
+        },
+        {
+          "id": "ENL181-U4-06",
+          "skill": "ENL181-U4",
+          "difficulty": 1,
+          "stem": "Why are example sentences in a dictionary useful?",
+          "options": [
+            "They show how the word is used in real sentences",
+            "They give a Thai translation of every word",
+            "They show the price of the dictionary",
+            "They only tell the history of the word"
+          ],
+          "answer": 0,
+          "explanation_th": "เห็นตำแหน่งคำ คำที่ใช้คู่ และบริบทจริง",
+          "why_wrong": [
+            null,
+            "พจนานุกรมอังกฤษ-อังกฤษไม่มีคำแปลไทย",
+            "ไม่เกี่ยวกับราคา",
+            "ประวัติคำเป็นอีกส่วนหนึ่ง"
+          ]
+        },
+        {
+          "id": "ENL181-U4-07",
+          "skill": "ENL181-U4",
+          "difficulty": 2,
+          "stem": "The word 'record' can be a noun or a verb. Where in the dictionary do you check this?",
+          "options": [
+            "The page number",
+            "The front cover",
+            "The publisher's name",
+            "The part of speech labels in the entry"
+          ],
+          "answer": 3,
+          "explanation_th": "ป้าย n. และ v. บอกว่าคำนี้เป็นได้ทั้งสองชนิด",
+          "why_wrong": [
+            "เลขหน้าไม่ได้บอกชนิดของคำ",
+            "หน้าปกไม่มีข้อมูลของคำ",
+            "ชื่อสำนักพิมพ์ไม่เกี่ยวกับชนิดของคำ",
+            null
+          ]
+        },
+        {
+          "id": "ENL181-U4-08",
+          "skill": "ENL181-U4",
+          "difficulty": 1,
+          "stem": "Which dictionary is made for learners of English, with simple definitions?",
+          "options": [
+            "A dictionary of legal terms",
+            "A list of street names",
+            "A learner's dictionary, such as Longman or Oxford Learner's",
+            "A medical dictionary"
+          ],
+          "answer": 2,
+          "explanation_th": "ออกแบบมาให้ผู้เรียน อธิบายด้วยคำง่าย",
+          "why_wrong": [
+            "เป็นพจนานุกรมเฉพาะทาง ศัพท์ยาก",
+            "ไม่ใช่พจนานุกรม",
+            null,
+            "เป็นพจนานุกรมเฉพาะทางการแพทย์"
+          ]
+        }
+      ],
+      "say": [
+        "Let me check the part of speech.",
+        "The stress is on the first syllable.",
+        "We say \"make a decision\", not \"do a decision\"."
+      ],
+      "task_th": "เปิดพจนานุกรม Longman หรือ Oxford Learner's ออนไลน์ แล้วหาคำว่า \"research\" จดชนิดของคำ การลงเสียงหนัก [C] หรือ [U] คำที่ใช้คู่ 2 คู่ และกดฟังเสียงแล้วพูดตาม 3 รอบ"
+    },
+    {
+      "id": "ENL181-U5",
+      "title_th": "สืบค้นข้อมูลออนไลน์และฐานข้อมูล",
+      "title_en": "Searching the Internet and Databases",
+      "covers": "อินเทอร์เน็ต และฐานข้อมูลอิเล็กทรอนิกส์",
+      "minutes": 12,
+      "cards": [
+        {
+          "title_th": "ใช้คำสำคัญ",
+          "body_th": "พิมพ์คำสำคัญ (keyword) 2 ถึง 4 คำ แทนประโยคยาว",
+          "example": "student sleep grades"
+        },
+        {
+          "title_th": "เครื่องหมายคำพูด",
+          "body_th": "ใส่ \" \" เพื่อค้นวลีตรงตัว",
+          "example": "\"academic integrity\""
+        },
+        {
+          "title_th": "site: และเครื่องหมายลบ",
+          "body_th": "site: จำกัดเว็บไซต์ ส่วน - ตัดคำที่ไม่ต้องการออก",
+          "example": "plagiarism site:ac.th / python -snake"
+        },
+        {
+          "title_th": "ฐานข้อมูลอิเล็กทรอนิกส์",
+          "body_th": "เช่น Google Scholar และฐานข้อมูลของห้องสมุด มีบทความวิชาการที่ผ่านการประเมินโดยผู้ทรงคุณวุฒิ (peer-reviewed)"
+        },
+        {
+          "title_th": "ประเมินแหล่งข้อมูล",
+          "body_th": "ถาม 4 ข้อ ใครเขียน (authority) ใหม่แค่ไหน (currency) มีหลักฐานไหม (accuracy) เขียนเพื่ออะไร (purpose)"
+        }
+      ],
+      "vocab": [
+        [
+          "keyword",
+          "คำสำคัญ"
+        ],
+        [
+          "search engine",
+          "เครื่องมือค้นหา"
+        ],
+        [
+          "database",
+          "ฐานข้อมูล"
+        ],
+        [
+          "exact phrase",
+          "วลีตรงตัว"
+        ],
+        [
+          "peer-reviewed",
+          "ผ่านการประเมินโดยผู้ทรงคุณวุฒิ"
+        ],
+        [
+          "source",
+          "แหล่งข้อมูล"
+        ],
+        [
+          "reliable",
+          "น่าเชื่อถือ"
+        ],
+        [
+          "publication date",
+          "วันที่เผยแพร่"
+        ],
+        [
+          "author",
+          "ผู้เขียน"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "ENL181-U5-01",
+          "skill": "ENL181-U5",
+          "difficulty": 1,
+          "stem": "You want results with the exact phrase academic integrity. What do you type?",
+          "options": [
+            "academic OR integrity",
+            "\"academic integrity\"",
+            "academic -integrity",
+            "academic integrity please"
+          ],
+          "answer": 1,
+          "explanation_th": "เครื่องหมายคำพูดบังคับให้ค้นวลีตรงตัว",
+          "why_wrong": [
+            "OR ให้ผลที่มีคำใดคำหนึ่ง ไม่ใช่วลีตรงตัว",
+            null,
+            "เครื่องหมายลบจะตัดคำว่า integrity ออก",
+            "คำว่า please ไม่ช่วยและอาจทำให้ผลแปลก"
+          ]
+        },
+        {
+          "id": "ENL181-U5-02",
+          "skill": "ENL181-U5",
+          "difficulty": 2,
+          "stem": "You want results only from Thai academic websites. What do you type?",
+          "options": [
+            "plagiarism -ac.th",
+            "site plagiarism",
+            "plagiarism site:ac.th",
+            "plagiarism ac.th please"
+          ],
+          "answer": 2,
+          "explanation_th": "site:ac.th จำกัดผลให้มาจากเว็บที่ลงท้าย ac.th",
+          "why_wrong": [
+            "เครื่องหมายลบตัดผลที่มี ac.th ออก ตรงข้ามกับที่ต้องการ",
+            "ไม่มีเครื่องหมาย : จึงไม่ใช่คำสั่ง site:",
+            null,
+            "ไม่ได้จำกัดเว็บ แค่เพิ่มคำค้น"
+          ]
+        },
+        {
+          "id": "ENL181-U5-03",
+          "skill": "ENL181-U5",
+          "difficulty": 1,
+          "stem": "Which search is best for finding research on students' sleep and grades?",
+          "options": [
+            "Hello, can you please tell me everything about sleep?",
+            "sleep",
+            "student sleep grades research",
+            "students"
+          ],
+          "answer": 2,
+          "explanation_th": "ใช้คำสำคัญสั้น ๆ ตรงเรื่อง",
+          "why_wrong": [
+            "ประโยคยาวมีคำที่ไม่จำเป็นเยอะ",
+            "กว้างเกินไป ได้ผลหลายเรื่องที่ไม่เกี่ยว",
+            null,
+            "กว้างเกินไป ไม่มีเรื่องการนอนหรือเกรด"
+          ]
+        },
+        {
+          "id": "ENL181-U5-04",
+          "skill": "ENL181-U5",
+          "difficulty": 1,
+          "stem": "What does the minus sign do in 'python -snake'?",
+          "options": [
+            "It searches for python and snake together",
+            "It finds only pictures",
+            "It removes results that include the word snake",
+            "It searches only in Thai"
+          ],
+          "answer": 2,
+          "explanation_th": "เครื่องหมายลบตัดคำที่ไม่ต้องการ",
+          "why_wrong": [
+            "ตรงข้าม เครื่องหมายลบคือตัดออก",
+            "ไม่เกี่ยวกับประเภทผลลัพธ์",
+            null,
+            "ไม่เกี่ยวกับภาษา"
+          ]
+        },
+        {
+          "id": "ENL181-U5-05",
+          "skill": "ENL181-U5",
+          "difficulty": 1,
+          "stem": "Which source is usually the most reliable for an academic essay?",
+          "options": [
+            "An anonymous comment on social media",
+            "A peer-reviewed journal article",
+            "An advertisement for a product",
+            "A meme"
+          ],
+          "answer": 1,
+          "explanation_th": "ผ่านการตรวจโดยผู้เชี่ยวชาญก่อนตีพิมพ์",
+          "why_wrong": [
+            "ไม่รู้ว่าใครเขียน ตรวจสอบไม่ได้",
+            null,
+            "มีจุดประสงค์เพื่อขาย อาจมีอคติ",
+            "เพื่อความบันเทิง ไม่ใช่แหล่งวิชาการ"
+          ]
+        },
+        {
+          "id": "ENL181-U5-06",
+          "skill": "ENL181-U5",
+          "difficulty": 2,
+          "stem": "When you evaluate a website, which question checks its authority?",
+          "options": [
+            "Who wrote it, and are they an expert?",
+            "Does it have many colors?",
+            "Is the font big?",
+            "Did it load quickly?"
+          ],
+          "answer": 0,
+          "explanation_th": "authority คือดูว่าผู้เขียนเป็นใคร มีความรู้ไหม",
+          "why_wrong": [
+            null,
+            "สีสันไม่บอกความน่าเชื่อถือ",
+            "ขนาดตัวอักษรไม่เกี่ยว",
+            "ความเร็วเว็บไม่บอกคุณภาพข้อมูล"
+          ]
+        },
+        {
+          "id": "ENL181-U5-07",
+          "skill": "ENL181-U5",
+          "difficulty": 2,
+          "stem": "Why should you check the publication date of a source?",
+          "options": [
+            "Newer websites always have more pictures",
+            "The date tells you who the author is",
+            "Old information may be out of date",
+            "All old information is wrong"
+          ],
+          "answer": 2,
+          "explanation_th": "บางเรื่องเปลี่ยนเร็ว ข้อมูลเก่าอาจไม่ถูกแล้ว",
+          "why_wrong": [
+            "จำนวนรูปไม่เกี่ยวกับความถูกต้อง",
+            "วันที่ไม่ได้บอกผู้เขียน",
+            null,
+            "ข้อมูลเก่าบางอย่างยังถูกอยู่ ต้องดูตามเรื่อง"
+          ]
+        },
+        {
+          "id": "ENL181-U5-08",
+          "skill": "ENL181-U5",
+          "difficulty": 1,
+          "stem": "What is an electronic database in a library?",
+          "options": [
+            "A printer in the library",
+            "A social media app",
+            "An online collection of articles, books and journals you can search",
+            "A list of library rules"
+          ],
+          "answer": 2,
+          "explanation_th": "ฐานข้อมูลอิเล็กทรอนิกส์ค้นหาบทความและหนังสือได้",
+          "why_wrong": [
+            "เครื่องพิมพ์ไม่ใช่ฐานข้อมูล",
+            "โซเชียลมีเดียไม่ใช่ฐานข้อมูลวิชาการ",
+            null,
+            "กฎห้องสมุดไม่ใช่ฐานข้อมูล"
+          ]
+        }
+      ],
+      "say": [
+        "I use short keywords when I search.",
+        "Who wrote this, and when?",
+        "I found a peer-reviewed article in a database."
+      ],
+      "task_th": "เปิด Google Scholar แล้วค้น \"academic integrity\" ใส่เครื่องหมายคำพูด เลือกบทความ 1 เรื่อง จดชื่อผู้เขียน ปี ชื่อบทความ และชื่อวารสารไว้ใช้ฝึกหน่วยถัดไป"
+    },
+    {
+      "id": "ENL181-U6",
+      "title_th": "การอ้างอิงแบบ APA 7",
+      "title_en": "Giving References in APA 7 Style",
+      "covers": "อ้างอิงข้อมูล",
+      "minutes": 15,
+      "cards": [
+        {
+          "title_th": "2 ส่วนต้องคู่กัน",
+          "body_th": "APA 7 มีการอ้างอิงในเนื้อหา (in-text citation) และรายการอ้างอิงท้ายงาน (reference list) ทุกแหล่งที่อ้างในเนื้อหาต้องมีในรายการท้ายงาน"
+        },
+        {
+          "title_th": "อ้างในเนื้อหา",
+          "body_th": "(นามสกุลผู้แต่ง, ปี) ถ้ายกข้อความตรงตัวให้ใส่หน้า ผู้แต่ง 2 คนใช้ & ผู้แต่ง 3 คนขึ้นไปใช้ et al. ตั้งแต่ครั้งแรก",
+          "example": "(Smith, 2020) / (Smith, 2020, p. 15) / (Smith & Lee, 2020) / (Lee et al., 2021)"
+        },
+        {
+          "title_th": "หนังสือ",
+          "body_th": "ผู้แต่ง. (ปี). ชื่อหนังสือตัวเอียง พิมพ์ตัวใหญ่เฉพาะคำแรก. สำนักพิมพ์. (APA 7 ไม่ใส่เมืองที่พิมพ์)",
+          "example": "Brown, J. (2019). Learning English at university. Sunrise Press."
+        },
+        {
+          "title_th": "บทความวารสาร",
+          "body_th": "ผู้แต่ง. (ปี). ชื่อบทความ. ชื่อวารสารและเลขปีที่ (volume) เป็นตัวเอียง, (ฉบับที่), หน้า. ลิงก์ DOI",
+          "example": "Lee, M. (2021). Sleep and study habits. Journal of Student Life, 5(2), 10-20. https://doi.org/10.1234/abcd"
+        },
+        {
+          "title_th": "เว็บไซต์",
+          "body_th": "ผู้แต่งหรือหน่วยงาน. (ปี, เดือน วัน). ชื่อหน้าเว็บตัวเอียง. ชื่อเว็บไซต์. URL ถ้าไม่มีปีใช้ (n.d.) รายการท้ายงานเรียงตามตัวอักษรนามสกุลผู้แต่งคนแรก"
+        }
+      ],
+      "vocab": [
+        [
+          "reference",
+          "การอ้างอิง รายการอ้างอิง"
+        ],
+        [
+          "in-text citation",
+          "การอ้างอิงในเนื้อหา"
+        ],
+        [
+          "reference list",
+          "รายการอ้างอิงท้ายงาน"
+        ],
+        [
+          "publisher",
+          "สำนักพิมพ์"
+        ],
+        [
+          "journal article",
+          "บทความวารสาร"
+        ],
+        [
+          "volume",
+          "ปีที่ของวารสาร"
+        ],
+        [
+          "issue",
+          "ฉบับที่"
+        ],
+        [
+          "DOI",
+          "รหัสประจำเอกสารดิจิทัล"
+        ],
+        [
+          "et al.",
+          "และคณะ"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "ENL181-U6-01",
+          "skill": "ENL181-U6",
+          "difficulty": 1,
+          "stem": "Which in-text citation follows APA 7?",
+          "options": [
+            "(Smith 2020 page)",
+            "(Smith, 2020)",
+            "(2020, Smith)",
+            "[Smith: 2020]"
+          ],
+          "answer": 1,
+          "explanation_th": "APA ใช้ (นามสกุล, ปี)",
+          "why_wrong": [
+            "ไม่มีจุลภาค และคำว่า page ไม่ใช่รูปแบบ APA",
+            null,
+            "สลับลำดับ ต้องเป็นชื่อก่อนปี",
+            "ใช้วงเล็บเหลี่ยมและโคลอน ไม่ใช่ APA"
+          ]
+        },
+        {
+          "id": "ENL181-U6-02",
+          "skill": "ENL181-U6",
+          "difficulty": 2,
+          "stem": "A source has three authors: Lee, Park and Chan (2021). What is the APA 7 in-text citation?",
+          "options": [
+            "(Lee et al., 2021)",
+            "(Lee, Park, and Chan, 2021)",
+            "(Lee and others 2021)",
+            "(Chan et al., 2021)"
+          ],
+          "answer": 0,
+          "explanation_th": "APA 7 ใช้ et al. เมื่อผู้แต่ง 3 คนขึ้นไป ตั้งแต่ครั้งแรก",
+          "why_wrong": [
+            null,
+            "APA 7 ไม่เขียนชื่อครบ 3 คนในวงเล็บ",
+            "ต้องใช้ et al. และมีจุลภาคก่อนปี",
+            "ต้องใช้ชื่อผู้แต่งคนแรก คือ Lee"
+          ]
+        },
+        {
+          "id": "ENL181-U6-03",
+          "skill": "ENL181-U6",
+          "difficulty": 2,
+          "stem": "You use a direct quote from page 15. Which citation is correct?",
+          "options": [
+            "(Smith, 2020)",
+            "(Smith, 2020, p. 15)",
+            "(Smith, p. 15)",
+            "(page 15, Smith 2020)"
+          ],
+          "answer": 1,
+          "explanation_th": "ข้อความตรงตัวต้องมีเลขหน้า",
+          "why_wrong": [
+            "ขาดเลขหน้าของข้อความที่ยกมา",
+            null,
+            "ขาดปี",
+            "ลำดับผิดและไม่ใช้ p."
+          ]
+        },
+        {
+          "id": "ENL181-U6-04",
+          "skill": "ENL181-U6",
+          "difficulty": 3,
+          "stem": "Which is a correct APA 7 reference for a book?",
+          "options": [
+            "Brown, John. Learning English at University. 2019.",
+            "J. Brown (2019) Learning English at university, Bangkok: Sunrise Press.",
+            "Learning English at university. Brown, J. 2019. Sunrise Press.",
+            "Brown, J. (2019). Learning English at university. Sunrise Press."
+          ],
+          "answer": 3,
+          "explanation_th": "นามสกุล อักษรย่อชื่อ (ปี). ชื่อหนังสือ. สำนักพิมพ์.",
+          "why_wrong": [
+            "ใช้ชื่อเต็ม ปีอยู่ท้าย และไม่มีสำนักพิมพ์",
+            "อักษรย่อชื่อมาก่อน และใส่เมือง ซึ่ง APA 7 ไม่ใส่",
+            "ชื่อหนังสือขึ้นก่อนผู้แต่ง ผิดลำดับ",
+            null
+          ]
+        },
+        {
+          "id": "ENL181-U6-05",
+          "skill": "ENL181-U6",
+          "difficulty": 2,
+          "stem": "In an APA 7 journal reference, which part is in italics?",
+          "options": [
+            "The article title",
+            "The journal name and the volume number",
+            "The author's name",
+            "The DOI link"
+          ],
+          "answer": 1,
+          "explanation_th": "ชื่อวารสารและเลข volume เป็นตัวเอียง",
+          "why_wrong": [
+            "ชื่อบทความไม่เป็นตัวเอียง",
+            null,
+            "ชื่อผู้แต่งไม่เป็นตัวเอียง",
+            "ลิงก์ DOI ไม่เป็นตัวเอียง"
+          ]
+        },
+        {
+          "id": "ENL181-U6-06",
+          "skill": "ENL181-U6",
+          "difficulty": 2,
+          "stem": "In APA 7, how should a DOI look?",
+          "options": [
+            "DOI: 10.1234/abcd",
+            "Retrieved from doi 10.1234/abcd",
+            "www.doi.10.1234",
+            "https://doi.org/10.1234/abcd"
+          ],
+          "answer": 3,
+          "explanation_th": "APA 7 เขียน DOI เป็นลิงก์ https://doi.org/...",
+          "why_wrong": [
+            "เป็นรูปแบบเก่า APA 7 ใช้ลิงก์เต็ม",
+            "APA 7 ไม่ใช้ Retrieved from กับ DOI",
+            "ไม่ใช่รูปแบบลิงก์ DOI",
+            null
+          ]
+        },
+        {
+          "id": "ENL181-U6-07",
+          "skill": "ENL181-U6",
+          "difficulty": 1,
+          "stem": "A web page has no date. What do you write instead of the year?",
+          "options": [
+            "(n.d.)",
+            "(0000)",
+            "(?)",
+            "(today)"
+          ],
+          "answer": 0,
+          "explanation_th": "n.d. ย่อมาจาก no date",
+          "why_wrong": [
+            null,
+            "ไม่ใช่รูปแบบ APA",
+            "ไม่ใช่รูปแบบ APA",
+            "วันที่เราอ่านไม่ใช่ปีที่เผยแพร่"
+          ]
+        },
+        {
+          "id": "ENL181-U6-08",
+          "skill": "ENL181-U6",
+          "difficulty": 2,
+          "stem": "How do you order the reference list in APA 7?",
+          "options": [
+            "By the date you read each source",
+            "By the length of each source",
+            "In the order the sources appear in your essay",
+            "Alphabetically by the first author's last name"
+          ],
+          "answer": 3,
+          "explanation_th": "APA เรียงตามตัวอักษรนามสกุลผู้แต่งคนแรก",
+          "why_wrong": [
+            "วันที่อ่านไม่ได้ใช้เรียง",
+            "ความยาวไม่ได้ใช้เรียง",
+            "แบบนี้เป็นระบบตัวเลข ไม่ใช่ APA",
+            null
+          ]
+        }
+      ],
+      "say": [
+        "I put the author and year in brackets.",
+        "My reference list is in alphabetical order.",
+        "Three authors? I use \"et al.\"."
+      ],
+      "task_th": "เอาบทความที่จดไว้จากหน่วยก่อน มาเขียนเป็นรายการอ้างอิง APA 7 หนึ่งรายการ และเขียนประโยคภาษาอังกฤษ 1 ประโยคที่มีการอ้างอิงในเนื้อหา เช่น (Lee et al., 2021)"
+    }
+  ]
+}

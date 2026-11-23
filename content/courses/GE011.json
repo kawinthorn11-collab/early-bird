@@ -1,0 +1,1448 @@
+{
+  "code": "GE011",
+  "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+  "in_class_th": [
+    "น่าจะได้ทำงานกลุ่ม แล้วใช้เครื่องมือคิดกับโจทย์จริง เช่น วางแผนกิจกรรมหรือแก้ปัญหาในชีวิตนักศึกษา",
+    "อาจต้องทำ mind map หรือนำเสนอหน้าชั้นเรียน",
+    "อาจได้ข่าวหรือโพสต์มาให้แยกว่าส่วนไหนเป็นข้อเท็จจริง (fact) ส่วนไหนเป็นความคิดเห็น (opinion)",
+    "น่าจะได้ยินคำอังกฤษ เช่น critical thinking, creative thinking, problem solving บ่อย ๆ"
+  ],
+  "units": [
+    {
+      "id": "GE011-U1",
+      "title_th": "พื้นฐานการคิดอย่างเป็นระบบ",
+      "title_en": "Thinking Basics and Systematic Thinking",
+      "covers": "ทฤษฎี หลักการของการคิด พัฒนาการคิดอย่างเป็นระบบ",
+      "minutes": 12,
+      "cards": [
+        {
+          "title_th": "การคิดฝึกได้",
+          "body_th": "การคิดเป็นทักษะ (skill) เหมือนว่ายน้ำ ยิ่งฝึกบ่อยและใช้เครื่องมือถูก ยิ่งคิดได้เร็วและชัดขึ้น"
+        },
+        {
+          "title_th": "คิดอย่างเป็นระบบ",
+          "body_th": "Systematic thinking คือคิดเป็นขั้น ตั้งเป้าหมาย เก็บข้อมูล จัดกลุ่ม แล้วค่อยสรุป ไม่กระโดดไปที่คำตอบทันที"
+        },
+        {
+          "title_th": "5W1H",
+          "body_th": "ถาม 6 คำถาม Who, What, When, Where, Why, How ให้ครบ ข้อมูลจะไม่ตกหล่น",
+          "example": "งานกลุ่ม: Who does which part? When is it due?"
+        },
+        {
+          "title_th": "Mind map",
+          "body_th": "เขียนหัวข้อหลักไว้กลางหน้า แล้วแตกกิ่งเป็นหัวข้อย่อย จะเห็นภาพรวมและความเชื่อมโยงในหน้าเดียว"
+        },
+        {
+          "title_th": "คิดเรื่องการคิด",
+          "body_th": "Metacognition คือการถามตัวเองว่า \"ตอนนี้เราคิดแบบไหน ได้ผลไหม ควรเปลี่ยนวิธีไหม\""
+        }
+      ],
+      "vocab": [
+        [
+          "thinking skills",
+          "ทักษะการคิด"
+        ],
+        [
+          "systematic thinking",
+          "การคิดอย่างเป็นระบบ"
+        ],
+        [
+          "theory",
+          "ทฤษฎี"
+        ],
+        [
+          "principle",
+          "หลักการ"
+        ],
+        [
+          "mind map",
+          "แผนผังความคิด"
+        ],
+        [
+          "5W1H",
+          "คำถาม 6 ข้อ ใคร อะไร เมื่อไร ที่ไหน ทำไม อย่างไร"
+        ],
+        [
+          "metacognition",
+          "การรู้คิด การคิดเกี่ยวกับการคิดของตัวเอง"
+        ],
+        [
+          "lifelong learning",
+          "การเรียนรู้ตลอดชีวิต"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "GE011-U1-01",
+          "skill": "GE011-U1",
+          "difficulty": 1,
+          "stem": "Which question word in 5W1H asks about the reason?",
+          "options": [
+            "Who",
+            "When",
+            "How",
+            "Why"
+          ],
+          "answer": 3,
+          "explanation_th": "Why ใช้ถามเหตุผล เช่น Why is the class moved?",
+          "why_wrong": [
+            "Who ถามเรื่องบุคคล ไม่ใช่เหตุผล",
+            "When ถามเรื่องเวลา",
+            "How ถามเรื่องวิธีการ",
+            null
+          ]
+        },
+        {
+          "id": "GE011-U1-02",
+          "skill": "GE011-U1",
+          "difficulty": 2,
+          "stem": "เมื่อต้องเลือกหอพักใกล้มหาวิทยาลัย ข้อใดคือการคิดอย่างเป็นระบบ (systematic thinking)",
+          "options": [
+            "ตั้งเกณฑ์ เช่น ราคา ระยะทาง ความปลอดภัย แล้วเทียบทีละหอ",
+            "เลือกหอแรกที่เพื่อนแนะนำทันที",
+            "เลือกหอที่รูปโฆษณาสวยที่สุด",
+            "รอจนหอเต็มก่อนแล้วค่อยคิด"
+          ],
+          "answer": 0,
+          "explanation_th": "การคิดอย่างเป็นระบบเริ่มจากตั้งเกณฑ์ แล้วเทียบข้อมูลทีละตัวเลือก",
+          "why_wrong": [
+            null,
+            "ไม่มีเกณฑ์และไม่ได้เทียบตัวเลือกอื่นเลย",
+            "ใช้ปัจจัยเดียวที่เป็นแค่ภาพภายนอก",
+            "ไม่มีขั้นตอนการคิด และเสียโอกาสเลือก"
+          ]
+        },
+        {
+          "id": "GE011-U1-03",
+          "skill": "GE011-U1",
+          "difficulty": 1,
+          "stem": "การทำแผนผังความคิด (mind map) ควรเริ่มเขียนอะไรไว้ตรงไหน",
+          "options": [
+            "รายละเอียดเล็กที่สุดไว้มุมซ้ายบน",
+            "ข้อสรุปสุดท้ายไว้ด้านล่างสุด",
+            "หัวข้อหลักไว้ตรงกลางหน้า",
+            "ตารางเรียนทั้งเทอมไว้กลางหน้า"
+          ],
+          "answer": 2,
+          "explanation_th": "mind map เริ่มจากหัวข้อหลักตรงกลาง แล้วแตกกิ่งออกไปรอบ ๆ",
+          "why_wrong": [
+            "รายละเอียดเล็กอยู่ปลายกิ่ง ไม่ใช่จุดเริ่ม",
+            "แบบนี้คือการเขียนเรียงลงมา ไม่ใช่ mind map",
+            null,
+            "ตารางเรียนไม่ใช่หัวข้อที่กำลังคิด"
+          ]
+        },
+        {
+          "id": "GE011-U1-04",
+          "skill": "GE011-U1",
+          "difficulty": 1,
+          "stem": "What is metacognition?",
+          "options": [
+            "Thinking about your own thinking",
+            "Remembering many facts quickly",
+            "Thinking only about the future",
+            "Copying a friend's ideas"
+          ],
+          "answer": 0,
+          "explanation_th": "Metacognition คือการรู้ว่าตัวเองกำลังคิดแบบไหนและได้ผลไหม",
+          "why_wrong": [
+            null,
+            "นี่คือความจำ ไม่ใช่การคิดเกี่ยวกับการคิด",
+            "ไม่ได้เกี่ยวกับเวลาในอนาคต",
+            "การลอกความคิดเพื่อนไม่ใช่ metacognition"
+          ]
+        },
+        {
+          "id": "GE011-U1-05",
+          "skill": "GE011-U1",
+          "difficulty": 2,
+          "stem": "เพื่อนส่งข้อความว่า \"พรุ่งนี้บ่ายสองโมงทำงานกลุ่มวิชา GE011 นะ\" ตามหลัก 5W1H ข้อมูลใดยังขาดไป",
+          "options": [
+            "When: นัดวันไหน เวลาไหน",
+            "What: นัดทำอะไร",
+            "Where: นัดกันที่ไหน",
+            "Who: ใครเป็นคนส่งข้อความ"
+          ],
+          "answer": 2,
+          "explanation_th": "ข้อความบอกเวลา (When) และเรื่อง (What) แล้ว แต่ยังไม่บอกสถานที่",
+          "why_wrong": [
+            "ข้อความบอกแล้วว่าพรุ่งนี้บ่ายสองโมง",
+            "ข้อความบอกแล้วว่าทำงานกลุ่มวิชา GE011",
+            null,
+            "เรารู้อยู่แล้วว่าเพื่อนคนไหนส่งมา"
+          ]
+        },
+        {
+          "id": "GE011-U1-06",
+          "skill": "GE011-U1",
+          "difficulty": 1,
+          "stem": "You want to write a short news report about a campus event. Which tool helps you check that you have all the basic facts?",
+          "options": [
+            "5W1H",
+            "Six Thinking Hats",
+            "SCAMPER",
+            "A coin toss"
+          ],
+          "answer": 0,
+          "explanation_th": "5W1H ช่วยเช็กว่ามีข้อมูลพื้นฐานครบ ใคร อะไร เมื่อไร ที่ไหน ทำไม อย่างไร",
+          "why_wrong": [
+            null,
+            "ใช้มองการตัดสินใจจากหลายมุม ไม่ได้ใช้เช็กข้อเท็จจริงของข่าว",
+            "ใช้ดัดแปลงไอเดียหรือสินค้าให้เกิดสิ่งใหม่",
+            "การโยนเหรียญเป็นการสุ่ม ไม่ได้ช่วยเช็กข้อมูล"
+          ]
+        },
+        {
+          "id": "GE011-U1-07",
+          "skill": "GE011-U1",
+          "difficulty": 2,
+          "stem": "ได้รับงานรายงานชิ้นแรก ขั้นแรกของการคิดอย่างเป็นระบบควรเป็นข้อใด",
+          "options": [
+            "เริ่มพิมพ์บทสรุปทันที",
+            "อ่านโจทย์ให้เข้าใจว่างานต้องการอะไร",
+            "แต่งหน้าปกให้สวยก่อน",
+            "ส่งงานเร็วที่สุดโดยไม่อ่านโจทย์"
+          ],
+          "answer": 1,
+          "explanation_th": "ต้องรู้เป้าหมายก่อน จึงเก็บข้อมูลและวางแผนได้ตรงจุด",
+          "why_wrong": [
+            "ยังไม่มีข้อมูล จะสรุปได้อย่างไร",
+            null,
+            "หน้าปกไม่ช่วยให้เข้าใจงาน",
+            "ข้ามการทำความเข้าใจ งานอาจผิดทั้งชิ้น"
+          ]
+        },
+        {
+          "id": "GE011-U1-08",
+          "skill": "GE011-U1",
+          "difficulty": 1,
+          "stem": "Thinking is a skill. What does this mean?",
+          "options": [
+            "Only very smart people can do it",
+            "You can get better at it with practice",
+            "It cannot change after age 18",
+            "It is the same as reading fast"
+          ],
+          "answer": 1,
+          "explanation_th": "ทักษะคือสิ่งที่ฝึกแล้วดีขึ้นได้",
+          "why_wrong": [
+            "ทุกคนคิดได้และฝึกได้",
+            null,
+            "ทักษะพัฒนาได้ทุกช่วงวัย",
+            "อ่านเร็วไม่ได้แปลว่าคิดเป็น"
+          ]
+        },
+        {
+          "id": "GE011-U1-09",
+          "skill": "GE011-U1",
+          "difficulty": 2,
+          "stem": "การทำ mind map ช่วยเรื่องใดมากที่สุด",
+          "options": [
+            "ทำให้ไม่ต้องอ่านหนังสือเลย",
+            "เห็นภาพรวมและความเชื่อมโยงของหัวข้อย่อย",
+            "ใช้แทนการอ้างอิงแหล่งข้อมูลได้",
+            "ทำให้คำตอบถูกต้องเสมอ"
+          ],
+          "answer": 1,
+          "explanation_th": "จุดเด่นของ mind map คือเห็นภาพรวมในหน้าเดียว",
+          "why_wrong": [
+            "ยังต้องมีข้อมูลจากการอ่าน",
+            null,
+            "mind map ไม่ใช่การอ้างอิง",
+            "เครื่องมือช่วยคิด แต่ไม่รับประกันว่าถูก"
+          ]
+        }
+      ],
+      "say": [
+        "I use 5W1H to check my facts.",
+        "A mind map helps me see the big picture.",
+        "Thinking is a skill I can practice."
+      ],
+      "task_th": "นึกถึงวันเปิดเทอมวันแรก แล้วเขียนคำถาม 5W1H ให้ครบ 6 ข้อเป็นภาษาอังกฤษ เช่น Where is my first class? จากนั้นทำ mind map เล็ก ๆ 1 หน้า"
+    },
+    {
+      "id": "GE011-U2",
+      "title_th": "การคิดเชิงวิพากษ์",
+      "title_en": "Critical Thinking",
+      "covers": "ฝึกฝนการคิดเชิงวิพากษ์",
+      "minutes": 14,
+      "cards": [
+        {
+          "title_th": "ไม่ใช่การจับผิด",
+          "body_th": "Critical thinking คือการถามว่า \"เชื่อได้แค่ไหน เพราะอะไร\" ก่อนเชื่อหรือแชร์"
+        },
+        {
+          "title_th": "Claim กับ Evidence",
+          "body_th": "Claim คือข้อกล่าวอ้าง Evidence คือหลักฐานที่สนับสนุน ถ้ามีแต่ claim ไม่มี evidence ให้ระวัง",
+          "example": "Claim: This cafe is the best. Evidence: ?"
+        },
+        {
+          "title_th": "Fact กับ Opinion",
+          "body_th": "Fact ตรวจสอบได้ว่าจริงหรือไม่ Opinion คือความรู้สึกหรือการตัดสินของคนพูด",
+          "example": "Fact: Bangkok is the capital of Thailand. Opinion: Bangkok is the best city."
+        },
+        {
+          "title_th": "เช็ก 3 ข้อ",
+          "body_th": "ใครพูด มีหลักฐานอะไร และมีมุมมองอื่นไหม"
+        },
+        {
+          "title_th": "ตรรกะวิบัติ (fallacy)",
+          "body_th": "การให้เหตุผลที่ฟังดูดีแต่ผิด เช่น ad hominem โจมตีตัวคน, bandwagon ทุกคนทำก็ต้องถูก, hasty generalization สรุปจากตัวอย่างน้อย, false dilemma บังคับให้มีแค่สองทาง, straw man บิดคำพูดอีกฝ่าย"
+        }
+      ],
+      "vocab": [
+        [
+          "critical thinking",
+          "การคิดเชิงวิพากษ์"
+        ],
+        [
+          "claim",
+          "ข้อกล่าวอ้าง"
+        ],
+        [
+          "evidence",
+          "หลักฐาน"
+        ],
+        [
+          "fact",
+          "ข้อเท็จจริง"
+        ],
+        [
+          "opinion",
+          "ความคิดเห็น"
+        ],
+        [
+          "bias",
+          "อคติ"
+        ],
+        [
+          "source",
+          "แหล่งที่มา"
+        ],
+        [
+          "fallacy",
+          "ตรรกะวิบัติ การให้เหตุผลที่ผิด"
+        ],
+        [
+          "assumption",
+          "ข้อสันนิษฐาน สิ่งที่เชื่อไว้ก่อน"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "GE011-U2-01",
+          "skill": "GE011-U2",
+          "difficulty": 1,
+          "stem": "Which sentence is a fact?",
+          "options": [
+            "Thai food is the most delicious food in the world.",
+            "Bangkok is the capital of Thailand.",
+            "Mornings are the best time to study.",
+            "Online classes are boring."
+          ],
+          "answer": 1,
+          "explanation_th": "ข้อนี้ตรวจสอบได้ว่าจริง จึงเป็น fact",
+          "why_wrong": [
+            "คำว่า most delicious เป็นความรู้สึก จึงเป็น opinion",
+            null,
+            "แต่ละคนเหมาะกับเวลาต่างกัน เป็น opinion",
+            "คำว่า boring เป็นความรู้สึกของคนพูด"
+          ]
+        },
+        {
+          "id": "GE011-U2-02",
+          "skill": "GE011-U2",
+          "difficulty": 1,
+          "stem": "Which sentence is an opinion?",
+          "options": [
+            "A week has seven days.",
+            "English is the most fun subject.",
+            "There are 12 months in a year.",
+            "Thailand is in Southeast Asia."
+          ],
+          "answer": 1,
+          "explanation_th": "most fun เป็นความรู้สึก ตรวจสอบให้ถูกผิดไม่ได้",
+          "why_wrong": [
+            "ตรวจสอบได้ เป็น fact",
+            null,
+            "ตรวจสอบได้ เป็น fact",
+            "ตรวจสอบได้จากแผนที่ เป็น fact"
+          ]
+        },
+        {
+          "id": "GE011-U2-03",
+          "skill": "GE011-U2",
+          "difficulty": 2,
+          "stem": "ประโยค \"คณะควรย้ายคาบ 8 โมงไปเป็น 9 โมง เพราะผลสำรวจนักศึกษาในคณะพบว่า 7 ใน 10 คนง่วงในคาบ 8 โมง\" ส่วนใดคือหลักฐาน (evidence)",
+          "options": [
+            "คณะควรย้ายคาบ 8 โมงไปเป็น 9 โมง",
+            "คำว่า \"เพราะ\"",
+            "ผลสำรวจที่พบว่า 7 ใน 10 คนง่วงในคาบ 8 โมง",
+            "นักศึกษาทุกคนไม่ชอบตอนเช้า"
+          ],
+          "answer": 2,
+          "explanation_th": "ผลสำรวจคือข้อมูลที่ยกมาสนับสนุนข้อกล่าวอ้าง",
+          "why_wrong": [
+            "ส่วนนี้คือข้อกล่าวอ้าง (claim)",
+            "เป็นคำเชื่อม ไม่ใช่หลักฐาน",
+            null,
+            "ไม่มีในประโยค และเป็นการสรุปเกินจริง"
+          ]
+        },
+        {
+          "id": "GE011-U2-04",
+          "skill": "GE011-U2",
+          "difficulty": 2,
+          "stem": "เพื่อนพูดว่า \"อย่าไปเชื่อพี่ปีสองเรื่องวิชานี้เลย เขาแต่งตัวเชยจะตาย\" นี่คือตรรกะวิบัติแบบใด",
+          "options": [
+            "Ad hominem (โจมตีตัวบุคคลแทนเหตุผล)",
+            "Bandwagon (ทำตามคนส่วนใหญ่)",
+            "Hasty generalization (สรุปจากตัวอย่างน้อย)",
+            "False dilemma (บังคับให้มีแค่สองทาง)"
+          ],
+          "answer": 0,
+          "explanation_th": "การแต่งตัวไม่เกี่ยวกับความถูกต้องของข้อมูล เป็นการโจมตีตัวคน",
+          "why_wrong": [
+            null,
+            "ไม่ได้อ้างว่าคนส่วนใหญ่คิดอย่างไร",
+            "ไม่ได้สรุปจากตัวอย่างไม่กี่ตัว",
+            "ไม่ได้บังคับให้เลือกแค่สองทาง"
+          ]
+        },
+        {
+          "id": "GE011-U2-05",
+          "skill": "GE011-U2",
+          "difficulty": 1,
+          "stem": "\"Everyone in my class uses this app, so it must be the best.\" What fallacy is this?",
+          "options": [
+            "Straw man",
+            "Ad hominem",
+            "Bandwagon",
+            "Slippery slope"
+          ],
+          "answer": 2,
+          "explanation_th": "อ้างว่าคนส่วนใหญ่ใช้ จึงต้องดีที่สุด เป็น bandwagon",
+          "why_wrong": [
+            "ไม่ได้บิดคำพูดของใคร",
+            "ไม่ได้โจมตีตัวบุคคล",
+            null,
+            "ไม่ได้อ้างว่าเรื่องเล็กจะลามไปเป็นเรื่องใหญ่"
+          ]
+        },
+        {
+          "id": "GE011-U2-06",
+          "skill": "GE011-U2",
+          "difficulty": 2,
+          "stem": "\"ลองกินโรงอาหารนี้ครั้งเดียวไม่อร่อย อาหารทุกร้านในมหาวิทยาลัยต้องไม่อร่อยแน่\" เป็นตรรกะวิบัติแบบใด",
+          "options": [
+            "Hasty generalization (สรุปเร็วเกินจากตัวอย่างน้อย)",
+            "Ad hominem (โจมตีตัวบุคคล)",
+            "Bandwagon (ทำตามคนส่วนใหญ่)",
+            "Straw man (บิดคำพูดอีกฝ่าย)"
+          ],
+          "answer": 0,
+          "explanation_th": "กินครั้งเดียวร้านเดียว แล้วสรุปทุกร้าน",
+          "why_wrong": [
+            null,
+            "ไม่ได้โจมตีใคร",
+            "ไม่ได้อ้างความเห็นคนส่วนใหญ่",
+            "ไม่มีอีกฝ่ายที่ถูกบิดคำพูด"
+          ]
+        },
+        {
+          "id": "GE011-U2-07",
+          "skill": "GE011-U2",
+          "difficulty": 2,
+          "stem": "\"ถ้าไม่ไปติวกับฉันคืนนี้ แปลว่าเธอไม่อยากสอบผ่าน\" เป็นตรรกะวิบัติแบบใด",
+          "options": [
+            "Straw man (บิดคำพูดอีกฝ่าย)",
+            "Hasty generalization (สรุปจากตัวอย่างน้อย)",
+            "False dilemma (บังคับให้มีแค่สองทาง)",
+            "Bandwagon (ทำตามคนส่วนใหญ่)"
+          ],
+          "answer": 2,
+          "explanation_th": "ความจริงยังมีทางอื่น เช่น อ่านเอง หรือติววันอื่น",
+          "why_wrong": [
+            "ไม่ได้ยกคำพูดของอีกฝ่ายมาบิด",
+            "ไม่ได้สรุปจากตัวอย่าง",
+            null,
+            "ไม่ได้อ้างว่าคนส่วนใหญ่ทำ"
+          ]
+        },
+        {
+          "id": "GE011-U2-08",
+          "skill": "GE011-U2",
+          "difficulty": 3,
+          "stem": "A: \"มหาวิทยาลัยควรเพิ่มที่จอดจักรยาน\" B: \"A อยากให้ทุกคนเลิกขับรถ ซึ่งเป็นไปไม่ได้\" B ใช้ตรรกะวิบัติแบบใด",
+          "options": [
+            "Ad hominem (โจมตีตัวบุคคล)",
+            "Straw man (บิดข้อเสนอให้ดูสุดโต่ง แล้วโจมตี)",
+            "Bandwagon (ทำตามคนส่วนใหญ่)",
+            "Hasty generalization (สรุปจากตัวอย่างน้อย)"
+          ],
+          "answer": 1,
+          "explanation_th": "A แค่ขอที่จอดจักรยาน แต่ B บิดว่าให้ทุกคนเลิกขับรถ",
+          "why_wrong": [
+            "B ไม่ได้ว่าตัว A แต่บิดข้อเสนอ",
+            null,
+            "ไม่มีการอ้างคนส่วนใหญ่",
+            "ไม่ได้สรุปจากตัวอย่าง"
+          ]
+        },
+        {
+          "id": "GE011-U2-09",
+          "skill": "GE011-U2",
+          "difficulty": 1,
+          "stem": "You see a post: \"This tea makes you smarter!\" What is the best first question to ask?",
+          "options": [
+            "How many likes does the post have?",
+            "What is the evidence, and who says it?",
+            "Is the picture nice?",
+            "Can I share it right now?"
+          ],
+          "answer": 1,
+          "explanation_th": "คิดเชิงวิพากษ์เริ่มจากถามหาหลักฐานและแหล่งที่มา",
+          "why_wrong": [
+            "ยอดไลก์ไม่ใช่หลักฐาน",
+            null,
+            "ภาพสวยไม่ได้บอกว่าข้อมูลจริง",
+            "ควรตรวจก่อนแชร์ ไม่ใช่แชร์ก่อน"
+          ]
+        }
+      ],
+      "say": [
+        "Is that a fact or an opinion?",
+        "What is the evidence for that?",
+        "I want to check the source first."
+      ],
+      "task_th": "เปิดโซเชียลแล้วเลือกโพสต์โฆษณา 1 โพสต์ เขียนแยกว่าอะไรคือ claim อะไรคือ evidence และมีประโยคไหนเป็น opinion บ้าง"
+    },
+    {
+      "id": "GE011-U3",
+      "title_th": "การคิดสร้างสรรค์",
+      "title_en": "Creative and Innovative Thinking",
+      "covers": "การคิดสร้างสรรค์",
+      "minutes": 12,
+      "cards": [
+        {
+          "title_th": "สร้างสรรค์คืออะไร",
+          "body_th": "Creative thinking คือการหาแนวทางใหม่ที่ใช้ได้จริง ไม่ใช่แค่แปลก"
+        },
+        {
+          "title_th": "ระดมความคิด",
+          "body_th": "Brainstorming เน้นจำนวนไอเดียก่อน และห้ามตัดสินไอเดียระหว่างระดมความคิด ค่อยคัดทีหลัง"
+        },
+        {
+          "title_th": "SCAMPER",
+          "body_th": "S แทนที่ (Substitute) C รวม (Combine) A ดัดแปลง (Adapt) M ปรับแต่ง (Modify) P ใช้ทำอย่างอื่น (Put to another use) E ตัดออก (Eliminate) R กลับด้านหรือสลับลำดับ (Reverse)"
+        },
+        {
+          "title_th": "Six Thinking Hats",
+          "body_th": "ขาว ข้อมูล, แดง ความรู้สึก, ดำ ความเสี่ยง, เหลือง ข้อดี, เขียว ไอเดียใหม่, น้ำเงิน คุมกระบวนการคิด"
+        },
+        {
+          "title_th": "นวัตกรรม",
+          "body_th": "Innovation คือไอเดียใหม่ที่ถูกนำไปใช้จริงจนเกิดคุณค่า"
+        }
+      ],
+      "vocab": [
+        [
+          "creative thinking",
+          "การคิดสร้างสรรค์"
+        ],
+        [
+          "innovation",
+          "นวัตกรรม"
+        ],
+        [
+          "brainstorming",
+          "การระดมความคิด"
+        ],
+        [
+          "SCAMPER",
+          "เทคนิคตั้งคำถาม 7 แบบเพื่อดัดแปลงไอเดีย"
+        ],
+        [
+          "Six Thinking Hats",
+          "หมวกความคิด 6 ใบ"
+        ],
+        [
+          "perspective",
+          "มุมมอง"
+        ],
+        [
+          "substitute",
+          "แทนที่"
+        ],
+        [
+          "eliminate",
+          "ตัดออก"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "GE011-U3-01",
+          "skill": "GE011-U3",
+          "difficulty": 1,
+          "stem": "In brainstorming, what should you do first?",
+          "options": [
+            "Choose the best idea right away",
+            "Let only the leader speak",
+            "Write down many ideas without judging them",
+            "Delete strange ideas immediately"
+          ],
+          "answer": 2,
+          "explanation_th": "ช่วงระดมความคิดเน้นจำนวน ยังไม่ตัดสิน",
+          "why_wrong": [
+            "ตัดสินเร็วเกินไป ไอเดียดีอาจไม่ได้เกิด",
+            "brainstorming ต้องให้ทุกคนเสนอ",
+            null,
+            "ไอเดียแปลกอาจพาไปสู่ไอเดียดี"
+          ]
+        },
+        {
+          "id": "GE011-U3-02",
+          "skill": "GE011-U3",
+          "difficulty": 2,
+          "stem": "ร้านกาแฟใกล้มหาวิทยาลัยเพิ่มมุมอ่านหนังสือในร้าน กลายเป็นร้านกาแฟกับห้องอ่านหนังสือในที่เดียว ตรงกับ SCAMPER ข้อใด",
+          "options": [
+            "Eliminate (ตัดออก)",
+            "Reverse (กลับด้าน)",
+            "Substitute (แทนที่)",
+            "Combine (รวม)"
+          ],
+          "answer": 3,
+          "explanation_th": "เอาสองอย่างมารวมกันเป็นสิ่งเดียว",
+          "why_wrong": [
+            "ไม่ได้ตัดอะไรออก กลับเพิ่มเข้ามา",
+            "ไม่ได้สลับลำดับหรือกลับด้าน",
+            "ไม่ได้เอาของใหม่ไปแทนของเดิม",
+            null
+          ]
+        },
+        {
+          "id": "GE011-U3-03",
+          "skill": "GE011-U3",
+          "difficulty": 2,
+          "stem": "ร้านเปลี่ยนจากหลอดพลาสติกเป็นหลอดกระดาษ ตรงกับ SCAMPER ข้อใด",
+          "options": [
+            "Combine (รวม)",
+            "Put to another use (ใช้ทำอย่างอื่น)",
+            "Substitute (แทนที่)",
+            "Eliminate (ตัดออก)"
+          ],
+          "answer": 2,
+          "explanation_th": "ใช้วัสดุใหม่แทนวัสดุเดิม",
+          "why_wrong": [
+            "ไม่ได้รวมสองอย่างเข้าด้วยกัน",
+            "หลอดยังใช้ดื่มเหมือนเดิม",
+            null,
+            "ยังมีหลอดอยู่ ไม่ได้ตัดทิ้ง"
+          ]
+        },
+        {
+          "id": "GE011-U3-04",
+          "skill": "GE011-U3",
+          "difficulty": 2,
+          "stem": "เอาขวดน้ำพลาสติกเก่ามาใช้เป็นกระถางต้นไม้ ตรงกับ SCAMPER ข้อใด",
+          "options": [
+            "Combine (รวม)",
+            "Reverse (กลับด้าน)",
+            "Substitute (แทนที่)",
+            "Put to another use (ใช้ทำอย่างอื่น)"
+          ],
+          "answer": 3,
+          "explanation_th": "ของเดิมถูกใช้ในหน้าที่ใหม่",
+          "why_wrong": [
+            "ไม่ได้รวมของสองอย่าง",
+            "ไม่ได้สลับลำดับขั้นตอน",
+            "ไม่ได้เอาของอื่นมาแทนขวด",
+            null
+          ]
+        },
+        {
+          "id": "GE011-U3-05",
+          "skill": "GE011-U3",
+          "difficulty": 2,
+          "stem": "แอปสั่งอาหารตัดขั้นตอนสมัครสมาชิกออก ให้สั่งได้ทันที ตรงกับ SCAMPER ข้อใด",
+          "options": [
+            "Combine (รวม)",
+            "Put to another use (ใช้ทำอย่างอื่น)",
+            "Substitute (แทนที่)",
+            "Eliminate (ตัดออก)"
+          ],
+          "answer": 3,
+          "explanation_th": "เอาขั้นตอนที่ไม่จำเป็นออก",
+          "why_wrong": [
+            "ไม่ได้รวมสองสิ่ง",
+            "แอปยังใช้สั่งอาหารเหมือนเดิม",
+            "ไม่ได้มีขั้นตอนใหม่มาแทน แค่ตัดทิ้ง",
+            null
+          ]
+        },
+        {
+          "id": "GE011-U3-06",
+          "skill": "GE011-U3",
+          "difficulty": 1,
+          "stem": "In Six Thinking Hats, which hat is about feelings?",
+          "options": [
+            "The white hat",
+            "The black hat",
+            "The blue hat",
+            "The red hat"
+          ],
+          "answer": 3,
+          "explanation_th": "หมวกแดงคือความรู้สึกและสัญชาตญาณ",
+          "why_wrong": [
+            "หมวกขาวคือข้อมูลและตัวเลข",
+            "หมวกดำคือความเสี่ยงและข้อควรระวัง",
+            "หมวกน้ำเงินคือการคุมขั้นตอนการคิด",
+            null
+          ]
+        },
+        {
+          "id": "GE011-U3-07",
+          "skill": "GE011-U3",
+          "difficulty": 2,
+          "stem": "ในการประชุมกลุ่ม เพื่อนพูดว่า \"แผนนี้อาจเสี่ยง เพราะงบอาจไม่พอ\" เป็นการใส่หมวกสีใด",
+          "options": [
+            "หมวกเหลือง (yellow hat)",
+            "หมวกเขียว (green hat)",
+            "หมวกแดง (red hat)",
+            "หมวกดำ (black hat)"
+          ],
+          "answer": 3,
+          "explanation_th": "การชี้ความเสี่ยงและข้อควรระวังคือหมวกดำ",
+          "why_wrong": [
+            "หมวกเหลืองมองข้อดี",
+            "หมวกเขียวเสนอไอเดียใหม่",
+            "หมวกแดงบอกความรู้สึก ไม่ได้วิเคราะห์ความเสี่ยง",
+            null
+          ]
+        },
+        {
+          "id": "GE011-U3-08",
+          "skill": "GE011-U3",
+          "difficulty": 1,
+          "stem": "What is innovation?",
+          "options": [
+            "A new idea that people use and that creates value",
+            "Any idea that sounds strange",
+            "Copying a product exactly",
+            "An idea that stays only in your head"
+          ],
+          "answer": 0,
+          "explanation_th": "นวัตกรรมต้องใหม่ ใช้ได้จริง และมีคุณค่า",
+          "why_wrong": [
+            null,
+            "แปลกอย่างเดียวไม่พอ ต้องใช้ได้จริง",
+            "การลอกไม่ใช่สิ่งใหม่",
+            "ถ้าไม่นำไปใช้ก็ยังไม่เป็นนวัตกรรม"
+          ]
+        }
+      ],
+      "say": [
+        "Let's brainstorm first and judge later.",
+        "Can we combine these two ideas?",
+        "Let me put on my black hat: what are the risks?"
+      ],
+      "task_th": "เลือกของใช้ในห้อง 1 อย่าง เช่น กระเป๋าเป้ แล้วใช้ SCAMPER คิดไอเดียปรับปรุงให้ได้อย่างน้อย 5 ไอเดีย เขียนชื่อตัวอักษร SCAMPER กำกับทุกไอเดีย"
+    },
+    {
+      "id": "GE011-U4",
+      "title_th": "การคิดวิเคราะห์และสังเคราะห์",
+      "title_en": "Analytical and Synthesis Thinking",
+      "covers": "การคิดวิเคราะห์ การคิดสังเคราะห์",
+      "minutes": 12,
+      "cards": [
+        {
+          "title_th": "วิเคราะห์ = แยก",
+          "body_th": "Analysis คือแยกเรื่องใหญ่เป็นส่วนย่อย เพื่อดูว่าแต่ละส่วนเป็นอย่างไร",
+          "example": "แยกคะแนนสอบว่าเสียไปที่ส่วนไหน"
+        },
+        {
+          "title_th": "สังเคราะห์ = รวม",
+          "body_th": "Synthesis คือรวมข้อมูลจากหลายแหล่งเป็นสิ่งใหม่หรือข้อสรุปใหม่",
+          "example": "อ่าน 3 บทความ แล้วเขียนสรุปใหม่ของตัวเอง"
+        },
+        {
+          "title_th": "เครื่องมือวิเคราะห์",
+          "body_th": "ตารางเปรียบเทียบ (comparison table), เหตุและผล (cause and effect), หารูปแบบที่ซ้ำ (pattern)"
+        },
+        {
+          "title_th": "ใช้คู่กัน",
+          "body_th": "วิเคราะห์ก่อนเพื่อเข้าใจแต่ละส่วน แล้วสังเคราะห์เพื่อได้ภาพใหญ่หรือข้อสรุป"
+        }
+      ],
+      "vocab": [
+        [
+          "analytical thinking",
+          "การคิดวิเคราะห์"
+        ],
+        [
+          "synthesis",
+          "การสังเคราะห์"
+        ],
+        [
+          "compare",
+          "เปรียบเทียบ"
+        ],
+        [
+          "contrast",
+          "หาความแตกต่าง"
+        ],
+        [
+          "cause",
+          "สาเหตุ"
+        ],
+        [
+          "effect",
+          "ผลลัพธ์"
+        ],
+        [
+          "pattern",
+          "รูปแบบที่ซ้ำ แบบแผน"
+        ],
+        [
+          "component",
+          "ส่วนประกอบ"
+        ],
+        [
+          "conclusion",
+          "ข้อสรุป"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "GE011-U4-01",
+          "skill": "GE011-U4",
+          "difficulty": 1,
+          "stem": "What does analysis mean?",
+          "options": [
+            "Putting parts together into something new",
+            "Breaking something into parts to understand it",
+            "Guessing without any information",
+            "Memorizing a text word by word"
+          ],
+          "answer": 1,
+          "explanation_th": "analysis คือการแยกส่วนเพื่อเข้าใจ",
+          "why_wrong": [
+            "นี่คือ synthesis",
+            null,
+            "การเดาไม่ใช่การวิเคราะห์",
+            "การท่องจำไม่ใช่การวิเคราะห์"
+          ]
+        },
+        {
+          "id": "GE011-U4-02",
+          "skill": "GE011-U4",
+          "difficulty": 1,
+          "stem": "What does synthesis mean?",
+          "options": [
+            "Breaking a topic into small parts",
+            "Combining information from different places into a new whole",
+            "Choosing the longest source",
+            "Copying one source"
+          ],
+          "answer": 1,
+          "explanation_th": "synthesis คือการรวมเป็นสิ่งใหม่",
+          "why_wrong": [
+            "นี่คือ analysis",
+            null,
+            "ความยาวไม่ได้เกี่ยวกับการสังเคราะห์",
+            "ใช้แหล่งเดียวและลอก ไม่ได้รวมเป็นสิ่งใหม่"
+          ]
+        },
+        {
+          "id": "GE011-U4-03",
+          "skill": "GE011-U4",
+          "difficulty": 2,
+          "stem": "ข้อใดเป็นการคิดสังเคราะห์ (synthesis)",
+          "options": [
+            "อ่านบทความเรื่องการนอน 3 เรื่อง แล้วเขียนข้อสรุปใหม่ที่รวมทั้งสามเรื่อง",
+            "แยกคะแนนสอบว่าเสียไปส่วนไหนบ้าง",
+            "นับจำนวนคำในบทความ",
+            "คัดลอกบทสรุปจากบทความเดียว"
+          ],
+          "answer": 0,
+          "explanation_th": "รวมข้อมูลจากหลายแหล่งเป็นข้อสรุปใหม่",
+          "why_wrong": [
+            null,
+            "การแยกส่วนคือการวิเคราะห์",
+            "เป็นการนับ ไม่ได้รวมความคิด",
+            "ไม่ได้สร้างอะไรใหม่ และใช้แหล่งเดียว"
+          ]
+        },
+        {
+          "id": "GE011-U4-04",
+          "skill": "GE011-U4",
+          "difficulty": 2,
+          "stem": "ข้อใดเป็นการคิดวิเคราะห์ (analysis)",
+          "options": [
+            "รวมไอเดียของเพื่อน 4 คนเป็นแผนใหม่แผนเดียว",
+            "ใช้เงินตามอารมณ์แต่ละวัน",
+            "แยกค่าใช้จ่ายรายเดือนเป็นหมวด ค่าเดินทาง ค่าอาหาร ค่าหอ เพื่อดูว่าเงินหายไปตรงไหน",
+            "ถามเพื่อนว่าเดือนนี้เพื่อนใช้เงินเท่าไร"
+          ],
+          "answer": 2,
+          "explanation_th": "แยกภาพรวมเป็นส่วนย่อยเพื่อหาจุดที่มีปัญหา",
+          "why_wrong": [
+            "การรวมเป็นสิ่งใหม่คือการสังเคราะห์",
+            "ไม่มีการคิดแยกแยะใด ๆ",
+            null,
+            "เป็นข้อมูลของเพื่อน ไม่ได้แยกค่าใช้จ่ายของเรา"
+          ]
+        },
+        {
+          "id": "GE011-U4-05",
+          "skill": "GE011-U4",
+          "difficulty": 1,
+          "stem": "\"ฉันนอนดึกทุกคืน จึงง่วงในคาบเช้า\" ส่วนใดคือสาเหตุ (cause)",
+          "options": [
+            "ง่วงในคาบเช้า",
+            "คาบเช้า",
+            "นอนดึกทุกคืน",
+            "คำว่า \"จึง\""
+          ],
+          "answer": 2,
+          "explanation_th": "การนอนดึกทำให้เกิดอาการง่วง จึงเป็นสาเหตุ",
+          "why_wrong": [
+            "ส่วนนี้คือผล (effect)",
+            "เป็นช่วงเวลา ไม่ใช่สาเหตุ",
+            null,
+            "เป็นคำเชื่อมบอกผล ไม่ใช่สาเหตุ"
+          ]
+        },
+        {
+          "id": "GE011-U4-06",
+          "skill": "GE011-U4",
+          "difficulty": 1,
+          "stem": "Which tool is best for comparing two phones on price, battery and camera?",
+          "options": [
+            "A random guess",
+            "One photo of one phone",
+            "A comparison table",
+            "A shopping list"
+          ],
+          "answer": 2,
+          "explanation_th": "ตารางเปรียบเทียบเห็นทุกด้านเทียบกันชัด",
+          "why_wrong": [
+            "การเดาไม่ได้ใช้ข้อมูล",
+            "มีแค่เครื่องเดียว เทียบไม่ได้",
+            null,
+            "รายการซื้อของไม่ได้เทียบคุณสมบัติ"
+          ]
+        },
+        {
+          "id": "GE011-U4-07",
+          "skill": "GE011-U4",
+          "difficulty": 2,
+          "stem": "นักศึกษาคนหนึ่งตรวจแบบฝึกหัดแล้วเห็นว่า ทำผิดทุกครั้งที่เป็นประโยคคำถาม การมองเห็นแบบนี้เรียกว่าอะไร",
+          "options": [
+            "การหารูปแบบ (finding a pattern)",
+            "การระดมความคิด (brainstorming)",
+            "การโจมตีตัวบุคคล (ad hominem)",
+            "การท่องจำ (memorizing)"
+          ],
+          "answer": 0,
+          "explanation_th": "เห็นข้อผิดที่ซ้ำในจุดเดียวกัน คือการเจอรูปแบบ",
+          "why_wrong": [
+            null,
+            "brainstorming คือการคิดไอเดียจำนวนมาก",
+            "เป็นตรรกะวิบัติ ไม่เกี่ยว",
+            "ไม่ได้ท่อง แต่สังเกตข้อมูล"
+          ]
+        },
+        {
+          "id": "GE011-U4-08",
+          "skill": "GE011-U4",
+          "difficulty": 3,
+          "stem": "หลังวิเคราะห์ข้อมูลแต่ละส่วนเสร็จแล้ว ขั้นต่อไปที่ทำให้ได้ข้อสรุปใหม่คือข้อใด",
+          "options": [
+            "เริ่มเก็บข้อมูลใหม่ทั้งหมดทันที",
+            "ลบผลการวิเคราะห์ทิ้ง",
+            "เลือกเชื่อเฉพาะส่วนที่ชอบที่สุด",
+            "สังเคราะห์ (synthesis) รวมผลของแต่ละส่วนเป็นภาพใหญ่"
+          ],
+          "answer": 3,
+          "explanation_th": "วิเคราะห์แยกส่วน แล้วสังเคราะห์รวมเป็นข้อสรุป",
+          "why_wrong": [
+            "ทิ้งงานที่วิเคราะห์ไว้โดยไม่จำเป็น",
+            "เสียข้อมูลที่ใช้สรุป",
+            "เป็นอคติ ไม่ได้รวมข้อมูลทั้งหมด",
+            null
+          ]
+        }
+      ],
+      "say": [
+        "First I analyze, then I synthesize.",
+        "Let's compare these two options in a table.",
+        "I see a pattern in my mistakes."
+      ],
+      "task_th": "เปิดผลสอบหรือแบบฝึกหัดเก่า 1 ชุด แยกข้อที่ผิดเป็นกลุ่ม (วิเคราะห์) แล้วเขียนสรุป 1 ประโยคว่าควรฝึกอะไรก่อน (สังเคราะห์)"
+    },
+    {
+      "id": "GE011-U5",
+      "title_th": "การคิดแก้ปัญหา",
+      "title_en": "Problem-solving Thinking",
+      "covers": "การคิดแก้ปัญหา",
+      "minutes": 12,
+      "cards": [
+        {
+          "title_th": "5 ขั้นที่ใช้บ่อย",
+          "body_th": "ระบุปัญหา → หาสาเหตุ → คิดทางเลือก → เลือกแล้วลงมือ → ประเมินผล"
+        },
+        {
+          "title_th": "ระบุปัญหาให้ชัด",
+          "body_th": "ปัญหาที่กว้างแก้ยาก ปัญหาที่ชัดแก้ได้",
+          "example": "\"เรียนไม่ทัน\" → \"อ่านบทที่ 3 ไม่ทันก่อนควิซวันศุกร์\""
+        },
+        {
+          "title_th": "ถามทำไม 5 ครั้ง",
+          "body_th": "5 Whys คือถาม \"ทำไม\" ต่อกันหลายครั้ง จนเจอสาเหตุจริง (root cause) ไม่ใช่แค่อาการ"
+        },
+        {
+          "title_th": "ไม่ได้ผลก็ไม่เป็นไร",
+          "body_th": "ขั้นประเมินผลบอกว่าต้องปรับอะไร ถ้าไม่ได้ผลให้กลับไปลองทางเลือกอื่น"
+        }
+      ],
+      "vocab": [
+        [
+          "problem solving",
+          "การแก้ปัญหา"
+        ],
+        [
+          "define",
+          "ระบุ นิยาม"
+        ],
+        [
+          "root cause",
+          "สาเหตุที่แท้จริง"
+        ],
+        [
+          "symptom",
+          "อาการที่เห็น"
+        ],
+        [
+          "option",
+          "ทางเลือก"
+        ],
+        [
+          "solution",
+          "วิธีแก้"
+        ],
+        [
+          "implement",
+          "ลงมือทำ"
+        ],
+        [
+          "evaluate",
+          "ประเมินผล"
+        ],
+        [
+          "criteria",
+          "เกณฑ์"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "GE011-U5-01",
+          "skill": "GE011-U5",
+          "difficulty": 1,
+          "stem": "What is usually the first step of problem solving?",
+          "options": [
+            "Choose a solution",
+            "Define the problem clearly",
+            "Evaluate the result",
+            "Tell everyone the problem is solved"
+          ],
+          "answer": 1,
+          "explanation_th": "ต้องรู้ชัดก่อนว่าปัญหาคืออะไร",
+          "why_wrong": [
+            "ยังไม่รู้ปัญหา จะเลือกวิธีแก้ไม่ได้",
+            null,
+            "ประเมินผลเป็นขั้นสุดท้าย",
+            "ยังไม่ได้แก้อะไรเลย"
+          ]
+        },
+        {
+          "id": "GE011-U5-02",
+          "skill": "GE011-U5",
+          "difficulty": 2,
+          "stem": "ข้อใดระบุปัญหา (define the problem) ได้ชัดที่สุด",
+          "options": [
+            "ชีวิตมหาวิทยาลัยยากมาก",
+            "ทุกอย่างแย่ไปหมด",
+            "อาจารย์ไม่ชอบฉัน",
+            "ส่งงานวิชาภาษาอังกฤษช้าไป 3 ครั้งในเดือนนี้"
+          ],
+          "answer": 3,
+          "explanation_th": "ชัด วัดได้ รู้ว่าเกิดอะไร กี่ครั้ง เมื่อไร",
+          "why_wrong": [
+            "กว้างเกินไป ไม่รู้จะเริ่มแก้ตรงไหน",
+            "เป็นความรู้สึก ไม่ได้บอกปัญหา",
+            "เป็นการเดา ไม่มีหลักฐาน และไม่ได้บอกปัญหาที่วัดได้",
+            null
+          ]
+        },
+        {
+          "id": "GE011-U5-03",
+          "skill": "GE011-U5",
+          "difficulty": 2,
+          "stem": "การถาม \"ทำไม\" ซ้ำหลายครั้งต่อกัน (5 Whys) ช่วยเรื่องใด",
+          "options": [
+            "หาคนผิดมาลงโทษ",
+            "ทำให้ประชุมยาวขึ้น",
+            "ช่วยจำคำศัพท์ได้มากขึ้น",
+            "หาสาเหตุที่แท้จริง (root cause)"
+          ],
+          "answer": 3,
+          "explanation_th": "ถามลึกลงไปเรื่อย ๆ จนเจอต้นเหตุ",
+          "why_wrong": [
+            "จุดประสงค์คือหาสาเหตุ ไม่ใช่หาแพะ",
+            "ไม่ใช่เป้าหมายของเครื่องมือ",
+            "ไม่เกี่ยวกับการจำศัพท์",
+            null
+          ]
+        },
+        {
+          "id": "GE011-U5-04",
+          "skill": "GE011-U5",
+          "difficulty": 2,
+          "stem": "Your laptop is slow before an online exam. You try one fix. What should you do next?",
+          "options": [
+            "Never use the laptop again",
+            "Try ten new fixes at the same time",
+            "Blame the exam",
+            "Check if the fix worked"
+          ],
+          "answer": 3,
+          "explanation_th": "หลังลงมือต้องประเมินผล",
+          "why_wrong": [
+            "เกินเหตุ และยังไม่รู้ผล",
+            "ทำพร้อมกันจะไม่รู้ว่าวิธีไหนได้ผล",
+            "การโทษไม่ได้แก้ปัญหา",
+            null
+          ]
+        },
+        {
+          "id": "GE011-U5-05",
+          "skill": "GE011-U5",
+          "difficulty": 2,
+          "stem": "การเลือกวิธีแก้ปัญหาจากหลายทางเลือก ทำอย่างไรดีที่สุด",
+          "options": [
+            "ตั้งเกณฑ์ (criteria) เช่น เวลา เงิน ผลที่ได้ แล้วเทียบทุกทางเลือก",
+            "เลือกทางแรกที่นึกออกเสมอ",
+            "เลือกทางที่แพงที่สุด",
+            "ให้เพื่อนเลือกให้โดยไม่เล่าปัญหา"
+          ],
+          "answer": 0,
+          "explanation_th": "มีเกณฑ์ชัดจะเทียบทางเลือกได้อย่างยุติธรรม",
+          "why_wrong": [
+            null,
+            "ไม่ได้เทียบกับทางอื่น",
+            "แพงไม่ได้แปลว่าเหมาะ",
+            "เพื่อนไม่มีข้อมูลพอจะเลือก"
+          ]
+        },
+        {
+          "id": "GE011-U5-06",
+          "skill": "GE011-U5",
+          "difficulty": 2,
+          "stem": "ลำดับขั้นการแก้ปัญหาข้อใดถูกต้อง",
+          "options": [
+            "ระบุปัญหา → หาสาเหตุ → คิดทางเลือก → ลงมือ → ประเมินผล",
+            "ลงมือ → ระบุปัญหา → ประเมินผล → หาสาเหตุ",
+            "คิดทางเลือก → ประเมินผล → ระบุปัญหา → ลงมือ",
+            "ประเมินผล → ลงมือ → หาสาเหตุ → ระบุปัญหา"
+          ],
+          "answer": 0,
+          "explanation_th": "ต้องเข้าใจปัญหาและสาเหตุก่อน แล้วจึงหาทางแก้และตรวจผล",
+          "why_wrong": [
+            null,
+            "ลงมือก่อนรู้ว่าปัญหาคืออะไร",
+            "ประเมินผลก่อนลงมือไม่ได้",
+            "กลับลำดับทั้งหมด"
+          ]
+        },
+        {
+          "id": "GE011-U5-07",
+          "skill": "GE011-U5",
+          "difficulty": 3,
+          "stem": "You are late for class every Monday. Which one is a root cause, not a symptom?",
+          "options": [
+            "You arrive at 9:15",
+            "The teacher marks you late",
+            "You feel stressed when you walk in",
+            "You go to bed very late on Sunday nights"
+          ],
+          "answer": 3,
+          "explanation_th": "การนอนดึกคืนวันอาทิตย์คือต้นเหตุที่ทำให้มาสาย",
+          "why_wrong": [
+            "มาสายคืออาการที่เห็น",
+            "เป็นผลที่ตามมา",
+            "เป็นผลทางอารมณ์ ไม่ใช่ต้นเหตุ",
+            null
+          ]
+        },
+        {
+          "id": "GE011-U5-08",
+          "skill": "GE011-U5",
+          "difficulty": 2,
+          "stem": "งานกลุ่มมีเพื่อนไม่ตอบแชต ทางเลือกใดแก้ที่ต้นเหตุและทำได้จริงที่สุด",
+          "options": [
+            "ทำคนเดียวทั้งหมดแล้วบ่นทีหลัง",
+            "แบ่งงานเป็นชิ้นชัด กำหนดวันส่งย่อยในแชต แล้วนัดคุยสั้น ๆ 10 นาที",
+            "รอจนถึงวันส่งงาน",
+            "ลบชื่อเพื่อนออกจากงานโดยไม่คุยกันก่อน"
+          ],
+          "answer": 1,
+          "explanation_th": "ทำให้ทุกคนรู้หน้าที่และเวลา ซึ่งมักเป็นต้นเหตุที่งานไม่เดิน",
+          "why_wrong": [
+            "ไม่ได้แก้ปัญหาการทำงานร่วมกัน",
+            null,
+            "ปัญหาจะใหญ่ขึ้นและสายเกินแก้",
+            "ข้ามการสื่อสาร และอาจสร้างปัญหาใหม่"
+          ]
+        }
+      ],
+      "say": [
+        "What exactly is the problem?",
+        "Let's find the root cause first.",
+        "Did our solution work?"
+      ],
+      "task_th": "เลือกปัญหาเล็ก ๆ ของตัวเอง 1 เรื่อง เช่น ตื่นสาย แล้วเขียน 5 ขั้น ระบุปัญหา หาสาเหตุ (ถามทำไม 3 ถึง 5 ครั้ง) ทางเลือก 3 ทาง เลือก 1 ทาง และวิธีวัดผลใน 1 สัปดาห์"
+    },
+    {
+      "id": "GE011-U6",
+      "title_th": "เลือกและเชื่อมเครื่องมือคิดไปใช้จริง",
+      "title_en": "Choosing and Linking Thinking Tools",
+      "covers": "รวมถึงการเชื่อมโยงความคิดและเลือกเครื่องมือความคิดที่เหมาะสมไปประยุกต์ใช้ในชีวิตประจำวัน การทำงานและการเรียนรู้ตลอดชีวิตได้อย่างมีประสิทธิภาพ",
+      "minutes": 12,
+      "cards": [
+        {
+          "title_th": "ไม่มีเครื่องมือเดียวใช้ได้ทุกงาน",
+          "body_th": "เลือกเครื่องมือตามสิ่งที่อยากได้ เหมือนเลือกไขควงให้เข้ากับหัวน็อต"
+        },
+        {
+          "title_th": "จับคู่งานกับเครื่องมือ",
+          "body_th": "ข้อมูลครบ → 5W1H, ไอเดียใหม่ → brainstorming หรือ SCAMPER, ตัดสินใจเป็นกลุ่ม → Six Thinking Hats, ภาพรวม → mind map, เชื่อได้ไหม → claim และ evidence, ต้นเหตุ → 5 Whys"
+        },
+        {
+          "title_th": "เชื่อมหลายเครื่องมือ",
+          "body_th": "ทำรายงาน: mind map แตกหัวข้อ → 5W1H หาข้อมูล → วิเคราะห์ → สังเคราะห์ → ตรวจแบบคิดเชิงวิพากษ์"
+        },
+        {
+          "title_th": "ทบทวนตัวเอง",
+          "body_th": "Reflection คือถามหลังจบงานว่า อะไรได้ผล อะไรจะเปลี่ยนครั้งหน้า"
+        },
+        {
+          "title_th": "เรียนรู้ตลอดชีวิต",
+          "body_th": "Lifelong learning คือเรียนต่อเนื่องแม้เรียนจบแล้ว ทักษะการคิดใช้ได้ทั้งตอนเรียน ตอนฝึกงาน และตอนทำงาน"
+        }
+      ],
+      "vocab": [
+        [
+          "thinking tool",
+          "เครื่องมือความคิด"
+        ],
+        [
+          "apply",
+          "ประยุกต์ใช้"
+        ],
+        [
+          "select",
+          "เลือก"
+        ],
+        [
+          "link",
+          "เชื่อมโยง"
+        ],
+        [
+          "effective",
+          "มีประสิทธิภาพ"
+        ],
+        [
+          "reflection",
+          "การทบทวนตนเอง"
+        ],
+        [
+          "lifelong learning",
+          "การเรียนรู้ตลอดชีวิต"
+        ],
+        [
+          "decision",
+          "การตัดสินใจ"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "GE011-U6-01",
+          "skill": "GE011-U6",
+          "difficulty": 1,
+          "stem": "You need many new ideas for a club poster. Which tool fits best?",
+          "options": [
+            "Brainstorming",
+            "A fact or opinion check",
+            "The 5 Whys",
+            "A comparison table"
+          ],
+          "answer": 0,
+          "explanation_th": "ต้องการไอเดียจำนวนมาก brainstorming ตรงที่สุด",
+          "why_wrong": [
+            null,
+            "ใช้ตรวจข้อความ ไม่ได้สร้างไอเดีย",
+            "ใช้หาสาเหตุของปัญหา",
+            "ใช้เทียบตัวเลือกที่มีอยู่แล้ว ไม่ได้สร้างไอเดียใหม่"
+          ]
+        },
+        {
+          "id": "GE011-U6-02",
+          "skill": "GE011-U6",
+          "difficulty": 2,
+          "stem": "กลุ่มต้องตัดสินใจเลือกหัวข้อรายงาน และอยากให้ทุกคนมองทั้งข้อมูล ความรู้สึก ข้อดี และความเสี่ยง เครื่องมือใดเหมาะที่สุด",
+          "options": [
+            "Six Thinking Hats",
+            "SCAMPER",
+            "5 Whys",
+            "การท่องจำ (memorizing)"
+          ],
+          "answer": 0,
+          "explanation_th": "หมวก 6 ใบให้มองครบทั้งข้อมูล ความรู้สึก ข้อดี และความเสี่ยง",
+          "why_wrong": [
+            null,
+            "ใช้ดัดแปลงไอเดียหรือสินค้า ไม่ได้ช่วยมองหลายมุมเพื่อตัดสินใจ",
+            "ใช้หาต้นเหตุของปัญหา",
+            "ไม่ใช่เครื่องมือช่วยตัดสินใจ"
+          ]
+        },
+        {
+          "id": "GE011-U6-03",
+          "skill": "GE011-U6",
+          "difficulty": 2,
+          "stem": "เห็นโพสต์ว่า \"ดื่มกาแฟก่อนสอบทำให้ได้ A\" ควรใช้เครื่องมือใดก่อนแชร์",
+          "options": [
+            "ตรวจข้อกล่าวอ้างกับหลักฐาน (claim and evidence)",
+            "SCAMPER",
+            "Mind map",
+            "Brainstorming"
+          ],
+          "answer": 0,
+          "explanation_th": "ก่อนแชร์ต้องดูว่ามีหลักฐานรองรับไหม",
+          "why_wrong": [
+            null,
+            "ไม่ได้ต้องการดัดแปลงไอเดีย",
+            "ช่วยเห็นภาพรวม แต่ไม่ได้ตรวจความน่าเชื่อถือ",
+            "ต้องการตรวจข้อมูล ไม่ใช่สร้างไอเดีย"
+          ]
+        },
+        {
+          "id": "GE011-U6-04",
+          "skill": "GE011-U6",
+          "difficulty": 1,
+          "stem": "What is lifelong learning?",
+          "options": [
+            "Learning only until you graduate",
+            "Studying all night every night",
+            "Continuing to learn new things all through your life",
+            "Learning one skill and never changing"
+          ],
+          "answer": 2,
+          "explanation_th": "เรียนรู้ต่อเนื่องตลอดชีวิต ไม่หยุดที่ใบปริญญา",
+          "why_wrong": [
+            "ตรงข้ามกับความหมาย",
+            "เป็นการเรียนหนักเกินไป ไม่ใช่ความหมาย",
+            null,
+            "การเรียนรู้ตลอดชีวิตต้องปรับและเพิ่มทักษะ"
+          ]
+        },
+        {
+          "id": "GE011-U6-05",
+          "skill": "GE011-U6",
+          "difficulty": 1,
+          "stem": "After a group project, you ask: \"What worked? What will I change next time?\" What is this called?",
+          "options": [
+            "Brainstorming",
+            "Bandwagon",
+            "Memorizing",
+            "Reflection"
+          ],
+          "answer": 3,
+          "explanation_th": "การทบทวนสิ่งที่ทำเพื่อปรับครั้งหน้าคือ reflection",
+          "why_wrong": [
+            "brainstorming คือการคิดไอเดียใหม่จำนวนมาก",
+            "เป็นตรรกะวิบัติ ทำตามคนส่วนใหญ่",
+            "เป็นการท่องจำ ไม่ใช่การทบทวนวิธีทำงาน",
+            null
+          ]
+        },
+        {
+          "id": "GE011-U6-06",
+          "skill": "GE011-U6",
+          "difficulty": 3,
+          "stem": "เมื่อทำรายงาน การเชื่อมเครื่องมือคิดข้อใดสมเหตุสมผลที่สุด",
+          "options": [
+            "เขียนข้อสรุปก่อน → หาข้อมูลเฉพาะที่ตรงใจมาสนับสนุน",
+            "ใช้ mind map แตกหัวข้อ → ใช้ 5W1H หาข้อมูลแต่ละหัวข้อ → สังเคราะห์เป็นข้อสรุป",
+            "เขียนข้อสรุปทันที → ไม่ต้องหาข้อมูล",
+            "ใช้ SCAMPER → ส่งงานทันทีโดยไม่ตรวจ"
+          ],
+          "answer": 1,
+          "explanation_th": "เริ่มจากภาพรวม เก็บข้อมูลให้ครบ แล้วรวมเป็นข้อสรุป",
+          "why_wrong": [
+            "เป็นการเลือกข้อมูลตามอคติ",
+            null,
+            "ข้อสรุปไม่มีข้อมูลรองรับ",
+            "ข้ามการหาข้อมูลและการตรวจ"
+          ]
+        },
+        {
+          "id": "GE011-U6-07",
+          "skill": "GE011-U6",
+          "difficulty": 2,
+          "stem": "ระหว่างฝึกสหกิจ ลูกค้าบ่นว่าเว็บจองใช้ยาก การคิดขั้นแรกที่เหมาะที่สุดคือข้อใด",
+          "options": [
+            "รีบออกแบบเว็บใหม่ทั้งหมดทันที",
+            "ใช้ 5W1H ถามว่าใครเจอปัญหา ติดตรงขั้นไหน เกิดเมื่อไร",
+            "ตอบลูกค้าว่าเขาใช้ไม่เป็นเอง",
+            "ไม่สนใจเพราะไม่ใช่งานของเรา"
+          ],
+          "answer": 1,
+          "explanation_th": "ต้องเก็บข้อมูลให้ครบก่อนคิดวิธีแก้",
+          "why_wrong": [
+            "ยังไม่รู้ว่าปัญหาอยู่ตรงไหน",
+            null,
+            "โทษลูกค้าโดยไม่มีข้อมูล",
+            "ไม่ได้แก้ปัญหาและเสียโอกาสเรียนรู้"
+          ]
+        },
+        {
+          "id": "GE011-U6-08",
+          "skill": "GE011-U6",
+          "difficulty": 2,
+          "stem": "อยากรู้ว่าทำไมคะแนนควิซตกลง 3 ครั้งติดกัน เครื่องมือใดตรงงานที่สุด",
+          "options": [
+            "SCAMPER",
+            "Brainstorming ไอเดียโปสเตอร์",
+            "5 Whys เพื่อหาสาเหตุที่แท้จริง",
+            "หมวกแดงอย่างเดียว"
+          ],
+          "answer": 2,
+          "explanation_th": "คำถามคือ \"ทำไม\" จึงต้องใช้เครื่องมือหาต้นเหตุ",
+          "why_wrong": [
+            "ใช้ดัดแปลงไอเดีย ไม่ได้หาสาเหตุ",
+            "ไม่เกี่ยวกับปัญหาคะแนน",
+            null,
+            "ได้แค่ความรู้สึก ไม่ได้หาสาเหตุ"
+          ]
+        }
+      ],
+      "say": [
+        "I choose the right tool for the job.",
+        "Which thinking tool should we use here?",
+        "What will I do differently next time?"
+      ],
+      "task_th": "เขียนตารางเล็ก ๆ 2 คอลัมน์ ซ้ายคือเรื่องที่ต้องทำสัปดาห์นี้ 3 เรื่อง ขวาคือเครื่องมือคิดที่จะใช้กับแต่ละเรื่อง แล้วลองใช้จริง 1 เรื่องวันนี้"
+    }
+  ]
+}

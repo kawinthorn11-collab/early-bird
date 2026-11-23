@@ -1,0 +1,665 @@
+{
+ "id": "L21",
+ "phase": 3,
+ "skill": "r.detail",
+ "title_th": "รายละเอียด / ถอดความ / NOT-TRUE",
+ "title_en": "Details, paraphrase and NOT/TRUE questions",
+ "villain": "boo",
+ "hook": {
+  "beats": [
+   {
+    "say": "ปิ๊ปอ่านป้ายห้องสมุด แล้วเจอคำถามที่ตัวเลือกหน้าตาคล้ายกันหมด",
+    "anim": "enter",
+    "board": "opens at 8 on weekdays, 10 on weekends"
+   },
+   {
+    "say": "ข้ามี 3 กับดัก! ใช้คำเดียวกับบทความแต่ความหมายผิด จริงครึ่งเดียว และพูดเกินจริง",
+    "actor": "villain",
+    "anim": "shake",
+    "board": "กับดัก 3 แบบ"
+   },
+   {
+    "say": "คำตอบที่ถูกมักเป็นการถอดความ ใช้คำต่างจากบทความแต่ความหมายเท่ากัน",
+    "anim": "think",
+    "board": "paraphrase = คำต่าง ความหมายเดิม"
+   },
+   {
+    "say": "ระวังคำแรง ๆ อย่าง always all never ถ้าบทความไม่ได้พูดแรงขนาดนั้น ตัวเลือกนั้นผิด",
+    "anim": "jump",
+    "board": "always? all? never? → ระวัง!"
+   },
+   {
+    "say": "ข้อ NOT true ให้ติ๊กตัวเลือกที่จริงทิ้งทีละข้อ ตัวที่เหลือคือคำตอบ",
+    "anim": "zap",
+    "board": "NOT = หาตัวที่ไม่จริง"
+   },
+   {
+    "say": "กับดักของข้าใช้ไม่ได้แล้ว!",
+    "actor": "villain",
+    "anim": "swap"
+   }
+  ]
+ },
+ "discover": {
+  "examples": [
+   "Text: \"Tickets cost 100 baht for adults and half price for children.\"",
+   "A: Children pay **50 baht**. (ถอดความ ✓)",
+   "B: Tickets cost **100 baht for everyone**. (เกินจริง ✗)",
+   "C: **Children** cost 100 baht. (ใช้คำเดิม แต่ผิด ✗)"
+  ],
+  "question_th": "ทำไมตัวเลือก A ถูก ทั้งที่ไม่มีคำว่า 50 ในบทความ?",
+  "options_th": [
+   "เพราะ half price ของ 100 = 50 เป็นการถอดความ",
+   "เพราะเป็นตัวเลือกแรก",
+   "เพราะสั้นที่สุด",
+   "เพราะมีคำว่า children"
+  ],
+  "answer": 0,
+  "reveal_th": "ข้อสอบชอบถอดความ (paraphrase) และตัวลวงมัก (1) ใช้คำซ้ำกับบทความแต่สลับความหมาย (2) จริงแค่ครึ่ง (3) เกินกว่าที่บทความพูด — กลับไปหาประโยคในบทความเสมอ อย่าตอบจากความรู้เดิม"
+ },
+ "rule": {
+  "line_th": "หาประโยคต้นทางในบทความ → เทียบความหมาย (ไม่ใช่คำ) → ตัดตัวลวง 3 แบบ: คำเหมือนแต่ความหมายผิด / จริงครึ่งเดียว / เกินจริง",
+  "memory_th": "🔍 อย่าเชื่อคำที่หน้าตาเหมือน: ตัวเลือกที่ \"ก๊อปคำจากบทความ\" มักเป็นกับดัก ส่วนคำตอบจริงมักแต่งตัวใหม่ (paraphrase)",
+  "terms": [
+   [
+    "paraphrase",
+    "ถอดความ (คำต่าง ความหมายเดิม)"
+   ],
+   [
+    "distractor",
+    "ตัวลวง"
+   ],
+   [
+    "detail question",
+    "คำถามรายละเอียด"
+   ]
+  ]
+ },
+ "speak": [
+  "The library opens at eight on weekdays and at ten on weekends.",
+  "Children pay half price, so a child ticket costs fifty baht.",
+  "The festival was cancelled because of the heavy rain."
+ ],
+ "twists": [
+  {
+   "id": "L21-t1",
+   "skill": "r.detail",
+   "type": "match",
+   "prompt_th": "จับคู่ประโยคกับการถอดความ",
+   "pairs": [
+    [
+     "He could hardly breathe.",
+     "Breathing was very difficult for him."
+    ],
+    [
+     "The tickets sold out quickly.",
+     "All the tickets were bought in a short time."
+    ],
+    [
+     "She is not unconscious.",
+     "She is awake."
+    ],
+    [
+     "The price went up.",
+     "It became more expensive."
+    ]
+   ],
+   "explanation_th": "คำต่าง ความหมายเดิม = paraphrase"
+  },
+  {
+   "id": "L21-t2",
+   "skill": "r.detail",
+   "type": "fill",
+   "stem": "\"Children under 12 pay half price; the adult price is 200 baht.\" A 9-year-old pays ___ baht.",
+   "accept": [
+    "100",
+    "one hundred"
+   ],
+   "hint_th": "half price ของ 200",
+   "explanation_th": "half of 200 = 100"
+  },
+  {
+   "id": "L21-t3",
+   "skill": "r.detail",
+   "type": "order",
+   "words": [
+    "The",
+    "answer",
+    "must",
+    "be",
+    "in",
+    "the",
+    "text."
+   ],
+   "explanation_th": "กฎทอง: คำตอบต้องมีหลักฐานในบทความ"
+  }
+ ],
+ "questions": [
+  {
+   "id": "L21-01",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"The library opens at 8 a.m. on weekdays and 10 a.m. on weekends.\" — On Saturday, the library opens at ___.",
+   "options": [
+    "8 a.m.",
+    "10 a.m.",
+    "9 a.m.",
+    "noon"
+   ],
+   "answer": 1,
+   "explanation_th": "Saturday = weekend → 10 a.m.",
+   "why_wrong": [
+    "8 a.m. คือวันธรรมดา",
+    null,
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ"
+   ]
+  },
+  {
+   "id": "L21-02",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"Mali walks to school because the bus is often late.\" — Mali walks to school because ___.",
+   "options": [
+    "she likes exercise",
+    "she has no money",
+    "the bus is often late",
+    "she lives next to the school"
+   ],
+   "answer": 2,
+   "explanation_th": "เหตุผลตรงตามบทความ: รถเมล์มักมาสาย",
+   "why_wrong": [
+    "ไม่มีในบทความ (ตอบจากความรู้เดิม)",
+    "ไม่มีในบทความ",
+    null,
+    "ไม่มีในบทความ"
+   ]
+  },
+  {
+   "id": "L21-03",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"Tickets cost 100 baht for adults and half price for children under 12.\" — A 10-year-old child pays ___.",
+   "options": [
+    "100 baht",
+    "nothing",
+    "200 baht",
+    "50 baht"
+   ],
+   "answer": 3,
+   "explanation_th": "half price ของ 100 = 50 (ถอดความ)",
+   "why_wrong": [
+    "ราคาผู้ใหญ่",
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ",
+    null
+   ]
+  },
+  {
+   "id": "L21-04",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"Although the shop is small, it sells more than 200 kinds of tea.\" — Which statement is true: ___",
+   "options": [
+    "The shop has many kinds of tea in a small space.",
+    "The shop is very large.",
+    "The shop sells 200 cups of tea a day.",
+    "The shop sells only coffee."
+   ],
+   "answer": 0,
+   "explanation_th": "ร้านเล็กแต่มีชามากกว่า 200 ชนิด (ถอดความ)",
+   "why_wrong": [
+    null,
+    "ขัดกับ small",
+    "ใช้ตัวเลขเดิมแต่ความหมายผิด (ชนิด ≠ ถ้วย)",
+    "ขัดกับ tea"
+   ]
+  },
+  {
+   "id": "L21-05",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"The festival was cancelled because of the heavy rain, not because of a lack of money.\" — The festival was cancelled because ___.",
+   "options": [
+    "there was not enough money",
+    "of the weather",
+    "few people came",
+    "the organizers were sick"
+   ],
+   "answer": 1,
+   "explanation_th": "heavy rain = weather (ถอดความ)",
+   "why_wrong": [
+    "บทความบอกชัดว่าไม่ใช่เรื่องเงิน (กับดักใช้คำเดิม)",
+    null,
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ"
+   ]
+  },
+  {
+   "id": "L21-06",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"Ben has visited Japan three times but has never been to Korea.\" — Which statement is true? ___",
+   "options": [
+    "Ben lives in Japan.",
+    "Ben visited Korea three times.",
+    "Ben has never been to Korea.",
+    "Ben does not like Korea."
+   ],
+   "answer": 2,
+   "explanation_th": "ตรงตามบทความ",
+   "why_wrong": [
+    "บอกแค่ว่าเคยไปเที่ยว ไม่ได้อาศัย",
+    "สลับประเทศ (กับดักใช้คำเดิม)",
+    null,
+    "ไม่ได้ไป ไม่ได้แปลว่าไม่ชอบ (เกินจริง)"
+   ]
+  },
+  {
+   "id": "L21-07",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"Unlike her brother, who loves sports, Fah prefers reading quietly at home.\" — Which is true? ___",
+   "options": [
+    "Fah loves sports.",
+    "Fah's brother reads a lot.",
+    "Both of them love sports.",
+    "Fah and her brother have different hobbies."
+   ],
+   "answer": 3,
+   "explanation_th": "Unlike = ต่างจาก → งานอดิเรกต่างกัน",
+   "why_wrong": [
+    "สลับคน",
+    "ไม่มีในบทความ",
+    "ขัดกับ Unlike",
+    null
+   ]
+  },
+  {
+   "id": "L21-08",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"The new phone is lighter than the old model, but its battery lasts two hours less.\" — Compared with the old model, the new phone ___.",
+   "options": [
+    "has a shorter battery life",
+    "is heavier",
+    "has a longer battery life",
+    "is the same weight"
+   ],
+   "answer": 0,
+   "explanation_th": "lasts two hours less = แบตอยู่ได้สั้นลง",
+   "why_wrong": [
+    null,
+    "ขัดกับ lighter",
+    "กลับความหมาย",
+    "ขัดกับ lighter"
+   ]
+  },
+  {
+   "id": "L21-09",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"Only students who have paid the fee can join the school trip.\" — According to the text, ___.",
+   "options": [
+    "all students can join the trip",
+    "paying the fee is necessary to join",
+    "the trip is free",
+    "teachers must pay the fee"
+   ],
+   "answer": 1,
+   "explanation_th": "Only … who have paid = ต้องจ่ายก่อนจึงไปได้",
+   "why_wrong": [
+    "ขัดกับ Only",
+    null,
+    "ขัดกับ fee",
+    "ไม่มีในบทความ"
+   ]
+  },
+  {
+   "id": "L21-10",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"The bridge, which was built in 1965, was repaired last year.\" — Which is true? ___",
+   "options": [
+    "The bridge was built last year.",
+    "The bridge has never been repaired.",
+    "The bridge is more than fifty years old.",
+    "The bridge was repaired in 1965."
+   ],
+   "answer": 2,
+   "explanation_th": "สร้างปี 1965 → อายุเกิน 50 ปีแล้ว (ถอดความ/คำนวณ)",
+   "why_wrong": [
+    "สลับปี",
+    "ขัดกับ repaired",
+    null,
+    "สลับเหตุการณ์"
+   ]
+  },
+  {
+   "id": "L21-11",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"Most of the volunteers were university students, though a few were retired teachers.\" — Which is true? ___",
+   "options": [
+    "All the volunteers were students.",
+    "Most volunteers were teachers.",
+    "There were no teachers.",
+    "Some volunteers were retired teachers."
+   ],
+   "answer": 3,
+   "explanation_th": "a few were retired teachers = ครูเกษียณบางคน",
+   "why_wrong": [
+    "เกินจริง (All)",
+    "สลับ",
+    "ขัดกับ a few",
+    null
+   ]
+  },
+  {
+   "id": "L21-12",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"The restaurant by the river is famous not for its food but for its view.\" — People go to this restaurant mainly for ___.",
+   "options": [
+    "the view",
+    "the food",
+    "the low prices",
+    "the music"
+   ],
+   "answer": 0,
+   "explanation_th": "not for its food but for its view",
+   "why_wrong": [
+    null,
+    "บทความบอกว่าไม่ใช่เพราะอาหาร",
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ"
+   ]
+  },
+  {
+   "id": "L21-13",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"Nok usually takes the bus, but today she took a taxi because she was late.\" — Which is true? ___",
+   "options": [
+    "Nok always takes a taxi.",
+    "Nok was late today.",
+    "The bus was late today.",
+    "Nok missed the taxi."
+   ],
+   "answer": 1,
+   "explanation_th": "because she was late",
+   "why_wrong": [
+    "ขัดกับ usually takes the bus",
+    null,
+    "สลับ (คนสาย ไม่ใช่รถ)",
+    "ไม่มีในบทความ"
+   ]
+  },
+  {
+   "id": "L21-14",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"The price of the tour includes hotels and breakfast; lunch and dinner are extra.\" — Travelers on this tour must ___.",
+   "options": [
+    "pay for their hotels",
+    "skip breakfast",
+    "pay for lunch themselves",
+    "eat only breakfast"
+   ],
+   "answer": 2,
+   "explanation_th": "extra = จ่ายเพิ่มเอง",
+   "why_wrong": [
+    "รวมแล้ว",
+    "รวมแล้ว",
+    null,
+    "เกินจริง ไม่ได้ห้ามกินมื้ออื่น"
+   ]
+  },
+  {
+   "id": "L21-15",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"Before the factory opened, the river was clean and full of fish.\" — We can say that ___.",
+   "options": [
+    "the factory cleaned the river",
+    "there were never fish in the river",
+    "the river is cleaner now",
+    "the river has changed since the factory opened"
+   ],
+   "answer": 3,
+   "explanation_th": "Before the factory opened … = หลังโรงงานเปิด แม่น้ำเปลี่ยนไป",
+   "why_wrong": [
+    "ไม่มีหลักฐาน",
+    "ขัดกับ full of fish",
+    "ขัดกับนัยของประโยค",
+    null
+   ]
+  },
+  {
+   "id": "L21-16",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"Ton failed his first English test in Grade 10. Instead of giving up, he started watching English cartoons every evening and wrote ten new words in a notebook each day. Two years later, he won the school speech contest.\" — How did Ton improve his English? ___",
+   "options": [
+    "By taking extra classes",
+    "By watching cartoons and learning new words every day",
+    "By traveling abroad",
+    "By joining a speech club"
+   ],
+   "answer": 1,
+   "explanation_th": "watching English cartoons … wrote ten new words each day (ถอดความ)",
+   "why_wrong": [
+    "ไม่มีในบทความ",
+    null,
+    "ไม่มีในบทความ",
+    "เขาชนะการประกวด แต่ไม่ได้เข้าชมรม"
+   ]
+  },
+  {
+   "id": "L21-17",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"Ton failed his first English test in Grade 10. Instead of giving up, he started watching English cartoons every evening and wrote ten new words in a notebook each day. Two years later, he won the school speech contest.\" — Which statement is true? ___",
+   "options": [
+    "Ton has always been good at English.",
+    "Ton gave up after his first test.",
+    "Ton did badly on a test before he improved.",
+    "Ton learned 100 words a day."
+   ],
+   "answer": 2,
+   "explanation_th": "failed his first English test → ทำได้แย่ก่อนพัฒนา",
+   "why_wrong": [
+    "ขัดกับ failed",
+    "ขัดกับ Instead of giving up",
+    null,
+    "ตัวเลขผิด (ten)"
+   ]
+  },
+  {
+   "id": "L21-18",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"The city's new bike-sharing program started in May. Users pay 20 baht per hour, but the first 30 minutes are free for students. In the first month, 12,000 people used the bikes, twice as many as the city had expected.\" — A student who rides a bike for 30 minutes pays ___.",
+   "options": [
+    "20 baht",
+    "10 baht",
+    "40 baht",
+    "nothing"
+   ],
+   "answer": 3,
+   "explanation_th": "the first 30 minutes are free for students",
+   "why_wrong": [
+    "ราคาต่อชั่วโมงทั่วไป",
+    "คำนวณครึ่งชั่วโมงแต่ลืมเงื่อนไขนักเรียน",
+    "ไม่มีในบทความ",
+    null
+   ]
+  },
+  {
+   "id": "L21-19",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"The city's new bike-sharing program started in May. Users pay 20 baht per hour, but the first 30 minutes are free for students. In the first month, 12,000 people used the bikes, twice as many as the city had expected.\" — In the first month, the number of users was ___.",
+   "options": [
+    "higher than the city had expected",
+    "lower than expected",
+    "exactly as expected",
+    "about 6,000"
+   ],
+   "answer": 0,
+   "explanation_th": "twice as many as expected = มากกว่าที่คาด",
+   "why_wrong": [
+    null,
+    "ตรงข้าม",
+    "ตรงข้าม",
+    "นี่คือจำนวนที่คาดไว้ ไม่ใช่จำนวนจริง"
+   ]
+  },
+  {
+   "id": "L21-20",
+   "skill": "r.detail",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "\"Coffee plants were first found growing wild in Ethiopia. Later, farmers in Yemen began to grow coffee as a crop and make drinks from it. By the 1600s, coffee houses had opened in Europe, where people met to discuss news and business.\" — Where did people first grow coffee as a crop? ___",
+   "options": [
+    "In Ethiopia",
+    "In Yemen",
+    "In Europe",
+    "In Africa and Europe together"
+   ],
+   "answer": 1,
+   "explanation_th": "Ethiopia = พบต้นกาแฟป่า, Yemen = เริ่มปลูกเป็นพืชไร่ (อ่านให้ละเอียด)",
+   "why_wrong": [
+    "เอธิโอเปียคือที่พบต้นป่า ไม่ใช่ปลูก (กับดักใช้คำเดิม)",
+    null,
+    "ยุโรปมีร้านกาแฟ ไม่ได้ปลูก",
+    "ไม่มีในบทความ"
+   ]
+  },
+  {
+   "id": "L21-21",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"Coffee plants were first found growing wild in Ethiopia. Later, farmers in Yemen began to grow coffee as a crop and make drinks from it. By the 1600s, coffee houses had opened in Europe, where people met to discuss news and business.\" — According to the text, European coffee houses were places where people ___.",
+   "options": [
+    "grew coffee plants",
+    "sold coffee to Yemen",
+    "talked about news and business",
+    "studied plants"
+   ],
+   "answer": 2,
+   "explanation_th": "met to discuss news and business (ถอดความ)",
+   "why_wrong": [
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ",
+    null,
+    "ไม่มีในบทความ"
+   ]
+  },
+  {
+   "id": "L21-22",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"Our school canteen will close for repairs from 1 to 15 March. During this time, students may bring lunch from home or buy food from the stalls outside the main gate. The canteen will reopen on 16 March with a new menu.\" — On 10 March, students can ___.",
+   "options": [
+    "eat in the canteen",
+    "try the new menu",
+    "go home for lunch",
+    "buy food outside the main gate"
+   ],
+   "answer": 3,
+   "explanation_th": "1–15 มีนาคม โรงอาหารปิด นักเรียนซื้ออาหารหน้าประตูได้",
+   "why_wrong": [
+    "ปิดซ่อม",
+    "เมนูใหม่เริ่ม 16 มี.ค.",
+    "บทความบอกให้นำข้าวมาจากบ้าน ไม่ใช่กลับบ้าน",
+    null
+   ]
+  },
+  {
+   "id": "L21-23",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"Our school canteen will close for repairs from 1 to 15 March. During this time, students may bring lunch from home or buy food from the stalls outside the main gate. The canteen will reopen on 16 March with a new menu.\" — When the canteen reopens, it will ___.",
+   "options": [
+    "offer different food",
+    "close at 3 p.m.",
+    "move outside the gate",
+    "be free for students"
+   ],
+   "answer": 0,
+   "explanation_th": "with a new menu = อาหารใหม่ (ถอดความ)",
+   "why_wrong": [
+    null,
+    "ไม่มีในบทความ",
+    "ร้านแผงลอยอยู่นอกประตู ไม่ใช่โรงอาหาร",
+    "ไม่มีในบทความ"
+   ]
+  },
+  {
+   "id": "L21-24",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"Elephants can recognize themselves in a mirror, something only a few animals, such as apes and dolphins, can do. Scientists believe this shows that elephants understand they are separate individuals.\" — According to the text, which animals can recognize themselves in a mirror? ___",
+   "options": [
+    "Only elephants",
+    "Elephants, apes and dolphins",
+    "All large animals",
+    "Apes and dolphins, but not elephants"
+   ],
+   "answer": 1,
+   "explanation_th": "elephants … only a few animals, such as apes and dolphins",
+   "why_wrong": [
+    "ข้อความบอกว่ามีสัตว์อื่นด้วย",
+    null,
+    "เกินจริง (only a few)",
+    "ขัดกับประโยคแรก"
+   ]
+  },
+  {
+   "id": "L21-25",
+   "skill": "r.detail",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "\"Elephants can recognize themselves in a mirror, something only a few animals, such as apes and dolphins, can do. Scientists believe this shows that elephants understand they are separate individuals.\" — What do scientists believe about elephants? ___",
+   "options": [
+    "They are smarter than apes.",
+    "They like looking at mirrors.",
+    "They know that they are individuals.",
+    "They can learn any language."
+   ],
+   "answer": 2,
+   "explanation_th": "understand they are separate individuals (ถอดความ)",
+   "why_wrong": [
+    "ไม่มีการเปรียบเทียบความฉลาด",
+    "ไม่มีในบทความ",
+    null,
+    "ไม่มีในบทความ"
+   ]
+  }
+ ],
+ "cloze": "C08"
+}

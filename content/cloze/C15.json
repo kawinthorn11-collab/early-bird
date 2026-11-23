@@ -1,0 +1,209 @@
+{
+ "id": "C15",
+ "title": "Who Ate the Cake?",
+ "genre": "เรื่องเล่าขำ ๆ",
+ "level": "B1",
+ "text": "When I came home from school, the chocolate cake on the kitchen table was gone. Only a few crumbs were left. Somebody (1) eaten it! My little brother was at football practice all afternoon, so he (2) taken it. My mother (3) eaten it either, because she is on a strict diet. \"The cat (4) jumped on the table,\" my father said, but our cat hates chocolate.\nThen I saw chocolate on my father's shirt. \"You (5) eaten it!\" I said. He laughed. \"I'm sorry. I (6) asked you first. I was just so hungry.\" My mother said he (7) bought another cake on his way home (8) he had remembered. \"If you had told me, I (9) saved you a piece,\" I said. Now my father has to bake a new cake, something he (10) done for years!",
+ "items": [
+  {
+   "id": "C15-1",
+   "skill": "g.modal-perfect",
+   "difficulty": 1,
+   "stem": "(1) Somebody ___ eaten it!",
+   "options": [
+    "should have",
+    "must have",
+    "can't have",
+    "needn't have"
+   ],
+   "answer": 1,
+   "explanation_th": "เค้กหายไป (หลักฐาน) → must have eaten",
+   "why_wrong": [
+    "should have = ควรกิน ความหมายแปลก",
+    null,
+    "can't have ขัดกับหลักฐาน",
+    "needn't have ความหมายผิด"
+   ]
+  },
+  {
+   "id": "C15-2",
+   "skill": "g.modal-perfect",
+   "difficulty": 2,
+   "stem": "(2) My little brother was at football practice all afternoon, so he ___ taken it.",
+   "options": [
+    "must have",
+    "should have",
+    "can't have",
+    "would have"
+   ],
+   "answer": 2,
+   "explanation_th": "น้องอยู่ซ้อมบอลทั้งบ่าย = เป็นไปไม่ได้ → can't have",
+   "why_wrong": [
+    "must have ขัดกับเหตุผล",
+    "should have ความหมายผิด",
+    null,
+    "would have ต้องมีเงื่อนไข"
+   ]
+  },
+  {
+   "id": "C15-3",
+   "skill": "g.modal-perfect",
+   "difficulty": 2,
+   "stem": "(3) My mother ___ eaten it either, because she is on a strict diet.",
+   "options": [
+    "should have",
+    "must have",
+    "would",
+    "couldn't have"
+   ],
+   "answer": 3,
+   "explanation_th": "แม่ไดเอท = ไม่มีทาง → couldn't have (+ either)",
+   "why_wrong": [
+    "should have ความหมายผิด",
+    "must have ขัดกับเหตุผล",
+    "would eaten ผิดรูป",
+    null
+   ]
+  },
+  {
+   "id": "C15-4",
+   "skill": "g.modal-perfect",
+   "difficulty": 2,
+   "stem": "(4) \"The cat ___ jumped on the table,\"",
+   "options": [
+    "might have",
+    "should have",
+    "would have",
+    "needn't have"
+   ],
+   "answer": 0,
+   "explanation_th": "พ่อเดาความเป็นไปได้ → might have",
+   "why_wrong": [
+    null,
+    "should have ความหมายผิด",
+    "would have ต้องมีเงื่อนไข if และไม่ใช่การเดา",
+    "needn't have ความหมายผิด"
+   ]
+  },
+  {
+   "id": "C15-5",
+   "skill": "g.modal-perfect",
+   "difficulty": 1,
+   "stem": "(5) \"You ___ eaten it!\"",
+   "options": [
+    "should have",
+    "must have",
+    "needn't have",
+    "couldn't have"
+   ],
+   "answer": 1,
+   "explanation_th": "หลักฐาน (ช็อกโกแลตบนเสื้อ) → must have",
+   "why_wrong": [
+    "should have = ควรกิน ความหมายผิด",
+    null,
+    "needn't have ความหมายผิด",
+    "couldn't have ขัดกับหลักฐาน"
+   ]
+  },
+  {
+   "id": "C15-6",
+   "skill": "g.modal-perfect",
+   "difficulty": 1,
+   "stem": "(6) I ___ asked you first.",
+   "options": [
+    "must have",
+    "can't have",
+    "should have",
+    "might have"
+   ],
+   "answer": 2,
+   "explanation_th": "ขอโทษ = เสียดายที่ไม่ได้ถามก่อน → should have asked",
+   "why_wrong": [
+    "must have ไม่ใช่การขอโทษ",
+    "can't have ความหมายผิด",
+    null,
+    "might have ไม่ใช่การขอโทษ"
+   ]
+  },
+  {
+   "id": "C15-7",
+   "skill": "g.modal-perfect",
+   "difficulty": 2,
+   "stem": "(7) My mother said he ___ bought another cake on his way home … he had remembered.",
+   "options": [
+    "must have",
+    "can't have",
+    "needn't have",
+    "could have"
+   ],
+   "answer": 3,
+   "explanation_th": "could have = ซื้อได้ (ถ้าจำได้) แต่ไม่ได้ซื้อ",
+   "why_wrong": [
+    "must have ขัดกับความจริง",
+    "can't have ความหมายผิด",
+    "needn't have ความหมายผิด",
+    null
+   ]
+  },
+  {
+   "id": "C15-8",
+   "skill": "g.conditional",
+   "difficulty": 2,
+   "stem": "(8) My mother said he … bought another cake on his way home ___ he had remembered.",
+   "options": [
+    "if",
+    "unless",
+    "whether",
+    "so"
+   ],
+   "answer": 0,
+   "explanation_th": "ซื้อได้ ถ้าจำได้ → if",
+   "why_wrong": [
+    null,
+    "unless = ถ้าไม่ ความหมายกลับ",
+    "whether = หรือไม่",
+    "so ไม่สมเหตุผล"
+   ]
+  },
+  {
+   "id": "C15-9",
+   "skill": "g.conditional",
+   "difficulty": 2,
+   "stem": "(9) \"If you had told me, I ___ saved you a piece,\"",
+   "options": [
+    "will have",
+    "would have",
+    "would",
+    "had"
+   ],
+   "answer": 1,
+   "explanation_th": "If + had V3 → would have saved",
+   "why_wrong": [
+    "will have เป็นอนาคต",
+    null,
+    "would saved ผิดรูป",
+    "had saved ไม่ใช่ประโยคหลัก"
+   ]
+  },
+  {
+   "id": "C15-10",
+   "skill": "g.tense-past",
+   "difficulty": 2,
+   "stem": "(10) Now my father has to bake a new cake, something he ___ done for years!",
+   "options": [
+    "hadn't",
+    "didn't",
+    "hasn't",
+    "doesn't"
+   ],
+   "answer": 2,
+   "explanation_th": "ไม่ได้ทำมาหลายปีจนถึงตอนนี้ (for years) → hasn't done",
+   "why_wrong": [
+    "hadn't ใช้กับจุดอ้างอิงในอดีต แต่ประโยคเป็นปัจจุบัน (Now)",
+    "didn't done ผิดรูป",
+    null,
+    "doesn't done ผิดรูป"
+   ]
+  }
+ ]
+}

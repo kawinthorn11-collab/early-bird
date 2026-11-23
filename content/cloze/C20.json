@@ -1,0 +1,209 @@
+{
+ "id": "C20",
+ "title": "A Night at the Waterfall",
+ "genre": "เรื่องเล่า",
+ "level": "A2",
+ "text": "Last month my class went camping near a waterfall in Kanchanaburi. Before the trip, our teacher told us to pack (1) warm clothes and not too (2) snacks. I took (3) small bag with a sleeping bag, a torch and two T-shirts.\nWe arrived (4) the campsite in the afternoon. There were very (5) other people there, only one family, so it was quiet. In the evening we cooked a simple curry. It was simple food, (6) it was delicious. I don't usually eat (7) vegetables at home, but I ate a lot that night!\nLater, our teacher, (8) knows a lot about stars, showed us the night sky. We were far from the city, so the sky (9) very dark. I really enjoyed (10) under the stars.",
+ "items": [
+  {
+   "id": "C20-1",
+   "skill": "g.quantifier",
+   "difficulty": 1,
+   "stem": "(1) Before the trip, our teacher told us to pack ___ warm clothes and not too … snacks.",
+   "options": [
+    "much",
+    "some",
+    "a little",
+    "every"
+   ],
+   "answer": 1,
+   "explanation_th": "ประโยคบอกเล่า + clothes พหูพจน์ → some",
+   "why_wrong": [
+    "much ใช้กับนามนับไม่ได้ แต่ clothes เป็นพหูพจน์",
+    null,
+    "a little ใช้กับนามนับไม่ได้",
+    "every ตามด้วยนามเอกพจน์ แต่ clothes เป็นพหูพจน์"
+   ]
+  },
+  {
+   "id": "C20-2",
+   "skill": "g.quantifier",
+   "difficulty": 1,
+   "stem": "(2) Before the trip, our teacher told us to pack … warm clothes and not too ___ snacks.",
+   "options": [
+    "much",
+    "little",
+    "a little",
+    "many"
+   ],
+   "answer": 3,
+   "explanation_th": "too many + นามนับได้ snacks นับได้ → many",
+   "why_wrong": [
+    "much ใช้กับนามนับไม่ได้ แต่ snacks นับได้",
+    "little ใช้กับนามนับไม่ได้",
+    "a little ใช้กับนามนับไม่ได้ และวางหลัง too ไม่ได้",
+    null
+   ]
+  },
+  {
+   "id": "C20-3",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stem": "(3) I took ___ small bag with a sleeping bag, a torch and two T-shirts.",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "some"
+   ],
+   "answer": 0,
+   "explanation_th": "กระเป๋าใบหนึ่งที่เพิ่งพูดถึงครั้งแรก small ขึ้นต้นเสียงพยัญชนะ → a",
+   "why_wrong": [
+    null,
+    "an ใช้ก่อนเสียงสระ",
+    "the ใช้กับสิ่งที่รู้กันแล้ว แต่นี่เพิ่งพูดถึง",
+    "some ไม่ใช้กับนามเอกพจน์นับได้"
+   ]
+  },
+  {
+   "id": "C20-4",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(4) We arrived ___ the campsite in the afternoon.",
+   "options": [
+    "to",
+    "on",
+    "for",
+    "at"
+   ],
+   "answer": 3,
+   "explanation_th": "arrive at + สถานที่ → arrived at the campsite",
+   "why_wrong": [
+    "arrive ไม่ใช้คู่กับ to",
+    "on ใช้กับพื้นผิวหรือวัน ไม่ใช้หลัง arrive แบบนี้",
+    "for บอกจุดประสงค์หรือระยะเวลา ไม่ใช่สถานที่ที่ไปถึง",
+    null
+   ]
+  },
+  {
+   "id": "C20-5",
+   "skill": "g.quantifier",
+   "difficulty": 2,
+   "stem": "(5) There were very ___ other people there, only one family, so it was quiet.",
+   "options": [
+    "few",
+    "a few",
+    "much",
+    "little"
+   ],
+   "answer": 0,
+   "explanation_th": "very few = น้อยมาก มีแค่ครอบครัวเดียว people นับได้ → few",
+   "why_wrong": [
+    null,
+    "very ใช้ข้างหน้า a few ไม่ได้",
+    "much ใช้กับนามนับไม่ได้ และแปลว่าเยอะ",
+    "little ใช้กับนามนับไม่ได้ แต่ people นับได้"
+   ]
+  },
+  {
+   "id": "C20-6",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stem": "(6) It was simple food, ___ it was delicious.",
+   "options": [
+    "so",
+    "but",
+    "because",
+    "or"
+   ],
+   "answer": 1,
+   "explanation_th": "อาหารธรรมดา แต่อร่อย = ขัดแย้งกัน → but",
+   "why_wrong": [
+    "so บอกผลลัพธ์ แต่อาหารธรรมดาไม่ได้ทำให้อร่อย",
+    null,
+    "because บอกเหตุผล ความหมายไม่เข้ากัน",
+    "or ใช้ให้เลือก ไม่ใช่ความขัดแย้ง"
+   ]
+  },
+  {
+   "id": "C20-7",
+   "skill": "g.quantifier",
+   "difficulty": 2,
+   "stem": "(7) I don't usually eat ___ vegetables at home, but I ate a lot that night!",
+   "options": [
+    "much",
+    "a little",
+    "many",
+    "little"
+   ],
+   "answer": 2,
+   "explanation_th": "ปฏิเสธ + vegetables นับได้ → not many",
+   "why_wrong": [
+    "much ใช้กับนามนับไม่ได้ แต่ vegetables นับได้",
+    "a little ใช้กับนามนับไม่ได้",
+    null,
+    "little ใช้กับนามนับไม่ได้"
+   ]
+  },
+  {
+   "id": "C20-8",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(8) Later, our teacher, ___ knows a lot about stars, showed us the night sky.",
+   "options": [
+    "which",
+    "who",
+    "where",
+    "what"
+   ],
+   "answer": 1,
+   "explanation_th": "ขยายคน (our teacher) → who",
+   "why_wrong": [
+    "which ใช้กับสิ่งของ ไม่ใช่คน",
+    null,
+    "where ใช้กับสถานที่",
+    "what ไม่ใช้ขยายคำนามข้างหน้า"
+   ]
+  },
+  {
+   "id": "C20-9",
+   "skill": "g.tense-past",
+   "difficulty": 1,
+   "stem": "(9) We were far from the city, so the sky ___ very dark.",
+   "options": [
+    "was",
+    "is",
+    "were",
+    "has been"
+   ],
+   "answer": 0,
+   "explanation_th": "เล่าเรื่องในอดีต (We were) และ the sky เป็นเอกพจน์ → was",
+   "why_wrong": [
+    null,
+    "is เป็นปัจจุบัน แต่เรื่องเกิดในอดีต",
+    "were ใช้กับประธานพหูพจน์ แต่ the sky เป็นเอกพจน์",
+    "has been ไม่ใช้เล่าเหตุการณ์ในคืนนั้นที่จบไปแล้ว"
+   ]
+  },
+  {
+   "id": "C20-10",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(10) I really enjoyed ___ under the stars.",
+   "options": [
+    "to sleep",
+    "sleep",
+    "sleeping",
+    "slept"
+   ],
+   "answer": 2,
+   "explanation_th": "enjoy + V-ing เสมอ → enjoyed sleeping",
+   "why_wrong": [
+    "enjoy ไม่ตามด้วย to V",
+    "enjoy ไม่ตามด้วยกริยารูปปกติ",
+    null,
+    "slept เป็นกริยาอดีต วางต่อจาก enjoyed ไม่ได้"
+   ]
+  }
+ ]
+}

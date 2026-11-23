@@ -1,0 +1,665 @@
+{
+ "id": "L19",
+ "phase": 3,
+ "skill": "r.reference",
+ "title_th": "คำนี้หมายถึงอะไร? (Reference)",
+ "title_en": "Reference words: he, they, this, some, those",
+ "villain": "boo",
+ "hook": {
+  "beats": [
+   {
+    "say": "ปิ๊ปล่องเรือมาถึงแม่น้ำนักอ่าน เจอบทความที่มีคำว่า they ลอยไปมา",
+    "anim": "enter",
+    "board": "\"Children love the robot. Some come just to see it.\""
+   },
+   {
+    "say": "บู้! ข้าคือบู ผีชี้ผิดตัว Some หมายถึงหุ่นยนต์แน่นอน!",
+    "actor": "villain",
+    "anim": "shake",
+    "board": "Some = robots??"
+   },
+   {
+    "say": "เคล็ดลับข้อแรก ย้อนกลับไปหาคำนามที่ใกล้ที่สุดก่อนหน้า",
+    "anim": "think",
+    "board": "← ย้อนหาคำนาม"
+   },
+   {
+    "say": "ข้อสอง ดูเอกพจน์พหูพจน์ และดูกริยา come แปลว่าต้องเป็นสิ่งที่เดินมาได้",
+    "anim": "jump",
+    "board": "Some = some children"
+   },
+   {
+    "say": "ข้อสาม ลองแทนคำตอบกลับเข้าไป ถ้าประโยคยังมีความหมายเหมือนเดิม คือคำตอบ",
+    "anim": "zap",
+    "board": "Some (children) come just to see it ✓"
+   },
+   {
+    "say": "ไม่จริ๊ง ทุกคนรู้วิธีจับข้าแล้ว!",
+    "actor": "villain",
+    "anim": "swap"
+   }
+  ]
+ },
+ "discover": {
+  "examples": [
+   "Mina has two cats. **They** sleep on her bed.",
+   "Many people recycle bottles. **This** helps the planet.",
+   "Some students like math; **others** prefer art.",
+   "Prices of oil are higher than **those** of gas."
+  ],
+  "question_th": "This ในประโยคที่ 2 หมายถึงอะไร?",
+  "options_th": [
+   "การรีไซเคิลขวด (ความคิดทั้งก้อน)",
+   "ขวด",
+   "ผู้คน",
+   "โลก"
+  ],
+  "answer": 0,
+  "reveal_th": "this/that/it มักชี้ \"ความคิดทั้งก้อน\" ในประโยคก่อนหน้า ไม่ใช่คำนามคำเดียว · some/many/others/most = some/many/other/most + คำนามที่เพิ่งพูด · they/them = พหูพจน์ที่ใกล้ที่สุดที่ทำกริยานั้นได้ — ข้อสอบจริงถามแบบนี้เกือบครึ่งของพาร์ทอ่าน"
+ },
+ "rule": {
+  "line_th": "3 ขั้น: ย้อนหาคำนาม/ความคิดก่อนหน้า → เช็กเอก/พหู + กริยา → แทนกลับเข้าไปแล้วอ่านใหม่",
+  "memory_th": "🔦 ไฟฉายย้อนหลัง: ส่องย้อนไปทีละประโยค แล้ว \"แทนค่า\" เหมือนสมการ ถ้าความหมายไม่เปลี่ยน = ถูก",
+  "terms": [
+   [
+    "reference word",
+    "คำอ้างถึง"
+   ],
+   [
+    "referent",
+    "สิ่งที่ถูกอ้างถึง"
+   ],
+   [
+    "substitute",
+    "แทนค่า"
+   ]
+  ]
+ },
+ "speak": [
+  "Children love the robot, and some come just to see it.",
+  "Many people recycle bottles. This helps the planet.",
+  "Some students like math; others prefer art."
+ ],
+ "twists": [
+  {
+   "id": "L19-t1",
+   "skill": "r.reference",
+   "type": "match",
+   "prompt_th": "\"Ben has a sister. **She** loves art. Ben helps **her**, and **they** paint together.\" แต่ละคำหมายถึงใคร",
+   "pairs": [
+    [
+     "She",
+     "Ben's sister"
+    ],
+    [
+     "her",
+     "Ben's sister (กรรม)"
+    ],
+    [
+     "they",
+     "Ben and his sister"
+    ]
+   ],
+   "explanation_th": "She/her = น้องสาว (ตำแหน่งต่างกัน) · they = ทั้งสองคน"
+  },
+  {
+   "id": "L19-t2",
+   "skill": "r.reference",
+   "type": "fill",
+   "stem": "\"Many tourists visit Phuket. ___ come for the beaches.\" (เติมคำแทน tourists)",
+   "accept": [
+    "They",
+    "they",
+    "Most",
+    "Many",
+    "Some"
+   ],
+   "hint_th": "คำแทนพหูพจน์ที่เป็นประธาน",
+   "explanation_th": "They (หรือ Most/Many/Some) แทน tourists"
+  },
+  {
+   "id": "L19-t3",
+   "skill": "r.reference",
+   "type": "order",
+   "words": [
+    "Bees",
+    "make",
+    "honey,",
+    "and",
+    "it",
+    "is",
+    "very",
+    "sweet."
+   ],
+   "explanation_th": "it แทน honey (เอกพจน์)"
+  }
+ ],
+ "questions": [
+  {
+   "id": "L19-01",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"Mina has two cats. **They** sleep on her bed every night.\" — \"They\" refers to ___.",
+   "options": [
+    "the two cats",
+    "Mina and her cats",
+    "the beds",
+    "Mina's parents"
+   ],
+   "answer": 0,
+   "explanation_th": "They + sleep on her bed → แมวสองตัว (พหูพจน์ที่ใกล้ที่สุด)",
+   "why_wrong": [
+    null,
+    "her bed แสดงว่า Mina ไม่ได้อยู่ใน they",
+    "เตียงไม่ได้ \"sleep\"",
+    "พ่อแม่ไม่ได้ถูกพูดถึง"
+   ]
+  },
+  {
+   "id": "L19-02",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"Tom gave Ben a book because **he** knew Ben loved stories.\" — \"he\" refers to ___.",
+   "options": [
+    "Ben",
+    "Tom",
+    "the writer of the book",
+    "Ben's father"
+   ],
+   "answer": 1,
+   "explanation_th": "he knew Ben loved stories → คนที่รู้ใจ Ben คือ Tom (ถ้าเป็น Ben จะไม่ซ้ำชื่อ Ben)",
+   "why_wrong": [
+    "ถ้า he = Ben ประโยคจะซ้ำ Ben ไม่เป็นธรรมชาติ",
+    null,
+    "นักเขียนไม่ได้ถูกพูดถึง",
+    "พ่อไม่ได้ถูกพูดถึง"
+   ]
+  },
+  {
+   "id": "L19-03",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"The students cleaned the classroom. The teacher thanked **them**.\" — \"them\" refers to ___.",
+   "options": [
+    "the teachers",
+    "the classrooms",
+    "the students",
+    "the parents"
+   ],
+   "answer": 2,
+   "explanation_th": "ครูขอบคุณคนที่ทำความสะอาด = the students",
+   "why_wrong": [
+    "ครูมีคนเดียวและเป็นผู้ขอบคุณ",
+    "ห้องเรียนรับคำขอบคุณไม่ได้",
+    null,
+    "ผู้ปกครองไม่ได้ถูกพูดถึง"
+   ]
+  },
+  {
+   "id": "L19-04",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"Many people recycle plastic bottles. **This** helps to reduce waste.\" — \"This\" refers to ___.",
+   "options": [
+    "plastic bottles",
+    "many people",
+    "waste",
+    "recycling plastic bottles"
+   ],
+   "answer": 3,
+   "explanation_th": "This ชี้ความคิดทั้งก้อน: การรีไซเคิลขวดพลาสติก",
+   "why_wrong": [
+    "ขวดพลาสติกไม่ช่วยลดขยะ การรีไซเคิลต่างหาก",
+    "ผู้คนเป็นแค่ผู้ทำ",
+    "ขยะคือสิ่งที่ลดลง",
+    null
+   ]
+  },
+  {
+   "id": "L19-05",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"Our school has two libraries. One is for children, and **the other** is for teachers.\" — \"the other\" refers to ___.",
+   "options": [
+    "the second library",
+    "another school",
+    "the children",
+    "the teachers"
+   ],
+   "answer": 0,
+   "explanation_th": "มีสองห้องสมุด One … the other = ห้องสมุดอีกแห่ง",
+   "why_wrong": [
+    null,
+    "ไม่ได้พูดถึงโรงเรียนอื่น",
+    "เด็กเป็นผู้ใช้ ไม่ใช่ห้องสมุด",
+    "ครูเป็นผู้ใช้"
+   ]
+  },
+  {
+   "id": "L19-06",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"Sara lost her phone at the market, but a kind stranger found **it**.\" — \"it\" refers to ___.",
+   "options": [
+    "the market",
+    "Sara's phone",
+    "the stranger",
+    "Sara"
+   ],
+   "answer": 1,
+   "explanation_th": "found it = เจอโทรศัพท์ที่หาย",
+   "why_wrong": [
+    "ตลาดไม่ได้หาย",
+    null,
+    "คนแปลกหน้าเป็นผู้หา",
+    "Sara เป็นคน"
+   ]
+  },
+  {
+   "id": "L19-07",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"Doctors say that walking is good exercise. **They** recommend 30 minutes a day.\" — \"They\" refers to ___.",
+   "options": [
+    "people who walk",
+    "exercises",
+    "doctors",
+    "minutes"
+   ],
+   "answer": 2,
+   "explanation_th": "คนที่แนะนำ = doctors",
+   "why_wrong": [
+    "คนเดินไม่ได้เป็นผู้แนะนำ",
+    "การออกกำลังกายแนะนำไม่ได้",
+    null,
+    "นาทีแนะนำไม่ได้"
+   ]
+  },
+  {
+   "id": "L19-08",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stage": 1,
+   "stem": "\"I bought apples and oranges. **The former** were sweet, but the latter were sour.\" — \"The former\" refers to ___.",
+   "options": [
+    "the oranges",
+    "both fruits",
+    "the shop",
+    "the apples"
+   ],
+   "answer": 3,
+   "explanation_th": "the former = สิ่งแรกที่พูดถึง (apples) / the latter = สิ่งหลัง",
+   "why_wrong": [
+    "oranges คือ the latter",
+    "former หมายถึงอย่างแรกอย่างเดียว",
+    "ร้านไม่ได้ถูกพูดถึง",
+    null
+   ]
+  },
+  {
+   "id": "L19-09",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"Some students like math; **others** prefer art.\" — \"others\" refers to ___.",
+   "options": [
+    "other students",
+    "other subjects",
+    "other teachers",
+    "other schools"
+   ],
+   "answer": 0,
+   "explanation_th": "Some students … others (other students)",
+   "why_wrong": [
+    null,
+    "art คือวิชา ไม่ใช่ others",
+    "ไม่มีครู",
+    "ไม่มีโรงเรียนอื่น"
+   ]
+  },
+  {
+   "id": "L19-10",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"My grandmother grew up in a quiet village. **There**, people went to bed at eight.\" — \"There\" refers to ___.",
+   "options": [
+    "in the city",
+    "in the quiet village",
+    "at school",
+    "in grandmother's bedroom"
+   ],
+   "answer": 1,
+   "explanation_th": "There = ที่หมู่บ้านเงียบ ๆ ที่เพิ่งพูด",
+   "why_wrong": [
+    "ไม่ได้พูดถึงเมือง",
+    null,
+    "ไม่ได้พูดถึงโรงเรียน",
+    "กว้าง/แคบเกินไป ประโยคพูดถึงคนทั้งหมู่บ้าน"
+   ]
+  },
+  {
+   "id": "L19-11",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"When Lek met Mrs. Chan, the new teacher, **she** smiled and shook his hand.\" — \"she\" refers to ___.",
+   "options": [
+    "Lek",
+    "Lek's mother",
+    "Mrs. Chan",
+    "a student"
+   ],
+   "answer": 2,
+   "explanation_th": "his hand = มือของ Lek (ผู้ชาย) ดังนั้น she = Mrs. Chan",
+   "why_wrong": [
+    "Lek เป็นผู้ชาย (his hand)",
+    "แม่ไม่ได้ถูกพูดถึง",
+    null,
+    "ไม่มีนักเรียนคนอื่น"
+   ]
+  },
+  {
+   "id": "L19-12",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"Rice and noodles are popular in Thailand. **Both** are cheap and easy to cook.\" — \"Both\" refers to ___.",
+   "options": [
+    "Thailand and rice",
+    "two restaurants",
+    "two cooks",
+    "rice and noodles"
+   ],
+   "answer": 3,
+   "explanation_th": "Both = ทั้งสองอย่างที่เพิ่งพูด (ข้าวและเส้น)",
+   "why_wrong": [
+    "ประเทศไทยไม่ได้ \"ถูกและทำง่าย\"",
+    "ไม่มีร้านอาหาร",
+    "ไม่มีพ่อครัว",
+    null
+   ]
+  },
+  {
+   "id": "L19-13",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"My grandparents live on a farm. I visit **them** every summer.\" — \"them\" refers to ___.",
+   "options": [
+    "my grandparents",
+    "the farm animals",
+    "my parents",
+    "my friends"
+   ],
+   "answer": 0,
+   "explanation_th": "visit them = ไปเยี่ยมปู่ย่า",
+   "why_wrong": [
+    null,
+    "สัตว์ไม่ได้ถูกพูดถึง",
+    "พ่อแม่ไม่ได้ถูกพูดถึง",
+    "เพื่อนไม่ได้ถูกพูดถึง"
+   ]
+  },
+  {
+   "id": "L19-14",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"The math test was difficult, but Nok passed **it** easily.\" — \"it\" refers to ___.",
+   "options": [
+    "the class",
+    "the math test",
+    "math",
+    "the result"
+   ],
+   "answer": 1,
+   "explanation_th": "passed it = ผ่านข้อสอบ",
+   "why_wrong": [
+    "ไม่ได้พูดถึงห้องเรียน",
+    null,
+    "\"ผ่านวิชาคณิต\" ไม่ตรงกับประโยค ประโยคพูดถึงข้อสอบครั้งนี้",
+    "ผลสอบไม่ได้ถูกพูดถึงก่อน"
+   ]
+  },
+  {
+   "id": "L19-15",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"Food prices are rising quickly, and **this** worries many families.\" — \"this\" refers to ___.",
+   "options": [
+    "many families",
+    "food",
+    "the fact that food prices are rising",
+    "prices falling"
+   ],
+   "answer": 2,
+   "explanation_th": "สิ่งที่ทำให้กังวล = การที่ราคาอาหารสูงขึ้น (ความคิดทั้งก้อน)",
+   "why_wrong": [
+    "ครอบครัวคือผู้กังวล",
+    "อาหารเฉย ๆ ไม่ใช่สิ่งที่กังวล",
+    null,
+    "ตรงข้ามกับข้อความ"
+   ]
+  },
+  {
+   "id": "L19-16",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "\"Kai and his sister Pim went to the zoo with their father. Kai wanted to see the lions, but Pim was afraid of **them**. So she stayed near the birds.\" — \"them\" refers to ___.",
+   "options": [
+    "the birds",
+    "Kai and his father",
+    "the visitors",
+    "the lions"
+   ],
+   "answer": 3,
+   "explanation_th": "Pim กลัว … สิ่งที่ Kai อยากดู = the lions",
+   "why_wrong": [
+    "Pim ไปอยู่ใกล้นก จึงไม่ได้กลัวนก",
+    "Pim ไม่ได้กลัวพี่และพ่อ",
+    "ไม่ได้พูดถึงผู้เข้าชมคนอื่น",
+    null
+   ]
+  },
+  {
+   "id": "L19-17",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "\"Kai and his sister Pim went to the zoo with their father. Kai wanted to see the lions, but Pim was afraid of them. So **she** stayed near the birds.\" — \"she\" refers to ___.",
+   "options": [
+    "Pim",
+    "Kai's mother",
+    "a zookeeper",
+    "a lion"
+   ],
+   "answer": 0,
+   "explanation_th": "คนที่กลัวสิงโตแล้วไปอยู่ใกล้นก = Pim",
+   "why_wrong": [
+    null,
+    "แม่ไม่ได้ไปด้วย",
+    "ไม่มีผู้ดูแลสวนสัตว์",
+    "สิงโตไม่ได้ \"stayed near the birds\""
+   ]
+  },
+  {
+   "id": "L19-18",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"Scientists studied 500 teenagers who use social media every night. **Most** said they felt more stressed before bed.\" — \"Most\" refers to ___.",
+   "options": [
+    "most scientists",
+    "most of the teenagers",
+    "most social media apps",
+    "most nights"
+   ],
+   "answer": 1,
+   "explanation_th": "คนที่ \"said they felt stressed\" = วัยรุ่นในการศึกษา",
+   "why_wrong": [
+    "นักวิทยาศาสตร์เป็นผู้ศึกษา",
+    null,
+    "แอปพูดไม่ได้",
+    "คืนพูดไม่ได้"
+   ]
+  },
+  {
+   "id": "L19-19",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "\"Scientists studied 500 teenagers who use social media every night. Most said they felt more stressed before bed. The researchers believe **this** is because bright screens keep the brain awake.\" — \"this\" refers to ___.",
+   "options": [
+    "using social media",
+    "the brain",
+    "teenagers feeling more stressed before bed",
+    "bright screens"
+   ],
+   "answer": 2,
+   "explanation_th": "สิ่งที่นักวิจัยอธิบายเหตุผล = การที่วัยรุ่นเครียดก่อนนอน",
+   "why_wrong": [
+    "การใช้โซเชียลเป็นเหตุ ไม่ใช่สิ่งที่ถูกอธิบาย",
+    "สมองไม่ใช่สิ่งที่ถูกอธิบาย",
+    null,
+    "จอสว่างคือเหตุผล (because…) ไม่ใช่ this"
+   ]
+  },
+  {
+   "id": "L19-20",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "\"The Lee family runs a small bakery. Every morning, **they** bake 300 loaves of bread before sunrise.\" — \"they\" refers to ___.",
+   "options": [
+    "the customers",
+    "the loaves",
+    "other bakeries",
+    "the Lee family"
+   ],
+   "answer": 3,
+   "explanation_th": "คนที่ทำขนมปัง = the Lee family",
+   "why_wrong": [
+    "ลูกค้าไม่ได้อบขนม",
+    "ขนมปังอบตัวเองไม่ได้",
+    "ไม่มีร้านอื่น",
+    null
+   ]
+  },
+  {
+   "id": "L19-21",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"The Lee family runs a small bakery. Their customers say it is the best bread in town, and **some** drive for an hour to buy it.\" — \"some\" refers to ___.",
+   "options": [
+    "some of their customers",
+    "some loaves",
+    "some towns",
+    "some family members"
+   ],
+   "answer": 0,
+   "explanation_th": "คนที่ขับรถมาซื้อ = ลูกค้าบางคน",
+   "why_wrong": [
+    null,
+    "ขนมปังขับรถไม่ได้",
+    "เมืองขับรถไม่ได้",
+    "ครอบครัวไม่ต้องขับมาซื้อของตัวเอง"
+   ]
+  },
+  {
+   "id": "L19-22",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"When the old bridge collapsed, the villagers had to cross the river by boat. **This** took a long time, especially for children going to school.\" — \"This\" refers to ___.",
+   "options": [
+    "the old bridge",
+    "crossing the river by boat",
+    "the river",
+    "going to school"
+   ],
+   "answer": 1,
+   "explanation_th": "สิ่งที่ใช้เวลานาน = การนั่งเรือข้ามแม่น้ำ",
+   "why_wrong": [
+    "สะพานพังแล้ว ใช้เวลาไม่ได้",
+    null,
+    "แม่น้ำไม่ได้ \"take a long time\"",
+    "แคบเกินไป ประโยคบอกว่าการข้ามเรือใช้เวลานาน โดยเฉพาะเด็ก"
+   ]
+  },
+  {
+   "id": "L19-23",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"When the old bridge collapsed, the villagers had to cross the river by boat. Children had to leave home at five, and **they** were often late for class.\" — \"they\" refers to ___.",
+   "options": [
+    "the villagers",
+    "the boats",
+    "the children",
+    "the teachers"
+   ],
+   "answer": 2,
+   "explanation_th": "they were late for class = เด็ก ๆ",
+   "why_wrong": [
+    "ชาวบ้านทั่วไปไม่ได้ไปเรียน",
+    "เรือไม่ได้ไปเรียน",
+    null,
+    "ไม่มีครูในข้อความ"
+   ]
+  },
+  {
+   "id": "L19-24",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "\"Many tourists visit Chiang Mai in December. **They** come for the cool weather and the flower festival.\" — \"They\" refers to ___.",
+   "options": [
+    "the flowers",
+    "hotel owners",
+    "the people of Chiang Mai",
+    "many tourists"
+   ],
+   "answer": 3,
+   "explanation_th": "คนที่มาเพราะอากาศเย็น = นักท่องเที่ยว",
+   "why_wrong": [
+    "ดอกไม้ไม่ได้ \"come for\"",
+    "ไม่ได้พูดถึงเจ้าของโรงแรม",
+    "คนเชียงใหม่อยู่ที่นั่นแล้ว",
+    null
+   ]
+  },
+  {
+   "id": "L19-25",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "\"Many tourists visit Chiang Mai in December for the cool weather and the flower festival. **This** is why hotel prices double in that month.\" — \"This\" refers to ___.",
+   "options": [
+    "the large number of tourists in December",
+    "the cool weather only",
+    "hotel owners",
+    "the flower festival only"
+   ],
+   "answer": 0,
+   "explanation_th": "เหตุที่ราคาโรงแรมขึ้น = นักท่องเที่ยวจำนวนมากมาในเดือนธันวาคม (ความคิดทั้งก้อน)",
+   "why_wrong": [
+    null,
+    "อากาศเย็นอย่างเดียวไม่ทำให้ราคาขึ้น ต้องมีคนมาเยอะ",
+    "เจ้าของโรงแรมไม่ใช่เหตุผล",
+    "เทศกาลอย่างเดียวแคบเกินไป"
+   ]
+  }
+ ],
+ "cloze": "C06"
+}

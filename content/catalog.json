@@ -1,0 +1,1088 @@
+{
+ "source": "source/curriculum-extract.md (รายละเอียดหลักสูตร สาขาวิชาภาษาอังกฤษ V.67.3)",
+ "generated_by": "scripts/build-catalog.mjs",
+ "courses": [
+  {
+   "code": "EN101",
+   "code_th": "อก.101",
+   "name_th": "ภาษาอังกฤษในชีวิตประจำวัน",
+   "name_en": "Everyday English",
+   "credits": "3 (2 – 2 – 6)",
+   "group": "กลุ่มวิชาภาษาอังกฤษ",
+   "desc_th": "ฝึกฝนการใช้โครงสร้างพื้นฐานและสำนวนภาษาอังกฤษที่ใช้ในชีวิตประจำวัน ประกอบด้วยการพูดแนะนำตนเองและให้ข้อมูลส่วนตัว การบรรยายบุคลิกลักษณะ การพูดถึงเรื่องที่สนใจ เรื่องที่เป็นความชอบและแรงผลักดันส่วนตัวของแต่ละคน รวมถึงการแสดงความคิดเห็นในเรื่องทั่วไป อีกทั้งพัฒนาทักษะการพูด การฟัง การอ่าน และการเขียนด้วยวิธีเชิงบูรณาการ",
+   "desc_en": "Practice basic language structures and everyday expressions, including how to give informative self-introduction, describe personality, talk about interests and personal passions, as well as how to express opinions about general issues. Enhance language skills-speaking, listening, reading, and writing—through integrated methods.",
+   "prerequisite": []
+  },
+  {
+   "code": "EN102",
+   "code_th": "อก.102",
+   "name_th": "ภาษาอังกฤษในบริบททางสังคม",
+   "name_en": "Social English",
+   "credits": "3 (2 – 2 – 6)",
+   "group": "กลุ่มวิชาภาษาอังกฤษ",
+   "desc_th": "ฝึกฝนการพูดและการเขียนประโยคและสำนวนที่ใช้เป็นประจำ เพื่อการมีปฏิสัมพันธ์ทางสังคม การแลกเปลี่ยนข้อมูล การเปรียบเทียบ และการอธิบายความคิดเกี่ยวกับเรื่องต่าง ๆ ในบริบททางสังคมและธุรกิจ โดยมุ่งเน้นการพัฒนาทักษะการอภิปรายและการนำเสนอ ด้วยเทคโนโลยีและความคิดสร้างสรรค์",
+   "desc_en": "Practice speaking and writing frequently used expressions for social interactions, exchanging information, making comparisons, and explaining ideas in social and business-related contexts, with emphasis on developing discussion and presentation skills along with digital skills and creativity.",
+   "prerequisite": []
+  },
+  {
+   "code": "EN103",
+   "code_th": "อก.103",
+   "name_th": "ภาษาอังกฤษในบริบทสากล",
+   "name_en": "Global English",
+   "credits": "3 (2 – 2 – 6)",
+   "group": "กลุ่มวิชาภาษาอังกฤษ",
+   "desc_th": "ฝึกฝนการบรรยายประสบการณ์โดยระบุรายละเอียดสนับสนุน และแสดงความคิดเห็นเกี่ยวกับชีวิตความเป็นอยู่ การทำงาน และประเด็นปัญหาในระดับสากล โดยมุ่งเน้นการพัฒนาทักษะการสื่อสารระหว่างวัฒนธรรม และการสื่อสารในโลกดิจิทัล ซึ่งสำคัญต่อการเป็นพลเมืองโลก",
+   "desc_en": "Intensive practice in portraying detailed experiences and expressing opinions about living and working situations, and discussing global issues, with concentration on intercultural communication skills and digital communication skills, which are vital to becoming global citizens.",
+   "prerequisite": []
+  },
+  {
+   "code": "GE011",
+   "code_th": "ศท.011",
+   "name_th": "ทักษะการคิดเพื่อการเรียนรู้ตลอดชีวิต",
+   "name_en": "Thinking Skills for Lifelong Learning",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาบูรณาการทักษะวิชาชีพ",
+   "desc_th": "ทฤษฎี หลักการของการคิด พัฒนาการคิดอย่างเป็นระบบ ฝึกฝนการคิดเชิงวิพากษ์ การคิดสร้างสรรค์ การคิดวิเคราะห์ การคิดสังเคราะห์ การคิดแก้ปัญหา รวมถึงการเชื่อมโยงความคิดและเลือกเครื่องมือความคิดที่เหมาะสมไปประยุกต์ใช้ในชีวิตประจำวัน การทำงานและการเรียนรู้ตลอดชีวิตได้อย่างมีประสิทธิภาพ",
+   "desc_en": "Theories and practical thinking tools, practice critical thinking, creative and innovative thinking, analytical thinking, synthesis thinking and problem-solving thinking, including how to link and select appropriate thinking tools and effectively adapt to daily life, professional undertakings and lifelong learning.",
+   "prerequisite": []
+  },
+  {
+   "code": "GE012",
+   "code_th": "ศท.012",
+   "name_th": "ความเป็นพลเมืองในสังคมและชุมชนระหว่างประเทศ",
+   "name_en": "Citizenship in Society and International Community",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาบูรณาการทักษะวิชาชีพ",
+   "desc_th": "ความหมาย คุณลักษณะ สิทธิ หน้าที่ ความรับผิดชอบของการเป็นพลเมืองที่ดี ในสังคมไทย สังคมโลก และสังคมดิจิทัล พร้อมที่จะปรับตัวเพื่ออยู่ร่วมกับผู้อื่นได้อย่างมีความสุข รวมถึงรู้เท่าทันการเกิดขึ้นของประเด็นใหม่ ๆ ในสังคม เพื่อรองรับการเปลี่ยนแปลงของบริบทแวดล้อมที่จะมีผลต่อชีวิตและการทำงาน ตลอดจนตระหนักในความสำคัญของการสร้างความร่วมมือในสังคมระดับต่าง ๆ ที่มีความแตกต่างทางวัฒนธรรม",
+   "desc_en": "Concepts, traits, rights, duties and responsibilities of citizenship in Thai society, global society, and digital society, with ability to adjust and live happily with others while keeping abreast of and adapting themselves to societal changes which may affect livelihood and working life; awareness and cooperation at different levels among people of diverse cultures.",
+   "prerequisite": []
+  },
+  {
+   "code": "GE013",
+   "code_th": "ศท.013",
+   "name_th": "เทคโนโลยีและนวัตกรรมเพื่ออนาคต",
+   "name_en": "Technology and Innovation for the Future",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาบูรณาการทักษะวิชาชีพ",
+   "desc_th": "บทบาท แนวคิด การรู้เท่าทัน และการปรับตัวเข้ากับการเปลี่ยนแปลงของโลกอนาคต รวมถึงการประยุกต์ใช้เทคโนโลยีและนวัตกรรมด้านต่าง ๆ เพื่อมุ่งเน้นการแสวงหาความรู้ การพัฒนาคุณภาพชีวิตในสังคมสมัยใหม่ การแก้ปัญหาที่เกิดขึ้นในชีวิตประจำวันและการทำงานอย่างสร้างสรรค์ ผลกระทบของเทคโนโลยีและนวัตกรรมที่มีต่อการดำเนินชีวิต สังคม และเศรษฐกิจ ตลอดจนศึกษาการใช้ประโยชน์และการคุ้มครองทรัพย์สินทางปัญญาที่เกิดจากเทคโนโลยีและนวัตกรรม",
+   "desc_en": "Concepts, roles, awareness and adjustment to changes of the future and applications of various types of technology and innovation in knowledge acquisition and improvement of quality of life in a new normal society including ways to solve life complexity and challenges, and to enhance creative working life; impacts of technology and innovation on our livelihood, society and economics, and how to optimize and to protect the intellectual property arising from technology and innovation.",
+   "prerequisite": []
+  },
+  {
+   "code": "GE014",
+   "code_th": "ศท.014",
+   "name_th": "สุนทรียภาพและสุขภาวะเพื่อชีวิต",
+   "name_en": "Aesthetics and Well-being for Life",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาบูรณาการทักษะวิชาชีพ",
+   "desc_th": "การรู้จักตัวเอง การใช้ชีวิตที่ตนเองต้องการอย่างมีคุณค่า ใช้ความคิดสร้างสรรค์ในการสร้างความสุขผ่านสุนทรียภาพจากงานศิลปะ กิจกรรมนันทนาการ และกีฬา รู้เท่าทันอารมณ์ตนเอง และวางแผนความสำเร็จจากความชอบของตนเอง",
+   "desc_en": "How to live a meaningful life through various types of arts, recreational activities and sports; new perspectives for aesthetics of life that influence one’s mind and how one may plan a path to success from one’s passion.",
+   "prerequisite": []
+  },
+  {
+   "code": "GE015",
+   "code_th": "ศท.015",
+   "name_th": "จิตวิญญาณความเป็นผู้ประกอบการและความรู้ทางการเงิน",
+   "name_en": "Entrepreneurial Spirit and Financial Literacy",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาบูรณาการทักษะวิชาชีพ",
+   "desc_th": "คุณลักษณะที่สำคัญในการสร้างจิตวิญญาณการเป็นผู้ประกอบการ โดยเน้นการคิดแบบเจ้าของ ประกอบด้วยการมีความคิดสร้างสรรค์ และการแสวงหาโอกาสในการเริ่มและดำเนินกิจการอย่างมีคุณธรรมและจริยธรรม มีการจัดการและตัดสินใจทางการเงินอย่างมีประสิทธิผล ทั้งการจัดการการเงินส่วนบุคคลและการลงทุน รวมทั้งการพัฒนาอย่างยั่งยืน มีภาวะผู้นำที่สามารถนำและทำงานเป็นทีมได้อย่างมีประสิทธิผล รอบรู้ และกล้าตัดสินใจทันต่อเหตุการณ์",
+   "desc_en": "The development of character traits that are vital to cultivating an entrepreneurial spirit, with an emphasis placed on how to think like an entrepreneur, opportunities to start and run a business with on the basis of ethics and moral grounds, how to effectively manage and make financial decisions, personal financial management and investment, including sustainable development, effective leadership skills development, teamwork, bold, prompt and well-informed decisions-making.",
+   "prerequisite": []
+  },
+  {
+   "code": "ENL101",
+   "code_th": "ภอษ.101",
+   "name_th": "ไวยากรณ์ภาษาอังกฤษ 1",
+   "name_en": "English Grammar I",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาแกน",
+   "desc_th": "ไวยากรณ์ภาษาอังกฤษระดับคำ กาล และโครงสร้างประโยคความเดียว",
+   "desc_en": "English grammar at word level, tenses and simple sentences.",
+   "prerequisite": []
+  },
+  {
+   "code": "ENL111",
+   "code_th": "ภอษ.111",
+   "name_th": "การฟังและการพูด 1",
+   "name_en": "Listening and Speaking I",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาแกน",
+   "desc_th": "การพูดเกี่ยวกับสถานการณ์ต่าง ๆ ในชีวิตประจำวันและประเด็นที่น่าสนใจ การฟังเพื่อจับประเด็นหลัก วิเคราะห์ข้อมูล และตอบสนองอย่างเหมาะสม",
+   "desc_en": "Speaking for a variety of everyday situations and topics of interest; listening for main ideas, analyzing information, and responding appropriately.",
+   "prerequisite": []
+  },
+  {
+   "code": "ENL221",
+   "code_th": "ภอษ.221",
+   "name_th": "พื้นฐานการอ่าน",
+   "name_en": "Reading Foundations",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาแกน",
+   "desc_th": "การอ่านเพื่อความเข้าใจ การใช้บริบท การจับใจความสำคัญ การวิเคราะห์คำ การเข้าใจความหมายโดยนัย การถ่ายทอดความเข้าใจในการอ่านด้วยการเขียนบันทึกและสรุป",
+   "desc_en": "Reading for comprehension, using context, understanding main ideas, analyzing words, understanding inferences, and expressing comprehension through journals and summary.",
+   "prerequisite": []
+  },
+  {
+   "code": "ENL231",
+   "code_th": "ภอษ.231",
+   "name_th": "ภาษาศาสตร์ภาษาอังกฤษเบื้องต้น",
+   "name_en": "Introduction to English Linguistics",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาแกน",
+   "desc_th": "ทฤษฎีเบื้องต้นและสาขาที่เกี่ยวข้องกับภาษาศาสตร์ภาษาอังกฤษ",
+   "desc_en": "Fundamental theories and the related fields of English linguistics.",
+   "prerequisite": []
+  },
+  {
+   "code": "ENL341",
+   "code_th": "ภอษ.341",
+   "name_th": "วรรณกรรมเบื้องต้น",
+   "name_en": "Introduction to Literature",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาแกน",
+   "desc_th": "องค์ประกอบพื้นฐานและลักษณะทั่วไปของวรรณกรรมภาษาอังกฤษ รวมทั้งการฝึกอ่านงานประพันธ์ประเภทร้อยแก้ว กวีนิพนธ์ หรือบทละคร",
+   "desc_en": "Basic elements and general characteristics of English literature, with readings in prose, poetry or plays.",
+   "prerequisite": []
+  },
+  {
+   "code": "ENL351",
+   "code_th": "ภอษ.351",
+   "name_th": "การแปลเบื้องต้น",
+   "name_en": "Introduction to Translation",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาแกน",
+   "desc_th": "หลักการแปลเบื้องต้น ปัญหาในการแปล การฝึกแปลคำและประโยคทั้งอังกฤษเป็นไทย และไทยเป็นอังกฤษ",
+   "desc_en": "Basic principles and issues in translation; practice in the translation of words and sentences from English to Thai and Thai to English.",
+   "prerequisite": []
+  },
+  {
+   "code": "ENL102",
+   "code_th": "ภอษ.102",
+   "name_th": "ไวยากรณ์ภาษาอังกฤษ 2",
+   "name_en": "English Grammar II",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-บังคับ",
+   "area": "ด้านทักษะภาษา",
+   "desc_th": "ไวยากรณ์ภาษาอังกฤษในระดับวลี และโครงสร้างประโยครูปแบบต่าง ๆ",
+   "desc_en": "English grammar at phrasal level and various types of sentence structure.",
+   "prerequisite": [
+    "ENL101"
+   ]
+  },
+  {
+   "code": "ENL181",
+   "code_th": "ภอษ.181",
+   "name_th": "ทักษะการเรียนสำหรับนักศึกษาสาขาภาษาอังกฤษ",
+   "name_en": "Study Skills for English Majors",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-บังคับ",
+   "area": "ด้านทักษะภาษา",
+   "desc_th": "ทักษะการสื่อสารภาษาอังกฤษเบื้องต้น แนวปฏิบัติในการศึกษาภาษาอังกฤษระดับอุดมศึกษา การวางแผนการศึกษาตามหลักสูตร หลักจรรยาบรรณทางวิชาการ รวมทั้งฝึกสืบค้นและอ้างอิงข้อมูลจากพจนานุกรม อินเทอร์เน็ต และฐานข้อมูลอิเล็กทรอนิกส์",
+   "desc_en": "Basic English communication skills, guidelines for studying English in higher education, following a degree plan, academic ethics, with practice in searching for information and giving references from dictionaries, the Internet and electronic databases.",
+   "prerequisite": []
+  },
+  {
+   "code": "ENL182",
+   "code_th": "ภอษ.182",
+   "name_th": "การใช้ภาษาไทยสำหรับนักศึกษาสาขาภาษาอังกฤษ",
+   "name_en": "Thai Usage for English Majors",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-บังคับ",
+   "area": "ด้านทักษะภาษา",
+   "desc_th": "หลักการใช้ภาษาไทย การจับใจความสำคัญ การเขียนย่อหน้า และฝึกทักษะการอ่านและการเขียนในชีวิตประจำวัน",
+   "desc_en": "Principles of Thai usage; finding main ideas, paragraph writing, and practice of reading and writing skills for everyday life.",
+   "prerequisite": []
+  },
+  {
+   "code": "ENL201",
+   "code_th": "ภอษ.201",
+   "name_th": "ไวยากรณ์ภาษาอังกฤษเพื่อการใช้ในเชิงปฏิบัติ",
+   "name_en": "English Grammar for Practical Use",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-บังคับ",
+   "area": "ด้านทักษะภาษา",
+   "desc_th": "การฝึกใช้ไวยากรณ์ภาษาอังกฤษในบริบทที่หลากหลาย ผ่านการอ่านและการเขียน",
+   "desc_en": "Practice of English grammar in various contexts through reading and writing.",
+   "prerequisite": [
+    "ENL102"
+   ]
+  },
+  {
+   "code": "ENL211",
+   "code_th": "ภอษ.211",
+   "name_th": "การฟังและการพูด 2",
+   "name_en": "Listening and Speaking II",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-บังคับ",
+   "area": "ด้านทักษะภาษา",
+   "desc_th": "การฟังและการพูดเกี่ยวกับสถานการณ์ปัจจุบันต่าง ๆ ในสังคม การฟังเพื่อจับประเด็นหลัก การแยกแยะข้อเท็จจริงและการแสดงความคิดเห็น รวมทั้งการนำเสนอเบื้องต้นโดยใช้สื่อเทคโนโลยีที่เหมาะสม",
+   "desc_en": "Listening and speaking on current social issues, listening for main idea, distinguishing between facts and opinions, and making basic presentations using appropriate technology.",
+   "prerequisite": [
+    "ENL111"
+   ]
+  },
+  {
+   "code": "ENL222",
+   "code_th": "ภอษ.222",
+   "name_th": "การเขียนระดับย่อหน้า",
+   "name_en": "Paragraph Writing",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-บังคับ",
+   "area": "ด้านทักษะภาษา",
+   "desc_th": "องค์ประกอบและโครงสร้างของย่อหน้า และฝึกเขียนย่อหน้าประเภทต่าง ๆ",
+   "desc_en": "The elements and structure of paragraphs with practice in different types of paragraphs.",
+   "prerequisite": []
+  },
+  {
+   "code": "ENL223",
+   "code_th": "ภอษ.223",
+   "name_th": "การพัฒนาทักษะการอ่าน",
+   "name_en": "Reading Skills Development",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-บังคับ",
+   "area": "ด้านทักษะภาษา",
+   "desc_th": "ทักษะการอ่านเชิงวิเคราะห์ การแยกข้อเท็จจริงและความคิดเห็น การตีความ การอนุมาน และการลงความเห็น การถ่ายทอดความเข้าใจในการอ่านด้วยการเขียนเชิงวิเคราะห์",
+   "desc_en": "Critical reading skills, distinguishing between facts and opinions, making interpretations, inferences, and judgements, and expressing comprehension through written analysis.",
+   "prerequisite": [
+    "ENL221"
+   ]
+  },
+  {
+   "code": "ENL224",
+   "code_th": "ภอษ.224",
+   "name_th": "การเขียนเรียงความ",
+   "name_en": "Essay Writing",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-บังคับ",
+   "area": "ด้านทักษะภาษา",
+   "desc_th": "กลวิธีและกระบวนการเขียนเรียงความประเภทต่าง ๆ",
+   "desc_en": "Strategies and the process of writing various types of essays.",
+   "prerequisite": [
+    "ENL222"
+   ]
+  },
+  {
+   "code": "ENL311",
+   "code_th": "ภอษ.311",
+   "name_th": "การพัฒนาทักษะการอภิปราย",
+   "name_en": "Discussion Skills Development",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-บังคับ",
+   "area": "ด้านทักษะภาษา",
+   "desc_th": "หลักการและลักษณะภาษาที่ใช้โต้ตอบในหัวข้อเชิงโต้แย้ง การจับประเด็นหลัก การแสดงความคิดเห็น รวมทั้งฝึกฟังและอภิปราย",
+   "desc_en": "Principles and style of language used in discussions on controversial topics, understanding main ideas, giving opinions, through both listening and discussions.",
+   "prerequisite": []
+  },
+  {
+   "code": "ENL312",
+   "code_th": "ภอษ.312",
+   "name_th": "กลยุทธ์การนำเสนอ",
+   "name_en": "Presentation Strategies",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-บังคับ",
+   "area": "ด้านทักษะภาษา",
+   "desc_th": "หลักการและกลยุทธ์การนำเสนอผลงานในที่สาธารณะ การฝึกฟังและพูดเพื่อนำเสนอในรูปแบบต่าง ๆ รวมทั้ง การฝึกนำเสนอผลงานโดยใช้สื่อเทคโนโลยีที่เหมาะสม",
+   "desc_en": "Principles and strategies for making public presentations; practice in listening to and speaking in various forms of presentation, including the use of appropriate technology.",
+   "prerequisite": []
+  },
+  {
+   "code": "ENL421",
+   "code_th": "ภอษ.421",
+   "name_th": "การเขียนงานวิจัยเบื้องต้นเป็นภาษาอังกฤษ",
+   "name_en": "Introduction to English Research Writing",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-บังคับ",
+   "area": "ด้านทักษะภาษา",
+   "desc_th": "หลักการเขียนงานเชิงวิชาการ รูปแบบของภาษา คำศัพท์และสำนวน การถอดความและสรุปความ รูปแบบการอ้างอิง การนำเสนอข้อมูลในรูปของตาราง กราฟ แผนภูมิ การทำบรรณานุกรม การแสดงความคิดเห็นและโต้แย้งเชิงวิชาการ",
+   "desc_en": "Principles of academic writing, language style, vocabulary and expressions, paraphrasing and summarizing, citation styles, presenting in the form of tables, graphs, and charts, writing bibliographies, expressing opinions, and academic argument.",
+   "prerequisite": [
+    "ENL224"
+   ]
+  },
+  {
+   "code": "ENL481",
+   "code_th": "ภอษ.481",
+   "name_th": "การสื่อสารข้ามวัฒนธรรม",
+   "name_en": "Intercultural Communication",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-บังคับ",
+   "area": "ด้านทักษะภาษา",
+   "desc_th": "ทฤษฎีเบื้องต้น รูปแบบการสื่อสาร แนวคิดทางภาษาและวัฒนธรรมที่แตกต่าง รวมทั้งฝึกคิดวิเคราะห์และตีความความแตกต่างทางวัฒนธรรมโดยเฉพาะในสถานที่ทำงาน",
+   "desc_en": "Basic theories, communication styles and the concepts of culture and effects on language, with analysis and interpretation of cultural differences, focusing on the workplace.",
+   "prerequisite": []
+  },
+  {
+   "code": "ENL232",
+   "code_th": "ภอษ.232",
+   "name_th": "สัทศาสตร์และการออกเสียงภาษาอังกฤษ 1",
+   "name_en": "English Phonetics and Pronunciation I",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-บังคับ",
+   "area": "ด้านภาษาศาสตร์",
+   "desc_th": "อวัยวะที่ใช้ในการออกเสียงภาษาอังกฤษ ความแตกต่างระหว่างการสะกดและเสียง สัทอักษร การระบุจำนวนพยางค์ในคำ การผลิตเสียงสระและพยัญชนะ รวมทั้งฝึกออกเสียงและฟังเพื่อแยกแยะเสียงสระ และพยัญชนะภาษาอังกฤษ",
+   "desc_en": "Speech organs used in English pronunciation, distinctions between spelling and sounds, the phonetic alphabet, recognizing syllables in words, production of vowels and consonants, with practice in pronunciation and listening to distinguish English vowels and consonants.",
+   "prerequisite": []
+  },
+  {
+   "code": "ENL331",
+   "code_th": "ภอษ.331",
+   "name_th": "สัทศาสตร์และการออกเสียงภาษาอังกฤษ 2",
+   "name_en": "English Phonetics and Pronunciation II",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-บังคับ",
+   "area": "ด้านภาษาศาสตร์",
+   "desc_th": "หลักการออกเสียงคำ ประโยค และข้อความภาษาอังกฤษ รวมทั้งฝึกฟังและออกเสียงในระดับคำ และประโยค",
+   "desc_en": "Principles of pronunciation in words, sentences, and messages, with practice of listening and pronunciation at word and sentence levels.",
+   "prerequisite": [
+    "ENL232"
+   ]
+  },
+  {
+   "code": "ENL431",
+   "code_th": "ภอษ.431",
+   "name_th": "การวิเคราะห์คำและประโยคภาษาอังกฤษ",
+   "name_en": "English Morphology and Syntax",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-บังคับ",
+   "area": "ด้านภาษาศาสตร์",
+   "desc_th": "ส่วนประกอบและโครงสร้างของคำ วลี และประโยค และฝึกวิเคราะห์จากสื่อสิ่งพิมพ์และสื่อดิจิทัล",
+   "desc_en": "The parts and structure of words, phrases and sentences, with analysis of printed and digital texts.",
+   "prerequisite": []
+  },
+  {
+   "code": "ENL432",
+   "code_th": "ภอษ.432",
+   "name_th": "ภาษาศาสตร์สังคม",
+   "name_en": "Sociolinguistics",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-บังคับ",
+   "area": "ด้านภาษาศาสตร์",
+   "desc_th": "ความสัมพันธ์ระหว่างภาษาและสังคม ปัจจัยทางสังคมที่มีอิทธิพลต่อการใช้ภาษา รวมถึงนานาภาษาอังกฤษโลก และฝึกวิเคราะห์ภาษาที่ใช้ในบริบทต่าง ๆ",
+   "desc_en": "The relationship between language and society, social factors that influence language use, World Englishes and analysis of language in various contexts.",
+   "prerequisite": []
+  },
+  {
+   "code": "ENL342",
+   "code_th": "ภอษ.342",
+   "name_th": "วรรณกรรมอังกฤษและอเมริกัน",
+   "name_en": "British and American Literature",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-บังคับ",
+   "area": "ด้านวรรณคดี",
+   "desc_th": "ลักษณะ แนวคิด วัฒนธรรมและสภาพสังคมที่ปรากฏในวรรณกรรมอังกฤษและอเมริกันในสมัยต่าง ๆ",
+   "desc_en": "Characteristics, approaches, culture, and social background from various eras of British and American literature.",
+   "prerequisite": [
+    "ENL341"
+   ]
+  },
+  {
+   "code": "ENL441",
+   "code_th": "ภอษ.441",
+   "name_th": "บันเทิงคดีร่วมสมัย",
+   "name_en": "Contemporary Fiction",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-บังคับ",
+   "area": "ด้านวรรณคดี",
+   "desc_th": "แนวคิดและวิวัฒนาการของบันเทิงคดีร่วมสมัย สกุลความคิดทางวรรณกรรม และฝึกวิเคราะห์วิจารณ์",
+   "desc_en": "Concepts and evolution of contemporary fiction, literary movements with critical analysis.",
+   "prerequisite": [
+    "ENL341"
+   ]
+  },
+  {
+   "code": "ENL352",
+   "code_th": "ภอษ.352",
+   "name_th": "การแปลอังกฤษเป็นไทย",
+   "name_en": "English-Thai Translation",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-บังคับ",
+   "area": "ด้านการแปล",
+   "desc_th": "หลักการและแนวทางการแก้ปัญหาในการแปลภาษาอังกฤษเป็นภาษาไทย ความแตกต่างด้านโครงสร้างของภาษาและวัฒนธรรม รวมทั้งฝึกแปลงานเขียนประเภทต่าง ๆ",
+   "desc_en": "Principles and solutions to issues in English- Thai translation; differences in language structure and culture, and the translation of different types of written texts.",
+   "prerequisite": [
+    "ENL351"
+   ]
+  },
+  {
+   "code": "ENL451",
+   "code_th": "ภอษ.451",
+   "name_th": "การแปลไทยเป็นอังกฤษ",
+   "name_en": "Thai-English Translation",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-บังคับ",
+   "area": "ด้านการแปล",
+   "desc_th": "หลักการและแนวทางการแก้ปัญหาในการแปลภาษาไทยเป็นภาษาอังกฤษ ความแตกต่างด้านโครงสร้างของภาษาและวัฒนธรรม รวมทั้งฝึกแปลงานเขียนประเภทต่าง ๆ",
+   "desc_en": "Principles and solutions to issues in Thai- English translation; differences in language structure and culture, and the translation of different types of written texts.",
+   "prerequisite": [
+    "ENL351"
+   ]
+  },
+  {
+   "code": "ENL511",
+   "code_th": "ภอษ.511",
+   "name_th": "สัมมนาประเด็นปัจจุบัน",
+   "name_en": "Seminar in Contemporary Issues",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาภาษาอังกฤษธุรกิจ",
+   "desc_th": "การฝึกแสดงความคิดเห็นเกี่ยวกับประเด็นปัจจุบันที่น่าสนใจทั้งในประเทศไทยและต่างประเทศ โดยการอภิปราย การเขียนเรียงความ และการนำเสนอโดยใช้สื่อเทคโนโลยีที่เหมาะสม",
+   "desc_en": "Expressing opinions on current issues from Thailand and abroad through discussions, essays and presentations, using appropriate technology.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาภาษาอังกฤษธุรกิจ",
+    "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง"
+   ]
+  },
+  {
+   "code": "ENL551",
+   "code_th": "ภอษ.551",
+   "name_th": "การแปลเชิงธุรกิจ",
+   "name_en": "Business Translation",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาภาษาอังกฤษธุรกิจ",
+   "desc_th": "การฝึกแปลเอกสารและเนื้อหารูปแบบต่าง ๆ ที่ใช้ในธุรกิจจากภาษาอังกฤษเป็นภาษาไทย และภาษาไทยเป็นภาษาอังกฤษ โดยใช้ระดับภาษา คำศัพท์ และสำนวนที่ถูกต้องเหมาะสม",
+   "desc_en": "Practice in translation of various types of business documents and content from English to Thai and Thai to English, with appropriate register, vocabulary and expressions.",
+   "prerequisite": [
+    "ENL351"
+   ],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาภาษาอังกฤษธุรกิจ"
+   ]
+  },
+  {
+   "code": "ENL561",
+   "code_th": "ภอษ.561",
+   "name_th": "ภาษาอังกฤษสำหรับธุรกิจการบริการ",
+   "name_en": "English for Service Industry",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาภาษาอังกฤษธุรกิจ",
+   "desc_th": "คำศัพท์ สำนวน และการฝึกการใช้ภาษาที่เกี่ยวข้องกับการปฏิบัติงานในธุรกิจการบริการ เช่น การท่องเที่ยว การโรงแรมและการบิน รวมทั้งการฝึกใช้สื่อเทคโนโลยีในการเขียนและนำเสนอผลงาน",
+   "desc_en": "Terminology, useful expressions and practice of language used in the service industry including tourism, hotel and airline sectors; applying technology in correspondence and presentation.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาภาษาอังกฤษธุรกิจ"
+   ]
+  },
+  {
+   "code": "ENL562",
+   "code_th": "ภอษ.562",
+   "name_th": "ภาษาอังกฤษเพื่อการพัฒนาด้านอาชีพ",
+   "name_en": "English for Professional Development",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาภาษาอังกฤษธุรกิจ",
+   "desc_th": "องค์ประกอบสำคัญเพื่อการสมัครงาน การเขียนประวัติย่อ การกรอกใบสมัครงานและการสัมภาษณ์งาน การใช้ทักษะภาษาอังกฤษที่จำเป็น ในการสมัครงานและการปฏิบัติงาน และมารยาทในสถานที่ทำงาน",
+   "desc_en": "Essential elements in job applications, resume writing, completing application forms, job interviews; necessary English skills for job applications and the workplace, including etiquette in the workplace.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาภาษาอังกฤษธุรกิจ",
+    "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง",
+    "กลุ่มวิชาการสอนภาษาอังกฤษเพื่อเป็นวิชาชีพ"
+   ]
+  },
+  {
+   "code": "ENL563",
+   "code_th": "ภอษ.563",
+   "name_th": "การสื่อสารทางธุรกิจเพื่อความเป็นผู้ประกอบการ",
+   "name_en": "Business Communication for Entrepreneurship",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาภาษาอังกฤษธุรกิจ",
+   "desc_th": "หลักการเป็นผู้ประกอบการ กลวิธีการสื่อสาร รูปแบบงานของผู้ประกอบการ การฝึกการใช้คำศัพท์ สำนวน และภาษาที่ใช้สำหรับผู้ประกอบการ",
+   "desc_en": "Principles of entrepreneurship, communication strategies and the practices of entrepreneurs; practice in vocabulary, expressions and language for entrepreneurs.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาภาษาอังกฤษธุรกิจ"
+   ]
+  },
+  {
+   "code": "ENL567",
+   "code_th": "ภอษ.567",
+   "name_th": "การสื่อสารองค์กรเป็นภาษาอังกฤษ",
+   "name_en": "Organizational Communication in English",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาภาษาอังกฤษธุรกิจ",
+   "desc_th": "แนวคิดและหลักการด้านภาษากับการสื่อสารในองค์กร ประเภทและรูปแบบการสื่อสารในองค์กร การใช้ทักษะภาษาอังกฤษที่จำเป็นต่อการสื่อสารองค์กรในรูปแบบต่าง ๆ การสื่อสารกลุ่ม การสื่อสารกับผู้บังคับบัญชา การเจรจาต่อรอง",
+   "desc_en": "Concepts and principles of language and organizational communication; types and patterns of organizational communication; essential English skills for various types of organizational communication, group communication, communication with supervisors, and negotiation.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาภาษาอังกฤษธุรกิจ"
+   ]
+  },
+  {
+   "code": "ENL568",
+   "code_th": "ภอษ.568",
+   "name_th": "ภาษาอังกฤษเพื่อการบริการลูกค้า",
+   "name_en": "English for Customer Service",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาภาษาอังกฤษธุรกิจ",
+   "desc_th": "คำศัพท์ สำนวนที่เหมาะสม มารยาท การแก้ปัญหา และเทคนิคการสื่อสารที่เกี่ยวข้องกับการบริการลูกค้า การจัดการกับลูกค้าและการสร้างสัมพันธ์ที่ดีกับลูกค้า",
+   "desc_en": "Terminology, useful expressions, etiquette, problem solving, and communication techniques relevant to customer service; how to deal with customers and build good customer relationships.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาภาษาอังกฤษธุรกิจ"
+   ]
+  },
+  {
+   "code": "ENL569",
+   "code_th": "ภอษ.569",
+   "name_th": "ภาษาอังกฤษเพื่อการตลาดในโลกดิจิทัล",
+   "name_en": "English for Marketing in the Digital World",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาภาษาอังกฤษธุรกิจ",
+   "desc_th": "หลักการตลาดและกลยุทธ์การตลาดดิจิทัล รวมถึงการสร้างเนื้อหา การมีส่วนร่วมบนโซเชียลมีเดีย การตลาดผ่านอีเมล และการโฆษณาออนไลน์ ฝึกการใช้คำศัพท์และสำนวนเฉพาะทางการตลาด เพื่อการสื่อสารอย่างมีประสิทธิภาพบนแพลตฟอร์มต่าง ๆ",
+   "desc_en": "Principles of marketing, digital marketing strategies including content creation, social media engagement, email marketing, and online advertising. Practice using marketing-specific vocabulary and expressions to communicate effectively across various platforms.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาภาษาอังกฤษธุรกิจ"
+   ]
+  },
+  {
+   "code": "ENL571",
+   "code_th": "ภอษ.571",
+   "name_th": "ภาษาอังกฤษเพื่ออุตสาหกรรมสุขภาพและความเป็นอยู่ที่ดี",
+   "name_en": "English for Healthcare and Wellness Industry",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาภาษาอังกฤษธุรกิจ",
+   "desc_th": "คำศัพท์เฉพาะด้านอุตสาหกรรมสุขภาพและความเป็นอยู่ที่ดี สำนวนภาษาอังกฤษเพื่อการสื่อสารในงานบริการที่เกี่ยวข้อง มารยาทในการปฏิบัติงานสำหรับบุคลากรในอุตสาหกรรมสุขภาพและความเป็นอยู่ที่ดี",
+   "desc_en": "Terminology in healthcare and wellness industry, communicative English expressions used in services related to healthcare and wellness, etiquettes for personnel in the industry.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาภาษาอังกฤษธุรกิจ"
+   ]
+  },
+  {
+   "code": "ENL572",
+   "code_th": "ภอษ.572",
+   "name_th": "ภาษาอังกฤษสำหรับอุตสาหกรรมแฟชั่นและสินค้าหรูหรา",
+   "name_en": "English for Fashion and Luxury Goods Industry",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาภาษาอังกฤษธุรกิจ",
+   "desc_th": "การใช้ภาษาอังกฤษเฉพาะทาง คำศัพท์เฉพาะด้าน สไตล์ภาษา การสื่อสารเชิงโน้มน้าวและการโต้ตอบกับลูกค้าในอุตสาหกรรมแฟชั่นและสินค้าหรูหรา",
+   "desc_en": "Industry-specific English usage, specialized vocabulary in the industry, stylistic language, persuasive communication and customer interaction in the fashion and luxury goods sector.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาภาษาอังกฤษธุรกิจ"
+   ]
+  },
+  {
+   "code": "ENL588",
+   "code_th": "ภอษ.588",
+   "name_th": "ศาสตร์และศิลป์การเล่าเรื่องเป็นภาษาอังกฤษ",
+   "name_en": "The Art and Science of Storytelling in English",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาภาษาอังกฤษธุรกิจ",
+   "desc_th": "หลักการและเทคนิคของการเล่าเรื่องอย่างมีประสิทธิภาพในภาษาอังกฤษ โครงสร้างเรื่องเล่า และการพัฒนาทักษะในการสร้างสรรค์และถ่ายทอดเรื่องราวที่น่าสนใจในบริบทต่าง ๆ",
+   "desc_en": "The principles and techniques of effective storytelling in English, narrative structures, skill development in crafting and delivering compelling stories across various contexts.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาภาษาอังกฤษธุรกิจ",
+    "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง"
+   ]
+  },
+  {
+   "code": "ENL522",
+   "code_th": "ภอษ.522",
+   "name_th": "การเขียนเชิงสร้างสรรค์",
+   "name_en": "Creative Writing",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง",
+   "desc_th": "หลักการและเทคนิคพื้นฐานในการเขียนงานสร้างสรรค์ประเภทต่าง ๆ รวมทั้งนวนิยาย บทกวี และสารคดีเชิงสร้างสรรค์ โดยเน้นการใช้องค์ประกอบทางวรรณกรรมในการสร้างงานเขียน",
+   "desc_en": "Basic principles and techniques of writing various creative works, including fiction, poetry, and creative nonfiction, with a focus on employing literary elements in the craft of writing",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง"
+   ]
+  },
+  {
+   "code": "ENL541",
+   "code_th": "ภอษ.541",
+   "name_th": "วรรณกรรมข้ามวัฒนธรรม",
+   "name_en": "Literature across Cultures",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง",
+   "desc_th": "แนวคิดและเนื้อหาด้านวัฒนธรรม สังคม และการใช้ภาษาในวรรณกรรมจากประเทศต่าง ๆ ที่เขียนหรือแปลเป็นภาษาอังกฤษ จากการอ่าน คิดวิเคราะห์ เปรียบเทียบ และเขียนวิจารณ์",
+   "desc_en": "Concepts and content on culture, society and the use of language in literature from a variety of countries, written or translated into English, through reading, analysis, comparison and written criticism.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง"
+   ]
+  },
+  {
+   "code": "ENL542",
+   "code_th": "ภอษ.542",
+   "name_th": "วรรณกรรมเยาวชน",
+   "name_en": "Children’s Literature",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง",
+   "desc_th": "แนวคิด รูปแบบ กลวิธีการแต่ง เนื้อหา และวิวัฒนาการของวรรณกรรมเยาวชน และฝึกตีความวรรณกรรมเยาวชนที่เลือกศึกษา",
+   "desc_en": "Concepts, style, writing technique, content and evolution of children’ s literature and practice in the interpretation of chosen works of children’s literature.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง"
+   ]
+  },
+  {
+   "code": "ENL543",
+   "code_th": "ภอษ.543",
+   "name_th": "ภูมิหลังทางปกรณัมในภาษาอังกฤษ",
+   "name_en": "Mythological Background to the English Language",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง",
+   "desc_th": "ปกรณัมและตำนานหลัก แนวคิดหลักและปฏิรูปพจน์ของปกรณัมและตำนานที่ปรากฏในภาษาอังกฤษ วรรณกรรมภาษาอังกฤษ และวัฒนธรรมประชานิยม",
+   "desc_en": "Major stories from mythology and legend; recurring mythological themes and allusions in the English language, English literature, and popular culture.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง"
+   ]
+  },
+  {
+   "code": "ENL544",
+   "code_th": "ภอษ.544",
+   "name_th": "ละครเวที ภาพยนตร์ และซีรีส์ในรูปแบบละครเพลง",
+   "name_en": "Musical Theatre, Films, and Series",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง",
+   "desc_th": "ความรู้พื้นฐานเกี่ยวกับละครเพลง ละครเพลงหลักในรูปแบบต่าง ๆ (ละครเวที ภาพยนตร์ และซีรีส์) ภูมิหลังของละครเพลงที่เลือกศึกษา เพลงที่สำคัญในละครเพลงที่เลือกศึกษา คำศัพท์และสำนวนที่เกี่ยวข้องกับละครเพลงที่เลือกศึกษา",
+   "desc_en": "Foundation knowledge of musicals; major musicals in various forms (theatre, films, and TV series); their background; their musical numbers; vocabulary and expressions related to theatre and from chosen musicals.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง"
+   ]
+  },
+  {
+   "code": "ENL552",
+   "code_th": "ภอษ.552",
+   "name_th": "การแปลวรรณกรรม",
+   "name_en": "Translation of Literary Works",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง",
+   "desc_th": "การวิเคราะห์และการแก้ปัญหาในการแปล การปรับบทแปล และการฝึกแปลงานวรรณกรรมประเภทต่าง ๆ",
+   "desc_en": "Analysis and solutions to translation problems; translation revisions; practice in translation of various types of literary works.",
+   "prerequisite": [
+    "ENL351"
+   ],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง"
+   ]
+  },
+  {
+   "code": "ENL553",
+   "code_th": "ภอษ.553",
+   "name_th": "การแปลและเทศานุวัตน์เพื่อสื่อดิจิทัลและสื่อสตรีมมิ่ง",
+   "name_en": "Translation and Localization for Digital and Streaming Media",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง",
+   "desc_th": "หลักการในการแปลข้อความรูปแบบต่าง ๆ ที่เผยแพร่ในแพลตฟอร์มดิจิทัลและการสตรีมมิ่ง กระบวนการเทศานุวัตน์ การฝึกคิด วิเคราะห์ ตีความต้นฉบับ และการฝึกแปลและปรับเนื้อหาในบริบทดิจิทัล",
+   "desc_en": "Principles of translation of various text types disseminated via digital and streaming media, localization processes, text analysis and interpretation, practice in translating and adapting content in digital context.",
+   "prerequisite": [
+    "ENL351"
+   ],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง"
+   ]
+  },
+  {
+   "code": "ENL573",
+   "code_th": "ภอษ.573",
+   "name_th": "ภาษาอังกฤษสำหรับอุตสาหกรรมเกม",
+   "name_en": "English for Gaming Industry",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง",
+   "desc_th": "คำศัพท์เฉพาะทางในอุตสาหกรรมเกม คำศัพท์เฉพาะประเภทเกม โครงสร้างเรื่องเล่าในเกม การสื่อสารข้ามวัฒนธรรมในประเภทเกมต่าง ๆ",
+   "desc_en": "Specialized vocabulary in gaming industry; genre-specific terminology; game narrative structures; cross-cultural communication in different types of games.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง"
+   ]
+  },
+  {
+   "code": "ENL581",
+   "code_th": "ภอษ.581",
+   "name_th": "ภาษาอังกฤษจากศิลปะและวัฒนธรรม",
+   "name_en": "English through Arts and Culture",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง",
+   "desc_th": "รูปแบบภาษา การตีความ การฝึกใช้คำศัพท์ สำนวน รวมทั้งการแสดงความคิดเห็นและการอภิปรายต่องานศิลปะและวัฒนธรรมที่เลือกศึกษา",
+   "desc_en": "Language style, interpretation, practice in the use of vocabulary and idioms, with discussion and expressing opinions on arts and selected areas of culture.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง"
+   ]
+  },
+  {
+   "code": "ENL583",
+   "code_th": "ภอษ.583",
+   "name_th": "หัวข้อเฉพาะเกี่ยวกับภาษาอังกฤษ 1",
+   "name_en": "Selected Topics in the English Language I",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง",
+   "desc_th": "การฝึกคิดวิเคราะห์และอภิปรายหัวข้อเฉพาะที่น่าสนใจเกี่ยวกับภาษาอังกฤษ สังคม และวัฒนธรรม",
+   "desc_en": "Analysis and discussion of selected topics concerning the English language, society, and culture.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง"
+   ]
+  },
+  {
+   "code": "ENL584",
+   "code_th": "ภอษ.584",
+   "name_th": "หัวข้อเฉพาะเกี่ยวกับภาษาอังกฤษ 2",
+   "name_en": "Selected Topics in the English Language II",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง",
+   "desc_th": "การฝึกคิดวิเคราะห์และอภิปรายหัวข้อเฉพาะที่น่าสนใจเกี่ยวกับภาษาอังกฤษ สังคม และวัฒนธรรม",
+   "desc_en": "Analysis and discussion of selected topics concerning the English language, society, and culture.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง"
+   ]
+  },
+  {
+   "code": "ENL586",
+   "code_th": "ภอษ.586",
+   "name_th": "ภาพยนตร์วิจักษณ์",
+   "name_en": "Film Appreciation",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง",
+   "desc_th": "หลักเกณฑ์และวิธีการจัดประเภทภาพยนตร์ แนวคิดและศิลปะการเล่าเรื่อง ฝึกวิเคราะห์หรือตีความเนื้อหา ภาษา คำศัพท์ และสำนวน",
+   "desc_en": "Criteria and approaches to film genres, concepts and the art of storytelling, analysis and interpretation of content, language, vocabulary and expressions.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง"
+   ]
+  },
+  {
+   "code": "ENL589",
+   "code_th": "ภอษ.589",
+   "name_th": "การสร้างอินฟลูเอนเซอร์ดิจิทัลภาษาอังกฤษ",
+   "name_en": "The Making of English Digital Influencers",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง",
+   "desc_th": "บทบาท ความสำคัญ หลักการของการสร้างแบรนด์บุคคลเพื่อการเป็นอินฟลูเอนเซอร์ภาษาอังกฤษ กระบวนการการสร้างและสื่อสารแบรนด์อินฟลูเอนเซอร์ การสร้างอัตลักษณ์ของอินฟลูเอนเซอร์ภาษาอังกฤษ",
+   "desc_en": "The role, importance, and principles of personal branding for becoming an English influencer; the process of creating and communicating an influencer brand; building the identity of an English influencer.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง"
+   ]
+  },
+  {
+   "code": "ENL591",
+   "code_th": "ภอษ.591",
+   "name_th": "การสร้างสรรค์เนื้อหาผ่านสื่อออนไลน์เป็นภาษาอังกฤษ",
+   "name_en": "Online Content Creation in English",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง",
+   "desc_th": "การผลิตสื่อดิจิทัล กระบวนการสร้างสรรค์เนื้อหา องค์ประกอบของการเล่าเรื่องเป็นภาษาอังกฤษ เทคนิคต่าง ๆ ที่ช่วยเพิ่มความน่าสนใจให้กับเนื้อหา การดำเนินการผลิตสื่อดิจิทัลสำหรับการสร้างแบรนด์อินฟลูเอนเซอร์ภาษาอังกฤษบนโลกออนไลน์เพื่อเผยแพร่ผ่านช่องทางออนไลน์",
+   "desc_en": "Digital media production; content creation processes; storytelling elements in English; other storytelling techniques; the production of digital media for English influencer branding through online channels.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง"
+   ]
+  },
+  {
+   "code": "ENL592",
+   "code_th": "ภอษ.592",
+   "name_th": "ผู้ประกาศ ผู้ดำเนินรายการ และพิธีกรภาษาอังกฤษ",
+   "name_en": "English Announcer, Moderator, and Master of Ceremony",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง",
+   "desc_th": "ทักษะการออกเสียง การผลิตเสียง และการใช้เสียงอย่างถูกต้องตามอักขระวิธีการแก้ไขข้อบกพร่องในการออกเสียง เทคนิคการเป็นผู้ประกาศ ผู้ดำเนินรายการ และพิธีกร เพื่อรายการและสื่อประเภทต่าง ๆ",
+   "desc_en": "Pronunciation skills; voice production; correct use of voice according to phonetics methods for correcting pronunciation errors; techniques for becoming an announcer, a moderator, and a master of ceremony for various programs and media types.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง"
+   ]
+  },
+  {
+   "code": "ENL593",
+   "code_th": "ภอษ.593",
+   "name_th": "โครงงานภาษาอังกฤษสำหรับอุตสาหกรรมสร้างสรรค์",
+   "name_en": "English Capstone Project for Creative Industry",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง",
+   "desc_th": "โครงงานที่นำทักษะด้านความคิดสร้างสรรค์ ภาษาอังกฤษ และการปฏิบัติงานในอุตสาหกรรมไปใช้ในบริบทจริง พร้อมการนำเสนอผลงานในรูปแบบมืออาชีพ",
+   "desc_en": "A project allowing students to apply creative, linguistic, and industry skills in a real-world context with a professional presentation.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาอุตสาหกรรมเชิงสร้างสรรค์และงานบันเทิง"
+   ]
+  },
+  {
+   "code": "ENL513",
+   "code_th": "ภอษ.513",
+   "name_th": "การพัฒนาทักษะการฟัง",
+   "name_en": "Listening Skills Development",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาการสอนภาษาอังกฤษเพื่อเป็นวิชาชีพ",
+   "desc_th": "กลวิธีในการฟังรูปแบบต่าง ๆ การตีความหมายจากการฟัง และการฝึกฟังเพื่อจับสาระสำคัญ รวมทั้งฝึกจดบันทึกจากการฟัง",
+   "desc_en": "Techniques for different forms of listening, making summaries, interpreting meaning from listening, listening for main ideas and note-taking.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาการสอนภาษาอังกฤษเพื่อเป็นวิชาชีพ"
+   ]
+  },
+  {
+   "code": "ENL531",
+   "code_th": "ภอษ.531",
+   "name_th": "นานาภาษาอังกฤษโลก",
+   "name_en": "World Englishes",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาการสอนภาษาอังกฤษเพื่อเป็นวิชาชีพ",
+   "desc_th": "ทฤษฎีและวิวัฒนาการของนานาภาษาอังกฤษโลก การฝึกวิเคราะห์และการเปรียบเทียบรูปแบบการใช้นานาภาษาอังกฤษโลก รวมทั้งลักษณะทางวัฒนธรรมและสังคม",
+   "desc_en": "Theories and the evolution of World Englishes; analysis and comparison of usage in World Englishes, with their cultural and social characteristics.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาการสอนภาษาอังกฤษเพื่อเป็นวิชาชีพ"
+   ]
+  },
+  {
+   "code": "ENL532",
+   "code_th": "ภอษ.532",
+   "name_th": "ภาษาอังกฤษขั้นสูงสำหรับวิชาชีพด้านการสอน",
+   "name_en": "Advanced English for Teaching Professions",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาการสอนภาษาอังกฤษเพื่อเป็นวิชาชีพ",
+   "desc_th": "แนวคิดและการประยุกต์ใช้โครงสร้างไวยากรณ์ขั้นสูงสำหรับการสอนภาษาอังกฤษ",
+   "desc_en": "Concepts, use and application of advanced grammatical structures for English language teaching.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาการสอนภาษาอังกฤษเพื่อเป็นวิชาชีพ"
+   ]
+  },
+  {
+   "code": "ENL565",
+   "code_th": "ภอษ.565",
+   "name_th": "การสอนภาษาอังกฤษเป็นภาษาสากล",
+   "name_en": "Teaching English as an International Language",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาการสอนภาษาอังกฤษเพื่อเป็นวิชาชีพ",
+   "desc_th": "ทฤษฎีการสอนและวิธีสอน การเลือกแบบเรียนและอุปกรณ์การเรียนการสอน และการฝึกทำแผนการสอน สื่อการสอนและการประเมินผล การฝึกทำการสอน",
+   "desc_en": "Teaching theories and methodologies; the selection of materials and equipment; practice in preparing lesson plans, teaching materials and assessment; a teaching practicum.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาการสอนภาษาอังกฤษเพื่อเป็นวิชาชีพ"
+   ]
+  },
+  {
+   "code": "ENL566",
+   "code_th": "ภอษ.566",
+   "name_th": "การออกแบบสื่อการสอนและการวัดผลการเรียนรู้สำหรับการสอนภาษาอังกฤษ",
+   "name_en": "Material and Assessment Design for English Language Teaching",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาการสอนภาษาอังกฤษเพื่อเป็นวิชาชีพ",
+   "desc_th": "หลักการและวิธีการการออกแบบสื่อการสอนและการวัดผลการเรียนรู้ การฝึกออกแบบสื่อการสอนและการวัดผลการเรียนรู้ภาษาอังกฤษทั้งทักษะการฟัง พูด อ่าน และเขียน",
+   "desc_en": "Principles and methods for material development and assessment design; practice in designing materials and assessment for learning of English listening, speaking, reading, and writing skills.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาการสอนภาษาอังกฤษเพื่อเป็นวิชาชีพ"
+   ]
+  },
+  {
+   "code": "ENL574",
+   "code_th": "ภอษ.574",
+   "name_th": "เทคโนโลยีและสื่อสำหรับการสอนภาษาอังกฤษ",
+   "name_en": "Technology and Media for English Language Teaching",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาการสอนภาษาอังกฤษเพื่อเป็นวิชาชีพ",
+   "desc_th": "แนวคิด การออกแบบ และการพัฒนาเทคโนโลยีและสื่อสำหรับการสอนภาษาอังกฤษ เกณฑ์ในการคัดเลือก การวิเคราะห์และการประยุกต์ใช้สื่อการสอน แนวโน้มปัจจุบันด้านเทคโนโลยีและสื่อ",
+   "desc_en": "Concepts, design and development with technology and media for English language teaching; criteria for selection; analysis and application of instructional media; trends in technology and media.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาการสอนภาษาอังกฤษเพื่อเป็นวิชาชีพ"
+   ]
+  },
+  {
+   "code": "ENL575",
+   "code_th": "ภอษ.575",
+   "name_th": "การปฏิบัติการสอน 1",
+   "name_en": "Teaching Practicum I",
+   "credits": "3 (1 – 4 – 4)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาการสอนภาษาอังกฤษเพื่อเป็นวิชาชีพ",
+   "desc_th": "การเป็นผู้ช่วยสอนอาจารย์ในชั้นเรียนจริงตลอดภาคการศึกษา โดยร่วมวางแผนการสอน ผลิตสื่อการสอน และออกแบบการประเมินผลผู้เรียน รวมทั้ง ฝึกปฏิบัติการสอนสำหรับบทเรียนที่อาจารย์มอบหมาย",
+   "desc_en": "Teacher assistant in a classroom setting, focusing on lesson planning, delivery, and evaluation under mentor supervision.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาการสอนภาษาอังกฤษเพื่อเป็นวิชาชีพ"
+   ]
+  },
+  {
+   "code": "ENL576",
+   "code_th": "ภอษ.576",
+   "name_th": "การปฏิบัติการสอน 2",
+   "name_en": "Teaching Practicum II",
+   "credits": "3 (1 – 4 – 4)",
+   "group": "กลุ่มวิชาเฉพาะด้าน-เลือก",
+   "area": "กลุ่มวิชาการสอนภาษาอังกฤษเพื่อเป็นวิชาชีพ",
+   "desc_th": "การทำโครงงานสอนจริงในห้องเรียนตลอดเทอม เน้นการวางแผนการสอน การสอน และการประเมินผลบทเรียน ภายใต้การดูแลของอาจารย์",
+   "desc_en": "Practical teaching project in a classroom setting, focusing on lesson planning, delivery, and evaluation under mentor supervision.",
+   "prerequisite": [],
+   "elective": "ME",
+   "me_groups": [
+    "กลุ่มวิชาการสอนภาษาอังกฤษเพื่อเป็นวิชาชีพ"
+   ]
+  },
+  {
+   "code": "CO301",
+   "code_th": "สศ.301",
+   "name_th": "เตรียมสหกิจศึกษา",
+   "name_en": "Pre-Cooperative Education",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "กลุ่มวิชาสหกิจศึกษา",
+   "desc_th": "แนวคิดและความเข้าใจระบบสหกิจศึกษา และการเตรียมความพร้อมในการทำงาน เสริมสร้างทักษะด้านต่าง ๆ อาทิ การเตรียมเอกสารสมัครงาน การเลือกสถานประกอบการ เทคนิคการเข้ารับการสัมภาษณ์ การพัฒนาทักษะในการสื่อสาร ทั้งในรูปแบบการสื่อสารระหว่าง Generation และการใช้ภาษาสากลเพื่อการสื่อสาร รวมถึงการสื่อสารข้ามวัฒนธรรม นอกจากนี้ยังมุ่งเน้นทักษะการทำงานเป็นทีมอย่างสร้างสรรค์ในวัฒนธรรมองค์กรที่แตกต่าง มีจิตวิทยาในการทำงานร่วมกับผู้อื่น มีเทคนิคในการพัฒนาอารมณ์และปรับตัวได้ มีทักษะเฉพาะด้านวิชาชีพ มีจิตวิญญาณผู้ประกอบการ เทคนิคการเขียนรายงาน การนำเสนอ และข้อควรปฏิบัติในระหว่างปฏิบัติงาน และความปลอดภัยในสถานประกอบการ รวมถึงคุณธรรม จริยธรรม และจรรยาบรรณในวิชาชีพ",
+   "desc_en": "Concepts and understanding in cooperative education system and preparation for applying jobs such as how to prepare documents for job application, how to choose the right company to work, techniques for job interviewing, the development of communication skills in both Generation communication styles and the international communication, cross- cultural communication and also focusing on Creative team work skills in the different organizational cultures, the Psychology of working together, techniques emotional development and adaptation, Improving professional skills and entrepreneurial spirit and furthermore, the Report writing, Presentation, the best practices during work in the workplace, Morality, Ethics and professional ethics.",
+   "prerequisite": []
+  },
+  {
+   "code": "EN400",
+   "code_th": "อก.400",
+   "name_th": "สหกิจศึกษา",
+   "name_en": "Cooperative Education",
+   "credits": "6 (0 – 35 – 0)",
+   "group": "กลุ่มวิชาสหกิจศึกษา",
+   "desc_th": "ฝึกปฏิบัติงานในหน่วยงานหรือบริษัทที่เกี่ยวข้องกับลักษณะวิชาเอก โดยได้รับความเห็นชอบจากสาขาวิชา และต้องมีชั่วโมงปฏิบัติงานไม่น้อยกว่า 16 สัปดาห์ ทั้งนี้ผู้ศึกษาต้องเสนอรายงานการฝึกปฏิบัติงานตามที่สาขาวิชากำหนด",
+   "desc_en": "Practical work experience in an organization or company in the field of the students’ major for a minimum of 16 weeks, with students presenting a report as required by the department.",
+   "prerequisite": [
+    "CO301"
+   ]
+  },
+  {
+   "code": "ENL585",
+   "code_th": "ภอษ.585",
+   "name_th": "หัวข้อพิเศษด้านภาษาและวัฒนธรรม",
+   "name_en": "Special Topics in Language and Culture",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "หมวดวิชาเลือกเสรี",
+   "desc_th": "หัวข้อเฉพาะด้านที่น่าสนใจ การใช้ภาษาสากลในต่างประเทศ ทัศนศึกษาและการดูงาน ในสถานที่จริงตามบริบทและหัวข้อเฉพาะ",
+   "desc_en": "Special topics of interest; the use of international languages abroad; field trips and workplace visits for real-life experience in context and special topics.",
+   "prerequisite": [],
+   "elective": "FE"
+  },
+  {
+   "code": "ENL587",
+   "code_th": "ภอษ.587",
+   "name_th": "การศึกษาภาษาและวัฒนธรรมสากล",
+   "name_en": "International Language and Cultural Studies",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "หมวดวิชาเลือกเสรี",
+   "desc_th": "ลักษณะและความแตกต่างระหว่างวัฒนธรรมไทยและสากล ฝึกใช้ภาษาสากลในต่างประเทศในบริบทต่างๆ ทัศนศึกษาตามสถานที่สำคัญในยุโรปหรือเอเชีย",
+   "desc_en": "Characteristics and differences between Thai and other cultures; using language in real-life situations abroad; field trips to important sites in Europe and Asia.",
+   "prerequisite": [],
+   "elective": "FE"
+  },
+  {
+   "code": "EN402",
+   "code_th": "อก.402",
+   "name_th": "ภาษาอังกฤษจากเพลงและภาพยนตร์",
+   "name_en": "English in Music and Movies",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "หมวดวิชาเลือกเสรี",
+   "desc_th": "ซาบซึ้งกับสำนวนภาษา สนุกกับการตีความหมาย พร้อมทั้งแสดงความคิดเห็นเกี่ยวกับบทเพลงและภาพยนตร์",
+   "desc_en": "Appreciation of English expressions used in music and movies; interpreting meaning and expressing opinions about music and movies.",
+   "prerequisite": [],
+   "elective": "FE"
+  },
+  {
+   "code": "EN403",
+   "code_th": "อก.403",
+   "name_th": "การสนทนาภาษาอังกฤษในที่ทำงาน",
+   "name_en": "English Conversation at Work",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "หมวดวิชาเลือกเสรี",
+   "desc_th": "ฝึกทักษะการฟังและพูดเพื่อการทำงานในสถานการณ์ที่หลากหลาย การสื่อสารทางโทรศัพท์ การต้อนรับ การนัดหมาย และการแก้ไขปัญหาผ่านกิจกรรมการเรียนรู้และสถานการณ์จำลอง",
+   "desc_en": "Practice of listening and speaking skills required for work, telephone communication, appointment making, and problem solving in simulated situations.",
+   "prerequisite": [],
+   "elective": "FE"
+  },
+  {
+   "code": "EN406",
+   "code_th": "อก.406",
+   "name_th": "ภาษาอังกฤษสำหรับการนำเสนออย่างสร้างสรรค์",
+   "name_en": "Creative English Presentation",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "หมวดวิชาเลือกเสรี",
+   "desc_th": "เทคนิคการนำเสนออย่างสร้างสรรค์ และสามารถใช้ภาษาอังกฤษในการนำเสนอได้อย่างมั่นใจ",
+   "desc_en": "Techniques for creative presentation and presenting with confidence in English.",
+   "prerequisite": [],
+   "elective": "FE"
+  },
+  {
+   "code": "EN409",
+   "code_th": "อก.409",
+   "name_th": "ภาษาอังกฤษเพื่อการสื่อสารระหว่างประเทศ",
+   "name_en": "English for International Communication",
+   "credits": "3 (3 – 0 – 6)",
+   "group": "หมวดวิชาเลือกเสรี",
+   "desc_th": "ฝึกฝนภาษาอังกฤษ เพื่อการนำเสนอผลงานในงานประชุมสัมมนาทางวิชาการในระดับนานาชาติ",
+   "desc_en": "Practice of the English language for international seminar and conference presentations.",
+   "prerequisite": [],
+   "elective": "FE"
+  }
+ ]
+}

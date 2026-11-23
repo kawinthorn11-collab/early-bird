@@ -1,0 +1,682 @@
+{
+ "id": "L15",
+ "phase": 2,
+ "skill": "g.modal-perfect",
+ "title_th": "น่าจะ… / คงจะ… / ไม่น่า… + have + V3",
+ "title_en": "Modal perfect: should/must/might/could have done",
+ "villain": "tikki",
+ "hook": {
+  "beats": [
+   {
+    "say": "ปิ๊ปมาถึงสถานีช้าไปห้านาที รถไฟออกไปแล้ว",
+    "anim": "enter",
+    "board": "I ___ left home earlier."
+   },
+   {
+    "say": "ทิกกี้! ข้าย้อนเวลาให้ไม่ได้หรอก ฮ่า ๆ",
+    "actor": "villain",
+    "anim": "shake",
+    "board": "should leave?"
+   },
+   {
+    "say": "พูดถึงอดีตที่เปลี่ยนไม่ได้แล้ว ใช้ modal บวก have บวกกริยาช่องสาม",
+    "anim": "think",
+    "board": "modal + have + V3"
+   },
+   {
+    "say": "should have แปลว่า น่าจะทำ แต่ไม่ได้ทำ เสียดาย",
+    "anim": "jump",
+    "board": "I should have left earlier."
+   },
+   {
+    "say": "must have แปลว่า คงจะแน่ ๆ might have แปลว่า อาจจะ",
+    "anim": "zap",
+    "board": "It must have rained. · He might have missed the bus."
+   },
+   {
+    "say": "นาฬิกาย้อนเวลาของข้าใช้ไม่ได้แล้ว!",
+    "actor": "villain",
+    "anim": "swap"
+   }
+  ]
+ },
+ "discover": {
+  "examples": [
+   "I **should have studied** harder. (ไม่ได้อ่าน เสียดาย)",
+   "The ground is wet. It **must have rained**.",
+   "He's late. He **might have missed** the bus.",
+   "She **can't have seen** me. She didn't say hello."
+  ],
+  "question_th": "modal + have + V3 พูดถึงเวลาไหน?",
+  "options_th": [
+   "อดีต (เดา เสียดาย หรือบอกความเป็นไปได้)",
+   "อนาคต",
+   "ปัจจุบันที่กำลังเกิด",
+   "ใช้ได้ทุกเวลา"
+  ],
+  "answer": 0,
+  "reveal_th": "should have = น่าจะทำ (แต่ไม่ได้ทำ) · must have = คงจะแน่ ๆ (มีหลักฐาน) · might/could have = อาจจะ · can't have = เป็นไปไม่ได้ที่… · could have = ทำได้แต่ไม่ได้ทำ · would have = จะได้… (ถ้าเงื่อนไขในอดีตเป็นจริง) · needn't have = ทำไปโดยไม่จำเป็น"
+ },
+ "rule": {
+  "line_th": "อดีต + ความคิดเห็น = modal + have + V3: should have (เสียดาย) · must have (แน่ใจ) · might/could have (อาจจะ) · can't have (เป็นไปไม่ได้)",
+  "memory_th": "🕵️ นักสืบย้อนเวลา: เห็นหลักฐานแล้วเดาอดีต — แน่ใจ must have, ไม่แน่ใจ might have, ไม่มีทาง can't have, ส่วนคนผิดพูดว่า should have",
+  "terms": [
+   [
+    "modal verb",
+    "กริยาช่วยแสดงความคิด (should, must, might)"
+   ],
+   [
+    "deduction",
+    "การอนุมาน/เดาจากหลักฐาน"
+   ],
+   [
+    "regret",
+    "ความเสียดาย"
+   ]
+  ]
+ },
+ "speak": [
+  "I should have left home earlier.",
+  "The ground is wet. It must have rained last night.",
+  "He might have missed the bus."
+ ],
+ "twists": [
+  {
+   "id": "L15-t1",
+   "skill": "g.modal-perfect",
+   "type": "error",
+   "parts": [
+    "You",
+    "should told",
+    "me earlier.",
+    "Now it is too late."
+   ],
+   "answer": 1,
+   "explanation_th": "should + have + V3 → should have told",
+   "why_wrong": [
+    "ถูกแล้ว",
+    null,
+    "ถูกแล้ว",
+    "ถูกแล้ว"
+   ]
+  },
+  {
+   "id": "L15-t2",
+   "skill": "g.modal-perfect",
+   "type": "fill",
+   "stem": "She got 100% on the test. She ___ studied very hard. (แน่ใจ)",
+   "accept": [
+    "must have"
+   ],
+   "hint_th": "แน่ใจจากหลักฐาน → ___ have + V3",
+   "explanation_th": "คะแนนเต็มเป็นหลักฐาน → must have studied"
+  },
+  {
+   "id": "L15-t3",
+   "skill": "g.modal-perfect",
+   "type": "order",
+   "words": [
+    "I",
+    "could",
+    "have",
+    "won",
+    "the",
+    "race."
+   ],
+   "explanation_th": "could have + V3 = ทำได้แต่ไม่ได้ทำ"
+  },
+  {
+   "id": "L15-t4",
+   "skill": "g.modal-perfect",
+   "type": "match",
+   "prompt_th": "จับคู่ความหมาย",
+   "pairs": [
+    [
+     "should have gone",
+     "น่าจะไป แต่ไม่ได้ไป"
+    ],
+    [
+     "must have gone",
+     "คงไปแล้วแน่ ๆ"
+    ],
+    [
+     "might have gone",
+     "อาจจะไปแล้ว"
+    ],
+    [
+     "can't have gone",
+     "ไม่มีทางไปแล้ว"
+    ]
+   ],
+   "explanation_th": "modal ต่างกัน = ความมั่นใจ/ความรู้สึกต่างกัน"
+  }
+ ],
+ "questions": [
+  {
+   "id": "L15-01",
+   "skill": "g.modal-perfect",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "You ___ told me earlier! Now it's too late to change the plan.",
+   "options": [
+    "should",
+    "should have",
+    "must",
+    "would"
+   ],
+   "answer": 1,
+   "explanation_th": "เสียดายเรื่องในอดีต (ไม่ได้บอก) → should have told",
+   "why_wrong": [
+    "should told ผิดรูป ต้องมี have",
+    null,
+    "must told ผิดรูป",
+    "would told ผิดรูป"
+   ]
+  },
+  {
+   "id": "L15-02",
+   "skill": "g.modal-perfect",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Ton isn't here yet. He ___ missed the bus.",
+   "options": [
+    "should have",
+    "would have",
+    "might have",
+    "might"
+   ],
+   "answer": 2,
+   "explanation_th": "เดาอดีตแบบไม่แน่ใจ → might have missed",
+   "why_wrong": [
+    "should have = ควรจะตกรถ ความหมายแปลก",
+    "would have ต้องมีเงื่อนไข if",
+    null,
+    "might missed ผิดรูป"
+   ]
+  },
+  {
+   "id": "L15-03",
+   "skill": "g.modal-perfect",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "The ground is wet. It ___ rained last night.",
+   "options": [
+    "should have",
+    "would",
+    "can",
+    "must have"
+   ],
+   "answer": 3,
+   "explanation_th": "มีหลักฐาน (พื้นเปียก) แน่ใจ → must have rained",
+   "why_wrong": [
+    "should have = ฝนควรตก ความหมายไม่เข้า",
+    "would rained ผิดรูป",
+    "can rained ผิดรูป",
+    null
+   ]
+  },
+  {
+   "id": "L15-04",
+   "skill": "g.modal-perfect",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "I ___ passed the test if I had studied harder.",
+   "options": [
+    "would have",
+    "will have",
+    "would",
+    "had"
+   ],
+   "answer": 0,
+   "explanation_th": "If + had + V3, would have + V3 (เงื่อนไขในอดีต)",
+   "why_wrong": [
+    null,
+    "will have ใช้กับอนาคต",
+    "would passed ผิดรูป",
+    "had passed ไม่ใช่ประโยคหลักของ if แบบที่ 3"
+   ]
+  },
+  {
+   "id": "L15-05",
+   "skill": "g.modal-perfect",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "She ___ called you. She doesn't even have your phone number.",
+   "options": [
+    "must have",
+    "can't have",
+    "should have",
+    "would have"
+   ],
+   "answer": 1,
+   "explanation_th": "เป็นไปไม่ได้ (ไม่มีเบอร์) → can't have called",
+   "why_wrong": [
+    "must have = คงโทรแน่ ๆ ขัดกับเหตุผล",
+    null,
+    "should have = ควรโทร ไม่ตรงตรรกะ",
+    "would have ต้องมีเงื่อนไข"
+   ]
+  },
+  {
+   "id": "L15-06",
+   "skill": "g.modal-perfect",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "We ___ taken a taxi. The bus was so slow!",
+   "options": [
+    "can't have",
+    "must have",
+    "should have",
+    "will have"
+   ],
+   "answer": 2,
+   "explanation_th": "เสียดาย (น่าจะนั่งแท็กซี่) → should have",
+   "why_wrong": [
+    "can't have = เป็นไปไม่ได้ที่เรานั่ง ไม่เข้ากับความเสียดาย",
+    "must have = คงนั่งแน่ ๆ ขัดกับที่นั่งรถเมล์",
+    null,
+    "will have เป็นอนาคต"
+   ]
+  },
+  {
+   "id": "L15-07",
+   "skill": "g.modal-perfect",
+   "difficulty": 3,
+   "stage": 1,
+   "stem": "He looks very tired. He ___ slept well last night.",
+   "options": [
+    "mustn't",
+    "won't have",
+    "shouldn't have",
+    "can't have"
+   ],
+   "answer": 3,
+   "explanation_th": "ดูเหนื่อย = เป็นไปไม่ได้ที่จะนอนหลับดี → can't have slept",
+   "why_wrong": [
+    "mustn't slept ผิดรูป",
+    "won't have ใช้กับอนาคต",
+    "shouldn't have = ไม่ควรนอนหลับ ความหมายผิด",
+    null
+   ]
+  },
+  {
+   "id": "L15-08",
+   "skill": "g.modal-perfect",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Thanks for helping me move. I ___ done it without you.",
+   "options": [
+    "couldn't have",
+    "shouldn't have",
+    "mustn't have",
+    "needn't have"
+   ],
+   "answer": 0,
+   "explanation_th": "couldn't have = ทำไม่ได้แน่ (ถ้าไม่มีเธอ)",
+   "why_wrong": [
+    null,
+    "shouldn't have = ไม่ควรทำ ความหมายผิด",
+    "mustn't have ไม่ใช่รูปที่ใช้แบบนี้",
+    "needn't have = ทำไปโดยไม่จำเป็น ความหมายผิด"
+   ]
+  },
+  {
+   "id": "L15-09",
+   "skill": "g.modal-perfect",
+   "difficulty": 3,
+   "stage": 1,
+   "stem": "You ___ brought a gift, but thank you so much!",
+   "options": [
+    "mustn't have",
+    "needn't have",
+    "couldn't have",
+    "can't have"
+   ],
+   "answer": 1,
+   "explanation_th": "needn't have = ไม่จำเป็นต้องทำ (แต่ทำแล้ว)",
+   "why_wrong": [
+    "mustn't have ไม่ใช้แบบนี้",
+    null,
+    "couldn't have = ไม่สามารถนำมาได้ ขัดกับที่นำมาแล้ว",
+    "can't have = เป็นไปไม่ได้ ขัดกับที่นำมาแล้ว"
+   ]
+  },
+  {
+   "id": "L15-10",
+   "skill": "g.modal-perfect",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "The thief ___ come in through the kitchen window because it was open.",
+   "options": [
+    "should have",
+    "needn't have",
+    "might have",
+    "would"
+   ],
+   "answer": 2,
+   "explanation_th": "เดาความเป็นไปได้ในอดีต → might have come",
+   "why_wrong": [
+    "should have = ขโมยควรเข้ามา ความหมายแปลก",
+    "needn't have ความหมายผิด",
+    null,
+    "would come ไม่ใช่การเดาอดีต"
+   ]
+  },
+  {
+   "id": "L15-11",
+   "skill": "g.modal-perfect",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "I'm sorry I'm late. I ___ left home earlier.",
+   "options": [
+    "must have",
+    "might have",
+    "would have",
+    "should have"
+   ],
+   "answer": 3,
+   "explanation_th": "ขอโทษ + เสียดาย → should have left",
+   "why_wrong": [
+    "must have = คงออกแน่ ๆ ไม่เข้ากับคำขอโทษ",
+    "might have = อาจจะออก ไม่เข้ากับความเสียดาย",
+    "would have ต้องมีเงื่อนไข",
+    null
+   ]
+  },
+  {
+   "id": "L15-12",
+   "skill": "g.modal-perfect",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "She got 100% on the test. She ___ studied very hard.",
+   "options": [
+    "must have",
+    "should have",
+    "can't have",
+    "needn't have"
+   ],
+   "answer": 0,
+   "explanation_th": "หลักฐานชัด (100%) → must have studied",
+   "why_wrong": [
+    null,
+    "should have = ควรอ่าน (แต่ไม่ได้อ่าน) ขัดกับผล",
+    "can't have ขัดกับผล",
+    "needn't have ความหมายผิด"
+   ]
+  },
+  {
+   "id": "L15-13",
+   "skill": "g.modal-perfect",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "If you had asked me, I ___ helped you.",
+   "options": [
+    "will",
+    "would have",
+    "would",
+    "had"
+   ],
+   "answer": 1,
+   "explanation_th": "If + had + V3 → would have + V3",
+   "why_wrong": [
+    "will ใช้กับอนาคต",
+    null,
+    "would helped ผิดรูป",
+    "had helped ไม่ใช่ประโยคหลัก"
+   ]
+  },
+  {
+   "id": "L15-14",
+   "skill": "g.modal-perfect",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "They ___ arrived yet. The flight landed only five minutes ago.",
+   "options": [
+    "must have",
+    "should have",
+    "can't have",
+    "would have"
+   ],
+   "answer": 2,
+   "explanation_th": "เครื่องเพิ่งลง 5 นาที = เป็นไปไม่ได้ที่จะมาถึงแล้ว → \"can't have\"",
+   "why_wrong": [
+    "must have ขัดกับเหตุผล",
+    "should have ไม่เข้ากับ yet ในความหมายนี้",
+    null,
+    "would have ต้องมีเงื่อนไข"
+   ]
+  },
+  {
+   "id": "L15-15",
+   "skill": "g.modal-perfect",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "I ___ gone to the party, but I was too tired, so I stayed home.",
+   "options": [
+    "must have",
+    "can't have",
+    "should",
+    "could have"
+   ],
+   "answer": 3,
+   "explanation_th": "could have = ไปได้ (มีโอกาส) แต่ไม่ได้ไป",
+   "why_wrong": [
+    "must have = คงไปแน่ ขัดกับ stayed home",
+    "can't have ขัดกับความหมาย",
+    "should gone ผิดรูป",
+    null
+   ]
+  },
+  {
+   "id": "L15-16",
+   "skill": "g.modal-perfect",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "Somchai failed his driving test again. He ___ practiced more before the test.",
+   "options": [
+    "should have",
+    "must have",
+    "can't have",
+    "would"
+   ],
+   "answer": 0,
+   "explanation_th": "เสียดาย (ไม่ได้ฝึกพอ) → should have practiced",
+   "why_wrong": [
+    null,
+    "must have = คงฝึกแน่ ๆ ขัดกับผล",
+    "can't have ไม่ใช่ความเสียดาย",
+    "would practiced ผิดรูป"
+   ]
+  },
+  {
+   "id": "L15-17",
+   "skill": "g.modal-perfect",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Mali's keys are not in her bag. She ___ left them at the café where we had lunch.",
+   "options": [
+    "should have",
+    "might have",
+    "needn't have",
+    "would"
+   ],
+   "answer": 1,
+   "explanation_th": "เดาว่าอาจจะลืมไว้ → might have left",
+   "why_wrong": [
+    "should have = ควรลืม ความหมายแปลก",
+    null,
+    "needn't have ความหมายผิด",
+    "would left ผิดรูป"
+   ]
+  },
+  {
+   "id": "L15-18",
+   "skill": "g.modal-perfect",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "The window is broken and there is a football on the classroom floor. The children ___ been playing football nearby.",
+   "options": [
+    "needn't have",
+    "should have",
+    "must have",
+    "can't have"
+   ],
+   "answer": 2,
+   "explanation_th": "หลักฐานชัด (ลูกบอลในห้อง) → must have been playing",
+   "why_wrong": [
+    "needn't have ความหมายผิด",
+    "should have = ควรเล่น ความหมายแปลก",
+    null,
+    "can't have ขัดกับหลักฐาน"
+   ]
+  },
+  {
+   "id": "L15-19",
+   "skill": "g.modal-perfect",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "We waited for an hour, but Ton never came. He ___ told us he wasn't coming! We wasted a whole hour.",
+   "options": [
+    "must have",
+    "might have",
+    "can't have",
+    "should have"
+   ],
+   "answer": 3,
+   "explanation_th": "ตำหนิ/เสียดาย (เขาไม่ได้บอก) → should have told",
+   "why_wrong": [
+    "must have = คงบอกแล้ว ขัดกับที่รอเก้อ",
+    "might have ไม่ใช่การตำหนิ",
+    "can't have ไม่ใช่การตำหนิ",
+    null
+   ]
+  },
+  {
+   "id": "L15-20",
+   "skill": "g.modal-perfect",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "It was a terrible accident. The driver ___ been killed, but luckily he was wearing a seatbelt.",
+   "options": [
+    "could have",
+    "should have",
+    "must have",
+    "can't have"
+   ],
+   "answer": 0,
+   "explanation_th": "could have = อาจถึงตายได้ (แต่ไม่ได้ตาย)",
+   "why_wrong": [
+    null,
+    "should have = ควรตาย ความหมายผิด",
+    "must have = คงตายแน่ ขัดกับ luckily",
+    "can't have ขัดกับว่าเป็นอุบัติเหตุร้ายแรง"
+   ]
+  },
+  {
+   "id": "L15-21",
+   "skill": "g.modal-perfect",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Nobody answered the door at the Lees' house, and their car was gone. They ___ gone on holiday.",
+   "options": [
+    "should have",
+    "must have",
+    "needn't have",
+    "can't have"
+   ],
+   "answer": 1,
+   "explanation_th": "หลักฐาน (ไม่มีคน รถไม่อยู่) → must have gone",
+   "why_wrong": [
+    "should have = ควรไป ความหมายแปลก",
+    null,
+    "needn't have ความหมายผิด",
+    "can't have ขัดกับหลักฐาน"
+   ]
+  },
+  {
+   "id": "L15-22",
+   "skill": "g.modal-perfect",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "You ___ cooked so much food. Only four people came to the party.",
+   "options": [
+    "mustn't have",
+    "couldn't have",
+    "needn't have",
+    "can't have"
+   ],
+   "answer": 2,
+   "explanation_th": "ทำไปโดยไม่จำเป็น → needn't have cooked",
+   "why_wrong": [
+    "mustn't have ไม่ใช้แบบนี้",
+    "couldn't have = ทำไม่ได้ ขัดกับที่ทำแล้ว",
+    null,
+    "can't have = เป็นไปไม่ได้ ขัดกับที่ทำแล้ว"
+   ]
+  },
+  {
+   "id": "L15-23",
+   "skill": "g.modal-perfect",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "Look at this perfect drawing. A ten-year-old child ___ drawn it by herself. It looks like the work of a professional.",
+   "options": [
+    "must have",
+    "should have",
+    "would have",
+    "can't have"
+   ],
+   "answer": 3,
+   "explanation_th": "เป็นไปไม่ได้ (ดูเหมือนมืออาชีพ) → can't have drawn",
+   "why_wrong": [
+    "must have ขัดกับเหตุผลของผู้พูด",
+    "should have ความหมายผิด",
+    "would have ต้องมีเงื่อนไข",
+    null
+   ]
+  },
+  {
+   "id": "L15-24",
+   "skill": "g.modal-perfect",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "The ambulance arrived just in time. If it had come later, the boy ___ died.",
+   "options": [
+    "might have",
+    "should have",
+    "must have",
+    "can't have"
+   ],
+   "answer": 0,
+   "explanation_th": "If แบบที่ 3 + ความเป็นไปได้ → might have died",
+   "why_wrong": [
+    null,
+    "should have ความหมายผิด",
+    "must have ไม่ใช้กับเงื่อนไขสมมุติแบบนี้",
+    "can't have ขัดกับเหตุผล"
+   ]
+  },
+  {
+   "id": "L15-25",
+   "skill": "g.modal-perfect",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "I'm so sorry. I didn't know it was your birthday. Otherwise, I ___ bought you a present.",
+   "options": [
+    "should",
+    "would have",
+    "will have",
+    "must have"
+   ],
+   "answer": 1,
+   "explanation_th": "Otherwise (ถ้ารู้) → would have bought",
+   "why_wrong": [
+    "should bought ผิดรูป",
+    null,
+    "will have เป็นอนาคต",
+    "must have = คงซื้อแน่ ขัดกับที่ไม่ได้ซื้อ"
+   ]
+  }
+ ],
+ "cloze": "C15"
+}

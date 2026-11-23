@@ -1,0 +1,67 @@
+{
+  "id": "L07",
+  "phase": 1,
+  "skill": "g.preposition",
+  "title_th": "บุพบทที่ข้อสอบชอบถาม",
+  "title_en": "Prepositions: of, by, during, to, for…",
+  "villain": "prepo",
+  "hook": {
+    "beats": [
+      { "say": "ปิ๊ปกำลังเขียนบันทึก ว่าตัวเองเก่งขึ้นได้ยังไง", "anim": "enter", "board": "I improved my English ___ watching movies." },
+      { "say": "ข้าคือเพรโป ปูหนีบบุพบท! ข้าจะหนีบ with มาใส่แทน ฮ่า ๆ", "actor": "villain", "anim": "shake", "board": "with watching??" },
+      { "say": "บอกวิธีทำอะไรสักอย่าง ภาษาอังกฤษใช้ by ตามด้วยกริยาเติม ing", "anim": "think", "board": "by + V-ing = ด้วยการ…" },
+      { "say": "ส่วน by ที่ตามด้วยคน ใช้บอกผู้กระทำในประโยค passive", "anim": "jump", "board": "The bridge was built by local workers." },
+      { "say": "และระหว่างช่วงเวลาที่เป็นคำนาม ใช้ during เช่น during the exam", "anim": "zap", "board": "during the exam" },
+      { "say": "โอ๊ย ก้ามข้าหนีบไม่ติดแล้ว!", "actor": "villain", "anim": "swap" }
+    ]
+  },
+  "discover": {
+    "examples": ["She learned to cook **by** watching her mother.", "The song was written **by** a young singer.", "Don't talk **during** the movie.", "He got a fine **of** 500 baht."],
+    "question_th": "by ในสองประโยคแรกบอกอะไร?",
+    "options_th": ["ประโยค 1 บอกวิธี (by + V-ing) / ประโยค 2 บอกผู้กระทำ (by + คน)", "ทั้งคู่บอกสถานที่ = ข้าง ๆ", "ทั้งคู่บอกเวลา = ภายใน", "by ใช้แทน with ได้ทุกครั้ง"],
+    "answer": 0,
+    "reveal_th": "บุพบทหลายตัวต้องจำเป็นชุดกับคำที่มาด้วยกัน: by + V-ing (วิธี), by + คน (ผู้กระทำ), during + คำนามช่วงเวลา, a fine/jail term of + จำนวน, appeal to + คน + to V, multiply by, present at"
+  },
+  "rule": {
+    "line_th": "by + V-ing = ด้วยการ… · by + คน = โดย (passive) · during + คำนามช่วงเวลา · of + จำนวน/ส่วนหนึ่งของ · since จุดเริ่ม · for ระยะเวลา",
+    "memory_th": "🦀 ก้ามปูสองข้าง: บุพบทชอบไปเป็นคู่กับคำเดิมเสมอ — interested in, afraid of, depend on, different from, appeal to sb to do — จำทั้งคู่ ไม่จำตัวเดียว",
+    "terms": [["preposition", "บุพบท"], ["collocation", "คำที่มักใช้คู่กัน"], ["agent", "ผู้กระทำ (หลัง by)"], ["gerund", "V-ing ที่ทำหน้าที่เป็นคำนาม"]]
+  },
+  "speak": ["She improved her English by watching movies.", "Please don't use your phone during the exam.", "I'm interested in learning Japanese."],
+  "twists": [
+    { "id": "L07-t1", "skill": "g.preposition", "type": "error", "parts": ["You can", "improve your English", "with", "reading every day."], "answer": 2, "explanation_th": "บอกวิธีด้วย V-ing ใช้ by: by reading every day", "why_wrong": ["You can ถูกแล้ว", "improve your English ถูกแล้ว", null, "reading every day ถูกแล้ว (V-ing หลังบุพบท)"] },
+    { "id": "L07-t2", "skill": "g.preposition", "type": "fill", "stem": "My little sister is afraid ___ dogs.", "accept": ["of"], "hint_th": "กลัว… = afraid ___", "explanation_th": "afraid of = กลัว" },
+    { "id": "L07-t3", "skill": "g.preposition", "type": "order", "words": ["The", "bridge", "was", "built", "by", "local", "workers."], "explanation_th": "passive + by + ผู้กระทำ" },
+    { "id": "L07-t4", "skill": "g.preposition", "type": "match", "prompt_th": "จับคู่คำกับบุพบทที่มาด้วยกัน", "pairs": [["interested", "in"], ["afraid", "of"], ["depend", "on"], ["different", "from"]], "explanation_th": "interested in · afraid of · depend on · different from" },
+    { "id": "L07-t5", "skill": "g.preposition", "type": "error", "parts": ["I have", "lived here", "since", "five years."], "answer": 2, "explanation_th": "five years เป็นระยะเวลา ใช้ for (since ใช้กับจุดเริ่ม เช่น since 2020)", "why_wrong": ["I have ถูกแล้ว", "lived here ถูกแล้ว", null, "five years ถูกแล้ว แต่ต้องใช้ for นำหน้า"] }
+  ],
+  "questions": [
+    { "id": "L07-01", "skill": "g.preposition", "difficulty": 1, "stage": 1, "stem": "She improved her English ___ watching movies with subtitles.", "options": ["with", "by", "for", "in"], "answer": 1, "explanation_th": "บอกวิธี + V-ing → by watching", "why_wrong": ["with + V-ing ไม่ใช้บอกวิธีแบบนี้", null, "for + V-ing บอกจุดประสงค์ ไม่ใช่วิธี", "in watching ไม่ได้บอกวิธี"] },
+    { "id": "L07-02", "skill": "g.preposition", "difficulty": 1, "stage": 1, "stem": "The bridge was designed ___ a famous engineer.", "options": ["of", "from", "by", "with"], "answer": 2, "explanation_th": "passive + ผู้กระทำ → by", "why_wrong": ["of = ของ ไม่บอกผู้กระทำ", "from = จาก", null, "with บอกเครื่องมือ ไม่ใช่ผู้กระทำ"] },
+    { "id": "L07-03", "skill": "g.preposition", "difficulty": 1, "stage": 1, "stem": "Please don't use your phone ___ the exam.", "options": ["while", "for", "since", "during"], "answer": 3, "explanation_th": "the exam เป็นคำนาม ระหว่างช่วงนั้นใช้ during", "why_wrong": ["while ต้องตามด้วยประโยค (while you are taking the exam)", "for + ระยะเวลา เช่น for an hour", "since + จุดเริ่ม", null] },
+    { "id": "L07-04", "skill": "g.preposition", "difficulty": 2, "stage": 1, "stem": "The driver was given a fine ___ 500 baht for parking in the wrong place.", "options": ["of", "with", "by", "on"], "answer": 0, "explanation_th": "บอกจำนวนของค่าปรับ → a fine of 500 baht", "why_wrong": [null, "a fine with ไม่บอกจำนวน", "by ใช้กับผู้กระทำหรือวิธี", "on ไม่ใช้บอกจำนวน"] },
+    { "id": "L07-05", "skill": "g.preposition", "difficulty": 1, "stage": 1, "stem": "I'm very interested ___ learning Japanese.", "options": ["on", "in", "at", "for"], "answer": 1, "explanation_th": "interested in = สนใจ", "why_wrong": ["ไม่ใช้ interested on", null, "ไม่ใช้ interested at", "ไม่ใช้ interested for"] },
+    { "id": "L07-06", "skill": "g.preposition", "difficulty": 1, "stage": 1, "stem": "We arrived ___ the airport two hours early.", "options": ["to", "in", "on", "at"], "answer": 3, "explanation_th": "arrive at + สถานที่ที่เป็นจุด (สนามบิน สถานี โรงเรียน)", "why_wrong": ["ไม่ใช้ arrive to", "arrive in ใช้กับเมือง/ประเทศ", "arrive on ใช้ไม่ได้กับสถานที่", null] },
+    { "id": "L07-07", "skill": "g.preposition", "difficulty": 1, "stage": 1, "stem": "My birthday is ___ May 5th.", "options": ["on", "in", "at", "by"], "answer": 0, "explanation_th": "วันที่เจาะจงใช้ on", "why_wrong": [null, "in ใช้กับเดือน/ปี (in May)", "at ใช้กับเวลา (at 5 p.m.)", "by = ก่อนหรือภายใน ความหมายเปลี่ยน"] },
+    { "id": "L07-08", "skill": "g.preposition", "difficulty": 1, "stage": 1, "stem": "She has lived in this house ___ 2015.", "options": ["for", "since", "from", "during"], "answer": 1, "explanation_th": "จุดเริ่มต้นที่ต่อเนื่องถึงตอนนี้ → since 2015", "why_wrong": ["for + ระยะเวลา (for ten years)", null, "from ต้องมี to ตาม (from 2015 to 2020)", "during + ช่วงเวลาที่เป็นคำนาม ไม่ใช่จุดเริ่ม"] },
+    { "id": "L07-09", "skill": "g.preposition", "difficulty": 1, "stage": 1, "stem": "He has worked at this company ___ ten years.", "options": ["since", "during", "for", "at"], "answer": 2, "explanation_th": "ระยะเวลา → for ten years", "why_wrong": ["since + จุดเริ่ม", "during ten years ไม่ใช้กับ present perfect แบบนี้", null, "at ใช้กับจุดเวลา"] },
+    { "id": "L07-10", "skill": "g.preposition", "difficulty": 1, "stage": 1, "stem": "Thank you ___ helping me with my homework.", "options": ["to", "of", "with", "for"], "answer": 3, "explanation_th": "Thank you for + V-ing/นาม", "why_wrong": ["ไม่ใช้ thank you to", "ไม่ใช้ thank you of", "ไม่ใช้ thank you with", null] },
+    { "id": "L07-11", "skill": "g.preposition", "difficulty": 2, "stage": 1, "stem": "The teacher was angry ___ us because we were late again.", "options": ["with", "to", "on", "for"], "answer": 0, "explanation_th": "angry with + คน = โกรธใคร", "why_wrong": [null, "ไม่ใช้ angry to", "ไม่ใช้ angry on", "angry for ไม่ใช้กับคน"] },
+    { "id": "L07-12", "skill": "g.preposition", "difficulty": 1, "stage": 1, "stem": "Please send the report ___ me by Friday.", "options": ["at", "to", "with", "on"], "answer": 1, "explanation_th": "ส่งไปให้ใคร → send something to someone", "why_wrong": ["send at ใช้กับคนไม่ได้", null, "send with me = ส่งไปพร้อมฉัน ความหมายผิด", "send on me ไม่มีความหมาย"] },
+    { "id": "L07-13", "skill": "g.preposition", "difficulty": 1, "stage": 1, "stem": "The museum is closed ___ Mondays.", "options": ["in", "at", "on", "during"], "answer": 2, "explanation_th": "วันในสัปดาห์ใช้ on", "why_wrong": ["in ใช้กับเดือน/ปี", "at ใช้กับเวลา", null, "during ใช้กับช่วงเวลาที่เป็นเหตุการณ์ เช่น during the holiday"] },
+    { "id": "L07-14", "skill": "g.preposition", "difficulty": 1, "stage": 1, "stem": "One ___ my friends is from Laos.", "options": ["from", "in", "for", "of"], "answer": 3, "explanation_th": "One of + นามพหูพจน์ = หนึ่งใน…", "why_wrong": ["One from my friends ไม่ใช้", "One in my friends ไม่ใช้", "One for my friends = หนึ่งอันสำหรับเพื่อน ความหมายผิด", null] },
+    { "id": "L07-15", "skill": "g.preposition", "difficulty": 2, "stage": 1, "stem": "The price of rice depends ___ the weather and the season.", "options": ["on", "of", "in", "at"], "answer": 0, "explanation_th": "depend on = ขึ้นอยู่กับ", "why_wrong": [null, "ไม่ใช้ depend of", "ไม่ใช้ depend in", "ไม่ใช้ depend at"] },
+
+    { "id": "L07-16", "skill": "g.preposition", "difficulty": 2, "stage": 2, "stem": "Many old people in the city live alone. Some of them have been left ___ their own children, who moved away for work.", "options": ["from", "by", "with", "at"], "answer": 1, "explanation_th": "passive (have been left) + ผู้กระทำ → by their own children", "why_wrong": ["left from = ออกจาก ไม่บอกผู้ทิ้ง", null, "left with = ถูกฝากไว้กับ ความหมายกลับ", "at ไม่บอกผู้กระทำ"] },
+    { "id": "L07-17", "skill": "g.preposition", "difficulty": 3, "stage": 2, "stem": "The village was very poor. The headman appealed ___ the government to build a new road.", "options": ["for", "at", "to", "on"], "answer": 2, "explanation_th": "appeal to + คน + to V = ร้องขอให้ใครทำอะไร", "why_wrong": ["appeal for + สิ่งที่ขอ (appeal for help) ไม่ใช่ + คน", "ไม่ใช้ appeal at", null, "ไม่ใช้ appeal on"] },
+    { "id": "L07-18", "skill": "g.preposition", "difficulty": 2, "stage": 2, "stem": "A new law has been passed. Drivers who use their phones while driving can now face a jail term ___ up to six months.", "options": ["with", "at", "by", "of"], "answer": 3, "explanation_th": "บอกความยาวของโทษจำคุก → a jail term of (up to) six months", "why_wrong": ["with ไม่บอกระยะเวลาของโทษ", "at ใช้กับจุด", "by = ภายใน ความหมายผิด", null] },
+    { "id": "L07-19", "skill": "g.preposition", "difficulty": 2, "stage": 2, "stem": "Bacteria grow very fast. They multiply ___ dividing into two. One becomes two, then four, then eight.", "options": ["by", "with", "at", "in"], "answer": 0, "explanation_th": "เพิ่มจำนวนด้วยวิธีแบ่งตัว → by + V-ing", "why_wrong": [null, "with + V-ing ไม่ใช้บอกวิธีแบบนี้", "at dividing ไม่มีความหมาย", "in dividing ไม่ได้บอกวิธี"] },
+    { "id": "L07-20", "skill": "g.preposition", "difficulty": 2, "stage": 2, "stem": "Dr. Lee was present ___ the meeting, so she heard everything the director said.", "options": ["on", "at", "with", "by"], "answer": 1, "explanation_th": "be present at + เหตุการณ์ = อยู่ร่วมใน…", "why_wrong": ["ไม่ใช้ present on", null, "present with = อยู่กับใคร ไม่ใช่เหตุการณ์", "present by ไม่มีความหมาย"] },
+    { "id": "L07-21", "skill": "g.preposition", "difficulty": 1, "stage": 2, "stem": "The boat festival takes place every year ___ the rainy season, usually in October.", "options": ["while", "since", "during", "at"], "answer": 2, "explanation_th": "ระหว่างช่วงเวลาที่เป็นคำนาม (the rainy season) → during", "why_wrong": ["while ต้องตามด้วยประโยค", "since + จุดเริ่ม", null, "at ใช้กับจุดเวลา ไม่ใช่ฤดู"] },
+    { "id": "L07-22", "skill": "g.preposition", "difficulty": 1, "stage": 2, "stem": "My little brother is afraid ___ the dark, so he always sleeps with a light on.", "options": ["from", "with", "at", "of"], "answer": 3, "explanation_th": "afraid of = กลัว", "why_wrong": ["ไม่ใช้ afraid from", "ไม่ใช้ afraid with", "ไม่ใช้ afraid at", null] },
+    { "id": "L07-23", "skill": "g.preposition", "difficulty": 1, "stage": 2, "stem": "It was very hot at the bus stop. The students waited ___ the bus for almost an hour.", "options": ["for", "to", "at", "on"], "answer": 0, "explanation_th": "wait for + สิ่งที่รอ", "why_wrong": [null, "ไม่ใช้ wait to + คำนาม", "wait at + สถานที่ ไม่ใช่สิ่งที่รอ", "wait on = เสิร์ฟ/รับใช้ ความหมายต่าง"] },
+    { "id": "L07-24", "skill": "g.preposition", "difficulty": 2, "stage": 2, "stem": "I bought a new shampoo yesterday. This one is very different ___ the one I usually buy.", "options": ["of", "from", "with", "at"], "answer": 1, "explanation_th": "different from = แตกต่างจาก", "why_wrong": ["ไม่ใช้ different of", null, "different with ไม่ใช่รูปมาตรฐาน", "ไม่ใช้ different at"] },
+    { "id": "L07-25", "skill": "g.preposition", "difficulty": 1, "stage": 2, "stem": "Eating out every day is expensive. You can save a lot of money ___ cooking at home.", "options": ["with", "for", "by", "at"], "answer": 2, "explanation_th": "บอกวิธีประหยัด + V-ing → by cooking", "why_wrong": ["with cooking ไม่บอกวิธีแบบนี้", "for cooking = เพื่อทำอาหาร ความหมายผิด", null, "at cooking = เก่งเรื่องทำอาหาร (good at) ไม่ใช่วิธี"] }
+  ],
+  "cloze": "C07"
+}

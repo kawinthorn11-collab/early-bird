@@ -1,0 +1,209 @@
+{
+ "id": "C16",
+ "title": "If I Were a Bird",
+ "genre": "วรรณกรรม",
+ "level": "B1",
+ "text": "Every evening, Dao sat by her window and watched the birds fly over the rice fields. \"If I (1) a bird,\" she often said, \"I would fly to the city and see the tall buildings.\" Her grandmother always smiled. \"If you (2) hard at school, you will see the city one day.\"\nDao did study hard. If she (3) a question, she asked her teacher until she understood. (4) the electricity went off, she read her books by candlelight. Years later, she won a scholarship to a university in Bangkok. On her first night in the city, she looked out of her dormitory window. \"If Grandma (5) here now, she would be so proud,\" she thought.\nShe called home. \"If I had not listened to you,\" she told her grandmother, \"I (6) here today.\" Her grandmother laughed. \"(7) you keep working hard, you will go even further.\" Dao promised that she (8) home every holiday. \"And (9) you see a bird over the fields,\" she said, \"think of me.\" Her grandmother said she would wait for her (10) the bus station.",
+ "items": [
+  {
+   "id": "C16-1",
+   "skill": "g.conditional",
+   "difficulty": 1,
+   "stem": "(1) \"If I ___ a bird,\"",
+   "options": [
+    "am",
+    "were",
+    "will be",
+    "had been"
+   ],
+   "answer": 1,
+   "explanation_th": "สมมุติไม่จริง + would → were",
+   "why_wrong": [
+    "am ไม่ใช้กับ would",
+    null,
+    "หลัง if ไม่ใช้ will",
+    "had been ใช้กับอดีต"
+   ]
+  },
+  {
+   "id": "C16-2",
+   "skill": "g.conditional",
+   "difficulty": 1,
+   "stem": "(2) \"If you ___ hard at school, you will see the city one day.\"",
+   "options": [
+    "will study",
+    "studied",
+    "study",
+    "would study"
+   ],
+   "answer": 2,
+   "explanation_th": "แบบที่ 1 (will see) → If you study",
+   "why_wrong": [
+    "หลัง if ไม่ใช้ will",
+    "studied ใช้กับ would",
+    null,
+    "หลัง if ไม่ใช้ would"
+   ]
+  },
+  {
+   "id": "C16-3",
+   "skill": "g.conditional",
+   "difficulty": 2,
+   "stem": "(3) If she ___ a question, she asked her teacher until she understood.",
+   "options": [
+    "doesn't understand",
+    "won't understand",
+    "wouldn't understand",
+    "didn't understand"
+   ],
+   "answer": 3,
+   "explanation_th": "นิสัยในอดีต (asked) → If she didn't understand",
+   "why_wrong": [
+    "doesn't เป็นปัจจุบัน ขัดกับ asked",
+    "หลัง if ไม่ใช้ will",
+    "หลัง if ไม่ใช้ would",
+    null
+   ]
+  },
+  {
+   "id": "C16-4",
+   "skill": "g.conj-or",
+   "difficulty": 1,
+   "stem": "(4) ___ the electricity went off, she read her books by candlelight.",
+   "options": [
+    "Whenever",
+    "Whatever",
+    "However",
+    "Wherever"
+   ],
+   "answer": 0,
+   "explanation_th": "ทุกครั้งที่ไฟดับ → Whenever",
+   "why_wrong": [
+    null,
+    "Whatever = อะไรก็ตาม",
+    "However = แค่ไหนก็ตาม",
+    "Wherever = ที่ไหนก็ตาม"
+   ]
+  },
+  {
+   "id": "C16-5",
+   "skill": "g.conditional",
+   "difficulty": 2,
+   "stem": "(5) \"If Grandma ___ here now, she would be so proud,\"",
+   "options": [
+    "is",
+    "were",
+    "will be",
+    "had been"
+   ],
+   "answer": 1,
+   "explanation_th": "สมมุติไม่จริงตอนนี้ + would → were",
+   "why_wrong": [
+    "is ไม่ใช้กับ would",
+    null,
+    "หลัง if ไม่ใช้ will",
+    "had been ใช้กับอดีต"
+   ]
+  },
+  {
+   "id": "C16-6",
+   "skill": "g.conditional",
+   "difficulty": 3,
+   "stem": "(6) she told her grandmother, \"I ___ here today.\"",
+   "options": [
+    "won't be",
+    "am not",
+    "wouldn't be",
+    "wasn't"
+   ],
+   "answer": 2,
+   "explanation_th": "If อดีต (had not listened) → ผลถึงปัจจุบัน (today) → wouldn't be",
+   "why_wrong": [
+    "won't be ใช้กับแบบที่ 1",
+    "am not ไม่ใช่ประโยคหลักของเงื่อนไข",
+    null,
+    "wasn't ไม่ใช่ประโยคหลักของเงื่อนไข"
+   ]
+  },
+  {
+   "id": "C16-7",
+   "skill": "g.fixed",
+   "difficulty": 2,
+   "stem": "(7) \"___ you keep working hard, you will go even further.\"",
+   "options": [
+    "As far as",
+    "As well as",
+    "As soon as",
+    "As long as"
+   ],
+   "answer": 3,
+   "explanation_th": "ตราบใดที่ยังขยัน → As long as",
+   "why_wrong": [
+    "As far as ความหมายผิด",
+    "As well as ความหมายผิด",
+    "As soon as = ทันทีที่ ความหมายไม่เข้า",
+    null
+   ]
+  },
+  {
+   "id": "C16-8",
+   "skill": "g.tense-past",
+   "difficulty": 2,
+   "stem": "(8) Dao promised that she ___ home every holiday.",
+   "options": [
+    "would come",
+    "will come",
+    "comes",
+    "coming"
+   ],
+   "answer": 0,
+   "explanation_th": "เล่าคำสัญญาในอดีต (promised that) → would come",
+   "why_wrong": [
+    null,
+    "will ต้องถอยเป็น would",
+    "comes ไม่ถอย tense",
+    "coming ไม่ใช่กริยาแท้"
+   ]
+  },
+  {
+   "id": "C16-9",
+   "skill": "g.conj-or",
+   "difficulty": 1,
+   "stem": "(9) \"And ___ you see a bird over the fields,\"",
+   "options": [
+    "whatever",
+    "whenever",
+    "however",
+    "whether"
+   ],
+   "answer": 1,
+   "explanation_th": "ทุกครั้งที่เห็นนก → whenever",
+   "why_wrong": [
+    "whatever = อะไรก็ตาม",
+    null,
+    "however = แค่ไหนก็ตาม",
+    "whether ต้องมี or และไม่บอกเวลา"
+   ]
+  },
+  {
+   "id": "C16-10",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(10) Her grandmother said she would wait for her ___ the bus station.",
+   "options": [
+    "on",
+    "for",
+    "at",
+    "of"
+   ],
+   "answer": 2,
+   "explanation_th": "จุดสถานที่ (สถานี) → at the bus station",
+   "why_wrong": [
+    "on ไม่ใช้กับสถานี",
+    "wait for her for the bus station ผิด",
+    null,
+    "of ไม่มีความหมายตรงนี้"
+   ]
+  }
+ ]
+}

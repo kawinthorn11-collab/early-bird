@@ -1,0 +1,34 @@
+{
+  "name": "Early Bird · เรียนล่วงหน้าเอกอังกฤษ",
+  "short_name": "Early Bird",
+  "description": "เรียนล่วงหน้าวิชาเอกภาษาอังกฤษปี 1 ก่อนเปิดเทอม วันละ 2 นาที ไม่ใช่เว็บไซต์ทางการของมหาวิทยาลัย",
+  "lang": "th",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3eee2",
+  "theme_color": "#f3eee2",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

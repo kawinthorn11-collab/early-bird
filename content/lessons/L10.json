@@ -1,0 +1,689 @@
+{
+ "id": "L10",
+ "phase": 2,
+ "skill": "g.conj-or",
+ "title_th": "or = ไม่อย่างนั้น · whether · whenever",
+ "title_en": "or (otherwise), whether, -ever words",
+ "villain": "knotto",
+ "hook": {
+  "beats": [
+   {
+    "say": "ครูที่ใจดีคนหนึ่งเตือนนักเรียนก่อนสอบ",
+    "anim": "enter",
+    "board": "Stay calm, ___ you will make mistakes."
+   },
+   {
+    "say": "ฮ่า ๆ น็อตโตะมาแล้ว! ใส่ and ไปสิ ฟังดูดีออก",
+    "actor": "villain",
+    "anim": "shake",
+    "board": "and??"
+   },
+   {
+    "say": "ลองแปลดู ใจเย็น ๆ และเธอจะทำผิด แปลกมาก",
+    "anim": "think",
+    "board": "calm + and → mistakes ???"
+   },
+   {
+    "say": "คำสั่งตามด้วย or แปลว่า ไม่อย่างนั้น ถ้าไม่ทำตามจะเกิดผลเสีย",
+    "anim": "jump",
+    "board": "Stay calm, or you will make mistakes."
+   },
+   {
+    "say": "ส่วนคำสั่งตามด้วย and แปลว่า ถ้าทำแล้วจะได้ผลดี และ whenever แปลว่าทุกครั้งที่",
+    "anim": "zap",
+    "board": "Practice, and you will improve."
+   },
+   {
+    "say": "โธ่ ปมนี้ก็แก้ได้อีกแล้ว!",
+    "actor": "villain",
+    "anim": "swap"
+   }
+  ]
+ },
+ "discover": {
+  "examples": [
+   "Hurry up, **or** you will miss the bus.",
+   "Hurry up, **and** you will catch the bus.",
+   "I don't know **whether** he will come.",
+   "**Whenever** I feel sad, I call my mom."
+  ],
+  "question_th": "ประโยค 1 กับ 2 ต่างกันอย่างไร?",
+  "options_th": [
+   "or = ถ้าไม่ทำตาม ผลร้ายจะเกิด / and = ถ้าทำตาม ผลดีจะเกิด",
+   "ความหมายเหมือนกัน",
+   "or ใช้กับอดีต and ใช้กับอนาคต",
+   "or แปลว่า \"และ\""
+  ],
+  "answer": 0,
+  "reveal_th": "คำสั่ง + or + ผลร้าย (otherwise) · คำสั่ง + and + ผลดี · whether = …หรือไม่ (ใช้หลัง know, ask, wonder, not sure) · -ever: whenever ทุกครั้งที่, wherever ที่ไหนก็ตาม, whatever อะไรก็ตาม, however + adj แค่ไหนก็ตาม"
+ },
+ "rule": {
+  "line_th": "คำสั่ง + or = ไม่อย่างนั้น (ผลร้าย) · คำสั่ง + and = แล้วจะ (ผลดี) · whether = หรือไม่ · whenever/wherever/whatever/however = …ก็ตาม",
+  "memory_th": "🚦 or = ไฟแดง \"ถ้าไม่ทำ เจ็บตัวนะ\" · and = ไฟเขียว \"ทำเลย ได้ของดี\" · -ever = \"ทุก…ก็ตาม\" (when→เวลา, where→ที่, what→สิ่ง, how→ระดับ)",
+  "terms": [
+   [
+    "otherwise",
+    "ไม่อย่างนั้น"
+   ],
+   [
+    "whether",
+    "หรือไม่"
+   ],
+   [
+    "whenever",
+    "ทุกครั้งที่"
+   ],
+   [
+    "however + adj",
+    "ไม่ว่าจะ…แค่ไหน"
+   ]
+  ]
+ },
+ "speak": [
+  "Hurry up, or you will miss the bus.",
+  "I'm not sure whether I can come tomorrow.",
+  "Whenever I feel nervous, I take a deep breath."
+ ],
+ "twists": [
+  {
+   "id": "L10-t1",
+   "skill": "g.conj-or",
+   "type": "error",
+   "parts": [
+    "Wear a jacket,",
+    "and",
+    "you will catch",
+    "a cold on the mountain."
+   ],
+   "answer": 1,
+   "explanation_th": "ใส่เสื้อ \"แล้ว\" จะเป็นหวัด ไม่สมเหตุผล ต้องเป็น or (ไม่อย่างนั้นจะเป็นหวัด)",
+   "why_wrong": [
+    "คำสั่งถูกแล้ว",
+    null,
+    "you will catch ถูกแล้ว",
+    "ถูกแล้ว"
+   ]
+  },
+  {
+   "id": "L10-t2",
+   "skill": "g.conj-or",
+   "type": "fill",
+   "stem": "I can't decide ___ to study medicine or engineering.",
+   "accept": [
+    "whether"
+   ],
+   "hint_th": "ตัดสินใจไม่ได้ว่า … หรือ … (มี or ตามหลัง)",
+   "explanation_th": "whether … or … = ว่าจะ…หรือ…"
+  },
+  {
+   "id": "L10-t3",
+   "skill": "g.conj-or",
+   "type": "order",
+   "words": [
+    "Whenever",
+    "it",
+    "rains,",
+    "my",
+    "cat",
+    "hides",
+    "under",
+    "the",
+    "bed."
+   ],
+   "explanation_th": "Whenever + ประโยค, ประโยคหลัก = ทุกครั้งที่…"
+  },
+  {
+   "id": "L10-t4",
+   "skill": "g.conj-or",
+   "type": "match",
+   "prompt_th": "เลือกคำ -ever ให้ตรงความหมาย",
+   "pairs": [
+    [
+     "___ you go, I will follow you.",
+     "Wherever"
+    ],
+    [
+     "___ you do, do your best.",
+     "Whatever"
+    ],
+    [
+     "___ I call her, she is busy.",
+     "Whenever"
+    ],
+    [
+     "___ hard it is, never give up.",
+     "However"
+    ]
+   ],
+   "explanation_th": "where→สถานที่, what→สิ่ง, when→เวลา, how + adj→ระดับ"
+  }
+ ],
+ "questions": [
+  {
+   "id": "L10-01",
+   "skill": "g.conj-or",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "Hurry up, ___ you'll miss the bus.",
+   "options": [
+    "and",
+    "or",
+    "but",
+    "so"
+   ],
+   "answer": 1,
+   "explanation_th": "ถ้าไม่รีบ จะตกรถ = ไม่อย่างนั้น → or",
+   "why_wrong": [
+    "and = รีบแล้วจะตกรถ ไม่สมเหตุผล",
+    null,
+    "but ไม่สมเหตุผล",
+    "so = รีบ ดังนั้นจะตกรถ ไม่สมเหตุผล"
+   ]
+  },
+  {
+   "id": "L10-02",
+   "skill": "g.conj-or",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "I don't know ___ he will come to the party.",
+   "options": [
+    "that",
+    "what",
+    "whether",
+    "which"
+   ],
+   "answer": 2,
+   "explanation_th": "ไม่รู้ว่าเขาจะมาหรือไม่ → whether",
+   "why_wrong": [
+    "that ไม่ให้ความหมาย \"หรือไม่\" หลัง don't know",
+    "what ต้องมีช่องว่างในประโยคตาม แต่ประโยคครบแล้ว",
+    null,
+    "which ต้องมีคำนามให้ขยาย"
+   ]
+  },
+  {
+   "id": "L10-03",
+   "skill": "g.conj-or",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "___ I visit my grandmother, she cooks my favorite food.",
+   "options": [
+    "Whatever",
+    "However",
+    "Wherever",
+    "Whenever"
+   ],
+   "answer": 3,
+   "explanation_th": "ทุกครั้งที่ไปเยี่ยม → Whenever",
+   "why_wrong": [
+    "Whatever = อะไรก็ตาม",
+    "However = แค่ไหนก็ตาม/อย่างไรก็ตาม",
+    "Wherever = ที่ไหนก็ตาม",
+    null
+   ]
+  },
+  {
+   "id": "L10-04",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "The theater is almost empty. You can sit ___ you like.",
+   "options": [
+    "wherever",
+    "whenever",
+    "whatever",
+    "whoever"
+   ],
+   "answer": 0,
+   "explanation_th": "นั่งตรงไหนก็ได้ (โรงว่าง) → wherever",
+   "why_wrong": [
+    null,
+    "whenever = เวลาไหนก็ได้ ไม่เกี่ยวกับที่นั่งว่าง",
+    "sit whatever ไม่มีความหมาย",
+    "whoever = ใครก็ตาม ไม่เกี่ยวกับที่นั่ง"
+   ]
+  },
+  {
+   "id": "L10-05",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "___ you do, please don't give up.",
+   "options": [
+    "Whenever",
+    "Whatever",
+    "Wherever",
+    "However"
+   ],
+   "answer": 1,
+   "explanation_th": "ไม่ว่าจะทำอะไร → Whatever (do + สิ่งที่ทำ)",
+   "why_wrong": [
+    "Whenever you do ขาดกรรมของ do",
+    null,
+    "Wherever you do ขาดกรรมของ do",
+    "However you do ไม่ใช่สำนวนที่ใช้กัน"
+   ]
+  },
+  {
+   "id": "L10-06",
+   "skill": "g.conj-or",
+   "difficulty": 3,
+   "stage": 1,
+   "stem": "___ hard I try, I can never remember his name.",
+   "options": [
+    "Whatever",
+    "Whenever",
+    "However",
+    "Wherever"
+   ],
+   "answer": 2,
+   "explanation_th": "However + adj/adv = ไม่ว่าจะ…แค่ไหน → However hard",
+   "why_wrong": [
+    "Whatever hard ผิดโครงสร้าง",
+    "Whenever hard ผิดโครงสร้าง",
+    null,
+    "Wherever hard ผิดโครงสร้าง"
+   ]
+  },
+  {
+   "id": "L10-07",
+   "skill": "g.conj-or",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "Wear a coat, ___ you'll catch a cold.",
+   "options": [
+    "and",
+    "so",
+    "but",
+    "or"
+   ],
+   "answer": 3,
+   "explanation_th": "ถ้าไม่ใส่โค้ทจะเป็นหวัด → or",
+   "why_wrong": [
+    "and = ใส่แล้วจะเป็นหวัด ไม่สมเหตุผล",
+    "so ไม่สมเหตุผล",
+    "but ไม่สมเหตุผล",
+    null
+   ]
+  },
+  {
+   "id": "L10-08",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "She asked me ___ I had finished my homework.",
+   "options": [
+    "whether",
+    "that",
+    "what",
+    "unless"
+   ],
+   "answer": 0,
+   "explanation_th": "ถามว่าทำเสร็จหรือยัง (yes/no) → whether",
+   "why_wrong": [
+    null,
+    "asked me that ใช้กับคำถามไม่ได้",
+    "what ต้องมีช่องว่างในประโยคตาม",
+    "unless = ถ้าไม่"
+   ]
+  },
+  {
+   "id": "L10-09",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Take an umbrella ___ it rains this afternoon.",
+   "options": [
+    "or",
+    "in case",
+    "whether",
+    "unless"
+   ],
+   "answer": 1,
+   "explanation_th": "เผื่อว่าฝนจะตก → in case",
+   "why_wrong": [
+    "or it rains ไม่มีความหมาย",
+    null,
+    "whether ไม่ใช้แบบนี้ต้องมี or not",
+    "unless it rains = ถ้าฝนไม่ตก (ให้เอาร่มไป) ไม่สมเหตุผล"
+   ]
+  },
+  {
+   "id": "L10-10",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "___ you like it or not, you must go to school tomorrow.",
+   "options": [
+    "If",
+    "Whatever",
+    "Whether",
+    "However"
+   ],
+   "answer": 2,
+   "explanation_th": "Whether … or not = ไม่ว่าจะ…หรือไม่",
+   "why_wrong": [
+    "If … or not ไม่ใช้ขึ้นต้นแบบนี้ในความหมาย \"ไม่ว่าจะ\"",
+    "Whatever ไม่คู่กับ or not",
+    null,
+    "However ไม่คู่กับ or not"
+   ]
+  },
+  {
+   "id": "L10-11",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Study hard, ___ you'll pass the exam.",
+   "options": [
+    "or",
+    "but",
+    "unless",
+    "and"
+   ],
+   "answer": 3,
+   "explanation_th": "ถ้าตั้งใจเรียน แล้วจะสอบผ่าน (ผลดี) → and",
+   "why_wrong": [
+    "or = ถ้าไม่อ่านจะสอบผ่าน ไม่สมเหตุผล",
+    "but ไม่สมเหตุผล",
+    "unless = ถ้าไม่ ทำให้ความหมายกลับ",
+    null
+   ]
+  },
+  {
+   "id": "L10-12",
+   "skill": "g.conj-or",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "Be quiet, ___ the baby will wake up.",
+   "options": [
+    "or",
+    "and",
+    "so",
+    "unless"
+   ],
+   "answer": 0,
+   "explanation_th": "ถ้าไม่เงียบ เด็กจะตื่น → or",
+   "why_wrong": [
+    null,
+    "and = เงียบแล้วเด็กจะตื่น ไม่สมเหตุผล",
+    "so ไม่สมเหตุผล",
+    "unless = ถ้าไม่ ความหมายกลับ"
+   ]
+  },
+  {
+   "id": "L10-13",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "I'll call you ___ I arrive in Bangkok.",
+   "options": [
+    "whether",
+    "as soon as",
+    "or",
+    "whatever"
+   ],
+   "answer": 1,
+   "explanation_th": "ทันทีที่ถึง → as soon as",
+   "why_wrong": [
+    "whether = หรือไม่",
+    null,
+    "or ไม่สมเหตุผล",
+    "whatever = อะไรก็ตาม"
+   ]
+  },
+  {
+   "id": "L10-14",
+   "skill": "g.conj-or",
+   "difficulty": 3,
+   "stage": 1,
+   "stem": "The real question is ___ we have enough time to finish.",
+   "options": [
+    "what",
+    "which",
+    "whether",
+    "that"
+   ],
+   "answer": 2,
+   "explanation_th": "คำถามคือ \"มีเวลาพอหรือไม่\" → whether",
+   "why_wrong": [
+    "what ต้องมีช่องว่างในประโยคตาม",
+    "which ต้องมีคำนามให้ขยาย",
+    null,
+    "that ไม่ได้ให้ความหมายเป็นคำถาม"
+   ]
+  },
+  {
+   "id": "L10-15",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "___ she goes, her little dog follows her.",
+   "options": [
+    "Whatever",
+    "However",
+    "Whether",
+    "Wherever"
+   ],
+   "answer": 3,
+   "explanation_th": "ไปที่ไหนก็ตาม → Wherever",
+   "why_wrong": [
+    "Whatever she goes ผิด",
+    "However she goes ไม่ได้บอกสถานที่",
+    "Whether ต้องมี or",
+    null
+   ]
+  },
+  {
+   "id": "L10-16",
+   "skill": "g.conj-or",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "The exam starts at eight sharp. Arrive early, ___ you will not be allowed into the room.",
+   "options": [
+    "or",
+    "and",
+    "so",
+    "but"
+   ],
+   "answer": 0,
+   "explanation_th": "ถ้าไม่มาก่อนเวลา จะเข้าห้องไม่ได้ → or",
+   "why_wrong": [
+    null,
+    "and = มาเร็วแล้วจะเข้าไม่ได้ ไม่สมเหตุผล",
+    "so ไม่สมเหตุผล",
+    "but ไม่สมเหตุผล"
+   ]
+  },
+  {
+   "id": "L10-17",
+   "skill": "g.conj-or",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "My little brother loves dinosaurs. ___ we go to a bookshop, he asks for a new dinosaur book.",
+   "options": [
+    "Whatever",
+    "Whenever",
+    "Wherever",
+    "However"
+   ],
+   "answer": 1,
+   "explanation_th": "ทุกครั้งที่ไปร้านหนังสือ → Whenever",
+   "why_wrong": [
+    "Whatever we go ผิด",
+    null,
+    "Wherever we go to a bookshop ความหมายไม่เป็นธรรมชาติ",
+    "However ไม่บอกเวลา"
+   ]
+  },
+  {
+   "id": "L10-18",
+   "skill": "g.conj-or",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "The teacher has not decided ___ to give us the test on Friday or on Monday.",
+   "options": [
+    "that",
+    "which",
+    "whether",
+    "what"
+   ],
+   "answer": 2,
+   "explanation_th": "whether to V … or … = ว่าจะ…หรือ…",
+   "why_wrong": [
+    "that to give ผิดโครงสร้าง",
+    "which to give ต้องมีคำนาม (which day)",
+    null,
+    "what to give ตามด้วย or on Monday ไม่ได้"
+   ]
+  },
+  {
+   "id": "L10-19",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "You can choose any topic for your project. ___ you choose, make sure it interests you.",
+   "options": [
+    "Whenever",
+    "However",
+    "Wherever",
+    "Whatever"
+   ],
+   "answer": 3,
+   "explanation_th": "ไม่ว่าจะเลือกอะไร (สิ่ง) → Whatever",
+   "why_wrong": [
+    "Whenever = เวลา",
+    "However = ระดับ",
+    "Wherever = สถานที่",
+    null
+   ]
+  },
+  {
+   "id": "L10-20",
+   "skill": "g.conj-or",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "Mr. Lim is a very calm teacher. ___ noisy the class becomes, he never shouts.",
+   "options": [
+    "However",
+    "Whatever",
+    "Whenever",
+    "Although"
+   ],
+   "answer": 0,
+   "explanation_th": "However + adj (noisy) = ไม่ว่าจะเสียงดังแค่ไหน",
+   "why_wrong": [
+    null,
+    "Whatever noisy ผิดโครงสร้าง",
+    "Whenever noisy ผิดโครงสร้าง",
+    "Although noisy the class becomes ผิดลำดับคำ"
+   ]
+  },
+  {
+   "id": "L10-21",
+   "skill": "g.conj-or",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "Please write your name on every page, ___ your answers may be lost.",
+   "options": [
+    "and",
+    "or",
+    "but",
+    "so"
+   ],
+   "answer": 1,
+   "explanation_th": "ถ้าไม่เขียนชื่อ คำตอบอาจหาย → or",
+   "why_wrong": [
+    "and = เขียนชื่อแล้วคำตอบหาย ไม่สมเหตุผล",
+    null,
+    "but ไม่สมเหตุผล",
+    "so ไม่สมเหตุผล"
+   ]
+  },
+  {
+   "id": "L10-22",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "I'm not sure ___ the shop opens on public holidays. Let's call and ask.",
+   "options": [
+    "that",
+    "what",
+    "whether",
+    "unless"
+   ],
+   "answer": 2,
+   "explanation_th": "ไม่แน่ใจว่าเปิดหรือไม่ → whether",
+   "why_wrong": [
+    "not sure that ไม่ให้ความหมายสงสัย",
+    "what ต้องมีช่องว่างในประโยคตาม",
+    null,
+    "unless = ถ้าไม่"
+   ]
+  },
+  {
+   "id": "L10-23",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Practice speaking English for ten minutes every day, ___ you will feel more confident in the interview.",
+   "options": [
+    "or",
+    "unless",
+    "but",
+    "and"
+   ],
+   "answer": 3,
+   "explanation_th": "ถ้าฝึกทุกวัน แล้วจะมั่นใจขึ้น (ผลดี) → and",
+   "why_wrong": [
+    "or = ถ้าไม่ฝึกจะมั่นใจ ไม่สมเหตุผล",
+    "unless ไม่สมเหตุผล",
+    "but ไม่สมเหตุผล",
+    null
+   ]
+  },
+  {
+   "id": "L10-24",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Dark clouds covered the sky. The fishermen could not tell ___ the storm would reach the coast that night.",
+   "options": [
+    "whether",
+    "that",
+    "what",
+    "unless"
+   ],
+   "answer": 0,
+   "explanation_th": "บอกไม่ได้ว่าพายุจะมาหรือไม่ → whether",
+   "why_wrong": [
+    null,
+    "could not tell that ไม่ให้ความหมายสงสัย",
+    "what ต้องมีช่องว่างในประโยคตาม",
+    "unless = ถ้าไม่"
+   ]
+  },
+  {
+   "id": "L10-25",
+   "skill": "g.conj-or",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "Thailand is a wonderful country. ___ you travel, you will find friendly people and delicious food.",
+   "options": [
+    "Whatever",
+    "Wherever",
+    "However",
+    "Whether"
+   ],
+   "answer": 1,
+   "explanation_th": "ไปที่ไหนก็ตาม → Wherever",
+   "why_wrong": [
+    "Whatever you travel ผิด",
+    null,
+    "However you travel = เดินทางวิธีไหนก็ตาม ไม่เข้ากับบริบทสถานที่",
+    "Whether ต้องมี or"
+   ]
+  }
+ ],
+ "cloze": "C10"
+}

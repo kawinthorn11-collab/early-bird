@@ -1,0 +1,691 @@
+{
+ "id": "L09",
+ "phase": 2,
+ "skill": "g.conj-contrast",
+ "title_th": "แต่ / ถึงแม้ / เพราะ / ดังนั้น",
+ "title_en": "Linkers: but, although, because, so, despite, however",
+ "villain": "knotto",
+ "hook": {
+  "beats": [
+   {
+    "say": "ปิ๊ปเขียนไดอารี่ว่าตั้งใจอ่านหนังสือมาก แต่ก็ยังสอบตก",
+    "anim": "enter",
+    "board": "I studied hard, ___ I failed."
+   },
+   {
+    "say": "ข้าคือน็อตโตะ ปมคำเชื่อม! ข้าจะผูก because ไว้ตรงนั้นแหละ",
+    "actor": "villain",
+    "anim": "shake",
+    "board": "because??"
+   },
+   {
+    "say": "ก่อนเลือกคำเชื่อม ดูความสัมพันธ์ของสองฝั่งก่อน ไปทางเดียวกัน ขัดกัน หรือเป็นเหตุกับผล",
+    "anim": "think",
+    "board": "ขัด / เหตุ / ผล"
+   },
+   {
+    "say": "อ่านหนักแต่สอบตก สองฝั่งขัดกัน จึงใช้ but หรือ although",
+    "anim": "jump",
+    "board": "I studied hard, but I failed."
+   },
+   {
+    "say": "ถ้าตามด้วยคำนาม ไม่ใช่ประโยค ต้องใช้ despite หรือ because of แทน",
+    "anim": "zap",
+    "board": "despite the rain · because of the rain"
+   },
+   {
+    "say": "ปมของข้าคลายหมดแล้ว!",
+    "actor": "villain",
+    "anim": "swap"
+   }
+  ]
+ },
+ "discover": {
+  "examples": [
+   "It was raining, **but** we went out.",
+   "**Although** it was raining, we went out.",
+   "**Despite** the rain, we went out.",
+   "It was raining, **so** we stayed home."
+  ],
+  "question_th": "although กับ despite ต่างกันที่อะไร?",
+  "options_th": [
+   "although ตามด้วยประโยค (มีกริยา) / despite ตามด้วยคำนามหรือ V-ing",
+   "although ใช้กับอดีต despite ใช้กับปัจจุบัน",
+   "despite แปลว่าเพราะ",
+   "ใช้แทนกันได้เสมอ"
+  ],
+  "answer": 0,
+  "reveal_th": "ขัดกัน: but, although, even though, while + ประโยค / despite, in spite of + คำนาม/V-ing / However, … (ขึ้นประโยคใหม่) · เหตุผล: because, since, as + ประโยค / because of + คำนาม · ผลลัพธ์: so, therefore, as a result"
+ },
+ "rule": {
+  "line_th": "ดูความสัมพันธ์ก่อน: ขัดกัน → but/although/despite · เหตุ → because/because of · ผล → so/therefore — แล้วดูว่าหลังช่องเป็นประโยคหรือคำนาม",
+  "memory_th": "🪢 ปม 2 ชั้น: ชั้นที่ 1 ถามว่า \"ขัด เหตุ หรือ ผล\" ชั้นที่ 2 ถามว่า \"ตามด้วยประโยคหรือคำนาม\" (although + ประโยค, despite + คำนาม) และห้ามใช้ although คู่กับ but ในประโยคเดียว",
+  "terms": [
+   [
+    "conjunction",
+    "คำเชื่อม"
+   ],
+   [
+    "contrast",
+    "ความขัดแย้ง"
+   ],
+   [
+    "cause",
+    "เหตุ"
+   ],
+   [
+    "result",
+    "ผลลัพธ์"
+   ],
+   [
+    "clause",
+    "อนุประโยค (มีประธาน+กริยา)"
+   ]
+  ]
+ },
+ "speak": [
+  "Although I was tired, I finished my homework.",
+  "Despite the rain, the match continued.",
+  "The shop was closed, so we went home."
+ ],
+ "twists": [
+  {
+   "id": "L09-t1",
+   "skill": "g.conj-contrast",
+   "type": "error",
+   "parts": [
+    "Although",
+    "it was cold,",
+    "but",
+    "we went swimming."
+   ],
+   "answer": 2,
+   "explanation_th": "although กับ but ใช้คู่กันในประโยคเดียวไม่ได้ ตัด but ออก",
+   "why_wrong": [
+    "Although ถูกแล้ว",
+    "it was cold ถูกแล้ว",
+    null,
+    "we went swimming ถูกแล้ว"
+   ]
+  },
+  {
+   "id": "L09-t2",
+   "skill": "g.conj-contrast",
+   "type": "fill",
+   "stem": "The match was cancelled ___ the heavy rain.",
+   "accept": [
+    "because of",
+    "due to"
+   ],
+   "hint_th": "เพราะ + คำนาม (the heavy rain) — ใช้ because เฉย ๆ ไม่ได้",
+   "explanation_th": "หลังช่องเป็นคำนาม จึงใช้ because of (หรือ due to)"
+  },
+  {
+   "id": "L09-t3",
+   "skill": "g.conj-contrast",
+   "type": "order",
+   "words": [
+    "Despite",
+    "the",
+    "rain,",
+    "the",
+    "match",
+    "continued."
+   ],
+   "explanation_th": "Despite + คำนาม (the rain) แล้วตามด้วยประโยคหลัก"
+  },
+  {
+   "id": "L09-t4",
+   "skill": "g.conj-contrast",
+   "type": "match",
+   "prompt_th": "เลือกคำเชื่อมให้ตรง",
+   "pairs": [
+    [
+     "___ it rained, we went out.",
+     "Although"
+    ],
+    [
+     "___ the rain, we went out.",
+     "Despite"
+    ],
+    [
+     "We went out ___ it was sunny.",
+     "because"
+    ],
+    [
+     "It was sunny, ___ we went out.",
+     "so"
+    ]
+   ],
+   "explanation_th": "Although + ประโยค · Despite + คำนาม · because + เหตุ · so + ผล"
+  }
+ ],
+ "questions": [
+  {
+   "id": "L09-01",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "I studied very hard, ___ I still failed the test.",
+   "options": [
+    "because",
+    "but",
+    "so",
+    "or"
+   ],
+   "answer": 1,
+   "explanation_th": "อ่านหนักแต่สอบตก = ขัดกัน → but",
+   "why_wrong": [
+    "because ทำให้การสอบตกเป็นเหตุของการอ่าน กลับด้าน",
+    null,
+    "so ทำให้การสอบตกเป็นผลของการอ่านหนัก ไม่สมเหตุผล",
+    "or ใช้กับทางเลือก"
+   ]
+  },
+  {
+   "id": "L09-02",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "___ it was raining, they went to the beach.",
+   "options": [
+    "Because",
+    "So",
+    "Although",
+    "Despite"
+   ],
+   "answer": 2,
+   "explanation_th": "ฝนตกแต่ยังไปทะเล = ขัดกัน + ตามด้วยประโยค → Although",
+   "why_wrong": [
+    "Because ทำให้ฝนเป็นเหตุผลที่ไปทะเล ไม่สมเหตุผล",
+    "So ไม่ใช้ขึ้นต้นอนุประโยคแบบนี้",
+    null,
+    "Despite ต้องตามด้วยคำนาม ไม่ใช่ประโยค (it was raining)"
+   ]
+  },
+  {
+   "id": "L09-03",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "She stayed at home ___ she was sick.",
+   "options": [
+    "although",
+    "but",
+    "so",
+    "because"
+   ],
+   "answer": 3,
+   "explanation_th": "ป่วยคือเหตุผลที่อยู่บ้าน → because",
+   "why_wrong": [
+    "although = ถึงแม้ ความหมายไม่เข้า",
+    "but ไม่ได้ขัดกัน",
+    "so ทำให้การป่วยเป็นผลของการอยู่บ้าน กลับด้าน",
+    null
+   ]
+  },
+  {
+   "id": "L09-04",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "It was very late, ___ we took a taxi home.",
+   "options": [
+    "so",
+    "because",
+    "although",
+    "or"
+   ],
+   "answer": 0,
+   "explanation_th": "ดึกมาก จึง (ผลลัพธ์) นั่งแท็กซี่ → so",
+   "why_wrong": [
+    null,
+    "because ทำให้การนั่งแท็กซี่เป็นเหตุของความดึก กลับด้าน",
+    "although ไม่สมเหตุผล",
+    "or ใช้กับทางเลือก"
+   ]
+  },
+  {
+   "id": "L09-05",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "___ the rain, the football match continued.",
+   "options": [
+    "Although",
+    "Despite",
+    "Because",
+    "Even though"
+   ],
+   "answer": 1,
+   "explanation_th": "ตามด้วยคำนาม (the rain) + ขัดกัน → Despite",
+   "why_wrong": [
+    "Although ต้องตามด้วยประโยค",
+    null,
+    "Because ต้องตามด้วยประโยค และความหมายไม่เข้า",
+    "Even though ต้องตามด้วยประโยค"
+   ]
+  },
+  {
+   "id": "L09-06",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "He was absent from school ___ his illness.",
+   "options": [
+    "because",
+    "although",
+    "because of",
+    "so"
+   ],
+   "answer": 2,
+   "explanation_th": "ตามด้วยคำนาม (his illness) + เหตุผล → because of",
+   "why_wrong": [
+    "because ต้องตามด้วยประโยค (because he was ill)",
+    "although ไม่สมเหตุผล และต้องตามด้วยประโยค",
+    null,
+    "so ต้องตามด้วยผลลัพธ์ที่เป็นประโยค"
+   ]
+  },
+  {
+   "id": "L09-07",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "The test was very hard. ___, most students passed.",
+   "options": [
+    "Therefore",
+    "Because",
+    "So that",
+    "However"
+   ],
+   "answer": 3,
+   "explanation_th": "ยากแต่ส่วนใหญ่ผ่าน = ขัดกัน และขึ้นประโยคใหม่ตามด้วย comma → However",
+   "why_wrong": [
+    "Therefore = ดังนั้น ทำให้เป็นผล ไม่สมเหตุผล",
+    "Because ไม่ใช้กับ comma ขึ้นประโยคแบบนี้",
+    "So that = เพื่อที่จะ",
+    null
+   ]
+  },
+  {
+   "id": "L09-08",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "The road was flooded. ___, the school was closed for two days.",
+   "options": [
+    "Therefore",
+    "However",
+    "Although",
+    "Despite"
+   ],
+   "answer": 0,
+   "explanation_th": "น้ำท่วมถนน จึงปิดโรงเรียน = ผลลัพธ์ → Therefore",
+   "why_wrong": [
+    null,
+    "However ใช้กับความขัดแย้ง",
+    "Although ต้องตามด้วยประโยคและไม่ใช้ comma แบบนี้",
+    "Despite ต้องตามด้วยคำนาม"
+   ]
+  },
+  {
+   "id": "L09-09",
+   "skill": "g.conj-contrast",
+   "difficulty": 3,
+   "stage": 1,
+   "stem": "In spite of ___ tired, she kept working until midnight.",
+   "options": [
+    "she was",
+    "being",
+    "be",
+    "to be"
+   ],
+   "answer": 1,
+   "explanation_th": "In spite of + V-ing → being",
+   "why_wrong": [
+    "In spite of ตามด้วยประโยคไม่ได้",
+    null,
+    "be เป็นรูปฐาน ใช้หลังบุพบทไม่ได้",
+    "to be ใช้หลังบุพบทไม่ได้"
+   ]
+  },
+  {
+   "id": "L09-10",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "___ he is very rich, he lives in a small, simple house.",
+   "options": [
+    "Despite",
+    "Because of",
+    "Even though",
+    "However"
+   ],
+   "answer": 2,
+   "explanation_th": "รวยแต่อยู่บ้านเล็ก = ขัดกัน + ตามด้วยประโยค → Even though",
+   "why_wrong": [
+    "Despite ต้องตามด้วยคำนาม",
+    "Because of ต้องตามด้วยคำนาม และความหมายผิด",
+    null,
+    "However ไม่ใช้นำอนุประโยคแบบนี้"
+   ]
+  },
+  {
+   "id": "L09-11",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "I like strong coffee, ___ my sister prefers green tea.",
+   "options": [
+    "because",
+    "so",
+    "despite",
+    "while"
+   ],
+   "answer": 3,
+   "explanation_th": "เปรียบเทียบความต่างของสองคน → while",
+   "why_wrong": [
+    "because ทำให้เป็นเหตุผล",
+    "so ทำให้เป็นผล",
+    "despite ต้องตามด้วยคำนาม",
+    null
+   ]
+  },
+  {
+   "id": "L09-12",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "We could not play outside ___ the heavy rain.",
+   "options": [
+    "because of",
+    "because",
+    "although",
+    "despite"
+   ],
+   "answer": 0,
+   "explanation_th": "เหตุผล + คำนาม → because of",
+   "why_wrong": [
+    null,
+    "because ต้องตามด้วยประโยค",
+    "although ไม่สมเหตุผล",
+    "despite ทำให้ความหมายกลับ (ทั้งที่ฝนตก)"
+   ]
+  },
+  {
+   "id": "L09-13",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "My phone is five years old, ___ it still works perfectly.",
+   "options": [
+    "so",
+    "but",
+    "because",
+    "or"
+   ],
+   "answer": 1,
+   "explanation_th": "เก่าแต่ยังใช้ได้ดี = ขัดกัน → but",
+   "why_wrong": [
+    "so ทำให้เป็นผล ไม่สมเหตุผล",
+    null,
+    "because ไม่สมเหตุผล",
+    "or ใช้กับทางเลือก"
+   ]
+  },
+  {
+   "id": "L09-14",
+   "skill": "g.conj-contrast",
+   "difficulty": 3,
+   "stage": 1,
+   "stem": "___ it was his birthday, his friends bought him a big cake.",
+   "options": [
+    "Although",
+    "Despite",
+    "As",
+    "However"
+   ],
+   "answer": 2,
+   "explanation_th": "As = เพราะ (เป็นวันเกิดจึงซื้อเค้ก)",
+   "why_wrong": [
+    "Although ไม่สมเหตุผล",
+    "Despite ต้องตามด้วยคำนาม",
+    null,
+    "However ไม่ใช้นำอนุประโยคแบบนี้"
+   ]
+  },
+  {
+   "id": "L09-15",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "He did not have an umbrella, ___ he got wet.",
+   "options": [
+    "but",
+    "although",
+    "because",
+    "so"
+   ],
+   "answer": 3,
+   "explanation_th": "ไม่มีร่มจึงเปียก = ผล → so",
+   "why_wrong": [
+    "but ไม่ได้ขัดกัน",
+    "although ไม่สมเหตุผล",
+    "because ทำให้การเปียกเป็นเหตุของการไม่มีร่ม กลับด้าน",
+    null
+   ]
+  },
+  {
+   "id": "L09-16",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Nok really wanted to join the school trip. ___, she had to stay at home to look after her sick grandmother.",
+   "options": [
+    "However",
+    "Therefore",
+    "Because",
+    "So"
+   ],
+   "answer": 0,
+   "explanation_th": "อยากไปแต่ต้องอยู่บ้าน = ขัดกัน → However",
+   "why_wrong": [
+    null,
+    "Therefore ทำให้เป็นผล ไม่สมเหตุผล",
+    "Because ไม่ใช้ขึ้นต้นแบบนี้",
+    "So ทำให้เป็นผลลัพธ์ของการอยากไป ไม่สมเหตุผล"
+   ]
+  },
+  {
+   "id": "L09-17",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "The bus was late again this morning. ___ the delay, I arrived at school before the bell rang.",
+   "options": [
+    "Although",
+    "Despite",
+    "Because of",
+    "However"
+   ],
+   "answer": 1,
+   "explanation_th": "รถสายแต่ยังมาทัน = ขัดกัน + คำนาม (the delay) → Despite",
+   "why_wrong": [
+    "Although ต้องตามด้วยประโยค",
+    null,
+    "Because of ทำให้ความหมายกลับ (มาทันเพราะรถสาย)",
+    "However ต้องตามด้วย comma และประโยค"
+   ]
+  },
+  {
+   "id": "L09-18",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "The restaurant near our school is small and cheap, ___ its food is famous all over the city.",
+   "options": [
+    "so",
+    "because",
+    "but",
+    "since"
+   ],
+   "answer": 2,
+   "explanation_th": "เล็กและถูก แต่ (กลับ) มีชื่อเสียงไปทั่วเมือง = ขัดกัน → but",
+   "why_wrong": [
+    "so ทำให้ชื่อเสียงเป็นผลของการเล็กและถูก ไม่สมเหตุผล",
+    "because ไม่สมเหตุผล",
+    null,
+    "since = เพราะ ไม่สมเหตุผล"
+   ]
+  },
+  {
+   "id": "L09-19",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Many farmers lost their rice ___ the long drought. The government has promised to help them.",
+   "options": [
+    "although",
+    "despite",
+    "so",
+    "because of"
+   ],
+   "answer": 3,
+   "explanation_th": "เหตุ + คำนาม (the long drought) → because of",
+   "why_wrong": [
+    "although ต้องตามด้วยประโยค",
+    "despite ทำให้ความหมายกลับ",
+    "so ต้องตามด้วยผลลัพธ์",
+    null
+   ]
+  },
+  {
+   "id": "L09-20",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "It rained heavily all afternoon, ___ the football match was cancelled.",
+   "options": [
+    "so",
+    "although",
+    "despite",
+    "but"
+   ],
+   "answer": 0,
+   "explanation_th": "ฝนตกหนัก จึงยกเลิกการแข่ง = ผล → so",
+   "why_wrong": [
+    null,
+    "although ไม่สมเหตุผล",
+    "despite ต้องตามด้วยคำนาม",
+    "but ไม่ได้ขัดกัน"
+   ]
+  },
+  {
+   "id": "L09-21",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "___ she had practiced for months, Ploy was still nervous on the day of the competition.",
+   "options": [
+    "Because",
+    "Although",
+    "Despite",
+    "So"
+   ],
+   "answer": 1,
+   "explanation_th": "ซ้อมมาหลายเดือนแต่ยังตื่นเต้น = ขัดกัน + ประโยค → Although",
+   "why_wrong": [
+    "Because ไม่สมเหตุผล",
+    null,
+    "Despite ต้องตามด้วยคำนาม/V-ing",
+    "So ไม่ใช้ขึ้นต้นอนุประโยคแบบนี้"
+   ]
+  },
+  {
+   "id": "L09-22",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "Somchai did not go to the party ___ he had a lot of homework to finish.",
+   "options": [
+    "although",
+    "so",
+    "because",
+    "despite"
+   ],
+   "answer": 2,
+   "explanation_th": "การบ้านเยอะคือเหตุผลที่ไม่ไปงาน → because",
+   "why_wrong": [
+    "although ไม่สมเหตุผล",
+    "so ทำให้การบ้านเป็นผล กลับด้าน",
+    null,
+    "despite ต้องตามด้วยคำนาม"
+   ]
+  },
+  {
+   "id": "L09-23",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "The national museum is free on Sundays. ___, it is always crowded on that day.",
+   "options": [
+    "However",
+    "Although",
+    "Despite",
+    "As a result"
+   ],
+   "answer": 3,
+   "explanation_th": "ฟรีวันอาทิตย์ ผลคือคนเยอะ → As a result",
+   "why_wrong": [
+    "However ใช้กับความขัดแย้ง แต่คนเยอะเป็นผลที่คาดได้",
+    "Although ไม่ใช้กับ comma ขึ้นประโยคแบบนี้",
+    "Despite ต้องตามด้วยคำนาม",
+    null
+   ]
+  },
+  {
+   "id": "L09-24",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "The medicine tasted terrible. Even though it was so bitter, the brave little boy ___.",
+   "options": [
+    "drank it all",
+    "refused to drink it",
+    "spat it out",
+    "hated it"
+   ],
+   "answer": 0,
+   "explanation_th": "Even though บอกความขัดแย้ง: ขมมากแต่ก็ดื่มหมด → \"drank it all\"",
+   "why_wrong": [
+    null,
+    "ปฏิเสธไม่ดื่ม = ผลที่คาดได้ ไม่ขัดกับความขม",
+    "คายออก = ผลที่คาดได้ ไม่ขัดกัน",
+    "เกลียดยาเป็นเรื่องปกติ ไม่ขัดกัน"
+   ]
+  },
+  {
+   "id": "L09-25",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "My grandmother is over eighty. ___ her age, she still walks five kilometers every morning.",
+   "options": [
+    "Although",
+    "Despite",
+    "Because of",
+    "Since"
+   ],
+   "answer": 1,
+   "explanation_th": "อายุมากแต่ยังเดินห้ากิโล = ขัดกัน + คำนาม (her age) → Despite",
+   "why_wrong": [
+    "Although ต้องตามด้วยประโยค",
+    null,
+    "Because of ทำให้ความหมายกลับ",
+    "Since = เพราะ/ตั้งแต่ ไม่สมเหตุผล"
+   ]
+  }
+ ],
+ "cloze": "C09"
+}

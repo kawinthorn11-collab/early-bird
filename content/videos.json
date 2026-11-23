@@ -1,0 +1,1882 @@
+{
+ "topics": [
+  {
+   "id": "intro",
+   "name_th": "แนะนำตัว (EN101)"
+  },
+  {
+   "id": "sentence",
+   "name_th": "โครงสร้างประโยค"
+  },
+  {
+   "id": "present",
+   "name_th": "Present simple / continuous"
+  },
+  {
+   "id": "past",
+   "name_th": "Tense อดีต"
+  },
+  {
+   "id": "pronoun",
+   "name_th": "Pronoun"
+  },
+  {
+   "id": "article",
+   "name_th": "a / an / the"
+  },
+  {
+   "id": "demonstrative",
+   "name_th": "this / that / these / those"
+  },
+  {
+   "id": "preposition",
+   "name_th": "Preposition"
+  },
+  {
+   "id": "agreement",
+   "name_th": "Subject-verb agreement"
+  },
+  {
+   "id": "reference",
+   "name_th": "Reading: reference"
+  },
+  {
+   "id": "conj",
+   "name_th": "คำเชื่อม although / despite"
+  },
+  {
+   "id": "or",
+   "name_th": "whether / -ever"
+  },
+  {
+   "id": "relative",
+   "name_th": "Relative clause"
+  },
+  {
+   "id": "passive",
+   "name_th": "Passive voice"
+  },
+  {
+   "id": "wordform",
+   "name_th": "Word form"
+  },
+  {
+   "id": "gerund",
+   "name_th": "V-ing / to V"
+  },
+  {
+   "id": "modal",
+   "name_th": "Modal perfect"
+  },
+  {
+   "id": "conditional",
+   "name_th": "If 3 แบบ"
+  },
+  {
+   "id": "parallel",
+   "name_th": "Parallel structure"
+  },
+  {
+   "id": "fixed",
+   "name_th": "so / such และสำนวน"
+  },
+  {
+   "id": "vocab",
+   "name_th": "เดาศัพท์จากบริบท"
+  },
+  {
+   "id": "inference",
+   "name_th": "Inference / เทคนิคอ่าน"
+  }
+ ],
+ "videos": [
+  {
+   "id": "FOS6gTfzvg8",
+   "topic": "intro",
+   "lang": "th",
+   "title": "เทคนิคแนะนำตัวให้ ปัง จนฝรั่งต้องชม!",
+   "channel": "KruPAnn - ครูพี่แอน",
+   "duration": "5:36",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "introduce yourself",
+      "แนะนำตัว"
+     ],
+     [
+      "impression",
+      "ความประทับใจ"
+     ],
+     [
+      "confident",
+      "มั่นใจ"
+     ],
+     [
+      "background",
+      "ภูมิหลัง"
+     ],
+     [
+      "strength",
+      "จุดแข็ง"
+     ]
+    ],
+    "questions": [
+     "ประโยคเปิดที่คลิปแนะนำคืออะไร",
+     "ควรเล่าอะไรบ้างใน 30 วินาทีแรก",
+     "เขียนประโยคแนะนำตัวของตัวเอง 2 ประโยค แล้วไปซ้อมในขั้น 3"
+    ]
+   }
+  },
+  {
+   "id": "SBBPGrEmeQ8",
+   "topic": "sentence",
+   "lang": "th",
+   "title": "วิธีแต่งประโยคภาษาอังกฤษเบื้องต้น ( เริ่มจาก 0 )",
+   "channel": "English Down-under",
+   "duration": "8:38",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "subject",
+      "ประธาน"
+     ],
+     [
+      "verb",
+      "กริยา"
+     ],
+     [
+      "object",
+      "กรรม"
+     ],
+     [
+      "sentence",
+      "ประโยค"
+     ],
+     [
+      "structure",
+      "โครงสร้าง"
+     ]
+    ],
+    "questions": [
+     "ประโยคพื้นฐานต้องมีอะไรอย่างน้อยสองส่วน",
+     "ยกตัวอย่างประโยค S + V + O ของตัวเอง 1 ประโยค",
+     "ทำไมการรู้โครงสร้างช่วยให้เลือกคำตอบในข้อสอบได้"
+    ]
+   }
+  },
+  {
+   "id": "vSBATq2KvjQ",
+   "topic": "sentence",
+   "lang": "en",
+   "title": "What is Subject, Verb, Object, Complement, Modifier: Grammatical Functions",
+   "channel": "Shakespeare's English",
+   "duration": "5:41",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "subject",
+      "ประธาน"
+     ],
+     [
+      "object",
+      "กรรม"
+     ],
+     [
+      "complement",
+      "ส่วนเติมเต็ม"
+     ],
+     [
+      "modifier",
+      "ส่วนขยาย"
+     ],
+     [
+      "function",
+      "หน้าที่"
+     ],
+     [
+      "phrase",
+      "วลี"
+     ]
+    ],
+    "questions": [
+     "complement ต่างจาก object อย่างไร",
+     "modifier ทำหน้าที่อะไรในประโยค",
+     "เขียนประโยคที่มี subject, verb และ modifier มา 1 ประโยค"
+    ]
+   }
+  },
+  {
+   "id": "wQ0bpzrBz3k",
+   "topic": "present",
+   "lang": "th",
+   "title": "Present simple / Present continuous ใช้ต่างกันยังไง | Eng ลั่น",
+   "channel": "We Mahidol",
+   "duration": "5:49",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "habit",
+      "นิสัย/กิจวัตร"
+     ],
+     [
+      "routine",
+      "กิจวัตรประจำ"
+     ],
+     [
+      "temporary",
+      "ชั่วคราว"
+     ],
+     [
+      "right now",
+      "ตอนนี้"
+     ],
+     [
+      "fact",
+      "ข้อเท็จจริง"
+     ]
+    ],
+    "questions": [
+     "คำบอกใบ้ใดบ้างที่บอกว่าต้องใช้ present continuous",
+     "ทำไม I am knowing จึงผิด",
+     "แต่งประโยคเกี่ยวกับกิจวัตรของตัวเอง 1 ประโยค"
+    ]
+   }
+  },
+  {
+   "id": "GV9IFkjsQkE",
+   "topic": "present",
+   "lang": "en",
+   "title": "Present continuous or present simple? A Mini English Lesson",
+   "channel": "British Council | English",
+   "duration": "1:48",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "general truth",
+      "ความจริงทั่วไป"
+     ],
+     [
+      "repeated action",
+      "การกระทำซ้ำ ๆ"
+     ],
+     [
+      "instruction",
+      "คำสั่ง/คำแนะนำ"
+     ],
+     [
+      "fixed plan",
+      "แผนที่กำหนดแน่นอน"
+     ],
+     [
+      "confused",
+      "สับสน"
+     ],
+     [
+      "habit",
+      "นิสัย"
+     ]
+    ],
+    "questions": [
+     "present simple ใช้กับอะไรบ้าง (คลิปบอก 4 อย่าง)",
+     "ตัวอย่าง habit ในคลิปคืออะไร",
+     "มีไฟล์ซับตัวอย่าง subs/GV9IFkjsQkE.srt ลองคลิกคำในซับแล้วเก็บเข้าคลังศัพท์ 1 คำ"
+    ]
+   }
+  },
+  {
+   "id": "RHMOjM_IMnQ",
+   "topic": "past",
+   "lang": "th",
+   "title": "Past simple VS Past continuous ใช้กับอดีตทั้งคู่ แต่ใช้ต่างกันยังไง | Eng ลั่น",
+   "channel": "We Mahidol",
+   "duration": "8:13",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "interrupt",
+      "ขัดจังหวะ"
+     ],
+     [
+      "while",
+      "ขณะที่"
+     ],
+     [
+      "when",
+      "เมื่อ"
+     ],
+     [
+      "action",
+      "การกระทำ"
+     ],
+     [
+      "background",
+      "ฉากหลัง"
+     ]
+    ],
+    "questions": [
+     "เหตุการณ์ไหนใช้ was/were + V-ing",
+     "when กับ while ต่างกันอย่างไรในคลิป",
+     "แต่งประโยค I was … when … 1 ประโยค"
+    ]
+   }
+  },
+  {
+   "id": "XV716wDmKAs",
+   "topic": "past",
+   "lang": "th",
+   "title": "Past Simple และ Past Perfect Tense ตอนที่ 7 ภาษาอังกฤษ ป.4 - ม.6",
+   "channel": "DLIT Resources คลังสื่อการสอน",
+   "duration": "4:24",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "past perfect",
+      "อดีตที่เกิดก่อนอดีต"
+     ],
+     [
+      "before",
+      "ก่อน"
+     ],
+     [
+      "after",
+      "หลัง"
+     ],
+     [
+      "already",
+      "แล้ว"
+     ],
+     [
+      "by the time",
+      "ภายในเวลาที่"
+     ]
+    ],
+    "questions": [
+     "had + V3 ใช้เมื่อไร",
+     "By the time we arrived, the film ___ (start) ควรเติมอะไร",
+     "ทำไมเรื่องเล่าภาษาอังกฤษถึงใช้ had + V3 บ่อย"
+    ]
+   }
+  },
+  {
+   "id": "nELxxIC0ftw",
+   "topic": "past",
+   "lang": "en",
+   "title": "Narrative Tenses in English",
+   "channel": "Oxford English Now",
+   "duration": "7:52",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "narrative",
+      "เรื่องเล่า"
+     ],
+     [
+      "sequence",
+      "ลำดับ"
+     ],
+     [
+      "event",
+      "เหตุการณ์"
+     ],
+     [
+      "in progress",
+      "กำลังดำเนินอยู่"
+     ],
+     [
+      "earlier",
+      "ก่อนหน้านั้น"
+     ],
+     [
+      "storyteller",
+      "ผู้เล่าเรื่อง"
+     ]
+    ],
+    "questions": [
+     "narrative tenses มีกี่แบบในคลิป",
+     "ใช้ past perfect เพื่อทำอะไรในเรื่องเล่า",
+     "เล่าเหตุการณ์เมื่อวานโดยใช้ 3 tense นี้อย่างละ 1 ประโยค"
+    ]
+   }
+  },
+  {
+   "id": "Eon7G6LjwNs",
+   "topic": "pronoun",
+   "lang": "th",
+   "title": "วิชาภาษาอังกฤษ เรื่อง Subject and Object Pronoun โดยครูเตย",
+   "channel": "NATTHA NS",
+   "duration": "5:03",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "subject pronoun",
+      "สรรพนามประธาน"
+     ],
+     [
+      "object pronoun",
+      "สรรพนามกรรม"
+     ],
+     [
+      "replace",
+      "แทนที่"
+     ],
+     [
+      "after the verb",
+      "หลังกริยา"
+     ],
+     [
+      "before the verb",
+      "หน้ากริยา"
+     ]
+    ],
+    "questions": [
+     "หลังกริยาต้องใช้ he หรือ him",
+     "แปลงประโยค Ben helped Mali ให้เป็นสรรพนามทั้งคู่",
+     "My friend and ___ (I/me) went home ใช้คำไหน"
+    ]
+   }
+  },
+  {
+   "id": "R43MuLhW1MU",
+   "topic": "pronoun",
+   "lang": "en",
+   "title": "BEGINNER ENGLISH (A1/A2) - subject and object pronouns",
+   "channel": "Arnel's Everyday English",
+   "duration": "8:10",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "pronoun",
+      "สรรพนาม"
+     ],
+     [
+      "subject",
+      "ประธาน"
+     ],
+     [
+      "object",
+      "กรรม"
+     ],
+     [
+      "refer to",
+      "หมายถึง"
+     ],
+     [
+      "repeat",
+      "พูดซ้ำ"
+     ],
+     [
+      "beginner",
+      "ผู้เริ่มต้น"
+     ]
+    ],
+    "questions": [
+     "ทำไมเราใช้ pronoun แทนคำนาม",
+     "ตัวอย่าง object pronoun ในคลิปมีอะไรบ้าง",
+     "them หมายถึงอะไรในประโยค I like my parents. I visit them often."
+    ]
+   }
+  },
+  {
+   "id": "rdCGgomQdJ4",
+   "topic": "article",
+   "lang": "th",
+   "title": "a, an, the ใช้ต่างกันยังไง | Grammar Unlocked",
+   "channel": "ฝรั่งอั่งม้อ Farang Angmor",
+   "duration": "4:12",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "article",
+      "คำนำหน้านาม"
+     ],
+     [
+      "specific",
+      "เฉพาะเจาะจง"
+     ],
+     [
+      "general",
+      "ทั่วไป"
+     ],
+     [
+      "vowel sound",
+      "เสียงสระ"
+     ],
+     [
+      "mention",
+      "กล่าวถึง"
+     ]
+    ],
+    "questions": [
+     "ใช้ the เมื่อไร (บอก 2 กรณี)",
+     "ทำไมพูด an hour แต่ a university",
+     "เติม a/an/the: I bought ___ book. ___ book is great."
+    ]
+   }
+  },
+  {
+   "id": "RDkx4J__-QY",
+   "topic": "article",
+   "lang": "en",
+   "title": "Articles – English Grammar Lessons",
+   "channel": "Ellii (formerly ESL Library)",
+   "duration": "7:13",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "definite article",
+      "the"
+     ],
+     [
+      "indefinite article",
+      "a / an"
+     ],
+     [
+      "countable",
+      "นับได้"
+     ],
+     [
+      "uncountable",
+      "นับไม่ได้"
+     ],
+     [
+      "unique",
+      "มีหนึ่งเดียว"
+     ],
+     [
+      "zero article",
+      "ไม่ใช้คำนำหน้า"
+     ]
+    ],
+    "questions": [
+     "the sun ใช้ the เพราะอะไร",
+     "นามนับไม่ได้ใช้ a ได้ไหม",
+     "ยกตัวอย่าง zero article 1 อย่าง"
+    ]
+   }
+  },
+  {
+   "id": "VGzsNMj8VY4",
+   "topic": "demonstrative",
+   "lang": "th",
+   "title": "this / that / these / those | ติว Tuesday",
+   "channel": "เรียนเหอะ อยากสอน",
+   "duration": "4:58",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "near",
+      "ใกล้"
+     ],
+     [
+      "far",
+      "ไกล"
+     ],
+     [
+      "singular",
+      "เอกพจน์"
+     ],
+     [
+      "plural",
+      "พหูพจน์"
+     ],
+     [
+      "point",
+      "ชี้"
+     ]
+    ],
+    "questions": [
+     "this กับ these ต่างกันที่อะไร",
+     "those ใช้กับของแบบไหน",
+     "เติม: ___ shoes I am wearing are new."
+    ]
+   }
+  },
+  {
+   "id": "eLVtH7hYDD8",
+   "topic": "demonstrative",
+   "lang": "en",
+   "title": "THIS THAT THESE THOSE | Demonstrative Adjectives",
+   "channel": "Shaw English Online",
+   "duration": "10:11",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "demonstrative",
+      "คำชี้เฉพาะ"
+     ],
+     [
+      "adjective",
+      "คำคุณศัพท์"
+     ],
+     [
+      "over there",
+      "ตรงโน้น"
+     ],
+     [
+      "over here",
+      "ตรงนี้"
+     ],
+     [
+      "pointing",
+      "การชี้"
+     ],
+     [
+      "noun",
+      "คำนาม"
+     ]
+    ],
+    "questions": [
+     "คลิปใช้ภาพอะไรอธิบายระยะใกล้ไกล",
+     "Those books กับ That book ต่างกันอย่างไร",
+     "ในบทอ่าน This มักหมายถึงอะไรได้บ้าง (ใช้ความรู้จากด่าน L06)"
+    ]
+   }
+  },
+  {
+   "id": "-8sS1laZ9RI",
+   "topic": "preposition",
+   "lang": "th",
+   "title": "ครูดิวติว Grammar: รวบตึง สรุป Preposition ในภาษาอังกฤษ!",
+   "channel": "KruDew English Official",
+   "duration": "8:14",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "preposition",
+      "บุพบท"
+     ],
+     [
+      "place",
+      "สถานที่"
+     ],
+     [
+      "time",
+      "เวลา"
+     ],
+     [
+      "in / on / at",
+      "ใน / บน / ที่"
+     ],
+     [
+      "during",
+      "ระหว่าง"
+     ],
+     [
+      "since / for",
+      "ตั้งแต่ / เป็นเวลา"
+     ]
+    ],
+    "questions": [
+     "in on at ใช้กับเวลาต่างกันอย่างไร",
+     "since กับ for ต่างกันอย่างไร",
+     "เติม: I have studied here ___ two years."
+    ]
+   }
+  },
+  {
+   "id": "hgSxm75B1EQ",
+   "topic": "preposition",
+   "lang": "en",
+   "title": "Adjectives + Prepositions | Good at, Interested in, Afraid of",
+   "channel": "Ozzy Teacher",
+   "duration": "4:08",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "good at",
+      "เก่งเรื่อง"
+     ],
+     [
+      "interested in",
+      "สนใจ"
+     ],
+     [
+      "afraid of",
+      "กลัว"
+     ],
+     [
+      "proud of",
+      "ภูมิใจใน"
+     ],
+     [
+      "different from",
+      "แตกต่างจาก"
+     ],
+     [
+      "tired of",
+      "เบื่อ"
+     ]
+    ],
+    "questions": [
+     "จำคู่ adjective + preposition ได้กี่คู่จากคลิป",
+     "หลัง preposition ใช้กริยารูปไหน (เช่น good at ___)",
+     "แต่งประโยคเกี่ยวกับตัวเองด้วย interested in"
+    ]
+   }
+  },
+  {
+   "id": "prXGQmrGeXI",
+   "topic": "agreement",
+   "lang": "th",
+   "title": "Subject-Verb Agreements เรื่องที่ออกสอบทุกสนามอังกฤษ",
+   "channel": "ครูหวาน: English On Air",
+   "duration": "12:10",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "agreement",
+      "ความสอดคล้อง"
+     ],
+     [
+      "singular verb",
+      "กริยาเอกพจน์"
+     ],
+     [
+      "plural verb",
+      "กริยาพหูพจน์"
+     ],
+     [
+      "each / every",
+      "แต่ละ / ทุก"
+     ],
+     [
+      "one of",
+      "หนึ่งใน"
+     ]
+    ],
+    "questions": [
+     "One of the students ___ (is/are) late ใช้คำไหน เพราะอะไร",
+     "each กับ every ใช้กริยาแบบไหน",
+     "ยกตัวอย่างนามที่ลงท้าย s แต่เป็นเอกพจน์ 1 คำ"
+    ]
+   }
+  },
+  {
+   "id": "LfJPA8GwTdk",
+   "topic": "agreement",
+   "lang": "en",
+   "title": "Subject Verb Agreement | English Lesson | Common Grammar Mistakes",
+   "channel": "mmmEnglish",
+   "duration": "13:38",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "common mistake",
+      "ข้อผิดพลาดที่พบบ่อย"
+     ],
+     [
+      "third person",
+      "บุรุษที่สาม"
+     ],
+     [
+      "collective noun",
+      "คำนามกลุ่ม"
+     ],
+     [
+      "either / neither",
+      "อย่างใดอย่างหนึ่ง / ไม่ทั้งสอง"
+     ],
+     [
+      "uncountable",
+      "นับไม่ได้"
+     ],
+     [
+      "match",
+      "ตรงกัน"
+     ]
+    ],
+    "questions": [
+     "ทำไม Everyone are ผิด",
+     "neither…nor ใช้กริยาตามคำไหน",
+     "ประโยค The news ___ good (is/are) ใช้อะไร"
+    ]
+   }
+  },
+  {
+   "id": "dU-9YJF-AwQ",
+   "topic": "reference",
+   "lang": "th",
+   "title": "Pronoun Reference แนวสอบ reading ที่พบบ่อย สรรพนามตัวนี้หมายถึงอะไร",
+   "channel": "nuienglish",
+   "duration": "4:27",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "reference",
+      "การอ้างอิง"
+     ],
+     [
+      "refer to",
+      "หมายถึง"
+     ],
+     [
+      "antecedent",
+      "คำที่ถูกอ้างถึง"
+     ],
+     [
+      "previous sentence",
+      "ประโยคก่อนหน้า"
+     ],
+     [
+      "replace",
+      "แทนที่"
+     ]
+    ],
+    "questions": [
+     "ขั้นตอนหาคำตอบ reference มีอะไรบ้าง",
+     "ทำไมต้องลองแทนคำตอบกลับเข้าไปในประโยค",
+     "this ในบทอ่านหมายถึงคำเดียวหรือทั้งความคิดได้"
+    ]
+   }
+  },
+  {
+   "id": "OM9bebx5kyI",
+   "topic": "reference",
+   "lang": "en",
+   "title": "TOEFL Reading Section - Pronoun Reference Questions (Summary)",
+   "channel": "TOEFL Excellence",
+   "duration": "5:41",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "referent",
+      "สิ่งที่ถูกอ้างถึง"
+     ],
+     [
+      "pronoun",
+      "สรรพนาม"
+     ],
+     [
+      "agreement",
+      "ความสอดคล้อง (เอก/พหู)"
+     ],
+     [
+      "highlighted",
+      "ที่ถูกเน้น"
+     ],
+     [
+      "eliminate",
+      "ตัดตัวเลือก"
+     ],
+     [
+      "context",
+      "บริบท"
+     ]
+    ],
+    "questions": [
+     "ใช้ข้อมูลเอกพจน์/พหูพจน์ตัดตัวเลือกอย่างไร",
+     "ตัวเลือกหลอกในข้อ reference มักเป็นแบบไหน",
+     "ลองทำบทอ่าน R01 ข้อ reference อีกครั้งด้วยเทคนิคนี้"
+    ]
+   }
+  },
+  {
+   "id": "exmmWFw77Yc",
+   "topic": "conj",
+   "lang": "th",
+   "title": "ติว TOEIC: Although VS Despite ใช้ต่างกันยังไง",
+   "channel": "ติวสอบ TOEIC กับ ครูดิว",
+   "duration": "5:55",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "although",
+      "ถึงแม้ว่า (+ประโยค)"
+     ],
+     [
+      "despite",
+      "ทั้งที่ (+คำนาม)"
+     ],
+     [
+      "clause",
+      "อนุประโยค"
+     ],
+     [
+      "noun phrase",
+      "กลุ่มคำนาม"
+     ],
+     [
+      "contrast",
+      "ความขัดแย้ง"
+     ]
+    ],
+    "questions": [
+     "although กับ despite ตามด้วยอะไรต่างกัน",
+     "Despite ___ (rain/it rained) เติมอะไร",
+     "ไปทำด่าน L09 แล้วสังเกตข้อที่ถาม despite"
+    ]
+   }
+  },
+  {
+   "id": "M_2N2Ts8DxQ",
+   "topic": "conj",
+   "lang": "en",
+   "title": "Grammar: Linking words of contrast - BBC English Masterclass",
+   "channel": "BBC Learning English",
+   "duration": "3:03",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "linking word",
+      "คำเชื่อม"
+     ],
+     [
+      "contrast",
+      "ความแตกต่าง"
+     ],
+     [
+      "however",
+      "อย่างไรก็ตาม"
+     ],
+     [
+      "whereas",
+      "ในขณะที่"
+     ],
+     [
+      "nevertheless",
+      "ถึงอย่างนั้น"
+     ]
+    ],
+    "questions": [
+     "คลิปใช้คำเชื่อมขัดแย้งกี่คำ",
+     "However ต่างจาก but ตรงตำแหน่งอย่างไร",
+     "แต่งประโยคด้วย although 1 ประโยค"
+    ]
+   }
+  },
+  {
+   "id": "SnVnj6CeU18",
+   "topic": "or",
+   "lang": "th",
+   "title": "whether ใช้ยังไง เอาแบบที่ออกข้อสอบบ่อย",
+   "channel": "nuienglish",
+   "duration": "4:27",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "whether",
+      "…หรือไม่"
+     ],
+     [
+      "or not",
+      "หรือไม่"
+     ],
+     [
+      "noun clause",
+      "ประโยคทำหน้าที่คำนาม"
+     ],
+     [
+      "doubt",
+      "ความสงสัย"
+     ],
+     [
+      "wonder",
+      "สงสัย"
+     ]
+    ],
+    "questions": [
+     "whether ใช้หลังคำกริยาอะไรบ้าง",
+     "whether กับ if ต่างกันอย่างไรในข้อสอบ",
+     "I am not sure ___ he will come. เติมอะไร"
+    ]
+   }
+  },
+  {
+   "id": "eD712si9NNk",
+   "topic": "or",
+   "lang": "en",
+   "title": "Whoever vs Whatever vs Whenever vs Wherever - English In A Minute",
+   "channel": "BBC Learning English",
+   "duration": "1:03",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "whoever",
+      "ใครก็ตาม"
+     ],
+     [
+      "whatever",
+      "อะไรก็ตาม"
+     ],
+     [
+      "whenever",
+      "เมื่อไรก็ตาม"
+     ],
+     [
+      "wherever",
+      "ที่ไหนก็ตาม"
+     ],
+     [
+      "no matter",
+      "ไม่ว่า"
+     ]
+    ],
+    "questions": [
+     "-ever แต่ละคำแทนอะไร (คน/สิ่ง/เวลา/ที่)",
+     "___ you go, I will follow. เติมอะไร",
+     "ยกตัวอย่างประโยค whenever ของตัวเอง"
+    ]
+   }
+  },
+  {
+   "id": "fUsh_t6C2hE",
+   "topic": "relative",
+   "lang": "th",
+   "title": "who whom whose which that ใช้ยังไง | ติว Tuesday",
+   "channel": "เรียนเหอะ อยากสอน",
+   "duration": "6:10",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "relative pronoun",
+      "คำสรรพนามเชื่อม"
+     ],
+     [
+      "whom",
+      "ที่ (คน, กรรม)"
+     ],
+     [
+      "whose",
+      "ของใคร"
+     ],
+     [
+      "which",
+      "ที่ (สิ่งของ)"
+     ],
+     [
+      "antecedent",
+      "คำนามที่ถูกขยาย"
+     ]
+    ],
+    "questions": [
+     "whose ต้องตามด้วยอะไร",
+     "หลัง comma ใช้ that ได้ไหม",
+     "ทำด่าน L11 ข้อที่มี whose อีกครั้ง"
+    ]
+   }
+  },
+  {
+   "id": "kB2z9L5w7ho",
+   "topic": "relative",
+   "lang": "en",
+   "title": "How to use relative clauses - a Mini English Lesson",
+   "channel": "British Council | English",
+   "duration": "2:27",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "relative clause",
+      "อนุประโยคขยาย"
+     ],
+     [
+      "defining",
+      "ขยายเจาะจง (ไม่มี comma)"
+     ],
+     [
+      "non-defining",
+      "ขยายเสริม (มี comma)"
+     ],
+     [
+      "comma",
+      "จุลภาค"
+     ],
+     [
+      "extra information",
+      "ข้อมูลเพิ่มเติม"
+     ]
+    ],
+    "questions": [
+     "defining กับ non-defining ต่างกันอย่างไร",
+     "ทำไมหลัง comma ใช้ that ไม่ได้",
+     "แต่งประโยคแนะนำครูคนโปรดด้วย who"
+    ]
+   }
+  },
+  {
+   "id": "Fi7YfbwNW7A",
+   "topic": "passive",
+   "lang": "th",
+   "title": "สรุปและสอนเทคนิคจำ Passive Voice เข้าใจง่ายใน 5 นาที",
+   "channel": "KruP’ONE English",
+   "duration": "4:43",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "passive voice",
+      "ประโยคถูกกระทำ"
+     ],
+     [
+      "active voice",
+      "ประโยคกระทำ"
+     ],
+     [
+      "past participle",
+      "กริยาช่อง 3"
+     ],
+     [
+      "by",
+      "โดย"
+     ],
+     [
+      "subject",
+      "ประธาน"
+     ]
+    ],
+    "questions": [
+     "สูตร passive คืออะไร",
+     "จะรู้ได้อย่างไรว่าประธาน \"ถูก\" กระทำ",
+     "เปลี่ยน Workers built the bridge เป็น passive"
+    ]
+   }
+  },
+  {
+   "id": "4xS2BgkjsFg",
+   "topic": "passive",
+   "lang": "en",
+   "title": "Active and Passive Voice | Learn English | EasyTeaching",
+   "channel": "EasyTeaching",
+   "duration": "6:46",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "active",
+      "ประธานเป็นผู้ทำ"
+     ],
+     [
+      "passive",
+      "ประธานเป็นผู้ถูกทำ"
+     ],
+     [
+      "doer",
+      "ผู้กระทำ"
+     ],
+     [
+      "receiver",
+      "ผู้ถูกกระทำ"
+     ],
+     [
+      "sentence",
+      "ประโยค"
+     ]
+    ],
+    "questions": [
+     "คลิปยกตัวอย่าง passive อะไรบ้าง",
+     "เมื่อไรเราไม่ต้องบอกว่าใครทำ",
+     "หาประโยค passive ในบทอ่าน R08"
+    ]
+   }
+  },
+  {
+   "id": "SbQan3IYLog",
+   "topic": "wordform",
+   "lang": "th",
+   "title": "ครูดิวติว Grammar: สรุป Part of Speech คืออะไร มีอะไรบ้าง",
+   "channel": "KruDew English Official",
+   "duration": "12:28",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "part of speech",
+      "ชนิดของคำ"
+     ],
+     [
+      "noun",
+      "คำนาม"
+     ],
+     [
+      "adjective",
+      "คุณศัพท์"
+     ],
+     [
+      "adverb",
+      "กริยาวิเศษณ์"
+     ],
+     [
+      "suffix",
+      "คำลงท้าย"
+     ]
+    ],
+    "questions": [
+     "คำลงท้าย -ly มักเป็นคำชนิดไหน",
+     "หน้าคำนามต้องเป็นคำชนิดไหน",
+     "ยกตัวอย่างคำลงท้าย -tion 3 คำ"
+    ]
+   }
+  },
+  {
+   "id": "2VVwQvCtW_M",
+   "topic": "wordform",
+   "lang": "en",
+   "title": "Noun - Verb - Adjective - Adverb Word Forms 2",
+   "channel": "GrammarBank",
+   "duration": "4:43",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "word form",
+      "รูปคำ"
+     ],
+     [
+      "root",
+      "รากศัพท์"
+     ],
+     [
+      "noun",
+      "คำนาม"
+     ],
+     [
+      "verb",
+      "กริยา"
+     ],
+     [
+      "adverb",
+      "กริยาวิเศษณ์"
+     ]
+    ],
+    "questions": [
+     "คลิปเปลี่ยนรากคำเดียวเป็นกี่ชนิด",
+     "success เป็น adjective คือคำไหน",
+     "เล่นมินิเกม Word-form slot หลังดู"
+    ]
+   }
+  },
+  {
+   "id": "m-F9zbFh73o",
+   "topic": "gerund",
+   "lang": "th",
+   "title": "เทคนิคแกรมมาร์ - Gerunds VS Infinitives",
+   "channel": "ครูหวาน: English On Air",
+   "duration": "4:39",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "gerund",
+      "V-ing เป็นคำนาม"
+     ],
+     [
+      "infinitive",
+      "to + V1"
+     ],
+     [
+      "enjoy",
+      "สนุกกับ"
+     ],
+     [
+      "decide",
+      "ตัดสินใจ"
+     ],
+     [
+      "preposition",
+      "บุพบท"
+     ]
+    ],
+    "questions": [
+     "กริยาตัวไหนตามด้วย V-ing",
+     "หลังบุพบทใช้รูปไหน",
+     "look forward to ___ (see) เติมอะไร"
+    ]
+   }
+  },
+  {
+   "id": "-s1gu725tA4",
+   "topic": "gerund",
+   "lang": "en",
+   "title": "Gerunds & Infinitives – English Grammar Lessons",
+   "channel": "Ellii (formerly ESL Library)",
+   "duration": "7:29",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "gerund",
+      "V-ing"
+     ],
+     [
+      "infinitive",
+      "to V"
+     ],
+     [
+      "avoid",
+      "หลีกเลี่ยง"
+     ],
+     [
+      "promise",
+      "สัญญา"
+     ],
+     [
+      "stop",
+      "หยุด/เลิก"
+     ]
+    ],
+    "questions": [
+     "stop smoking กับ stop to smoke ต่างกันอย่างไร",
+     "กริยา 3 ตัวที่ตามด้วย to V คืออะไร",
+     "ทำด่าน L14 โจทย์พลิก"
+    ]
+   }
+  },
+  {
+   "id": "EH1hX1jht0E",
+   "topic": "modal",
+   "lang": "th",
+   "title": "should have / could have / would have ใช้พูดถึงอดีตที่ไม่เกิดขึ้นจริง",
+   "channel": "We Mahidol",
+   "duration": "6:18",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "should have",
+      "น่าจะ…(แต่ไม่ได้ทำ)"
+     ],
+     [
+      "could have",
+      "…ได้ (แต่ไม่ได้ทำ)"
+     ],
+     [
+      "would have",
+      "คง… (ถ้า…)"
+     ],
+     [
+      "regret",
+      "เสียดาย"
+     ],
+     [
+      "past",
+      "อดีต"
+     ]
+    ],
+    "questions": [
+     "should have ใช้แสดงความรู้สึกอะไร",
+     "could have ต่างจาก should have อย่างไร",
+     "แต่งประโยค I should have … เกี่ยวกับตัวเอง"
+    ]
+   }
+  },
+  {
+   "id": "hBogiz8JWWo",
+   "topic": "modal",
+   "lang": "en",
+   "title": "An Introduction to Past Modals: must have, should have, would have, and could have",
+   "channel": "Learn English with Bob the Canadian",
+   "duration": "5:27",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "must have",
+      "คง…แน่ ๆ"
+     ],
+     [
+      "might have",
+      "อาจจะ…"
+     ],
+     [
+      "past modal",
+      "modal ในอดีต"
+     ],
+     [
+      "guess",
+      "เดา"
+     ],
+     [
+      "certain",
+      "แน่ใจ"
+     ]
+    ],
+    "questions": [
+     "must have ใช้เมื่อเรามั่นใจแค่ไหน",
+     "ตัวอย่างในคลิปเรื่องอะไร",
+     "The ground is wet. It ___ rained. เติมอะไร"
+    ]
+   }
+  },
+  {
+   "id": "DveSSAtlrPA",
+   "topic": "conditional",
+   "lang": "th",
+   "title": "if-clause 4 แบบ",
+   "channel": "ครูกี๋ Vanilla English Channel",
+   "duration": "6:18",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "if-clause",
+      "ประโยคเงื่อนไข"
+     ],
+     [
+      "zero conditional",
+      "ความจริงทั่วไป"
+     ],
+     [
+      "unreal",
+      "ไม่จริง/สมมุติ"
+     ],
+     [
+      "would",
+      "จะ (สมมุติ)"
+     ],
+     [
+      "had + V3",
+      "อดีตสมมุติ"
+     ]
+    ],
+    "questions": [
+     "if แบบที่ 2 ใช้กริยารูปไหน",
+     "If I ___ you (be) เติมอะไร",
+     "if แบบที่ 3 ใช้พูดถึงอะไร"
+    ]
+   }
+  },
+  {
+   "id": "1pzIZhySTGM",
+   "topic": "conditional",
+   "lang": "en",
+   "title": "Conditionals in English | Zero, First, Second & Third Explained!",
+   "channel": "English Teacher Claire",
+   "duration": "7:06",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "conditional",
+      "เงื่อนไข"
+     ],
+     [
+      "likely",
+      "เป็นไปได้"
+     ],
+     [
+      "imaginary",
+      "จินตนาการ"
+     ],
+     [
+      "result",
+      "ผลลัพธ์"
+     ],
+     [
+      "unless",
+      "ถ้าไม่"
+     ]
+    ],
+    "questions": [
+     "แบบที่ 1 กับ 2 ต่างกันที่ความเป็นไปได้อย่างไร",
+     "ตัวอย่าง third conditional ในคลิปคืออะไร",
+     "แต่ง If I had more time, I would …"
+    ]
+   }
+  },
+  {
+   "id": "XwAZCwTXG3U",
+   "topic": "parallel",
+   "lang": "th",
+   "title": "Parallel Structure: โครงสร้างคู่ขนานในภาษาอังกฤษ",
+   "channel": "CyberLifeCafe",
+   "duration": "14:10",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "parallel",
+      "คู่ขนาน"
+     ],
+     [
+      "and / or / but",
+      "คำเชื่อมคู่"
+     ],
+     [
+      "not only…but also",
+      "ไม่เพียงแต่…แต่ยัง"
+     ],
+     [
+      "list",
+      "รายการ"
+     ],
+     [
+      "form",
+      "รูปคำ"
+     ]
+    ],
+    "questions": [
+     "ทำไมรายการหลัง and ต้องรูปเดียวกัน",
+     "not only … but also ต้องขนานอย่างไร",
+     "แก้ประโยค I like swimming and to read"
+    ]
+   }
+  },
+  {
+   "id": "fojkyh3qfHI",
+   "topic": "parallel",
+   "lang": "en",
+   "title": "PARALLEL STRUCTURE | English Lesson",
+   "channel": "Kevin Spaans",
+   "duration": "5:28",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "parallel structure",
+      "โครงสร้างคู่ขนาน"
+     ],
+     [
+      "consistent",
+      "สม่ำเสมอ/เหมือนกัน"
+     ],
+     [
+      "gerund",
+      "V-ing"
+     ],
+     [
+      "infinitive",
+      "to V"
+     ],
+     [
+      "series",
+      "ลำดับรายการ"
+     ]
+    ],
+    "questions": [
+     "ตัวอย่างประโยคผิดในคลิปคืออะไร",
+     "แก้ให้ถูกได้อย่างไร",
+     "ทำด่าน L17 แล้วจับเวลาตัวเอง"
+    ]
+   }
+  },
+  {
+   "id": "aBAJN4rB0yM",
+   "topic": "fixed",
+   "lang": "th",
+   "title": "so...that / such...that ใช้อย่างไร",
+   "channel": "Grammar School",
+   "duration": "5:52",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "so … that",
+      "…มากจน…"
+     ],
+     [
+      "such … that",
+      "…มากจน… (มีคำนาม)"
+     ],
+     [
+      "result",
+      "ผลลัพธ์"
+     ],
+     [
+      "adjective",
+      "คุณศัพท์"
+     ],
+     [
+      "noun",
+      "คำนาม"
+     ]
+    ],
+    "questions": [
+     "so กับ such ตามด้วยอะไรต่างกัน",
+     "It was ___ a hot day that… เติมอะไร",
+     "แต่งประโยค so…that เกี่ยวกับตัวเอง"
+    ]
+   }
+  },
+  {
+   "id": "sqNHDxk5P4w",
+   "topic": "fixed",
+   "lang": "en",
+   "title": "How to use intensifiers: so & such - a Mini English Lesson",
+   "channel": "British Council | English",
+   "duration": "1:13",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "intensifier",
+      "คำเน้น"
+     ],
+     [
+      "so",
+      "มาก (+adj)"
+     ],
+     [
+      "such",
+      "มาก (+คำนาม)"
+     ],
+     [
+      "emphasis",
+      "การเน้น"
+     ],
+     [
+      "phrase",
+      "วลี"
+     ]
+    ],
+    "questions": [
+     "คลิปยกตัวอย่าง so กับ such อย่างไร",
+     "such a ใช้กับคำนามแบบไหน",
+     "ไปทำด่าน L18 ข้อ so/such"
+    ]
+   }
+  },
+  {
+   "id": "uvhKwm-k8R0",
+   "topic": "vocab",
+   "lang": "th",
+   "title": "EP.19 | แปลไม่ออก บริบทช่วยได้ เทคนิคเดาศัพท์จาก Context ที่ควรรู้",
+   "channel": "Netflix Thailand",
+   "duration": "13:46",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "context",
+      "บริบท"
+     ],
+     [
+      "clue",
+      "เบาะแส"
+     ],
+     [
+      "guess",
+      "เดา"
+     ],
+     [
+      "meaning",
+      "ความหมาย"
+     ],
+     [
+      "sentence",
+      "ประโยค"
+     ]
+    ],
+    "questions": [
+     "เบาะแสจากบริบทมีกี่แบบในคลิป",
+     "ลองเดาความหมายคำหนึ่งจากซับในคลิป",
+     "ทำด่าน L20 แล้วนับว่าเดาถูกกี่ข้อ"
+    ]
+   }
+  },
+  {
+   "id": "CiNggzdWkIo",
+   "topic": "vocab",
+   "lang": "en",
+   "title": "Using context clues to figure out new words | Reading | Khan Academy",
+   "channel": "Khan Academy",
+   "duration": "4:47",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "context clue",
+      "เบาะแสจากบริบท"
+     ],
+     [
+      "figure out",
+      "หาคำตอบ/เข้าใจ"
+     ],
+     [
+      "unfamiliar",
+      "ไม่คุ้นเคย"
+     ],
+     [
+      "synonym",
+      "คำพ้องความหมาย"
+     ],
+     [
+      "antonym",
+      "คำตรงข้าม"
+     ]
+    ],
+    "questions": [
+     "คลิปแนะนำให้ดูอะไรรอบคำที่ไม่รู้",
+     "คำตรงข้ามช่วยเดาศัพท์ได้อย่างไร",
+     "หาคำที่ไม่รู้ 1 คำในบทอ่าน R06 แล้วเดาความหมาย"
+    ]
+   }
+  },
+  {
+   "id": "EUd1MsT1pRo",
+   "topic": "inference",
+   "lang": "th",
+   "title": "อ่านไม่รู้เรื่อง แต่ตอบได้!! IELTS Reading 9.0",
+   "channel": "Mr.Phoops",
+   "duration": "10:04",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "skim",
+      "อ่านกวาด"
+     ],
+     [
+      "scan",
+      "อ่านหาข้อมูลเฉพาะ"
+     ],
+     [
+      "keyword",
+      "คำสำคัญ"
+     ],
+     [
+      "paraphrase",
+      "ถอดความ"
+     ],
+     [
+      "evidence",
+      "หลักฐาน"
+     ]
+    ],
+    "questions": [
+     "skim กับ scan ต่างกันอย่างไร",
+     "ทำไมต้องหาหลักฐานในบทความก่อนตอบ",
+     "ลองใช้เทคนิคนี้ทำบทอ่านใน mock ชุดถัดไป"
+    ]
+   }
+  },
+  {
+   "id": "Fu2gUTrd4Ow",
+   "topic": "inference",
+   "lang": "en",
+   "title": "How to make inferences | Reading | Khan Academy",
+   "channel": "Khan Academy",
+   "duration": "3:55",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "inference",
+      "การอนุมาน"
+     ],
+     [
+      "evidence",
+      "หลักฐาน"
+     ],
+     [
+      "clue",
+      "เบาะแส"
+     ],
+     [
+      "conclusion",
+      "ข้อสรุป"
+     ],
+     [
+      "text",
+      "ข้อความ"
+     ]
+    ],
+    "questions": [
+     "inference = หลักฐาน + อะไร",
+     "ตัวอย่างในคลิปคืออะไร",
+     "ทำด่าน L22 ข้อ \"If … had not\" อีกครั้ง"
+    ]
+   }
+  },
+  {
+   "id": "3XB9c_AeSK4",
+   "topic": "conj",
+   "lang": "en",
+   "title": "How to use ALTHOUGH, DESPITE and HOWEVER",
+   "channel": "Go 4 English!",
+   "duration": "4:44",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "although",
+      "ถึงแม้ว่า"
+     ],
+     [
+      "despite",
+      "ทั้งที่"
+     ],
+     [
+      "however",
+      "อย่างไรก็ตาม"
+     ],
+     [
+      "sentence",
+      "ประโยค"
+     ],
+     [
+      "punctuation",
+      "เครื่องหมายวรรคตอน"
+     ]
+    ],
+    "questions": [
+     "However ใช้ comma อย่างไร",
+     "Despite ตามด้วยอะไร",
+     "แต่ง 3 ประโยคด้วยคำทั้งสาม"
+    ]
+   }
+  },
+  {
+   "id": "Klnroe1UBRs",
+   "topic": "or",
+   "lang": "en",
+   "title": "Grammar: How to use IF & WHETHER properly",
+   "channel": "Adam’s English Lessons · engVid",
+   "duration": "6:58",
+   "checked": "2026-11-12",
+   "notes_th": {
+    "vocab": [
+     [
+      "if",
+      "ถ้า / หรือไม่"
+     ],
+     [
+      "whether",
+      "หรือไม่"
+     ],
+     [
+      "or not",
+      "หรือไม่"
+     ],
+     [
+      "preposition",
+      "บุพบท"
+     ],
+     [
+      "formal",
+      "ทางการ"
+     ]
+    ],
+    "questions": [
+     "หลังบุพบทใช้ if หรือ whether",
+     "whether … or not วางตรงไหนได้บ้าง",
+     "I asked ___ she was coming. เติมอะไรได้บ้าง"
+    ]
+   }
+  }
+ ]
+}

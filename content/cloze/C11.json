@@ -1,0 +1,209 @@
+{
+ "id": "C11",
+ "title": "Our School Garden",
+ "genre": "ชีวิตนักเรียน",
+ "level": "B1",
+ "text": "Our school has a small garden (1) students grow vegetables. The idea came from Ms. Nida, a science teacher (2) grew up on a farm. She believed that students (3) learn by doing remember more. The garden, (4) was built three years ago, now produces enough vegetables for the school canteen once a week.\nEach class looks after a different area. My class grows tomatoes, (5) need a lot of sun. The student (6) tomatoes grow the biggest wins a small prize every term. Last year the prize went to Beam, (7) father is a farmer. (8) I like most about the garden is the quiet morning time (9) we water the plants before class. It is a place (10) I always feel calm before a busy day.",
+ "items": [
+  {
+   "id": "C11-1",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(1) Our school has a small garden ___ students grow vegetables.",
+   "options": [
+    "which",
+    "who",
+    "where",
+    "what"
+   ],
+   "answer": 2,
+   "explanation_th": "ขยายสถานที่ และข้างหลังครบประโยค → where",
+   "why_wrong": [
+    "which ใช้เมื่อข้างหลังขาดประธาน/กรรม",
+    "who ใช้กับคน",
+    null,
+    "what ไม่ขยายคำนามข้างหน้า"
+   ]
+  },
+  {
+   "id": "C11-2",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(2) Nida, a science teacher ___ grew up on a farm.",
+   "options": [
+    "who",
+    "which",
+    "whose",
+    "where"
+   ],
+   "answer": 0,
+   "explanation_th": "ขยายคน + ประธานของ grew up → who",
+   "why_wrong": [
+    null,
+    "which ใช้กับสิ่งของ",
+    "whose ต้องตามด้วยคำนาม",
+    "where ใช้กับสถานที่"
+   ]
+  },
+  {
+   "id": "C11-3",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(3) She believed that students ___ learn by doing remember more.",
+   "options": [
+    "which",
+    "whose",
+    "where",
+    "who"
+   ],
+   "answer": 3,
+   "explanation_th": "ขยาย students (คน) + ประธานของ learn → who",
+   "why_wrong": [
+    "which ใช้กับสิ่งของ",
+    "whose ต้องตามด้วยคำนาม",
+    "where ใช้กับสถานที่",
+    null
+   ]
+  },
+  {
+   "id": "C11-4",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(4) The garden, ___ was built three years ago, now produces enough vegetables for the school canteen once a week.",
+   "options": [
+    "that",
+    "which",
+    "what",
+    "where"
+   ],
+   "answer": 1,
+   "explanation_th": "ขยายสิ่ง หลัง comma + ประธานของ was built → which",
+   "why_wrong": [
+    "หลัง comma ใช้ that ไม่ได้",
+    null,
+    "what ไม่ขยายคำนามข้างหน้า",
+    "where ใช้เมื่อข้างหลังครบประโยค"
+   ]
+  },
+  {
+   "id": "C11-5",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(5) My class grows tomatoes, ___ need a lot of sun.",
+   "options": [
+    "that",
+    "who",
+    "where",
+    "which"
+   ],
+   "answer": 3,
+   "explanation_th": "ขยาย tomatoes หลัง comma + ประธานของ need → which",
+   "why_wrong": [
+    "หลัง comma ใช้ that ไม่ได้",
+    "who ใช้กับคน",
+    "where ใช้กับสถานที่",
+    null
+   ]
+  },
+  {
+   "id": "C11-6",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(6) The student ___ tomatoes grow the biggest wins a small prize every term.",
+   "options": [
+    "whose",
+    "who",
+    "which",
+    "that"
+   ],
+   "answer": 0,
+   "explanation_th": "มะเขือเทศของนักเรียน → whose tomatoes",
+   "why_wrong": [
+    null,
+    "who tomatoes ผิด",
+    "which ใช้กับสิ่งของ",
+    "that tomatoes ผิด"
+   ]
+  },
+  {
+   "id": "C11-7",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(7) Last year the prize went to Beam, ___ father is a farmer.",
+   "options": [
+    "who",
+    "whose",
+    "which",
+    "whom"
+   ],
+   "answer": 1,
+   "explanation_th": "พ่อของบีม → whose father",
+   "why_wrong": [
+    "who father ผิด",
+    null,
+    "which ใช้กับสิ่งของ",
+    "whom father ผิด"
+   ]
+  },
+  {
+   "id": "C11-8",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(8) ___ I like most about the garden is the quiet morning time … we water the plants before class.",
+   "options": [
+    "That",
+    "Which",
+    "What",
+    "Where"
+   ],
+   "answer": 2,
+   "explanation_th": "ไม่มีคำนามข้างหน้า \"สิ่งที่ฉันชอบที่สุด\" → What",
+   "why_wrong": [
+    "That ไม่ทำหน้าที่ \"สิ่งที่\" ตรงนี้",
+    "Which ต้องมีคำนามให้ขยาย",
+    null,
+    "Where ใช้กับสถานที่"
+   ]
+  },
+  {
+   "id": "C11-9",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(9) … I like most about the garden is the quiet morning time ___ we water the plants before class.",
+   "options": [
+    "which",
+    "when",
+    "what",
+    "whose"
+   ],
+   "answer": 1,
+   "explanation_th": "ขยายเวลา (the quiet morning time) และข้างหลังครบประโยค → when",
+   "why_wrong": [
+    "which ใช้เมื่อข้างหลังขาดประธาน/กรรม",
+    null,
+    "what ไม่ขยายคำนามข้างหน้า",
+    "whose ต้องตามด้วยคำนาม"
+   ]
+  },
+  {
+   "id": "C11-10",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(10) It is a place ___ I always feel calm before a busy day.",
+   "options": [
+    "where",
+    "which",
+    "what",
+    "who"
+   ],
+   "answer": 0,
+   "explanation_th": "ขยายสถานที่ (a place) และข้างหลังครบ (I feel calm) → where",
+   "why_wrong": [
+    null,
+    "which ใช้เมื่อข้างหลังขาดประธาน/กรรม",
+    "what ไม่ขยายคำนามข้างหน้า",
+    "who ใช้กับคน"
+   ]
+  }
+ ]
+}

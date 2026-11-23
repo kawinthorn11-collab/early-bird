@@ -1,0 +1,688 @@
+{
+ "id": "L11",
+ "phase": 2,
+ "skill": "g.relative",
+ "title_th": "who / which / that / where / whose / what",
+ "title_en": "Relative clauses",
+ "villain": "boo",
+ "hook": {
+  "beats": [
+   {
+    "say": "ปิ๊ปอยากบอกว่า ผู้ชายคนที่อยู่ข้างบ้านเป็นหมอ",
+    "anim": "enter",
+    "board": "The man ___ lives next door is a doctor."
+   },
+   {
+    "say": "บูมาแล้ว! ใส่ which ไปเลย ใครจะรู้!",
+    "actor": "villain",
+    "anim": "shake",
+    "board": "which??"
+   },
+   {
+    "say": "ดูคำนามข้างหน้าช่องก่อน The man เป็นคน",
+    "anim": "think",
+    "board": "คน → who"
+   },
+   {
+    "say": "คนใช้ who สิ่งของใช้ which สถานที่ใช้ where และของใครใช้ whose",
+    "anim": "jump",
+    "board": "who · which · where · whose"
+   },
+   {
+    "say": "ถ้าข้างหน้าไม่มีคำนามเลย และแปลว่า สิ่งที่ ให้ใช้ what",
+    "anim": "zap",
+    "board": "What he said was true."
+   },
+   {
+    "say": "บู้ว ข้าชี้ผิดตัวไม่ได้อีกแล้ว",
+    "actor": "villain",
+    "anim": "swap"
+   }
+  ]
+ },
+ "discover": {
+  "examples": [
+   "The girl **who** won the prize is my cousin.",
+   "The bag **which** I bought is red.",
+   "This is the café **where** we met.",
+   "I have a friend **whose** father is a pilot."
+  ],
+  "question_th": "เลือก who / which / where / whose จากอะไร?",
+  "options_th": [
+   "ดูคำนามข้างหน้า (คน / สิ่ง / สถานที่) และดูว่าข้างหลังขาดอะไร",
+   "ดูว่าประโยคยาวแค่ไหน",
+   "ดูว่าเป็นอดีตหรือปัจจุบัน",
+   "ใช้แทนกันได้หมด"
+  ],
+  "answer": 0,
+  "reveal_th": "who = คน (ประธาน), whom = คน (กรรม), which = สิ่งของ, that = คนหรือสิ่ง (ห้ามใช้หลัง comma), where = สถานที่ (ข้างหลังครบประโยคแล้ว), when = เวลา, whose + คำนาม = ของใคร, what = สิ่งที่ (ไม่มีคำนามข้างหน้า)"
+ },
+ "rule": {
+  "line_th": "ดูคำนามข้างหน้า: คน → who/whom · สิ่ง → which/that · สถานที่ → where · เวลา → when · ของใคร → whose + นาม · ไม่มีคำนามข้างหน้า → what",
+  "memory_th": "🔗 ตะขอเกี่ยว: relative pronoun คือตะขอที่เกี่ยวประโยคเล็กเข้ากับคำนามข้างหน้า ถ้าไม่มีคำนามให้เกี่ยว ต้องใช้ what · หลัง comma ห้ามใช้ that",
+  "terms": [
+   [
+    "relative clause",
+    "อนุประโยคขยายคำนาม"
+   ],
+   [
+    "antecedent",
+    "คำนามที่ถูกขยาย"
+   ],
+   [
+    "non-defining",
+    "ส่วนขยายเสริม (มี comma)"
+   ],
+   [
+    "possessive",
+    "ความเป็นเจ้าของ"
+   ]
+  ]
+ },
+ "speak": [
+  "The girl who won the prize is my cousin.",
+  "This is the café where we first met.",
+  "I have a friend whose father is a pilot."
+ ],
+ "twists": [
+  {
+   "id": "L11-t1",
+   "skill": "g.relative",
+   "type": "error",
+   "parts": [
+    "Bangkok,",
+    "that",
+    "is the capital of Thailand,",
+    "is very hot."
+   ],
+   "answer": 1,
+   "explanation_th": "หลัง comma (ส่วนขยายเสริม) ใช้ that ไม่ได้ ต้องเป็น which",
+   "why_wrong": [
+    "Bangkok ถูกแล้ว",
+    null,
+    "ถูกแล้ว",
+    "ถูกแล้ว"
+   ]
+  },
+  {
+   "id": "L11-t2",
+   "skill": "g.relative",
+   "type": "fill",
+   "stem": "The student ___ phone rang during the exam was very embarrassed.",
+   "accept": [
+    "whose"
+   ],
+   "hint_th": "โทรศัพท์ \"ของ\" นักเรียนคนนั้น",
+   "explanation_th": "whose + คำนาม = ของใคร"
+  },
+  {
+   "id": "L11-t3",
+   "skill": "g.relative",
+   "type": "order",
+   "words": [
+    "That",
+    "is",
+    "the",
+    "hospital",
+    "where",
+    "I",
+    "was",
+    "born."
+   ],
+   "explanation_th": "where ขยายสถานที่ (the hospital) และข้างหลังครบประโยค"
+  },
+  {
+   "id": "L11-t4",
+   "skill": "g.relative",
+   "type": "match",
+   "prompt_th": "เลือก relative pronoun",
+   "pairs": [
+    [
+     "the teacher ___ helped me",
+     "who"
+    ],
+    [
+     "the book ___ I read",
+     "which"
+    ],
+    [
+     "the town ___ I grew up",
+     "where"
+    ],
+    [
+     "the man ___ car was stolen",
+     "whose"
+    ]
+   ],
+   "explanation_th": "คน who · สิ่ง which · ที่ where · ของใคร whose"
+  }
+ ],
+ "questions": [
+  {
+   "id": "L11-01",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "The man ___ lives next door is a doctor.",
+   "options": [
+    "which",
+    "who",
+    "where",
+    "whose"
+   ],
+   "answer": 1,
+   "explanation_th": "ขยายคน (The man) และเป็นประธานของ lives → who",
+   "why_wrong": [
+    "which ใช้กับสิ่งของ",
+    null,
+    "where ใช้กับสถานที่",
+    "whose ต้องตามด้วยคำนาม"
+   ]
+  },
+  {
+   "id": "L11-02",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "This is the book ___ I told you about.",
+   "options": [
+    "who",
+    "where",
+    "which",
+    "whose"
+   ],
+   "answer": 2,
+   "explanation_th": "ขยายสิ่งของ (the book) → which",
+   "why_wrong": [
+    "who ใช้กับคน",
+    "where ใช้กับสถานที่",
+    null,
+    "whose ต้องตามด้วยคำนาม"
+   ]
+  },
+  {
+   "id": "L11-03",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "That's the school ___ I studied as a child.",
+   "options": [
+    "which",
+    "who",
+    "what",
+    "where"
+   ],
+   "answer": 3,
+   "explanation_th": "ขยายสถานที่ และข้างหลังครบประโยค (I studied) → where",
+   "why_wrong": [
+    "which ต้องมี in (in which) หรือข้างหลังต้องขาดกรรม",
+    "who ใช้กับคน",
+    "what ไม่ขยายคำนามข้างหน้า",
+    null
+   ]
+  },
+  {
+   "id": "L11-04",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "I have a friend ___ father is a pilot.",
+   "options": [
+    "whose",
+    "who",
+    "which",
+    "whom"
+   ],
+   "answer": 0,
+   "explanation_th": "พ่อของเพื่อน → whose + father",
+   "why_wrong": [
+    null,
+    "who father ผิด ต้องบอกความเป็นเจ้าของ",
+    "which ใช้กับสิ่งของ",
+    "whom เป็นกรรม ไม่บอกเจ้าของ"
+   ]
+  },
+  {
+   "id": "L11-05",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "___ he said made everyone laugh.",
+   "options": [
+    "That",
+    "What",
+    "Which",
+    "Who"
+   ],
+   "answer": 1,
+   "explanation_th": "ไม่มีคำนามข้างหน้า แปลว่า \"สิ่งที่เขาพูด\" → What",
+   "why_wrong": [
+    "That he said ไม่ทำหน้าที่ \"สิ่งที่\"",
+    null,
+    "Which ต้องมีคำนามให้ขยาย",
+    "Who ใช้กับคน"
+   ]
+  },
+  {
+   "id": "L11-06",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Bangkok, ___ is the capital of Thailand, is very hot.",
+   "options": [
+    "that",
+    "what",
+    "which",
+    "who"
+   ],
+   "answer": 2,
+   "explanation_th": "ขยายสถานที่ที่เป็นประธาน หลัง comma → which",
+   "why_wrong": [
+    "หลัง comma ใช้ that ไม่ได้",
+    "what ไม่ขยายคำนามข้างหน้า",
+    null,
+    "who ใช้กับคน"
+   ]
+  },
+  {
+   "id": "L11-07",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "I will never forget the day ___ we first met.",
+   "options": [
+    "where",
+    "which",
+    "what",
+    "when"
+   ],
+   "answer": 3,
+   "explanation_th": "ขยายเวลา (the day) และข้างหลังครบประโยค → when",
+   "why_wrong": [
+    "where ใช้กับสถานที่",
+    "which ต้องมี on (on which)",
+    "what ไม่ขยายคำนามข้างหน้า",
+    null
+   ]
+  },
+  {
+   "id": "L11-08",
+   "skill": "g.relative",
+   "difficulty": 3,
+   "stage": 1,
+   "stem": "The girl ___ I met at the camp is from Japan.",
+   "options": [
+    "whom",
+    "whose",
+    "which",
+    "where"
+   ],
+   "answer": 0,
+   "explanation_th": "ขยายคน และเป็นกรรมของ met → whom (หรือ who/that)",
+   "why_wrong": [
+    null,
+    "whose ต้องตามด้วยคำนาม",
+    "which ใช้กับสิ่งของ",
+    "where ใช้กับสถานที่"
+   ]
+  },
+  {
+   "id": "L11-09",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Do you know the reason ___ he left so early?",
+   "options": [
+    "which",
+    "why",
+    "what",
+    "where"
+   ],
+   "answer": 1,
+   "explanation_th": "the reason why = เหตุผลที่…",
+   "why_wrong": [
+    "which ต้องมี for (for which)",
+    null,
+    "what ไม่ขยายคำนามข้างหน้า",
+    "where ใช้กับสถานที่"
+   ]
+  },
+  {
+   "id": "L11-10",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "My mother, ___ is a nurse, often works at night.",
+   "options": [
+    "that",
+    "which",
+    "who",
+    "whom"
+   ],
+   "answer": 2,
+   "explanation_th": "ขยายคน (My mother) หลัง comma และเป็นประธาน → who",
+   "why_wrong": [
+    "หลัง comma ใช้ that ไม่ได้",
+    "which ใช้กับสิ่งของ",
+    null,
+    "whom ใช้ในตำแหน่งกรรม"
+   ]
+  },
+  {
+   "id": "L11-11",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "The cake ___ she made for my birthday was delicious.",
+   "options": [
+    "what",
+    "who",
+    "where",
+    "that"
+   ],
+   "answer": 3,
+   "explanation_th": "ขยายสิ่งของ (The cake) ไม่มี comma → that (หรือ which)",
+   "why_wrong": [
+    "what ไม่ขยายคำนามข้างหน้า",
+    "who ใช้กับคน",
+    "where ใช้กับสถานที่",
+    null
+   ]
+  },
+  {
+   "id": "L11-12",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "I'm sorry, but I don't understand ___ you mean.",
+   "options": [
+    "what",
+    "which",
+    "that",
+    "who"
+   ],
+   "answer": 0,
+   "explanation_th": "ไม่มีคำนามข้างหน้า \"สิ่งที่คุณหมายถึง\" → what",
+   "why_wrong": [
+    null,
+    "which ต้องมีคำนามให้ขยาย",
+    "that ไม่ทำหน้าที่ \"สิ่งที่\"",
+    "who ใช้กับคน"
+   ]
+  },
+  {
+   "id": "L11-13",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "The hotel ___ we stayed was right next to the beach.",
+   "options": [
+    "which",
+    "where",
+    "what",
+    "who"
+   ],
+   "answer": 1,
+   "explanation_th": "ขยายสถานที่ และข้างหลังครบ (we stayed) → where",
+   "why_wrong": [
+    "which ต้องเป็น in which หรือ stayed at",
+    null,
+    "what ไม่ขยายคำนามข้างหน้า",
+    "who ใช้กับคน"
+   ]
+  },
+  {
+   "id": "L11-14",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Students ___ homework is late will lose points.",
+   "options": [
+    "who",
+    "which",
+    "whose",
+    "that"
+   ],
+   "answer": 2,
+   "explanation_th": "การบ้านของนักเรียน → whose homework",
+   "why_wrong": [
+    "who homework ผิด",
+    "which ใช้กับสิ่งของ",
+    null,
+    "that homework ผิด"
+   ]
+  },
+  {
+   "id": "L11-15",
+   "skill": "g.relative",
+   "difficulty": 3,
+   "stage": 1,
+   "stem": "This is the most beautiful place ___ I have ever visited.",
+   "options": [
+    "where",
+    "what",
+    "who",
+    "that"
+   ],
+   "answer": 3,
+   "explanation_th": "visit ต้องมีกรรม ช่องนี้แทนกรรม (place) → that (ไม่ใช่ where)",
+   "why_wrong": [
+    "where ใช้เมื่อข้างหลังครบแล้ว แต่ visited ยังขาดกรรม",
+    "what ไม่ขยายคำนามข้างหน้า",
+    "who ใช้กับคน",
+    null
+   ]
+  },
+  {
+   "id": "L11-16",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "Last week I met an old woman at the market. The woman ___ sells flowers there is ninety years old!",
+   "options": [
+    "who",
+    "which",
+    "whose",
+    "what"
+   ],
+   "answer": 0,
+   "explanation_th": "ขยายคน + ประธานของ sells → who",
+   "why_wrong": [
+    null,
+    "which ใช้กับสิ่งของ",
+    "whose ต้องตามด้วยคำนาม",
+    "what ไม่ขยายคำนามข้างหน้า"
+   ]
+  },
+  {
+   "id": "L11-17",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Our school has a new library. The library, ___ opened last month, has over ten thousand books.",
+   "options": [
+    "that",
+    "which",
+    "what",
+    "where"
+   ],
+   "answer": 1,
+   "explanation_th": "ขยายสิ่ง หลัง comma และเป็นประธานของ opened → which",
+   "why_wrong": [
+    "หลัง comma ใช้ that ไม่ได้",
+    null,
+    "what ไม่ขยายคำนามข้างหน้า",
+    "where ใช้เมื่อข้างหลังครบประโยค แต่นี่ขาดประธาน"
+   ]
+  },
+  {
+   "id": "L11-18",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Last weekend we visited Ayutthaya, ___ there are many old temples and ruins.",
+   "options": [
+    "which",
+    "that",
+    "where",
+    "what"
+   ],
+   "answer": 2,
+   "explanation_th": "ขยายสถานที่ และข้างหลังครบประโยค (there are…) → where",
+   "why_wrong": [
+    "which ไม่ใช้เมื่อข้างหลังครบประโยค",
+    "that ใช้หลัง comma ไม่ได้",
+    null,
+    "what ไม่ขยายคำนามข้างหน้า"
+   ]
+  },
+  {
+   "id": "L11-19",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Everyone loves Mr. Somsak. He is the teacher ___ classes are always full of laughter.",
+   "options": [
+    "who",
+    "which",
+    "whom",
+    "whose"
+   ],
+   "answer": 3,
+   "explanation_th": "ห้องเรียนของครู → whose classes",
+   "why_wrong": [
+    "who classes ผิด",
+    "which ใช้กับสิ่งของ",
+    "whom classes ผิด",
+    null
+   ]
+  },
+  {
+   "id": "L11-20",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "I was very sad yesterday. I lost the pen ___ my father gave me for my birthday.",
+   "options": [
+    "that",
+    "what",
+    "who",
+    "where"
+   ],
+   "answer": 0,
+   "explanation_th": "ขยายสิ่ง (the pen) ที่เป็นกรรมของ gave → that",
+   "why_wrong": [
+    null,
+    "what ไม่ขยายคำนามข้างหน้า",
+    "who ใช้กับคน",
+    "where ใช้กับสถานที่"
+   ]
+  },
+  {
+   "id": "L11-21",
+   "skill": "g.relative",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "The patient had a strange fever. The doctor did not know ___ was wrong with her, so he sent her for more tests.",
+   "options": [
+    "which",
+    "what",
+    "that",
+    "who"
+   ],
+   "answer": 1,
+   "explanation_th": "ไม่มีคำนามข้างหน้า \"อะไรที่ผิดปกติ\" → what",
+   "why_wrong": [
+    "which ต้องมีคำนามให้ขยาย",
+    null,
+    "that ไม่ทำหน้าที่ \"สิ่งที่\" ในตำแหน่งนี้",
+    "who ใช้กับคน"
+   ]
+  },
+  {
+   "id": "L11-22",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Songkran is my favorite festival. It is the time of year ___ families come together.",
+   "options": [
+    "which",
+    "where",
+    "when",
+    "what"
+   ],
+   "answer": 2,
+   "explanation_th": "ขยายเวลา (the time) และข้างหลังครบประโยค → when",
+   "why_wrong": [
+    "which ใช้เมื่อข้างหลังขาดประธาน/กรรม",
+    "where ใช้กับสถานที่",
+    null,
+    "what ไม่ขยายคำนามข้างหน้า"
+   ]
+  },
+  {
+   "id": "L11-23",
+   "skill": "g.relative",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "Forty students joined the trip. The students, most of ___ were tired, went to bed early.",
+   "options": [
+    "who",
+    "them",
+    "which",
+    "whom"
+   ],
+   "answer": 3,
+   "explanation_th": "หลังบุพบท (most of) และหมายถึงคน → whom",
+   "why_wrong": [
+    "หลังบุพบทใช้ who ไม่ได้",
+    "them ทำให้เป็นสองประโยคที่ไม่มีคำเชื่อม",
+    "which ใช้กับสิ่งของ",
+    null
+   ]
+  },
+  {
+   "id": "L11-24",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "My uncle owns a small restaurant ___ serves the best green curry in town.",
+   "options": [
+    "which",
+    "where",
+    "what",
+    "who"
+   ],
+   "answer": 0,
+   "explanation_th": "ขยายสิ่ง (a restaurant) และเป็นประธานของ serves → which",
+   "why_wrong": [
+    null,
+    "where ใช้เมื่อข้างหลังครบ แต่นี่ขาดประธาน",
+    "what ไม่ขยายคำนามข้างหน้า",
+    "who ใช้กับคน"
+   ]
+  },
+  {
+   "id": "L11-25",
+   "skill": "g.relative",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "Good leaders care about everyone. A country ___ leaders ignore the poor will not develop well.",
+   "options": [
+    "which",
+    "whose",
+    "where",
+    "who"
+   ],
+   "answer": 1,
+   "explanation_th": "ผู้นำของประเทศ → whose leaders",
+   "why_wrong": [
+    "which leaders ผิดความหมาย",
+    null,
+    "where ไม่บอกความเป็นเจ้าของ",
+    "who ใช้กับคน"
+   ]
+  }
+ ],
+ "cloze": "C11"
+}

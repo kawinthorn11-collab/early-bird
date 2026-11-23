@@ -1,0 +1,209 @@
+{
+ "id": "C24",
+ "title": "The Night Market",
+ "genre": "เรื่องเล่า",
+ "level": "B1",
+ "text": "The Riverside Night Market is (1) busiest market in our town. It (2) by a group of young farmers five years ago, and now more than 200 stalls sell food, clothes and handmade gifts. My favourite stall is the one (3) sells grilled corn with butter. The owner, Uncle Chai, is very (4). He always gives children an extra piece for free.\nLast Saturday, I went there with my cousins. While we (5) for our corn, it started to rain heavily. Uncle Chai invited us to stand under (6) big umbrella, and he told us funny stories (7) the rain stopped. My cousin asked him how long he (8) at the market. He laughed and said, \"Since the very first night!\"\nIf you (9) our town, you should try his corn. Each of the stalls (10) something special, but his corn is the best.",
+ "items": [
+  {
+   "id": "C24-1",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stem": "(1) The Riverside Night Market is ___ busiest market in our town.",
+   "options": [
+    "a",
+    "an",
+    "some",
+    "the"
+   ],
+   "answer": 3,
+   "explanation_th": "หน้าขั้นสุด (busiest) ใช้ the",
+   "why_wrong": [
+    "ขั้นสุดใช้ a ไม่ได้",
+    "ขั้นสุดใช้ an ไม่ได้",
+    "some ใช้กับขั้นสุดเอกพจน์ไม่ได้",
+    null
+   ]
+  },
+  {
+   "id": "C24-2",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stem": "(2) It ___ by a group of young farmers five years ago.",
+   "options": [
+    "started",
+    "was started",
+    "has started",
+    "is starting"
+   ],
+   "answer": 1,
+   "explanation_th": "ตลาดถูกเริ่มโดยกลุ่มเกษตรกร + five years ago → was started",
+   "why_wrong": [
+    "started by ใช้เป็นกริยาแท้ไม่ได้ (ตลาดไม่ได้เริ่มเอง)",
+    null,
+    "has started ใช้กับ five years ago ไม่ได้ และไม่ใช่ passive",
+    "ผิดทั้งเวลาและความหมาย"
+   ]
+  },
+  {
+   "id": "C24-3",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(3) My favourite stall is the one ___ sells grilled corn with butter.",
+   "options": [
+    "that",
+    "who",
+    "where",
+    "what"
+   ],
+   "answer": 0,
+   "explanation_th": "ขยาย the one (ร้าน) และเป็นประธานของ sells → that",
+   "why_wrong": [
+    null,
+    "who ใช้กับคน แต่ the one ในที่นี้คือร้าน",
+    "where ต้องตามด้วยประธาน แต่ช่องนี้ต้องเป็นประธานของ sells เอง",
+    "what ใช้ขยายคำนามข้างหน้าไม่ได้"
+   ]
+  },
+  {
+   "id": "C24-4",
+   "skill": "g.wordform",
+   "difficulty": 1,
+   "stem": "(4) The owner, Uncle Chai, is very ___.",
+   "options": [
+    "generously",
+    "generosity",
+    "generous",
+    "generosities"
+   ],
+   "answer": 2,
+   "explanation_th": "หลัง is very ต้องใช้คำคุณศัพท์ → generous (ใจดี มีน้ำใจ)",
+   "why_wrong": [
+    "generously เป็นคำกริยาวิเศษณ์ ใช้หลัง is ไม่ได้",
+    "generosity เป็นคำนาม very generosity ผิด",
+    null,
+    "เป็นคำนามพหูพจน์ ใช้หลัง is very ไม่ได้"
+   ]
+  },
+  {
+   "id": "C24-5",
+   "skill": "g.tense-past",
+   "difficulty": 2,
+   "stem": "(5) While we ___ for our corn, it started to rain heavily.",
+   "options": [
+    "are waiting",
+    "were waiting",
+    "have waited",
+    "was waiting"
+   ],
+   "answer": 1,
+   "explanation_th": "กำลังรออยู่ แล้วฝนตกขัดขึ้นมา + we → were waiting",
+   "why_wrong": [
+    "are waiting เป็นปัจจุบัน แต่เรื่องเล่าเป็นอดีต",
+    null,
+    "have waited ไม่ใช้ในเรื่องเล่าอดีตแบบนี้",
+    "we ใช้ were ไม่ใช่ was"
+   ]
+  },
+  {
+   "id": "C24-6",
+   "skill": "g.pronoun",
+   "difficulty": 1,
+   "stem": "(6) Uncle Chai invited us to stand under ___ big umbrella.",
+   "options": [
+    "him",
+    "he",
+    "himself",
+    "his"
+   ],
+   "answer": 3,
+   "explanation_th": "ร่มของลุงชัย (แสดงความเป็นเจ้าของหน้าคำนาม) → his",
+   "why_wrong": [
+    "him เป็นกรรม ใช้หน้าคำนามไม่ได้",
+    "he เป็นประธาน ใช้หน้าคำนามไม่ได้",
+    "himself ใช้หน้าคำนามไม่ได้",
+    null
+   ]
+  },
+  {
+   "id": "C24-7",
+   "skill": "g.preposition",
+   "difficulty": 2,
+   "stem": "(7) He told us funny stories ___ the rain stopped.",
+   "options": [
+    "until",
+    "during",
+    "by",
+    "for"
+   ],
+   "answer": 0,
+   "explanation_th": "เล่าเรื่องไปเรื่อย ๆ จนกระทั่งฝนหยุด → until (ตามด้วยประโยคได้)",
+   "why_wrong": [
+    null,
+    "during ตามด้วยคำนาม ไม่ใช่ประโยค (the rain stopped)",
+    "by = ภายใน ไม่ได้บอกว่าทำต่อเนื่องจนถึงเมื่อไหร่",
+    "for ตามด้วยช่วงเวลา ไม่ใช่ประโยค"
+   ]
+  },
+  {
+   "id": "C24-8",
+   "skill": "g.reported",
+   "difficulty": 2,
+   "stem": "(8) My cousin asked him how long he ___ at the market.",
+   "options": [
+    "did he work",
+    "has he worked",
+    "had worked",
+    "had he worked"
+   ],
+   "answer": 2,
+   "explanation_th": "คำถามที่เล่าต่อเรียงแบบบอกเล่า: how long + ประธาน + กริยา และ tense ถอย → had worked",
+   "why_wrong": [
+    "ห้ามใช้รูปคำถามใน reported question",
+    "ห้ามสลับกริยาช่วยมาไว้หน้าประธาน",
+    null,
+    "ห้ามสลับ had มาไว้หน้าประธาน"
+   ]
+  },
+  {
+   "id": "C24-9",
+   "skill": "g.conditional",
+   "difficulty": 1,
+   "stem": "(9) If you ___ our town, you should try his corn.",
+   "options": [
+    "will visit",
+    "visited",
+    "would visit",
+    "visit"
+   ],
+   "answer": 3,
+   "explanation_th": "If แบบที่ 1 (เป็นไปได้จริง) → If + ปัจจุบัน → visit",
+   "why_wrong": [
+    "หลัง if ห้ามใช้ will",
+    "visited ใช้กับ If แบบที่ 2 ซึ่งไม่เข้ากับ you should try",
+    "หลัง if ไม่ใช้ would",
+    null
+   ]
+  },
+  {
+   "id": "C24-10",
+   "skill": "g.agreement",
+   "difficulty": 2,
+   "stem": "(10) Each of the stalls ___ something special.",
+   "options": [
+    "have",
+    "has",
+    "having",
+    "are having"
+   ],
+   "answer": 1,
+   "explanation_th": "ประธานคือ Each (แต่ละร้าน) เป็นเอกพจน์ → has",
+   "why_wrong": [
+    "Each เป็นเอกพจน์ ใช้ have ไม่ได้ (อย่าดู stalls)",
+    null,
+    "having เป็นกริยาแท้ไม่ได้",
+    "have ที่แปลว่ามี ไม่ใช้รูป -ing และ Each ใช้ is"
+   ]
+  }
+ ]
+}

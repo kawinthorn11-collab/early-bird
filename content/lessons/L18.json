@@ -1,0 +1,687 @@
+{
+ "id": "L18",
+ "phase": 2,
+ "skill": "g.fixed",
+ "title_th": "โครงสร้างตายตัว (สำนวนที่ต้องจำทั้งก้อน)",
+ "title_en": "Fixed expressions",
+ "villain": "prepo",
+ "hook": {
+  "beats": [
+   {
+    "say": "ปิ๊ปอ่านบทความความคิดเห็นของคุณครู",
+    "anim": "enter",
+    "board": "___ I am concerned, the plan is good."
+   },
+   {
+    "say": "เพรโปมาแล้ว! As long as ก็ได้ As soon as ก็ได้ เลือกเลย!",
+    "actor": "villain",
+    "anim": "shake",
+    "board": "As long as? As soon as?"
+   },
+   {
+    "say": "บางวลีต้องจำทั้งก้อน เปลี่ยนคำเดียวความหมายเปลี่ยนเลย",
+    "anim": "think",
+    "board": "จำเป็นก้อน"
+   },
+   {
+    "say": "As far as I am concerned แปลว่า สำหรับฉันแล้ว",
+    "anim": "jump",
+    "board": "As far as I am concerned…"
+   },
+   {
+    "say": "As long as แปลว่า ตราบใดที่ As soon as แปลว่า ทันทีที่",
+    "anim": "zap",
+    "board": "as long as = ตราบใดที่ · as soon as = ทันทีที่"
+   },
+   {
+    "say": "ก้ามข้าหนีบสำนวนไม่ได้แล้ว!",
+    "actor": "villain",
+    "anim": "swap"
+   }
+  ]
+ },
+ "discover": {
+  "examples": [
+   "**As far as** I am concerned, the test was fair.",
+   "You can go out **as long as** you finish your homework.",
+   "It was **so** hot **that** we stayed inside.",
+   "It was **such** a hot day **that** we stayed inside."
+  ],
+  "question_th": "so กับ such ต่างกันอย่างไร?",
+  "options_th": [
+   "so + adjective / such + (a) + adjective + คำนาม",
+   "so ใช้กับอดีต such ใช้กับปัจจุบัน",
+   "such แปลว่าเพราะ",
+   "ใช้แทนกันได้"
+  ],
+  "answer": 0,
+  "reveal_th": "จำเป็นก้อน: as far as … is concerned (สำหรับ…) · as long as (ตราบใดที่) · as soon as (ทันทีที่) · as well as (และยัง) · so + adj + that · such + (a) adj + N + that · in order to · according to · on the other hand · as a result · instead of · in case of · had better + V1 · would rather + V1 · used to + V1"
+ },
+ "rule": {
+  "line_th": "สำนวนตายตัวต้องจำทั้งก้อนพร้อมความหมาย — ข้อสอบชอบใส่ตัวลวงที่หน้าตาคล้ายกัน (as far as / as long as / as soon as / as well as)",
+  "memory_th": "🧱 ตัวต่อเลโก้: สำนวนเป็นก้อนสำเร็จรูป แกะเปลี่ยนชิ้นไม่ได้ — ทำการ์ด \"as ___ as\" สี่ใบแล้วท่องความหมาย",
+  "terms": [
+   [
+    "fixed expression",
+    "สำนวนตายตัว"
+   ],
+   [
+    "as far as … is concerned",
+    "สำหรับ…แล้ว"
+   ],
+   [
+    "as long as",
+    "ตราบใดที่"
+   ],
+   [
+    "as well as",
+    "และยัง/รวมถึง"
+   ]
+  ]
+ },
+ "speak": [
+  "As far as I am concerned, hard work is the key to success.",
+  "You can borrow my bike as long as you bring it back.",
+  "It was such a hot day that we stayed inside."
+ ],
+ "twists": [
+  {
+   "id": "L18-t1",
+   "skill": "g.fixed",
+   "type": "error",
+   "parts": [
+    "It was",
+    "so",
+    "a beautiful day",
+    "that we went to the beach."
+   ],
+   "answer": 1,
+   "explanation_th": "หน้า a + adj + คำนาม ใช้ such (such a beautiful day)",
+   "why_wrong": [
+    "ถูกแล้ว",
+    null,
+    "ถูกแล้ว",
+    "ถูกแล้ว"
+   ]
+  },
+  {
+   "id": "L18-t2",
+   "skill": "g.fixed",
+   "type": "fill",
+   "stem": "___ to the news, the bridge will open next month.",
+   "accept": [
+    "According"
+   ],
+   "hint_th": "ตามที่… (อ้างแหล่งข่าว)",
+   "explanation_th": "According to = ตามที่…"
+  },
+  {
+   "id": "L18-t3",
+   "skill": "g.fixed",
+   "type": "order",
+   "words": [
+    "Call",
+    "me",
+    "as",
+    "soon",
+    "as",
+    "you",
+    "arrive."
+   ],
+   "explanation_th": "as soon as = ทันทีที่"
+  },
+  {
+   "id": "L18-t4",
+   "skill": "g.fixed",
+   "type": "match",
+   "prompt_th": "จับคู่สำนวนกับความหมาย",
+   "pairs": [
+    [
+     "as far as I am concerned",
+     "สำหรับฉันแล้ว"
+    ],
+    [
+     "as long as",
+     "ตราบใดที่"
+    ],
+    [
+     "as soon as",
+     "ทันทีที่"
+    ],
+    [
+     "as well as",
+     "และยัง/รวมถึง"
+    ]
+   ],
+   "explanation_th": "สี่สำนวน as … as ที่ข้อสอบชอบหลอก"
+  }
+ ],
+ "questions": [
+  {
+   "id": "L18-01",
+   "skill": "g.fixed",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "___ I am concerned, the new rule is unfair.",
+   "options": [
+    "As long as",
+    "As far as",
+    "As well as",
+    "As soon as"
+   ],
+   "answer": 1,
+   "explanation_th": "As far as I am concerned = สำหรับฉันแล้ว",
+   "why_wrong": [
+    "As long as = ตราบใดที่ ความหมายผิด",
+    null,
+    "As well as = และยัง",
+    "As soon as = ทันทีที่"
+   ]
+  },
+  {
+   "id": "L18-02",
+   "skill": "g.fixed",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "It was ___ a hot day that we stayed inside all afternoon.",
+   "options": [
+    "so",
+    "too",
+    "such",
+    "very"
+   ],
+   "answer": 2,
+   "explanation_th": "such + a + adj + คำนาม + that",
+   "why_wrong": [
+    "so ใช้กับ adjective ไม่มีคำนาม",
+    "too ไม่ใช้กับ that แบบนี้",
+    null,
+    "very ไม่ใช้กับ that"
+   ]
+  },
+  {
+   "id": "L18-03",
+   "skill": "g.fixed",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "The film was ___ boring that I left before the end.",
+   "options": [
+    "such",
+    "too",
+    "very",
+    "so"
+   ],
+   "answer": 3,
+   "explanation_th": "so + adj + that",
+   "why_wrong": [
+    "such ต้องมีคำนาม",
+    "too ไม่ใช้กับ that",
+    "very ไม่ใช้กับ that",
+    null
+   ]
+  },
+  {
+   "id": "L18-04",
+   "skill": "g.fixed",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "You can borrow my bike ___ you bring it back by six.",
+   "options": [
+    "as long as",
+    "as far as",
+    "as well as",
+    "as soon as"
+   ],
+   "answer": 0,
+   "explanation_th": "as long as = ตราบใดที่ (เงื่อนไข)",
+   "why_wrong": [
+    null,
+    "as far as = เท่าที่/สำหรับ",
+    "as well as = และยัง",
+    "as soon as = ทันทีที่"
+   ]
+  },
+  {
+   "id": "L18-05",
+   "skill": "g.fixed",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "She saved money for a year ___ buy a laptop.",
+   "options": [
+    "so that",
+    "in order to",
+    "because of",
+    "in spite of"
+   ],
+   "answer": 1,
+   "explanation_th": "in order to + V1 = เพื่อที่จะ",
+   "why_wrong": [
+    "so that ต้องตามด้วยประโยค (so that she could buy)",
+    null,
+    "because of + คำนาม",
+    "in spite of + คำนาม"
+   ]
+  },
+  {
+   "id": "L18-06",
+   "skill": "g.fixed",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "___ the weather report, it will rain tomorrow afternoon.",
+   "options": [
+    "Because of",
+    "In spite of",
+    "According to",
+    "Instead of"
+   ],
+   "answer": 2,
+   "explanation_th": "According to = ตามที่ (รายงาน) บอก",
+   "why_wrong": [
+    "Because of = เพราะ ความหมายผิด",
+    "In spite of = ทั้งที่",
+    null,
+    "Instead of = แทนที่จะ"
+   ]
+  },
+  {
+   "id": "L18-07",
+   "skill": "g.fixed",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "That cough sounds bad. You ___ see a doctor.",
+   "options": [
+    "would rather",
+    "used to",
+    "are used to",
+    "had better"
+   ],
+   "answer": 3,
+   "explanation_th": "had better + V1 = ควรจะ (คำแนะนำ)",
+   "why_wrong": [
+    "would rather = อยากจะ…มากกว่า ความหมายไม่เข้า",
+    "used to = เคย",
+    "are used to + V-ing = เคยชิน",
+    null
+   ]
+  },
+  {
+   "id": "L18-08",
+   "skill": "g.fixed",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "I'm tired. I'd rather ___ at home tonight.",
+   "options": [
+    "stay",
+    "to stay",
+    "staying",
+    "stayed"
+   ],
+   "answer": 0,
+   "explanation_th": "would rather + V1 → \"stay\"",
+   "why_wrong": [
+    null,
+    "would rather ไม่ตามด้วย to",
+    "ไม่ตามด้วย V-ing",
+    "ไม่ตามด้วย V2 ในความหมายนี้"
+   ]
+  },
+  {
+   "id": "L18-09",
+   "skill": "g.fixed",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "Mei Lin speaks Chinese ___ English and Thai.",
+   "options": [
+    "as far as",
+    "as well as",
+    "as long as",
+    "as soon as"
+   ],
+   "answer": 1,
+   "explanation_th": "as well as = และยัง/รวมถึง",
+   "why_wrong": [
+    "as far as ความหมายผิด",
+    null,
+    "as long as = ตราบใดที่",
+    "as soon as = ทันทีที่"
+   ]
+  },
+  {
+   "id": "L18-10",
+   "skill": "g.fixed",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "I ___ live in the countryside, but now I live in Bangkok.",
+   "options": [
+    "am used to",
+    "use to",
+    "used to",
+    "was used to"
+   ],
+   "answer": 2,
+   "explanation_th": "used to + V1 = เคย (ตอนนี้ไม่แล้ว)",
+   "why_wrong": [
+    "am used to + V-ing = เคยชิน",
+    "use to ผิดรูป",
+    null,
+    "was used to ผิดโครงสร้าง"
+   ]
+  },
+  {
+   "id": "L18-11",
+   "skill": "g.fixed",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "City life is noisy. ___ the other hand, it is very exciting.",
+   "options": [
+    "In",
+    "At",
+    "By",
+    "On"
+   ],
+   "answer": 3,
+   "explanation_th": "On the other hand = ในทางกลับกัน",
+   "why_wrong": [
+    "In the other hand ผิด",
+    "At the other hand ผิด",
+    "By the other hand ผิด",
+    null
+   ]
+  },
+  {
+   "id": "L18-12",
+   "skill": "g.fixed",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "The bus was late. ___ a result, I missed the first class.",
+   "options": [
+    "As",
+    "In",
+    "For",
+    "By"
+   ],
+   "answer": 0,
+   "explanation_th": "As a result = ผลคือ",
+   "why_wrong": [
+    null,
+    "In a result ผิด",
+    "For a result ผิด",
+    "By a result ผิด"
+   ]
+  },
+  {
+   "id": "L18-13",
+   "skill": "g.fixed",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "___ of studying, he played games all night.",
+   "options": [
+    "Because",
+    "Instead",
+    "Despite",
+    "Although"
+   ],
+   "answer": 1,
+   "explanation_th": "Instead of + V-ing = แทนที่จะ",
+   "why_wrong": [
+    "Because of studying = เพราะเรียน ความหมายผิด",
+    null,
+    "Despite of ผิด (despite ไม่มี of)",
+    "Although of ผิด"
+   ]
+  },
+  {
+   "id": "L18-14",
+   "skill": "g.fixed",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "Please call me ___ soon as you arrive.",
+   "options": [
+    "so",
+    "such",
+    "as",
+    "too"
+   ],
+   "answer": 2,
+   "explanation_th": "as soon as = ทันทีที่",
+   "why_wrong": [
+    "so soon as ไม่ใช่รูปมาตรฐาน",
+    "such soon ผิด",
+    null,
+    "too soon as ผิด"
+   ]
+  },
+  {
+   "id": "L18-15",
+   "skill": "g.fixed",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "In ___ of fire, use the stairs, not the lift.",
+   "options": [
+    "order",
+    "spite",
+    "fact",
+    "case"
+   ],
+   "answer": 3,
+   "explanation_th": "In case of + คำนาม = ในกรณีที่เกิด…",
+   "why_wrong": [
+    "In order of ผิดความหมาย",
+    "In spite of = ทั้งที่",
+    "In fact of ผิด",
+    null
+   ]
+  },
+  {
+   "id": "L18-16",
+   "skill": "g.fixed",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Some students prefer online classes because they can study at home. ___, others prefer to study in a classroom with friends.",
+   "options": [
+    "On the other hand",
+    "As far as",
+    "In case",
+    "As long as"
+   ],
+   "answer": 0,
+   "explanation_th": "เปรียบอีกมุม → On the other hand",
+   "why_wrong": [
+    null,
+    "As far as ไม่ใช้แบบนี้",
+    "In case = เผื่อ",
+    "As long as = ตราบใดที่"
+   ]
+  },
+  {
+   "id": "L18-17",
+   "skill": "g.fixed",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "The first part of the test was ___ easy that everyone finished it in ten minutes.",
+   "options": [
+    "such",
+    "so",
+    "too",
+    "enough"
+   ],
+   "answer": 1,
+   "explanation_th": "so + adj + that",
+   "why_wrong": [
+    "such ต้องมีคำนาม",
+    null,
+    "too … that ผิด",
+    "enough … that ผิด"
+   ]
+  },
+  {
+   "id": "L18-18",
+   "skill": "g.fixed",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Many old people still prefer to pay with cash. ___ they are concerned, cards and apps are too difficult.",
+   "options": [
+    "As well as",
+    "As soon as",
+    "As far as",
+    "As long as"
+   ],
+   "answer": 2,
+   "explanation_th": "As far as they are concerned = สำหรับพวกเขาแล้ว",
+   "why_wrong": [
+    "As well as ความหมายผิด",
+    "As soon as ความหมายผิด",
+    null,
+    "As long as ความหมายผิด"
+   ]
+  },
+  {
+   "id": "L18-19",
+   "skill": "g.fixed",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "___ the heavy rain, the boat festival went ahead and thousands of people came.",
+   "options": [
+    "Instead of",
+    "Because of",
+    "According to",
+    "In spite of"
+   ],
+   "answer": 3,
+   "explanation_th": "ฝนตกหนักแต่จัดงานต่อ = ทั้งที่ → In spite of",
+   "why_wrong": [
+    "Instead of ความหมายผิด",
+    "Because of ความหมายกลับ",
+    "According to ความหมายผิด",
+    null
+   ]
+  },
+  {
+   "id": "L18-20",
+   "skill": "g.fixed",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "Our flight was at six in the morning. We left home at three ___ we would not miss it.",
+   "options": [
+    "so that",
+    "in order to",
+    "because of",
+    "such"
+   ],
+   "answer": 0,
+   "explanation_th": "so that + ประโยค = เพื่อที่ (ตามด้วยประโยค we would not…)",
+   "why_wrong": [
+    null,
+    "in order to ต้องตามด้วย V1 ไม่ใช่ประโยค",
+    "because of ต้องตามด้วยคำนาม",
+    "such ไม่ใช่คำเชื่อมจุดประสงค์"
+   ]
+  },
+  {
+   "id": "L18-21",
+   "skill": "g.fixed",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "The guest speaker was excellent. It was ___ an interesting talk that nobody looked at their phones.",
+   "options": [
+    "so",
+    "such",
+    "too",
+    "very"
+   ],
+   "answer": 1,
+   "explanation_th": "such + an + adj + คำนาม + that",
+   "why_wrong": [
+    "so ใช้กับ adj ไม่มีคำนาม",
+    null,
+    "too … that ผิด",
+    "very … that ผิด"
+   ]
+  },
+  {
+   "id": "L18-22",
+   "skill": "g.fixed",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "___ to a new survey, Thai teenagers spend about six hours a day online.",
+   "options": [
+    "Due",
+    "Thanks",
+    "According",
+    "Owing"
+   ],
+   "answer": 2,
+   "explanation_th": "According to = ตามที่ (ผลสำรวจ) ระบุ",
+   "why_wrong": [
+    "Due to = เนื่องจาก ความหมายผิด",
+    "Thanks to = ด้วยความช่วยเหลือของ ความหมายผิด",
+    null,
+    "Owing to = เนื่องจาก ความหมายผิด"
+   ]
+  },
+  {
+   "id": "L18-23",
+   "skill": "g.fixed",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "My brother is very careful with his things. He says I can use his laptop ___ I do not eat near it.",
+   "options": [
+    "as far as",
+    "as well as",
+    "as soon as",
+    "as long as"
+   ],
+   "answer": 3,
+   "explanation_th": "as long as = ตราบใดที่ (เงื่อนไข)",
+   "why_wrong": [
+    "as far as ความหมายผิด",
+    "as well as ความหมายผิด",
+    "as soon as ความหมายผิด",
+    null
+   ]
+  },
+  {
+   "id": "L18-24",
+   "skill": "g.fixed",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "It is 38 degrees and the bus is late again. I ___ walk than stand here in the sun.",
+   "options": [
+    "would rather",
+    "had better",
+    "used to",
+    "prefer"
+   ],
+   "answer": 0,
+   "explanation_th": "would rather … than = อยาก…มากกว่า",
+   "why_wrong": [
+    null,
+    "had better ไม่ใช้กับ than",
+    "used to ไม่ใช้กับ than",
+    "prefer walk than ผิดรูป (prefer to walk rather than)"
+   ]
+  },
+  {
+   "id": "L18-25",
+   "skill": "g.fixed",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "The new canteen is very popular. It serves Thai food ___ Japanese and Korean dishes.",
+   "options": [
+    "as long as",
+    "as well as",
+    "as far as",
+    "as soon as"
+   ],
+   "answer": 1,
+   "explanation_th": "as well as = รวมถึง/และยัง",
+   "why_wrong": [
+    "as long as ความหมายผิด",
+    null,
+    "as far as ความหมายผิด",
+    "as soon as ความหมายผิด"
+   ]
+  }
+ ],
+ "cloze": "C18"
+}

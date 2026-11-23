@@ -1,0 +1,209 @@
+{
+ "id": "C22",
+ "title": "Camp at Khao Yai",
+ "genre": "ชีวิตนักเรียน",
+ "level": "A2",
+ "text": "Hi Mint,\nGuess what? Our class (1) to a nature camp at Khao Yai next weekend. The teachers booked the bus last month. We will sleep in tents near a small lake (2) is famous for its birds. I have never slept in a tent before, (3) I am a little nervous. My dad says it (4) very cold at night, so I need to pack (5) warm clothes. When we (6) back on Sunday, I will send you lots of photos.\nLast year my brother went to the same camp, and he saw a wild elephant (7) the forest. (8) he was scared, he took a great photo of it. I am really looking forward to (9) up early and watching the sunrise. Call me tonight and I (10) tell you everything!\nLove,\nFai",
+ "items": [
+  {
+   "id": "C22-1",
+   "skill": "g.future",
+   "difficulty": 2,
+   "stem": "(1) Our class ___ to a nature camp at Khao Yai next weekend. The teachers booked the bus last month.",
+   "options": [
+    "went",
+    "has gone",
+    "is going",
+    "was going"
+   ],
+   "answer": 2,
+   "explanation_th": "จองรถแล้ว = นัดที่จัดไว้แล้ว + next weekend → is going",
+   "why_wrong": [
+    "went เป็นอดีต แต่ next weekend ยังไม่ถึง",
+    "has gone บอกว่าไปแล้ว ขัดกับ next weekend",
+    null,
+    "was going เป็นอดีต ไม่เข้ากับ next weekend"
+   ]
+  },
+  {
+   "id": "C22-2",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(2) We will sleep in tents near a small lake ___ is famous for its birds.",
+   "options": [
+    "which",
+    "who",
+    "where",
+    "what"
+   ],
+   "answer": 0,
+   "explanation_th": "ขยาย a small lake (สิ่งของ) และช่องนี้เป็นประธานของ is → which",
+   "why_wrong": [
+    null,
+    "who ใช้กับคน ไม่ใช้กับทะเลสาบ",
+    "where ต้องตามด้วยประโยคที่มีประธาน แต่ช่องนี้ต้องเป็นประธานของ is เอง",
+    "what ใช้ขยายคำนามข้างหน้าไม่ได้"
+   ]
+  },
+  {
+   "id": "C22-3",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stem": "(3) I have never slept in a tent before, ___ I am a little nervous.",
+   "options": [
+    "because",
+    "so",
+    "although",
+    "unless"
+   ],
+   "answer": 1,
+   "explanation_th": "ไม่เคยนอนเต็นท์ (เหตุ) จึงตื่นเต้น (ผล) → so",
+   "why_wrong": [
+    "because ต้องนำเหตุ แต่ส่วนหลังเป็นผล",
+    null,
+    "although ใช้กับเรื่องขัดกัน แต่สองส่วนนี้เป็นเหตุและผล",
+    "unless = ถ้าไม่ ไม่เข้ากับความหมาย"
+   ]
+  },
+  {
+   "id": "C22-4",
+   "skill": "g.future",
+   "difficulty": 2,
+   "stem": "(4) My dad says it ___ very cold at night.",
+   "options": [
+    "will is",
+    "is being",
+    "will being",
+    "will be"
+   ],
+   "answer": 3,
+   "explanation_th": "พ่อเดาอากาศในอนาคต → will be",
+   "why_wrong": [
+    "หลัง will ต้องเป็นกริยาช่องหนึ่ง be ไม่ใช่ is",
+    "is being ใช้บอกพฤติกรรมชั่วคราว ไม่ใช้บอกอากาศในอนาคต",
+    "หลัง will ไม่เติม -ing",
+    null
+   ]
+  },
+  {
+   "id": "C22-5",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stem": "(5) So I need to pack ___ warm clothes.",
+   "options": [
+    "some",
+    "a",
+    "an",
+    "much"
+   ],
+   "answer": 0,
+   "explanation_th": "clothes เป็นพหูพจน์ บอกจำนวนไม่เจาะจง → some",
+   "why_wrong": [
+    null,
+    "a ใช้กับคำนามเอกพจน์ แต่ clothes เป็นพหูพจน์",
+    "an ใช้กับคำนามเอกพจน์ที่ขึ้นต้นด้วยเสียงสระ",
+    "much ใช้กับคำนามนับไม่ได้ แต่ clothes นับได้"
+   ]
+  },
+  {
+   "id": "C22-6",
+   "skill": "g.future",
+   "difficulty": 1,
+   "stem": "(6) When we ___ back on Sunday, I will send you lots of photos.",
+   "options": [
+    "will get",
+    "got",
+    "get",
+    "are going to get"
+   ],
+   "answer": 2,
+   "explanation_th": "หลัง when ที่พูดถึงอนาคต ใช้ปัจจุบัน → get",
+   "why_wrong": [
+    "หลัง when ห้ามใช้ will",
+    "got เป็นอดีต แต่ยังไม่ได้กลับ",
+    null,
+    "หลัง when ใช้ปัจจุบันธรรมดา ไม่ใช้ going to"
+   ]
+  },
+  {
+   "id": "C22-7",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(7) He saw a wild elephant ___ the forest.",
+   "options": [
+    "on",
+    "in",
+    "of",
+    "to"
+   ],
+   "answer": 1,
+   "explanation_th": "อยู่ข้างในป่า → in the forest",
+   "why_wrong": [
+    "on = บนพื้นผิว ไม่ใช้กับป่า",
+    null,
+    "of = ของ ไม่บอกสถานที่",
+    "to บอกทิศทางไปหา ไม่บอกตำแหน่ง"
+   ]
+  },
+  {
+   "id": "C22-8",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stem": "(8) ___ he was scared, he took a great photo of it.",
+   "options": [
+    "Because",
+    "So",
+    "Unless",
+    "Although"
+   ],
+   "answer": 3,
+   "explanation_th": "กลัว แต่ก็ยังถ่ายรูป = ขัดกัน → Although",
+   "why_wrong": [
+    "because = เพราะ แต่ความกลัวไม่ใช่เหตุที่ทำให้ถ่ายรูปได้ดี",
+    "So ขึ้นต้นประโยคแบบนี้ไม่ได้ และเป็นเหตุผลไม่ใช่การขัดกัน",
+    "unless = ถ้าไม่ ไม่เข้ากับเรื่องที่เกิดไปแล้ว",
+    null
+   ]
+  },
+  {
+   "id": "C22-9",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(9) I am really looking forward to ___ up early and watching the sunrise.",
+   "options": [
+    "getting",
+    "get",
+    "got",
+    "gets"
+   ],
+   "answer": 0,
+   "explanation_th": "look forward to + V-ing (to เป็นบุพบท) และคู่กับ watching → getting",
+   "why_wrong": [
+    null,
+    "look forward to ตามด้วย V-ing ไม่ใช่กริยาช่องหนึ่ง",
+    "got เป็นอดีต ใช้หลัง to ไม่ได้",
+    "gets ใช้หลัง to ไม่ได้"
+   ]
+  },
+  {
+   "id": "C22-10",
+   "skill": "g.future",
+   "difficulty": 1,
+   "stem": "(10) Call me tonight and I ___ tell you everything!",
+   "options": [
+    "am",
+    "will",
+    "going",
+    "was"
+   ],
+   "answer": 1,
+   "explanation_th": "สัญญาว่าจะเล่าให้ฟัง → will tell",
+   "why_wrong": [
+    "I am tell ผิดรูป",
+    null,
+    "I going tell ผิดรูป ขาด am และ to",
+    "was ไม่บอกอนาคต และ was tell ผิดรูป"
+   ]
+  }
+ ]
+}

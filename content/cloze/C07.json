@@ -1,0 +1,209 @@
+{
+ "id": "C07",
+ "title": "How I Learned to Swim",
+ "genre": "เรื่องเล่า",
+ "level": "A2",
+ "text": "When I was ten, I was very afraid (1) water. My parents wanted me to learn (2) swim, so they sent me to a swimming class (3) the summer holidays. The class started (4) 8 a.m. every morning. Our teacher, Mr. Chai, was very patient (5) us.\nOn the first day, he asked us to sit (6) the edge of the pool and put our feet in the water. Slowly, I got used to it. Mr. Chai said, \"You can learn to float (7) relaxing your body.\" It sounded easy, but it took me two weeks!\n(8) the end of the course, I could swim ten meters (9) stopping. Now swimming is one of my favorite sports, and I go to the pool (10) Saturdays.",
+ "items": [
+  {
+   "id": "C07-1",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(1) When I was ten, I was very afraid ___ water.",
+   "options": [
+    "from",
+    "with",
+    "of",
+    "at"
+   ],
+   "answer": 2,
+   "explanation_th": "afraid of = กลัว",
+   "why_wrong": [
+    "ไม่ใช้ afraid from",
+    "ไม่ใช้ afraid with",
+    null,
+    "ไม่ใช้ afraid at"
+   ]
+  },
+  {
+   "id": "C07-2",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(2) My parents wanted me to learn ___ swim, so they sent me to a swimming class … the summer holidays.",
+   "options": [
+    "for",
+    "to",
+    "by",
+    "with"
+   ],
+   "answer": 1,
+   "explanation_th": "learn to + V1 = เรียนรู้ที่จะ…",
+   "why_wrong": [
+    "learn for swim ไม่มีในภาษาอังกฤษ",
+    null,
+    "learn by swim ผิดรูป",
+    "learn with swim ไม่มีความหมาย"
+   ]
+  },
+  {
+   "id": "C07-3",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(3) My parents wanted me to learn … swim, so they sent me to a swimming class ___ the summer holidays.",
+   "options": [
+    "while",
+    "since",
+    "during",
+    "at"
+   ],
+   "answer": 2,
+   "explanation_th": "ระหว่างช่วงเวลาที่เป็นคำนาม (the summer holidays) → during",
+   "why_wrong": [
+    "while ต้องตามด้วยประโยค",
+    "since + จุดเริ่ม",
+    null,
+    "at ใช้กับจุดเวลา"
+   ]
+  },
+  {
+   "id": "C07-4",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(4) The class started ___ 8 a.m.",
+   "options": [
+    "on",
+    "in",
+    "by",
+    "at"
+   ],
+   "answer": 3,
+   "explanation_th": "เวลาบนนาฬิกา → at 8 a.m.",
+   "why_wrong": [
+    "on ใช้กับวัน",
+    "in ใช้กับเดือน/ปี/ช่วงยาว",
+    "by 8 a.m. = ก่อน 8 โมง ความหมายเปลี่ยน",
+    null
+   ]
+  },
+  {
+   "id": "C07-5",
+   "skill": "g.preposition",
+   "difficulty": 2,
+   "stem": "(5) Chai, was very patient ___ us.",
+   "options": [
+    "with",
+    "to",
+    "for",
+    "on"
+   ],
+   "answer": 0,
+   "explanation_th": "patient with + คน = อดทนกับ…",
+   "why_wrong": [
+    null,
+    "ไม่ใช้ patient to",
+    "ไม่ใช้ patient for กับคน",
+    "ไม่ใช้ patient on"
+   ]
+  },
+  {
+   "id": "C07-6",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(6) On the first day, he asked us to sit ___ the edge of the pool and put our feet in the water.",
+   "options": [
+    "in",
+    "on",
+    "to",
+    "of"
+   ],
+   "answer": 1,
+   "explanation_th": "นั่งบนขอบสระ → sit on the edge",
+   "why_wrong": [
+    "sit in the edge ไม่ใช่สำนวน",
+    null,
+    "sit to ไม่มีความหมาย",
+    "sit of ไม่มีความหมาย"
+   ]
+  },
+  {
+   "id": "C07-7",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(7) Chai said, \"You can learn to float ___ relaxing your body.\"",
+   "options": [
+    "with",
+    "for",
+    "at",
+    "by"
+   ],
+   "answer": 3,
+   "explanation_th": "วิธีการ + V-ing → by relaxing",
+   "why_wrong": [
+    "with relaxing ไม่ใช้บอกวิธี",
+    "for relaxing = เพื่อพักผ่อน ความหมายผิด",
+    "at relaxing ไม่มีความหมาย",
+    null
+   ]
+  },
+  {
+   "id": "C07-8",
+   "skill": "g.preposition",
+   "difficulty": 2,
+   "stem": "(8) ___ the end of the course, I could swim ten meters … stopping.",
+   "options": [
+    "At",
+    "On",
+    "In",
+    "For"
+   ],
+   "answer": 0,
+   "explanation_th": "At the end of + ช่วงเวลา = ตอนท้ายของ…",
+   "why_wrong": [
+    null,
+    "On the end ใช้กับวัตถุ เช่น on the end of the stick",
+    "In the end (ไม่มี of) = ในที่สุด",
+    "For the end ไม่มีความหมาย"
+   ]
+  },
+  {
+   "id": "C07-9",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(9) … the end of the course, I could swim ten meters ___ stopping.",
+   "options": [
+    "with",
+    "without",
+    "for",
+    "by"
+   ],
+   "answer": 1,
+   "explanation_th": "ว่ายได้สิบเมตรโดยไม่หยุด → without stopping",
+   "why_wrong": [
+    "with stopping = แบบหยุด ความหมายกลับ",
+    null,
+    "for stopping = เพื่อหยุด",
+    "by stopping = ด้วยการหยุด ความหมายผิด"
+   ]
+  },
+  {
+   "id": "C07-10",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(10) Now swimming is one of my favorite sports, and I go to the pool ___ Saturdays.",
+   "options": [
+    "in",
+    "at",
+    "on",
+    "during"
+   ],
+   "answer": 2,
+   "explanation_th": "วันในสัปดาห์ → on Saturdays",
+   "why_wrong": [
+    "in ใช้กับเดือน/ปี",
+    "at ใช้กับเวลา",
+    null,
+    "during ใช้กับช่วงเหตุการณ์"
+   ]
+  }
+ ]
+}

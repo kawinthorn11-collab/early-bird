@@ -1,0 +1,538 @@
+{
+ "categories": [
+  {
+   "id": "intro",
+   "name_th": "แนะนำตัว"
+  },
+  {
+   "id": "faculty",
+   "name_th": "เอกที่เลือก (ภาษาอังกฤษ)"
+  },
+  {
+   "id": "strength",
+   "name_th": "จุดแข็ง / จุดอ่อน / ประสบการณ์"
+  },
+  {
+   "id": "goal",
+   "name_th": "เป้าหมายในอนาคต"
+  },
+  {
+   "id": "scenario",
+   "name_th": "สถานการณ์สมมติ"
+  },
+  {
+   "id": "personal",
+   "name_th": "ครอบครัว โรงเรียน งานอดิเรก"
+  },
+  {
+   "id": "ending",
+   "name_th": "ปิดท้ายคลาส"
+  }
+ ],
+ "questions": [
+  {
+   "id": "I01",
+   "cat": "intro",
+   "q": "Could you tell us a little about yourself?",
+   "q_th": "ช่วยเล่าเกี่ยวกับตัวเองสักหน่อยได้ไหม",
+   "follow": [
+    "What do you like to do in your free time?",
+    "What is your favorite subject at school?"
+   ],
+   "sample": "Good morning. My name is Mint, and I am a Grade 12 student at a school in Nonthaburi. I am in the science-math program. I am a calm and hard-working person. In my free time, I like reading and playing badminton with my friends.",
+   "frame": "My name is ___. I am a Grade 12 student at ___. I am a ___ person. In my free time, I like ___.",
+   "tip_th": "4 อย่าง: ชื่อ → โรงเรียน/สายการเรียน → นิสัย 1 คำ → งานอดิเรก 1 อย่าง พูดให้จบใน 30 วินาที"
+  },
+  {
+   "id": "I02",
+   "cat": "intro",
+   "q": "Please introduce yourself in thirty seconds.",
+   "q_th": "แนะนำตัวภายใน 30 วินาที",
+   "follow": [
+    "Why did you choose that program at school?"
+   ],
+   "sample": "Hello, my name is Mint. I am eighteen years old, and I study in Grade 12. I am going to study English at university. I am friendly and I never give up easily.",
+   "frame": "Hello, my name is ___. I am ___ years old. I am going to study ___ at university. I am ___.",
+   "tip_th": "ฝึกจับเวลาให้ได้ 25–30 วินาที อย่ารีบ ยิ้มตอนพูดชื่อ"
+  },
+  {
+   "id": "I03",
+   "cat": "intro",
+   "q": "Can you describe yourself in three words?",
+   "q_th": "อธิบายตัวเองด้วย 3 คำ",
+   "follow": [
+    "Can you give me an example of that?"
+   ],
+   "sample": "I would say I am responsible, curious and friendly. For example, I always finish my homework on time, and I like asking questions in class.",
+   "frame": "I would say I am ___, ___ and ___. For example, I ___.",
+   "tip_th": "เลือกคำที่มีตัวอย่างจริงรองรับ อาจารย์มักถามต่อว่า 'ยกตัวอย่างหน่อย'"
+  },
+  {
+   "id": "I04",
+   "cat": "intro",
+   "q": "How would your friends describe you?",
+   "q_th": "เพื่อน ๆ จะพูดถึงคุณว่าอย่างไร",
+   "follow": [
+    "Do you agree with them?"
+   ],
+   "sample": "My friends would say I am a good listener. When they have problems, they often come to talk to me. They also say I am a little shy at first, but I am fun when they know me.",
+   "frame": "My friends would say I am ___. When ___, they ___.",
+   "tip_th": "พูดข้อดี 1 อย่าง + ตัวอย่าง จะพูดข้อเสียเล็ก ๆ ด้วยก็ได้ ดูจริงใจ"
+  },
+  {
+   "id": "I05",
+   "cat": "intro",
+   "q": "What is something interesting about you that is not on your application?",
+   "q_th": "มีอะไรน่าสนใจเกี่ยวกับคุณที่ไม่อยู่ในใบสมัครไหม",
+   "follow": [
+    "How did you start doing that?"
+   ],
+   "sample": "Something interesting about me is that I can cook Thai desserts. My grandmother taught me when I was ten. Now I sometimes sell them to my classmates.",
+   "frame": "Something interesting about me is that I can ___. I started when ___.",
+   "tip_th": "เลือกเรื่องเล็ก ๆ ที่เป็นเรื่องจริงและเล่าได้ต่อ 2–3 ประโยค"
+  },
+  {
+   "id": "I06",
+   "cat": "intro",
+   "q": "Which school do you study at, and what program are you in?",
+   "q_th": "เรียนอยู่โรงเรียนอะไร สายอะไร",
+   "follow": [
+    "Do you like your school? Why?"
+   ],
+   "sample": "I study at a public school in Bangkok. I am in the English-math program. I chose this program because I like languages and numbers.",
+   "frame": "I study at ___. I am in the ___ program. I chose it because ___.",
+   "tip_th": "ตอบสั้น ตรง แล้วเพิ่ม 'เพราะอะไร' 1 ประโยค"
+  },
+  {
+   "id": "I13",
+   "cat": "faculty",
+   "q": "Why did you choose to study English?",
+   "q_th": "ทำไมเลือกเรียนเอกภาษาอังกฤษ",
+   "follow": [
+    "When did you become interested in it?",
+    "What do you think you will learn in the first year?"
+   ],
+   "sample": "I chose English because I love movies and songs in English. I often watch videos without Thai subtitles, and I enjoy it. I want to learn how to speak and write English clearly.",
+   "frame": "I chose ___ because ___. I often ___. I want to learn how to ___.",
+   "tip_th": "เล่าเหตุการณ์จริงที่ทำให้สนใจ 1 เรื่อง แล้วบอกว่าอยากเรียนรู้อะไร"
+  },
+  {
+   "id": "I14",
+   "cat": "faculty",
+   "q": "What job do you want to do after you graduate?",
+   "q_th": "จบแล้วอยากทำงานอะไร",
+   "follow": [
+    "Why does that job interest you?"
+   ],
+   "sample": "After I graduate, I want to work as a translator or in a hotel. I like languages and talking with people. Later, I hope to work with people from many countries.",
+   "frame": "After I graduate, I want to work as ___. I like ___. Later, I hope to ___.",
+   "tip_th": "บอกอาชีพ + เหตุผลที่เข้ากับนิสัยเรา + เป้าหมายระยะยาว"
+  },
+  {
+   "id": "I15",
+   "cat": "faculty",
+   "q": "Which school subject will help you most in this major?",
+   "q_th": "วิชาไหนที่โรงเรียนจะช่วยคุณได้มากที่สุดในสาขานี้",
+   "follow": [
+    "What was your grade in that subject?"
+   ],
+   "sample": "I think English will help me the most, of course. Thai will also help me because English majors often translate between Thai and English.",
+   "frame": "I think ___ will help me the most because ___. ___ will also help me because ___.",
+   "tip_th": "เลือก 1–2 วิชาและอธิบายว่าเกี่ยวกับสาขาอย่างไร"
+  },
+  {
+   "id": "I16",
+   "cat": "faculty",
+   "q": "What do you think will be the most difficult part of your studies?",
+   "q_th": "คิดว่าอะไรจะยากที่สุดในการเรียน",
+   "follow": [
+    "How will you prepare for that?"
+   ],
+   "sample": "I think reading long textbooks in English will be difficult for me. To prepare, I read short English articles every day and write down new words. I believe I will get better step by step.",
+   "frame": "I think ___ will be difficult for me. To prepare, I ___. I believe ___.",
+   "tip_th": "ยอมรับความยาก + บอกสิ่งที่ทำอยู่แล้วเพื่อเตรียมตัว (เช่น ฝึกกับแอปนี้ทุกวัน!)"
+  },
+  {
+   "id": "I17",
+   "cat": "faculty",
+   "q": "How can your major help society?",
+   "q_th": "สาขาของคุณช่วยสังคมได้อย่างไร",
+   "follow": [
+    "Can you give an example?"
+   ],
+   "sample": "English can help society by connecting people. For example, if I can translate well, people in my hometown can share their products and stories with tourists. Good communication can also stop misunderstandings.",
+   "frame": "___ can help society by ___. For example, ___.",
+   "tip_th": "คิดตัวอย่างใกล้ตัว เช่น สร้างงานในบ้านเกิด ช่วยชุมชน"
+  },
+  {
+   "id": "I18",
+   "cat": "faculty",
+   "q": "If you could not study this major, what would you study instead?",
+   "q_th": "ถ้าเรียนสาขานี้ไม่ได้ จะเรียนอะไรแทน",
+   "follow": [
+    "Why that one?"
+   ],
+   "sample": "If I could not study English, I would study communication arts. Both majors need creative thinking and good communication skills, and I enjoy both.",
+   "frame": "If I could not study ___, I would study ___. Both ___.",
+   "tip_th": "ตอบสาขาที่ใกล้เคียงและหาจุดร่วม แสดงว่ารู้จักตัวเอง"
+  },
+  {
+   "id": "I25",
+   "cat": "strength",
+   "q": "What is your greatest strength?",
+   "q_th": "จุดแข็งที่สุดของคุณคืออะไร",
+   "follow": [
+    "Can you give me an example?"
+   ],
+   "sample": "My greatest strength is that I am responsible. When I promise to do something, I always do it. For example, I was the class treasurer for two years, and I always kept the money records correct.",
+   "frame": "My greatest strength is that I am ___. For example, ___.",
+   "tip_th": "จุดแข็ง 1 อย่าง + ตัวอย่างจริง 1 เรื่อง (ใช้โครง STAR สั้น ๆ)"
+  },
+  {
+   "id": "I26",
+   "cat": "strength",
+   "q": "What is your weakness?",
+   "q_th": "จุดอ่อนของคุณคืออะไร",
+   "follow": [
+    "What are you doing to improve it?"
+   ],
+   "sample": "My weakness is that I am shy when I speak English. I am afraid of making mistakes. But now I practice speaking every day, and I can feel that I am more confident.",
+   "frame": "My weakness is that I ___. But now I ___, and I ___.",
+   "tip_th": "จุดอ่อนจริงที่ไม่ร้ายแรง + สิ่งที่กำลังแก้ จบด้วยด้านบวก"
+  },
+  {
+   "id": "I27",
+   "cat": "strength",
+   "q": "Tell us about a problem you solved.",
+   "q_th": "เล่าปัญหาที่คุณเคยแก้ได้",
+   "follow": [
+    "What did you learn from it?"
+   ],
+   "sample": "Last year, my group project was late because two members were busy. I made a simple plan and divided the work into small parts. We finished on time and got a good grade.",
+   "frame": "Last year, ___. I ___. In the end, ___.",
+   "tip_th": "ปัญหา → สิ่งที่เราทำ → ผลลัพธ์ ใช้ past tense ทั้งเรื่อง"
+  },
+  {
+   "id": "I28",
+   "cat": "strength",
+   "q": "Tell us about a mistake you made and what you learned.",
+   "q_th": "เล่าความผิดพลาดที่เคยทำและบทเรียนที่ได้",
+   "follow": [
+    "Would you do anything differently now?"
+   ],
+   "sample": "Once I did not study for a quiz because I played games all night. I got a very low score. I learned that small plans every day are better than studying at the last minute.",
+   "frame": "Once I ___. As a result, ___. I learned that ___.",
+   "tip_th": "เรื่องเล็ก ๆ จริง ๆ + บทเรียนชัด ๆ ไม่ต้องอาย"
+  },
+  {
+   "id": "I29",
+   "cat": "strength",
+   "q": "Do you prefer working alone or in a team?",
+   "q_th": "ชอบทำงานคนเดียวหรือเป็นทีม",
+   "follow": [
+    "What role do you usually take in a team?"
+   ],
+   "sample": "I can do both, but I prefer working in a team. Team members can share different ideas. I usually help to organize the work and check that everyone is okay.",
+   "frame": "I prefer ___ because ___. I usually ___.",
+   "tip_th": "ไม่มีคำตอบผิด เลือกข้างแล้วให้เหตุผล + บทบาทของเรา"
+  },
+  {
+   "id": "I30",
+   "cat": "strength",
+   "q": "Tell us about a time you were a leader.",
+   "q_th": "เล่าตอนที่คุณเป็นผู้นำ",
+   "follow": [
+    "Was it difficult? Why?"
+   ],
+   "sample": "I was the leader of my class for our sports day. I organized the team and the practice schedule. It was hard to make everyone agree, but I listened to all of them, and we won second place.",
+   "frame": "I was the leader of ___. I ___. It was hard to ___, but ___.",
+   "tip_th": "ผู้นำเล็ก ๆ ก็นับ เช่น หัวหน้ากลุ่ม หัวหน้าห้อง กิจกรรมชมรม"
+  },
+  {
+   "id": "I31",
+   "cat": "goal",
+   "q": "Where do you see yourself in five years?",
+   "q_th": "อีก 5 ปีเห็นตัวเองเป็นอย่างไร",
+   "follow": [
+    "What will you do to get there?"
+   ],
+   "sample": "In five years, I will graduate from university with good grades. I hope to work at an international company, and I want to speak English with confidence every day.",
+   "frame": "In five years, I will ___. I hope to ___. I want to ___.",
+   "tip_th": "5 ปี = เรียนจบ + งานแรก ใช้ will / hope to / want to"
+  },
+  {
+   "id": "I32",
+   "cat": "goal",
+   "q": "What is your dream?",
+   "q_th": "ความฝันของคุณคืออะไร",
+   "follow": [
+    "Why is that dream important to you?"
+   ],
+   "sample": "My dream is to have my own company one day. I want to make good products and give jobs to people in my hometown.",
+   "frame": "My dream is to ___. I want to ___.",
+   "tip_th": "ฝันที่เชื่อมกับเอกที่เลือก ฟังดูมีทิศทาง"
+  },
+  {
+   "id": "I33",
+   "cat": "goal",
+   "q": "How will university help you reach your goals?",
+   "q_th": "มหาวิทยาลัยจะช่วยให้คุณไปถึงเป้าหมายได้อย่างไร",
+   "follow": [
+    "Which activity at university would you like to join?"
+   ],
+   "sample": "University will help me improve my English and learn to think in new ways. I can also join clubs and meet new people, which will help my future career.",
+   "frame": "University will help me ___. I can also ___, which will help ___.",
+   "tip_th": "เชื่อม สิ่งที่มหาวิทยาลัยมี กับ เป้าหมายของเรา"
+  },
+  {
+   "id": "I34",
+   "cat": "goal",
+   "q": "Who is your role model, and why?",
+   "q_th": "ใครคือแบบอย่างของคุณ เพราะอะไร",
+   "follow": [
+    "What have you learned from this person?"
+   ],
+   "sample": "My role model is my mother. She works very hard every day, but she is always kind to everyone. She taught me to be patient and never give up.",
+   "frame": "My role model is ___. ___ is ___. ___ taught me to ___.",
+   "tip_th": "คนใกล้ตัวก็ได้ บอกนิสัย 1 อย่าง + สิ่งที่เราเรียนรู้"
+  },
+  {
+   "id": "I35",
+   "cat": "goal",
+   "q": "What does success mean to you?",
+   "q_th": "ความสำเร็จสำหรับคุณคืออะไร",
+   "follow": [
+    "Do you feel successful now?"
+   ],
+   "sample": "For me, success means doing my best and becoming better than yesterday. It is not only about money. If I can help my family and enjoy my work, I am successful.",
+   "frame": "For me, success means ___. It is not only about ___. If I can ___, I am successful.",
+   "tip_th": "คำถามปรัชญาเล็ก ๆ ตอบสั้น ๆ จริงใจ ไม่ต้องยาว"
+  },
+  {
+   "id": "I36",
+   "cat": "goal",
+   "q": "What will you do in your first year at university?",
+   "q_th": "ปีแรกในมหาวิทยาลัยจะทำอะไรบ้าง",
+   "follow": [
+    "Which club are you interested in?"
+   ],
+   "sample": "In my first year, I will focus on my English and my basic subjects. I also want to join a volunteer club and make new friends.",
+   "frame": "In my first year, I will focus on ___. I also want to ___.",
+   "tip_th": "แผนปีแรกที่ทำได้จริง 2 อย่าง: เรื่องเรียน 1 อย่าง และกิจกรรม 1 อย่าง"
+  },
+  {
+   "id": "I43",
+   "cat": "scenario",
+   "q": "In a group project, one member does not do any work. What would you do?",
+   "q_th": "ในงานกลุ่ม มีสมาชิกคนหนึ่งไม่ทำงานเลย จะทำอย่างไร",
+   "follow": [
+    "What if he still does nothing?"
+   ],
+   "sample": "First, I would talk to him kindly and ask if he has a problem. Maybe he is busy or does not understand the task. Then I would give him a small, clear part. If nothing changes, I would tell the teacher.",
+   "frame": "First, I would ___. Maybe ___. Then I would ___. If nothing changes, I would ___.",
+   "tip_th": "ใช้ would ทั้งคำตอบ ลำดับ: คุยก่อน → ช่วย → แจ้งอาจารย์"
+  },
+  {
+   "id": "I44",
+   "cat": "scenario",
+   "q": "You see a classmate cheating in an exam. What would you do?",
+   "q_th": "เห็นเพื่อนโกงข้อสอบ จะทำอย่างไร",
+   "follow": [
+    "What if he is your best friend?"
+   ],
+   "sample": "I would not help him cheat. After the exam, I would talk to him and tell him it is wrong and unfair to others. If it happens again, I would tell the teacher, because honesty is important.",
+   "frame": "I would not ___. After ___, I would ___. If it happens again, I would ___.",
+   "tip_th": "ยืนบนความซื่อสัตย์ แต่พูดอย่างนุ่มนวล"
+  },
+  {
+   "id": "I45",
+   "cat": "scenario",
+   "q": "A foreign student is lost on campus and cannot speak Thai. How would you help?",
+   "q_th": "นักศึกษาต่างชาติหลงทางในมหาวิทยาลัยและพูดไทยไม่ได้ จะช่วยอย่างไร",
+   "follow": [
+    "What would you say to him first?"
+   ],
+   "sample": "I would smile and say, 'Hi, can I help you?' Then I would ask where he wants to go and walk with him there if I have time. If I don't know the place, I would ask a staff member.",
+   "frame": "I would say, '___'. Then I would ___. If I don't know ___, I would ___.",
+   "tip_th": "แสดงประโยคที่พูดจริง ๆ ออกมาได้เลย อาจารย์จะเห็นภาษาอังกฤษใช้งานจริง"
+  },
+  {
+   "id": "I46",
+   "cat": "scenario",
+   "q": "You have an important exam tomorrow, but your best friend asks you to help with a personal problem tonight. What would you do?",
+   "q_th": "พรุ่งนี้มีสอบสำคัญ แต่คืนนี้เพื่อนสนิทขอให้ช่วยเรื่องส่วนตัว จะทำอย่างไร",
+   "follow": [
+    "Is it more important to help friends or to get good grades?"
+   ],
+   "sample": "I would listen to my friend for a short time and see if it is serious. If it is very serious, I would help first. If not, I would promise to meet after my exam, and then go back to studying.",
+   "frame": "I would ___ for a short time. If it is ___, I would ___. If not, I would ___.",
+   "tip_th": "ไม่มีคำตอบถูกผิด แสดงการชั่งน้ำหนักและการสื่อสาร"
+  },
+  {
+   "id": "I47",
+   "cat": "scenario",
+   "q": "Your professor speaks very fast and you cannot understand the lesson. What would you do?",
+   "q_th": "อาจารย์พูดเร็วมากจนฟังไม่ทัน จะทำอย่างไร",
+   "follow": [
+    "Would you feel shy to ask?"
+   ],
+   "sample": "I would record the lesson if the professor allows it, and listen again at home. I would read the slides before class. I would also ask the professor politely after class.",
+   "frame": "I would ___. I would ___ before class. I would also ___.",
+   "tip_th": "วิธีแก้เชิงรุก 2–3 ข้อ: เตรียมก่อนเรียน ทวนหลังเรียน ถามสุภาพ"
+  },
+  {
+   "id": "I48",
+   "cat": "scenario",
+   "q": "If you had one million baht, what would you do with it?",
+   "q_th": "ถ้ามีเงินล้านบาทจะทำอะไร",
+   "follow": [
+    "Why not spend it all on yourself?"
+   ],
+   "sample": "If I had one million baht, I would save most of it for my education. I would give some to my parents to help them, and I would use a little to travel and learn about other countries.",
+   "frame": "If I had ___, I would ___. I would also ___.",
+   "tip_th": "ฝึก If + V2, would + V1 (conditional แบบที่ 2) ตรงกับด่านไวยากรณ์"
+  },
+  {
+   "id": "I55",
+   "cat": "personal",
+   "q": "Tell us about your family.",
+   "q_th": "เล่าเรื่องครอบครัวของคุณ",
+   "follow": [
+    "Who are you closest to in your family?"
+   ],
+   "sample": "There are four people in my family: my father, my mother, my younger brother and me. My father is a driver and my mother has a small shop. They always support my studies.",
+   "frame": "There are ___ people in my family: ___. My father ___, and my mother ___. They ___.",
+   "tip_th": "จำนวนคน + อาชีพพ่อแม่ + ความสัมพันธ์ ไม่ต้องยาว"
+  },
+  {
+   "id": "I56",
+   "cat": "personal",
+   "q": "What do you usually do on weekends?",
+   "q_th": "วันหยุดสุดสัปดาห์มักทำอะไร",
+   "follow": [
+    "Did you do anything special last weekend?"
+   ],
+   "sample": "On weekends, I usually help my mother at her shop in the morning. In the afternoon, I study English and sometimes play badminton with my friends.",
+   "frame": "On weekends, I usually ___ in the morning. In the afternoon, I ___.",
+   "tip_th": "ใช้ present simple (usually + V1) ฝึกตรงกับด่าน L02"
+  },
+  {
+   "id": "I57",
+   "cat": "personal",
+   "q": "What is your favorite book or movie, and why?",
+   "q_th": "หนังสือหรือหนังเรื่องโปรด เพราะอะไร",
+   "follow": [
+    "What did you learn from it?"
+   ],
+   "sample": "My favorite movie is a story about a girl who learns to play the piano. She fails many times, but she keeps practicing. It reminds me never to give up.",
+   "frame": "My favorite ___ is ___. It is about ___. It reminds me ___.",
+   "tip_th": "เล่าเนื้อเรื่อง 1 ประโยค + บทเรียน 1 ประโยค"
+  },
+  {
+   "id": "I58",
+   "cat": "personal",
+   "q": "Who has influenced you the most?",
+   "q_th": "ใครมีอิทธิพลต่อคุณมากที่สุด",
+   "follow": [
+    "How did that person change you?"
+   ],
+   "sample": "My English teacher in Grade 10 influenced me the most. She told me that mistakes are part of learning. Since then, I am not so afraid to speak.",
+   "frame": "___ influenced me the most. ___ told me that ___. Since then, ___.",
+   "tip_th": "เล่าเหตุการณ์เดียวที่เปลี่ยนเรา"
+  },
+  {
+   "id": "I59",
+   "cat": "personal",
+   "q": "What do you do when you feel stressed?",
+   "q_th": "เวลาเครียดทำอย่างไร",
+   "follow": [
+    "Are you stressed now?"
+   ],
+   "sample": "When I feel stressed, I take deep breaths and go for a short walk. Sometimes I listen to music. Then I make a small plan, because a plan makes me feel calm.",
+   "frame": "When I feel stressed, I ___. Sometimes I ___. Then I ___.",
+   "tip_th": "ถ้าถูกถามต่อว่า 'ตอนนี้เครียดไหม' ยิ้มแล้วตอบ 'A little, but I'm enjoying this conversation.'"
+  },
+  {
+   "id": "I60",
+   "cat": "personal",
+   "q": "What is one thing you are proud of?",
+   "q_th": "สิ่งหนึ่งที่คุณภูมิใจคืออะไร",
+   "follow": [
+    "Why is it important to you?"
+   ],
+   "sample": "I am proud that I can now talk in English in an interview like this. A few months ago, I was too shy to say even one sentence.",
+   "frame": "I am proud that ___. ___ ago, I ___.",
+   "tip_th": "เรื่องเล็กแต่จริง ดีกว่าเรื่องใหญ่ที่เล่าไม่ได้"
+  },
+  {
+   "id": "I61",
+   "cat": "ending",
+   "q": "Do you have any questions for me?",
+   "q_th": "มีคำถามอะไรอยากถามไหม",
+   "follow": [],
+   "sample": "Yes, thank you. How can I practice speaking outside class? I would like to prepare myself well.",
+   "frame": "Yes, thank you. ___? I would like to ___.",
+   "tip_th": "เตรียมคำถามไว้ 1 ข้อเสมอ เช่น ขอคำแนะนำการฝึกนอกห้อง หรือถามเรื่องงานที่ต้องส่ง"
+  },
+  {
+   "id": "I62",
+   "cat": "ending",
+   "q": "Is there anything else you would like to tell us?",
+   "q_th": "มีอะไรอยากบอกเราเพิ่มเติมไหม",
+   "follow": [],
+   "sample": "Yes. I just want to say that I will try my best in this class. Thank you very much for your time today.",
+   "frame": "I just want to say that ___. Thank you very much for ___.",
+   "tip_th": "ปิดด้วยความตั้งใจ 1 ประโยค + ขอบคุณ ยิ้ม"
+  }
+ ],
+ "survival": [
+  {
+   "en": "Could you repeat that, please?",
+   "th": "ช่วยพูดอีกครั้งได้ไหมคะ/ครับ"
+  },
+  {
+   "en": "Could you speak a little more slowly, please?",
+   "th": "ช่วยพูดช้าลงอีกนิดได้ไหม"
+  },
+  {
+   "en": "Let me think for a moment.",
+   "th": "ขอคิดสักครู่นะคะ/ครับ"
+  },
+  {
+   "en": "That's a good question.",
+   "th": "เป็นคำถามที่ดีมากค่ะ/ครับ (ซื้อเวลา)"
+  },
+  {
+   "en": "Sorry, I'm not sure I understand. Do you mean…?",
+   "th": "ขอโทษ ไม่แน่ใจว่าเข้าใจถูกไหม หมายถึง…ใช่ไหม"
+  },
+  {
+   "en": "I don't know the exact word in English, but…",
+   "th": "ไม่รู้คำภาษาอังกฤษตรง ๆ แต่…"
+  },
+  {
+   "en": "In other words…",
+   "th": "พูดอีกแบบคือ…"
+  },
+  {
+   "en": "For example…",
+   "th": "ยกตัวอย่างเช่น…"
+  },
+  {
+   "en": "I'm a little nervous, but I'm happy to be here.",
+   "th": "ตื่นเต้นนิดหน่อย แต่ดีใจที่ได้มาที่นี่"
+  },
+  {
+   "en": "Thank you for your time.",
+   "th": "ขอบคุณที่สละเวลาค่ะ/ครับ"
+  },
+  {
+   "en": "Good morning. It's nice to meet you.",
+   "th": "สวัสดีตอนเช้า ยินดีที่ได้พบค่ะ/ครับ"
+  },
+  {
+   "en": "May I start again?",
+   "th": "ขอเริ่มใหม่ได้ไหมคะ/ครับ (พูดพลาดแล้วอยากตั้งหลัก)"
+  }
+ ]
+}

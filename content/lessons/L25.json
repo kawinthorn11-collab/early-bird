@@ -1,0 +1,747 @@
+{
+ "id": "L25",
+ "phase": 1,
+ "skill": "g.present-perfect",
+ "title_th": "อดีตที่ยังโยงถึงวันนี้ (have / has + V3)",
+ "title_en": "Present perfect vs past simple",
+ "villain": "tikki",
+ "hook": {
+  "beats": [
+   {
+    "say": "ปิ๊ปแชตกับเพื่อนว่าเคยไปญี่ปุ่นไหม แต่กริยาในประโยคเพี้ยนหมด",
+    "anim": "enter",
+    "board": "I ___ never ___ to Japan."
+   },
+   {
+    "say": "ข้าคือติ๊กกี้ ตัวป่วนเวลา! ข้าจะเอา have ไปผูกกับ yesterday ให้งงเล่น!",
+    "actor": "villain",
+    "anim": "shake",
+    "board": "I have seen it yesterday??"
+   },
+   {
+    "say": "have / has + V3 ใช้กับเรื่องในอดีตที่ยังโยงมาถึงตอนนี้ เช่น ประสบการณ์ที่ไม่บอกว่าเมื่อไหร่",
+    "anim": "think",
+    "board": "I have never been to Japan."
+   },
+   {
+    "say": "since + จุดเริ่มต้น ส่วน for + ระยะเวลา",
+    "anim": "jump",
+    "board": "since 2019 · for two years"
+   },
+   {
+    "say": "ถ้ามีเวลาที่จบไปแล้ว เช่น yesterday, last week, ago ต้องใช้ past simple",
+    "anim": "zap",
+    "board": "I saw it yesterday."
+   },
+   {
+    "say": "นาฬิกาข้าเดินผิดหมดแล้ว! ข้าไปก่อนละ!",
+    "actor": "villain",
+    "anim": "swap"
+   }
+  ]
+ },
+ "discover": {
+  "examples": [
+   "I **have lived** in this house since 2019.",
+   "She **has never been** to Japan.",
+   "I **saw** that movie yesterday.",
+   "**Have** you **finished** your homework yet?"
+  ],
+  "question_th": "ทำไมประโยคที่ 3 ใช้ saw ไม่ใช้ have seen?",
+  "options_th": [
+   "เพราะมี yesterday บอกเวลาที่จบไปแล้ว ต้องใช้ past simple",
+   "เพราะหนังเรื่องนี้สนุกกว่า",
+   "have seen ใช้กับคนเท่านั้น",
+   "ใช้แทนกันได้เสมอ"
+  ],
+  "answer": 0,
+  "reveal_th": "present perfect ไม่บอกเวลาที่แน่นอน แต่เชื่อมอดีตกับตอนนี้ (ยังอยู่ ยังเคย ยังไม่เสร็จ) ถ้าประโยคมี yesterday, last …, … ago, in 2020, when I was young ให้เลือก past simple ถ้ามี since, for, ever, never, already, yet, just ให้เลือก have / has + V3"
+ },
+ "rule": {
+  "line_th": "have / has + V3 = อดีตที่โยงถึงตอนนี้ · since + จุดเริ่ม · for + ระยะเวลา · ever / never / already / yet / just · มีเวลาที่จบแล้ว (yesterday, ago, last …) → past simple",
+  "memory_th": "🌉 สะพานเวลา: present perfect คือสะพานจากอดีตมาถึงวันนี้ ถ้าเห็นป้าย yesterday หรือ ago แปลว่าสะพานขาดแล้ว ให้ใช้ V2",
+  "terms": [
+   [
+    "present perfect",
+    "have / has + V3"
+   ],
+   [
+    "past participle (V3)",
+    "กริยาช่อง 3 (eaten, been, seen)"
+   ],
+   [
+    "finished time",
+    "เวลาที่จบไปแล้ว (yesterday, last year)"
+   ],
+   [
+    "experience",
+    "ประสบการณ์"
+   ]
+  ]
+ },
+ "speak": [
+  "Have you ever been to Japan?",
+  "I have just finished my homework.",
+  "We have known each other for three years."
+ ],
+ "twists": [
+  {
+   "id": "L25-t1",
+   "skill": "g.present-perfect",
+   "type": "error",
+   "parts": [
+    "I",
+    "have seen",
+    "that movie",
+    "last night."
+   ],
+   "answer": 1,
+   "explanation_th": "last night เป็นเวลาที่จบไปแล้ว ต้องใช้ past simple → I saw that movie last night.",
+   "why_wrong": [
+    "I ถูกแล้ว",
+    null,
+    "that movie ถูกแล้ว",
+    "last night ถูกแล้ว และเพราะมีคำนี้ กริยาจึงต้องเป็น saw"
+   ]
+  },
+  {
+   "id": "L25-t2",
+   "skill": "g.present-perfect",
+   "type": "fill",
+   "stem": "We have lived in this town ___ 2019.",
+   "accept": [
+    "since"
+   ],
+   "hint_th": "2019 เป็นจุดเริ่มต้น ไม่ใช่ระยะเวลา",
+   "explanation_th": "since + จุดเริ่มต้น (ปี วัน เหตุการณ์) → since 2019"
+  },
+  {
+   "id": "L25-t3",
+   "skill": "g.present-perfect",
+   "type": "order",
+   "words": [
+    "Have",
+    "you",
+    "ever",
+    "been",
+    "to",
+    "Phuket?"
+   ],
+   "explanation_th": "คำถามประสบการณ์: Have + ประธาน + ever + V3"
+  },
+  {
+   "id": "L25-t4",
+   "skill": "g.present-perfect",
+   "type": "match",
+   "prompt_th": "จับคู่คำกับความหมาย",
+   "pairs": [
+    [
+     "already",
+     "แล้ว (เร็วกว่าที่คิด)"
+    ],
+    [
+     "yet",
+     "ยัง (ใช้ในคำถามและปฏิเสธ)"
+    ],
+    [
+     "just",
+     "เพิ่งจะ"
+    ],
+    [
+     "ever",
+     "เคย (ใช้ในคำถาม)"
+    ]
+   ],
+   "explanation_th": "already อยู่ในประโยคบอกเล่า · yet อยู่ท้ายคำถามและปฏิเสธ · just กับ ever วางหน้า V3"
+  },
+  {
+   "id": "L25-t5",
+   "skill": "g.present-perfect",
+   "type": "error",
+   "parts": [
+    "She",
+    "has finished",
+    "her homework",
+    "two hours ago."
+   ],
+   "answer": 1,
+   "explanation_th": "ago บอกเวลาที่จบไปแล้ว ต้องใช้ past simple → She finished her homework two hours ago.",
+   "why_wrong": [
+    "She ถูกแล้ว",
+    null,
+    "her homework ถูกแล้ว",
+    "two hours ago ถูกแล้ว และเพราะมีคำนี้ กริยาจึงต้องเป็น finished"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "L25-01",
+   "skill": "g.present-perfect",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "I ___ in this house since 2018.",
+   "options": [
+    "live",
+    "have lived",
+    "lived",
+    "am living"
+   ],
+   "answer": 1,
+   "explanation_th": "since 2018 = ตั้งแต่ปี 2018 จนถึงตอนนี้ → have lived",
+   "why_wrong": [
+    "live เป็นปัจจุบันธรรมดา ใช้กับ since ไม่ได้",
+    null,
+    "lived บอกว่าจบแล้ว แต่ since แปลว่ายังอยู่ถึงตอนนี้",
+    "am living ใช้กับ since ไม่ได้"
+   ]
+  },
+  {
+   "id": "L25-02",
+   "skill": "g.present-perfect",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "She has worked at the hospital ___ ten years.",
+   "options": [
+    "for",
+    "since",
+    "from",
+    "ago"
+   ],
+   "answer": 0,
+   "explanation_th": "ten years เป็นระยะเวลา → for",
+   "why_wrong": [
+    null,
+    "since ตามด้วยจุดเริ่มต้น เช่น since 2015",
+    "from ต้องมีคู่ to และตามด้วยจุดเวลา",
+    "ago ใช้กับ past simple และวางหลังระยะเวลา"
+   ]
+  },
+  {
+   "id": "L25-03",
+   "skill": "g.present-perfect",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "We have known each other ___ we were in Grade 1.",
+   "options": [
+    "for",
+    "ago",
+    "since",
+    "from"
+   ],
+   "answer": 2,
+   "explanation_th": "we were in Grade 1 เป็นจุดเริ่มต้น → since",
+   "why_wrong": [
+    "for ตามด้วยระยะเวลา ไม่ใช่ประโยคบอกจุดเริ่ม",
+    "ago ใช้กับ past simple",
+    null,
+    "from ไม่ใช้กับ present perfect แบบนี้"
+   ]
+  },
+  {
+   "id": "L25-04",
+   "skill": "g.present-perfect",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "Have you ever ___ sushi?",
+   "options": [
+    "eat",
+    "ate",
+    "eaten",
+    "eating"
+   ],
+   "answer": 2,
+   "explanation_th": "Have + ever + V3 → eaten",
+   "why_wrong": [
+    "eat เป็นรูปปกติ หลัง have ต้องเป็น V3",
+    "ate เป็น V2 ใช้กับ have ไม่ได้",
+    null,
+    "eating ไม่ใช่ V3"
+   ]
+  },
+  {
+   "id": "L25-05",
+   "skill": "g.present-perfect",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "I have never ___ to Japan, but I want to go next year.",
+   "options": [
+    "been",
+    "go",
+    "went",
+    "going"
+   ],
+   "answer": 0,
+   "explanation_th": "have never been to = ไม่เคยไป → been",
+   "why_wrong": [
+    null,
+    "go เป็นรูปปกติ หลัง have ต้องเป็น V3",
+    "went เป็น V2 ใช้กับ have ไม่ได้",
+    "going ไม่ใช่ V3"
+   ]
+  },
+  {
+   "id": "L25-06",
+   "skill": "g.present-perfect",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "I ___ my homework yesterday evening.",
+   "options": [
+    "have done",
+    "did",
+    "do",
+    "has done"
+   ],
+   "answer": 1,
+   "explanation_th": "yesterday evening เป็นเวลาที่จบแล้ว → past simple did",
+   "why_wrong": [
+    "have done มีเวลาที่จบไปแล้ว ใช้ present perfect ไม่ได้",
+    null,
+    "do เป็นปัจจุบัน แต่เรื่องเกิดเมื่อวาน",
+    "has done มีเวลาที่จบไปแล้ว ใช้ present perfect ไม่ได้ และใช้กับ I ไม่ได้"
+   ]
+  },
+  {
+   "id": "L25-07",
+   "skill": "g.present-perfect",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Nat ___ his leg last week, so he can't play football now.",
+   "options": [
+    "has broken",
+    "broke",
+    "breaks",
+    "have broken"
+   ],
+   "answer": 1,
+   "explanation_th": "last week เป็นเวลาที่จบแล้ว → broke",
+   "why_wrong": [
+    "has broken มีเวลาที่จบไปแล้ว ใช้ present perfect ไม่ได้",
+    null,
+    "breaks เป็นปัจจุบัน แต่เรื่องเกิดเมื่อสัปดาห์ที่แล้ว",
+    "have broken มีเวลาที่จบไปแล้ว ใช้ present perfect ไม่ได้ และใช้กับ Nat ไม่ได้"
+   ]
+  },
+  {
+   "id": "L25-08",
+   "skill": "g.present-perfect",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Oh no! I ___ my phone. I can't find it anywhere.",
+   "options": [
+    "has lost",
+    "lose",
+    "losing",
+    "have lost"
+   ],
+   "answer": 3,
+   "explanation_th": "ทำหายแล้ว และตอนนี้ยังหาไม่เจอ (ผลยังอยู่) → have lost",
+   "why_wrong": [
+    "has ใช้กับ he / she / it ไม่ใช้กับ I",
+    "lose เป็นปัจจุบันธรรมดา ใช้เล่าเรื่องที่เพิ่งเกิดไม่ได้",
+    "losing ขาดกริยาช่วย ประโยคไม่สมบูรณ์",
+    null
+   ]
+  },
+  {
+   "id": "L25-09",
+   "skill": "g.present-perfect",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Has the movie started ___? I don't want to miss the beginning.",
+   "options": [
+    "ever",
+    "ago",
+    "since",
+    "yet"
+   ],
+   "answer": 3,
+   "explanation_th": "ถามว่า \"เริ่มหรือยัง\" → yet วางท้ายคำถาม",
+   "why_wrong": [
+    "ever ใช้ถามประสบการณ์ (เคยไหม) และวางหน้า V3 ไม่วางท้ายคำถาม",
+    "ago ใช้กับ past simple และต้องมีระยะเวลาหน้า",
+    "since ต้องตามด้วยจุดเริ่มต้น",
+    null
+   ]
+  },
+  {
+   "id": "L25-10",
+   "skill": "g.present-perfect",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "I'm not hungry. I've ___ had lunch with my friends.",
+   "options": [
+    "yet",
+    "just",
+    "ever",
+    "since"
+   ],
+   "answer": 1,
+   "explanation_th": "เพิ่งกินข้าวมา เลยไม่หิว → have just had",
+   "why_wrong": [
+    "yet ใช้ในคำถามและปฏิเสธ และวางท้ายประโยค",
+    null,
+    "ever ใช้ในคำถาม ไม่ใช้ในประโยคบอกเล่าแบบนี้",
+    "since ต้องตามด้วยจุดเริ่มต้น"
+   ]
+  },
+  {
+   "id": "L25-11",
+   "skill": "g.present-perfect",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Don't worry about the dishes. I have ___ washed them.",
+   "options": [
+    "already",
+    "yet",
+    "ever",
+    "since"
+   ],
+   "answer": 0,
+   "explanation_th": "ล้างเสร็จแล้ว (ไม่ต้องห่วง) → have already washed",
+   "why_wrong": [
+    null,
+    "yet ใช้ในคำถามและปฏิเสธ",
+    "ever ใช้ในคำถาม ไม่ใช้ในประโยคบอกเล่าแบบนี้",
+    "since ต้องตามด้วยจุดเริ่มต้น"
+   ]
+  },
+  {
+   "id": "L25-12",
+   "skill": "g.present-perfect",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Ploy ___ to Korea three times. She loves it there.",
+   "options": [
+    "have been",
+    "is being",
+    "has been",
+    "be"
+   ],
+   "answer": 2,
+   "explanation_th": "ประสบการณ์ (three times) ไม่บอกว่าเมื่อไหร่ Ploy เป็นเอกพจน์ → has been",
+   "why_wrong": [
+    "have ใช้กับ I / you / we / they ไม่ใช้กับ Ploy",
+    "is being ไม่ใช้เล่าประสบการณ์",
+    null,
+    "be เป็นรูปปกติ ขาดกริยาช่วย"
+   ]
+  },
+  {
+   "id": "L25-13",
+   "skill": "g.present-perfect",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "My parents ___ married in 2005.",
+   "options": [
+    "have got",
+    "has got",
+    "get",
+    "got"
+   ],
+   "answer": 3,
+   "explanation_th": "in 2005 เป็นเวลาที่จบแล้ว → past simple got",
+   "why_wrong": [
+    "have got มีเวลาที่จบไปแล้ว ใช้ present perfect ไม่ได้",
+    "has got มีเวลาที่จบไปแล้ว ใช้ present perfect ไม่ได้ และใช้กับ parents ไม่ได้",
+    "get เป็นปัจจุบัน แต่เรื่องเกิดปี 2005",
+    null
+   ]
+  },
+  {
+   "id": "L25-14",
+   "skill": "g.present-perfect",
+   "difficulty": 3,
+   "stage": 1,
+   "stem": "How long ___ you had this bike? It still looks new.",
+   "options": [
+    "did",
+    "have",
+    "do",
+    "are"
+   ],
+   "answer": 1,
+   "explanation_th": "ถามระยะเวลาที่ยังมีจักรยานอยู่จนถึงตอนนี้ → How long have you had",
+   "why_wrong": [
+    "did ถามช่วงที่จบไปแล้ว แต่ยังมีจักรยานอยู่",
+    null,
+    "do ใช้กับ had ไม่ได้",
+    "are ใช้กับ had ไม่ได้"
+   ]
+  },
+  {
+   "id": "L25-15",
+   "skill": "g.present-perfect",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "I saw that film two days ___.",
+   "options": [
+    "since",
+    "for",
+    "yet",
+    "ago"
+   ],
+   "answer": 3,
+   "explanation_th": "two days ago = สองวันที่แล้ว ใช้กับ past simple (saw) → ago",
+   "why_wrong": [
+    "since ต้องตามด้วยจุดเริ่มต้น และใช้กับ present perfect",
+    "for ต้องวางหน้าระยะเวลา",
+    "yet ใช้ในคำถามและปฏิเสธ",
+    null
+   ]
+  },
+  {
+   "id": "L25-16",
+   "skill": "g.present-perfect",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "When ___ you start learning English? Was it in primary school?",
+   "options": [
+    "have",
+    "has",
+    "did",
+    "were"
+   ],
+   "answer": 2,
+   "explanation_th": "คำถาม When ถามเวลาที่แน่นอนในอดีต (Was it …?) → past simple did",
+   "why_wrong": [
+    "คำถาม When ไม่ใช้ present perfect",
+    "has ใช้กับ he / she / it และ When ไม่ใช้ present perfect",
+    null,
+    "were ใช้กับกริยารูปปกติ (start) ไม่ได้"
+   ]
+  },
+  {
+   "id": "L25-17",
+   "skill": "g.present-perfect",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "He hasn't finished his project ___. He's still working on it.",
+   "options": [
+    "already",
+    "just",
+    "ever",
+    "yet"
+   ],
+   "answer": 3,
+   "explanation_th": "ปฏิเสธ + ยังไม่เสร็จ → yet วางท้ายประโยค",
+   "why_wrong": [
+    "already ใช้ในประโยคบอกเล่า ไม่วางท้ายประโยคปฏิเสธ",
+    "just วางหน้า V3 ไม่วางท้ายประโยค",
+    "ever ใช้ในคำถาม",
+    null
+   ]
+  },
+  {
+   "id": "L25-18",
+   "skill": "g.present-perfect",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "My best friend Fah moved to Australia. I ___ her for two years, and I miss her a lot.",
+   "options": [
+    "hasn't seen",
+    "don't see",
+    "haven't seen",
+    "am not seeing"
+   ],
+   "answer": 2,
+   "explanation_th": "for two years จนถึงตอนนี้ และยังคิดถึง → haven't seen",
+   "why_wrong": [
+    "has ใช้กับ he / she / it ไม่ใช้กับ I",
+    "don't see ใช้กับ for two years ไม่ได้",
+    null,
+    "am not seeing ใช้กับ for two years ไม่ได้"
+   ]
+  },
+  {
+   "id": "L25-19",
+   "skill": "g.present-perfect",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Look at the classroom! Somebody ___ the walls. They were white, but now they're blue.",
+   "options": [
+    "has painted",
+    "have painted",
+    "paints",
+    "is painting"
+   ],
+   "answer": 0,
+   "explanation_th": "ผลยังเห็นอยู่ตอนนี้ (ผนังเป็นสีฟ้าแล้ว) Somebody เป็นเอกพจน์ → has painted",
+   "why_wrong": [
+    null,
+    "Somebody เป็นเอกพจน์ ใช้ have ไม่ได้",
+    "paints เป็นนิสัย ไม่ใช่สิ่งที่เพิ่งเกิด",
+    "is painting แปลว่ากำลังทาอยู่ แต่ทาเสร็จแล้ว"
+   ]
+  },
+  {
+   "id": "L25-20",
+   "skill": "g.present-perfect",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "I ___ Chiang Mai last December. It was cold, and I wore a jacket every day.",
+   "options": [
+    "have visited",
+    "visited",
+    "has visited",
+    "visit"
+   ],
+   "answer": 1,
+   "explanation_th": "last December เป็นเวลาที่จบแล้ว → visited",
+   "why_wrong": [
+    "have visited มีเวลาที่จบไปแล้ว ใช้ present perfect ไม่ได้",
+    null,
+    "has visited มีเวลาที่จบไปแล้ว ใช้ present perfect ไม่ได้ และใช้กับ I ไม่ได้",
+    "visit เป็นปัจจุบัน แต่เรื่องเกิดเดือนธันวาคมที่แล้ว"
+   ]
+  },
+  {
+   "id": "L25-21",
+   "skill": "g.present-perfect",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Mr. Somchai is our English teacher. He ___ at our school since 2015.",
+   "options": [
+    "has taught",
+    "taught",
+    "teaches",
+    "is teaching"
+   ],
+   "answer": 0,
+   "explanation_th": "since 2015 จนถึงตอนนี้ (ยังเป็นครูอยู่) → has taught",
+   "why_wrong": [
+    null,
+    "taught บอกว่าจบแล้ว แต่เขายังสอนอยู่",
+    "teaches ใช้กับ since ไม่ได้",
+    "is teaching ใช้กับ since ไม่ได้"
+   ]
+  },
+  {
+   "id": "L25-22",
+   "skill": "g.present-perfect",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "A: Is Mint at home? B: No, she ___ to the shop. She'll be back in ten minutes.",
+   "options": [
+    "has been",
+    "has gone",
+    "have gone",
+    "goes"
+   ],
+   "answer": 1,
+   "explanation_th": "has gone to = ไปแล้วและยังไม่กลับ → has gone",
+   "why_wrong": [
+    "has been to = ไปแล้วกลับมาแล้ว แต่ Mint ยังไม่อยู่บ้าน",
+    null,
+    "have ใช้กับ I / you / we / they ไม่ใช้กับ she",
+    "goes เป็นนิสัย ไม่ได้บอกว่าตอนนี้ไม่อยู่"
+   ]
+  },
+  {
+   "id": "L25-23",
+   "skill": "g.present-perfect",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "This is the best pad thai I ___ ever eaten. Can I have another plate?",
+   "options": [
+    "have",
+    "had",
+    "did",
+    "was"
+   ],
+   "answer": 0,
+   "explanation_th": "the best … I have ever + V3 = ที่สุดเท่าที่เคย → have",
+   "why_wrong": [
+    null,
+    "had ever eaten ใช้เล่าเรื่องในอดีต แต่ตอนนี้กำลังกินอยู่",
+    "did ใช้กับ V3 ไม่ได้",
+    "was ใช้กับ eaten จะกลายเป็น passive ความหมายผิด"
+   ]
+  },
+  {
+   "id": "L25-24",
+   "skill": "g.present-perfect",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "Tom started playing the guitar when he was ten. He is fifteen now, so he ___ the guitar for five years.",
+   "options": [
+    "has played",
+    "played",
+    "plays",
+    "is playing"
+   ],
+   "answer": 0,
+   "explanation_th": "เริ่มตอนสิบขวบและยังเล่นอยู่ for five years → has played",
+   "why_wrong": [
+    null,
+    "played บอกว่าเลิกเล่นแล้ว แต่เขายังเล่นอยู่",
+    "plays ใช้กับ for five years ไม่ได้",
+    "is playing ใช้กับ for five years ไม่ได้"
+   ]
+  },
+  {
+   "id": "L25-25",
+   "skill": "g.present-perfect",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Look outside! It ___ raining. Let's go out and play.",
+   "options": [
+    "stops",
+    "stopping",
+    "have stopped",
+    "has stopped"
+   ],
+   "answer": 3,
+   "explanation_th": "ฝนเพิ่งหยุดและตอนนี้ออกไปเล่นได้ (ผลยังอยู่) → has stopped",
+   "why_wrong": [
+    "stops เป็นนิสัย ไม่ใช่เรื่องที่เพิ่งเกิด",
+    "stopping ขาดกริยาช่วย",
+    "It เป็นเอกพจน์ ใช้ have ไม่ได้",
+    null
+   ]
+  },
+  {
+   "id": "L25-26",
+   "skill": "g.present-perfect",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "Bam is very excited. She has ___ won a prize in the art contest, and her mum is calling everyone.",
+   "options": [
+    "yet",
+    "ever",
+    "just",
+    "since"
+   ],
+   "answer": 2,
+   "explanation_th": "เพิ่งได้รางวัล ทุกคนยังตื่นเต้นอยู่ → has just won",
+   "why_wrong": [
+    "yet ใช้ในคำถามและปฏิเสธ",
+    "ever ใช้ในคำถาม ไม่ใช้ในประโยคบอกเล่าแบบนี้",
+    null,
+    "since ต้องตามด้วยจุดเริ่มต้น"
+   ]
+  },
+  {
+   "id": "L25-27",
+   "skill": "g.present-perfect",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Grandpa ___ in the army when he was young. He tells us many stories about it.",
+   "options": [
+    "has worked",
+    "works",
+    "worked",
+    "have worked"
+   ],
+   "answer": 2,
+   "explanation_th": "when he was young เป็นช่วงที่จบไปแล้ว → worked",
+   "why_wrong": [
+    "has worked มีเวลาที่จบไปแล้ว ใช้ present perfect ไม่ได้",
+    "works เป็นปัจจุบัน แต่ตอนนี้คุณตาไม่ได้หนุ่มแล้ว",
+    null,
+    "have worked มีเวลาที่จบไปแล้ว ใช้ present perfect ไม่ได้ และใช้กับ Grandpa ไม่ได้"
+   ]
+  }
+ ],
+ "cloze": "C21"
+}

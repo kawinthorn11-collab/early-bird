@@ -1,0 +1,28 @@
+{
+  "program": { "th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาภาษาอังกฤษ", "en": "Bachelor of Arts Program in English", "faculty": "คณะมนุษยศาสตร์และการจัดการการท่องเที่ยว", "university": "มหาวิทยาลัยกรุงเทพ", "credits": 135, "source": "Year Plan ปีการศึกษา 2570 (YearPlan2570_ภาษาอังกฤษ_V.70.1) และรายละเอียดหลักสูตร V.67.3" },
+  "cohorts": ["1/1", "1/2", "2"],
+  "tracks": ["normal", "coop"],
+  "terms": [
+    { "id": "y1t1-1", "year": 1, "label": "ปี 1 ภาค 1/1", "courses": { "1/1": ["GE011", "ENL181"] } },
+    { "id": "y1t1-2", "year": 1, "label": "ปี 1 ภาค 1/2", "courses": { "1/1": ["GE013", "GE014", "EN101", "ENL101"], "1/2": ["GE013", "GE014", "EN101", "ENL101", "GE011", "ENL181"] } },
+    { "id": "y1t2", "year": 1, "label": "ปี 1 ภาค 2", "courses": { "1/1": ["GE012", "GE015", "EN102", "ENL102", "ENL111", "ENL182"], "1/2": ["GE012", "GE015", "EN102", "ENL102", "ENL111", "ENL182"], "2": ["GE012", "GE015", "EN102", "ENL111", "ENL182", "ENL101"] } },
+    { "id": "y1s", "year": 1, "label": "ปี 1 ภาคฤดูร้อน", "courses": { "2": ["GE011", "ENL102", "ENL181"] } },
+    { "id": "y2t1", "year": 2, "label": "ปี 2 ภาค 1", "courses": { "1/1": ["EN103", "ENL201", "ENL211", "ENL221", "ENL222", "SI-1"], "1/2": ["EN103", "ENL201", "ENL211", "ENL221", "ENL222", "SI-1"], "2": ["EN103", "ENL201", "ENL211", "ENL221", "ENL222", "SI-1", "EN101"] } },
+    { "id": "y2t2", "year": 2, "label": "ปี 2 ภาค 2", "courses": { "*": ["ENL223", "ENL224", "ENL231", "ENL232", "SI-2", "FE-1"] } },
+    { "id": "y2s", "year": 2, "label": "ปี 2 ภาคฤดูร้อน", "courses": { "2": ["GE013", "GE014"] } },
+    { "id": "y3t1", "year": 3, "label": "ปี 3 ภาค 1", "courses": { "*": ["ENL311", "ENL331", "ENL341", "ENL351", "ME-1", "SI-3"] } },
+    { "id": "y3t2", "year": 3, "label": "ปี 3 ภาค 2", "courses": { "*": ["ENL312", "ENL342", "ENL352", "ME-2", "SI-4"], "*coop": ["ENL312", "ENL342", "ENL352", "ME-2", "SI-4", "ENL421"] } },
+    { "id": "y3s", "year": 3, "label": "ปี 3 ภาคฤดูร้อน", "courses": { "*coop": ["ENL432", "ENL481"] } },
+    { "id": "y4t1", "year": 4, "label": "ปี 4 ภาค 1", "courses": { "*normal": ["ENL431", "ENL441", "ENL451", "ME-3", "ME-4"], "*coop": ["ENL431", "ENL441", "ENL451", "FE-2", "CO301"] } },
+    { "id": "y4t2", "year": 4, "label": "ปี 4 ภาค 2", "courses": { "*normal": ["ENL421", "ENL432", "ENL481", "ME-5", "FE-2"], "*coop": ["EN400"] } }
+  ],
+  "slots": {
+    "SI": { "th": "วิชาความสนใจเฉพาะด้าน", "en": "Special Interest", "credits": 3 },
+    "FE": { "th": "วิชาเลือกเสรี", "en": "Free Elective", "credits": 3 },
+    "ME": { "th": "วิชาเอกเลือก", "en": "Major Elective", "credits": 3 }
+  },
+  "notes_th": [
+    "คีย์ courses: \"*\" = ทุกรุ่นทุกแผน, \"*coop\" / \"*normal\" = ทุกรุ่นเฉพาะแผนนั้น, \"1/1\" ฯลฯ = เฉพาะรุ่น (ทั้งสองแผน)",
+    "วันที่ภาค 1/1 และ 1/2 ไม่ได้ระบุในปฏิทินที่ได้รับ ต้องยืนยันที่ registration.bu.ac.th"
+  ]
+}

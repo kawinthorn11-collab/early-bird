@@ -1,0 +1,209 @@
+{
+ "id": "C04",
+ "title": "The New Neighbors",
+ "genre": "เรื่องเล่า",
+ "level": "A2",
+ "text": "Last month, a new family moved into the house next to (1). There are four of them: Mr. and Mrs. Somchai and (2) twin daughters, Ann and Bee. The twins are nine years old. (3) look exactly the same, so I can't tell who is who.\nYesterday, Mrs. Somchai brought us a plate of mango sticky rice that she had made (4). It was delicious! My mother wanted to thank (5), so she gave her a basket of fruit from our garden. In the evening, Ann and Bee came over to play with my little sister. (6) favorite game is hide-and-seek. Bee hid behind our sofa, but my sister found (7) quickly because her feet were sticking out. Everyone laughed.\nMy sister says the twins are her best friends now, and they (8) together every day after school. Our street is much more fun (9) they arrived. I hope they stay here for a long time, (10) my sister will be very sad.",
+ "items": [
+  {
+   "id": "C04-1",
+   "skill": "g.pronoun",
+   "difficulty": 2,
+   "stem": "(1) Last month, a new family moved into the house next to ___.",
+   "options": [
+    "our",
+    "we",
+    "ours",
+    "I"
+   ],
+   "answer": 2,
+   "explanation_th": "next to ___ แทน our house โดยไม่พูดซ้ำ → ours",
+   "why_wrong": [
+    "our ต้องมีคำนามตาม",
+    "หลังบุพบท next to ใช้ we ไม่ได้",
+    null,
+    "หลังบุพบทใช้ I ไม่ได้"
+   ]
+  },
+  {
+   "id": "C04-2",
+   "skill": "g.pronoun",
+   "difficulty": 1,
+   "stem": "(2) Somchai and ___ twin daughters, Ann and Bee.",
+   "options": [
+    "their",
+    "there",
+    "they",
+    "them"
+   ],
+   "answer": 0,
+   "explanation_th": "ลูกสาวของพวกเขา หน้าคำนาม → their",
+   "why_wrong": [
+    null,
+    "there = ที่นั่น",
+    "they เป็นประธาน",
+    "them เป็นกรรม"
+   ]
+  },
+  {
+   "id": "C04-3",
+   "skill": "g.pronoun",
+   "difficulty": 1,
+   "stem": "(3) ___ look exactly the same, so I can't tell who is who.",
+   "options": [
+    "Them",
+    "They",
+    "Their",
+    "There"
+   ],
+   "answer": 1,
+   "explanation_th": "หน้ากริยา look = ประธาน หมายถึงฝาแฝด → They",
+   "why_wrong": [
+    "Them เป็นกรรม",
+    null,
+    "Their ต้องมีคำนามตาม",
+    "There ไม่ได้หมายถึงฝาแฝด"
+   ]
+  },
+  {
+   "id": "C04-4",
+   "skill": "g.pronoun",
+   "difficulty": 2,
+   "stem": "(4) Somchai brought us a plate of mango sticky rice that she had made ___.",
+   "options": [
+    "her",
+    "hers",
+    "she",
+    "herself"
+   ],
+   "answer": 3,
+   "explanation_th": "ทำเองกับมือ → made herself",
+   "why_wrong": [
+    "made her = ทำตัวเธอ ความหมายผิด",
+    "hers = ของเธอ",
+    "she เป็นประธาน",
+    null
+   ]
+  },
+  {
+   "id": "C04-5",
+   "skill": "g.pronoun",
+   "difficulty": 1,
+   "stem": "(5) My mother wanted to thank ___, so she gave her a basket of fruit from our garden.",
+   "options": [
+    "she",
+    "her",
+    "hers",
+    "herself"
+   ],
+   "answer": 1,
+   "explanation_th": "หลังกริยา thank = กรรม หมายถึงคุณนายสมชาย → her",
+   "why_wrong": [
+    "she เป็นประธาน",
+    null,
+    "hers = ของเธอ",
+    "herself ใช้เมื่อประธานกับกรรมเป็นคนเดียวกัน (my mother ≠ Mrs. Somchai)"
+   ]
+  },
+  {
+   "id": "C04-6",
+   "skill": "g.pronoun",
+   "difficulty": 1,
+   "stem": "(6) ___ favorite game is hide-and-seek.",
+   "options": [
+    "They're",
+    "There",
+    "Their",
+    "Theirs"
+   ],
+   "answer": 2,
+   "explanation_th": "เกมโปรดของพวกเธอ หน้าคำนาม → Their",
+   "why_wrong": [
+    "They're = They are",
+    "There = ที่นั่น",
+    null,
+    "Theirs ใช้โดยไม่มีคำนามตาม"
+   ]
+  },
+  {
+   "id": "C04-7",
+   "skill": "g.pronoun",
+   "difficulty": 1,
+   "stem": "(7) Bee hid behind our sofa, but my sister found ___ quickly because her feet were sticking out.",
+   "options": [
+    "her",
+    "she",
+    "hers",
+    "herself"
+   ],
+   "answer": 0,
+   "explanation_th": "หลังกริยา found = กรรม หมายถึง Bee → her",
+   "why_wrong": [
+    null,
+    "she เป็นประธาน",
+    "hers = ของเธอ",
+    "herself = ตัวน้องสาวเอง ความหมายผิด"
+   ]
+  },
+  {
+   "id": "C04-8",
+   "skill": "g.tense-present",
+   "difficulty": 1,
+   "stem": "(8) My sister says the twins are her best friends now, and they ___ together every day after school.",
+   "options": [
+    "plays",
+    "is playing",
+    "played",
+    "play"
+   ],
+   "answer": 3,
+   "explanation_th": "every day = กิจวัตร ประธาน they → play",
+   "why_wrong": [
+    "they ไม่เติม s",
+    "every day ไม่ใช้รูปกำลังทำ และ they ใช้ are",
+    "played เป็นอดีต ขัดกับ says/are",
+    null
+   ]
+  },
+  {
+   "id": "C04-9",
+   "skill": "g.preposition",
+   "difficulty": 2,
+   "stem": "(9) Our street is much more fun ___ they arrived.",
+   "options": [
+    "for",
+    "since",
+    "during",
+    "by"
+   ],
+   "answer": 1,
+   "explanation_th": "ตั้งแต่ที่พวกเขามาถึง (จุดเริ่ม) → since",
+   "why_wrong": [
+    "for + ระยะเวลา",
+    null,
+    "during ต้องตามด้วยคำนาม",
+    "by they arrived ผิดโครงสร้าง"
+   ]
+  },
+  {
+   "id": "C04-10",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stem": "(10) I hope they stay here for a long time, ___ my sister will be very sad.",
+   "options": [
+    "and",
+    "so",
+    "but",
+    "or"
+   ],
+   "answer": 3,
+   "explanation_th": "or = ไม่อย่างนั้น (ถ้าไม่อยู่นาน น้องจะเศร้า)",
+   "why_wrong": [
+    "and ทำให้ความหมายเป็นว่าอยู่นานแล้วน้องจะเศร้า",
+    "so ทำให้เป็นเหตุผล ไม่สมเหตุผล",
+    "but ไม่แสดงผลที่ตามมาถ้าเงื่อนไขไม่เกิด",
+    null
+   ]
+  }
+ ]
+}

@@ -1,0 +1,209 @@
+{
+ "id": "C09",
+ "title": "A Small Act of Courage",
+ "genre": "เรื่องเล่า",
+ "level": "B1",
+ "text": "Fern was the quietest girl in her class. (1) she often knew the answers, she never raised her hand. One day, the teacher asked a difficult question, (2) nobody answered. Fern's heart was beating fast, (3) she slowly raised her hand. She gave the correct answer, (4) everyone looked surprised.\nAfter class, a classmate told her, \"You should speak more often, (5) your ideas are really good.\" (6) that day, Fern has felt braver. She still gets nervous (7) she speaks in front of people. (8), she now raises her hand at least once a day. Last month, she even joined the debate club (9) her fear. Her teacher says Fern has improved more (10) any other student this year.",
+ "items": [
+  {
+   "id": "C09-1",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stem": "(1) ___ she often knew the answers, she never raised her hand.",
+   "options": [
+    "Because",
+    "So",
+    "Although",
+    "Despite"
+   ],
+   "answer": 2,
+   "explanation_th": "รู้คำตอบแต่ไม่ยกมือ = ขัดกัน + ประโยค → Although",
+   "why_wrong": [
+    "Because ไม่สมเหตุผล",
+    "So ไม่ใช้นำอนุประโยคแบบนี้",
+    null,
+    "Despite ต้องตามด้วยคำนาม"
+   ]
+  },
+  {
+   "id": "C09-2",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stem": "(2) One day, the teacher asked a difficult question, ___ nobody answered.",
+   "options": [
+    "because",
+    "but",
+    "although",
+    "despite"
+   ],
+   "answer": 1,
+   "explanation_th": "ครูถาม แต่ไม่มีใครตอบ = ขัดกับที่ควรเป็น → but",
+   "why_wrong": [
+    "because ทำให้การไม่มีคนตอบเป็นเหตุของการถาม",
+    null,
+    "although ไม่สมเหตุผลในตำแหน่งนี้",
+    "despite ต้องตามด้วยคำนาม"
+   ]
+  },
+  {
+   "id": "C09-3",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stem": "(3) Fern's heart was beating fast, ___ she slowly raised her hand.",
+   "options": [
+    "so",
+    "because",
+    "or",
+    "but"
+   ],
+   "answer": 3,
+   "explanation_th": "ใจเต้นแรง (กลัว) แต่ก็ยกมือ = ขัดกัน → but",
+   "why_wrong": [
+    "so ทำให้การยกมือเป็นผลของความกลัว ไม่สมเหตุผล",
+    "because ไม่สมเหตุผล",
+    "or ใช้กับทางเลือก",
+    null
+   ]
+  },
+  {
+   "id": "C09-4",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stem": "(4) She gave the correct answer, ___ everyone looked surprised.",
+   "options": [
+    "and",
+    "or",
+    "unless",
+    "although"
+   ],
+   "answer": 0,
+   "explanation_th": "ตอบถูก และทุกคนดูแปลกใจ (เหตุการณ์ต่อเนื่อง) → and",
+   "why_wrong": [
+    null,
+    "or ใช้กับทางเลือก",
+    "unless = ถ้าไม่",
+    "although ไม่สมเหตุผล"
+   ]
+  },
+  {
+   "id": "C09-5",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stem": "(5) After class, a classmate told her, \"You should speak more often, ___ your ideas are really good.\"",
+   "options": [
+    "although",
+    "because",
+    "so",
+    "unless"
+   ],
+   "answer": 1,
+   "explanation_th": "ควรพูดบ่อย ๆ เพราะความคิดดี → because",
+   "why_wrong": [
+    "although ไม่สมเหตุผล",
+    null,
+    "so ทำให้ความคิดดีเป็นผลของการพูด กลับด้าน",
+    "unless = ถ้าไม่"
+   ]
+  },
+  {
+   "id": "C09-6",
+   "skill": "g.preposition",
+   "difficulty": 2,
+   "stem": "(6) ___ that day, Fern has felt braver.",
+   "options": [
+    "For",
+    "From",
+    "Since",
+    "During"
+   ],
+   "answer": 2,
+   "explanation_th": "ตั้งแต่วันนั้น + has felt (present perfect) → Since",
+   "why_wrong": [
+    "For + ระยะเวลา",
+    "From ต้องคู่กับ to",
+    null,
+    "During ไม่ใช้กับ present perfect แบบนี้"
+   ]
+  },
+  {
+   "id": "C09-7",
+   "skill": "g.conj-or",
+   "difficulty": 1,
+   "stem": "(7) She still gets nervous ___ she speaks in front of people.",
+   "options": [
+    "what",
+    "which",
+    "whether",
+    "when"
+   ],
+   "answer": 3,
+   "explanation_th": "ตื่นเต้นเวลาที่พูดต่อหน้าคน → when",
+   "why_wrong": [
+    "what ไม่ใช้เชื่อมเวลา",
+    "which ไม่ใช้เชื่อมเวลา",
+    "whether = หรือไม่",
+    null
+   ]
+  },
+  {
+   "id": "C09-8",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stem": "(8) ___, she now raises her hand at least once a day.",
+   "options": [
+    "However",
+    "Therefore",
+    "Because",
+    "So"
+   ],
+   "answer": 0,
+   "explanation_th": "ยังตื่นเต้น อย่างไรก็ตามก็ยกมือทุกวัน = ขัดกัน → However",
+   "why_wrong": [
+    null,
+    "Therefore ทำให้เป็นผล ไม่สมเหตุผล",
+    "Because ไม่ใช้แบบนี้",
+    "So ทำให้เป็นผล ไม่สมเหตุผล"
+   ]
+  },
+  {
+   "id": "C09-9",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stem": "(9) Last month, she even joined the debate club ___ her fear.",
+   "options": [
+    "although",
+    "despite",
+    "because",
+    "so"
+   ],
+   "answer": 1,
+   "explanation_th": "เข้าชมรมโต้วาทีทั้งที่กลัว + คำนาม (her fear) → despite",
+   "why_wrong": [
+    "although ต้องตามด้วยประโยค",
+    null,
+    "because ไม่สมเหตุผลและต้องตามด้วยประโยค",
+    "so ไม่สมเหตุผล"
+   ]
+  },
+  {
+   "id": "C09-10",
+   "skill": "g.fixed",
+   "difficulty": 1,
+   "stem": "(10) Her teacher says Fern has improved more ___ any other student this year.",
+   "options": [
+    "then",
+    "that",
+    "than",
+    "as"
+   ],
+   "answer": 2,
+   "explanation_th": "more … than = มากกว่า",
+   "why_wrong": [
+    "then = จากนั้น",
+    "that ไม่ใช้เปรียบเทียบ",
+    null,
+    "more … as ผิดโครงสร้าง"
+   ]
+  }
+ ]
+}

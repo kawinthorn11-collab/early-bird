@@ -1,0 +1,1320 @@
+{
+ "code": "ENL101",
+ "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+ "in_class_th": [
+  "น่าจะได้เรียกชื่อทางไวยากรณ์เป็นภาษาอังกฤษตลอด เช่น noun, transitive verb, complement และต้องบอกชนิดของคำในประโยคได้",
+  "น่าจะมีแบบฝึกแยกส่วนประกอบประโยค S V O C และจัดประโยคเข้ากับรูปแบบประโยคความเดียว",
+  "น่าจะต้องบอกชื่อ tense และเหตุผลที่ใช้ tense นั้น ไม่ใช่แค่เลือกคำตอบที่ถูก",
+  "การสอบน่าจะมีทั้งข้อเลือกตอบและข้อหาจุดผิดในประโยค (error identification)"
+ ],
+ "units": [
+  {
+   "id": "ENL101-U1",
+   "title_th": "ชนิดของคำและรูปคำ",
+   "title_en": "Parts of speech and word forms",
+   "covers": "ไวยากรณ์ภาษาอังกฤษระดับคำ",
+   "minutes": 12,
+   "lessons": [
+    "L13"
+   ],
+   "cards": [
+    {
+     "title_th": "คำมี 8 ชนิดหลัก",
+     "body_th": "ตำราดั้งเดิมแบ่งคำเป็น 8 ชนิด (parts of speech): noun, pronoun, verb, adjective, adverb, preposition, conjunction, interjection บางตำราแยก determiner (a, the, this, my) ออกมาอีกกลุ่ม ในวิชานี้อาจารย์น่าจะเรียกชื่ออังกฤษตลอด จำชื่ออังกฤษไว้เลย",
+     "example": "Wow (interjection), the cat (noun) sat (verb) on (preposition) the mat."
+    },
+    {
+     "title_th": "ดูหน้าที่ ไม่ใช่ดูหน้าตา",
+     "body_th": "คำเดียวกันเป็นได้หลายชนิด ขึ้นกับว่ามันทำหน้าที่อะไรในประโยคนั้น ถามตัวเองว่าคำนี้ตั้งชื่อสิ่งของ บอกการกระทำ หรือขยายคำอื่น",
+     "example": "I water the plants. (verb) / Drink some water. (noun)"
+    },
+    {
+     "title_th": "หางคำช่วยเดาชนิด",
+     "body_th": "หางคำ (suffix) บอกชนิดคำได้บ่อย -tion, -ness, -ment มักเป็น noun ส่วน -ful, -ous, -ive, -al มักเป็น adjective และ -ly มักเป็น adverb แต่มีข้อยกเว้น เช่น friendly เป็น adjective",
+     "example": "kindness (n), careful (adj), quickly (adv)"
+    },
+    {
+     "title_th": "adjective กับ adverb",
+     "body_th": "adjective ขยายคำนาม (a fast car) ส่วน adverb ขยายกริยา adjective หรือ adverb ด้วยกัน (drive fast, very fast, really good)",
+     "example": "She is a careful driver. / She drives carefully."
+    }
+   ],
+   "vocab": [
+    [
+     "part of speech",
+     "ชนิดของคำ"
+    ],
+    [
+     "noun",
+     "คำนาม"
+    ],
+    [
+     "verb",
+     "คำกริยา"
+    ],
+    [
+     "adjective",
+     "คำคุณศัพท์"
+    ],
+    [
+     "adverb",
+     "คำกริยาวิเศษณ์"
+    ],
+    [
+     "preposition",
+     "คำบุพบท"
+    ],
+    [
+     "conjunction",
+     "คำสันธาน"
+    ],
+    [
+     "suffix",
+     "หางคำ (ปัจจัย)"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL101-U1-01",
+     "skill": "ENL101-U1",
+     "difficulty": 1,
+     "stem": "In the sentence 'Mali bought a red bag,' what part of speech is 'red'?",
+     "options": [
+      "adverb",
+      "noun",
+      "verb",
+      "adjective"
+     ],
+     "answer": 3,
+     "explanation_th": "red อยู่หน้าคำนาม bag และบอกลักษณะของมัน จึงเป็น adjective",
+     "why_wrong": [
+      "adverb ขยายกริยาหรือ adjective แต่ red ขยายคำนาม bag",
+      "ในประโยคนี้ red ไม่ได้เป็นชื่อสิ่งใด แต่บอกลักษณะของ bag",
+      "กริยาของประโยคคือ bought ส่วน red ไม่ได้บอกการกระทำ",
+      null
+     ]
+    },
+    {
+     "id": "ENL101-U1-02",
+     "skill": "ENL101-U1",
+     "difficulty": 1,
+     "stem": "Which word is a noun?",
+     "options": [
+      "happy",
+      "happiness",
+      "happily",
+      "happier"
+     ],
+     "answer": 1,
+     "explanation_th": "หาง -ness ทำให้เป็นคำนาม happiness แปลว่า ความสุข",
+     "why_wrong": [
+      "happy เป็น adjective ใช้บรรยายคน เช่น a happy child",
+      null,
+      "happily ลงท้าย -ly เป็น adverb ขยายกริยา",
+      "happier เป็นรูปเปรียบเทียบของ adjective happy"
+     ]
+    },
+    {
+     "id": "ENL101-U1-03",
+     "skill": "ENL101-U1",
+     "difficulty": 2,
+     "stem": "In 'She speaks very quietly,' what part of speech is 'very'?",
+     "options": [
+      "adjective",
+      "preposition",
+      "adverb",
+      "conjunction"
+     ],
+     "answer": 2,
+     "explanation_th": "very ขยาย adverb quietly เพื่อบอกระดับ คำที่ขยาย adverb ก็เป็น adverb",
+     "why_wrong": [
+      "very ขยาย quietly ซึ่งเป็น adverb ไม่ได้ขยายคำนาม",
+      "preposition ต้องมีคำนามตามหลัง แต่ very ไม่มี",
+      null,
+      "very ไม่ได้เชื่อมคำหรือประโยคสองส่วน"
+     ]
+    },
+    {
+     "id": "ENL101-U1-04",
+     "skill": "ENL101-U1",
+     "difficulty": 2,
+     "stem": "In which sentence is 'light' a verb?",
+     "options": [
+      "Please light the candles.",
+      "This bag is very light.",
+      "The light in my room is broken.",
+      "I like light colors."
+     ],
+     "answer": 0,
+     "explanation_th": "ใน Please light the candles. คำว่า light เป็นการกระทำ (จุด) และมีกรรม the candles จึงเป็น verb",
+     "why_wrong": [
+      null,
+      "light ตรงนี้อยู่หลัง is very และบอกลักษณะของ bag จึงเป็น adjective",
+      "light ตรงนี้อยู่หลัง The และเป็นประธาน จึงเป็น noun",
+      "light ตรงนี้ขยายคำนาม colors จึงเป็น adjective"
+     ]
+    },
+    {
+     "id": "ENL101-U1-05",
+     "skill": "ENL101-U1",
+     "difficulty": 1,
+     "stem": "Which suffix usually makes an adjective?",
+     "options": [
+      "-ful (careful)",
+      "-ness (kindness)",
+      "-ly (quickly)",
+      "-ment (payment)"
+     ],
+     "answer": 0,
+     "explanation_th": "หาง -ful แปลว่า เต็มไปด้วย และทำให้เป็น adjective เช่น careful, helpful",
+     "why_wrong": [
+      null,
+      "-ness ทำให้เป็นคำนาม",
+      "-ly ส่วนใหญ่ทำให้เป็น adverb",
+      "-ment ทำให้เป็นคำนาม"
+     ]
+    },
+    {
+     "id": "ENL101-U1-06",
+     "skill": "ENL101-U1",
+     "difficulty": 1,
+     "stem": "My brother is a ___ driver. He has never had an accident.",
+     "options": [
+      "carefully",
+      "care",
+      "careful",
+      "carelessly"
+     ],
+     "answer": 2,
+     "explanation_th": "หน้าคำนาม driver ต้องใช้ adjective คือ careful",
+     "why_wrong": [
+      "carefully เป็น adverb ขยายคำนาม driver ไม่ได้",
+      "care เป็นคำนามหรือกริยา ไม่ใช่คำบรรยายลักษณะ",
+      null,
+      "carelessly เป็น adverb และความหมาย (สะเพร่า) ขัดกับประโยคหลัง"
+     ]
+    }
+   ],
+   "say": [
+    "A noun names a person, place, thing, or idea.",
+    "An adverb tells us how, when, or where."
+   ],
+   "task_th": "เลือกประโยคภาษาอังกฤษ 3 ประโยคจากเพลงหรือคลิปที่ชอบ เขียนลงกระดาษ แล้วเขียนตัวย่อชนิดคำไว้ใต้ทุกคำ (n, v, adj, adv, prep, conj) ทำให้เสร็จใน 10 นาที"
+  },
+  {
+   "id": "ENL101-U2",
+   "title_th": "ส่วนประกอบประโยคและรูปแบบประโยคความเดียว",
+   "title_en": "Sentence parts and simple sentence patterns",
+   "covers": "และโครงสร้างประโยคความเดียว",
+   "minutes": 14,
+   "lessons": [
+    "L01",
+    "L08"
+   ],
+   "cards": [
+    {
+     "title_th": "ประโยคความเดียวคืออะไร",
+     "body_th": "ประโยคความเดียว (simple sentence) มีอนุประโยคอิสระเพียง 1 อนุประโยค คือมีประธานกับกริยาชุดเดียว ประธานหรือกริยาจะมีหลายตัวเชื่อมด้วย and ก็ยังนับเป็นประโยคความเดียว",
+     "example": "Tom and I play football after school."
+    },
+    {
+     "title_th": "5 รูปแบบพื้นฐาน",
+     "body_th": "S + V (Birds fly.) / S + V + O (I like tea.) / S + V + C (She is a nurse.) / S + V + O + O (He gave me a pen.) / S + V + O + C (They made me happy.)"
+    },
+    {
+     "title_th": "Object กับ Complement ต่างกันยังไง",
+     "body_th": "object คือสิ่งที่รับการกระทำของกริยา ส่วน complement คือคำที่บอกว่าประธานหรือกรรมเป็นอะไรหรือเป็นอย่างไร มักมาหลัง linking verb เช่น be, become, seem, look",
+     "example": "Nida became a teacher. (a teacher = Nida)"
+    },
+    {
+     "title_th": "กริยาต้องเข้ากับประธานตัวจริง",
+     "body_th": "หาประธานตัวจริงก่อน วลีที่แทรกอยู่ เช่น of apples หรือ in the red shirt ไม่ใช่ประธาน",
+     "example": "The box of apples is heavy."
+    }
+   ],
+   "vocab": [
+    [
+     "subject",
+     "ประธาน"
+    ],
+    [
+     "verb",
+     "กริยา"
+    ],
+    [
+     "object",
+     "กรรม"
+    ],
+    [
+     "complement",
+     "ส่วนเติมเต็ม"
+    ],
+    [
+     "simple sentence",
+     "ประโยคความเดียว"
+    ],
+    [
+     "clause",
+     "อนุประโยค"
+    ],
+    [
+     "linking verb",
+     "กริยาเชื่อม"
+    ],
+    [
+     "subject-verb agreement",
+     "ความสอดคล้องของประธานกับกริยา"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL101-U2-01",
+     "skill": "ENL101-U2",
+     "difficulty": 1,
+     "stem": "'My little sister cried.' Which pattern is this?",
+     "options": [
+      "S + V + O",
+      "S + V",
+      "S + V + C",
+      "S + V + O + O"
+     ],
+     "answer": 1,
+     "explanation_th": "มีแค่ประธาน My little sister และกริยา cried จึงเป็น S + V",
+     "why_wrong": [
+      "หลัง cried ไม่มีกรรม",
+      null,
+      "cried ไม่ใช่ linking verb และไม่มีคำเติมเต็มตามหลัง",
+      "ประโยคนี้ไม่มีกรรมเลยสักตัว"
+     ]
+    },
+    {
+     "id": "ENL101-U2-02",
+     "skill": "ENL101-U2",
+     "difficulty": 2,
+     "stem": "In 'My father bought me a new phone,' what is 'me'?",
+     "options": [
+      "subject",
+      "direct object",
+      "complement",
+      "indirect object"
+     ],
+     "answer": 3,
+     "explanation_th": "me เป็นผู้รับประโยชน์ของการซื้อ จึงเป็น indirect object ส่วน a new phone เป็น direct object",
+     "why_wrong": [
+      "ประธานคือ My father",
+      "สิ่งที่ถูกซื้อคือ a new phone ซึ่งเป็น direct object",
+      "me ไม่ได้บอกว่าประธานเป็นอะไร แต่เป็นผู้รับของ",
+      null
+     ]
+    },
+    {
+     "id": "ENL101-U2-03",
+     "skill": "ENL101-U2",
+     "difficulty": 2,
+     "stem": "In 'Nida became a teacher,' what is 'a teacher'?",
+     "options": [
+      "subject complement",
+      "direct object",
+      "adverb",
+      "indirect object"
+     ],
+     "answer": 0,
+     "explanation_th": "a teacher บอกว่าประธาน Nida เป็นอะไร หลัง linking verb จึงเป็น subject complement",
+     "why_wrong": [
+      null,
+      "became เป็น linking verb ไม่มีกรรม และ a teacher ก็คือ Nida เอง",
+      "a teacher เป็นนามวลี ไม่ได้บอกว่าอย่างไร ที่ไหน หรือเมื่อไหร่",
+      "ไม่มีใครรับสิ่งของจากการกระทำในประโยคนี้"
+     ]
+    },
+    {
+     "id": "ENL101-U2-04",
+     "skill": "ENL101-U2",
+     "difficulty": 1,
+     "stem": "Which is a simple sentence?",
+     "options": [
+      "I was tired, so I went to bed.",
+      "My cousin and I study at the same school.",
+      "When it rains, we stay home.",
+      "She sings and her brother plays the guitar."
+     ],
+     "answer": 1,
+     "explanation_th": "My cousin and I เป็นประธานร่วม และมีกริยา study ชุดเดียว จึงยังเป็นประโยคความเดียว",
+     "why_wrong": [
+      "มี 2 อนุประโยคอิสระเชื่อมด้วย so จึงเป็นประโยคความรวม",
+      null,
+      "มีอนุประโยครอง When it rains จึงเป็นประโยคความซ้อน",
+      "มีประธานกับกริยา 2 ชุดเชื่อมด้วย and จึงเป็นประโยคความรวม"
+     ]
+    },
+    {
+     "id": "ENL101-U2-05",
+     "skill": "ENL101-U2",
+     "difficulty": 2,
+     "stem": "Which sentence has the pattern S + V + O + C?",
+     "options": [
+      "Everyone was sad.",
+      "Everyone read the news.",
+      "The news made everyone sad.",
+      "The teacher told us the news."
+     ],
+     "answer": 2,
+     "explanation_th": "everyone เป็นกรรม และ sad บอกสภาพของกรรม จึงเป็น S + V + O + C",
+     "why_wrong": [
+      "เป็น S + V + C ไม่มีกรรม",
+      "เป็น S + V + O ไม่มีส่วนเติมเต็มของกรรม",
+      null,
+      "เป็น S + V + O + O มีกรรม 2 ตัวคือ us กับ the news"
+     ]
+    },
+    {
+     "id": "ENL101-U2-06",
+     "skill": "ENL101-U2",
+     "difficulty": 1,
+     "stem": "One of my friends ___ in Chiang Mai.",
+     "options": [
+      "live",
+      "are living",
+      "have lived",
+      "lives"
+     ],
+     "answer": 3,
+     "explanation_th": "ประธานคือ One ไม่ใช่ friends จึงใช้กริยาเอกพจน์ lives",
+     "why_wrong": [
+      "ประธานตัวจริงคือ One ซึ่งเป็นเอกพจน์ ต้องเติม -s",
+      "are ใช้กับประธานพหูพจน์ แต่ One เป็นเอกพจน์",
+      "have ใช้กับพหูพจน์ ถ้าเป็น One ต้องใช้ has",
+      null
+     ]
+    },
+    {
+     "id": "ENL101-U2-07",
+     "skill": "ENL101-U2",
+     "difficulty": 2,
+     "stem": "What is the subject of 'In the morning, the old man in the red shirt walks his dog'?",
+     "options": [
+      "the morning",
+      "his dog",
+      "the old man in the red shirt",
+      "the red shirt"
+     ],
+     "answer": 2,
+     "explanation_th": "ผู้ทำกริยา walks คือ the old man in the red shirt ทั้งวลี",
+     "why_wrong": [
+      "the morning อยู่ในวลีบุพบท In the morning ซึ่งบอกเวลา",
+      "his dog คือกรรม เป็นสิ่งที่ถูกพาเดิน",
+      null,
+      "the red shirt อยู่ในวลีบุพบท in the red shirt ที่ขยาย man"
+     ]
+    }
+   ],
+   "say": [
+    "Subject, verb, object: I like music.",
+    "A simple sentence has only one main clause."
+   ],
+   "task_th": "เขียนประโยคเกี่ยวกับตัวเอง 5 ประโยคให้ครบ 5 รูปแบบ (S+V, S+V+O, S+V+C, S+V+O+O, S+V+O+C) ขีดเส้นใต้ประธานและวงกลมกริยาทุกประโยค"
+  },
+  {
+   "id": "ENL101-U3",
+   "title_th": "สรรพนาม คำนำหน้านาม และคำบอกปริมาณ",
+   "title_en": "Pronouns, articles, determiners and quantifiers",
+   "covers": "ไวยากรณ์ภาษาอังกฤษระดับคำ",
+   "minutes": 14,
+   "lessons": [
+    "L04",
+    "L05",
+    "L06",
+    "L24"
+   ],
+   "cards": [
+    {
+     "title_th": "สรรพนามมีหลายรูป",
+     "body_th": "ประธาน I, he, they / กรรม me, him, them / หน้าคำนาม my, his, their / ยืนเดี่ยว mine, his, theirs / สะท้อนกลับ myself, themselves เลือกรูปจากตำแหน่งในประโยค",
+     "example": "This is my bag. The bag is mine."
+    },
+    {
+     "title_th": "Determiner คือคำที่อยู่หน้าคำนาม",
+     "body_th": "determiner บอกว่าคำนามนั้นอันไหน ของใคร หรือมีเท่าไหร่ เช่น a, an, the, this, those, my, some, many มันอยู่หน้าคำนามเสมอ",
+     "example": "those shoes, my phone, some water"
+    },
+    {
+     "title_th": "นับได้หรือนับไม่ได้",
+     "body_th": "คำนามนับได้ใช้ many, a few, few ส่วนคำนามนับไม่ได้ใช้ much, a little, little ส่วน a lot of ใช้ได้ทั้งคู่",
+     "example": "a few apples / a little milk"
+    },
+    {
+     "title_th": "a หรือ an ดูที่เสียง",
+     "body_th": "เลือกจากเสียงแรก ไม่ใช่ตัวอักษรแรก ถ้าเสียงแรกเป็นสระใช้ an ถ้าเป็นพยัญชนะใช้ a",
+     "example": "an hour, a university"
+    }
+   ],
+   "vocab": [
+    [
+     "pronoun",
+     "คำสรรพนาม"
+    ],
+    [
+     "determiner",
+     "คำกำหนดนาม"
+    ],
+    [
+     "article",
+     "คำนำหน้านาม a, an, the"
+    ],
+    [
+     "countable noun",
+     "คำนามนับได้"
+    ],
+    [
+     "uncountable noun",
+     "คำนามนับไม่ได้"
+    ],
+    [
+     "quantifier",
+     "คำบอกปริมาณ"
+    ],
+    [
+     "possessive",
+     "แสดงความเป็นเจ้าของ"
+    ],
+    [
+     "reflexive pronoun",
+     "สรรพนามสะท้อนกลับ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL101-U3-01",
+     "skill": "ENL101-U3",
+     "difficulty": 2,
+     "stem": "Which word is a determiner in 'Those shoes are mine'?",
+     "options": [
+      "Those",
+      "shoes",
+      "are",
+      "mine"
+     ],
+     "answer": 0,
+     "explanation_th": "Those อยู่หน้าคำนาม shoes และบอกว่ารองเท้าคู่ไหน จึงเป็น determiner",
+     "why_wrong": [
+      null,
+      "shoes เป็นคำนาม ไม่ใช่คำที่อยู่หน้าคำนาม",
+      "are เป็นกริยา",
+      "mine เป็น possessive pronoun ที่ยืนเดี่ยว ไม่ได้อยู่หน้าคำนาม"
+     ]
+    },
+    {
+     "id": "ENL101-U3-02",
+     "skill": "ENL101-U3",
+     "difficulty": 1,
+     "stem": "This pen isn't ___. It's Ploy's.",
+     "options": [
+      "my",
+      "me",
+      "I",
+      "mine"
+     ],
+     "answer": 3,
+     "explanation_th": "ท้ายประโยคไม่มีคำนามตาม จึงใช้รูปยืนเดี่ยว mine",
+     "why_wrong": [
+      "my ต้องมีคำนามตามหลัง เช่น my pen",
+      "me เป็นรูปกรรม ไม่ได้แสดงความเป็นเจ้าของ",
+      "I เป็นรูปประธาน",
+      null
+     ]
+    },
+    {
+     "id": "ENL101-U3-03",
+     "skill": "ENL101-U3",
+     "difficulty": 1,
+     "stem": "I waited for ___ hour, but the bus didn't come.",
+     "options": [
+      "a",
+      "an",
+      "any",
+      "some"
+     ],
+     "answer": 1,
+     "explanation_th": "hour ออกเสียงว่า อาว-เออะ ขึ้นต้นด้วยเสียงสระ จึงใช้ an",
+     "why_wrong": [
+      "hour ออกเสียงขึ้นต้นด้วยสระ เพราะ h ไม่ออกเสียง",
+      null,
+      "any ใช้กับคำนามพหูพจน์หรือนับไม่ได้ ส่วนใหญ่ในประโยคปฏิเสธหรือคำถาม ไม่ใช้กับ hour เอกพจน์ในประโยคบอกเล่า",
+      "some ใช้กับคำนามพหูพจน์หรือนับไม่ได้ แต่ hour เป็นเอกพจน์"
+     ]
+    },
+    {
+     "id": "ENL101-U3-04",
+     "skill": "ENL101-U3",
+     "difficulty": 2,
+     "stem": "Which noun is uncountable?",
+     "options": [
+      "chair",
+      "information",
+      "idea",
+      "suggestion"
+     ],
+     "answer": 1,
+     "explanation_th": "information เป็นคำนามนับไม่ได้ ไม่เติม -s ถ้าจะนับใช้ a piece of information",
+     "why_wrong": [
+      "chair นับได้ เช่น two chairs",
+      null,
+      "idea นับได้ เช่น three ideas",
+      "suggestion นับได้ เช่น some suggestions"
+     ]
+    },
+    {
+     "id": "ENL101-U3-05",
+     "skill": "ENL101-U3",
+     "difficulty": 1,
+     "stem": "There is only ___ milk left. Please buy some more.",
+     "options": [
+      "a few",
+      "many",
+      "several",
+      "a little"
+     ],
+     "answer": 3,
+     "explanation_th": "milk นับไม่ได้ และประโยคบอกว่าเหลือน้อย จึงใช้ a little",
+     "why_wrong": [
+      "a few ใช้กับคำนามนับได้พหูพจน์ แต่ milk นับไม่ได้",
+      "many ใช้กับคำนามนับได้พหูพจน์",
+      "several ใช้กับคำนามนับได้พหูพจน์",
+      null
+     ]
+    },
+    {
+     "id": "ENL101-U3-06",
+     "skill": "ENL101-U3",
+     "difficulty": 2,
+     "stem": "The children made the cake by ___.",
+     "options": [
+      "themselves",
+      "them",
+      "their",
+      "theirselves"
+     ],
+     "answer": 0,
+     "explanation_th": "by themselves แปลว่า ทำกันเอง ใช้สรรพนามสะท้อนกลับของ they",
+     "why_wrong": [
+      null,
+      "by them หมายถึงคนอื่นกลุ่มหนึ่ง ไม่ใช่เด็กทำเอง และไม่เข้ากับสำนวน by + ตัวเอง",
+      "their ต้องมีคำนามตามหลัง",
+      "ไม่มีคำนี้ในภาษาอังกฤษมาตรฐาน"
+     ]
+    }
+   ],
+   "say": [
+    "This is my bag, and that one is yours.",
+    "I have a few friends here, but not much free time."
+   ],
+   "task_th": "มองรอบห้องหรือเปิดตู้เย็น เขียนชื่อของ 8 อย่างเป็นภาษาอังกฤษ แยกเป็นนับได้กับนับไม่ได้ แล้วแต่งประโยค 2 ประโยค ประโยคหนึ่งใช้ a few อีกประโยคใช้ a little"
+  },
+  {
+   "id": "ENL101-U4",
+   "title_th": "คำบุพบทและการเปรียบเทียบ",
+   "title_en": "Prepositions and comparison",
+   "covers": "ไวยากรณ์ภาษาอังกฤษระดับคำ",
+   "minutes": 12,
+   "lessons": [
+    "L07",
+    "L23"
+   ],
+   "cards": [
+    {
+     "title_th": "บุพบทต้องมีคำนามตามหลัง",
+     "body_th": "preposition ตามด้วยคำนาม สรรพนาม หรือ V-ing เสมอ รวมกันเป็นบุพบทวลี (prepositional phrase)",
+     "example": "after school, with them, before eating"
+    },
+    {
+     "title_th": "in / on / at สำหรับเวลา",
+     "body_th": "in ใช้กับเดือน ปี ช่วงยาว (in August) on ใช้กับวันและวันที่ (on Monday, on 16 August) at ใช้กับเวลาเป็นจุด (at 9 a.m.)"
+    },
+    {
+     "title_th": "คุณศัพท์มี 3 ขั้น",
+     "body_th": "ขั้นปกติ (positive) tall ขั้นกว่า (comparative) taller ขั้นสูงสุด (superlative) the tallest คำยาวใช้ more / the most คำผิดกฎต้องจำ เช่น good, better, best",
+     "example": "beautiful, more beautiful, the most beautiful"
+    },
+    {
+     "title_th": "as ... as แปลว่าเท่ากัน",
+     "body_th": "as + adjective รูปปกติ + as ใช้บอกว่าเท่ากัน ถ้าปฏิเสธ not as ... as แปลว่าน้อยกว่า",
+     "example": "My bag is as heavy as yours."
+    }
+   ],
+   "vocab": [
+    [
+     "preposition",
+     "คำบุพบท"
+    ],
+    [
+     "prepositional phrase",
+     "บุพบทวลี"
+    ],
+    [
+     "comparative",
+     "ขั้นกว่า"
+    ],
+    [
+     "superlative",
+     "ขั้นสูงสุด"
+    ],
+    [
+     "positive degree",
+     "ขั้นปกติ"
+    ],
+    [
+     "irregular",
+     "ผิดกฎ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL101-U4-01",
+     "skill": "ENL101-U4",
+     "difficulty": 1,
+     "stem": "The new term starts ___ August.",
+     "options": [
+      "on",
+      "at",
+      "in",
+      "for"
+     ],
+     "answer": 2,
+     "explanation_th": "ชื่อเดือนใช้ in เสมอ ถ้าไม่มีวันที่",
+     "why_wrong": [
+      "on ใช้กับวันหรือวันที่ เช่น on 16 August",
+      "at ใช้กับเวลาที่เป็นจุด เช่น at nine",
+      null,
+      "for บอกระยะเวลา เช่น for two weeks"
+     ]
+    },
+    {
+     "id": "ENL101-U4-02",
+     "skill": "ENL101-U4",
+     "difficulty": 1,
+     "stem": "What is the comparative form of 'good'?",
+     "options": [
+      "gooder",
+      "more good",
+      "best",
+      "better"
+     ],
+     "answer": 3,
+     "explanation_th": "good, better, best เป็นรูปผิดกฎที่ต้องจำ",
+     "why_wrong": [
+      "good เป็นคำผิดกฎ ไม่เติม -er",
+      "good ไม่ใช้ more ในรูปเปรียบเทียบ",
+      "best เป็นขั้นสูงสุด ไม่ใช่ขั้นกว่า",
+      null
+     ]
+    },
+    {
+     "id": "ENL101-U4-03",
+     "skill": "ENL101-U4",
+     "difficulty": 2,
+     "stem": "Which word in 'We talked about the trip with Ann after dinner' is NOT a preposition?",
+     "options": [
+      "about",
+      "with",
+      "trip",
+      "after"
+     ],
+     "answer": 2,
+     "explanation_th": "trip เป็นคำนามที่ตามหลัง about ไม่ใช่บุพบท",
+     "why_wrong": [
+      "about ตามด้วย the trip จึงเป็นบุพบท",
+      "with ตามด้วย Ann จึงเป็นบุพบท",
+      null,
+      "after ตามด้วย dinner จึงเป็นบุพบท"
+     ]
+    },
+    {
+     "id": "ENL101-U4-04",
+     "skill": "ENL101-U4",
+     "difficulty": 2,
+     "stem": "This is ___ book I have ever read.",
+     "options": [
+      "more interesting",
+      "the most interesting",
+      "the interestingest",
+      "most interesting"
+     ],
+     "answer": 1,
+     "explanation_th": "โครง the + superlative + noun + I have ever + V3 ใช้ the most interesting",
+     "why_wrong": [
+      "I have ever read บอกขั้นสูงสุด ไม่ใช่การเทียบ 2 สิ่ง",
+      null,
+      "คำยาวอย่าง interesting ใช้ most ไม่เติม -est",
+      "ขั้นสูงสุดหน้าคำนามเอกพจน์ต้องมี the"
+     ]
+    },
+    {
+     "id": "ENL101-U4-05",
+     "skill": "ENL101-U4",
+     "difficulty": 1,
+     "stem": "My bag is ___ yours. They both weigh 2 kilos.",
+     "options": [
+      "as heavy as",
+      "heavier than",
+      "the heaviest",
+      "as heavier as"
+     ],
+     "answer": 0,
+     "explanation_th": "หนักเท่ากันใช้ as + รูปปกติ + as",
+     "why_wrong": [
+      null,
+      "ทั้งสองหนักเท่ากัน จึงใช้ heavier ไม่ได้",
+      "ขั้นสูงสุดใช้กับ 3 สิ่งขึ้นไป และไม่ใช่ความหมายเท่ากัน",
+      "ระหว่าง as ... as ต้องใช้รูปปกติ heavy"
+     ]
+    },
+    {
+     "id": "ENL101-U4-06",
+     "skill": "ENL101-U4",
+     "difficulty": 1,
+     "stem": "In 'She is taller than her brother,' 'taller' is in the ___ form.",
+     "options": [
+      "superlative",
+      "comparative",
+      "positive",
+      "plural"
+     ],
+     "answer": 1,
+     "explanation_th": "tall + -er + than คือขั้นกว่า (comparative)",
+     "why_wrong": [
+      "superlative คือ tallest ใช้กับ 3 สิ่งขึ้นไป",
+      null,
+      "positive คือรูปปกติ tall",
+      "plural เป็นเรื่องของคำนาม ไม่ใช่คุณศัพท์"
+     ]
+    }
+   ],
+   "say": [
+    "Class starts at nine o'clock on Monday.",
+    "English is harder than I thought, but it is more fun too."
+   ],
+   "task_th": "เปรียบเทียบตัวเองกับเพื่อนหรือพี่น้อง 1 คน เขียน 5 ประโยค ใช้ -er than 2 ประโยค more ... than 1 ประโยค as ... as 1 ประโยค และ the most 1 ประโยค แล้วอ่านออกเสียง"
+  },
+  {
+   "id": "ENL101-U5",
+   "title_th": "กาลปัจจุบัน",
+   "title_en": "Present tenses",
+   "covers": "กาล",
+   "minutes": 12,
+   "lessons": [
+    "L02"
+   ],
+   "cards": [
+    {
+     "title_th": "Tense คือรูปกริยาที่บอกเวลา",
+     "body_th": "ภาษาอังกฤษมีเวลา 3 แบบ (present, past, future) และลักษณะ 4 แบบ (simple, continuous, perfect, perfect continuous) รวมเป็นชื่อ tense 12 ชื่อ ในวิชานี้ควรเรียกชื่อให้ถูก เช่น present simple, past continuous"
+    },
+    {
+     "title_th": "Present simple",
+     "body_th": "ใช้กับความจริงทั่วไป นิสัย กิจวัตร และตารางเวลา ประธานเอกพจน์บุรุษที่ 3 (he, she, it) เติม -s หรือ -es",
+     "example": "Water boils at 100°C. / She goes to work by train."
+    },
+    {
+     "title_th": "Present continuous",
+     "body_th": "am / is / are + V-ing ใช้กับสิ่งที่กำลังเกิดตอนนี้ หรือช่วงนี้ชั่วคราว",
+     "example": "Look! The bus is coming."
+    },
+    {
+     "title_th": "กริยาบอกสภาวะไม่ค่อยใช้ -ing",
+     "body_th": "กริยาบอกสภาวะ (stative verbs) เช่น know, like, want, believe, own มักไม่ใช้รูป continuous",
+     "example": "I know the answer. (ไม่ใช่ I am knowing)"
+    }
+   ],
+   "vocab": [
+    [
+     "tense",
+     "กาล"
+    ],
+    [
+     "present simple",
+     "ปัจจุบันกาลธรรมดา"
+    ],
+    [
+     "present continuous",
+     "ปัจจุบันกาลกำลังกระทำ"
+    ],
+    [
+     "habit",
+     "นิสัย กิจวัตร"
+    ],
+    [
+     "stative verb",
+     "กริยาบอกสภาวะ"
+    ],
+    [
+     "aspect",
+     "ลักษณะของการกระทำ"
+    ],
+    [
+     "third person singular",
+     "บุรุษที่ 3 เอกพจน์"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL101-U5-01",
+     "skill": "ENL101-U5",
+     "difficulty": 1,
+     "stem": "'Water boils at 100°C.' What tense is this?",
+     "options": [
+      "present simple",
+      "present continuous",
+      "present perfect",
+      "past simple"
+     ],
+     "answer": 0,
+     "explanation_th": "เป็นความจริงทั่วไป ใช้ present simple (boil + s)",
+     "why_wrong": [
+      null,
+      "ไม่มี is + V-ing",
+      "ไม่มี has + V3",
+      "boils ไม่ใช่รูปอดีต"
+     ]
+    },
+    {
+     "id": "ENL101-U5-02",
+     "skill": "ENL101-U5",
+     "difficulty": 1,
+     "stem": "Look! The bus ___.",
+     "options": [
+      "comes",
+      "came",
+      "coming",
+      "is coming"
+     ],
+     "answer": 3,
+     "explanation_th": "Look! บอกว่ากำลังเกิดขึ้นตอนนี้ ใช้ is + V-ing",
+     "why_wrong": [
+      "Look! บอกว่ากำลังเกิดต่อหน้า present simple ใช้กับนิสัยหรือความจริงทั่วไป",
+      "came เป็นอดีต แต่ Look! บอกว่ากำลังเกิดตอนนี้",
+      "ขาดกริยาช่วย is",
+      null
+     ]
+    },
+    {
+     "id": "ENL101-U5-03",
+     "skill": "ENL101-U5",
+     "difficulty": 2,
+     "stem": "I ___ the answer now. Thank you!",
+     "options": [
+      "am knowing",
+      "knowing",
+      "know",
+      "knows"
+     ],
+     "answer": 2,
+     "explanation_th": "know เป็น stative verb แม้มี now ก็ใช้ present simple",
+     "why_wrong": [
+      "know เป็นกริยาบอกสภาวะ ไม่ใช้รูป -ing",
+      "ขาดกริยาแท้ และ know ไม่ใช้รูป -ing",
+      null,
+      "ประธาน I ไม่เติม -s"
+     ]
+    },
+    {
+     "id": "ENL101-U5-04",
+     "skill": "ENL101-U5",
+     "difficulty": 1,
+     "stem": "My sister ___ to work by train every day.",
+     "options": [
+      "go",
+      "going",
+      "goes",
+      "gone"
+     ],
+     "answer": 2,
+     "explanation_th": "every day บอกกิจวัตร ใช้ present simple และประธานเอกพจน์จึงเป็น goes",
+     "why_wrong": [
+      "ประธาน My sister เป็นเอกพจน์บุรุษที่ 3 ต้องเติม -es",
+      "ขาดกริยาช่วย และ every day บอกกิจวัตรซึ่งใช้ present simple",
+      null,
+      "gone เป็นกริยาช่อง 3 ใช้เดี่ยว ๆ ไม่ได้"
+     ]
+    },
+    {
+     "id": "ENL101-U5-05",
+     "skill": "ENL101-U5",
+     "difficulty": 2,
+     "stem": "Which sentence is in the present continuous?",
+     "options": [
+      "They watch movies on Fridays.",
+      "They have watched three movies.",
+      "They watched a movie last night.",
+      "They are watching a movie right now."
+     ],
+     "answer": 3,
+     "explanation_th": "are + watching คือ present continuous และ right now ช่วยยืนยัน",
+     "why_wrong": [
+      "เป็น present simple บอกกิจวัตร",
+      "เป็น present perfect",
+      "เป็น past simple",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "I usually wake up at seven.",
+    "Right now, I am studying English grammar."
+   ],
+   "task_th": "อัดเสียง 30 วินาทีเล่าวันธรรมดาของตัวเองด้วย present simple อย่างน้อย 4 ประโยค (I usually..., I often...) แล้วเล่าต่ออีก 2 ประโยคเรื่องกิจวัตรของคนในบ้าน ฟังซ้ำแล้วเช็กว่าเติม -s กับ he / she ครบไหม"
+  },
+  {
+   "id": "ENL101-U6",
+   "title_th": "กาลอดีต",
+   "title_en": "Past tenses",
+   "covers": "กาล",
+   "minutes": 12,
+   "lessons": [
+    "L03"
+   ],
+   "cards": [
+    {
+     "title_th": "Past simple",
+     "body_th": "ใช้กับเหตุการณ์ที่จบแล้วในอดีต มักมีคำบอกเวลา เช่น yesterday, last year, in 2020",
+     "example": "I went to the market yesterday."
+    },
+    {
+     "title_th": "Past continuous",
+     "body_th": "was / were + V-ing ใช้กับสิ่งที่กำลังเกิดอยู่ ณ จุดหนึ่งในอดีต หรือกำลังเกิดอยู่แล้วมีอีกเหตุการณ์แทรกเข้ามา",
+     "example": "I was cooking when my phone rang."
+    },
+    {
+     "title_th": "Past perfect",
+     "body_th": "had + V3 ใช้กับเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์ในอดีต",
+     "example": "When we arrived, the movie had already started."
+    },
+    {
+     "title_th": "กริยาผิดกฎต้องจำ",
+     "body_th": "กริยาจำนวนมากไม่เติม -ed เช่น go, went, gone / buy, bought, bought / bring, brought, brought ทบทวนวันละ 5 คำ"
+    }
+   ],
+   "vocab": [
+    [
+     "past simple",
+     "อดีตกาลธรรมดา"
+    ],
+    [
+     "past continuous",
+     "อดีตกาลกำลังกระทำ"
+    ],
+    [
+     "past perfect",
+     "อดีตกาลสมบูรณ์"
+    ],
+    [
+     "irregular verb",
+     "กริยาผิดกฎ"
+    ],
+    [
+     "past participle",
+     "กริยาช่อง 3"
+    ],
+    [
+     "sequence",
+     "ลำดับเหตุการณ์"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL101-U6-01",
+     "skill": "ENL101-U6",
+     "difficulty": 1,
+     "stem": "I ___ dinner when my phone rang.",
+     "options": [
+      "was cooking",
+      "am cooking",
+      "have cooked",
+      "cooks"
+     ],
+     "answer": 0,
+     "explanation_th": "การทำอาหารกำลังเกิดอยู่แล้วโทรศัพท์ดังแทรก ใช้ past continuous",
+     "why_wrong": [
+      null,
+      "am เป็นปัจจุบัน แต่ rang เป็นอดีต",
+      "present perfect ใช้กับเหตุการณ์ที่มีเวลาในอดีตชัดเจนไม่ได้",
+      "ประธาน I ไม่เติม -s และเป็นรูปปัจจุบัน"
+     ]
+    },
+    {
+     "id": "ENL101-U6-02",
+     "skill": "ENL101-U6",
+     "difficulty": 2,
+     "stem": "When we arrived at the cinema, the movie ___. We missed the first ten minutes.",
+     "options": [
+      "already starts",
+      "had already started",
+      "has already started",
+      "will start"
+     ],
+     "answer": 1,
+     "explanation_th": "หนังเริ่มก่อนที่เราจะไปถึง จึงใช้ past perfect had + V3",
+     "why_wrong": [
+      "เป็นรูปปัจจุบัน แต่เรื่องเล่าเป็นอดีต",
+      null,
+      "present perfect ไม่เข้ากับเรื่องเล่าในอดีตที่มี arrived",
+      "หนังเริ่มไปแล้ว เพราะพลาด 10 นาทีแรก"
+     ]
+    },
+    {
+     "id": "ENL101-U6-03",
+     "skill": "ENL101-U6",
+     "difficulty": 1,
+     "stem": "What is the past simple of 'buy'?",
+     "options": [
+      "buyed",
+      "brought",
+      "buy",
+      "bought"
+     ],
+     "answer": 3,
+     "explanation_th": "buy, bought, bought",
+     "why_wrong": [
+      "buy เป็นกริยาผิดกฎ ไม่เติม -ed",
+      "brought เป็นอดีตของ bring (นำมา)",
+      "buy เป็นรูปปัจจุบัน",
+      null
+     ]
+    },
+    {
+     "id": "ENL101-U6-04",
+     "skill": "ENL101-U6",
+     "difficulty": 1,
+     "stem": "'She was sleeping at 10 p.m. last night.' What tense is 'was sleeping'?",
+     "options": [
+      "past simple",
+      "past continuous",
+      "past perfect",
+      "present continuous"
+     ],
+     "answer": 1,
+     "explanation_th": "was + V-ing คือ past continuous บอกสิ่งที่กำลังทำ ณ เวลาหนึ่งในอดีต",
+     "why_wrong": [
+      "past simple คือ slept ไม่มี -ing",
+      null,
+      "past perfect คือ had slept",
+      "was เป็นอดีต ไม่ใช่ is"
+     ]
+    },
+    {
+     "id": "ENL101-U6-05",
+     "skill": "ENL101-U6",
+     "difficulty": 2,
+     "stem": "Which sentence uses the past perfect correctly?",
+     "options": [
+      "After I have finished my homework, I watched TV.",
+      "After I had finish my homework, I watched TV.",
+      "After I had finished my homework, I watched TV.",
+      "After I finished my homework, I had watch TV."
+     ],
+     "answer": 2,
+     "explanation_th": "ทำการบ้านเสร็จก่อน ใช้ had finished แล้วจึงดูทีวี ใช้ past simple",
+     "why_wrong": [
+      "have finished เป็นปัจจุบัน ใช้คู่กับ watched ในเรื่องเล่าอดีตไม่ได้",
+      "หลัง had ต้องเป็นกริยาช่อง 3 finished",
+      null,
+      "had watch ผิดรูป และดูทีวีเป็นเหตุการณ์ที่เกิดทีหลัง"
+     ]
+    }
+   ],
+   "say": [
+    "Yesterday I went to the market with my mom.",
+    "When I got home, my brother had already eaten."
+   ],
+   "task_th": "เขียนเรื่องสั้น 5 ประโยคเรื่องเมื่อวานของตัวเอง ใช้ past simple ทุกประโยค และมี was / were + V-ing อย่างน้อย 1 ประโยค แล้ววงกลมกริยาผิดกฎทุกตัว"
+  },
+  {
+   "id": "ENL101-U7",
+   "title_th": "ปัจจุบันสมบูรณ์และอนาคต",
+   "title_en": "Present perfect and the future",
+   "covers": "กาล",
+   "minutes": 14,
+   "lessons": [
+    "L25",
+    "L26"
+   ],
+   "cards": [
+    {
+     "title_th": "Present perfect โยงอดีตถึงตอนนี้",
+     "body_th": "has / have + V3 ใช้กับประสบการณ์ (ever, never) สิ่งที่เพิ่งเกิดและยังมีผล (just, already, yet) และสิ่งที่เริ่มในอดีตแล้วยังเป็นอยู่ (since, for)",
+     "example": "I have lived here since 2019."
+    },
+    {
+     "title_th": "since กับ for",
+     "body_th": "since + จุดเริ่ม (since Monday, since 2019) ส่วน for + ช่วงเวลา (for three years)"
+    },
+    {
+     "title_th": "ถ้ามีเวลาที่จบแล้ว ใช้ past simple",
+     "body_th": "present perfect ไม่ใช้กับคำบอกเวลาที่จบแล้ว เช่น yesterday, last week",
+     "example": "I saw that film last week."
+    },
+    {
+     "title_th": "อนาคต 3 แบบหลัก",
+     "body_th": "will ใช้ตัดสินใจตอนพูดหรือคาดการณ์ / be going to ใช้กับแผนที่ตั้งใจไว้แล้ว / present continuous ใช้กับนัดที่ตกลงกันแล้ว",
+     "example": "OK, I'll answer it. / I'm going to paint my room. / We're meeting at 3."
+    }
+   ],
+   "vocab": [
+    [
+     "present perfect",
+     "ปัจจุบันกาลสมบูรณ์"
+    ],
+    [
+     "experience",
+     "ประสบการณ์"
+    ],
+    [
+     "since",
+     "ตั้งแต่ (จุดเริ่ม)"
+    ],
+    [
+     "for",
+     "เป็นเวลา (ช่วงเวลา)"
+    ],
+    [
+     "intention",
+     "ความตั้งใจ"
+    ],
+    [
+     "arrangement",
+     "นัดหมายที่ตกลงแล้ว"
+    ],
+    [
+     "prediction",
+     "การคาดการณ์"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL101-U7-01",
+     "skill": "ENL101-U7",
+     "difficulty": 1,
+     "stem": "I ___ in this house since 2019.",
+     "options": [
+      "have lived",
+      "lived",
+      "live",
+      "was living"
+     ],
+     "answer": 0,
+     "explanation_th": "เริ่มในอดีตและยังอยู่ถึงตอนนี้ ใช้ have + V3",
+     "why_wrong": [
+      null,
+      "since บอกว่ายังอยู่ถึงตอนนี้ past simple จึงไม่เข้า",
+      "present simple ใช้กับ since ไม่ได้",
+      "past continuous ไม่โยงมาถึงปัจจุบัน"
+     ]
+    },
+    {
+     "id": "ENL101-U7-02",
+     "skill": "ENL101-U7",
+     "difficulty": 1,
+     "stem": "___ you ever ___ sushi?",
+     "options": [
+      "Have / eaten",
+      "Did / eaten",
+      "Have / ate",
+      "Are / eat"
+     ],
+     "answer": 0,
+     "explanation_th": "ถามประสบการณ์ด้วย ever ใช้ Have + ประธาน + ever + V3",
+     "why_wrong": [
+      null,
+      "หลัง Did ต้องเป็นกริยาช่อง 1 eat",
+      "ate เป็นกริยาช่อง 2 หลัง have ต้องเป็นช่อง 3",
+      "are ไม่ใช้กับกริยาช่อง 1 ในการถามประสบการณ์"
+     ]
+    },
+    {
+     "id": "ENL101-U7-03",
+     "skill": "ENL101-U7",
+     "difficulty": 1,
+     "stem": "A: The phone is ringing. B: OK, I ___ it.",
+     "options": [
+      "answered",
+      "have answered",
+      "will answer",
+      "was answering"
+     ],
+     "answer": 2,
+     "explanation_th": "ตัดสินใจทันทีตอนพูด ใช้ will ย่อเป็น I'll",
+     "why_wrong": [
+      "answered เป็นอดีต แต่โทรศัพท์ยังดังอยู่ ยังไม่มีใครรับ",
+      "ยังไม่ได้รับ จึงใช้ present perfect ไม่ได้",
+      null,
+      "past continuous ไม่เข้ากับการตัดสินใจตอนนี้"
+     ]
+    },
+    {
+     "id": "ENL101-U7-04",
+     "skill": "ENL101-U7",
+     "difficulty": 2,
+     "stem": "'We are meeting our teacher at 3 p.m. tomorrow.' What does the present continuous show here?",
+     "options": [
+      "an action happening right now",
+      "a fixed plan for the future",
+      "a daily habit",
+      "a finished past action"
+     ],
+     "answer": 1,
+     "explanation_th": "present continuous + เวลาในอนาคต บอกนัดที่ตกลงกันแล้ว",
+     "why_wrong": [
+      "มี tomorrow จึงไม่ใช่ตอนนี้",
+      null,
+      "นิสัยใช้ present simple",
+      "tomorrow เป็นอนาคต"
+     ]
+    },
+    {
+     "id": "ENL101-U7-05",
+     "skill": "ENL101-U7",
+     "difficulty": 1,
+     "stem": "What tense is 'She has just finished her report'?",
+     "options": [
+      "past perfect",
+      "past simple",
+      "present continuous",
+      "present perfect"
+     ],
+     "answer": 3,
+     "explanation_th": "has + just + V3 คือ present perfect บอกสิ่งที่เพิ่งเกิด",
+     "why_wrong": [
+      "past perfect ใช้ had ไม่ใช่ has",
+      "past simple คือ finished เฉย ๆ ไม่มี has",
+      "ไม่มี is + V-ing",
+      null
+     ]
+    },
+    {
+     "id": "ENL101-U7-06",
+     "skill": "ENL101-U7",
+     "difficulty": 2,
+     "stem": "Which sentence is correct?",
+     "options": [
+      "I saw that film last week.",
+      "I have seen that film last week.",
+      "I have see that film.",
+      "I seen that film last week."
+     ],
+     "answer": 0,
+     "explanation_th": "last week เป็นเวลาที่จบแล้ว ใช้ past simple saw",
+     "why_wrong": [
+      null,
+      "present perfect ใช้กับเวลาที่จบแล้ว เช่น last week ไม่ได้",
+      "หลัง have ต้องเป็นช่อง 3 seen",
+      "seen ต้องมี have นำหน้า ถ้าเป็นอดีตธรรมดาใช้ saw"
+     ]
+    }
+   ],
+   "say": [
+    "I have already finished my homework.",
+    "My first term starts in August, so I am going to practice every day."
+   ],
+   "task_th": "เขียน 3 ประโยคเรื่องสิ่งที่เคยทำแล้วด้วย I have ... และอีก 3 ประโยคเรื่องแผนก่อนเปิดเทอมด้วย I am going to ... แล้วอัดเสียงพูดทั้ง 6 ประโยค"
+  }
+ ]
+}

@@ -1,0 +1,205 @@
+[
+ {
+  "id": "g.sentence",
+  "group": "grammar",
+  "name_th": "ช่องนี้ขาดอะไร (ส่วนประกอบประโยค)",
+  "name_en": "Sentence parts",
+  "lesson": "L01"
+ },
+ {
+  "id": "g.tense-present",
+  "group": "grammar",
+  "name_th": "Present simple / continuous",
+  "name_en": "Present tenses",
+  "lesson": "L02"
+ },
+ {
+  "id": "g.tense-past",
+  "group": "grammar",
+  "name_th": "Tense ในเรื่องเล่า (past / past perfect)",
+  "name_en": "Past tenses in stories",
+  "lesson": "L03"
+ },
+ {
+  "id": "g.pronoun",
+  "group": "grammar",
+  "name_th": "Pronoun (him / them / his / their)",
+  "name_en": "Pronouns",
+  "lesson": "L04"
+ },
+ {
+  "id": "g.article",
+  "group": "grammar",
+  "name_th": "a / an / the / some / any",
+  "name_en": "Articles & determiners",
+  "lesson": "L05"
+ },
+ {
+  "id": "g.demonstrative",
+  "group": "grammar",
+  "name_th": "this / that / these / those",
+  "name_en": "Demonstratives",
+  "lesson": "L06"
+ },
+ {
+  "id": "g.preposition",
+  "group": "grammar",
+  "name_th": "Preposition (of / by / during / to)",
+  "name_en": "Prepositions",
+  "lesson": "L07"
+ },
+ {
+  "id": "g.agreement",
+  "group": "grammar",
+  "name_th": "ประธานกับกริยาต้องตรงกัน",
+  "name_en": "Subject-verb agreement",
+  "lesson": "L08"
+ },
+ {
+  "id": "g.conj-contrast",
+  "group": "grammar",
+  "name_th": "คำเชื่อม but / although / because / so",
+  "name_en": "Linkers of contrast & cause",
+  "lesson": "L09"
+ },
+ {
+  "id": "g.conj-or",
+  "group": "grammar",
+  "name_th": "or = ไม่อย่างนั้น / whether / whenever",
+  "name_en": "or, whether, -ever words",
+  "lesson": "L10"
+ },
+ {
+  "id": "g.relative",
+  "group": "grammar",
+  "name_th": "Relative clause (who / which / that / where / what)",
+  "name_en": "Relative clauses",
+  "lesson": "L11"
+ },
+ {
+  "id": "g.passive",
+  "group": "grammar",
+  "name_th": "Active / Passive + by",
+  "name_en": "Passive voice",
+  "lesson": "L12"
+ },
+ {
+  "id": "g.wordform",
+  "group": "grammar",
+  "name_th": "Word form (noun / adj / adv / V-ing)",
+  "name_en": "Word forms",
+  "lesson": "L13"
+ },
+ {
+  "id": "g.gerund-inf",
+  "group": "grammar",
+  "name_th": "V-ing / to V (รวม too…to)",
+  "name_en": "Gerunds & infinitives",
+  "lesson": "L14"
+ },
+ {
+  "id": "g.modal-perfect",
+  "group": "grammar",
+  "name_th": "could / should / might + have + V3",
+  "name_en": "Modal perfect",
+  "lesson": "L15"
+ },
+ {
+  "id": "g.conditional",
+  "group": "grammar",
+  "name_th": "If 3 แบบ",
+  "name_en": "Conditionals",
+  "lesson": "L16"
+ },
+ {
+  "id": "g.parallel",
+  "group": "grammar",
+  "name_th": "Parallel structure (คู่ขนาน)",
+  "name_en": "Parallel structure",
+  "lesson": "L17"
+ },
+ {
+  "id": "g.fixed",
+  "group": "grammar",
+  "name_th": "โครงสร้างตายตัว (as far as… / in spite of)",
+  "name_en": "Fixed expressions",
+  "lesson": "L18"
+ },
+ {
+  "id": "r.reference",
+  "group": "reading",
+  "name_th": "Reference: คำนี้หมายถึงอะไร",
+  "name_en": "Reference words",
+  "lesson": "L19"
+ },
+ {
+  "id": "r.vocab",
+  "group": "reading",
+  "name_th": "เดาศัพท์จากบริบท",
+  "name_en": "Vocabulary in context",
+  "lesson": "L20"
+ },
+ {
+  "id": "r.detail",
+  "group": "reading",
+  "name_th": "รายละเอียด / ถอดความ",
+  "name_en": "Detail & paraphrase",
+  "lesson": "L21"
+ },
+ {
+  "id": "r.not-true",
+  "group": "reading",
+  "name_th": "คำถาม NOT / is true",
+  "name_en": "NOT / TRUE questions",
+  "lesson": "L21"
+ },
+ {
+  "id": "r.inference",
+  "group": "reading",
+  "name_th": "อนุมาน (รวม ถ้าไม่ทำ X จะเป็นอย่างไร)",
+  "name_en": "Inference",
+  "lesson": "L22"
+ },
+ {
+  "id": "g.comparison",
+  "group": "grammar",
+  "name_th": "เปรียบเทียบ (-er / more / the most / as…as)",
+  "name_en": "Comparatives and superlatives",
+  "lesson": "L23"
+ },
+ {
+  "id": "g.quantifier",
+  "group": "grammar",
+  "name_th": "คำบอกปริมาณ (much / many / few / little)",
+  "name_en": "Quantifiers",
+  "lesson": "L24"
+ },
+ {
+  "id": "g.present-perfect",
+  "group": "grammar",
+  "name_th": "Present perfect (have + V3, since / for)",
+  "name_en": "Present perfect vs past simple",
+  "lesson": "L25"
+ },
+ {
+  "id": "g.future",
+  "group": "grammar",
+  "name_th": "อนาคต (will / be going to)",
+  "name_en": "Future forms",
+  "lesson": "L26"
+ },
+ {
+  "id": "g.reported",
+  "group": "grammar",
+  "name_th": "Reported speech (เล่าคำพูดคนอื่น)",
+  "name_en": "Reported speech",
+  "lesson": "L27"
+ },
+ {
+  "id": "r.main-idea",
+  "group": "reading",
+  "name_th": "ใจความหลัก / ชื่อเรื่อง / จุดประสงค์ผู้เขียน",
+  "name_en": "Main idea, title and purpose",
+  "lesson": "L28"
+ }
+]

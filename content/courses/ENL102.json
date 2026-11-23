@@ -1,0 +1,1376 @@
+{
+ "code": "ENL102",
+ "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+ "in_class_th": [
+  "น่าจะต้องแยกชนิดของวลี (noun phrase, verb phrase, prepositional phrase ฯลฯ) และหาคำหลัก (head) ของวลีได้",
+  "น่าจะมีแบบฝึกบอกชนิดประโยค simple, compound, complex, compound-complex",
+  "น่าจะต่อยอดจาก ENL101 โดยตรง เช่น เอาประโยคความเดียวหลายประโยคมารวมเป็นประโยคความรวมหรือความซ้อน",
+  "อาจมีงานเขียนประโยคหรือย่อหน้าสั้นที่ต้องใช้โครงสร้างประโยคหลายแบบ"
+ ],
+ "units": [
+  {
+   "id": "ENL102-U1",
+   "title_th": "วลีชนิดต่าง ๆ",
+   "title_en": "Types of phrases",
+   "covers": "ไวยากรณ์ภาษาอังกฤษในระดับวลี",
+   "minutes": 15,
+   "lessons": [
+    "L14"
+   ],
+   "cards": [
+    {
+     "title_th": "วลีคืออะไร",
+     "body_th": "วลี (phrase) คือกลุ่มคำที่ทำหน้าที่เหมือนคำเดียว และไม่มีประธานกับกริยาเป็นคู่ของตัวเอง ถ้ามีประธานกับกริยาเป็นคู่จะเรียกว่าอนุประโยค (clause)",
+     "example": "after the long meeting (phrase) / after the meeting ended (clause)"
+    },
+    {
+     "title_th": "ชื่อวลีมาจากคำหลัก",
+     "body_th": "ทุกวลีมีคำหลัก (head) ชื่อวลีตั้งตามคำหลัก noun phrase: the tall man in the corner (head = man) / adjective phrase: very proud of you (head = proud) / adverb phrase: quite slowly (head = slowly) / prepositional phrase: under the table (head = under)"
+    },
+    {
+     "title_th": "Gerund phrase กับ infinitive phrase",
+     "body_th": "V-ing ที่ใช้เป็นคำนามเรียกว่า gerund ส่วน to + V เรียกว่า infinitive ทั้งคู่พาคำอื่นมาด้วยเป็นวลีได้",
+     "example": "Swimming in the sea is fun. / She saved money to buy a laptop."
+    },
+    {
+     "title_th": "ทดสอบด้วยการแทนที่",
+     "body_th": "ถ้าแทนกลุ่มคำด้วยคำเดียวแล้วประโยคยังถูก กลุ่มคำนั้นน่าจะเป็นวลีเดียวกัน",
+     "example": "The tall man in the corner is my uncle. → He is my uncle."
+    }
+   ],
+   "vocab": [
+    [
+     "phrase",
+     "วลี"
+    ],
+    [
+     "clause",
+     "อนุประโยค"
+    ],
+    [
+     "head word",
+     "คำหลัก"
+    ],
+    [
+     "noun phrase",
+     "นามวลี"
+    ],
+    [
+     "verb phrase",
+     "กริยาวลี"
+    ],
+    [
+     "prepositional phrase",
+     "บุพบทวลี"
+    ],
+    [
+     "adjective phrase",
+     "คุณศัพท์วลี"
+    ],
+    [
+     "adverb phrase",
+     "กริยาวิเศษณ์วลี"
+    ],
+    [
+     "gerund",
+     "V-ing ที่ใช้เป็นคำนาม"
+    ],
+    [
+     "infinitive",
+     "กริยารูป to + V"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL102-U1-01",
+     "skill": "ENL102-U1",
+     "difficulty": 1,
+     "stem": "Which is a phrase, not a clause?",
+     "options": [
+      "after the meeting ended",
+      "because she was late",
+      "when I arrived",
+      "after the long meeting"
+     ],
+     "answer": 3,
+     "explanation_th": "after the long meeting ไม่มีกริยาเลย จึงเป็นวลี",
+     "why_wrong": [
+      "มีประธาน the meeting กับกริยา ended จึงเป็นอนุประโยค",
+      "มีประธาน she กับกริยา was จึงเป็นอนุประโยค",
+      "มีประธาน I กับกริยา arrived จึงเป็นอนุประโยค",
+      null
+     ]
+    },
+    {
+     "id": "ENL102-U1-02",
+     "skill": "ENL102-U1",
+     "difficulty": 1,
+     "stem": "'The old house near the river' is a ___.",
+     "options": [
+      "prepositional phrase",
+      "noun phrase",
+      "verb phrase",
+      "clause"
+     ],
+     "answer": 1,
+     "explanation_th": "คำหลักคือคำนาม house ทั้งกลุ่มจึงเป็น noun phrase",
+     "why_wrong": [
+      "near the river เป็นแค่ส่วนขยาย คำหลักของทั้งกลุ่มคือ house",
+      null,
+      "ไม่มีกริยาในกลุ่มคำนี้",
+      "ไม่มีประธานกับกริยาเป็นคู่"
+     ]
+    },
+    {
+     "id": "ENL102-U1-03",
+     "skill": "ENL102-U1",
+     "difficulty": 2,
+     "stem": "What is the head word of 'a very expensive new phone'?",
+     "options": [
+      "expensive",
+      "very",
+      "phone",
+      "new"
+     ],
+     "answer": 2,
+     "explanation_th": "คำอื่นทั้งหมดขยาย phone ดังนั้น phone เป็นคำหลัก",
+     "why_wrong": [
+      "expensive เป็นคุณศัพท์ที่ขยาย phone",
+      "very ขยาย expensive",
+      null,
+      "new เป็นคุณศัพท์ที่ขยาย phone"
+     ]
+    },
+    {
+     "id": "ENL102-U1-04",
+     "skill": "ENL102-U1",
+     "difficulty": 1,
+     "stem": "In 'The cat slept under the table,' what is 'under the table'?",
+     "options": [
+      "a prepositional phrase",
+      "a noun phrase",
+      "an adjective phrase",
+      "a verb phrase"
+     ],
+     "answer": 0,
+     "explanation_th": "บุพบท under + นามวลี the table รวมเป็น prepositional phrase",
+     "why_wrong": [
+      null,
+      "กลุ่มนี้ขึ้นต้นด้วยบุพบท under คำนาม the table เป็นแค่กรรมของบุพบท",
+      "ไม่มีคุณศัพท์เป็นคำหลัก",
+      "ไม่มีกริยาในกลุ่มคำนี้"
+     ]
+    },
+    {
+     "id": "ENL102-U1-05",
+     "skill": "ENL102-U1",
+     "difficulty": 2,
+     "stem": "In 'She has been studying since noon,' which words are the auxiliaries plus the main verb?",
+     "options": [
+      "has been studying",
+      "been studying",
+      "has been",
+      "studying since noon"
+     ],
+     "answer": 0,
+     "explanation_th": "กริยาช่วย has + been กับกริยาหลัก studying รวมเป็นชุดกริยา",
+     "why_wrong": [
+      null,
+      "ขาดกริยาช่วยตัวแรก has",
+      "ขาดกริยาหลัก studying",
+      "since noon เป็นบุพบทวลี ไม่ใช่กริยา และขาดกริยาช่วย"
+     ]
+    },
+    {
+     "id": "ENL102-U1-06",
+     "skill": "ENL102-U1",
+     "difficulty": 2,
+     "stem": "In 'I am very proud of my sister,' what is 'very proud of my sister'?",
+     "options": [
+      "an adverb phrase",
+      "a noun phrase",
+      "an adjective phrase",
+      "a verb phrase"
+     ],
+     "answer": 2,
+     "explanation_th": "คำหลักคือ proud (adjective) มี very และ of my sister มาขยาย จึงเป็น adjective phrase",
+     "why_wrong": [
+      "คำหลักคือ proud ซึ่งเป็นคุณศัพท์ ไม่ใช่ adverb",
+      "sister อยู่ในบุพบทวลีที่ขยาย proud ไม่ใช่คำหลัก",
+      null,
+      "กริยาของประโยคคือ am ซึ่งไม่อยู่ในกลุ่มคำนี้"
+     ]
+    },
+    {
+     "id": "ENL102-U1-07",
+     "skill": "ENL102-U1",
+     "difficulty": 2,
+     "stem": "What kind of phrase is 'Swimming in the sea' in 'Swimming in the sea is fun'?",
+     "options": [
+      "an infinitive phrase",
+      "a gerund phrase",
+      "a prepositional phrase",
+      "an adjective phrase"
+     ],
+     "answer": 1,
+     "explanation_th": "V-ing ที่ทำหน้าที่เป็นประธานคือ gerund พร้อมคำที่ตามมาจึงเป็น gerund phrase",
+     "why_wrong": [
+      "infinitive ต้องมี to + V",
+      null,
+      "กลุ่มนี้ขึ้นต้นด้วย V-ing ส่วน in the sea เป็นแค่ส่วนหนึ่งข้างใน",
+      "กลุ่มนี้เป็นประธาน ไม่ได้ขยายคำนาม"
+     ]
+    },
+    {
+     "id": "ENL102-U1-08",
+     "skill": "ENL102-U1",
+     "difficulty": 1,
+     "stem": "She saved money ___ a new laptop.",
+     "options": [
+      "for buy",
+      "buy",
+      "to buying",
+      "to buy"
+     ],
+     "answer": 3,
+     "explanation_th": "to + V บอกจุดประสงค์ (เพื่อ) to buy a new laptop เป็น infinitive phrase",
+     "why_wrong": [
+      "หลังบุพบท for ต้องเป็นคำนามหรือ V-ing ไม่ใช่กริยาช่อง 1",
+      "มีกริยาแท้ saved แล้ว จะต่อกริยาช่อง 1 ตรง ๆ ไม่ได้",
+      "to ที่บอกจุดประสงค์ตามด้วยกริยาช่อง 1",
+      null
+     ]
+    },
+    {
+     "id": "ENL102-U1-09",
+     "skill": "ENL102-U1",
+     "difficulty": 2,
+     "stem": "Which sentence has an adverb phrase?",
+     "options": [
+      "He drove very carefully.",
+      "He drove a very old car.",
+      "He is a very careful driver.",
+      "He drove his father's car."
+     ],
+     "answer": 0,
+     "explanation_th": "very carefully มีคำหลักเป็น adverb carefully และขยายกริยา drove",
+     "why_wrong": [
+      null,
+      "very old เป็น adjective phrase ขยาย car",
+      "very careful เป็น adjective phrase ขยาย driver",
+      "his father's car เป็น noun phrase ที่เป็นกรรม"
+     ]
+    }
+   ],
+   "say": [
+    "A phrase is a group of words without its own subject and verb.",
+    "The head word gives the phrase its name."
+   ],
+   "task_th": "เลือกประโยคยาว 3 ประโยคจากข่าวภาษาอังกฤษหรือคำบรรยายคลิป ใส่วงเล็บล้อมรอบวลีทุกวลีที่หาได้ แล้วเขียนชื่อวลี (NP, VP, PP, AdjP, AdvP) กับคำหลักไว้ข้างบน"
+  },
+  {
+   "id": "ENL102-U2",
+   "title_th": "ชนิดของประโยคและคำเชื่อม",
+   "title_en": "Sentence types and conjunctions",
+   "covers": "และโครงสร้างประโยครูปแบบต่าง ๆ",
+   "minutes": 15,
+   "lessons": [
+    "L09",
+    "L10"
+   ],
+   "cards": [
+    {
+     "title_th": "ประโยค 4 ชนิดตามโครงสร้าง",
+     "body_th": "simple = อนุประโยคอิสระ 1 / compound = อนุประโยคอิสระ 2 ขึ้นไป / complex = อนุประโยคอิสระ 1 + อนุประโยครอง 1 ขึ้นไป / compound-complex = อนุประโยคอิสระ 2 ขึ้นไป + อนุประโยครองอย่างน้อย 1"
+    },
+    {
+     "title_th": "FANBOYS เชื่อมของที่เท่ากัน",
+     "body_th": "for, and, nor, but, or, yet, so เป็น coordinating conjunctions ถ้าเชื่อมอนุประโยคอิสระสองอันมักมีจุลภาคหน้าคำเชื่อม",
+     "example": "I wanted to go out, but it was raining."
+    },
+    {
+     "title_th": "คำเชื่อมที่ทำให้เป็นอนุประโยครอง",
+     "body_th": "because, although, when, if, while, since, unless เป็น subordinating conjunctions อนุประโยคที่ขึ้นต้นด้วยคำเหล่านี้ยืนเดี่ยวไม่ได้",
+     "example": "Although I was tired, I finished my homework."
+    },
+    {
+     "title_th": "ระวังประโยคชนกัน",
+     "body_th": "เอาอนุประโยคอิสระสองอันมาต่อกันโดยไม่มีคำเชื่อมหรือเครื่องหมายเรียกว่า run-on แก้ด้วยการใส่ , so หรือจุด หรือคำเชื่อมรอง",
+     "example": "It was late we took a taxi. → It was late, so we took a taxi."
+    }
+   ],
+   "vocab": [
+    [
+     "independent clause",
+     "อนุประโยคอิสระ"
+    ],
+    [
+     "dependent clause",
+     "อนุประโยครอง"
+    ],
+    [
+     "compound sentence",
+     "ประโยคความรวม"
+    ],
+    [
+     "complex sentence",
+     "ประโยคความซ้อน"
+    ],
+    [
+     "compound-complex sentence",
+     "ประโยคความผสม"
+    ],
+    [
+     "coordinating conjunction",
+     "คำสันธานเชื่อมส่วนที่เท่ากัน"
+    ],
+    [
+     "subordinating conjunction",
+     "คำสันธานนำอนุประโยครอง"
+    ],
+    [
+     "run-on sentence",
+     "ประโยคที่ต่อกันโดยไม่มีตัวเชื่อม"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL102-U2-01",
+     "skill": "ENL102-U2",
+     "difficulty": 1,
+     "stem": "'I wanted to go out, but it was raining.' What type of sentence is this?",
+     "options": [
+      "simple",
+      "compound",
+      "complex",
+      "compound-complex"
+     ],
+     "answer": 1,
+     "explanation_th": "อนุประโยคอิสระ 2 อันเชื่อมด้วย but จึงเป็น compound",
+     "why_wrong": [
+      "มีอนุประโยคอิสระ 2 อัน ไม่ใช่ 1",
+      null,
+      "but เป็นคำเชื่อมเท่ากัน ไม่ได้ทำให้เกิดอนุประโยครอง",
+      "ไม่มีอนุประโยครองเลย"
+     ]
+    },
+    {
+     "id": "ENL102-U2-02",
+     "skill": "ENL102-U2",
+     "difficulty": 1,
+     "stem": "'Although I was tired, I finished my homework.' What type of sentence is this?",
+     "options": [
+      "compound",
+      "simple",
+      "complex",
+      "compound-complex"
+     ],
+     "answer": 2,
+     "explanation_th": "Although I was tired เป็นอนุประโยครอง + อนุประโยคอิสระ 1 อัน จึงเป็น complex",
+     "why_wrong": [
+      "although เป็นคำเชื่อมรอง ไม่ใช่ FANBOYS",
+      "มี 2 อนุประโยค",
+      null,
+      "มีอนุประโยคอิสระแค่ 1 อัน"
+     ]
+    },
+    {
+     "id": "ENL102-U2-03",
+     "skill": "ENL102-U2",
+     "difficulty": 2,
+     "stem": "'When the class ended, Ann went home, and Ben stayed in the library.' What type of sentence is this?",
+     "options": [
+      "compound",
+      "complex",
+      "simple",
+      "compound-complex"
+     ],
+     "answer": 3,
+     "explanation_th": "อนุประโยคอิสระ 2 อัน (Ann went home / Ben stayed) + อนุประโยครอง 1 อัน จึงเป็น compound-complex",
+     "why_wrong": [
+      "มีอนุประโยครอง When the class ended ด้วย",
+      "มีอนุประโยคอิสระ 2 อันเชื่อมด้วย and",
+      "มีทั้งหมด 3 อนุประโยค",
+      null
+     ]
+    },
+    {
+     "id": "ENL102-U2-04",
+     "skill": "ENL102-U2",
+     "difficulty": 2,
+     "stem": "'My brother and my sister cook and clean every Sunday.' What type of sentence is this?",
+     "options": [
+      "compound",
+      "complex",
+      "simple",
+      "compound-complex"
+     ],
+     "answer": 2,
+     "explanation_th": "ประธานร่วม + กริยาร่วม แต่ยังเป็นอนุประโยคเดียว จึงเป็น simple",
+     "why_wrong": [
+      "and ทั้งสองตัวเชื่อมคำ ไม่ได้เชื่อมอนุประโยค",
+      "ไม่มีอนุประโยครอง",
+      null,
+      "มีอนุประโยคเดียว"
+     ]
+    },
+    {
+     "id": "ENL102-U2-05",
+     "skill": "ENL102-U2",
+     "difficulty": 1,
+     "stem": "Which word is a subordinating conjunction?",
+     "options": [
+      "because",
+      "and",
+      "so",
+      "but"
+     ],
+     "answer": 0,
+     "explanation_th": "because นำอนุประโยครองที่ยืนเดี่ยวไม่ได้",
+     "why_wrong": [
+      null,
+      "and เป็น coordinating conjunction",
+      "so เป็น coordinating conjunction",
+      "but เป็น coordinating conjunction"
+     ]
+    },
+    {
+     "id": "ENL102-U2-06",
+     "skill": "ENL102-U2",
+     "difficulty": 2,
+     "stem": "Which sentence is a run-on?",
+     "options": [
+      "It was late, so we took a taxi.",
+      "Because it was late, we took a taxi.",
+      "It was late. We took a taxi.",
+      "It was late we took a taxi."
+     ],
+     "answer": 3,
+     "explanation_th": "อนุประโยคอิสระสองอันชนกันโดยไม่มีตัวเชื่อม จึงเป็น run-on",
+     "why_wrong": [
+      "มีจุลภาคกับ so เชื่อมถูกต้อง",
+      "เป็น complex ที่ถูกต้อง",
+      "แยกเป็นสองประโยคด้วยจุด ถูกต้อง",
+      null
+     ]
+    },
+    {
+     "id": "ENL102-U2-07",
+     "skill": "ENL102-U2",
+     "difficulty": 1,
+     "stem": "Hurry up, ___ you will miss the bus.",
+     "options": [
+      "and",
+      "or",
+      "so",
+      "but"
+     ],
+     "answer": 1,
+     "explanation_th": "or ตรงนี้แปลว่า ไม่อย่างนั้น ใช้เตือนผลถ้าไม่ทำตาม",
+     "why_wrong": [
+      "and ทำให้ความหมายกลายเป็นรีบแล้วจะตกรถ ขัดกับเหตุผล",
+      null,
+      "so บอกผลของการรีบ แต่ตกรถไม่ใช่ผลของการรีบ",
+      "but บอกความขัดแย้ง ไม่เข้ากับคำเตือน"
+     ]
+    }
+   ],
+   "say": [
+    "I was tired, but I finished my work.",
+    "Because it was late, we took a taxi."
+   ],
+   "task_th": "เขียนประโยคเรื่องวันนี้ของตัวเอง 4 ประโยคให้ครบ 4 ชนิด (simple, compound, complex, compound-complex) ขีดเส้นใต้อนุประโยคอิสระ และวงกลมคำเชื่อม"
+  },
+  {
+   "id": "ENL102-U3",
+   "title_th": "อนุประโยคขยายนาม",
+   "title_en": "Relative clauses",
+   "covers": "และโครงสร้างประโยครูปแบบต่าง ๆ",
+   "minutes": 12,
+   "lessons": [
+    "L11"
+   ],
+   "cards": [
+    {
+     "title_th": "Relative clause ทำหน้าที่เหมือน adjective",
+     "body_th": "relative clause ขยายคำนามที่อยู่ข้างหน้า ขึ้นต้นด้วย who (คน), which (สิ่งของ), that (คนหรือสิ่งของ), whose (ของใคร), where (สถานที่), when (เวลา)",
+     "example": "The woman who lives next door is a nurse."
+    },
+    {
+     "title_th": "แบบจำเพาะกับแบบให้ข้อมูลเพิ่ม",
+     "body_th": "แบบจำเพาะ (defining) บอกว่าหมายถึงตัวไหน ไม่มีจุลภาค / แบบให้ข้อมูลเพิ่ม (non-defining) มีจุลภาคหน้าหลัง และใช้ that ไม่ได้",
+     "example": "My father, who is a doctor, works in Khon Kaen."
+    },
+    {
+     "title_th": "ละ relative pronoun ได้เมื่อเป็นกรรม",
+     "body_th": "ถ้า who / which / that เป็นกรรมของกริยาในอนุประโยค ละได้",
+     "example": "The book (that) you lent me was great."
+    }
+   ],
+   "vocab": [
+    [
+     "relative clause",
+     "อนุประโยคขยายนาม"
+    ],
+    [
+     "relative pronoun",
+     "ประพันธสรรพนาม"
+    ],
+    [
+     "antecedent",
+     "คำนามที่ถูกขยาย"
+    ],
+    [
+     "defining clause",
+     "อนุประโยคแบบจำเพาะ"
+    ],
+    [
+     "non-defining clause",
+     "อนุประโยคแบบให้ข้อมูลเพิ่ม"
+    ],
+    [
+     "comma",
+     "เครื่องหมายจุลภาค"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL102-U3-01",
+     "skill": "ENL102-U3",
+     "difficulty": 1,
+     "stem": "The woman ___ lives next door is a nurse.",
+     "options": [
+      "which",
+      "who",
+      "whose",
+      "where"
+     ],
+     "answer": 1,
+     "explanation_th": "ขยายคน และเป็นประธานของ lives จึงใช้ who",
+     "why_wrong": [
+      "which ใช้กับสิ่งของ แต่ the woman เป็นคน",
+      null,
+      "whose ต้องตามด้วยคำนาม เช่น whose son",
+      "where ใช้กับสถานที่"
+     ]
+    },
+    {
+     "id": "ENL102-U3-02",
+     "skill": "ENL102-U3",
+     "difficulty": 2,
+     "stem": "This is the café ___ we first met.",
+     "options": [
+      "which",
+      "who",
+      "whose",
+      "where"
+     ],
+     "answer": 3,
+     "explanation_th": "café เป็นสถานที่ และอนุประโยคครบแล้ว จึงใช้ where (= at which)",
+     "why_wrong": [
+      "ใน we first met ไม่มีช่องว่างของกรรม ถ้าใช้ which ต้องมี at ท้ายประโยค",
+      "who ใช้กับคน",
+      "whose ต้องตามด้วยคำนาม",
+      null
+     ]
+    },
+    {
+     "id": "ENL102-U3-03",
+     "skill": "ENL102-U3",
+     "difficulty": 2,
+     "stem": "In 'The book that you lent me was great,' what is the relative clause?",
+     "options": [
+      "that you lent me",
+      "The book that you lent me",
+      "you lent me was great",
+      "was great"
+     ],
+     "answer": 0,
+     "explanation_th": "that you lent me ขยาย The book จึงเป็น relative clause",
+     "why_wrong": [
+      null,
+      "The book เป็นคำนามที่ถูกขยาย ไม่ได้อยู่ในอนุประโยค",
+      "was great เป็นกริยาของประโยคหลัก",
+      "was great เป็นส่วนของประโยคหลัก"
+     ]
+    },
+    {
+     "id": "ENL102-U3-04",
+     "skill": "ENL102-U3",
+     "difficulty": 2,
+     "stem": "Which sentence is correct?",
+     "options": [
+      "My father, that is a doctor, works in Khon Kaen.",
+      "My father who is a doctor, works in Khon Kaen.",
+      "My father, who is a doctor, works in Khon Kaen.",
+      "My father, who is a doctor works in Khon Kaen."
+     ],
+     "answer": 2,
+     "explanation_th": "พ่อมีคนเดียว ข้อมูลเป็นแค่ส่วนเสริม จึงใช้ , who ... , ครบสองตัว",
+     "why_wrong": [
+      "แบบให้ข้อมูลเพิ่มที่มีจุลภาคใช้ that ไม่ได้",
+      "ขาดจุลภาคหน้า who",
+      null,
+      "ขาดจุลภาคปิดหลัง doctor"
+     ]
+    },
+    {
+     "id": "ENL102-U3-05",
+     "skill": "ENL102-U3",
+     "difficulty": 1,
+     "stem": "I have a friend ___ brother plays for the national team.",
+     "options": [
+      "who's",
+      "who",
+      "which",
+      "whose"
+     ],
+     "answer": 3,
+     "explanation_th": "brother เป็นของ friend จึงใช้ whose + คำนาม",
+     "why_wrong": [
+      "who's ย่อมาจาก who is ซึ่งไม่เข้ากับ brother plays",
+      "who ไม่แสดงความเป็นเจ้าของ",
+      "which ใช้กับสิ่งของ และไม่แสดงความเป็นเจ้าของ",
+      null
+     ]
+    },
+    {
+     "id": "ENL102-U3-06",
+     "skill": "ENL102-U3",
+     "difficulty": 1,
+     "stem": "A relative clause works like a(n) ___ because it describes a noun.",
+     "options": [
+      "adverb",
+      "verb",
+      "adjective",
+      "preposition"
+     ],
+     "answer": 2,
+     "explanation_th": "relative clause ขยายคำนาม จึงเรียกอีกชื่อว่า adjective clause",
+     "why_wrong": [
+      "adverb ขยายกริยาหรือคุณศัพท์ ไม่ใช่คำนาม",
+      "relative clause ไม่ได้เป็นกริยาหลักของประโยค",
+      null,
+      "บุพบทไม่ได้ขยายคำนามแบบนี้"
+     ]
+    }
+   ],
+   "say": [
+    "She is the teacher who helped me most.",
+    "This is the place where we first met."
+   ],
+   "task_th": "เขียนแนะนำคนหรือสถานที่ 4 อย่างที่สำคัญกับคุณ ประโยคละ 1 อย่าง ใช้ who, which, whose, where อย่างละ 1 ครั้ง แล้วอ่านออกเสียง"
+  },
+  {
+   "id": "ENL102-U4",
+   "title_th": "นามานุประโยคและคำพูดรายงาน",
+   "title_en": "Noun clauses and reported speech",
+   "covers": "และโครงสร้างประโยครูปแบบต่าง ๆ",
+   "minutes": 12,
+   "lessons": [
+    "L27"
+   ],
+   "cards": [
+    {
+     "title_th": "Noun clause ทำหน้าที่เหมือนคำนาม",
+     "body_th": "noun clause เป็นประธานหรือกรรมของประโยคได้ ขึ้นต้นด้วย that, what, where, if / whether ฯลฯ",
+     "example": "I think that she is right. / What he said surprised everyone."
+    },
+    {
+     "title_th": "คำถามซ่อนในประโยคต้องเรียงแบบบอกเล่า",
+     "body_th": "เมื่อคำถามไปอยู่ในประโยคอื่น (embedded question) เรียงประธานก่อนกริยา ไม่สลับ",
+     "example": "Where is the station? → Can you tell me where the station is?"
+    },
+    {
+     "title_th": "รายงานคำพูดมักเลื่อน tense ถอยหลัง",
+     "body_th": "ในคำพูดรายงานแบบทางการ มักเลื่อน tense ถอยหลังหนึ่งขั้น (backshift) can → could, will → would, am → was",
+     "example": "She said, \"I can swim.\" → She said that she could swim."
+    },
+    {
+     "title_th": "รายงานคำถาม yes / no ใช้ if หรือ whether",
+     "body_th": "ใช้ if / whether + ประธาน + กริยา และไม่มีเครื่องหมายคำถาม",
+     "example": "\"Are you hungry?\" → She asked me if I was hungry."
+    }
+   ],
+   "vocab": [
+    [
+     "noun clause",
+     "นามานุประโยค"
+    ],
+    [
+     "reported speech",
+     "คำพูดรายงาน"
+    ],
+    [
+     "direct speech",
+     "คำพูดตรง"
+    ],
+    [
+     "embedded question",
+     "คำถามที่ซ่อนในประโยค"
+    ],
+    [
+     "backshift",
+     "การเลื่อน tense ถอยหลัง"
+    ],
+    [
+     "word order",
+     "ลำดับคำ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL102-U4-01",
+     "skill": "ENL102-U4",
+     "difficulty": 1,
+     "stem": "Can you tell me where ___?",
+     "options": [
+      "is the station",
+      "the station is",
+      "does the station",
+      "the station does be"
+     ],
+     "answer": 1,
+     "explanation_th": "embedded question เรียงแบบบอกเล่า where + the station + is",
+     "why_wrong": [
+      "คำถามที่ซ่อนในประโยคต้องเรียงประธานก่อนกริยา",
+      null,
+      "ไม่ต้องใช้ does และขาดกริยาหลัก",
+      "does be ผิดไวยากรณ์"
+     ]
+    },
+    {
+     "id": "ENL102-U4-02",
+     "skill": "ENL102-U4",
+     "difficulty": 2,
+     "stem": "In 'I think that she is right,' what kind of clause is 'that she is right'?",
+     "options": [
+      "a noun clause",
+      "a relative clause",
+      "an adverb clause",
+      "an independent clause"
+     ],
+     "answer": 0,
+     "explanation_th": "that she is right เป็นกรรมของ think จึงทำหน้าที่เหมือนคำนาม",
+     "why_wrong": [
+      null,
+      "ไม่ได้ขยายคำนามตัวใด",
+      "ไม่ได้บอกเวลา เหตุผล หรือเงื่อนไข",
+      "มี that นำหน้าและเป็นกรรมของ think จึงยืนเดี่ยวไม่ได้"
+     ]
+    },
+    {
+     "id": "ENL102-U4-03",
+     "skill": "ENL102-U4",
+     "difficulty": 2,
+     "stem": "Report with backshift: She said, \"I can swim.\" → She said that she ___ swim.",
+     "options": [
+      "can",
+      "could",
+      "could to",
+      "can to"
+     ],
+     "answer": 1,
+     "explanation_th": "can เลื่อนถอยหลังเป็น could",
+     "why_wrong": [
+      "โจทย์ให้เลื่อน tense ถอยหลัง can จึงต้องเป็น could",
+      null,
+      "หลัง modal ไม่มี to",
+      "หลัง modal ไม่มี to และยังไม่ได้เลื่อน tense"
+     ]
+    },
+    {
+     "id": "ENL102-U4-04",
+     "skill": "ENL102-U4",
+     "difficulty": 2,
+     "stem": "Report the question: \"Are you hungry?\" → She asked me ___.",
+     "options": [
+      "if I was hungry",
+      "was I hungry",
+      "if was I hungry",
+      "that I was hungry"
+     ],
+     "answer": 0,
+     "explanation_th": "คำถาม yes / no รายงานด้วย if + ประธาน + กริยา",
+     "why_wrong": [
+      null,
+      "คำถามรายงานต้องเรียงประธานก่อนกริยา",
+      "หลัง if ต้องเป็นประธานก่อนกริยา",
+      "that ใช้รายงานประโยคบอกเล่า ไม่ใช่คำถาม yes / no"
+     ]
+    },
+    {
+     "id": "ENL102-U4-05",
+     "skill": "ENL102-U4",
+     "difficulty": 2,
+     "stem": "___ he said surprised everyone.",
+     "options": [
+      "That",
+      "Which",
+      "It",
+      "What"
+     ],
+     "answer": 3,
+     "explanation_th": "What he said (สิ่งที่เขาพูด) เป็น noun clause ทำหน้าที่ประธาน",
+     "why_wrong": [
+      "said ต้องมีกรรม แต่ That ไม่ได้ทำหน้าที่เป็นกรรมของ said",
+      "Which ต้องมีตัวเลือกหรือคำนามให้เลือก ไม่ใช้นำประธานแบบนี้",
+      "It he said ผิดโครงสร้าง ประโยคมีกริยาสองตัวโดยไม่มีตัวเชื่อม",
+      null
+     ]
+    },
+    {
+     "id": "ENL102-U4-06",
+     "skill": "ENL102-U4",
+     "difficulty": 1,
+     "stem": "I'm not sure ___ the shop is open today.",
+     "options": [
+      "what",
+      "which",
+      "whether",
+      "who"
+     ],
+     "answer": 2,
+     "explanation_th": "ไม่แน่ใจว่าใช่หรือไม่ ใช้ whether (หรือ if)",
+     "why_wrong": [
+      "what ต้องมีช่องว่างให้เติมในอนุประโยค แต่ the shop is open ครบแล้ว",
+      "which ต้องมีตัวเลือกให้เลือก",
+      null,
+      "who ใช้ถามถึงคน"
+     ]
+    }
+   ],
+   "say": [
+    "I'm not sure whether I can come tomorrow.",
+    "She said that she could help us."
+   ],
+   "task_th": "นึกถึงบทสนทนาสั้น ๆ ที่เกิดขึ้นวันนี้ 3 ประโยค เขียนเป็นคำพูดตรงก่อน แล้วเปลี่ยนเป็นคำพูดรายงานด้วย said that และ asked if"
+  },
+  {
+   "id": "ENL102-U5",
+   "title_th": "ประโยคกรรมวาจก",
+   "title_en": "The passive voice",
+   "covers": "และโครงสร้างประโยครูปแบบต่าง ๆ",
+   "minutes": 12,
+   "lessons": [
+    "L12"
+   ],
+   "cards": [
+    {
+     "title_th": "Active กับ passive",
+     "body_th": "active: ประธานเป็นผู้ทำ / passive: ประธานเป็นผู้ถูกกระทำ โครงสร้างคือ be + V3 จะบอกผู้ทำด้วย by หรือไม่บอกก็ได้",
+     "example": "Someone stole my bike. → My bike was stolen."
+    },
+    {
+     "title_th": "tense อยู่ที่ be",
+     "body_th": "เปลี่ยน tense ด้วยการเปลี่ยน be ส่วน V3 อยู่เหมือนเดิม is made / was made / has been made / will be made"
+    },
+    {
+     "title_th": "ใช้ได้เฉพาะกริยาที่มีกรรม",
+     "body_th": "กริยาที่ไม่มีกรรม (intransitive) เช่น happen, arrive, sleep ทำเป็น passive ไม่ได้",
+     "example": "The accident happened at night. (ไม่ใช่ was happened)"
+    }
+   ],
+   "vocab": [
+    [
+     "active voice",
+     "ประโยคที่ประธานเป็นผู้กระทำ"
+    ],
+    [
+     "passive voice",
+     "ประโยคที่ประธานเป็นผู้ถูกกระทำ"
+    ],
+    [
+     "agent",
+     "ผู้กระทำ"
+    ],
+    [
+     "transitive verb",
+     "กริยาที่ต้องมีกรรม"
+    ],
+    [
+     "intransitive verb",
+     "กริยาที่ไม่ต้องมีกรรม"
+    ],
+    [
+     "past participle",
+     "กริยาช่อง 3"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL102-U5-01",
+     "skill": "ENL102-U5",
+     "difficulty": 1,
+     "stem": "These phones ___ in Vietnam.",
+     "options": [
+      "make",
+      "are making",
+      "are made",
+      "made"
+     ],
+     "answer": 2,
+     "explanation_th": "โทรศัพท์ถูกผลิต ใช้ be + V3 คือ are made",
+     "why_wrong": [
+      "โทรศัพท์ผลิตตัวเองไม่ได้ ต้องเป็นผู้ถูกผลิต",
+      "are making แปลว่ากำลังผลิต ซึ่งโทรศัพท์ทำเองไม่ได้",
+      null,
+      "ถ้าเป็นอดีตกาลธรรมดา ประโยคจะแปลว่าโทรศัพท์เป็นผู้ผลิต ต้องมี be สำหรับ passive"
+     ]
+    },
+    {
+     "id": "ENL102-U5-02",
+     "skill": "ENL102-U5",
+     "difficulty": 1,
+     "stem": "What is the passive of 'Someone stole my bike'?",
+     "options": [
+      "My bike is stolen.",
+      "My bike was stole.",
+      "My bike stolen.",
+      "My bike was stolen."
+     ],
+     "answer": 3,
+     "explanation_th": "stole (อดีต) จึงใช้ was + stolen",
+     "why_wrong": [
+      "ประโยคเดิมเป็นอดีต ต้องใช้ was",
+      "stole เป็นช่อง 2 passive ต้องใช้ช่อง 3 stolen",
+      "ขาด be",
+      null
+     ]
+    },
+    {
+     "id": "ENL102-U5-03",
+     "skill": "ENL102-U5",
+     "difficulty": 2,
+     "stem": "Which verb cannot be used in the passive?",
+     "options": [
+      "happen",
+      "write",
+      "build",
+      "invite"
+     ],
+     "answer": 0,
+     "explanation_th": "happen เป็นกริยาที่ไม่มีกรรม จึงทำเป็น passive ไม่ได้",
+     "why_wrong": [
+      null,
+      "write มีกรรมได้ เช่น The letter was written.",
+      "build มีกรรมได้ เช่น The bridge was built.",
+      "invite มีกรรมได้ เช่น I was invited."
+     ]
+    },
+    {
+     "id": "ENL102-U5-04",
+     "skill": "ENL102-U5",
+     "difficulty": 1,
+     "stem": "The report ___ by Friday.",
+     "options": [
+      "will finish",
+      "will be finished",
+      "will be finish",
+      "will finished"
+     ],
+     "answer": 1,
+     "explanation_th": "อนาคต + passive ใช้ will be + V3",
+     "why_wrong": [
+      "รายงานทำตัวเองให้เสร็จไม่ได้ ต้องเป็นผู้ถูกทำ",
+      null,
+      "หลัง be ต้องเป็นช่อง 3 finished",
+      "ขาด be"
+     ]
+    },
+    {
+     "id": "ENL102-U5-05",
+     "skill": "ENL102-U5",
+     "difficulty": 2,
+     "stem": "The new library ___ since January.",
+     "options": [
+      "is closed",
+      "was closing",
+      "has been close",
+      "has been closed"
+     ],
+     "answer": 3,
+     "explanation_th": "since + ถูกปิดมาจนถึงตอนนี้ ใช้ has been + V3",
+     "why_wrong": [
+      "since ต้องใช้ perfect tense",
+      "past continuous ใช้กับ since ไม่ได้ และความหมายไม่ใช่ถูกปิด",
+      "หลัง been ต้องเป็นช่อง 3 closed",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "The bridge was built by local workers.",
+    "Our homework will be checked tomorrow."
+   ],
+   "task_th": "หาฉลากสินค้า 3 ชิ้นในบ้าน (เช่น Made in ...) แล้วเขียนประโยค passive 3 ประโยคว่าของแต่ละชิ้นถูกผลิตที่ไหนหรือใช้ทำอะไร พร้อมเขียนรูป active ของประโยคเดียวกันกำกับไว้"
+  },
+  {
+   "id": "ENL102-U6",
+   "title_th": "ประโยคเงื่อนไขและ modal + have + V3",
+   "title_en": "Conditionals and modal perfect",
+   "covers": "และโครงสร้างประโยครูปแบบต่าง ๆ",
+   "minutes": 14,
+   "lessons": [
+    "L16",
+    "L15"
+   ],
+   "cards": [
+    {
+     "title_th": "เงื่อนไข 4 แบบ",
+     "body_th": "zero: If + present, present (ความจริง) / first: If + present, will + V (เป็นไปได้จริง) / second: If + past, would + V (สมมติตอนนี้) / third: If + had V3, would have V3 (สมมติในอดีต)"
+    },
+    {
+     "title_th": "ประโยคเงื่อนไขคือประโยคความซ้อน",
+     "body_th": "if-clause เป็นอนุประโยครอง ต่อกับอนุประโยคหลัก (main clause) จึงเป็น complex sentence ถ้า if-clause มาก่อนใส่จุลภาค",
+     "example": "If it rains, we will stay home."
+    },
+    {
+     "title_th": "modal + have + V3 พูดถึงอดีต",
+     "body_th": "should have V3 = ควรจะทำแต่ไม่ได้ทำ (เสียดาย) / must have V3 = คงจะ (สรุปจากหลักฐาน) / can't have V3 = ไม่น่าจะ / might have V3 = อาจจะ",
+     "example": "I should have studied harder."
+    },
+    {
+     "title_th": "จับคู่กับ third conditional",
+     "body_th": "ทั้งสองแบบพูดถึงอดีตที่ไม่ได้เกิด ใช้คู่กันบ่อย",
+     "example": "If I had studied, I would have passed. I should have studied."
+    }
+   ],
+   "vocab": [
+    [
+     "conditional sentence",
+     "ประโยคเงื่อนไข"
+    ],
+    [
+     "if-clause",
+     "อนุประโยค if"
+    ],
+    [
+     "main clause",
+     "อนุประโยคหลัก"
+    ],
+    [
+     "unreal",
+     "ไม่จริง สมมติ"
+    ],
+    [
+     "regret",
+     "ความเสียดาย"
+    ],
+    [
+     "deduction",
+     "การสรุปจากหลักฐาน"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL102-U6-01",
+     "skill": "ENL102-U6",
+     "difficulty": 1,
+     "stem": "If it rains tomorrow, we ___ at home.",
+     "options": [
+      "would stay",
+      "will stay",
+      "stayed",
+      "would have stayed"
+     ],
+     "answer": 1,
+     "explanation_th": "If + present (rains) คู่กับ will + V เป็น first conditional",
+     "why_wrong": [
+      "would ใช้กับเรื่องสมมติ แต่ฝนพรุ่งนี้เป็นไปได้จริง และ if-clause เป็น present",
+      null,
+      "stayed เป็นอดีต แต่พูดถึงพรุ่งนี้",
+      "ใช้กับเงื่อนไขในอดีต"
+     ]
+    },
+    {
+     "id": "ENL102-U6-02",
+     "skill": "ENL102-U6",
+     "difficulty": 2,
+     "stem": "If I ___ a bird, I would fly to Japan.",
+     "options": [
+      "am",
+      "will be",
+      "were",
+      "had been"
+     ],
+     "answer": 2,
+     "explanation_th": "second conditional ใช้ If + were / V2 แล้วตามด้วย would + V",
+     "why_wrong": [
+      "ผลใช้ would แสดงว่าเป็นเรื่องสมมติ จึงต้องใช้รูปอดีต",
+      "ใน if-clause ไม่ใช้ will",
+      null,
+      "had been ใช้กับ third conditional ซึ่งผลต้องเป็น would have + V3"
+     ]
+    },
+    {
+     "id": "ENL102-U6-03",
+     "skill": "ENL102-U6",
+     "difficulty": 2,
+     "stem": "If she had left earlier, she ___ the train.",
+     "options": [
+      "would have caught",
+      "will catch",
+      "caught",
+      "would have catch"
+     ],
+     "answer": 0,
+     "explanation_th": "third conditional: If + had V3, would have V3",
+     "why_wrong": [
+      null,
+      "will ไม่เข้ากับ had left ซึ่งเป็นอดีตที่ไม่ได้เกิด",
+      "caught บอกว่าเกิดขึ้นจริง ขัดกับเงื่อนไขสมมติ",
+      "หลัง have ต้องเป็นช่อง 3 caught"
+     ]
+    },
+    {
+     "id": "ENL102-U6-04",
+     "skill": "ENL102-U6",
+     "difficulty": 2,
+     "stem": "Ann's light is off and her car is gone. She ___ gone out.",
+     "options": [
+      "must have",
+      "should have",
+      "can't have",
+      "mustn't have"
+     ],
+     "answer": 0,
+     "explanation_th": "หลักฐานชัดจึงสรุปว่าคงจะออกไปแล้ว ใช้ must have + V3",
+     "why_wrong": [
+      null,
+      "should have บอกความเสียดายหรือสิ่งที่ควรทำ ไม่ใช่การสรุปจากหลักฐาน",
+      "หลักฐานบอกว่าออกไปแล้ว จึงขัดกัน",
+      "mustn't have ไม่ใช้สรุปเหตุการณ์ในอดีต"
+     ]
+    },
+    {
+     "id": "ENL102-U6-05",
+     "skill": "ENL102-U6",
+     "difficulty": 1,
+     "stem": "I failed the test. I ___ harder.",
+     "options": [
+      "should study",
+      "must have studied",
+      "should have studied",
+      "should have study"
+     ],
+     "answer": 2,
+     "explanation_th": "เสียดายสิ่งที่ไม่ได้ทำในอดีต ใช้ should have + V3",
+     "why_wrong": [
+      "should + V พูดถึงตอนนี้หรืออนาคต แต่สอบผ่านไปแล้ว",
+      "must have แปลว่าคงจะได้อ่าน ขัดกับการสอบตก",
+      null,
+      "หลัง have ต้องเป็นช่อง 3 studied"
+     ]
+    },
+    {
+     "id": "ENL102-U6-06",
+     "skill": "ENL102-U6",
+     "difficulty": 1,
+     "stem": "Which type of conditional is 'If you heat ice, it melts'?",
+     "options": [
+      "first conditional",
+      "zero conditional",
+      "second conditional",
+      "third conditional"
+     ],
+     "answer": 1,
+     "explanation_th": "ความจริงทั่วไป ทั้งสองส่วนเป็น present จึงเป็น zero conditional",
+     "why_wrong": [
+      "first conditional มี will ในผล",
+      null,
+      "second conditional ใช้ past กับ would",
+      "third conditional ใช้ had V3 กับ would have V3"
+     ]
+    }
+   ],
+   "say": [
+    "If I had more time, I would learn a third language.",
+    "I should have studied harder for that test."
+   ],
+   "task_th": "เขียนประโยคเงื่อนไขเกี่ยวกับชีวิตตัวเอง 4 ประโยค แบบละ 1 ประโยค (zero, first, second, third) และประโยค should have อีก 1 ประโยค แล้วอัดเสียงอ่านทั้งหมด"
+  },
+  {
+   "id": "ENL102-U7",
+   "title_th": "โครงสร้างคู่ขนานและโครงสร้างตายตัว",
+   "title_en": "Parallel structure and fixed patterns",
+   "covers": "และโครงสร้างประโยครูปแบบต่าง ๆ",
+   "minutes": 12,
+   "lessons": [
+    "L17",
+    "L18"
+   ],
+   "cards": [
+    {
+     "title_th": "ของที่เชื่อมกันต้องรูปเดียวกัน",
+     "body_th": "คำหรือวลีที่เชื่อมด้วย and, or, but ต้องเป็นรูปเดียวกัน (parallel structure) เช่น V-ing คู่ V-ing หรือคุณศัพท์คู่คุณศัพท์",
+     "example": "She likes swimming, running, and cycling."
+    },
+    {
+     "title_th": "คำเชื่อมคู่",
+     "body_th": "both ... and, either ... or, neither ... nor, not only ... but also ส่วนที่ตามหลังแต่ละคำต้องรูปเดียวกัน",
+     "example": "The job is not only interesting but also well-paid."
+    },
+    {
+     "title_th": "so / such / too / enough",
+     "body_th": "so + adj + that / such + (a) + adj + noun + that / too + adj + to V / adj + enough + to V",
+     "example": "It was such a good movie that we watched it twice."
+    },
+    {
+     "title_th": "used to",
+     "body_th": "used to + V = เคยทำเป็นประจำในอดีต แต่ตอนนี้ไม่ทำแล้ว ต่างจาก be used to + V-ing = คุ้นเคยกับ",
+     "example": "I used to live in Chiang Mai."
+    }
+   ],
+   "vocab": [
+    [
+     "parallel structure",
+     "โครงสร้างคู่ขนาน"
+    ],
+    [
+     "correlative conjunction",
+     "คำสันธานคู่"
+    ],
+    [
+     "fixed pattern",
+     "โครงสร้างตายตัว"
+    ],
+    [
+     "consistent",
+     "สม่ำเสมอ เป็นแบบเดียวกัน"
+    ],
+    [
+     "result",
+     "ผลลัพธ์"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL102-U7-01",
+     "skill": "ENL102-U7",
+     "difficulty": 1,
+     "stem": "She likes swimming, running, and ___.",
+     "options": [
+      "to cycle",
+      "cycle",
+      "cycles",
+      "cycling"
+     ],
+     "answer": 3,
+     "explanation_th": "parallel structure: V-ing, V-ing, and V-ing",
+     "why_wrong": [
+      "สองตัวแรกเป็น V-ing ตัวที่สามต้องเป็น V-ing ด้วย",
+      "ไม่เข้ารูปเดียวกับ swimming และ running",
+      "cycles เป็นกริยาแท้หรือคำนามพหูพจน์ ไม่เข้ารูปกับ V-ing",
+      null
+     ]
+    },
+    {
+     "id": "ENL102-U7-02",
+     "skill": "ENL102-U7",
+     "difficulty": 2,
+     "stem": "The job is not only interesting but also ___.",
+     "options": [
+      "well-paid",
+      "pays well",
+      "it pays well",
+      "pay well"
+     ],
+     "answer": 0,
+     "explanation_th": "interesting กับ well-paid เป็นคุณศัพท์ทั้งคู่ จึงขนานกัน",
+     "why_wrong": [
+      null,
+      "หลัง not only เป็นคุณศัพท์ interesting หลัง but also จึงต้องเป็นคุณศัพท์ด้วย",
+      "เป็นอนุประโยค ไม่เข้ารูปกับคุณศัพท์ interesting",
+      "เป็นกริยา ไม่เข้ารูปกับคุณศัพท์"
+     ]
+    },
+    {
+     "id": "ENL102-U7-03",
+     "skill": "ENL102-U7",
+     "difficulty": 1,
+     "stem": "The soup was ___ hot that I couldn't eat it.",
+     "options": [
+      "such",
+      "so",
+      "too",
+      "very"
+     ],
+     "answer": 1,
+     "explanation_th": "so + adjective + that บอกผล",
+     "why_wrong": [
+      "such ต้องตามด้วยคำนาม เช่น such hot soup",
+      null,
+      "too ใช้กับ to V ไม่ใช้กับ that",
+      "very ไม่ใช้คู่กับ that ในโครงนี้"
+     ]
+    },
+    {
+     "id": "ENL102-U7-04",
+     "skill": "ENL102-U7",
+     "difficulty": 2,
+     "stem": "It was ___ a good movie that we watched it twice.",
+     "options": [
+      "so",
+      "too",
+      "such",
+      "very"
+     ],
+     "answer": 2,
+     "explanation_th": "such + a + adjective + noun + that",
+     "why_wrong": [
+      "so ตามด้วยคุณศัพท์ ไม่ตามด้วย a + คำนาม",
+      "too ไม่ตามด้วย a + คำนาม และไม่ใช้กับ that",
+      null,
+      "very a good movie ผิดลำดับคำ"
+     ]
+    },
+    {
+     "id": "ENL102-U7-05",
+     "skill": "ENL102-U7",
+     "difficulty": 1,
+     "stem": "You can either call me ___ send me a message.",
+     "options": [
+      "nor",
+      "and",
+      "but",
+      "or"
+     ],
+     "answer": 3,
+     "explanation_th": "either คู่กับ or",
+     "why_wrong": [
+      "nor คู่กับ neither",
+      "and คู่กับ both",
+      "but คู่กับ not only หรือ not",
+      null
+     ]
+    },
+    {
+     "id": "ENL102-U7-06",
+     "skill": "ENL102-U7",
+     "difficulty": 1,
+     "stem": "I ___ live in Chiang Mai, but now I live in Bangkok.",
+     "options": [
+      "use to",
+      "am used to",
+      "used to",
+      "used"
+     ],
+     "answer": 2,
+     "explanation_th": "เคยอยู่แต่ตอนนี้ไม่อยู่แล้ว ใช้ used to + V",
+     "why_wrong": [
+      "ในประโยคบอกเล่าต้องใช้ used to",
+      "am used to แปลว่าคุ้นเคย และต้องตามด้วย V-ing",
+      null,
+      "ขาด to"
+     ]
+    }
+   ],
+   "say": [
+    "He was too tired to walk home.",
+    "I enjoy reading, writing, and speaking English."
+   ],
+   "task_th": "เขียน 5 ประโยคเกี่ยวกับงานอดิเรกของตัวเอง ใช้ both ... and, not only ... but also, so ... that, such ... that และ used to อย่างละ 1 ครั้ง เช็กว่าส่วนที่เชื่อมกันเป็นรูปเดียวกัน"
+  }
+ ]
+}

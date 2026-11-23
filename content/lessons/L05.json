@@ -1,0 +1,706 @@
+{
+ "id": "L05",
+ "phase": 1,
+ "skill": "g.article",
+ "title_th": "a / an / the / some / any",
+ "title_en": "Articles and determiners",
+ "villain": "arti",
+ "hook": {
+  "beats": [
+   {
+    "say": "ปิ๊ปอ่านป้ายสวนสัตว์ แต่คำเล็ก ๆ หน้าคำนามหายไปหมด",
+    "anim": "enter",
+    "board": "I saw ___ elephant. ___ elephant was huge."
+   },
+   {
+    "say": "ข้าคืออาร์ติ ข้าขโมย a an the ไปหมดแล้ว ฮ่า ๆ!",
+    "actor": "villain",
+    "anim": "shake",
+    "board": "a? an? the?"
+   },
+   {
+    "say": "พูดถึงครั้งแรก นับได้ และมีหนึ่งตัว ใช้ a หรือ an และใช้ an ถ้าเสียงแรกเป็นสระ",
+    "anim": "think",
+    "board": "I saw an elephant."
+   },
+   {
+    "say": "พอพูดถึงซ้ำ ทุกคนรู้แล้วว่าตัวไหน ก็ใช้ the",
+    "anim": "jump",
+    "board": "The elephant was huge."
+   },
+   {
+    "say": "ของที่นับไม่ได้หรือหลายชิ้น ใช้ some ในประโยคบอกเล่า และ any ในคำถามกับปฏิเสธ",
+    "anim": "zap",
+    "board": "some water · any water?"
+   },
+   {
+    "say": "แง! เอาคืนไปก็ได้ ข้าจะไปขโมยที่อื่น",
+    "actor": "villain",
+    "anim": "swap"
+   }
+  ]
+ },
+ "discover": {
+  "examples": [
+   "I saw **an** elephant. **The** elephant was huge.",
+   "**The** sun is very hot today.",
+   "I'd like **some** tea, please.",
+   "Do you have **any** questions?"
+  ],
+  "question_th": "ทำไมประโยคแรกใช้ an ก่อน แล้วค่อยใช้ the?",
+  "options_th": [
+   "ครั้งแรกยังไม่รู้ว่าตัวไหน (an) / ครั้งที่สองรู้แล้วว่าตัวนั้น (the)",
+   "เพราะช้างตัวที่สองใหญ่กว่า",
+   "an ใช้กับสัตว์ the ใช้กับคน",
+   "สลับกันได้ ไม่ต่างกัน"
+  ],
+  "answer": 0,
+  "reveal_th": "the = ชี้เฉพาะ ใช้เมื่อพูดถึงไปแล้ว มีอันเดียวในโลก (the sun) หรือทั้งสองฝ่ายรู้ว่าอันไหน (Close the door) ในข้อสอบ ถ้าบทความพูดถึงสิ่งนั้นมาก่อน (เช่น a new law … ___ law) คำตอบมักเป็น the"
+ },
+ "rule": {
+  "line_th": "a/an = หนึ่งอันที่ยังไม่เจาะจง (an ก่อนเสียงสระ) · the = อันที่รู้กันแล้ว/มีอันเดียว · some = บอกเล่า · any = คำถามและปฏิเสธ",
+  "memory_th": "👉 the = นิ้วชี้: ชี้ได้ก็ต่อเมื่อทั้งคนพูดและคนฟังรู้ว่า 'อันนั้น' — ถ้ายังชี้ไม่ได้ ใช้ a/an · ฟังเสียง ไม่ใช่ตัวสะกด: an hour, a university",
+  "terms": [
+   [
+    "article",
+    "คำนำหน้านาม"
+   ],
+   [
+    "countable noun",
+    "นามนับได้"
+   ],
+   [
+    "uncountable noun",
+    "นามนับไม่ได้ (water, money)"
+   ],
+   [
+    "vowel sound",
+    "เสียงสระ"
+   ]
+  ]
+ },
+ "speak": [
+  "I saw an elephant. The elephant was huge.",
+  "Is there any milk in the fridge?",
+  "My mother is an engineer."
+ ],
+ "twists": [
+  {
+   "id": "L05-t1",
+   "skill": "g.article",
+   "type": "error",
+   "parts": [
+    "My uncle is",
+    "a",
+    "honest",
+    "man."
+   ],
+   "answer": 1,
+   "explanation_th": "honest ออกเสียง ออน- (h ไม่ออกเสียง) เริ่มด้วยเสียงสระ ต้องใช้ an",
+   "why_wrong": [
+    "My uncle is ถูกแล้ว",
+    null,
+    "honest เป็น adjective ถูกแล้ว",
+    "man ถูกแล้ว"
+   ]
+  },
+  {
+   "id": "L05-t2",
+   "skill": "g.article",
+   "type": "fill",
+   "stem": "Bangkok is ___ capital of Thailand.",
+   "accept": [
+    "the"
+   ],
+   "hint_th": "ประเทศหนึ่งมีเมืองหลวงเดียว ชี้เฉพาะได้",
+   "explanation_th": "มีเพียงหนึ่งเดียว → the capital"
+  },
+  {
+   "id": "L05-t3",
+   "skill": "g.article",
+   "type": "order",
+   "words": [
+    "Is",
+    "there",
+    "any",
+    "water",
+    "in",
+    "the",
+    "bottle?"
+   ],
+   "explanation_th": "คำถาม + นามนับไม่ได้ ใช้ any และ the bottle คือขวดที่เห็นอยู่"
+  },
+  {
+   "id": "L05-t4",
+   "skill": "g.article",
+   "type": "match",
+   "prompt_th": "คำไหนเข้ากับคำนามไหน",
+   "pairs": [
+    [
+     "___ umbrella",
+     "an"
+    ],
+    [
+     "___ university",
+     "a"
+    ],
+    [
+     "___ moon",
+     "the"
+    ],
+    [
+     "I'd like ___ rice.",
+     "some"
+    ]
+   ],
+   "explanation_th": "umbrella เสียงสระ → an · university ออกเสียง ยู (พยัญชนะ) → a · moon มีอันเดียว → the · rice นับไม่ได้ บอกเล่า → some"
+  },
+  {
+   "id": "L05-t5",
+   "skill": "g.article",
+   "type": "error",
+   "parts": [
+    "We don't",
+    "have",
+    "some",
+    "time left."
+   ],
+   "answer": 2,
+   "explanation_th": "ประโยคปฏิเสธใช้ any: We don't have any time left.",
+   "why_wrong": [
+    "We don't ถูกแล้ว",
+    "have ถูกแล้ว",
+    null,
+    "time left ถูกแล้ว"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "L05-01",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "Look! There is ___ elephant in the river!",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "some"
+   ],
+   "answer": 1,
+   "explanation_th": "ช้างหนึ่งตัวที่เพิ่งเห็นครั้งแรก และ elephant ขึ้นต้นด้วยเสียงสระ → an",
+   "why_wrong": [
+    "a ใช้ก่อนเสียงพยัญชนะ",
+    null,
+    "There is ใช้แนะนำสิ่งใหม่ จึงไม่ใช้ the",
+    "some ใช้กับพหูพจน์/นับไม่ได้ ไม่ใช่ช้างตัวเดียว"
+   ]
+  },
+  {
+   "id": "L05-02",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "She wants to be ___ doctor when she grows up.",
+   "options": [
+    "an",
+    "the",
+    "a",
+    "some"
+   ],
+   "answer": 2,
+   "explanation_th": "อาชีพใช้ a/an doctor ขึ้นต้นเสียงพยัญชนะ → a",
+   "why_wrong": [
+    "an ใช้ก่อนเสียงสระ",
+    "the doctor = หมอคนที่รู้กันแล้ว ไม่ใช่อาชีพ",
+    null,
+    "some doctor ใช้ไม่ได้กับนามเอกพจน์นับได้แบบนี้"
+   ]
+  },
+  {
+   "id": "L05-03",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "I bought a shirt and a hat. ___ shirt is red, and the hat is black.",
+   "options": [
+    "A",
+    "An",
+    "Some",
+    "The"
+   ],
+   "answer": 3,
+   "explanation_th": "เสื้อตัวที่พูดถึงไปแล้ว → The",
+   "why_wrong": [
+    "A = เสื้อตัวไหนก็ได้ แต่นี่คือตัวที่ซื้อมา",
+    "An ใช้ก่อนเสียงสระ",
+    "Some ไม่ใช้กับนามเอกพจน์นับได้",
+    null
+   ]
+  },
+  {
+   "id": "L05-04",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "Could you close ___ door, please? It's cold.",
+   "options": [
+    "the",
+    "a",
+    "an",
+    "some"
+   ],
+   "answer": 0,
+   "explanation_th": "ประตูบานที่ทั้งสองคนรู้ว่าบานไหน (ในห้องนี้) → the",
+   "why_wrong": [
+    null,
+    "a door = ประตูบานไหนก็ได้ ฟังไม่เป็นธรรมชาติ",
+    "an ใช้ก่อนเสียงสระ",
+    "some ไม่ใช้กับนามเอกพจน์นับได้"
+   ]
+  },
+  {
+   "id": "L05-05",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "Is there ___ milk in the fridge?",
+   "options": [
+    "a",
+    "an",
+    "any",
+    "many"
+   ],
+   "answer": 2,
+   "explanation_th": "คำถาม + นามนับไม่ได้ (milk) → any",
+   "why_wrong": [
+    "milk นับไม่ได้ ใช้ a ไม่ได้",
+    "an ใช้กับนามนับได้เอกพจน์",
+    null,
+    "many ใช้กับนามนับได้พหูพจน์"
+   ]
+  },
+  {
+   "id": "L05-06",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "I'm thirsty. I'd like ___ water, please.",
+   "options": [
+    "a",
+    "some",
+    "an",
+    "many"
+   ],
+   "answer": 1,
+   "explanation_th": "ประโยคขอ/บอกเล่า + นามนับไม่ได้ → some water",
+   "why_wrong": [
+    "water นับไม่ได้ ใช้ a ไม่ได้",
+    null,
+    "an ใช้กับนามนับได้",
+    "many ใช้กับนามนับได้พหูพจน์"
+   ]
+  },
+  {
+   "id": "L05-07",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "___ sun rises in the east.",
+   "options": [
+    "A",
+    "An",
+    "Some",
+    "The"
+   ],
+   "answer": 3,
+   "explanation_th": "ดวงอาทิตย์มีดวงเดียว → The sun",
+   "why_wrong": [
+    "A sun = ดวงอาทิตย์ดวงหนึ่ง (มีหลายดวง?) ผิดความหมาย",
+    "An ใช้ก่อนเสียงสระ",
+    "Some ไม่ใช้กับสิ่งที่มีหนึ่งเดียว",
+    null
+   ]
+  },
+  {
+   "id": "L05-08",
+   "skill": "g.article",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "My uncle is ___ honest man.",
+   "options": [
+    "an",
+    "a",
+    "the",
+    "some"
+   ],
+   "answer": 0,
+   "explanation_th": "honest ไม่ออกเสียง h เริ่มด้วยเสียงสระ → an",
+   "why_wrong": [
+    null,
+    "ดูที่เสียง ไม่ใช่ตัวอักษร: honest ขึ้นต้นเสียงสระ",
+    "the honest man = ชายคนที่รู้กันแล้ว ไม่ได้บรรยายลักษณะ",
+    "some ไม่ใช้กับนามเอกพจน์นับได้"
+   ]
+  },
+  {
+   "id": "L05-09",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "We don't have ___ homework today. Let's go to the park!",
+   "options": [
+    "some",
+    "a",
+    "any",
+    "many"
+   ],
+   "answer": 2,
+   "explanation_th": "ประโยคปฏิเสธ + นามนับไม่ได้ (homework) → any",
+   "why_wrong": [
+    "some ใช้ในประโยคบอกเล่า",
+    "homework นับไม่ได้ ใช้ a ไม่ได้",
+    null,
+    "many ใช้กับนามนับได้พหูพจน์"
+   ]
+  },
+  {
+   "id": "L05-10",
+   "skill": "g.article",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "___ students in my class like sports, but others prefer music.",
+   "options": [
+    "Any",
+    "Some",
+    "A",
+    "Much"
+   ],
+   "answer": 1,
+   "explanation_th": "Some … others = บางคน… คนอื่น ๆ",
+   "why_wrong": [
+    "Any ไม่ใช้ในประโยคบอกเล่าแบบนี้",
+    null,
+    "A ใช้กับนามเอกพจน์ แต่ students เป็นพหูพจน์",
+    "Much ใช้กับนามนับไม่ได้"
+   ]
+  },
+  {
+   "id": "L05-11",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "Bangkok is ___ capital of Thailand.",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "some"
+   ],
+   "answer": 2,
+   "explanation_th": "ประเทศหนึ่งมีเมืองหลวงเดียว → the capital",
+   "why_wrong": [
+    "a capital = หนึ่งในหลายเมืองหลวง ผิดความหมาย",
+    "an ใช้ก่อนเสียงสระ",
+    null,
+    "some ไม่ใช้กับนามเอกพจน์นับได้"
+   ]
+  },
+  {
+   "id": "L05-12",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "I need ___ umbrella. It's raining heavily.",
+   "options": [
+    "a",
+    "the",
+    "any",
+    "an"
+   ],
+   "answer": 3,
+   "explanation_th": "ร่มคันไหนก็ได้ และ umbrella ขึ้นต้นเสียงสระ → an",
+   "why_wrong": [
+    "a ใช้ก่อนเสียงพยัญชนะ",
+    "the umbrella = คันที่รู้กันแล้ว แต่ประโยคนี้ต้องการคันไหนก็ได้",
+    "any ใช้ในคำถาม/ปฏิเสธ",
+    null
+   ]
+  },
+  {
+   "id": "L05-13",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "There are ___ apples on the table. Help yourself.",
+   "options": [
+    "some",
+    "any",
+    "a",
+    "much"
+   ],
+   "answer": 0,
+   "explanation_th": "บอกเล่า + นามพหูพจน์ → some apples",
+   "why_wrong": [
+    null,
+    "any ใช้ในคำถาม/ปฏิเสธ",
+    "a ใช้กับนามเอกพจน์",
+    "much ใช้กับนามนับไม่ได้"
+   ]
+  },
+  {
+   "id": "L05-14",
+   "skill": "g.article",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Did you see ___ movie I told you about?",
+   "options": [
+    "an",
+    "the",
+    "these",
+    "those"
+   ],
+   "answer": 1,
+   "explanation_th": "หนังเรื่องที่ถูกระบุชัด (I told you about) → the",
+   "why_wrong": [
+    "an ใช้ก่อนเสียงสระ และหนังเรื่องนี้ถูกระบุแล้ว",
+    null,
+    "these ใช้กับพหูพจน์ แต่ movie เป็นเอกพจน์",
+    "those ใช้กับพหูพจน์ แต่ movie เป็นเอกพจน์"
+   ]
+  },
+  {
+   "id": "L05-15",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "Can I have ___ cookie, please? Just one.",
+   "options": [
+    "some",
+    "any",
+    "a",
+    "an"
+   ],
+   "answer": 2,
+   "explanation_th": "ขอหนึ่งชิ้น นามนับได้เอกพจน์ เสียงพยัญชนะ → a",
+   "why_wrong": [
+    "some cookie ใช้กับเอกพจน์ไม่ได้ (some cookies)",
+    "any ไม่ใช้ในการขอแบบนี้",
+    null,
+    "an ใช้ก่อนเสียงสระ"
+   ]
+  },
+  {
+   "id": "L05-16",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "A man and a woman walked into the shop. ___ man asked for a newspaper, and the woman bought some fruit.",
+   "options": [
+    "A",
+    "An",
+    "The",
+    "Some"
+   ],
+   "answer": 2,
+   "explanation_th": "ผู้ชายคนที่พูดถึงไปแล้วในประโยคก่อน → The",
+   "why_wrong": [
+    "A man = ผู้ชายคนใหม่อีกคน ทำให้เรื่องงง",
+    "An ใช้ก่อนเสียงสระ",
+    null,
+    "Some ไม่ใช้กับนามเอกพจน์นับได้"
+   ]
+  },
+  {
+   "id": "L05-17",
+   "skill": "g.article",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Our town has a beautiful old temple. Every year, thousands of visitors come to see ___ temple.",
+   "options": [
+    "a",
+    "the",
+    "an",
+    "any"
+   ],
+   "answer": 1,
+   "explanation_th": "วัดที่พูดถึงไปแล้ว → the temple",
+   "why_wrong": [
+    "a temple = วัดไหนก็ได้ แต่หมายถึงวัดนั้น",
+    null,
+    "an ใช้ก่อนเสียงสระ",
+    "any ไม่ใช้ในประโยคบอกเล่าแบบนี้"
+   ]
+  },
+  {
+   "id": "L05-18",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "My mother is ___ engineer. She designs bridges and roads.",
+   "options": [
+    "a",
+    "the",
+    "an",
+    "some"
+   ],
+   "answer": 2,
+   "explanation_th": "อาชีพ + engineer ขึ้นต้นเสียงสระ → an",
+   "why_wrong": [
+    "a ใช้ก่อนเสียงพยัญชนะ",
+    "the engineer = วิศวกรคนที่รู้กันแล้ว ไม่ใช่อาชีพ",
+    null,
+    "some ไม่ใช้กับนามเอกพจน์นับได้"
+   ]
+  },
+  {
+   "id": "L05-19",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "I'm so thirsty. Is there ___ juice left? I can't find it in the fridge.",
+   "options": [
+    "a",
+    "an",
+    "many",
+    "any"
+   ],
+   "answer": 3,
+   "explanation_th": "คำถาม + นามนับไม่ได้ (juice) → any",
+   "why_wrong": [
+    "juice ในที่นี้นับไม่ได้",
+    "an ใช้กับนามนับได้",
+    "many ใช้กับนามนับได้พหูพจน์",
+    null
+   ]
+  },
+  {
+   "id": "L05-20",
+   "skill": "g.article",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Last week the government introduced a new law. Many people think ___ law will help poor families.",
+   "options": [
+    "the",
+    "a",
+    "an",
+    "any"
+   ],
+   "answer": 0,
+   "explanation_th": "กฎหมายฉบับที่พูดถึงไปแล้ว → the law (แบบเดียวกับที่ข้อสอบชอบถาม)",
+   "why_wrong": [
+    null,
+    "a law = กฎหมายฉบับไหนก็ได้ แต่หมายถึงฉบับใหม่นั้น",
+    "an ใช้ก่อนเสียงสระ",
+    "any ไม่ใช้ในประโยคบอกเล่าแบบนี้"
+   ]
+  },
+  {
+   "id": "L05-21",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "I didn't buy anything at the market because I didn't have ___ money with me.",
+   "options": [
+    "some",
+    "any",
+    "a",
+    "many"
+   ],
+   "answer": 1,
+   "explanation_th": "ปฏิเสธ + นามนับไม่ได้ (money) → any",
+   "why_wrong": [
+    "some ใช้ในประโยคบอกเล่า",
+    null,
+    "money นับไม่ได้ ใช้ a ไม่ได้",
+    "many ใช้กับนามนับได้"
+   ]
+  },
+  {
+   "id": "L05-22",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "When I was young, I had ___ cat named Lucky. It slept on my bed every night.",
+   "options": [
+    "the",
+    "an",
+    "some",
+    "a"
+   ],
+   "answer": 3,
+   "explanation_th": "แนะนำแมวครั้งแรก เอกพจน์ เสียงพยัญชนะ → a",
+   "why_wrong": [
+    "the ใช้เมื่อรู้กันแล้ว แต่นี่คือการแนะนำครั้งแรก",
+    "an ใช้ก่อนเสียงสระ",
+    "some ไม่ใช้กับนามเอกพจน์นับได้",
+    null
+   ]
+  },
+  {
+   "id": "L05-23",
+   "skill": "g.article",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Please take ___ seat. The interview will start in a few minutes.",
+   "options": [
+    "a",
+    "an",
+    "some",
+    "many"
+   ],
+   "answer": 0,
+   "explanation_th": "สำนวน take a seat = เชิญนั่ง",
+   "why_wrong": [
+    null,
+    "an ใช้ก่อนเสียงสระ",
+    "some ไม่ใช้กับนามเอกพจน์นับได้",
+    "many ใช้กับพหูพจน์"
+   ]
+  },
+  {
+   "id": "L05-24",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "Look at ___ sky! It's full of stars tonight.",
+   "options": [
+    "a",
+    "the",
+    "an",
+    "some"
+   ],
+   "answer": 1,
+   "explanation_th": "ท้องฟ้ามีหนึ่งเดียว → the sky",
+   "why_wrong": [
+    "a sky ใช้ไม่ได้ในความหมายนี้",
+    null,
+    "an ใช้ก่อนเสียงสระ",
+    "some ไม่ใช้กับสิ่งที่มีหนึ่งเดียว"
+   ]
+  },
+  {
+   "id": "L05-25",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "We need ___ eggs to make this cake. Can you buy six at the shop?",
+   "options": [
+    "any",
+    "much",
+    "an",
+    "some"
+   ],
+   "answer": 3,
+   "explanation_th": "บอกเล่า + นามพหูพจน์ → some eggs",
+   "why_wrong": [
+    "any ใช้ในคำถาม/ปฏิเสธ",
+    "much ใช้กับนามนับไม่ได้",
+    "an ใช้กับนามเอกพจน์",
+    null
+   ]
+  }
+ ],
+ "cloze": "C05"
+}

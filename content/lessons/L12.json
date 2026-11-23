@@ -1,0 +1,687 @@
+{
+ "id": "L12",
+ "phase": 2,
+ "skill": "g.passive",
+ "title_th": "ทำ หรือ ถูกทำ? (Passive)",
+ "title_en": "Active vs passive voice",
+ "villain": "passo",
+ "hook": {
+  "beats": [
+   {
+    "say": "ปิ๊ปอ่านป้ายหน้าสะพานเก่า",
+    "anim": "enter",
+    "board": "This bridge ___ in 1990."
+   },
+   {
+    "say": "ข้าคือพาสโซ จอมสลับ! สะพานสร้างเองได้นี่ ใส่ built ไปเลย",
+    "actor": "villain",
+    "anim": "shake",
+    "board": "built?"
+   },
+   {
+    "say": "สะพานสร้างตัวเองไม่ได้ มันถูกคนสร้าง",
+    "anim": "think",
+    "board": "สะพาน = ผู้ถูกกระทำ"
+   },
+   {
+    "say": "ประธานถูกกระทำ ใช้ verb to be บวกกริยาช่องสาม",
+    "anim": "jump",
+    "board": "This bridge was built in 1990."
+   },
+   {
+    "say": "ถ้าอยากบอกว่าใครทำ ต่อท้ายด้วย by",
+    "anim": "zap",
+    "board": "It was built by local workers."
+   },
+   {
+    "say": "โอ๊ย สลับไม่ได้แล้ว!",
+    "actor": "villain",
+    "anim": "swap"
+   }
+  ]
+ },
+ "discover": {
+  "examples": [
+   "Workers **built** the bridge.",
+   "The bridge **was built** by workers.",
+   "English **is spoken** in many countries.",
+   "My bike **has been stolen**!"
+  ],
+  "question_th": "ประโยคที่มี be + V3 บอกอะไร?",
+  "options_th": [
+   "ประธานเป็นผู้ \"ถูก\" กระทำ",
+   "ประธานเป็นผู้ทำ",
+   "เป็นอดีตเสมอ",
+   "เป็นคำถาม"
+  ],
+  "answer": 0,
+  "reveal_th": "Passive = be + V3 · tense ดูที่ be: is/are (ปัจจุบัน), was/were (อดีต), has been (perfect), will be / must be (modal), is being (กำลังถูก…) · ผู้กระทำตาม by"
+ },
+ "rule": {
+  "line_th": "ถามว่า \"ประธานทำเอง หรือ ถูกทำ?\" ถูกทำ → be + V3 (+ by ผู้ทำ) · เลือกรูป be ตาม tense",
+  "memory_th": "🎭 สลับบท: ผู้ทำเดินไปอยู่หลัง by ผู้ถูกทำขึ้นมาเป็นพระเอก แล้วกริยาใส่ชุด be + V3",
+  "terms": [
+   [
+    "active voice",
+    "ประโยคผู้กระทำ"
+   ],
+   [
+    "passive voice",
+    "ประโยคผู้ถูกกระทำ"
+   ],
+   [
+    "past participle (V3)",
+    "กริยาช่องสาม"
+   ],
+   [
+    "agent",
+    "ผู้กระทำ (หลัง by)"
+   ]
+  ]
+ },
+ "speak": [
+  "This bridge was built in 1990.",
+  "English is spoken in many countries.",
+  "The winners will be announced tomorrow."
+ ],
+ "twists": [
+  {
+   "id": "L12-t1",
+   "skill": "g.passive",
+   "type": "error",
+   "parts": [
+    "The thief",
+    "caught",
+    "by the police",
+    "last night."
+   ],
+   "answer": 1,
+   "explanation_th": "ขโมยถูกจับ ต้องใช้ was caught",
+   "why_wrong": [
+    "ถูกแล้ว",
+    null,
+    "by + ผู้กระทำ ถูกแล้ว",
+    "ถูกแล้ว"
+   ]
+  },
+  {
+   "id": "L12-t2",
+   "skill": "g.passive",
+   "type": "fill",
+   "stem": "Coffee ___ by farmers in the mountains of northern Thailand. (grow)",
+   "accept": [
+    "is grown"
+   ],
+   "hint_th": "กาแฟถูกปลูก (ความจริงทั่วไป ปัจจุบัน)",
+   "explanation_th": "passive ปัจจุบัน: is + V3 → is grown"
+  },
+  {
+   "id": "L12-t3",
+   "skill": "g.passive",
+   "type": "order",
+   "words": [
+    "The",
+    "results",
+    "will",
+    "be",
+    "announced",
+    "next",
+    "week."
+   ],
+   "explanation_th": "modal passive: will be + V3"
+  },
+  {
+   "id": "L12-t4",
+   "skill": "g.passive",
+   "type": "match",
+   "prompt_th": "เติมรูป passive ของ clean ให้ตรง tense",
+   "pairs": [
+    [
+     "Every day the room ___.",
+     "is cleaned"
+    ],
+    [
+     "Yesterday the room ___.",
+     "was cleaned"
+    ],
+    [
+     "Right now the room ___.",
+     "is being cleaned"
+    ],
+    [
+     "Tomorrow the room ___.",
+     "will be cleaned"
+    ]
+   ],
+   "explanation_th": "เปลี่ยนแค่ be ตามเวลา ส่วน V3 เหมือนเดิม"
+  }
+ ],
+ "questions": [
+  {
+   "id": "L12-01",
+   "skill": "g.passive",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "This bridge ___ in 1990.",
+   "options": [
+    "built",
+    "was built",
+    "is building",
+    "has build"
+   ],
+   "answer": 1,
+   "explanation_th": "สะพานถูกสร้าง + ปี 1990 (อดีต) → was built",
+   "why_wrong": [
+    "built = สะพานสร้าง (เป็นผู้ทำ) ผิดความหมาย",
+    null,
+    "is building = กำลังสร้างอะไรสักอย่าง",
+    "has build ผิดรูป"
+   ]
+  },
+  {
+   "id": "L12-02",
+   "skill": "g.passive",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "English ___ in many countries around the world.",
+   "options": [
+    "speaks",
+    "is speaking",
+    "is spoken",
+    "spoke"
+   ],
+   "answer": 2,
+   "explanation_th": "ภาษาถูกพูด (ความจริงทั่วไป) → is spoken",
+   "why_wrong": [
+    "English speaks = ภาษาพูดเอง ผิด",
+    "is speaking = ภาษากำลังพูด ผิด",
+    null,
+    "spoke = ภาษาพูด (อดีต) ผิด"
+   ]
+  },
+  {
+   "id": "L12-03",
+   "skill": "g.passive",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "The letter was written ___ my grandfather in 1975.",
+   "options": [
+    "with",
+    "from",
+    "of",
+    "by"
+   ],
+   "answer": 3,
+   "explanation_th": "passive + ผู้กระทำ → by",
+   "why_wrong": [
+    "with บอกเครื่องมือ",
+    "from = จาก",
+    "of = ของ",
+    null
+   ]
+  },
+  {
+   "id": "L12-04",
+   "skill": "g.passive",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "The thief ___ by the police last night.",
+   "options": [
+    "was caught",
+    "caught",
+    "is catching",
+    "has caught"
+   ],
+   "answer": 0,
+   "explanation_th": "ขโมยถูกจับ (last night) → was caught",
+   "why_wrong": [
+    null,
+    "caught = ขโมยเป็นคนจับ ผิดความหมาย",
+    "is catching ผิดทั้งความหมายและเวลา",
+    "has caught = ขโมยจับ และไม่ใช้กับ last night"
+   ]
+  },
+  {
+   "id": "L12-05",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "My bike ___! I can't find it anywhere.",
+   "options": [
+    "has stolen",
+    "has been stolen",
+    "stole",
+    "is stealing"
+   ],
+   "answer": 1,
+   "explanation_th": "จักรยานถูกขโมย (ผลยังอยู่ตอนนี้) → has been stolen",
+   "why_wrong": [
+    "has stolen = จักรยานขโมย ผิด",
+    null,
+    "stole = จักรยานขโมย ผิด",
+    "is stealing ผิดความหมาย"
+   ]
+  },
+  {
+   "id": "L12-06",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "The new hospital will ___ by the Prime Minister next year.",
+   "options": [
+    "opened",
+    "been opened",
+    "be opened",
+    "to open"
+   ],
+   "answer": 2,
+   "explanation_th": "will + be + V3 (ถูกเปิดโดย…) → be opened",
+   "why_wrong": [
+    "will opened ผิดรูป",
+    "will been ผิดรูป",
+    null,
+    "will to open ผิดรูป"
+   ]
+  },
+  {
+   "id": "L12-07",
+   "skill": "g.passive",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "Coffee ___ by farmers in the north of Thailand.",
+   "options": [
+    "grows",
+    "is growing",
+    "grew",
+    "is grown"
+   ],
+   "answer": 3,
+   "explanation_th": "มี by farmers แสดงว่ากาแฟถูกปลูก → is grown",
+   "why_wrong": [
+    "grows by farmers ผิด (ต้องเป็น passive เมื่อมีผู้ทำ)",
+    "is growing ไม่ใช่ passive",
+    "grew เป็นอดีตและไม่ใช่ passive",
+    null
+   ]
+  },
+  {
+   "id": "L12-08",
+   "skill": "g.passive",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "The classroom windows ___ every week.",
+   "options": [
+    "are cleaned",
+    "clean",
+    "are cleaning",
+    "cleaned"
+   ],
+   "answer": 0,
+   "explanation_th": "หน้าต่างถูกทำความสะอาดทุกสัปดาห์ → are cleaned",
+   "why_wrong": [
+    null,
+    "clean = หน้าต่างทำความสะอาดเอง",
+    "are cleaning = หน้าต่างกำลังทำความสะอาด",
+    "cleaned = หน้าต่างทำความสะอาด (อดีต active)"
+   ]
+  },
+  {
+   "id": "L12-09",
+   "skill": "g.passive",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "I ___ in Chiang Mai in 2008.",
+   "options": [
+    "born",
+    "was born",
+    "am born",
+    "have born"
+   ],
+   "answer": 1,
+   "explanation_th": "เกิด = be born (passive) + อดีต → was born",
+   "why_wrong": [
+    "born ขาด be",
+    null,
+    "am born เป็นปัจจุบัน",
+    "have born ผิดรูป"
+   ]
+  },
+  {
+   "id": "L12-10",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "The homework must ___ by Friday.",
+   "options": [
+    "finish",
+    "finished",
+    "be finished",
+    "be finishing"
+   ],
+   "answer": 2,
+   "explanation_th": "การบ้านถูกทำให้เสร็จ + modal → must be finished",
+   "why_wrong": [
+    "must finish = การบ้านทำให้เสร็จเอง",
+    "must finished ผิดรูป",
+    null,
+    "must be finishing ผิดความหมาย"
+   ]
+  },
+  {
+   "id": "L12-11",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "The room is being ___ now, so please wait outside.",
+   "options": [
+    "clean",
+    "cleaning",
+    "to clean",
+    "cleaned"
+   ],
+   "answer": 3,
+   "explanation_th": "กำลังถูกทำความสะอาด → is being + V3 → cleaned",
+   "why_wrong": [
+    "being clean = กำลังสะอาด ผิด",
+    "being cleaning ผิดรูป",
+    "being to clean ผิดรูป",
+    null
+   ]
+  },
+  {
+   "id": "L12-12",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Smoking ___ in this building.",
+   "options": [
+    "is not allowed",
+    "does not allow",
+    "not allowed",
+    "is not allowing"
+   ],
+   "answer": 0,
+   "explanation_th": "การสูบบุหรี่ไม่ถูกอนุญาต → is not allowed",
+   "why_wrong": [
+    null,
+    "does not allow = การสูบบุหรี่ไม่อนุญาต ผิด",
+    "not allowed ขาด is",
+    "is not allowing ผิดความหมาย"
+   ]
+  },
+  {
+   "id": "L12-13",
+   "skill": "g.passive",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "The winners of the contest ___ tomorrow morning.",
+   "options": [
+    "will announce",
+    "will be announced",
+    "announce",
+    "are announcing"
+   ],
+   "answer": 1,
+   "explanation_th": "ผู้ชนะถูกประกาศ (อนาคต) → will be announced",
+   "why_wrong": [
+    "will announce = ผู้ชนะเป็นคนประกาศ",
+    null,
+    "announce = ผู้ชนะประกาศ",
+    "are announcing = ผู้ชนะกำลังประกาศ"
+   ]
+  },
+  {
+   "id": "L12-14",
+   "skill": "g.passive",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "These beautiful photos ___ by my sister during our trip.",
+   "options": [
+    "took",
+    "were taking",
+    "were taken",
+    "taken"
+   ],
+   "answer": 2,
+   "explanation_th": "รูปถูกถ่าย (อดีต) → were taken",
+   "why_wrong": [
+    "took = รูปถ่าย ผิด",
+    "were taking ผิดความหมาย",
+    null,
+    "taken ขาด were"
+   ]
+  },
+  {
+   "id": "L12-15",
+   "skill": "g.passive",
+   "difficulty": 3,
+   "stage": 1,
+   "stem": "When we arrived, the car ___; there was soapy water everywhere.",
+   "options": [
+    "washed",
+    "was washing",
+    "has been washed",
+    "was being washed"
+   ],
+   "answer": 3,
+   "explanation_th": "กำลังถูกล้างอยู่ตอนที่เราไปถึง → was being washed",
+   "why_wrong": [
+    "washed = รถล้าง ผิด",
+    "was washing = รถกำลังล้าง ผิด",
+    "has been washed ไม่เข้ากับเรื่องเล่าอดีต (arrived)",
+    null
+   ]
+  },
+  {
+   "id": "L12-16",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Our school was founded a hundred years ago. It ___ by a group of monks who wanted to teach village children.",
+   "options": [
+    "was started",
+    "started",
+    "has started",
+    "is starting"
+   ],
+   "answer": 0,
+   "explanation_th": "โรงเรียนถูกก่อตั้ง (อดีต) + by → was started",
+   "why_wrong": [
+    null,
+    "started by ใช้ไม่ได้เมื่อโรงเรียนเป็นผู้ถูกทำ",
+    "has started ผิดความหมายและเวลา",
+    "is starting ผิด"
+   ]
+  },
+  {
+   "id": "L12-17",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "People cut down thousands of trees every year. As a result, many forests ___ forever.",
+   "options": [
+    "destroy",
+    "are destroyed",
+    "are destroying",
+    "destroyed"
+   ],
+   "answer": 1,
+   "explanation_th": "ป่าถูกทำลาย (ปัจจุบัน ทุกปี) → are destroyed",
+   "why_wrong": [
+    "destroy = ป่าทำลาย ผิด",
+    null,
+    "are destroying = ป่ากำลังทำลาย ผิด",
+    "destroyed = ป่าทำลาย (อดีต active)"
+   ]
+  },
+  {
+   "id": "L12-18",
+   "skill": "g.passive",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "The Mona Lisa is one of the most famous paintings in the world. It ___ by Leonardo da Vinci more than 500 years ago.",
+   "options": [
+    "painted",
+    "has painted",
+    "was painted",
+    "is painting"
+   ],
+   "answer": 2,
+   "explanation_th": "ภาพถูกวาด (อดีต) + by → was painted",
+   "why_wrong": [
+    "painted by ใช้เป็นกริยาแท้ไม่ได้ ต้องมี was",
+    "has painted = ภาพวาด ผิด",
+    null,
+    "is painting ผิด"
+   ]
+  },
+  {
+   "id": "L12-19",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "The old market will close next month. A new shopping center ___ in its place.",
+   "options": [
+    "will build",
+    "builds",
+    "is building",
+    "will be built"
+   ],
+   "answer": 3,
+   "explanation_th": "ห้างจะถูกสร้าง → will be built",
+   "why_wrong": [
+    "will build = ห้างจะสร้าง ผิด",
+    "builds = ห้างสร้าง ผิด",
+    "is building = ห้างกำลังสร้าง ผิด",
+    null
+   ]
+  },
+  {
+   "id": "L12-20",
+   "skill": "g.passive",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "When we arrived at the airport, we were told that our flight ___ because of the storm.",
+   "options": [
+    "had been cancelled",
+    "had cancelled",
+    "cancelled",
+    "was cancelling"
+   ],
+   "answer": 0,
+   "explanation_th": "เที่ยวบินถูกยกเลิกไปก่อนที่เราจะได้รับแจ้ง → had been cancelled",
+   "why_wrong": [
+    null,
+    "had cancelled = เที่ยวบินยกเลิก (active) ผิด",
+    "cancelled = เที่ยวบินเป็นผู้ยกเลิก ผิด",
+    "was cancelling ผิด"
+   ]
+  },
+  {
+   "id": "L12-21",
+   "skill": "g.passive",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "The concert was wonderful. The famous song was sung ___ a choir of two hundred children.",
+   "options": [
+    "with",
+    "by",
+    "from",
+    "at"
+   ],
+   "answer": 1,
+   "explanation_th": "ผู้กระทำใน passive → by",
+   "why_wrong": [
+    "with บอกเครื่องมือ",
+    null,
+    "from = จาก",
+    "at ไม่บอกผู้กระทำ"
+   ]
+  },
+  {
+   "id": "L12-22",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Don't worry about your phone. It ___ right now and will be ready in an hour.",
+   "options": [
+    "is repairing",
+    "repairs",
+    "is being repaired",
+    "repaired"
+   ],
+   "answer": 2,
+   "explanation_th": "กำลังถูกซ่อม → is being repaired",
+   "why_wrong": [
+    "is repairing = โทรศัพท์กำลังซ่อม ผิด",
+    "repairs ผิดความหมาย",
+    null,
+    "repaired = โทรศัพท์ซ่อม ผิด"
+   ]
+  },
+  {
+   "id": "L12-23",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "The results of the scholarship exam ___ on the university website next Friday.",
+   "options": [
+    "will post",
+    "posts",
+    "are posting",
+    "will be posted"
+   ],
+   "answer": 3,
+   "explanation_th": "ผลสอบจะถูกประกาศ → will be posted",
+   "why_wrong": [
+    "will post = ผลสอบเป็นคนโพสต์",
+    "posts ผิด",
+    "are posting ผิด",
+    null
+   ]
+  },
+  {
+   "id": "L12-24",
+   "skill": "g.passive",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "The newspaper article made many readers angry. Hundreds of letters ___ to the editor since it appeared.",
+   "options": [
+    "have been sent",
+    "have sent",
+    "sent",
+    "are sending"
+   ],
+   "answer": 0,
+   "explanation_th": "จดหมายถูกส่ง + since → have been sent",
+   "why_wrong": [
+    null,
+    "have sent = จดหมายส่ง ผิด",
+    "sent = จดหมายส่ง ผิด",
+    "are sending ผิด"
+   ]
+  },
+  {
+   "id": "L12-25",
+   "skill": "g.passive",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "The thief ran away, but his car ___ near the river two days later.",
+   "options": [
+    "found",
+    "was found",
+    "finds",
+    "has found"
+   ],
+   "answer": 1,
+   "explanation_th": "รถถูกพบ (อดีต) → was found",
+   "why_wrong": [
+    "found = รถพบ ผิด",
+    null,
+    "finds ผิด",
+    "has found ผิด และไม่ใช้กับ two days later"
+   ]
+  }
+ ],
+ "cloze": "C12"
+}

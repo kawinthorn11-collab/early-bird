@@ -1,0 +1,685 @@
+{
+ "id": "L16",
+ "phase": 2,
+ "skill": "g.conditional",
+ "title_th": "ถ้า… 3 แบบ (If)",
+ "title_en": "Conditionals: real, unreal, past",
+ "villain": "tikki",
+ "hook": {
+  "beats": [
+   {
+    "say": "ปิ๊ปฝันกลางวันว่าถ้ารวยจะทำอะไร",
+    "anim": "enter",
+    "board": "If I ___ rich, I would travel the world."
+   },
+   {
+    "say": "ทิกกี้! ใส่ am สิ ตอนนี้เจ้าก็อยู่ปัจจุบันนี่",
+    "actor": "villain",
+    "anim": "shake",
+    "board": "am??"
+   },
+   {
+    "say": "ถ้าเป็นเรื่องสมมุติที่ไม่จริงตอนนี้ ภาษาอังกฤษถอยกริยาไปเป็นอดีต",
+    "anim": "think",
+    "board": "ไม่จริง → ถอย tense"
+   },
+   {
+    "say": "ถ้าแบบที่สอง ใช้ were หรือกริยาช่องสอง แล้วตามด้วย would",
+    "anim": "jump",
+    "board": "If I were rich, I would travel."
+   },
+   {
+    "say": "ถ้าเป็นไปได้จริง ใช้ปัจจุบันกับ will และถ้าเสียดายอดีต ใช้ had ช่องสาม กับ would have",
+    "anim": "zap",
+    "board": "If it rains, I will stay. · If I had known, I would have come."
+   },
+   {
+    "say": "ไม่จริ๊ง กลไกเวลาของข้าพังหมดแล้ว",
+    "actor": "villain",
+    "anim": "swap"
+   }
+  ]
+ },
+ "discover": {
+  "examples": [
+   "If it **rains** tomorrow, we **will stay** home.",
+   "If I **were** a bird, I **would fly** to Japan.",
+   "If she **had studied**, she **would have passed**.",
+   "If you heat ice, it **melts**."
+  ],
+  "question_th": "ทำไมประโยค 2 ใช้ were ทั้งที่พูดถึงตอนนี้?",
+  "options_th": [
+   "เพราะเป็นเรื่องสมมุติที่ไม่จริง จึงถอย tense ไปเป็นอดีต",
+   "เพราะเป็นเรื่องในอดีต",
+   "เพราะ I ต้องใช้ were เสมอ",
+   "พิมพ์ผิด"
+  ],
+  "answer": 0,
+  "reveal_th": "แบบ 0 ความจริง: If + V1, V1 · แบบ 1 เป็นไปได้: If + V1(s), will + V1 · แบบ 2 สมมุติปัจจุบัน: If + V2/were, would + V1 · แบบ 3 สมมุติอดีต: If + had V3, would have V3 · unless = if … not"
+ },
+ "rule": {
+  "line_th": "เป็นไปได้ → If + V1, will · ไม่จริงตอนนี้ → If + V2/were, would + V1 · ไม่จริงในอดีต → If + had V3, would have V3 · unless = ถ้าไม่",
+  "memory_th": "🎚 ยิ่งไม่จริง ยิ่งถอยหลังหนึ่งขั้น: จริง (ปัจจุบัน) → ฝัน (อดีต + would) → เสียดาย (had V3 + would have)",
+  "terms": [
+   [
+    "conditional",
+    "ประโยคเงื่อนไข"
+   ],
+   [
+    "unreal",
+    "ไม่จริง/สมมุติ"
+   ],
+   [
+    "unless",
+    "ถ้าไม่"
+   ]
+  ]
+ },
+ "speak": [
+  "If it rains tomorrow, we will stay home.",
+  "If I were rich, I would travel the world.",
+  "If I had known, I would have helped you."
+ ],
+ "twists": [
+  {
+   "id": "L16-t1",
+   "skill": "g.conditional",
+   "type": "error",
+   "parts": [
+    "If it",
+    "will rain",
+    "tomorrow,",
+    "we will stay home."
+   ],
+   "answer": 1,
+   "explanation_th": "หลัง if (แบบที่ 1) ใช้ปัจจุบัน ไม่ใช้ will → If it rains",
+   "why_wrong": [
+    "ถูกแล้ว",
+    null,
+    "ถูกแล้ว",
+    "ถูกแล้ว"
+   ]
+  },
+  {
+   "id": "L16-t2",
+   "skill": "g.conditional",
+   "type": "fill",
+   "stem": "If I ___ you, I would apologize to her. (be)",
+   "accept": [
+    "were",
+    "was"
+   ],
+   "hint_th": "สมมุติว่าฉันเป็นเธอ (ไม่จริง) → ถอยเป็นอดีต",
+   "explanation_th": "If I were you = ถ้าฉันเป็นเธอ (ในข้อสอบใช้ were)"
+  },
+  {
+   "id": "L16-t3",
+   "skill": "g.conditional",
+   "type": "order",
+   "words": [
+    "If",
+    "I",
+    "had",
+    "known,",
+    "I",
+    "would",
+    "have",
+    "come."
+   ],
+   "explanation_th": "If + had V3, would have V3"
+  },
+  {
+   "id": "L16-t4",
+   "skill": "g.conditional",
+   "type": "match",
+   "prompt_th": "จับคู่ครึ่งประโยค",
+   "pairs": [
+    [
+     "If you heat ice,",
+     "it melts."
+    ],
+    [
+     "If it rains tomorrow,",
+     "we will stay home."
+    ],
+    [
+     "If I were rich,",
+     "I would buy a farm."
+    ],
+    [
+     "If he had run,",
+     "he would have caught the bus."
+    ]
+   ],
+   "explanation_th": "แบบ 0 / 1 / 2 / 3 ต้องจับคู่ tense ให้ตรงกัน"
+  }
+ ],
+ "questions": [
+  {
+   "id": "L16-01",
+   "skill": "g.conditional",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "If it rains tomorrow, we ___ at home.",
+   "options": [
+    "would stay",
+    "will stay",
+    "stayed",
+    "would have stayed"
+   ],
+   "answer": 1,
+   "explanation_th": "แบบที่ 1 (เป็นไปได้): If + V1, will + V1",
+   "why_wrong": [
+    "would ใช้กับแบบที่ 2",
+    null,
+    "stayed เป็นอดีต",
+    "would have ใช้กับแบบที่ 3"
+   ]
+  },
+  {
+   "id": "L16-02",
+   "skill": "g.conditional",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "If I ___ rich, I would travel around the world.",
+   "options": [
+    "am",
+    "will be",
+    "were",
+    "had been"
+   ],
+   "answer": 2,
+   "explanation_th": "แบบที่ 2 (สมมุติปัจจุบัน) + would → were",
+   "why_wrong": [
+    "am ใช้กับเรื่องจริง ไม่เข้ากับ would",
+    "หลัง if ไม่ใช้ will",
+    null,
+    "had been ใช้กับแบบที่ 3"
+   ]
+  },
+  {
+   "id": "L16-03",
+   "skill": "g.conditional",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "If you heat ice, it ___.",
+   "options": [
+    "would melt",
+    "melted",
+    "had melted",
+    "melts"
+   ],
+   "answer": 3,
+   "explanation_th": "ความจริงทางวิทยาศาสตร์ (แบบ 0): If + V1, V1 → \"melts\"",
+   "why_wrong": [
+    "would ใช้กับเรื่องสมมุติ",
+    "melted เป็นอดีต",
+    "had melted ไม่ใช่รูปของความจริงทั่วไป",
+    null
+   ]
+  },
+  {
+   "id": "L16-04",
+   "skill": "g.conditional",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "If she had studied harder, she ___ the exam.",
+   "options": [
+    "would have passed",
+    "will pass",
+    "would pass",
+    "passed"
+   ],
+   "answer": 0,
+   "explanation_th": "แบบที่ 3: If + had V3, would have V3",
+   "why_wrong": [
+    null,
+    "will pass ใช้กับแบบที่ 1",
+    "would pass ใช้กับแบบที่ 2",
+    "passed ไม่ใช่ประโยคหลักของแบบที่ 3"
+   ]
+  },
+  {
+   "id": "L16-05",
+   "skill": "g.conditional",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "___ you hurry, you'll miss the train.",
+   "options": [
+    "If",
+    "Unless",
+    "When",
+    "Because"
+   ],
+   "answer": 1,
+   "explanation_th": "ถ้าไม่รีบ จะตกรถไฟ → Unless (= If … not)",
+   "why_wrong": [
+    "If you hurry = ถ้ารีบจะตกรถ ไม่สมเหตุผล",
+    null,
+    "When ไม่สมเหตุผล",
+    "Because ไม่สมเหตุผล"
+   ]
+  },
+  {
+   "id": "L16-06",
+   "skill": "g.conditional",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "What would you do if you ___ a million baht?",
+   "options": [
+    "win",
+    "will win",
+    "won",
+    "had won"
+   ],
+   "answer": 2,
+   "explanation_th": "แบบที่ 2 (would) → If + V2 → \"won\"",
+   "why_wrong": [
+    "win ใช้กับแบบที่ 1 (will)",
+    "หลัง if ไม่ใช้ will",
+    null,
+    "had won ใช้กับแบบที่ 3"
+   ]
+  },
+  {
+   "id": "L16-07",
+   "skill": "g.conditional",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "If I ___ you, I would say sorry to her.",
+   "options": [
+    "am",
+    "be",
+    "will be",
+    "were"
+   ],
+   "answer": 3,
+   "explanation_th": "If I were you = ถ้าฉันเป็นเธอ (ให้คำแนะนำ)",
+   "why_wrong": [
+    "am ไม่ใช้กับ would",
+    "be ผิดรูป",
+    "หลัง if ไม่ใช้ will",
+    null
+   ]
+  },
+  {
+   "id": "L16-08",
+   "skill": "g.conditional",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "If he ___ home earlier, he wouldn't have missed the bus.",
+   "options": [
+    "had left",
+    "left",
+    "leaves",
+    "would leave"
+   ],
+   "answer": 0,
+   "explanation_th": "แบบที่ 3 (wouldn't have) → If + had V3",
+   "why_wrong": [
+    null,
+    "left ใช้กับแบบที่ 2",
+    "leaves ใช้กับแบบที่ 1",
+    "หลัง if ไม่ใช้ would"
+   ]
+  },
+  {
+   "id": "L16-09",
+   "skill": "g.conditional",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "I'll call you if I ___ time this evening.",
+   "options": [
+    "will have",
+    "have",
+    "had",
+    "would have"
+   ],
+   "answer": 1,
+   "explanation_th": "แบบที่ 1: หลัง if ใช้ปัจจุบัน → have",
+   "why_wrong": [
+    "หลัง if ไม่ใช้ will",
+    null,
+    "had ใช้กับแบบที่ 2",
+    "would have ไม่ใช้หลัง if"
+   ]
+  },
+  {
+   "id": "L16-10",
+   "skill": "g.conditional",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "If we ___ more money, we could buy a bigger house.",
+   "options": [
+    "have",
+    "will have",
+    "had",
+    "would have"
+   ],
+   "answer": 2,
+   "explanation_th": "could (แบบที่ 2) → If + V2 had",
+   "why_wrong": [
+    "have ใช้กับแบบที่ 1",
+    "หลัง if ไม่ใช้ will",
+    null,
+    "หลัง if ไม่ใช้ would"
+   ]
+  },
+  {
+   "id": "L16-11",
+   "skill": "g.conditional",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "If you mix red and blue, you ___ purple.",
+   "options": [
+    "got",
+    "would get",
+    "had got",
+    "get"
+   ],
+   "answer": 3,
+   "explanation_th": "ความจริงทั่วไป (แบบ 0) → get",
+   "why_wrong": [
+    "got เป็นอดีต",
+    "would get ใช้กับเรื่องสมมุติ",
+    "had got ไม่ใช่ความจริงทั่วไป",
+    null
+   ]
+  },
+  {
+   "id": "L16-12",
+   "skill": "g.conditional",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "She wouldn't be so tired if she ___ to bed earlier.",
+   "options": [
+    "went",
+    "goes",
+    "will go",
+    "would go"
+   ],
+   "answer": 0,
+   "explanation_th": "แบบที่ 2 (wouldn't be) → If + V2 → \"went\"",
+   "why_wrong": [
+    null,
+    "goes ใช้กับแบบที่ 1",
+    "หลัง if ไม่ใช้ will",
+    "หลัง if ไม่ใช้ would"
+   ]
+  },
+  {
+   "id": "L16-13",
+   "skill": "g.conditional",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "If it ___ sunny tomorrow, let's go to the beach.",
+   "options": [
+    "will be",
+    "is",
+    "was",
+    "were"
+   ],
+   "answer": 1,
+   "explanation_th": "แบบที่ 1 (ชวนทำจริง): หลัง if ใช้ปัจจุบัน → is",
+   "why_wrong": [
+    "หลัง if ไม่ใช้ will",
+    null,
+    "was ใช้กับแบบที่ 2",
+    "were ใช้กับแบบที่ 2"
+   ]
+  },
+  {
+   "id": "L16-14",
+   "skill": "g.conditional",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "If I had known you were sick, I ___ you.",
+   "options": [
+    "will visit",
+    "would visit",
+    "would have visited",
+    "visited"
+   ],
+   "answer": 2,
+   "explanation_th": "แบบที่ 3 → would have visited",
+   "why_wrong": [
+    "will ใช้กับแบบที่ 1",
+    "would visit ใช้กับแบบที่ 2",
+    null,
+    "visited ไม่ใช่ประโยคหลัก"
+   ]
+  },
+  {
+   "id": "L16-15",
+   "skill": "g.conditional",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "You can't enter the exam room ___ you show your ID card.",
+   "options": [
+    "if",
+    "when",
+    "whether",
+    "unless"
+   ],
+   "answer": 3,
+   "explanation_th": "เข้าไม่ได้ ถ้าไม่แสดงบัตร → unless",
+   "why_wrong": [
+    "if ทำให้ความหมายกลับ",
+    "when ทำให้ความหมายกลับ",
+    "whether ไม่ใช่เงื่อนไขแบบนี้",
+    null
+   ]
+  },
+  {
+   "id": "L16-16",
+   "skill": "g.conditional",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "The weather forecast says it might rain. If it ___, the sports day will be moved to next week.",
+   "options": [
+    "rains",
+    "will rain",
+    "rained",
+    "would rain"
+   ],
+   "answer": 0,
+   "explanation_th": "แบบที่ 1 + will be moved → If it rains",
+   "why_wrong": [
+    null,
+    "หลัง if ไม่ใช้ will",
+    "rained ใช้กับแบบที่ 2",
+    "หลัง if ไม่ใช้ would"
+   ]
+  },
+  {
+   "id": "L16-17",
+   "skill": "g.conditional",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "My English is not very good yet. If my English ___ better, I would apply to study abroad.",
+   "options": [
+    "is",
+    "were",
+    "will be",
+    "had been"
+   ],
+   "answer": 1,
+   "explanation_th": "สมมุติไม่จริงตอนนี้ + would → were",
+   "why_wrong": [
+    "is ไม่ใช้กับ would",
+    null,
+    "หลัง if ไม่ใช้ will",
+    "had been ใช้กับแบบที่ 3"
+   ]
+  },
+  {
+   "id": "L16-18",
+   "skill": "g.conditional",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "We got lost because we did not have a map. If we had brought a map, we ___ lost.",
+   "options": [
+    "won't get",
+    "didn't get",
+    "wouldn't have got",
+    "wouldn't get"
+   ],
+   "answer": 2,
+   "explanation_th": "แบบที่ 3 → wouldn't have got",
+   "why_wrong": [
+    "won't ใช้กับแบบที่ 1",
+    "didn't get ไม่ใช่ประโยคหลัก",
+    null,
+    "wouldn't get ใช้กับแบบที่ 2"
+   ]
+  },
+  {
+   "id": "L16-19",
+   "skill": "g.conditional",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Plants need sunlight to stay healthy. If a plant ___ enough light, its leaves turn yellow.",
+   "options": [
+    "won't get",
+    "didn't get",
+    "wouldn't get",
+    "doesn't get"
+   ],
+   "answer": 3,
+   "explanation_th": "ความจริงทั่วไป (turn) → doesn't get",
+   "why_wrong": [
+    "หลัง if ไม่ใช้ will",
+    "didn't ใช้กับแบบที่ 2",
+    "หลัง if ไม่ใช้ would",
+    null
+   ]
+  },
+  {
+   "id": "L16-20",
+   "skill": "g.conditional",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "Don't worry, the shop is open late. If you ___ now, you will get there before it closes.",
+   "options": [
+    "leave",
+    "will leave",
+    "left",
+    "would leave"
+   ],
+   "answer": 0,
+   "explanation_th": "แบบที่ 1 → If you leave",
+   "why_wrong": [
+    null,
+    "หลัง if ไม่ใช้ will",
+    "left ใช้กับแบบที่ 2",
+    "หลัง if ไม่ใช้ would"
+   ]
+  },
+  {
+   "id": "L16-21",
+   "skill": "g.conditional",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "The boy was not wearing a helmet when he fell. If he had worn one, he ___ so badly.",
+   "options": [
+    "won't be hurt",
+    "wouldn't have been hurt",
+    "wasn't hurt",
+    "wouldn't be hurt"
+   ],
+   "answer": 1,
+   "explanation_th": "แบบที่ 3 + passive → wouldn't have been hurt",
+   "why_wrong": [
+    "won't ใช้กับแบบที่ 1",
+    null,
+    "wasn't hurt ไม่ใช่ประโยคหลัก",
+    "wouldn't be hurt ใช้กับแบบที่ 2"
+   ]
+  },
+  {
+   "id": "L16-22",
+   "skill": "g.conditional",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Nok can't come to the party because she has an exam. She would come if she ___ free.",
+   "options": [
+    "is",
+    "will be",
+    "were",
+    "had been"
+   ],
+   "answer": 2,
+   "explanation_th": "สมมุติปัจจุบัน + would → were",
+   "why_wrong": [
+    "is ไม่ใช้กับ would",
+    "หลัง if ไม่ใช้ will",
+    null,
+    "had been ใช้กับอดีต"
+   ]
+  },
+  {
+   "id": "L16-23",
+   "skill": "g.conditional",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "___ you water the plants regularly, they will die in this hot weather.",
+   "options": [
+    "If",
+    "When",
+    "As",
+    "Unless"
+   ],
+   "answer": 3,
+   "explanation_th": "ต้นไม้จะตาย ถ้าไม่รดน้ำ → Unless",
+   "why_wrong": [
+    "If ทำให้ความหมายกลับ (รดน้ำแล้วตาย)",
+    "When ทำให้ความหมายกลับ",
+    "As ไม่สมเหตุผล",
+    null
+   ]
+  },
+  {
+   "id": "L16-24",
+   "skill": "g.conditional",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "Imagine you found a wallet full of money on the street. What ___ you do?",
+   "options": [
+    "would",
+    "will",
+    "did",
+    "do"
+   ],
+   "answer": 0,
+   "explanation_th": "Imagine = สมมุติ (แบบที่ 2) → would",
+   "why_wrong": [
+    null,
+    "will ใช้กับเรื่องที่เป็นไปได้จริง",
+    "did เป็นอดีต",
+    "do ไม่เข้ากับการสมมุติ"
+   ]
+  },
+  {
+   "id": "L16-25",
+   "skill": "g.conditional",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "The scientists acted very quickly. If they had not acted so fast, the disease ___ to other villages.",
+   "options": [
+    "will spread",
+    "would have spread",
+    "spread",
+    "would spread"
+   ],
+   "answer": 1,
+   "explanation_th": "แบบที่ 3 → would have spread",
+   "why_wrong": [
+    "will ใช้กับแบบที่ 1",
+    null,
+    "spread ไม่ใช่ประโยคหลัก",
+    "would spread ใช้กับแบบที่ 2"
+   ]
+  }
+ ],
+ "cloze": "C16"
+}

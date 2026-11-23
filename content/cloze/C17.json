@@ -1,0 +1,209 @@
+{
+ "id": "C17",
+ "title": "A Day as a Volunteer",
+ "genre": "ชีวิตนักเรียน",
+ "level": "B1",
+ "text": "Last Saturday, my class volunteered at a home for elderly people. We cleaned the rooms, planted flowers and (1) lunch for everyone. Some of us sang songs, (2) others played board games with the residents. One old man, Uncle Chai, told me about his life. He had been a teacher, a farmer and a taxi (3).\nHe spoke slowly but (4), and his stories were funny and (5). He said that the secret to a happy life is not having money but (6) good friends. Before we left, the residents thanked us not only with words but also (7) small gifts they had made.\nI learned that helping others is as important as (8) well at school. Next month, we will go back to visit them and (9) them our photos. I am looking forward to seeing Uncle Chai and (10) more of his stories.",
+ "items": [
+  {
+   "id": "C17-1",
+   "skill": "g.parallel",
+   "difficulty": 1,
+   "stem": "(1) We cleaned the rooms, planted flowers and ___ lunch for everyone.",
+   "options": [
+    "cooking",
+    "cooked",
+    "to cook",
+    "cook"
+   ],
+   "answer": 1,
+   "explanation_th": "cleaned, planted ↔ cooked",
+   "why_wrong": [
+    "cooking ไม่ขนาน",
+    null,
+    "to cook ไม่ขนาน",
+    "cook ไม่ขนาน (เป็นปัจจุบัน)"
+   ]
+  },
+  {
+   "id": "C17-2",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stem": "(2) Some of us sang songs, ___ others played board games with the residents.",
+   "options": [
+    "so",
+    "because",
+    "while",
+    "unless"
+   ],
+   "answer": 2,
+   "explanation_th": "บางคน… ขณะที่คนอื่น… → while",
+   "why_wrong": [
+    "so ไม่สมเหตุผล",
+    "because ไม่สมเหตุผล",
+    null,
+    "unless ไม่สมเหตุผล"
+   ]
+  },
+  {
+   "id": "C17-3",
+   "skill": "g.parallel",
+   "difficulty": 1,
+   "stem": "(3) He had been a teacher, a farmer and a taxi ___.",
+   "options": [
+    "driving",
+    "drive",
+    "drove",
+    "driver"
+   ],
+   "answer": 3,
+   "explanation_th": "a teacher, a farmer ↔ a taxi driver (คำนามบอกอาชีพ)",
+   "why_wrong": [
+    "driving ไม่ใช่อาชีพ",
+    "drive เป็นกริยา",
+    "drove เป็นกริยา",
+    null
+   ]
+  },
+  {
+   "id": "C17-4",
+   "skill": "g.parallel",
+   "difficulty": 1,
+   "stem": "(4) He spoke slowly but ___, and his stories were funny and ….",
+   "options": [
+    "clearly",
+    "clear",
+    "clarity",
+    "more clear"
+   ],
+   "answer": 0,
+   "explanation_th": "slowly ↔ clearly",
+   "why_wrong": [
+    null,
+    "clear เป็น adjective",
+    "clarity เป็นคำนาม",
+    "more clear เป็น adjective"
+   ]
+  },
+  {
+   "id": "C17-5",
+   "skill": "g.parallel",
+   "difficulty": 1,
+   "stem": "(5) He spoke slowly but …, and his stories were funny and ___.",
+   "options": [
+    "interest",
+    "interesting",
+    "interestingly",
+    "interested"
+   ],
+   "answer": 1,
+   "explanation_th": "funny ↔ interesting (adjective ที่บรรยายเรื่อง)",
+   "why_wrong": [
+    "interest เป็นคำนาม",
+    null,
+    "interestingly เป็น adverb",
+    "interested ใช้กับคนที่รู้สึก"
+   ]
+  },
+  {
+   "id": "C17-6",
+   "skill": "g.parallel",
+   "difficulty": 2,
+   "stem": "(6) He said that the secret to a happy life is not having money but ___ good friends.",
+   "options": [
+    "to have",
+    "have",
+    "having",
+    "had"
+   ],
+   "answer": 2,
+   "explanation_th": "not having money but having good friends",
+   "why_wrong": [
+    "to have ไม่ขนาน",
+    "have ไม่ขนาน",
+    null,
+    "had ไม่ขนาน"
+   ]
+  },
+  {
+   "id": "C17-7",
+   "skill": "g.parallel",
+   "difficulty": 2,
+   "stem": "(7) Before we left, the residents thanked us not only with words but also ___ small gifts they had made.",
+   "options": [
+    "by",
+    "for",
+    "of",
+    "with"
+   ],
+   "answer": 3,
+   "explanation_th": "not only with words but also with gifts",
+   "why_wrong": [
+    "by ไม่ขนานกับ with",
+    "for ไม่ขนาน",
+    "of ไม่ขนาน",
+    null
+   ]
+  },
+  {
+   "id": "C17-8",
+   "skill": "g.parallel",
+   "difficulty": 2,
+   "stem": "(8) I learned that helping others is as important as ___ well at school.",
+   "options": [
+    "doing",
+    "to do",
+    "do",
+    "done"
+   ],
+   "answer": 0,
+   "explanation_th": "helping others ↔ doing well (V-ing)",
+   "why_wrong": [
+    null,
+    "to do ไม่ขนานกับ helping",
+    "do ไม่ขนาน",
+    "done ไม่ขนาน"
+   ]
+  },
+  {
+   "id": "C17-9",
+   "skill": "g.parallel",
+   "difficulty": 2,
+   "stem": "(9) Next month, we will go back to visit them and ___ them our photos.",
+   "options": [
+    "showing",
+    "show",
+    "to show",
+    "shown"
+   ],
+   "answer": 1,
+   "explanation_th": "will go back … and show (V1 หลัง will)",
+   "why_wrong": [
+    "showing ไม่ขนาน",
+    null,
+    "to show ไม่ขนาน",
+    "shown ไม่ขนาน"
+   ]
+  },
+  {
+   "id": "C17-10",
+   "skill": "g.parallel",
+   "difficulty": 2,
+   "stem": "(10) I am looking forward to seeing Uncle Chai and ___ more of his stories.",
+   "options": [
+    "hear",
+    "to hear",
+    "hearing",
+    "heard"
+   ],
+   "answer": 2,
+   "explanation_th": "looking forward to seeing … and hearing",
+   "why_wrong": [
+    "hear ไม่ขนาน",
+    "to hear ไม่ขนาน",
+    null,
+    "heard ไม่ขนาน"
+   ]
+  }
+ ]
+}

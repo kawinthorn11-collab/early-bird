@@ -1,0 +1,9 @@
+.env
+node_modules
+dist
+recordings/
+.DS_Store
+.env*
+reports/
+*.log
+source/*.pdf

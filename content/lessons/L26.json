@@ -1,0 +1,729 @@
+{
+ "id": "L26",
+ "phase": 1,
+ "skill": "g.future",
+ "title_th": "จะทำ ตั้งใจทำ หรือนัดไว้แล้ว? (อนาคต)",
+ "title_en": "Future forms: will, be going to, present continuous",
+ "villain": "tikki",
+ "hook": {
+  "beats": [
+   {
+    "say": "ปิ๊ปเห็นเมฆดำก้อนใหญ่ลอยมาเหนือสนามฟุตบอล",
+    "anim": "enter",
+    "board": "Look at those clouds! It ___ rain."
+   },
+   {
+    "say": "ข้าคือทิกกี้ ตัวป่วนเวลา! อนาคตก็ใส่ will ทุกช่องไปเลย ง่ายดี!",
+    "actor": "villain",
+    "anim": "shake",
+    "board": "will? going to?"
+   },
+   {
+    "say": "อนาคตมีหลายแบบ ตัดสินใจตอนพูดใช้ will แต่ถ้าวางแผนไว้แล้ว หรือเห็นหลักฐานตรงหน้า ใช้ be going to",
+    "anim": "think",
+    "board": "ตัดสินใจตอนนี้ = will · แผน / หลักฐาน = going to"
+   },
+   {
+    "say": "เมฆดำอยู่ตรงหน้า เป็นหลักฐาน เลยใช้ is going to",
+    "anim": "jump",
+    "board": "It is going to rain."
+   },
+   {
+    "say": "ระวังกับดัก! หลัง when, after, as soon as ใช้ปัจจุบัน ห้ามใส่ will",
+    "anim": "zap",
+    "board": "I'll call you when I get home."
+   },
+   {
+    "say": "อ๊าก นาฬิกาอนาคตของข้าเดินตรงซะแล้ว!",
+    "actor": "villain",
+    "anim": "swap"
+   }
+  ]
+ },
+ "discover": {
+  "examples": [
+   "The phone is ringing. I**'ll** get it.",
+   "I bought some paint. I**'m going to** paint my room.",
+   "I**'m meeting** Ken at 5 tomorrow. (นัดไว้แล้ว)",
+   "I'll call you when I **get** home."
+  ],
+  "question_th": "ข้อไหนบอกความต่างของ will กับ be going to ได้ถูกที่สุด?",
+  "options_th": [
+   "will = ตัดสินใจตอนพูด / be going to = วางแผนไว้ก่อนแล้ว หรือเห็นหลักฐาน",
+   "ใช้แทนกันได้ทุกประโยค",
+   "will ใช้กับเรื่องในอดีต",
+   "be going to ใช้ได้เฉพาะในคำถาม"
+  ],
+  "answer": 0,
+  "reveal_th": "will = ตัดสินใจตอนพูด สัญญา เสนอช่วย เดาด้วยความเห็น (I think / probably) · be going to = แผนที่คิดไว้แล้ว หรือเห็นหลักฐานตรงหน้า · be + V-ing = นัดที่จัดไว้แล้ว (มีวัน เวลา จองแล้ว) · หลัง when / after / before / as soon as / until ใช้ปัจจุบันธรรมดา แม้จะเป็นอนาคต"
+ },
+ "rule": {
+  "line_th": "ตัดสินใจตอนพูด สัญญา เดา → will · แผนเดิม / เห็นหลักฐาน → be going to · นัดแน่นอน → be + V-ing · หลัง when / as soon as ใช้ปัจจุบัน",
+  "memory_th": "💡📒📅 will = ไอเดียเพิ่งเด้งในหัว · going to = แผนที่จดในสมุดแล้ว · be + V-ing = นัดที่ลงปฏิทินแล้ว · 🚪 when / as soon as = ประตูเวลา ห้าม will เดินผ่าน",
+  "terms": [
+   [
+    "will",
+    "จะ (ตัดสินใจตอนพูด / สัญญา / เดา)"
+   ],
+   [
+    "be going to",
+    "ตั้งใจจะ / มีหลักฐานว่าจะ"
+   ],
+   [
+    "present continuous (future)",
+    "นัดหมายที่จัดไว้แล้ว"
+   ],
+   [
+    "time clause",
+    "อนุประโยคบอกเวลา (when / as soon as)"
+   ]
+  ]
+ },
+ "speak": [
+  "Look at those clouds. It's going to rain.",
+  "The phone is ringing. I'll answer it.",
+  "I'll call you as soon as I get home."
+ ],
+ "twists": [
+  {
+   "id": "L26-t1",
+   "skill": "g.future",
+   "type": "error",
+   "parts": [
+    "I'll send you a photo",
+    "when I",
+    "will get",
+    "to the beach."
+   ],
+   "answer": 2,
+   "explanation_th": "หลัง when ที่พูดถึงอนาคต ใช้ปัจจุบัน ต้องเป็น get",
+   "why_wrong": [
+    "will ในส่วนหลักของประโยค ถูกแล้ว",
+    "when I ถูกแล้ว",
+    null,
+    "to the beach ถูกแล้ว"
+   ]
+  },
+  {
+   "id": "L26-t2",
+   "skill": "g.future",
+   "type": "fill",
+   "stem": "Look at those black clouds! It ___ rain.",
+   "accept": [
+    "is going to",
+    "'s going to"
+   ],
+   "hint_th": "เห็นหลักฐานตรงหน้า ใช้ be going to",
+   "explanation_th": "เห็นเมฆดำ = หลักฐาน → is going to"
+  },
+  {
+   "id": "L26-t3",
+   "skill": "g.future",
+   "type": "order",
+   "words": [
+    "We",
+    "are",
+    "going",
+    "to",
+    "play",
+    "badminton",
+    "after",
+    "school."
+   ],
+   "explanation_th": "แผนที่คิดไว้แล้ว: be going to + กริยาช่องหนึ่ง"
+  },
+  {
+   "id": "L26-t4",
+   "skill": "g.future",
+   "type": "match",
+   "prompt_th": "จับคู่ประโยคกับรูปอนาคตที่เหมาะที่สุด",
+   "pairs": [
+    [
+     "The phone is ringing. I ___ answer it.",
+     "will"
+    ],
+    [
+     "I bought paint last week. I ___ paint my room.",
+     "am going to"
+    ],
+    [
+     "I booked it. I ___ the dentist at 3 p.m. tomorrow.",
+     "am seeing"
+    ],
+    [
+     "Call me when you ___ home.",
+     "get"
+    ]
+   ],
+   "explanation_th": "ตัดสินใจตอนพูด → will · แผนเดิม → going to · นัดแน่นอน → be + V-ing · หลัง when → ปัจจุบัน"
+  },
+  {
+   "id": "L26-t5",
+   "skill": "g.future",
+   "type": "error",
+   "parts": [
+    "As soon as",
+    "the movie will finish,",
+    "we",
+    "will go home."
+   ],
+   "answer": 1,
+   "explanation_th": "หลัง as soon as ใช้ปัจจุบัน ต้องเป็น the movie finishes",
+   "why_wrong": [
+    "As soon as ถูกแล้ว",
+    null,
+    "we ถูกแล้ว",
+    "will ในส่วนหลักของประโยค ถูกแล้ว"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "L26-01",
+   "skill": "g.future",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "Look at those dark clouds over the football field. It ___ rain soon.",
+   "options": [
+    "going to",
+    "is going to",
+    "will going to",
+    "is go to"
+   ],
+   "answer": 1,
+   "explanation_th": "เห็นเมฆดำอยู่ตรงหน้า = มีหลักฐาน → is going to",
+   "why_wrong": [
+    "ขาด is (ต้องเป็น be going to)",
+    null,
+    "will กับ going to ใช้ซ้อนกันไม่ได้",
+    "หลัง is ต้องเป็น going to ไม่ใช่ go to"
+   ]
+  },
+  {
+   "id": "L26-02",
+   "skill": "g.future",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "A: There is no milk in the fridge. B: Oh, really? Then I ___ some at the shop.",
+   "options": [
+    "buy",
+    "bought",
+    "will buy",
+    "will buying"
+   ],
+   "answer": 2,
+   "explanation_th": "B เพิ่งรู้ว่านมหมด แล้วตัดสินใจตอนพูด → will buy",
+   "why_wrong": [
+    "ปัจจุบันธรรมดาใช้บอกการตัดสินใจตอนพูดไม่ได้",
+    "bought เป็นอดีต แต่ยังไม่ได้ซื้อ",
+    null,
+    "หลัง will ต้องเป็นกริยาช่องหนึ่ง ไม่เติม -ing"
+   ]
+  },
+  {
+   "id": "L26-03",
+   "skill": "g.future",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "I'll send you a message when I ___ at the airport.",
+   "options": [
+    "will arrive",
+    "arrived",
+    "am going to arrive",
+    "arrive"
+   ],
+   "answer": 3,
+   "explanation_th": "หลัง when ที่พูดถึงอนาคต ใช้ปัจจุบัน → arrive",
+   "why_wrong": [
+    "หลัง when ห้ามใช้ will แม้จะเป็นอนาคต",
+    "arrived เป็นอดีต แต่เรื่องนี้ยังไม่เกิด",
+    "หลัง when ใช้ปัจจุบันธรรมดา ไม่ใช้ going to",
+    null
+   ]
+  },
+  {
+   "id": "L26-04",
+   "skill": "g.future",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "Don't worry, Mum. I ___ be late again. I promise.",
+   "options": [
+    "won't",
+    "don't",
+    "not will",
+    "willn't"
+   ],
+   "answer": 0,
+   "explanation_th": "สัญญา (I promise) → will not = won't",
+   "why_wrong": [
+    null,
+    "don't be late เป็นประโยคคำสั่ง ใช้กับ I ไม่ได้",
+    "ต้องเป็น will not ไม่ใช่ not will",
+    "ไม่มีคำว่า willn't รูปย่อที่ถูกคือ won't"
+   ]
+  },
+  {
+   "id": "L26-05",
+   "skill": "g.future",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "I think Thailand ___ the volleyball match tomorrow. Their team is very strong this year.",
+   "options": [
+    "wins",
+    "will win",
+    "is winning",
+    "won"
+   ],
+   "answer": 1,
+   "explanation_th": "I think + เดาอนาคตจากความเห็น → will win",
+   "why_wrong": [
+    "ปัจจุบันธรรมดาใช้กับตารางเวลา ไม่ใช้กับการเดาผลแข่ง",
+    null,
+    "be + V-ing ใช้กับนัดที่จัดไว้แล้ว แต่การชนะนัดไว้ล่วงหน้าไม่ได้",
+    "won เป็นอดีต แต่แมตช์คือพรุ่งนี้"
+   ]
+  },
+  {
+   "id": "L26-06",
+   "skill": "g.future",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "A: Why did you buy all this blue paint? B: I ___ my bedroom this weekend. I decided last week.",
+   "options": [
+    "am going paint",
+    "paints",
+    "am going to paint",
+    "going to paint"
+   ],
+   "answer": 2,
+   "explanation_th": "ตัดสินใจไว้ตั้งแต่สัปดาห์ก่อน = แผนที่มีอยู่แล้ว → am going to paint",
+   "why_wrong": [
+    "ขาด to (am going to + กริยาช่องหนึ่ง)",
+    "paints ใช้กับ he / she ไม่ใช้กับ I",
+    null,
+    "ขาด am (I am going to)"
+   ]
+  },
+  {
+   "id": "L26-07",
+   "skill": "g.future",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Sorry, I can't come to the cinema on Saturday. I ___ my grandmother in Hua Hin. We booked the bus tickets last week.",
+   "options": [
+    "visit",
+    "visited",
+    "have visited",
+    "am visiting"
+   ],
+   "answer": 3,
+   "explanation_th": "นัดไว้แล้ว จองตั๋วแล้ว → be + V-ing บอกอนาคต → am visiting",
+   "why_wrong": [
+    "ปัจจุบันธรรมดาใช้กับนัดส่วนตัวในอนาคตไม่ได้",
+    "visited เป็นอดีต แต่วันเสาร์ยังมาไม่ถึง",
+    "have visited บอกประสบการณ์ ไม่ได้บอกนัดในอนาคต",
+    null
+   ]
+  },
+  {
+   "id": "L26-08",
+   "skill": "g.future",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "As soon as the rain ___, we will go out and play.",
+   "options": [
+    "stops",
+    "will stop",
+    "stop",
+    "is going to stop"
+   ],
+   "answer": 0,
+   "explanation_th": "หลัง as soon as ใช้ปัจจุบัน + rain เป็นเอกพจน์ → stops",
+   "why_wrong": [
+    null,
+    "หลัง as soon as ห้ามใช้ will",
+    "the rain เป็นเอกพจน์ ต้องเติม s",
+    "หลัง as soon as ใช้ปัจจุบันธรรมดา ไม่ใช้ going to"
+   ]
+  },
+  {
+   "id": "L26-09",
+   "skill": "g.future",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "Before you ___ the house, please turn off the lights and the fan.",
+   "options": [
+    "will leave",
+    "leave",
+    "left",
+    "are leaving"
+   ],
+   "answer": 1,
+   "explanation_th": "หลัง before ที่พูดถึงอนาคต ใช้ปัจจุบัน → leave",
+   "why_wrong": [
+    "หลัง before ห้ามใช้ will",
+    null,
+    "left เป็นอดีต แต่ประโยคเป็นคำขอให้ทำในอนาคต",
+    "Before you are leaving ไม่เป็นธรรมชาติ ใช้ปัจจุบันธรรมดา"
+   ]
+  },
+  {
+   "id": "L26-10",
+   "skill": "g.future",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "Ask Nok about the homework. She ___ probably know the answer.",
+   "options": [
+    "is",
+    "going",
+    "will",
+    "does"
+   ],
+   "answer": 2,
+   "explanation_th": "เดาอนาคต + probably → will probably know",
+   "why_wrong": [
+    "is probably know ผิดรูป (is + กริยาช่องหนึ่งไม่ได้)",
+    "going probably know ผิดรูป ขาดทั้ง is และ to",
+    null,
+    "She does probably know ผิดตำแหน่ง และไม่ได้บอกอนาคต"
+   ]
+  },
+  {
+   "id": "L26-11",
+   "skill": "g.future",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "What ___ you going to do after the exam? Have you made any plans?",
+   "options": [
+    "will",
+    "do",
+    "is",
+    "are"
+   ],
+   "answer": 3,
+   "explanation_th": "you + going to → are you going to",
+   "why_wrong": [
+    "will กับ going ใช้ด้วยกันไม่ได้",
+    "do you going to ผิดรูป",
+    "you ใช้ are ไม่ใช้ is",
+    null
+   ]
+  },
+  {
+   "id": "L26-12",
+   "skill": "g.future",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "My brother ___ study medicine after all. He has decided to become a chef instead.",
+   "options": [
+    "isn't going to",
+    "won't to",
+    "doesn't going to",
+    "isn't go to"
+   ],
+   "answer": 0,
+   "explanation_th": "เขาตัดสินใจไว้แล้ว (has decided) ว่าจะไม่เรียนหมอ → isn't going to",
+   "why_wrong": [
+    null,
+    "หลัง won't ไม่ต้องมี to",
+    "ต้องใช้ is ไม่ใช่ does (isn't going to)",
+    "ต้องเป็น going to ไม่ใช่ go to"
+   ]
+  },
+  {
+   "id": "L26-13",
+   "skill": "g.future",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "Be careful with that bag! You ___ drop the eggs!",
+   "options": [
+    "are going",
+    "are going to",
+    "will to",
+    "going to"
+   ],
+   "answer": 1,
+   "explanation_th": "เห็นตรงหน้าว่าไข่กำลังจะหล่น = หลักฐาน → are going to",
+   "why_wrong": [
+    "ขาด to (be going to + V)",
+    null,
+    "หลัง will ไม่มี to",
+    "ขาด are"
+   ]
+  },
+  {
+   "id": "L26-14",
+   "skill": "g.future",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Mali has already bought her plane ticket. She ___ to Japan next April.",
+   "options": [
+    "flew",
+    "was flying",
+    "is flying",
+    "has flown"
+   ],
+   "answer": 2,
+   "explanation_th": "ซื้อตั๋วแล้ว = นัดที่จัดไว้แล้ว + next April → is flying",
+   "why_wrong": [
+    "flew เป็นอดีต แต่ next April ยังไม่ถึง",
+    "was flying เป็นอดีต ไม่เข้ากับ next April",
+    null,
+    "has flown บอกว่าบินไปแล้ว ขัดกับ next April"
+   ]
+  },
+  {
+   "id": "L26-15",
+   "skill": "g.future",
+   "difficulty": 3,
+   "stage": 1,
+   "stem": "Dad won't go to bed until the football match ___ tonight.",
+   "options": [
+    "will end",
+    "end",
+    "is going to end",
+    "ends"
+   ],
+   "answer": 3,
+   "explanation_th": "หลัง until ที่พูดถึงอนาคต ใช้ปัจจุบัน + the match เอกพจน์ → ends",
+   "why_wrong": [
+    "หลัง until ห้ามใช้ will",
+    "the match เป็นเอกพจน์ ต้องเติม s",
+    "หลัง until ใช้ปัจจุบันธรรมดา ไม่ใช้ going to",
+    null
+   ]
+  },
+  {
+   "id": "L26-16",
+   "skill": "g.future",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "After Fon ___ her science project, she will play games with her friends.",
+   "options": [
+    "finishes",
+    "will finish",
+    "finish",
+    "is going to finish"
+   ],
+   "answer": 0,
+   "explanation_th": "หลัง after ที่พูดถึงอนาคต ใช้ปัจจุบัน + Fon เอกพจน์ → finishes",
+   "why_wrong": [
+    null,
+    "หลัง after ห้ามใช้ will",
+    "Fon เป็นเอกพจน์ ต้องเติม es",
+    "หลัง after ใช้ปัจจุบันธรรมดา ไม่ใช้ going to"
+   ]
+  },
+  {
+   "id": "L26-17",
+   "skill": "g.future",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "A: Why are you wearing your running shoes? B: I ___ run around the park with Ken this evening. We planned it yesterday.",
+   "options": [
+    "going to",
+    "am going to",
+    "run",
+    "am go to"
+   ],
+   "answer": 1,
+   "explanation_th": "วางแผนไว้ตั้งแต่เมื่อวาน (We planned it yesterday) → am going to",
+   "why_wrong": [
+    "ขาด am (I am going to)",
+    null,
+    "I run = ทำเป็นประจำ ไม่ได้บอกแผนของเย็นนี้",
+    "ต้องเป็น going to ไม่ใช่ go to"
+   ]
+  },
+  {
+   "id": "L26-18",
+   "skill": "g.future",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "A: I can't open this jar of chili paste. The lid is too tight. B: Give it to me. I ___ try.",
+   "options": [
+    "am",
+    "was",
+    "will",
+    "did"
+   ],
+   "answer": 2,
+   "explanation_th": "B เสนอช่วยทันทีตอนพูด → will (I'll try)",
+   "why_wrong": [
+    "I am try ผิดรูป",
+    "was ไม่บอกอนาคต และ was try ผิดรูป",
+    null,
+    "I did try = ฉันลองไปแล้ว ขัดกับ Give it to me"
+   ]
+  },
+  {
+   "id": "L26-19",
+   "skill": "g.future",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "Our family is going to Krabi next week. When we ___ there, we will go snorkeling every day.",
+   "options": [
+    "will get",
+    "got",
+    "are going to get",
+    "get"
+   ],
+   "answer": 3,
+   "explanation_th": "หลัง when ที่พูดถึงอนาคต ใช้ปัจจุบัน → get",
+   "why_wrong": [
+    "หลัง when ห้ามใช้ will",
+    "got เป็นอดีต แต่ทริปคือสัปดาห์หน้า",
+    "หลัง when ใช้ปัจจุบันธรรมดา ไม่ใช้ going to",
+    null
+   ]
+  },
+  {
+   "id": "L26-20",
+   "skill": "g.future",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Jane checked her calendar. \"Sorry, I'm busy tomorrow afternoon. I ___ the dentist at three o'clock.\"",
+   "options": [
+    "am seeing",
+    "seeing",
+    "saw",
+    "have seen"
+   ],
+   "answer": 0,
+   "explanation_th": "นัดหมอฟันไว้แล้ว มีเวลาแน่นอน → am seeing",
+   "why_wrong": [
+    null,
+    "ขาด am (I am seeing)",
+    "saw เป็นอดีต แต่นัดคือพรุ่งนี้",
+    "have seen บอกว่าเจอแล้ว ไม่ใช่นัดในอนาคต"
+   ]
+  },
+  {
+   "id": "L26-21",
+   "skill": "g.future",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "The speech contest is next week, but Bank hasn't practised at all. I don't think he ___.",
+   "options": [
+    "wins",
+    "will win",
+    "is winning",
+    "won"
+   ],
+   "answer": 1,
+   "explanation_th": "I don't think + เดาอนาคต → will win",
+   "why_wrong": [
+    "ปัจจุบันธรรมดาไม่ใช้เดาผลการแข่งในอนาคต",
+    null,
+    "การชนะนัดไว้ล่วงหน้าไม่ได้ จึงใช้ be + V-ing ไม่ได้",
+    "won เป็นอดีต แต่การแข่งคือสัปดาห์หน้า"
+   ]
+  },
+  {
+   "id": "L26-22",
+   "skill": "g.future",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Nina is carrying a cup of hot coffee and walking fast on the wet floor. Her friend shouts, \"Slow down! You ___ fall!\"",
+   "options": [
+    "are going",
+    "will to",
+    "are going to",
+    "going to"
+   ],
+   "answer": 2,
+   "explanation_th": "เห็นตรงหน้าว่ากำลังจะล้ม = หลักฐาน → are going to",
+   "why_wrong": [
+    "ขาด to",
+    "หลัง will ไม่มี to",
+    null,
+    "ขาด are"
+   ]
+  },
+  {
+   "id": "L26-23",
+   "skill": "g.future",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "A: The red T-shirt is 300 baht and the blue one is 250 baht. B: Hmm, I like the blue one better. I ___ it, please.",
+   "options": [
+    "take",
+    "took",
+    "have taken",
+    "will take"
+   ],
+   "answer": 3,
+   "explanation_th": "B ตัดสินใจตอนพูดในร้าน → will take (I'll take it)",
+   "why_wrong": [
+    "ปัจจุบันธรรมดาใช้บอกการตัดสินใจตอนพูดไม่ได้",
+    "took เป็นอดีต แต่ยังไม่ได้ซื้อ",
+    "have taken = เอาไปแล้ว ขัดกับ please ที่กำลังขอซื้อ",
+    null
+   ]
+  },
+  {
+   "id": "L26-24",
+   "skill": "g.future",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "Tom is waiting for his exam results. He says he ___ his parents as soon as he gets them.",
+   "options": [
+    "will call",
+    "calls",
+    "call",
+    "called"
+   ],
+   "answer": 0,
+   "explanation_th": "ส่วนหลักของประโยคบอกอนาคต → will call (ส่วน as soon as ใช้ปัจจุบัน gets)",
+   "why_wrong": [
+    null,
+    "ปัจจุบันธรรมดาไม่บอกการกระทำในอนาคตครั้งนี้",
+    "he ต้องใช้ will call หรือ calls ไม่ใช่ call",
+    "called เป็นอดีต แต่ยังไม่ได้ผลสอบ"
+   ]
+  },
+  {
+   "id": "L26-25",
+   "skill": "g.future",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Nok failed her maths test last month. Now she has made a study plan, and she ___ make the same mistakes again.",
+   "options": [
+    "doesn't",
+    "isn't going to",
+    "isn't",
+    "not going to"
+   ],
+   "answer": 1,
+   "explanation_th": "มีแผนแล้ว ตั้งใจว่าจะไม่ทำผิดซ้ำ → isn't going to",
+   "why_wrong": [
+    "doesn't make = ไม่ทำเป็นนิสัย ไม่ได้บอกความตั้งใจในอนาคต",
+    null,
+    "isn't make ผิดรูป ขาด going to",
+    "ขาด is (she is not going to)"
+   ]
+  },
+  {
+   "id": "L26-26",
+   "skill": "g.future",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "The school bus has been booked, and the teachers have told all the parents. Our class ___ the science museum next Tuesday.",
+   "options": [
+    "visit",
+    "visited",
+    "is visiting",
+    "has visited"
+   ],
+   "answer": 2,
+   "explanation_th": "จองรถ แจ้งผู้ปกครองแล้ว = นัดที่จัดไว้แล้ว → is visiting",
+   "why_wrong": [
+    "Our class เป็นเอกพจน์ และ visit ไม่บอกนัดในอนาคต",
+    "visited เป็นอดีต แต่ next Tuesday ยังไม่ถึง",
+    null,
+    "has visited บอกว่าไปแล้ว ขัดกับ next Tuesday"
+   ]
+  }
+ ],
+ "cloze": "C22"
+}

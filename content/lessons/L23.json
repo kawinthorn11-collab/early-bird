@@ -1,0 +1,749 @@
+{
+ "id": "L23",
+ "phase": 1,
+ "skill": "g.comparison",
+ "title_th": "ใครเก่งกว่า ใครที่สุด (-er / more / the most / as…as)",
+ "title_en": "Comparatives and superlatives",
+ "villain": "morphy",
+ "hook": {
+  "beats": [
+   {
+    "say": "ปิ๊ปกับเพื่อนเถียงกันว่าใครสูงกว่า แต่ประโยคในแชตเพี้ยนไปหมด",
+    "anim": "enter",
+    "board": "Ton is ___ than Bank."
+   },
+   {
+    "say": "ข้าคือมอร์ฟี่ ร่างแปลง! ข้าจะแปลง tall ให้มั่วไปเลย more tall! tallest than!",
+    "actor": "villain",
+    "anim": "shake",
+    "board": "more tall? tallest than?"
+   },
+   {
+    "say": "มีสองคนและมีคำว่า than ใช้ขั้นกว่า คำสั้นแค่เติม -er",
+    "anim": "think",
+    "board": "Ton is taller than Bank."
+   },
+   {
+    "say": "คำยาวใช้ more นำหน้า ส่วนที่สุดในกลุ่มใช้ the -est หรือ the most",
+    "anim": "jump",
+    "board": "more expensive · the tallest · the most beautiful"
+   },
+   {
+    "say": "ถ้าเท่ากันใช้ as + คำปกติ + as และจำตัวพิเศษไว้ good better best, bad worse worst",
+    "anim": "zap",
+    "board": "as tall as · good → better → the best"
+   },
+   {
+    "say": "ร่างข้าแปลงต่อไม่ได้แล้ว! ไว้เจอกันใหม่!",
+    "actor": "villain",
+    "anim": "swap"
+   }
+  ]
+ },
+ "discover": {
+  "examples": [
+   "Ton is **taller** than Bank.",
+   "This phone is **more expensive** than that one.",
+   "Everest is **the highest** mountain in the world.",
+   "My cat is **as big as** a small dog."
+  ],
+  "question_th": "ทำไมประโยคแรกใช้ taller แต่ประโยคที่สองใช้ more expensive?",
+  "options_th": [
+   "tall เป็นคำสั้น เติม -er ได้ / expensive เป็นคำยาว ต้องใช้ more นำหน้า",
+   "เพราะโทรศัพท์แพงกว่าคน",
+   "more ใช้กับสิ่งของ ส่วน -er ใช้กับคน",
+   "ใช้แบบไหนก็ได้ ไม่ต่างกัน"
+  ],
+  "answer": 0,
+  "reveal_th": "คำพยางค์เดียวเติม -er / -est (tall, big, cheap) คำที่ลงท้าย y เปลี่ยนเป็น ier (happy → happier) คำยาวสองพยางค์ขึ้นไปใช้ more / the most (expensive, beautiful) ในข้อสอบ ถ้าเห็น than ให้เลือกขั้นกว่า ถ้าเห็น in the world, in the class, of all ให้เลือกขั้นสุดที่มี the"
+ },
+ "rule": {
+  "line_th": "สองสิ่ง + than → -er / more · ที่สุดในกลุ่ม → the -est / the most · เท่ากัน → as + คำปกติ + as · good → better → the best · bad → worse → the worst",
+  "memory_th": "🪜 บันไดสามขั้น: tall → taller → the tallest ขั้นบนสุดต้องมี the เสมอ และห้ามใช้ more คู่กับ -er (more taller ผิด)",
+  "terms": [
+   [
+    "comparative",
+    "ขั้นกว่า (taller, more expensive)"
+   ],
+   [
+    "superlative",
+    "ขั้นสุด (the tallest, the most expensive)"
+   ],
+   [
+    "syllable",
+    "พยางค์"
+   ],
+   [
+    "irregular",
+    "ผันไม่ตามกฎ (good, bad)"
+   ]
+  ]
+ },
+ "speak": [
+  "My brother is taller than my father.",
+  "This is the best day of the year!",
+  "My phone is not as new as yours."
+ ],
+ "twists": [
+  {
+   "id": "L23-t1",
+   "skill": "g.comparison",
+   "type": "error",
+   "parts": [
+    "My brother is",
+    "more tall",
+    "than",
+    "my father."
+   ],
+   "answer": 1,
+   "explanation_th": "tall เป็นคำสั้นพยางค์เดียว ต้องเติม -er เป็น taller ไม่ใช้ more",
+   "why_wrong": [
+    "My brother is ถูกแล้ว",
+    null,
+    "than ถูกแล้ว ใช้กับขั้นกว่า",
+    "my father ถูกแล้ว"
+   ]
+  },
+  {
+   "id": "L23-t2",
+   "skill": "g.comparison",
+   "type": "fill",
+   "stem": "Today is the ___ day of the year. It is 40 degrees!",
+   "accept": [
+    "hottest"
+   ],
+   "hint_th": "the + ขั้นสุดของ hot ระวังสะกด t ซ้อน",
+   "explanation_th": "hot เป็นสระเสียงสั้นตามด้วยพยัญชนะตัวเดียว เติม t อีกตัวก่อน -est → the hottest"
+  },
+  {
+   "id": "L23-t3",
+   "skill": "g.comparison",
+   "type": "order",
+   "words": [
+    "Her",
+    "bag",
+    "is",
+    "not",
+    "as",
+    "heavy",
+    "as",
+    "mine."
+   ],
+   "explanation_th": "not as + คำปกติ + as = ไม่…เท่า กระเป๋าของเธอไม่หนักเท่าของฉัน"
+  },
+  {
+   "id": "L23-t4",
+   "skill": "g.comparison",
+   "type": "match",
+   "prompt_th": "จับคู่คำกับขั้นกว่าของมัน",
+   "pairs": [
+    [
+     "good",
+     "better"
+    ],
+    [
+     "bad",
+     "worse"
+    ],
+    [
+     "big",
+     "bigger"
+    ],
+    [
+     "beautiful",
+     "more beautiful"
+    ]
+   ],
+   "explanation_th": "good กับ bad ผันพิเศษ · big เติม g ซ้อนแล้วเติม -er · beautiful คำยาว ใช้ more"
+  },
+  {
+   "id": "L23-t5",
+   "skill": "g.comparison",
+   "type": "error",
+   "parts": [
+    "Nida is",
+    "the",
+    "smarter",
+    "girl in our class."
+   ],
+   "answer": 2,
+   "explanation_th": "in our class = ทั้งห้อง เป็นขั้นสุด ต้องใช้ the smartest",
+   "why_wrong": [
+    "Nida is ถูกแล้ว",
+    "the ถูกแล้ว ขั้นสุดต้องมี the",
+    null,
+    "girl in our class ถูกแล้ว"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "L23-01",
+   "skill": "g.comparison",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "My brother is ___ than me. He is 180 cm tall.",
+   "options": [
+    "tall",
+    "tallest",
+    "more tall",
+    "taller"
+   ],
+   "answer": 3,
+   "explanation_th": "มี than เทียบสองคน → ขั้นกว่า tall เป็นคำสั้น เติม -er → taller",
+   "why_wrong": [
+    "tall เป็นรูปปกติ ไม่มีการเปรียบเทียบ ใช้คู่กับ than ไม่ได้",
+    "tallest เป็นขั้นสุด ไม่ใช้กับ than",
+    "tall เป็นคำพยางค์เดียว เติม -er ไม่ใช้ more",
+    null
+   ]
+  },
+  {
+   "id": "L23-02",
+   "skill": "g.comparison",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "This phone is ___ than my old one, but the camera is much better.",
+   "options": [
+    "expensiver",
+    "most expensive",
+    "more expensive",
+    "expensive"
+   ],
+   "answer": 2,
+   "explanation_th": "expensive เป็นคำยาว ขั้นกว่าใช้ more → more expensive than",
+   "why_wrong": [
+    "คำยาวเติม -er ไม่ได้ ไม่มีคำว่า expensiver",
+    "most เป็นขั้นสุด ไม่ใช้กับ than",
+    null,
+    "expensive เป็นรูปปกติ ไม่มีการเปรียบเทียบ ใช้คู่กับ than ไม่ได้"
+   ]
+  },
+  {
+   "id": "L23-03",
+   "skill": "g.comparison",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "Mount Everest is ___ mountain in the world.",
+   "options": [
+    "higher",
+    "the higher",
+    "the highest",
+    "highest"
+   ],
+   "answer": 2,
+   "explanation_th": "in the world = ที่สุดในโลก → ขั้นสุดต้องมี the → the highest",
+   "why_wrong": [
+    "higher เป็นขั้นกว่า ใช้เทียบแค่สองสิ่ง",
+    "the higher ไม่ใช่ขั้นสุด ใช้กับทั้งโลกไม่ได้",
+    null,
+    "ขั้นสุดหน้าคำนามต้องมี the นำหน้า"
+   ]
+  },
+  {
+   "id": "L23-04",
+   "skill": "g.comparison",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "Nok is ___ student in our class. She always gets full marks.",
+   "options": [
+    "the goodest",
+    "the best",
+    "better",
+    "the most good"
+   ],
+   "answer": 1,
+   "explanation_th": "good ผันพิเศษ: good → better → the best ที่สุดในห้อง → the best",
+   "why_wrong": [
+    "good ผันพิเศษ ไม่มีคำว่า goodest",
+    null,
+    "better เป็นขั้นกว่า แต่นี่คือที่สุดในห้อง",
+    "good ผันพิเศษ ไม่ใช้ the most"
+   ]
+  },
+  {
+   "id": "L23-05",
+   "skill": "g.comparison",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "My cat is as ___ as a small dog.",
+   "options": [
+    "big",
+    "bigger",
+    "biggest",
+    "the biggest"
+   ],
+   "answer": 0,
+   "explanation_th": "as … as ต้องใช้คำรูปปกติตรงกลาง → as big as = ใหญ่เท่ากับ",
+   "why_wrong": [
+    null,
+    "bigger เป็นขั้นกว่า ใช้ใน as … as ไม่ได้",
+    "biggest เป็นขั้นสุด ใช้ใน as … as ไม่ได้",
+    "the biggest เป็นขั้นสุด ใช้ใน as … as ไม่ได้"
+   ]
+  },
+  {
+   "id": "L23-06",
+   "skill": "g.comparison",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "Take a jacket. Today is ___ than yesterday.",
+   "options": [
+    "coldest",
+    "colder",
+    "cold",
+    "the coldest"
+   ],
+   "answer": 1,
+   "explanation_th": "เทียบวันนี้กับเมื่อวาน + than → colder",
+   "why_wrong": [
+    "coldest เป็นขั้นสุด ไม่ใช้กับ than",
+    null,
+    "cold เป็นรูปปกติ ไม่มีการเปรียบเทียบ ใช้คู่กับ than ไม่ได้",
+    "the coldest เป็นขั้นสุด ไม่ใช้กับ than"
+   ]
+  },
+  {
+   "id": "L23-07",
+   "skill": "g.comparison",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "This is ___ movie I have ever seen. I laughed for two hours.",
+   "options": [
+    "funnier",
+    "the funnyest",
+    "the most funniest",
+    "the funniest"
+   ],
+   "answer": 3,
+   "explanation_th": "I have ever seen = ที่เคยดูมาทั้งหมด → ขั้นสุด funny เปลี่ยน y เป็น i → the funniest",
+   "why_wrong": [
+    "funnier เป็นขั้นกว่า แต่นี่คือที่สุดที่เคยดู",
+    "สะกดผิด y ต้องเปลี่ยนเป็น i ก่อนเติม -est",
+    "ใช้ most ซ้อนกับ -est ไม่ได้ เลือกแค่อย่างเดียว",
+    null
+   ]
+  },
+  {
+   "id": "L23-08",
+   "skill": "g.comparison",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "My English is getting ___ because I practise every day.",
+   "options": [
+    "gooder",
+    "best",
+    "more good",
+    "better"
+   ],
+   "answer": 3,
+   "explanation_th": "ดีขึ้นกว่าเดิม = ขั้นกว่าของ good → better",
+   "why_wrong": [
+    "good ผันพิเศษ ไม่มีคำว่า gooder",
+    "best เป็นขั้นสุด และต้องมี the",
+    "good ผันพิเศษ ไม่ใช้ more",
+    null
+   ]
+  },
+  {
+   "id": "L23-09",
+   "skill": "g.comparison",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "The traffic today is ___ than last week. It took me two hours to get home.",
+   "options": [
+    "badder",
+    "worst",
+    "worse",
+    "more bad"
+   ],
+   "answer": 2,
+   "explanation_th": "bad ผันพิเศษ: bad → worse → the worst มี than → worse",
+   "why_wrong": [
+    "bad ผันพิเศษ ไม่มีคำว่า badder",
+    "worst เป็นขั้นสุด ไม่ใช้กับ than",
+    null,
+    "bad ผันพิเศษ ไม่ใช้ more"
+   ]
+  },
+  {
+   "id": "L23-10",
+   "skill": "g.comparison",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "A bicycle is not as fast ___ a motorbike.",
+   "options": [
+    "than",
+    "that",
+    "like",
+    "as"
+   ],
+   "answer": 3,
+   "explanation_th": "โครงสร้างคู่ not as + คำปกติ + as → as fast as",
+   "why_wrong": [
+    "than ใช้กับขั้นกว่า เช่น faster than",
+    "that ไม่ใช่คำเปรียบเทียบ",
+    "like แปลว่าเหมือน แต่โครงสร้างนี้ต้องปิดด้วย as",
+    null
+   ]
+  },
+  {
+   "id": "L23-11",
+   "skill": "g.comparison",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Which animal is ___, a cat or an elephant?",
+   "options": [
+    "heaviest",
+    "heavier",
+    "the heaviest",
+    "more heavy"
+   ],
+   "answer": 1,
+   "explanation_th": "เลือกหนึ่งในสองตัว → ขั้นกว่า heavy เปลี่ยน y เป็น i → heavier",
+   "why_wrong": [
+    "heaviest เป็นขั้นสุด ใช้กับสามสิ่งขึ้นไป",
+    null,
+    "the heaviest ใช้กับสามสิ่งขึ้นไป แต่นี่มีแค่สอง",
+    "heavy ลงท้าย y เปลี่ยนเป็น heavier ไม่ใช้ more"
+   ]
+  },
+  {
+   "id": "L23-12",
+   "skill": "g.comparison",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Reading a good book is ___ than watching TV, I think.",
+   "options": [
+    "interestinger",
+    "most interesting",
+    "more interesting",
+    "the more interesting"
+   ],
+   "answer": 2,
+   "explanation_th": "interesting เป็นคำยาว มี than → more interesting",
+   "why_wrong": [
+    "คำยาวเติม -er ไม่ได้",
+    "most เป็นขั้นสุด ไม่ใช้กับ than",
+    null,
+    "ขั้นกว่าตามด้วย than ไม่มี the นำหน้า"
+   ]
+  },
+  {
+   "id": "L23-13",
+   "skill": "g.comparison",
+   "difficulty": 3,
+   "stage": 1,
+   "stem": "This bag is ___ heavier than that one. I can't lift it.",
+   "options": [
+    "very",
+    "more",
+    "much",
+    "most"
+   ],
+   "answer": 2,
+   "explanation_th": "เน้นขั้นกว่าว่า \"กว่ามาก\" ใช้ much → much heavier",
+   "why_wrong": [
+    "very ใช้กับคำปกติ (very heavy) ไม่ใช้กับขั้นกว่า",
+    "heavier เป็นขั้นกว่าแล้ว ใส่ more ซ้ำไม่ได้",
+    null,
+    "most เป็นขั้นสุด ใช้กับ -er ไม่ได้"
+   ]
+  },
+  {
+   "id": "L23-14",
+   "skill": "g.comparison",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Pim is the ___ of the three sisters.",
+   "options": [
+    "youngest",
+    "younger",
+    "young",
+    "most young"
+   ],
+   "answer": 0,
+   "explanation_th": "of the three = ในสามคน → ขั้นสุด → the youngest",
+   "why_wrong": [
+    null,
+    "younger ใช้เทียบแค่สองคน แต่นี่มีสามคน",
+    "young เป็นรูปปกติ ใช้หลัง the แบบนี้ไม่ได้",
+    "young เป็นคำสั้น เติม -est ไม่ใช้ most"
+   ]
+  },
+  {
+   "id": "L23-15",
+   "skill": "g.comparison",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Food at the school canteen is ___ than food at the mall.",
+   "options": [
+    "cheapest",
+    "cheaper",
+    "the cheapest",
+    "more cheap"
+   ],
+   "answer": 1,
+   "explanation_th": "เทียบสองที่ + than → cheap เติม -er → cheaper",
+   "why_wrong": [
+    "cheapest เป็นขั้นสุด ไม่ใช้กับ than",
+    null,
+    "the cheapest เป็นขั้นสุด ไม่ใช้กับ than",
+    "cheap เป็นคำพยางค์เดียว เติม -er ไม่ใช้ more"
+   ]
+  },
+  {
+   "id": "L23-16",
+   "skill": "g.comparison",
+   "difficulty": 3,
+   "stage": 1,
+   "stem": "The more you practise, the ___ you will play.",
+   "options": [
+    "better",
+    "best",
+    "good",
+    "well"
+   ],
+   "answer": 0,
+   "explanation_th": "โครงสร้าง the + ขั้นกว่า, the + ขั้นกว่า = ยิ่ง…ยิ่ง… → the better",
+   "why_wrong": [
+    null,
+    "best เป็นขั้นสุด โครงสร้างนี้ต้องใช้ขั้นกว่า",
+    "good เป็นรูปปกติ โครงสร้างนี้ต้องใช้ขั้นกว่า",
+    "well เป็นรูปปกติ โครงสร้างนี้ต้องใช้ขั้นกว่า"
+   ]
+  },
+  {
+   "id": "L23-17",
+   "skill": "g.comparison",
+   "difficulty": 3,
+   "stage": 1,
+   "stem": "My grandma is 80 years old. She is ___ person in my family.",
+   "options": [
+    "older",
+    "the older",
+    "old",
+    "the oldest"
+   ],
+   "answer": 3,
+   "explanation_th": "in my family = ทั้งครอบครัว → ขั้นสุด → the oldest",
+   "why_wrong": [
+    "older เป็นขั้นกว่า ใช้เทียบสองคน และหน้า person ต้องมีคำนำหน้า",
+    "the older ใช้เทียบสองคน แต่ครอบครัวมีหลายคน",
+    "old person ต้องมี a และไม่ได้บอกว่าแก่ที่สุด",
+    null
+   ]
+  },
+  {
+   "id": "L23-18",
+   "skill": "g.comparison",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "We went to two cafés yesterday. The first one was noisy, but the second one was ___. We could talk easily.",
+   "options": [
+    "the quietest",
+    "quieter",
+    "more quieter",
+    "quietly"
+   ],
+   "answer": 1,
+   "explanation_th": "เทียบร้านสองร้าน → ขั้นกว่า → quieter",
+   "why_wrong": [
+    "มีแค่สองร้าน ใช้ขั้นสุดไม่ได้",
+    null,
+    "ใช้ more ซ้อนกับ -er ไม่ได้",
+    "quietly เป็น adverb หลัง was ต้องใช้ adjective"
+   ]
+  },
+  {
+   "id": "L23-19",
+   "skill": "g.comparison",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "My family took a trip to Krabi. The beach was beautiful, and the water was ___ than the water in Pattaya.",
+   "options": [
+    "clearer",
+    "clearest",
+    "more clearer",
+    "clear"
+   ],
+   "answer": 0,
+   "explanation_th": "มี than เทียบน้ำสองที่ → clearer",
+   "why_wrong": [
+    null,
+    "clearest เป็นขั้นสุด ไม่ใช้กับ than",
+    "ใช้ more ซ้อนกับ -er ไม่ได้",
+    "clear เป็นรูปปกติ ไม่มีการเปรียบเทียบ ใช้คู่กับ than ไม่ได้"
+   ]
+  },
+  {
+   "id": "L23-20",
+   "skill": "g.comparison",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "There are 40 students in my class. Ton is 185 cm, so he is ___ boy in the class.",
+   "options": [
+    "taller",
+    "the tallest",
+    "the taller",
+    "tallest"
+   ],
+   "answer": 1,
+   "explanation_th": "สูงที่สุดในห้อง → ขั้นสุดพร้อม the → the tallest",
+   "why_wrong": [
+    "taller เป็นขั้นกว่า ใช้เทียบแค่สองคน",
+    null,
+    "the taller ใช้เทียบสองคน แต่ห้องมี 40 คน",
+    "ขั้นสุดหน้าคำนามต้องมี the"
+   ]
+  },
+  {
+   "id": "L23-21",
+   "skill": "g.comparison",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "I have two phones. The new one has a big screen, but its battery is ___ than the battery of my old phone.",
+   "options": [
+    "worse",
+    "worst",
+    "badder",
+    "bad"
+   ],
+   "answer": 0,
+   "explanation_th": "but บอกว่าแบตไม่ดี และมี than → bad ผันพิเศษเป็น worse",
+   "why_wrong": [
+    null,
+    "worst เป็นขั้นสุด ไม่ใช้กับ than",
+    "bad ผันพิเศษ ไม่มีคำว่า badder",
+    "bad เป็นรูปปกติ ไม่มีการเปรียบเทียบ ใช้คู่กับ than ไม่ได้"
+   ]
+  },
+  {
+   "id": "L23-22",
+   "skill": "g.comparison",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Ploy and her twin sister look the same. Ploy is as ___ as her sister, and they both have long hair.",
+   "options": [
+    "tall",
+    "taller",
+    "tallest",
+    "the tallest"
+   ],
+   "answer": 0,
+   "explanation_th": "ฝาแฝดเหมือนกัน = เท่ากัน → as tall as",
+   "why_wrong": [
+    null,
+    "taller เป็นขั้นกว่า ใช้ใน as … as ไม่ได้",
+    "tallest เป็นขั้นสุด ใช้ใน as … as ไม่ได้",
+    "the tallest เป็นขั้นสุด ใช้ใน as … as ไม่ได้"
+   ]
+  },
+  {
+   "id": "L23-23",
+   "skill": "g.comparison",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "The bus to school takes one hour, and the train takes 40 minutes. The skytrain takes only 20 minutes, so it is ___ way to get there.",
+   "options": [
+    "faster",
+    "the fastest",
+    "the faster",
+    "fastest"
+   ],
+   "answer": 1,
+   "explanation_th": "เทียบสามทาง แล้วรถไฟฟ้าเร็วที่สุด → the fastest",
+   "why_wrong": [
+    "faster เป็นขั้นกว่า ใช้เทียบสองอย่าง",
+    null,
+    "the faster ใช้เทียบสองอย่าง แต่นี่มีสามทาง",
+    "ขั้นสุดหน้าคำนาม (way) ต้องมี the"
+   ]
+  },
+  {
+   "id": "L23-24",
+   "skill": "g.comparison",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Last year I could only swim ten metres. Now I can swim 200 metres. I am a ___ swimmer than before.",
+   "options": [
+    "much better",
+    "very better",
+    "much best",
+    "more good"
+   ],
+   "answer": 0,
+   "explanation_th": "มี than → ขั้นกว่า better และเน้นว่ากว่ามากด้วย much → much better",
+   "why_wrong": [
+    null,
+    "very ใช้กับขั้นกว่าไม่ได้",
+    "best เป็นขั้นสุด ไม่ใช้กับ than",
+    "good ผันพิเศษ ไม่ใช้ more"
+   ]
+  },
+  {
+   "id": "L23-25",
+   "skill": "g.comparison",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "The test today was difficult, but the one last week was even ___. Nobody finished it.",
+   "options": [
+    "most difficult",
+    "difficulter",
+    "more difficult",
+    "the most difficult"
+   ],
+   "answer": 2,
+   "explanation_th": "even + ขั้นกว่า = ยิ่งกว่าอีก difficult เป็นคำยาว → more difficult",
+   "why_wrong": [
+    "most เป็นขั้นสุด แต่ even ต้องตามด้วยขั้นกว่า",
+    "คำยาวเติม -er ไม่ได้",
+    null,
+    "the most เป็นขั้นสุด แต่ even ต้องตามด้วยขั้นกว่า"
+   ]
+  },
+  {
+   "id": "L23-26",
+   "skill": "g.comparison",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Bangkok is very hot in April. For me, it is ___ month of the year.",
+   "options": [
+    "hotter",
+    "the hotest",
+    "the hottest",
+    "the most hot"
+   ],
+   "answer": 2,
+   "explanation_th": "of the year = ทั้งปี → ขั้นสุด hot เติม t ซ้อน → the hottest",
+   "why_wrong": [
+    "hotter เป็นขั้นกว่า แต่นี่คือที่สุดของปี",
+    "สะกดผิด ต้องเติม t อีกตัว",
+    null,
+    "hot เป็นคำพยางค์เดียว เติม -est ไม่ใช้ most"
+   ]
+  },
+  {
+   "id": "L23-27",
+   "skill": "g.comparison",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "My little brother eats a lot of vegetables. He is ___ than me because I hate vegetables!",
+   "options": [
+    "healthiest",
+    "more healthier",
+    "the healthiest",
+    "healthier"
+   ],
+   "answer": 3,
+   "explanation_th": "มี than เทียบสองคน healthy เปลี่ยน y เป็น i → healthier",
+   "why_wrong": [
+    "healthiest เป็นขั้นสุด ไม่ใช้กับ than",
+    "ใช้ more ซ้อนกับ -er ไม่ได้",
+    "the healthiest เป็นขั้นสุด ไม่ใช้กับ than",
+    null
+   ]
+  }
+ ],
+ "cloze": "C19"
+}

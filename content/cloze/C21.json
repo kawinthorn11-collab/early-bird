@@ -1,0 +1,209 @@
+{
+ "id": "C21",
+ "title": "An Email to Fah",
+ "genre": "อีเมล",
+ "level": "A2",
+ "text": "Dear Fah,\nHow are you? I (1) you for a long time, so I am writing this email. Many things have happened since you moved to Phuket.\nFirst, I have a new hobby. I bake cakes now! I (2) more than ten cakes since you left. Last Sunday I (3) a chocolate cake for my dad's birthday, and everyone loved it. My mum says it is (4) cake she has ever eaten. Of course, she is my mum!\nSecond, our school has a new teacher (5) teaches art. Her classes are fun, (6) she gives us a lot of homework.\nI (7) never been to Phuket. Can I visit you (8) the school holidays? My parents said yes!\nPlease write back soon and tell me about (9) new school. I want (10) everything about it.\nLove,\nPim",
+ "items": [
+  {
+   "id": "C21-1",
+   "skill": "g.present-perfect",
+   "difficulty": 1,
+   "stem": "(1) How are you? I ___ you for a long time, so I am writing this email.",
+   "options": [
+    "hasn't seen",
+    "don't see",
+    "am not seeing",
+    "haven't seen"
+   ],
+   "answer": 3,
+   "explanation_th": "for a long time จนถึงตอนนี้ → haven't seen",
+   "why_wrong": [
+    "has ใช้กับ he / she / it ไม่ใช้กับ I",
+    "don't see ใช้กับ for a long time ไม่ได้",
+    "am not seeing ใช้กับ for a long time ไม่ได้",
+    null
+   ]
+  },
+  {
+   "id": "C21-2",
+   "skill": "g.present-perfect",
+   "difficulty": 2,
+   "stem": "(2) I ___ more than ten cakes since you left.",
+   "options": [
+    "have baked",
+    "has baked",
+    "bake",
+    "am baking"
+   ],
+   "answer": 0,
+   "explanation_th": "since you left = ตั้งแต่เธอย้ายไปจนถึงตอนนี้ → have baked",
+   "why_wrong": [
+    null,
+    "has ใช้กับ he / she / it ไม่ใช้กับ I",
+    "bake เป็นปัจจุบันธรรมดา ใช้กับ since ไม่ได้",
+    "am baking ใช้กับ since ไม่ได้"
+   ]
+  },
+  {
+   "id": "C21-3",
+   "skill": "g.present-perfect",
+   "difficulty": 1,
+   "stem": "(3) Last Sunday I ___ a chocolate cake for my dad's birthday, and everyone loved it.",
+   "options": [
+    "made",
+    "have made",
+    "make",
+    "has made"
+   ],
+   "answer": 0,
+   "explanation_th": "Last Sunday เป็นเวลาที่จบแล้ว → past simple made",
+   "why_wrong": [
+    null,
+    "have made มีเวลาที่จบไปแล้ว (Last Sunday) ใช้ไม่ได้",
+    "make เป็นปัจจุบัน แต่เรื่องเกิดวันอาทิตย์ที่แล้ว",
+    "has made ใช้กับ I ไม่ได้ และมี Last Sunday"
+   ]
+  },
+  {
+   "id": "C21-4",
+   "skill": "g.comparison",
+   "difficulty": 2,
+   "stem": "(4) My mum says it is ___ cake she has ever eaten.",
+   "options": [
+    "better",
+    "the best",
+    "the better",
+    "best"
+   ],
+   "answer": 1,
+   "explanation_th": "she has ever eaten = ที่เคยกินมาทั้งหมด → ขั้นสุด the best",
+   "why_wrong": [
+    "better เป็นขั้นกว่า แต่นี่คือที่สุดที่เคยกิน",
+    null,
+    "the better ใช้เทียบสองสิ่ง",
+    "ขั้นสุดหน้าคำนามต้องมี the"
+   ]
+  },
+  {
+   "id": "C21-5",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(5) Second, our school has a new teacher ___ teaches art.",
+   "options": [
+    "which",
+    "where",
+    "what",
+    "who"
+   ],
+   "answer": 3,
+   "explanation_th": "ขยายคน (a new teacher) → who",
+   "why_wrong": [
+    "which ใช้กับสิ่งของ ไม่ใช่คน",
+    "where ใช้กับสถานที่",
+    "what ไม่ใช้ขยายคำนามข้างหน้า",
+    null
+   ]
+  },
+  {
+   "id": "C21-6",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stem": "(6) Her classes are fun, ___ she gives us a lot of homework.",
+   "options": [
+    "so",
+    "but",
+    "because",
+    "or"
+   ],
+   "answer": 1,
+   "explanation_th": "สนุก แต่การบ้านเยอะ = ขัดแย้งกัน → but",
+   "why_wrong": [
+    "so บอกผลลัพธ์ แต่สนุกไม่ได้ทำให้การบ้านเยอะ",
+    null,
+    "because บอกเหตุผล ความหมายไม่เข้ากัน",
+    "or ใช้ให้เลือก ไม่ใช่ความขัดแย้ง"
+   ]
+  },
+  {
+   "id": "C21-7",
+   "skill": "g.present-perfect",
+   "difficulty": 1,
+   "stem": "(7) I ___ never been to Phuket.",
+   "options": [
+    "has",
+    "have",
+    "am",
+    "did"
+   ],
+   "answer": 1,
+   "explanation_th": "ประสบการณ์ ไม่เคยไป → I have never been",
+   "why_wrong": [
+    "has ใช้กับ he / she / it ไม่ใช้กับ I",
+    null,
+    "am ใช้กับ been แบบนี้ไม่ได้",
+    "did ใช้กับ V3 ไม่ได้"
+   ]
+  },
+  {
+   "id": "C21-8",
+   "skill": "g.preposition",
+   "difficulty": 2,
+   "stem": "(8) Can I visit you ___ the school holidays?",
+   "options": [
+    "during",
+    "while",
+    "since",
+    "between"
+   ],
+   "answer": 0,
+   "explanation_th": "during + คำนามบอกช่วงเวลา → during the school holidays",
+   "why_wrong": [
+    null,
+    "while ต้องตามด้วยประโยค ไม่ใช่คำนาม",
+    "since ใช้กับ present perfect และตามด้วยจุดเริ่มต้น",
+    "between ต้องมีสองสิ่ง เช่น between May and June"
+   ]
+  },
+  {
+   "id": "C21-9",
+   "skill": "g.pronoun",
+   "difficulty": 1,
+   "stem": "(9) Please write back soon and tell me about ___ new school.",
+   "options": [
+    "you",
+    "yours",
+    "your",
+    "yourself"
+   ],
+   "answer": 2,
+   "explanation_th": "หน้า new school ต้องบอกว่าเป็นของใคร → your",
+   "why_wrong": [
+    "you เป็นประธานหรือกรรม ไม่ใช้หน้าคำนาม",
+    "yours ใช้โดยไม่มีคำนามตามหลัง",
+    null,
+    "yourself ไม่ใช้หน้าคำนาม"
+   ]
+  },
+  {
+   "id": "C21-10",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(10) I want ___ everything about it.",
+   "options": [
+    "knowing",
+    "know",
+    "to know",
+    "knew"
+   ],
+   "answer": 2,
+   "explanation_th": "want + to V → want to know",
+   "why_wrong": [
+    "want ไม่ตามด้วย V-ing",
+    "want ต้องมี to ก่อนกริยา",
+    null,
+    "knew เป็นกริยาอดีต วางหลัง want ไม่ได้"
+   ]
+  }
+ ]
+}

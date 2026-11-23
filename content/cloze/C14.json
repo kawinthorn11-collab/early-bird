@@ -1,0 +1,209 @@
+{
+ "id": "C14",
+ "title": "My Father's Driving Lessons",
+ "genre": "เรื่องเล่า",
+ "level": "B1",
+ "text": "When I turned eighteen, I decided (1) how to drive. My father agreed (2) me every Sunday. At first, I was too nervous (3) the car out of the garage. My father kept (4), \"Relax. Everyone makes mistakes.\" He made me (5) slowly around an empty car park for hours. I hated (6) the same thing again and again, but slowly I improved.\nOne day, he suggested (7) on a real road. I remember (8) the steering wheel so hard that my hands hurt. After a few months, I was good enough (9) the driving test. I passed! Now I'm looking forward to (10) my grandparents on my own.",
+ "items": [
+  {
+   "id": "C14-1",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(1) When I turned eighteen, I decided ___ how to drive.",
+   "options": [
+    "learning",
+    "to learn",
+    "learn",
+    "learned"
+   ],
+   "answer": 1,
+   "explanation_th": "decide + to V",
+   "why_wrong": [
+    "decide ไม่ตามด้วย V-ing",
+    null,
+    "ขาด to",
+    "learned ผิดรูป"
+   ]
+  },
+  {
+   "id": "C14-2",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(2) My father agreed ___ me every Sunday.",
+   "options": [
+    "teaching",
+    "teach",
+    "to teach",
+    "taught"
+   ],
+   "answer": 2,
+   "explanation_th": "agree + to V",
+   "why_wrong": [
+    "agree ไม่ตามด้วย V-ing",
+    "ขาด to",
+    null,
+    "taught ผิดรูป"
+   ]
+  },
+  {
+   "id": "C14-3",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(3) At first, I was too nervous ___ the car out of the garage.",
+   "options": [
+    "driving",
+    "drive",
+    "for drive",
+    "to drive"
+   ],
+   "answer": 3,
+   "explanation_th": "too + adj + to V",
+   "why_wrong": [
+    "too nervous driving ผิด",
+    "ขาด to",
+    "for drive ผิด",
+    null
+   ]
+  },
+  {
+   "id": "C14-4",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(4) My father kept ___, \"Relax.",
+   "options": [
+    "saying",
+    "to say",
+    "say",
+    "said"
+   ],
+   "answer": 0,
+   "explanation_th": "keep + V-ing = พูดซ้ำ ๆ → \"saying\"",
+   "why_wrong": [
+    null,
+    "keep ไม่ตามด้วย to V",
+    "keep ไม่ตามด้วย V1",
+    "said ผิดรูป"
+   ]
+  },
+  {
+   "id": "C14-5",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(5) He made me ___ slowly around an empty car park for hours.",
+   "options": [
+    "to drive",
+    "drive",
+    "driving",
+    "drove"
+   ],
+   "answer": 1,
+   "explanation_th": "make + sb + V1 → \"drive\"",
+   "why_wrong": [
+    "make sb to V ผิด",
+    null,
+    "make sb V-ing ผิด",
+    "drove ผิด"
+   ]
+  },
+  {
+   "id": "C14-6",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(6) I hated ___ the same thing again and again, but slowly I improved.",
+   "options": [
+    "do",
+    "did",
+    "done",
+    "doing"
+   ],
+   "answer": 3,
+   "explanation_th": "hate + V-ing → \"doing\"",
+   "why_wrong": [
+    "hate do ผิด",
+    "did ผิด",
+    "done ผิด",
+    null
+   ]
+  },
+  {
+   "id": "C14-7",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(7) One day, he suggested ___ on a real road.",
+   "options": [
+    "to drive",
+    "driving",
+    "drive",
+    "drove"
+   ],
+   "answer": 1,
+   "explanation_th": "suggest + V-ing → \"driving\"",
+   "why_wrong": [
+    "suggest ไม่ตามด้วย to V",
+    null,
+    "suggest drive ผิด",
+    "drove ผิด"
+   ]
+  },
+  {
+   "id": "C14-8",
+   "skill": "g.gerund-inf",
+   "difficulty": 3,
+   "stem": "(8) I remember ___ the steering wheel so hard that my hands hurt.",
+   "options": [
+    "to hold",
+    "hold",
+    "holding",
+    "held"
+   ],
+   "answer": 2,
+   "explanation_th": "remember + V-ing = จำได้ว่าเคยทำ (ความทรงจำ) → \"holding\"",
+   "why_wrong": [
+    "remember to hold = อย่าลืมจับ ความหมายผิด",
+    "hold ผิด",
+    null,
+    "held ผิด"
+   ]
+  },
+  {
+   "id": "C14-9",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(9) After a few months, I was good enough ___ the driving test.",
+   "options": [
+    "taking",
+    "take",
+    "for take",
+    "to take"
+   ],
+   "answer": 3,
+   "explanation_th": "good enough + to V",
+   "why_wrong": [
+    "enough taking ผิด",
+    "ขาด to",
+    "for take ผิด",
+    null
+   ]
+  },
+  {
+   "id": "C14-10",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(10) Now I'm looking forward to ___ my grandparents on my own.",
+   "options": [
+    "visiting",
+    "visit",
+    "to visit",
+    "visited"
+   ],
+   "answer": 0,
+   "explanation_th": "look forward to + V-ing → \"visiting\"",
+   "why_wrong": [
+    null,
+    "to visit ซ้อนผิด (to ตรงนี้เป็นบุพบท)",
+    "to to visit ผิด",
+    "visited ผิด"
+   ]
+  }
+ ]
+}

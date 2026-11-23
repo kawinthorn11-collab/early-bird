@@ -1,0 +1,1517 @@
+{
+ "code": "EN102",
+ "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+ "in_class_th": [
+  "น่าจะมีการนำเสนอหน้าห้องเป็นคู่หรือกลุ่ม พร้อมสไลด์",
+  "น่าจะมีกิจกรรมอภิปรายกลุ่ม ให้แสดงความเห็นด้วยและไม่เห็นด้วยในหัวข้อทั่วไป",
+  "คำอธิบายรายวิชาพูดถึงบริบทธุรกิจ จึงน่าจะมีงานเขียนอีเมลหรือบทสนทนาทางโทรศัพท์แบบเป็นทางการ",
+  "คำอธิบายพูดถึงเทคโนโลยีและความคิดสร้างสรรค์ จึงอาจมีงานทำคลิป โปสเตอร์ หรือสไลด์ดิจิทัล"
+ ],
+ "units": [
+  {
+   "id": "EN102-U1",
+   "title_th": "สำนวนเพื่อการมีปฏิสัมพันธ์ทางสังคม",
+   "title_en": "Social expressions: inviting, requesting, apologizing",
+   "covers": "ฝึกฝนการพูดและการเขียนประโยคและสำนวนที่ใช้เป็นประจำ เพื่อการมีปฏิสัมพันธ์ทางสังคม",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "ชวน",
+     "body_th": "Would you like to...? (สุภาพ) / Do you want to...? (กันเอง) / How about + V-ing? / Let's...",
+     "example": "Would you like to have lunch with us?"
+    },
+    {
+     "title_th": "ตอบรับและปฏิเสธอย่างสุภาพ",
+     "body_th": "ตอบรับ: I'd love to! / Sounds great. ปฏิเสธ: I'd love to, but... + เหตุผล + Maybe next time? การให้เหตุผลสั้น ๆ ทำให้ไม่ฟังแข็ง"
+    },
+    {
+     "title_th": "ขอร้อง",
+     "body_th": "Could you...? / Would you mind + V-ing? / Could you possibly...? (สุภาพมาก) ระวัง: ตอบ Would you mind...? ว่า Not at all แปลว่า ได้เลย"
+    },
+    {
+     "title_th": "ขอโทษและตอบคำขอโทษ",
+     "body_th": "I'm sorry for + V-ing / I apologize for... ตอบด้วย Don't worry about it. / That's OK. / No problem."
+    }
+   ],
+   "vocab": [
+    [
+     "invitation",
+     "คำเชิญ"
+    ],
+    [
+     "request",
+     "คำขอร้อง"
+    ],
+    [
+     "apology",
+     "คำขอโทษ"
+    ],
+    [
+     "polite",
+     "สุภาพ"
+    ],
+    [
+     "refuse",
+     "ปฏิเสธ"
+    ],
+    [
+     "accept",
+     "ตอบรับ"
+    ],
+    [
+     "excuse",
+     "เหตุผลที่ให้เวลาปฏิเสธ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "EN102-U1-01",
+     "skill": "EN102-U1",
+     "difficulty": 1,
+     "stem": "Would you like ___ dinner with us on Friday?",
+     "options": [
+      "having",
+      "have",
+      "to have",
+      "had"
+     ],
+     "answer": 2,
+     "explanation_th": "would like + to + V",
+     "why_wrong": [
+      "would like ตามด้วย to + V",
+      "ขาด to",
+      null,
+      "หลัง would like ไม่ใช้กริยาช่อง 2"
+     ]
+    },
+    {
+     "id": "EN102-U1-02",
+     "skill": "EN102-U1",
+     "difficulty": 1,
+     "stem": "A: Would you like to come to my party? B: (You say no politely.) ___",
+     "options": [
+      "No.",
+      "I don't like your party.",
+      "Yes, I wouldn't.",
+      "I'd love to, but I have an exam the next day."
+     ],
+     "answer": 3,
+     "explanation_th": "I'd love to, but + เหตุผล เป็นการปฏิเสธที่สุภาพ",
+     "why_wrong": [
+      "สั้นและห้วนเกินไป ไม่มีเหตุผล",
+      "ทำให้เจ้าของงานเสียใจ",
+      "ขัดแย้งกันเอง yes กับ wouldn't",
+      null
+     ]
+    },
+    {
+     "id": "EN102-U1-03",
+     "skill": "EN102-U1",
+     "difficulty": 1,
+     "stem": "Would you mind ___ the window?",
+     "options": [
+      "opening",
+      "to open",
+      "open",
+      "opened"
+     ],
+     "answer": 0,
+     "explanation_th": "Would you mind + V-ing?",
+     "why_wrong": [
+      null,
+      "would you mind ตามด้วย V-ing",
+      "หลัง mind ใช้กริยาช่อง 1 ไม่ได้",
+      "หลัง mind ใช้กริยาช่อง 2 ไม่ได้"
+     ]
+    },
+    {
+     "id": "EN102-U1-04",
+     "skill": "EN102-U1",
+     "difficulty": 2,
+     "stem": "A: Would you mind if I sat here? B: (You are happy to let A sit.) ___",
+     "options": [
+      "Yes, I would. Sit down.",
+      "Not at all. Go ahead.",
+      "Yes, please mind.",
+      "No, you can't."
+     ],
+     "answer": 1,
+     "explanation_th": "mind = รังเกียจ ตอบ Not at all จึงแปลว่า ไม่รังเกียจเลย นั่งได้",
+     "why_wrong": [
+      "Yes, I would แปลว่ารังเกียจ ขัดกับ Sit down",
+      null,
+      "ผิดสำนวน ไม่มีความหมาย",
+      "เป็นการไม่อนุญาต ขัดกับที่โจทย์บอก"
+     ]
+    },
+    {
+     "id": "EN102-U1-05",
+     "skill": "EN102-U1",
+     "difficulty": 1,
+     "stem": "I'm sorry ___ late.",
+     "options": [
+      "to late",
+      "for be",
+      "about late",
+      "for being"
+     ],
+     "answer": 3,
+     "explanation_th": "I'm sorry for + V-ing",
+     "why_wrong": [
+      "late เป็นคุณศัพท์ ต้องมี be",
+      "หลังบุพบท for ต้องเป็น V-ing",
+      "ขาดกริยา และ about ไม่ใช่สำนวนนี้",
+      null
+     ]
+    },
+    {
+     "id": "EN102-U1-06",
+     "skill": "EN102-U1",
+     "difficulty": 1,
+     "stem": "A: I'm so sorry I broke your pen. B: ___",
+     "options": [
+      "You're welcome.",
+      "Don't worry about it.",
+      "Me too.",
+      "Congratulations!"
+     ],
+     "answer": 1,
+     "explanation_th": "ตอบคำขอโทษด้วย Don't worry about it.",
+     "why_wrong": [
+      "ใช้ตอบคำขอบคุณ ไม่ใช่คำขอโทษ",
+      null,
+      "Me too แปลว่าตัวเองก็ทำปากกาพังด้วย ไม่เข้ากับสถานการณ์",
+      "ใช้แสดงความยินดี"
+     ]
+    },
+    {
+     "id": "EN102-U1-07",
+     "skill": "EN102-U1",
+     "difficulty": 2,
+     "stem": "Which request is the most polite?",
+     "options": [
+      "Help me with this form.",
+      "You help me now.",
+      "Could you possibly help me with this form?",
+      "Can help me?"
+     ],
+     "answer": 2,
+     "explanation_th": "Could you possibly...? สุภาพที่สุดในตัวเลือก",
+     "why_wrong": [
+      "เป็นคำสั่ง",
+      "เป็นคำสั่งและเร่ง",
+      null,
+      "ขาดประธาน you และฟังห้วน"
+     ]
+    },
+    {
+     "id": "EN102-U1-08",
+     "skill": "EN102-U1",
+     "difficulty": 1,
+     "stem": "How about ___ to the new café after class?",
+     "options": [
+      "going",
+      "to go",
+      "go",
+      "went"
+     ],
+     "answer": 0,
+     "explanation_th": "How about + V-ing? ใช้ชวนหรือเสนอ",
+     "why_wrong": [
+      null,
+      "How about ตามด้วย V-ing",
+      "หลัง How about ใช้กริยาช่อง 1 ไม่ได้",
+      "หลัง How about ใช้กริยาช่อง 2 ไม่ได้"
+     ]
+    }
+   ],
+   "say": [
+    "Would you like to join us for lunch?",
+    "I'd love to, but I'm busy tonight. Maybe next time?"
+   ],
+   "task_th": "เขียนแชตสั้น 3 ข้อความภาษาอังกฤษ: ชวนเพื่อนไปกินข้าว 1 ข้อความ ปฏิเสธคำชวนอย่างสุภาพ 1 ข้อความ และขอโทษที่ตอบช้า 1 ข้อความ แล้วอ่านออกเสียงทั้ง 3"
+  },
+  {
+   "id": "EN102-U2",
+   "title_th": "ถามและให้ข้อมูล",
+   "title_en": "Asking for and giving information",
+   "covers": "การแลกเปลี่ยนข้อมูล",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "ถามตรงกับถามอ้อม",
+     "body_th": "ถามตรง: What time does the library open? ถามอ้อมสุภาพกว่า: Could you tell me what time the library opens? ในคำถามอ้อมเรียงประธานก่อนกริยา"
+    },
+    {
+     "title_th": "ยืนยันข้อมูล",
+     "body_th": "ทวนข้อมูลแล้วต่อ right? หรือ Is that correct? ช่วยกันเข้าใจผิด",
+     "example": "So the meeting is at 3, right?"
+    },
+    {
+     "title_th": "ตัวเลขที่ฟังสับสน",
+     "body_th": "15 กับ 50, 13 กับ 30 ฟังคล้ายกัน ถามกลับด้วยการพูดทีละหลัก เช่น one-five or five-zero?"
+    },
+    {
+     "title_th": "ให้ข้อมูลให้ชัด",
+     "body_th": "ตอบตรงคำถามก่อน แล้วเพิ่มรายละเอียดที่จำเป็น 1 อย่าง",
+     "example": "It's due next Monday, before 5 p.m."
+    }
+   ],
+   "vocab": [
+    [
+     "information",
+     "ข้อมูล"
+    ],
+    [
+     "detail",
+     "รายละเอียด"
+    ],
+    [
+     "confirm",
+     "ยืนยัน"
+    ],
+    [
+     "clarify",
+     "ทำให้ชัดเจน"
+    ],
+    [
+     "indirect question",
+     "คำถามอ้อม"
+    ],
+    [
+     "schedule",
+     "ตารางเวลา"
+    ],
+    [
+     "due",
+     "ถึงกำหนดส่ง"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "EN102-U2-01",
+     "skill": "EN102-U2",
+     "difficulty": 1,
+     "stem": "Could you tell me what time ___?",
+     "options": [
+      "the library opens",
+      "does the library open",
+      "opens the library",
+      "the library open"
+     ],
+     "answer": 0,
+     "explanation_th": "คำถามอ้อมเรียง ประธาน + กริยา: the library opens",
+     "why_wrong": [
+      null,
+      "คำถามอ้อมไม่ใช้ does และเรียงแบบบอกเล่า",
+      "เรียงกริยาก่อนประธาน ผิดลำดับ",
+      "ประธานเอกพจน์ต้องเติม -s"
+     ]
+    },
+    {
+     "id": "EN102-U2-02",
+     "skill": "EN102-U2",
+     "difficulty": 2,
+     "stem": "A: ___ B: It's about 20 minutes by bus.",
+     "options": [
+      "How much is the bus?",
+      "When does the bus leave?",
+      "How long does it take to get there?",
+      "How often does the bus come?"
+     ],
+     "answer": 2,
+     "explanation_th": "How long does it take? ถามระยะเวลาเดินทาง",
+     "why_wrong": [
+      "ถามราคา แต่คำตอบเป็นระยะเวลา",
+      "ถามเวลาออก คำตอบควรเป็นเวลาบนนาฬิกา เช่น at 8:15",
+      null,
+      "ถามความถี่ คำตอบควรเป็น every 20 minutes"
+     ]
+    },
+    {
+     "id": "EN102-U2-03",
+     "skill": "EN102-U2",
+     "difficulty": 2,
+     "stem": "You are not sure if the speaker said '15' or '50'. What do you say?",
+     "options": [
+      "OK, thanks!",
+      "Sorry, was that one-five or five-zero?",
+      "Fifty, right? OK, bye.",
+      "I know."
+     ],
+     "answer": 1,
+     "explanation_th": "ถามเจาะจงโดยพูดทีละหลัก ทำให้อีกฝ่ายยืนยันได้ง่าย",
+     "why_wrong": [
+      "ตอบรับทั้งที่ยังไม่แน่ใจ ไม่ได้ขอความชัดเจน อาจจดตัวเลขผิด",
+      null,
+      "เดาเองแล้ววางสายโดยไม่รอคำยืนยัน",
+      "ไม่ได้ขอความชัดเจน"
+     ]
+    },
+    {
+     "id": "EN102-U2-04",
+     "skill": "EN102-U2",
+     "difficulty": 1,
+     "stem": "A: When is the report due? B: ___",
+     "options": [
+      "It's in the office.",
+      "Ms. Lee wrote it.",
+      "It's about tourism.",
+      "It's due next Monday."
+     ],
+     "answer": 3,
+     "explanation_th": "When ถามเวลา ตอบวันส่ง",
+     "why_wrong": [
+      "ตอบสถานที่ แต่ถามเวลา",
+      "ตอบว่าใครเขียน แต่ถามเวลา",
+      "ตอบหัวข้อ แต่ถามเวลา",
+      null
+     ]
+    },
+    {
+     "id": "EN102-U2-05",
+     "skill": "EN102-U2",
+     "difficulty": 2,
+     "stem": "Do you know ___ the shop is open on Sunday?",
+     "options": [
+      "if",
+      "what",
+      "who",
+      "which"
+     ],
+     "answer": 0,
+     "explanation_th": "ถามว่าใช่หรือไม่ในคำถามอ้อม ใช้ if หรือ whether",
+     "why_wrong": [
+      null,
+      "what ต้องมีช่องว่างให้เติม แต่ the shop is open ครบแล้ว",
+      "who ใช้ถามถึงคน",
+      "which ต้องมีตัวเลือกหรือคำนามตาม"
+     ]
+    },
+    {
+     "id": "EN102-U2-06",
+     "skill": "EN102-U2",
+     "difficulty": 1,
+     "stem": "So, the meeting is on Tuesday at 2 p.m., ___?",
+     "options": [
+      "isn't",
+      "right",
+      "yes is",
+      "does it"
+     ],
+     "answer": 1,
+     "explanation_th": "ทวนข้อมูลแล้วต่อด้วย right? เพื่อขอการยืนยัน",
+     "why_wrong": [
+      "question tag ต้องมีประธานด้วย เช่น isn't it",
+      null,
+      "ผิดรูป ไม่มีสำนวนนี้",
+      "ประโยคใช้ is จึงต้องใช้ tag ที่มี is ไม่ใช่ does"
+     ]
+    },
+    {
+     "id": "EN102-U2-07",
+     "skill": "EN102-U2",
+     "difficulty": 1,
+     "stem": "Which question asks for an opinion, not information?",
+     "options": [
+      "When does the new schedule start?",
+      "Who made the new schedule?",
+      "What do you think of the new schedule?",
+      "Where can I find the new schedule?"
+     ],
+     "answer": 2,
+     "explanation_th": "What do you think of...? ถามความคิดเห็น",
+     "why_wrong": [
+      "ถามวันเริ่ม เป็นข้อมูล",
+      "ถามชื่อคน เป็นข้อมูล",
+      null,
+      "ถามสถานที่ เป็นข้อมูล"
+     ]
+    },
+    {
+     "id": "EN102-U2-08",
+     "skill": "EN102-U2",
+     "difficulty": 1,
+     "stem": "A: Can I have your email address? B: ___",
+     "options": [
+      "Yes, I have.",
+      "It's in my phone. Bye.",
+      "My email is very long.",
+      "Sure. It's nok dot s at example dot com."
+     ],
+     "answer": 3,
+     "explanation_th": "ตอบรับแล้วบอกข้อมูลทันที อ่าน . ว่า dot และ @ ว่า at",
+     "why_wrong": [
+      "ตอบว่ามี แต่ไม่ได้ให้ที่อยู่อีเมล",
+      "ไม่ได้ให้ข้อมูลที่ถูกถาม",
+      "ไม่ได้ให้ข้อมูลที่ถูกถาม",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "Could you tell me where Room 301 is?",
+    "Just to confirm, the deadline is Friday, right?"
+   ],
+   "task_th": "เขียนบทสนทนาถามตอบ 6 บรรทัดเรื่องการนัดทำงานกลุ่ม ใช้ Could you tell me...? 1 ครั้ง และประโยคยืนยันข้อมูลที่ลงท้าย right? 1 ครั้ง แล้วอ่านออกเสียงทั้งสองบทบาท"
+  },
+  {
+   "id": "EN102-U3",
+   "title_th": "การเปรียบเทียบ",
+   "title_en": "Making comparisons",
+   "covers": "การเปรียบเทียบ",
+   "minutes": 12,
+   "lessons": [
+    "L23"
+   ],
+   "cards": [
+    {
+     "title_th": "เทียบตัวเลือกในชีวิตจริง",
+     "body_th": "cheaper than, more convenient than, not as fast as, the best option ใช้บ่อยเวลาเลือกร้าน แผน หรือสินค้า"
+    },
+    {
+     "title_th": "บอกว่าต่างมากหรือน้อย",
+     "body_th": "much / a lot / a bit + comparative ใช้บอกระดับความต่าง very ใช้กับ comparative ไม่ได้",
+     "example": "much better, a bit more expensive"
+    },
+    {
+     "title_th": "เทียบสองด้าน",
+     "body_th": "whereas หรือ while เชื่อมสองข้อมูลที่ต่างกัน",
+     "example": "Online shopping is convenient, whereas shopping in a mall is more fun."
+    },
+    {
+     "title_th": "เหมือนกัน",
+     "body_th": "the same as / the same + noun + as / similar to",
+     "example": "This phone is the same price as that one."
+    }
+   ],
+   "vocab": [
+    [
+     "compare",
+     "เปรียบเทียบ"
+    ],
+    [
+     "similar to",
+     "คล้ายกับ"
+    ],
+    [
+     "different from",
+     "ต่างจาก"
+    ],
+    [
+     "advantage",
+     "ข้อดี"
+    ],
+    [
+     "disadvantage",
+     "ข้อเสีย"
+    ],
+    [
+     "option",
+     "ตัวเลือก"
+    ],
+    [
+     "whereas",
+     "ในขณะที่ (บอกความต่าง)"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "EN102-U3-01",
+     "skill": "EN102-U3",
+     "difficulty": 1,
+     "stem": "The train is ___ than the bus, but it's more comfortable.",
+     "options": [
+      "a bit expensive",
+      "more expensiver",
+      "a bit more expensive",
+      "the most expensive"
+     ],
+     "answer": 2,
+     "explanation_th": "a bit + more + adjective ยาว + than",
+     "why_wrong": [
+      "มี than จึงต้องใช้รูปขั้นกว่า",
+      "ใช้ more กับ -er ซ้อนกัน",
+      null,
+      "ขั้นสูงสุดไม่ใช้กับ than"
+     ]
+    },
+    {
+     "id": "EN102-U3-02",
+     "skill": "EN102-U3",
+     "difficulty": 1,
+     "stem": "This phone is ___ that one. They both cost 9,000 baht.",
+     "options": [
+      "the same price as",
+      "the same price than",
+      "same price like",
+      "more price than"
+     ],
+     "answer": 0,
+     "explanation_th": "the same + noun + as บอกว่าเท่ากัน",
+     "why_wrong": [
+      null,
+      "the same ใช้คู่กับ as ไม่ใช่ than",
+      "ขาด the และใช้ like แทน as ไม่ได้ในโครงนี้",
+      "ราคาเท่ากัน และ more price ผิดสำนวน"
+     ]
+    },
+    {
+     "id": "EN102-U3-03",
+     "skill": "EN102-U3",
+     "difficulty": 2,
+     "stem": "Online shopping is convenient, ___ shopping in a mall is more fun.",
+     "options": [
+      "because",
+      "so",
+      "unless",
+      "whereas"
+     ],
+     "answer": 3,
+     "explanation_th": "whereas เชื่อมสองข้อมูลที่ต่างกัน",
+     "why_wrong": [
+      "ประโยคหลังไม่ได้เป็นเหตุผลของประโยคแรก",
+      "ประโยคหลังไม่ได้เป็นผลของประโยคแรก",
+      "unless แปลว่า เว้นแต่ ไม่เข้ากับการเทียบ",
+      null
+     ]
+    },
+    {
+     "id": "EN102-U3-04",
+     "skill": "EN102-U3",
+     "difficulty": 2,
+     "stem": "Which sentence means that Plan A costs less than Plan B?",
+     "options": [
+      "Plan A is not as cheap as Plan B.",
+      "Plan B is not as cheap as Plan A.",
+      "Plan A is as expensive as Plan B.",
+      "Plan B is cheaper than Plan A."
+     ],
+     "answer": 1,
+     "explanation_th": "B ไม่ถูกเท่า A แปลว่า A ถูกกว่า",
+     "why_wrong": [
+      "แปลว่า A แพงกว่า B ตรงข้ามกับโจทย์",
+      null,
+      "แปลว่าราคาเท่ากัน",
+      "แปลว่า B ถูกกว่า ตรงข้ามกับโจทย์"
+     ]
+    },
+    {
+     "id": "EN102-U3-05",
+     "skill": "EN102-U3",
+     "difficulty": 1,
+     "stem": "My new job is ___ better than my old one. I'm so happy!",
+     "options": [
+      "very",
+      "much",
+      "more",
+      "many"
+     ],
+     "answer": 1,
+     "explanation_th": "much + comparative บอกว่าดีกว่ามาก",
+     "why_wrong": [
+      "very ใช้ขยาย comparative ไม่ได้",
+      null,
+      "better เป็นขั้นกว่าอยู่แล้ว ใส่ more ซ้ำไม่ได้",
+      "many ใช้กับคำนามนับได้ ไม่ใช้ขยาย comparative"
+     ]
+    }
+   ],
+   "say": [
+    "The train is faster, but the bus is cheaper.",
+    "In my view, the second option is the best."
+   ],
+   "task_th": "เลือก 2 ตัวเลือกในชีวิตจริง เช่น ร้านกาแฟ 2 ร้านหรือแอป 2 แอป เขียนตารางข้อดีข้อเสีย แล้วพูดเปรียบเทียบ 30 วินาที ใช้ -er than, not as ... as และ the best"
+  },
+  {
+   "id": "EN102-U4",
+   "title_th": "อธิบายความคิดและลำดับขั้นตอน",
+   "title_en": "Explaining ideas and sequencing",
+   "covers": "และการอธิบายความคิดเกี่ยวกับเรื่องต่าง ๆ",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "คำบอกลำดับ",
+     "body_th": "First, → Then, / Next, → After that, → Finally, ช่วยให้คนฟังตามขั้นตอนได้"
+    },
+    {
+     "title_th": "บอกเหตุผลหลัก",
+     "body_th": "The main reason is that... / This is because... / That's why...",
+     "example": "The main reason I chose this topic is that it affects every student."
+    },
+    {
+     "title_th": "พูดอีกแบบเมื่ออีกฝ่ายไม่เข้าใจ",
+     "body_th": "In other words, / What I mean is... / Let me explain it another way."
+    },
+    {
+     "title_th": "ยกตัวอย่าง",
+     "body_th": "For example, + ประโยค / such as + คำนาม",
+     "example": "I love fruits such as mangoes and pineapples."
+    }
+   ],
+   "vocab": [
+    [
+     "explain",
+     "อธิบาย"
+    ],
+    [
+     "sequence",
+     "ลำดับ"
+    ],
+    [
+     "process",
+     "ขั้นตอน กระบวนการ"
+    ],
+    [
+     "main reason",
+     "เหตุผลหลัก"
+    ],
+    [
+     "clarify",
+     "ขยายความให้ชัด"
+    ],
+    [
+     "in other words",
+     "พูดอีกอย่างก็คือ"
+    ],
+    [
+     "such as",
+     "เช่น"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "EN102-U4-01",
+     "skill": "EN102-U4",
+     "difficulty": 1,
+     "stem": "___, wash the rice. Then, put it in the rice cooker.",
+     "options": [
+      "Finally",
+      "In conclusion",
+      "However",
+      "First"
+     ],
+     "answer": 3,
+     "explanation_th": "ขั้นแรกใช้ First ตามด้วย Then",
+     "why_wrong": [
+      "Finally บอกขั้นสุดท้าย แต่ยังมีขั้น Then ตามมา",
+      "ใช้สรุปความ ไม่ใช่บอกขั้นตอน",
+      "บอกความขัดแย้ง",
+      null
+     ]
+    },
+    {
+     "id": "EN102-U4-02",
+     "skill": "EN102-U4",
+     "difficulty": 1,
+     "stem": "Which word shows the last step?",
+     "options": [
+      "Finally",
+      "First",
+      "Next",
+      "Then"
+     ],
+     "answer": 0,
+     "explanation_th": "Finally = สุดท้าย",
+     "why_wrong": [
+      null,
+      "บอกขั้นแรก",
+      "บอกขั้นถัดไป ไม่ใช่ขั้นสุดท้าย",
+      "บอกขั้นถัดไป ไม่ใช่ขั้นสุดท้าย"
+     ]
+    },
+    {
+     "id": "EN102-U4-03",
+     "skill": "EN102-U4",
+     "difficulty": 2,
+     "stem": "The app is very easy to use. ___, even my grandmother can use it without help.",
+     "options": [
+      "However",
+      "On the other hand",
+      "In fact",
+      "Instead"
+     ],
+     "answer": 2,
+     "explanation_th": "In fact ใช้เพิ่มข้อมูลที่ยืนยันและเน้นประโยคก่อนหน้า",
+     "why_wrong": [
+      "However บอกความขัดแย้ง แต่ประโยคหลังสนับสนุนประโยคแรก",
+      "บอกอีกด้านที่ตรงข้าม",
+      null,
+      "Instead แปลว่า แทนที่จะ ไม่เข้ากับความหมาย"
+     ]
+    },
+    {
+     "id": "EN102-U4-04",
+     "skill": "EN102-U4",
+     "difficulty": 1,
+     "stem": "I love fruits ___ mangoes and pineapples.",
+     "options": [
+      "for example of",
+      "like as",
+      "so as",
+      "such as"
+     ],
+     "answer": 3,
+     "explanation_th": "such as + คำนาม ใช้ยกตัวอย่าง",
+     "why_wrong": [
+      "ผิดสำนวน",
+      "ผิดสำนวน ใช้ like หรือ such as อย่างใดอย่างหนึ่ง",
+      "so as ใช้กับ to + V บอกจุดประสงค์",
+      null
+     ]
+    },
+    {
+     "id": "EN102-U4-05",
+     "skill": "EN102-U4",
+     "difficulty": 1,
+     "stem": "A: Sorry, I don't understand. B: ___ What I mean is that we need more time.",
+     "options": [
+      "Never mind, forget it.",
+      "You're wrong.",
+      "Let me explain it another way.",
+      "That's all."
+     ],
+     "answer": 2,
+     "explanation_th": "บอกว่าจะอธิบายใหม่ แล้วใช้ What I mean is...",
+     "why_wrong": [
+      "เลิกอธิบาย ทั้งที่ประโยคต่อไปยังอธิบายต่อ",
+      "ตำหนิอีกฝ่าย ไม่ได้ช่วยให้เข้าใจ",
+      null,
+      "จบบทสนทนา ขัดกับประโยคที่อธิบายต่อ"
+     ]
+    },
+    {
+     "id": "EN102-U4-06",
+     "skill": "EN102-U4",
+     "difficulty": 2,
+     "stem": "The main reason I chose this topic ___ it affects every student.",
+     "options": [
+      "because of",
+      "is that",
+      "is because of",
+      "that is"
+     ],
+     "answer": 1,
+     "explanation_th": "The main reason ... is that + อนุประโยค",
+     "why_wrong": [
+      "because of ตามด้วยคำนาม และประโยคยังขาดกริยา is",
+      null,
+      "because of ตามด้วยคำนาม ไม่ใช่อนุประโยค",
+      "ลำดับคำผิด"
+     ]
+    },
+    {
+     "id": "EN102-U4-07",
+     "skill": "EN102-U4",
+     "difficulty": 1,
+     "stem": "Put the steps in order: (a) Then, add hot water. (b) First, put a tea bag in a cup. (c) Finally, wait three minutes.",
+     "options": [
+      "b, a, c",
+      "a, b, c",
+      "c, b, a",
+      "b, c, a"
+     ],
+     "answer": 0,
+     "explanation_th": "First (b) → Then (a) → Finally (c)",
+     "why_wrong": [
+      null,
+      "ขั้นที่ขึ้นต้นด้วย First ต้องมาก่อน",
+      "Finally ต้องอยู่ท้ายสุด",
+      "Finally ต้องอยู่ท้ายสุด ไม่ใช่ตรงกลาง"
+     ]
+    },
+    {
+     "id": "EN102-U4-08",
+     "skill": "EN102-U4",
+     "difficulty": 2,
+     "stem": "Which sentence shows cause and effect correctly?",
+     "options": [
+      "The event was cancelled, so it rained all day.",
+      "It rained all day, so the event was cancelled.",
+      "Because the event was cancelled, it rained.",
+      "It rained all day, but the event was cancelled."
+     ],
+     "answer": 1,
+     "explanation_th": "ฝนตก (เหตุ) so งานถูกยกเลิก (ผล)",
+     "why_wrong": [
+      "กลับเหตุกับผล การยกเลิกงานไม่ได้ทำให้ฝนตก",
+      null,
+      "กลับเหตุกับผล",
+      "but บอกความขัดแย้ง แต่ฝนตกกับการยกเลิกงานไม่ขัดกัน"
+     ]
+    }
+   ],
+   "say": [
+    "First, I'll explain the problem. Then, I'll share my idea.",
+    "In other words, we need a simpler plan."
+   ],
+   "task_th": "อธิบายขั้นตอนทำอะไรง่าย ๆ 1 อย่าง เช่น ทำไข่เจียว หรือสมัครใช้แอป อัดเสียง 45 วินาที ใช้ First, Then, After that, Finally ให้ครบ"
+  },
+  {
+   "id": "EN102-U5",
+   "title_th": "ภาษาอังกฤษในบริบทธุรกิจ: อีเมลและโทรศัพท์",
+   "title_en": "Business contexts: emails and phone calls",
+   "covers": "ในบริบททางสังคมและธุรกิจ",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "โครงอีเมลทางการ",
+     "body_th": "subject line ชัดเจน → Dear Ms. / Mr. + นามสกุล → I am writing to... (บอกจุดประสงค์) → รายละเอียดหรือคำขอ → Thank you for your time. → Best regards, + ชื่อ"
+    },
+    {
+     "title_th": "ระดับภาษา",
+     "body_th": "อีเมลถึงอาจารย์หรือที่ทำงานใช้ภาษาเป็นทางการ ไม่ใช้คำย่อแชต เช่น u, pls, thx และไม่ใช้อีโมจิ"
+    },
+    {
+     "title_th": "โทรศัพท์",
+     "body_th": "รับสาย: Hello, this is ... speaking. / ขอสาย: May I speak to...? / ฝากข้อความ: Could I leave a message? / ถ้าเขาไม่อยู่: Would you like to leave a message?"
+    },
+    {
+     "title_th": "ประโยคปิดที่ใช้บ่อย",
+     "body_th": "I look forward to hearing from you. / Please let me know if you have any questions. / Please find the file attached."
+    }
+   ],
+   "vocab": [
+    [
+     "subject line",
+     "หัวเรื่องอีเมล"
+    ],
+    [
+     "formal",
+     "เป็นทางการ"
+    ],
+    [
+     "attachment",
+     "ไฟล์แนบ"
+    ],
+    [
+     "regards",
+     "คำลงท้ายอีเมล ด้วยความนับถือ"
+    ],
+    [
+     "leave a message",
+     "ฝากข้อความ"
+    ],
+    [
+     "call back",
+     "โทรกลับ"
+    ],
+    [
+     "appointment",
+     "การนัดหมาย"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "EN102-U5-01",
+     "skill": "EN102-U5",
+     "difficulty": 1,
+     "stem": "Which is the best greeting for an email to a teacher you don't know well?",
+     "options": [
+      "Dear Ms. Lee,",
+      "Hey Lee!",
+      "Yo teacher,",
+      "Hi dude,"
+     ],
+     "answer": 0,
+     "explanation_th": "Dear + คำนำหน้า + นามสกุล เป็นทางการและสุภาพ",
+     "why_wrong": [
+      null,
+      "กันเองเกินไปสำหรับคนที่ยังไม่สนิท",
+      "เป็นภาษาพูดกันเอง",
+      "เป็นภาษาพูดกับเพื่อน"
+     ]
+    },
+    {
+     "id": "EN102-U5-02",
+     "skill": "EN102-U5",
+     "difficulty": 1,
+     "stem": "I am writing ___ ask about the internship.",
+     "options": [
+      "for",
+      "about",
+      "with",
+      "to"
+     ],
+     "answer": 3,
+     "explanation_th": "I am writing to + V บอกจุดประสงค์ของอีเมล",
+     "why_wrong": [
+      "หลัง for ต้องเป็นคำนามหรือ V-ing",
+      "about ask ผิดไวยากรณ์",
+      "with ask ผิดไวยากรณ์",
+      null
+     ]
+    },
+    {
+     "id": "EN102-U5-03",
+     "skill": "EN102-U5",
+     "difficulty": 2,
+     "stem": "Please find the report ___.",
+     "options": [
+      "attach",
+      "attaching",
+      "attached",
+      "attachment"
+     ],
+     "answer": 2,
+     "explanation_th": "Please find + สิ่งของ + attached = แนบมาพร้อมนี้",
+     "why_wrong": [
+      "ต้องใช้รูป V3 ที่ทำหน้าที่บอกสภาพของรายงาน",
+      "รายงานไม่ได้เป็นผู้แนบ",
+      null,
+      "เป็นคำนาม ไม่เข้ากับโครง find + กรรม + คุณศัพท์"
+     ]
+    },
+    {
+     "id": "EN102-U5-04",
+     "skill": "EN102-U5",
+     "difficulty": 1,
+     "stem": "You answer the phone at work. You say: \"Hello, ___ Pete speaking.\"",
+     "options": [
+      "I am",
+      "here is",
+      "this is",
+      "it is me"
+     ],
+     "answer": 2,
+     "explanation_th": "ทางโทรศัพท์ใช้ This is + ชื่อ + speaking",
+     "why_wrong": [
+      "I am Pete speaking ผิดสำนวนโทรศัพท์",
+      "ไม่ใช้สำนวนนี้ตอนรับสาย",
+      null,
+      "ผิดสำนวน และไม่เป็นทางการ"
+     ]
+    },
+    {
+     "id": "EN102-U5-05",
+     "skill": "EN102-U5",
+     "difficulty": 1,
+     "stem": "A: May I speak to Mr. Somchai? B: I'm sorry, he's not in at the moment. ___",
+     "options": [
+      "Who are you?",
+      "Call later, bye.",
+      "He doesn't want to talk.",
+      "Would you like to leave a message?"
+     ],
+     "answer": 3,
+     "explanation_th": "เสนอให้ฝากข้อความเมื่อคนที่ถูกขอสายไม่อยู่",
+     "why_wrong": [
+      "ห้วนและไม่สุภาพ ควรถาม May I ask who's calling?",
+      "วางสายโดยไม่ช่วยอะไร",
+      "ไม่สุภาพและไม่ตรงกับที่บอกว่าเขาไม่อยู่",
+      null
+     ]
+    },
+    {
+     "id": "EN102-U5-06",
+     "skill": "EN102-U5",
+     "difficulty": 1,
+     "stem": "Which closing is best for a formal email?",
+     "options": [
+      "Best regards,",
+      "Love,",
+      "See ya!",
+      "Bye bye,"
+     ],
+     "answer": 0,
+     "explanation_th": "Best regards เป็นคำลงท้ายมาตรฐานของอีเมลทางการ",
+     "why_wrong": [
+      null,
+      "ใช้กับครอบครัวหรือคนสนิท",
+      "เป็นภาษาพูดกันเอง",
+      "ไม่เป็นทางการ"
+     ]
+    },
+    {
+     "id": "EN102-U5-07",
+     "skill": "EN102-U5",
+     "difficulty": 2,
+     "stem": "Which subject line is the clearest?",
+     "options": [
+      "Hi",
+      "Question about the 15 June meeting",
+      "Help!!!",
+      "Something"
+     ],
+     "answer": 1,
+     "explanation_th": "subject line ที่ดีบอกเรื่องและรายละเอียดสำคัญในไม่กี่คำ",
+     "why_wrong": [
+      "ไม่บอกว่าอีเมลเรื่องอะไร",
+      null,
+      "ไม่บอกเรื่อง และดูไม่สุภาพ",
+      "ไม่บอกเรื่อง"
+     ]
+    },
+    {
+     "id": "EN102-U5-08",
+     "skill": "EN102-U5",
+     "difficulty": 1,
+     "stem": "I look forward to ___ from you.",
+     "options": [
+      "hear",
+      "heard",
+      "be hearing",
+      "hearing"
+     ],
+     "answer": 3,
+     "explanation_th": "look forward to + V-ing",
+     "why_wrong": [
+      "หลัง look forward to ต้องเป็น V-ing",
+      "หลัง to ไม่ใช้กริยาช่อง 2",
+      "ผิดรูป หลัง to ที่เป็นบุพบทใช้ V-ing",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "Hello, this is Pete speaking. May I speak to Ms. Lee, please?",
+    "I am writing to ask about the project deadline."
+   ],
+   "task_th": "เขียนอีเมลสั้นถึงอาจารย์ (สมมติ) 5 บรรทัด ขอนัดพบเพื่อถามเรื่องงาน ให้มี subject line, Dear..., I am writing to..., ประโยคขอบคุณ และ Best regards"
+  },
+  {
+   "id": "EN102-U6",
+   "title_th": "ทักษะการอภิปราย",
+   "title_en": "Discussion skills",
+   "covers": "โดยมุ่งเน้นการพัฒนาทักษะการอภิปราย",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "เห็นด้วย",
+     "body_th": "I totally agree. / That's a good point. / I couldn't agree more. (= เห็นด้วยที่สุด)"
+    },
+    {
+     "title_th": "ไม่เห็นด้วยแบบสุภาพ",
+     "body_th": "I see what you mean, but... / I'm not so sure about that. / That's true, but... ยอมรับอีกฝ่ายก่อนแล้วจึงแย้ง"
+    },
+    {
+     "title_th": "พูดแทรกอย่างสุภาพ",
+     "body_th": "Sorry to interrupt, but... / Can I just add something? ถ้ามีคนแทรกเรา: Can I just finish my point?"
+    },
+    {
+     "title_th": "ดูแลวงอภิปราย",
+     "body_th": "ชวนคนที่ยังไม่พูด: What do you think, Nok? / ดึงกลับเข้าเรื่อง: Let's get back to the main question. / สรุป: So, we all agree that..."
+    }
+   ],
+   "vocab": [
+    [
+     "discussion",
+     "การอภิปราย"
+    ],
+    [
+     "interrupt",
+     "พูดแทรก"
+    ],
+    [
+     "point",
+     "ประเด็น"
+    ],
+    [
+     "perspective",
+     "มุมมอง"
+    ],
+    [
+     "contribute",
+     "มีส่วนร่วม"
+    ],
+    [
+     "sum up",
+     "สรุป"
+    ],
+    [
+     "on topic",
+     "อยู่ในประเด็น"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "EN102-U6-01",
+     "skill": "EN102-U6",
+     "difficulty": 1,
+     "stem": "You want to add an idea while someone is talking. What do you say?",
+     "options": [
+      "Stop. My turn.",
+      "Sorry to interrupt, but can I add something?",
+      "Be quiet, please.",
+      "You talk too much."
+     ],
+     "answer": 1,
+     "explanation_th": "ขอโทษก่อนแทรก แล้วขออนุญาตเพิ่มความเห็น",
+     "why_wrong": [
+      "เป็นคำสั่ง ไม่สุภาพ",
+      null,
+      "สั่งให้อีกฝ่ายเงียบ ไม่สุภาพ",
+      "ตำหนิอีกฝ่าย"
+     ]
+    },
+    {
+     "id": "EN102-U6-02",
+     "skill": "EN102-U6",
+     "difficulty": 2,
+     "stem": "Which phrase shows the strongest agreement?",
+     "options": [
+      "I'm not so sure.",
+      "I see your point, but...",
+      "I couldn't agree more.",
+      "I don't think so."
+     ],
+     "answer": 2,
+     "explanation_th": "I couldn't agree more = เห็นด้วยจนเห็นด้วยมากกว่านี้ไม่ได้แล้ว",
+     "why_wrong": [
+      "แสดงความไม่แน่ใจหรือไม่เห็นด้วย",
+      "เป็นการเปิดเพื่อแย้ง",
+      null,
+      "แสดงความไม่เห็นด้วย"
+     ]
+    },
+    {
+     "id": "EN102-U6-03",
+     "skill": "EN102-U6",
+     "difficulty": 1,
+     "stem": "Which phrase disagrees politely?",
+     "options": [
+      "I see what you mean, but I have a different view.",
+      "That's nonsense.",
+      "You don't know anything.",
+      "No way!"
+     ],
+     "answer": 0,
+     "explanation_th": "ยอมรับมุมมองอีกฝ่ายก่อนแล้วบอกความเห็นต่าง",
+     "why_wrong": [
+      null,
+      "ดูถูกความคิดอีกฝ่าย",
+      "โจมตีตัวบุคคล",
+      "ห้วนและไม่มีเหตุผล"
+     ]
+    },
+    {
+     "id": "EN102-U6-04",
+     "skill": "EN102-U6",
+     "difficulty": 1,
+     "stem": "Nok hasn't spoken yet. What can the group leader say?",
+     "options": [
+      "Nok, what do you think?",
+      "Nok, why are you so quiet?",
+      "Nok, you have to speak now!",
+      "Let's not ask Nok."
+     ],
+     "answer": 0,
+     "explanation_th": "ชวนด้วยคำถามเปิดแบบสุภาพ",
+     "why_wrong": [
+      null,
+      "ทำให้ Nok อึดอัดและรู้สึกถูกตำหนิ",
+      "เป็นคำสั่งกดดัน",
+      "กันเพื่อนออกจากวงคุย"
+     ]
+    },
+    {
+     "id": "EN102-U6-05",
+     "skill": "EN102-U6",
+     "difficulty": 1,
+     "stem": "A: Sorry, can I just finish my point? B: ___",
+     "options": [
+      "No, it's my turn.",
+      "Yes, I am finished.",
+      "Of course, go ahead.",
+      "Point is good."
+     ],
+     "answer": 2,
+     "explanation_th": "ให้อีกฝ่ายพูดต่อด้วย Of course, go ahead.",
+     "why_wrong": [
+      "ไม่ให้อีกฝ่ายพูดจบ ไม่สุภาพ",
+      "ตอบไม่ตรงคำขอ",
+      null,
+      "ผิดไวยากรณ์และไม่ได้ให้พูดต่อ"
+     ]
+    },
+    {
+     "id": "EN102-U6-06",
+     "skill": "EN102-U6",
+     "difficulty": 1,
+     "stem": "Which phrase brings the discussion back to the topic?",
+     "options": [
+      "Let's change the topic.",
+      "Let's get back to the main question.",
+      "Anyway, what did you eat today?",
+      "I have no idea."
+     ],
+     "answer": 1,
+     "explanation_th": "get back to = กลับมาที่ประเด็นเดิม",
+     "why_wrong": [
+      "พาออกนอกเรื่อง",
+      null,
+      "เปลี่ยนเรื่องไปไกล",
+      "ไม่ได้ช่วยดึงกลับเข้าเรื่อง"
+     ]
+    },
+    {
+     "id": "EN102-U6-07",
+     "skill": "EN102-U6",
+     "difficulty": 1,
+     "stem": "At the end of a group discussion, which phrase sums up?",
+     "options": [
+      "First of all,",
+      "Sorry to interrupt,",
+      "What about you?",
+      "So, we all agree that..."
+     ],
+     "answer": 3,
+     "explanation_th": "So, we all agree that... ใช้สรุปสิ่งที่กลุ่มเห็นตรงกัน",
+     "why_wrong": [
+      "ใช้เริ่มประเด็นแรก",
+      "ใช้พูดแทรก",
+      "ใช้ถามความเห็นคนอื่น",
+      null
+     ]
+    },
+    {
+     "id": "EN102-U6-08",
+     "skill": "EN102-U6",
+     "difficulty": 2,
+     "stem": "A: Students should wear uniforms. B: ___, but they can be expensive for some families.",
+     "options": [
+      "That's true",
+      "I totally disagree",
+      "No way",
+      "Never"
+     ],
+     "answer": 0,
+     "explanation_th": "That's true, but... = ยอมรับบางส่วนแล้วแย้ง",
+     "why_wrong": [
+      null,
+      "ไม่เห็นด้วยทั้งหมดแล้วต่อด้วย but ทำให้ความหมายขัดกัน",
+      "ปฏิเสธแรงแล้วต่อด้วย but ทำให้ความหมายขัดกัน",
+      "ไม่เข้ากับการยอมรับส่วนหนึ่งแล้วแย้ง"
+     ]
+    }
+   ],
+   "say": [
+    "That's a good point, but I see it a little differently.",
+    "Sorry to interrupt, but can I add something?"
+   ],
+   "task_th": "ดูคลิปอภิปรายหรือรายการทอล์กภาษาอังกฤษ 5 นาที จดวลีที่ใช้เห็นด้วย ไม่เห็นด้วย หรือพูดแทรกให้ได้ 3 วลี แล้วพูดตามวลีละ 3 รอบ"
+  },
+  {
+   "id": "EN102-U7",
+   "title_th": "การนำเสนอด้วยเทคโนโลยีและความคิดสร้างสรรค์",
+   "title_en": "Presentations with technology and creativity",
+   "covers": "และการนำเสนอ ด้วยเทคโนโลยีและความคิดสร้างสรรค์",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "เปิด",
+     "body_th": "Good morning, everyone. Today I'm going to talk about... / I'm going to cover three points."
+    },
+    {
+     "title_th": "วลีบอกทาง (signposting)",
+     "body_th": "First, let's look at... / Now let's move on to... / As you can see in this chart,... / To sum up,... วลีเหล่านี้บอกผู้ฟังว่าเราอยู่ส่วนไหนของการนำเสนอ"
+    },
+    {
+     "title_th": "สไลด์ที่ดี",
+     "body_th": "1 สไลด์ 1 ไอเดีย คำน้อย ตัวใหญ่ ภาพชัด อย่าอ่านทุกคำจากสไลด์ ให้สไลด์ช่วยเล่า"
+    },
+    {
+     "title_th": "เปิดให้น่าสนใจและปิดให้ดี",
+     "body_th": "เปิดด้วยคำถาม เรื่องสั้น หรือตัวเลขที่น่าแปลกใจ ปิดด้วย To sum up... Thank you for listening. Are there any questions?"
+    }
+   ],
+   "vocab": [
+    [
+     "presentation",
+     "การนำเสนอ"
+    ],
+    [
+     "signposting",
+     "วลีบอกทางในการนำเสนอ"
+    ],
+    [
+     "slide",
+     "สไลด์"
+    ],
+    [
+     "visual",
+     "ภาพประกอบ"
+    ],
+    [
+     "audience",
+     "ผู้ฟัง"
+    ],
+    [
+     "hook",
+     "จุดดึงความสนใจตอนเปิด"
+    ],
+    [
+     "summary",
+     "บทสรุป"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "EN102-U7-01",
+     "skill": "EN102-U7",
+     "difficulty": 1,
+     "stem": "Which sentence is best to open a presentation?",
+     "options": [
+      "OK, finished.",
+      "Good morning, everyone. Today I'm going to talk about online learning.",
+      "Are there any questions?",
+      "To sum up, online learning is useful."
+     ],
+     "answer": 1,
+     "explanation_th": "ทักทายแล้วบอกหัวข้อด้วย Today I'm going to talk about...",
+     "why_wrong": [
+      "ใช้ตอนจบ และไม่สุภาพ",
+      null,
+      "ใช้ตอนจบการนำเสนอ",
+      "To sum up ใช้ตอนสรุป"
+     ]
+    },
+    {
+     "id": "EN102-U7-02",
+     "skill": "EN102-U7",
+     "difficulty": 1,
+     "stem": "Which phrase moves from the first point to the second point?",
+     "options": [
+      "Thank you for listening.",
+      "Let me introduce myself.",
+      "Now let's move on to the second point.",
+      "Are there any questions?"
+     ],
+     "answer": 2,
+     "explanation_th": "move on to = ไปต่อที่ส่วนถัดไป",
+     "why_wrong": [
+      "ใช้ตอนจบ",
+      "ใช้ตอนเปิด",
+      null,
+      "ใช้ตอนจบ"
+     ]
+    },
+    {
+     "id": "EN102-U7-03",
+     "skill": "EN102-U7",
+     "difficulty": 2,
+     "stem": "Which slide design is usually the best?",
+     "options": [
+      "Many long paragraphs in small font",
+      "Ten different colors on every slide",
+      "No title and no pictures, only numbers",
+      "One main idea, a few words and a clear picture"
+     ],
+     "answer": 3,
+     "explanation_th": "สไลด์ที่ดีมี 1 ไอเดีย คำน้อย และภาพที่ช่วยให้เข้าใจ",
+     "why_wrong": [
+      "ผู้ฟังอ่านไม่ทันและไม่ฟังผู้พูด",
+      "รกตาและอ่านยาก",
+      "ผู้ฟังไม่รู้ว่าสไลด์นี้พูดเรื่องอะไร",
+      null
+     ]
+    },
+    {
+     "id": "EN102-U7-04",
+     "skill": "EN102-U7",
+     "difficulty": 1,
+     "stem": "How can you end a presentation politely?",
+     "options": [
+      "That's it. Bye.",
+      "Let's start.",
+      "Thank you for listening. Are there any questions?",
+      "First, I will explain..."
+     ],
+     "answer": 2,
+     "explanation_th": "ขอบคุณผู้ฟังแล้วเปิดให้ถาม",
+     "why_wrong": [
+      "ห้วนเกินไป",
+      "ใช้ตอนเริ่ม",
+      null,
+      "ใช้ตอนเริ่มประเด็นแรก"
+     ]
+    },
+    {
+     "id": "EN102-U7-05",
+     "skill": "EN102-U7",
+     "difficulty": 2,
+     "stem": "Which is a creative hook to start a talk about phone use?",
+     "options": [
+      "Raise your hand if you checked your phone in the last hour.",
+      "My name is Pete and this is my topic.",
+      "This is slide one.",
+      "I didn't prepare much."
+     ],
+     "answer": 0,
+     "explanation_th": "ชวนผู้ฟังมีส่วนร่วมตั้งแต่แรกด้วยคำถามที่เกี่ยวกับตัวเขา",
+     "why_wrong": [
+      null,
+      "เป็นการแนะนำตัวธรรมดา ไม่ได้ดึงความสนใจ",
+      "ไม่ได้ดึงความสนใจผู้ฟัง",
+      "ทำให้ผู้ฟังหมดความเชื่อมั่น"
+     ]
+    },
+    {
+     "id": "EN102-U7-06",
+     "skill": "EN102-U7",
+     "difficulty": 1,
+     "stem": "To sum ___, online learning has three big benefits.",
+     "options": [
+      "on",
+      "in",
+      "over",
+      "up"
+     ],
+     "answer": 3,
+     "explanation_th": "To sum up = สรุปแล้ว",
+     "why_wrong": [
+      "สำนวนนี้ใช้ up เท่านั้น",
+      "To sum in ผิดสำนวน",
+      "To sum over ผิดสำนวน",
+      null
+     ]
+    },
+    {
+     "id": "EN102-U7-07",
+     "skill": "EN102-U7",
+     "difficulty": 1,
+     "stem": "As you ___ see in this chart, sales went up in May.",
+     "options": [
+      "could to",
+      "can",
+      "are",
+      "can to"
+     ],
+     "answer": 1,
+     "explanation_th": "As you can see... ใช้ชี้ให้ผู้ฟังดูภาพหรือกราฟ",
+     "why_wrong": [
+      "หลัง could ไม่มี to",
+      null,
+      "are see ผิดไวยากรณ์",
+      "หลัง can ไม่มี to"
+     ]
+    },
+    {
+     "id": "EN102-U7-08",
+     "skill": "EN102-U7",
+     "difficulty": 2,
+     "stem": "Someone asks a question and you don't know the answer. What do you say?",
+     "options": [
+      "I don't know. Next.",
+      "That's a great question. I'm not sure, but I'll find out for you.",
+      "Your question is wrong.",
+      "Why are you asking me that?"
+     ],
+     "answer": 1,
+     "explanation_th": "ขอบคุณคำถาม ยอมรับว่าไม่แน่ใจ และเสนอจะหาคำตอบให้",
+     "why_wrong": [
+      "ห้วนและปัดคำถาม",
+      null,
+      "ตำหนิผู้ถาม",
+      "ฟังเหมือนไม่พอใจผู้ถาม"
+     ]
+    }
+   ],
+   "say": [
+    "Today I'm going to talk about three easy ways to learn new words.",
+    "Now let's move on to my second point."
+   ],
+   "task_th": "ทำสไลด์ 3 หน้าบนมือถือด้วยแอปอะไรก็ได้ หัวข้อ สิ่งที่ฉันชอบ หน้าละ 1 ไอเดีย แล้วซ้อมพูด 1 นาที ใช้วลีเปิด วลีเปลี่ยนประเด็น และวลีปิด"
+  }
+ ]
+}

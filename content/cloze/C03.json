@@ -1,0 +1,209 @@
+{
+ "id": "C03",
+ "title": "The Lost Wallet",
+ "genre": "เรื่องเล่า",
+ "level": "A2",
+ "text": "Last Monday, something strange happened to me. I (1) home from school when I saw a brown wallet on the ground. I picked it up and looked inside. I (2) some money and an ID card. The card belonged to an old man (3) lived on my street.\nI walked to his house, but nobody answered (4) I knocked. His neighbor told me that he (5) to the hospital that morning. So I went to the hospital (6) bus. When I found him, he was very surprised. He said he (7) for the wallet everywhere all day. He wanted to give me some money, but I said no.\nA week later, the old man came to my school (8) a big box of cakes for (9) class. My teacher told everyone the story, and I felt very (10).",
+ "items": [
+  {
+   "id": "C03-1",
+   "skill": "g.tense-past",
+   "difficulty": 1,
+   "stem": "(1) I ___ home from school when I saw a brown wallet on the ground.",
+   "options": [
+    "walked",
+    "was walking",
+    "am walking",
+    "walk"
+   ],
+   "answer": 1,
+   "explanation_th": "กำลังเดินอยู่แล้วเห็นกระเป๋า (ขัดด้วย when I saw) → was walking",
+   "why_wrong": [
+    "walked when I saw = เดินหลังจากเห็น ลำดับไม่ตรง",
+    null,
+    "am walking เป็นปัจจุบัน",
+    "walk เป็นปัจจุบัน"
+   ]
+  },
+  {
+   "id": "C03-2",
+   "skill": "g.tense-past",
+   "difficulty": 1,
+   "stem": "(2) I ___ some money and an ID card.",
+   "options": [
+    "find",
+    "finding",
+    "have found",
+    "found"
+   ],
+   "answer": 3,
+   "explanation_th": "เรื่องเล่าอดีต เหตุการณ์ต่อเนื่อง → found",
+   "why_wrong": [
+    "find เป็นปัจจุบัน",
+    "finding อยู่ลำพังเป็นกริยาแท้ไม่ได้",
+    "have found ไม่ใช้ในเรื่องเล่าอดีต",
+    null
+   ]
+  },
+  {
+   "id": "C03-3",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(3) The card belonged to an old man ___ lived on my street.",
+   "options": [
+    "who",
+    "which",
+    "where",
+    "what"
+   ],
+   "answer": 0,
+   "explanation_th": "ขยายคน (an old man) และทำหน้าที่ประธานของ lived → who",
+   "why_wrong": [
+    null,
+    "which ใช้กับสิ่งของ",
+    "where ใช้กับสถานที่",
+    "what ไม่ใช้ขยายคำนามข้างหน้า"
+   ]
+  },
+  {
+   "id": "C03-4",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stem": "(4) I walked to his house, but nobody answered ___ I knocked.",
+   "options": [
+    "what",
+    "when",
+    "which",
+    "who"
+   ],
+   "answer": 1,
+   "explanation_th": "ไม่มีใครตอบตอนที่เคาะ → when",
+   "why_wrong": [
+    "what ไม่ใช้เชื่อมเวลา",
+    null,
+    "which ไม่ใช้เชื่อมเวลา",
+    "who ใช้กับคน"
+   ]
+  },
+  {
+   "id": "C03-5",
+   "skill": "g.tense-past",
+   "difficulty": 2,
+   "stem": "(5) His neighbor told me that he ___ to the hospital that morning.",
+   "options": [
+    "has gone",
+    "goes",
+    "had gone",
+    "is going"
+   ],
+   "answer": 2,
+   "explanation_th": "เพื่อนบ้านเล่า (told me that) ว่าเขาไปก่อนแล้วตอนเช้า → had gone",
+   "why_wrong": [
+    "has gone ต้องถอยเป็น had gone ในการเล่าอดีต",
+    "goes เป็นปัจจุบัน",
+    null,
+    "is going เป็นปัจจุบัน"
+   ]
+  },
+  {
+   "id": "C03-6",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(6) So I went to the hospital ___ bus.",
+   "options": [
+    "on",
+    "with",
+    "in",
+    "by"
+   ],
+   "answer": 3,
+   "explanation_th": "วิธีเดินทางแบบไม่มี a/the → by bus",
+   "why_wrong": [
+    "on ต้องมี the (on the bus)",
+    "with bus ไม่ใช้บอกวิธีเดินทาง",
+    "in ต้องมี a/the (in a car)",
+    null
+   ]
+  },
+  {
+   "id": "C03-7",
+   "skill": "g.tense-past",
+   "difficulty": 2,
+   "stem": "(7) He said he ___ for the wallet everywhere all day.",
+   "options": [
+    "had looked",
+    "has looked",
+    "looks",
+    "will look"
+   ],
+   "answer": 0,
+   "explanation_th": "หามาทั้งวันก่อนเราไปถึง และเป็นการเล่าคำพูด (He said) → had looked",
+   "why_wrong": [
+    null,
+    "has looked ต้องถอยเป็น had ในการเล่าอดีต",
+    "looks เป็นปัจจุบัน",
+    "will look เป็นอนาคต"
+   ]
+  },
+  {
+   "id": "C03-8",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(8) A week later, the old man came to my school ___ a big box of cakes for … class.",
+   "options": [
+    "by",
+    "with",
+    "of",
+    "at"
+   ],
+   "answer": 1,
+   "explanation_th": "มาพร้อมกับ (ถือมา) → came with a box",
+   "why_wrong": [
+    "by a box ไม่มีความหมาย",
+    null,
+    "came of ไม่มีความหมาย",
+    "at a box ไม่มีความหมาย"
+   ]
+  },
+  {
+   "id": "C03-9",
+   "skill": "g.pronoun",
+   "difficulty": 1,
+   "stem": "(9) A week later, the old man came to my school … a big box of cakes for ___ class.",
+   "options": [
+    "me",
+    "I",
+    "my",
+    "mine"
+   ],
+   "answer": 2,
+   "explanation_th": "หน้าคำนาม class → my",
+   "why_wrong": [
+    "me เป็นกรรม",
+    "I เป็นประธาน",
+    null,
+    "mine ใช้โดยไม่มีคำนามตาม"
+   ]
+  },
+  {
+   "id": "C03-10",
+   "skill": "g.wordform",
+   "difficulty": 1,
+   "stem": "(10) My teacher told everyone the story, and I felt very ___.",
+   "options": [
+    "pride",
+    "proudly",
+    "prouder",
+    "proud"
+   ],
+   "answer": 3,
+   "explanation_th": "หลัง felt very ต้องเป็น adjective → proud",
+   "why_wrong": [
+    "pride เป็นคำนาม",
+    "proudly เป็น adverb",
+    "very prouder ใช้ไม่ได้ (very ไม่ขยายขั้นกว่า)",
+    null
+   ]
+  }
+ ]
+}

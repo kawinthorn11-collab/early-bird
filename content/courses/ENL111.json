@@ -1,0 +1,1584 @@
+{
+ "code": "ENL111",
+ "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+ "in_class_th": [
+  "น่าจะมีการฟังคลิปหรือไฟล์เสียงในห้อง แล้วตอบคำถามจับใจความและรายละเอียด",
+  "น่าจะมีการสอบพูดแบบบทบาทสมมติ เช่น สั่งอาหาร ถามทาง หรือคุยกับอาจารย์",
+  "น่าจะได้ออกไปพูดเรื่องที่ตัวเองสนใจหน้าห้องสั้น ๆ",
+  "อาจมีการฝึกฟังเสียงเชื่อมคำและคำย่อในภาษาพูด เพราะเป็นจุดที่ทำให้ฟังไม่ทัน"
+ ],
+ "units": [
+  {
+   "id": "ENL111-U1",
+   "title_th": "สั่งอาหารและซื้อของ",
+   "title_en": "Ordering and shopping",
+   "covers": "การพูดเกี่ยวกับสถานการณ์ต่าง ๆ ในชีวิตประจำวัน",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "สั่งอาหาร",
+     "body_th": "Can I get..., please? / I'd like..., please. พนักงานมักถาม For here or to go? (ทานที่นี่หรือกลับบ้าน) และ Anything else?"
+    },
+    {
+     "title_th": "ซื้อของ",
+     "body_th": "How much is this? / Do you have this in a smaller size? / Can I try it on? / I'm just looking, thanks."
+    },
+    {
+     "title_th": "จ่ายเงิน",
+     "body_th": "Can I pay by card? / Here's your change. (เงินทอน) / Can I have a receipt, please? (ใบเสร็จ)"
+    },
+    {
+     "title_th": "please กับ thanks",
+     "body_th": "ใส่ please ท้ายคำขอ และ thanks ตอนได้รับของ ทำให้ประโยคสั้น ๆ ฟังสุภาพทันที"
+    }
+   ],
+   "vocab": [
+    [
+     "order",
+     "สั่ง"
+    ],
+    [
+     "for here or to go",
+     "ทานที่นี่หรือกลับบ้าน"
+    ],
+    [
+     "receipt",
+     "ใบเสร็จ"
+    ],
+    [
+     "change",
+     "เงินทอน"
+    ],
+    [
+     "size",
+     "ขนาด"
+    ],
+    [
+     "try on",
+     "ลองสวม"
+    ],
+    [
+     "discount",
+     "ส่วนลด"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL111-U1-01",
+     "skill": "ENL111-U1",
+     "difficulty": 1,
+     "stem": "Server: Are you ready to order? You: ___",
+     "options": [
+      "Yes, I'd like to ready.",
+      "I'm ready the green curry.",
+      "Yes, I green curry.",
+      "Yes, I'd like the green curry, please."
+     ],
+     "answer": 3,
+     "explanation_th": "I'd like + อาหาร + please ใช้สั่งอาหารอย่างสุภาพ",
+     "why_wrong": [
+      "ready เป็นคุณศัพท์ ใช้หลัง to แบบนี้ไม่ได้ และไม่ได้สั่งอาหาร",
+      "ผิดโครงสร้าง ขาดคำกริยาสั่ง",
+      "ขาดกริยา",
+      null
+     ]
+    },
+    {
+     "id": "ENL111-U1-02",
+     "skill": "ENL111-U1",
+     "difficulty": 1,
+     "stem": "Cashier: For here or to go? You: ___",
+     "options": [
+      "Yes, please.",
+      "To go, please.",
+      "Here is my money.",
+      "I go now."
+     ],
+     "answer": 1,
+     "explanation_th": "เลือกตอบอย่างใดอย่างหนึ่ง To go = เอากลับบ้าน",
+     "why_wrong": [
+      "คำถามให้เลือก 2 อย่าง ตอบ yes ไม่ได้",
+      null,
+      "ยังไม่ได้ตอบคำถาม",
+      "ไม่ได้ตอบว่าจะทานที่ไหน"
+     ]
+    },
+    {
+     "id": "ENL111-U1-03",
+     "skill": "ENL111-U1",
+     "difficulty": 1,
+     "stem": "You want the same T-shirt in a bigger size. You say: ___",
+     "options": [
+      "Is this shirt cheap?",
+      "I want this smaller.",
+      "Do you have this in a large?",
+      "Where is the fitting room?"
+     ],
+     "answer": 2,
+     "explanation_th": "Do you have this in + ขนาด? ใช้ขอขนาดอื่น",
+     "why_wrong": [
+      "ถามราคา ไม่ได้ถามขนาด",
+      "ขอขนาดเล็กลง ตรงข้ามกับที่ต้องการ",
+      null,
+      "ถามห้องลอง ไม่ได้ขอขนาดใหม่"
+     ]
+    },
+    {
+     "id": "ENL111-U1-04",
+     "skill": "ENL111-U1",
+     "difficulty": 1,
+     "stem": "How ___ is this bag?",
+     "options": [
+      "much",
+      "many",
+      "price",
+      "cost"
+     ],
+     "answer": 0,
+     "explanation_th": "How much is...? ใช้ถามราคา",
+     "why_wrong": [
+      null,
+      "ถามราคาใช้ How much ไม่ใช่ How many",
+      "How price ผิดสำนวน",
+      "How cost ผิดโครงสร้าง ต้องเป็น How much does it cost?"
+     ]
+    },
+    {
+     "id": "ENL111-U1-05",
+     "skill": "ENL111-U1",
+     "difficulty": 2,
+     "stem": "The bag costs 250 baht. You pay 300, and the shop assistant gives you 50 baht back. She says, 'Here's your ___.'",
+     "options": [
+      "change",
+      "receipt",
+      "discount",
+      "menu"
+     ],
+     "answer": 0,
+     "explanation_th": "เงินที่ได้คืนหลังจ่ายเกิน = change (เงินทอน)",
+     "why_wrong": [
+      null,
+      "ใบเสร็จเป็นกระดาษ ไม่ใช่เงิน 50 บาท",
+      "ส่วนลดคือการลดราคา ไม่ใช่เงินที่ทอน",
+      "เมนูใช้ในร้านอาหาร"
+     ]
+    },
+    {
+     "id": "ENL111-U1-06",
+     "skill": "ENL111-U1",
+     "difficulty": 1,
+     "stem": "Can I ___ these shoes on?",
+     "options": [
+      "test",
+      "fit",
+      "try",
+      "dress"
+     ],
+     "answer": 2,
+     "explanation_th": "try on = ลองสวม",
+     "why_wrong": [
+      "สำนวนลองสวมคือ try on ไม่ใช่ test on",
+      "fit on ผิดสำนวน",
+      null,
+      "dress on ผิดสำนวน"
+     ]
+    },
+    {
+     "id": "ENL111-U1-07",
+     "skill": "ENL111-U1",
+     "difficulty": 1,
+     "stem": "Server: Anything else? You: (You don't want anything more.) ___",
+     "options": [
+      "Yes, everything.",
+      "No, that's all, thanks.",
+      "Anything.",
+      "Else, please."
+     ],
+     "answer": 1,
+     "explanation_th": "No, that's all = ไม่เอาเพิ่มแล้ว",
+     "why_wrong": [
+      "แปลว่าอยากได้ทุกอย่าง ขัดกับที่ไม่ต้องการเพิ่ม",
+      null,
+      "แปลว่าอะไรก็ได้ ทำให้พนักงานงง",
+      "ผิดสำนวน"
+     ]
+    },
+    {
+     "id": "ENL111-U1-08",
+     "skill": "ENL111-U1",
+     "difficulty": 1,
+     "stem": "You want to pay with a credit card. You ask: ___",
+     "options": [
+      "Can I pay with cash?",
+      "Do you pay card?",
+      "Card is OK me?",
+      "Can I pay by card?"
+     ],
+     "answer": 3,
+     "explanation_th": "pay by card = จ่ายด้วยบัตร",
+     "why_wrong": [
+      "ถามเรื่องเงินสด ไม่ใช่บัตร",
+      "ผิดความหมาย เป็นการถามว่าร้านจ่ายบัตรหรือไม่",
+      "ผิดไวยากรณ์",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "Can I get an iced latte, please?",
+    "Do you have this in a smaller size?"
+   ],
+   "task_th": "เลือกร้านอาหารหรือร้านกาแฟที่ชอบ 1 ร้าน เขียนบทสั่งอาหาร 6 บรรทัด (คุณกับพนักงาน) แล้วอัดเสียงเล่นทั้งสองบทบาท"
+  },
+  {
+   "id": "ENL111-U2",
+   "title_th": "ถามทางและชีวิตในมหาวิทยาลัย",
+   "title_en": "Directions and campus life",
+   "covers": "การพูดเกี่ยวกับสถานการณ์ต่าง ๆ ในชีวิตประจำวัน",
+   "minutes": 12,
+   "interview": [
+    "I45",
+    "I47"
+   ],
+   "cards": [
+    {
+     "title_th": "ถามทาง",
+     "body_th": "Excuse me, how do I get to...? / Is there a ... near here? / Is it far from here?"
+    },
+    {
+     "title_th": "บอกทาง",
+     "body_th": "Go straight. / Turn left / right at... / It's on your left / right. / It's next to / opposite / between..."
+    },
+    {
+     "title_th": "ในมหาวิทยาลัย",
+     "body_th": "Where's the registration office? / Which building is the English class in? / When are your office hours? (office hours = เวลาที่อาจารย์อยู่ห้องให้นักศึกษาเข้าพบ)"
+    },
+    {
+     "title_th": "เมื่อฟังอาจารย์ไม่ทัน",
+     "body_th": "ไปหาหลังเลิกเรียนแล้วถามเจาะจง เช่น Could you explain the last point again, please? ดีกว่าบอกว่าไม่เข้าใจอะไรเลย"
+    }
+   ],
+   "vocab": [
+    [
+     "go straight",
+     "เดินตรงไป"
+    ],
+    [
+     "turn left",
+     "เลี้ยวซ้าย"
+    ],
+    [
+     "opposite",
+     "ตรงข้าม"
+    ],
+    [
+     "next to",
+     "ข้าง ๆ"
+    ],
+    [
+     "between",
+     "ระหว่าง"
+    ],
+    [
+     "building",
+     "อาคาร"
+    ],
+    [
+     "office hours",
+     "เวลาที่อาจารย์ว่างให้เข้าพบ"
+    ],
+    [
+     "registration",
+     "การลงทะเบียน"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL111-U2-01",
+     "skill": "ENL111-U2",
+     "difficulty": 1,
+     "stem": "Excuse me, how do I ___ to the library?",
+     "options": [
+      "get",
+      "arrive",
+      "reach",
+      "find"
+     ],
+     "answer": 0,
+     "explanation_th": "how do I get to + สถานที่ = ไปที่...ยังไง",
+     "why_wrong": [
+      null,
+      "arrive ใช้กับ at หรือ in ไม่ใช้กับ to",
+      "reach ตามด้วยสถานที่ทันที ไม่มี to",
+      "find to ผิดสำนวน"
+     ]
+    },
+    {
+     "id": "ENL111-U2-02",
+     "skill": "ENL111-U2",
+     "difficulty": 1,
+     "stem": "The bank is ___ the café and the bookstore.",
+     "options": [
+      "opposite",
+      "between",
+      "next",
+      "among"
+     ],
+     "answer": 1,
+     "explanation_th": "between A and B = อยู่ระหว่าง A กับ B",
+     "why_wrong": [
+      "opposite ใช้กับสถานที่เดียว ไม่ใช้กับ A and B",
+      null,
+      "ต้องเป็น next to และใช้กับสถานที่เดียว",
+      "among ใช้กับกลุ่มที่มากกว่าสอง และไม่ใช้ระบุตำแหน่งระหว่างสองอาคาร"
+     ]
+    },
+    {
+     "id": "ENL111-U2-03",
+     "skill": "ENL111-U2",
+     "difficulty": 1,
+     "stem": "Go straight and ___ left at the traffic lights.",
+     "options": [
+      "return",
+      "change",
+      "turn",
+      "move"
+     ],
+     "answer": 2,
+     "explanation_th": "turn left = เลี้ยวซ้าย",
+     "why_wrong": [
+      "return แปลว่ากลับมา",
+      "change left ผิดสำนวน",
+      null,
+      "move left ไม่ใช่สำนวนบอกทาง"
+     ]
+    },
+    {
+     "id": "ENL111-U2-04",
+     "skill": "ENL111-U2",
+     "difficulty": 2,
+     "stem": "A: Where's the cafeteria? B: Go out of this building. It's on your right, opposite the gym. Where is the cafeteria?",
+     "options": [
+      "Next to the gym",
+      "Inside this building",
+      "Behind the gym",
+      "Across from the gym"
+     ],
+     "answer": 3,
+     "explanation_th": "opposite = across from = ตรงข้าม",
+     "why_wrong": [
+      "opposite แปลว่าตรงข้าม ไม่ใช่ข้าง ๆ",
+      "ต้องออกจากอาคารนี้ก่อน",
+      "ไม่ได้บอกว่าอยู่ด้านหลัง",
+      null
+     ]
+    },
+    {
+     "id": "ENL111-U2-05",
+     "skill": "ENL111-U2",
+     "difficulty": 2,
+     "stem": "Your teacher speaks fast and you missed one part. What is the best thing to say after class?",
+     "options": [
+      "You speak too fast!",
+      "I don't understand anything.",
+      "Excuse me, could you explain the last point again, please?",
+      "Bye, see you next week."
+     ],
+     "answer": 2,
+     "explanation_th": "ถามเจาะจงและสุภาพ อาจารย์ตอบได้ตรงจุด",
+     "why_wrong": [
+      "ตำหนิอาจารย์ ไม่สุภาพ",
+      "ไม่บอกว่าไม่เข้าใจตรงไหน อาจารย์ช่วยได้ยาก",
+      null,
+      "ไม่ได้แก้ปัญหา"
+     ]
+    },
+    {
+     "id": "ENL111-U2-06",
+     "skill": "ENL111-U2",
+     "difficulty": 1,
+     "stem": "A foreign student looks lost on campus. What is a good first thing to say?",
+     "options": [
+      "Hi, can I help you? Where are you going?",
+      "You're lost, right? Haha.",
+      "Go to the office.",
+      "Sorry, I can't speak English."
+     ],
+     "answer": 0,
+     "explanation_th": "เสนอความช่วยเหลือแล้วถามจุดหมาย",
+     "why_wrong": [
+      null,
+      "หัวเราะเยาะทำให้อีกฝ่ายอาย",
+      "สั่งโดยไม่ถามว่าเขาต้องการอะไร",
+      "ปิดโอกาสช่วยเหลือ ทั้งที่พูดได้"
+     ]
+    },
+    {
+     "id": "ENL111-U2-07",
+     "skill": "ENL111-U2",
+     "difficulty": 2,
+     "stem": "At a university, 'office hours' are ___.",
+     "options": [
+      "the time the university office closes",
+      "the time students must be in class",
+      "hours students work in an office",
+      "times when a teacher is in the office to meet students"
+     ],
+     "answer": 3,
+     "explanation_th": "office hours = ช่วงเวลาที่อาจารย์อยู่ห้องให้นักศึกษาเข้าพบได้",
+     "why_wrong": [
+      "ไม่ใช่เวลาปิดสำนักงาน",
+      "ไม่ใช่เวลาเรียน",
+      "ไม่ใช่เวลาทำงานของนักศึกษา",
+      null
+     ]
+    },
+    {
+     "id": "ENL111-U2-08",
+     "skill": "ENL111-U2",
+     "difficulty": 1,
+     "stem": "Is there an ATM ___ here?",
+     "options": [
+      "close",
+      "near",
+      "around of",
+      "next"
+     ],
+     "answer": 1,
+     "explanation_th": "near here = แถวนี้",
+     "why_wrong": [
+      "ต้องเป็น close to here",
+      null,
+      "ผิดสำนวน",
+      "ต้องเป็น next to และไม่ใช้กับ here"
+     ]
+    }
+   ],
+   "say": [
+    "Excuse me, how do I get to the main library?",
+    "It's on your left, next to the cafeteria.",
+    "Could you repeat that, please?"
+   ],
+   "task_th": "วาดแผนที่ง่าย ๆ จากหน้าบ้านไปร้านสะดวกซื้อที่ใกล้ที่สุด แล้วอัดเสียงบอกทางเป็นภาษาอังกฤษ 30 วินาที ใช้ go straight, turn left / right และ it's on your left / right"
+  },
+  {
+   "id": "ENL111-U3",
+   "title_th": "พูดเรื่องที่น่าสนใจ",
+   "title_en": "Talking about topics of interest",
+   "covers": "และประเด็นที่น่าสนใจ",
+   "minutes": 12,
+   "interview": [
+    "I56",
+    "I57",
+    "I59"
+   ],
+   "cards": [
+    {
+     "title_th": "พูด 1 นาทีให้มีโครง",
+     "body_th": "บอกหัวข้อ → รายละเอียด 2 อย่าง → ทำไมชอบ → ชวนหรือแนะนำคนฟัง",
+     "example": "Today I want to tell you about my favorite game..."
+    },
+    {
+     "title_th": "รายละเอียดดีกว่าคำชม",
+     "body_th": "The book is great. บอกแค่ความรู้สึก แต่ The book is about a girl who travels alone. ทำให้คนฟังเห็นภาพ"
+    },
+    {
+     "title_th": "แนะนำ",
+     "body_th": "You should try it. / It's worth watching. / I really recommend it."
+    },
+    {
+     "title_th": "ฟังเรื่องของคนอื่นแล้วถามต่อ",
+     "body_th": "แสดงความสนใจ แล้วถามคำถามต่อยอด 1 คำถาม",
+     "example": "Oh nice! How long have you been doing that?"
+    }
+   ],
+   "vocab": [
+    [
+     "topic",
+     "หัวข้อ"
+    ],
+    [
+     "recommend",
+     "แนะนำ"
+    ],
+    [
+     "review",
+     "รีวิว บทวิจารณ์"
+    ],
+    [
+     "trend",
+     "กระแส"
+    ],
+    [
+     "plot",
+     "เนื้อเรื่อง"
+    ],
+    [
+     "worth",
+     "คุ้มค่า"
+    ],
+    [
+     "detail",
+     "รายละเอียด"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL111-U3-01",
+     "skill": "ENL111-U3",
+     "difficulty": 1,
+     "stem": "You should ___ this series. It's amazing.",
+     "options": [
+      "to watch",
+      "watch",
+      "watching",
+      "watched"
+     ],
+     "answer": 1,
+     "explanation_th": "should + V ใช้แนะนำ",
+     "why_wrong": [
+      "หลัง should ไม่มี to",
+      null,
+      "หลัง should ใช้กริยาช่อง 1",
+      "หลัง should ใช้กริยาช่อง 1"
+     ]
+    },
+    {
+     "id": "ENL111-U3-02",
+     "skill": "ENL111-U3",
+     "difficulty": 2,
+     "stem": "Have you seen this movie? It's worth ___.",
+     "options": [
+      "to watch",
+      "watch",
+      "watched",
+      "watching"
+     ],
+     "answer": 3,
+     "explanation_th": "be worth + V-ing = คุ้มค่าที่จะ...",
+     "why_wrong": [
+      "be worth ตามด้วย V-ing",
+      "หลัง worth ใช้กริยาช่อง 1 ไม่ได้",
+      "หลัง worth ใช้กริยาช่อง 2 ไม่ได้",
+      null
+     ]
+    },
+    {
+     "id": "ENL111-U3-03",
+     "skill": "ENL111-U3",
+     "difficulty": 1,
+     "stem": "A: I've been really into running lately. B: ___",
+     "options": [
+      "Oh nice! How far do you usually run?",
+      "I don't run.",
+      "Running is a sport.",
+      "Lately is a word."
+     ],
+     "answer": 0,
+     "explanation_th": "แสดงความสนใจแล้วถามต่อยอด",
+     "why_wrong": [
+      null,
+      "พูดถึงตัวเองแล้วปิดบทสนทนา",
+      "บอกสิ่งที่ทุกคนรู้ ไม่ได้ต่อบทสนทนา",
+      "ไม่เกี่ยวกับเรื่องที่คุย"
+     ]
+    },
+    {
+     "id": "ENL111-U3-04",
+     "skill": "ENL111-U3",
+     "difficulty": 1,
+     "stem": "Which is a good way to start a short talk about your interest?",
+     "options": [
+      "Um, I don't know.",
+      "Game.",
+      "Today I want to tell you about my favorite game and why I love it.",
+      "You know it, right?"
+     ],
+     "answer": 2,
+     "explanation_th": "บอกหัวข้อและสิ่งที่จะพูดถึงตั้งแต่ประโยคแรก",
+     "why_wrong": [
+      "ไม่ได้บอกหัวข้อ",
+      "คำเดียว คนฟังไม่รู้ว่าจะพูดอะไร",
+      null,
+      "ไม่ได้บอกหัวข้อ"
+     ]
+    },
+    {
+     "id": "ENL111-U3-05",
+     "skill": "ENL111-U3",
+     "difficulty": 2,
+     "stem": "The movie's ___ was exciting, but the ending was weak.",
+     "options": [
+      "plant",
+      "pilot",
+      "price",
+      "plot"
+     ],
+     "answer": 3,
+     "explanation_th": "plot = เนื้อเรื่อง",
+     "why_wrong": [
+      "plant แปลว่าพืช",
+      "pilot แปลว่านักบิน หรือตอนนำร่องของซีรีส์ ไม่เข้ากับหนังเรื่องเดียว",
+      "ราคาไม่ได้ตื่นเต้น และไม่เข้ากับตอนจบ",
+      null
+     ]
+    },
+    {
+     "id": "ENL111-U3-06",
+     "skill": "ENL111-U3",
+     "difficulty": 1,
+     "stem": "A: What kind of music are you into? B: ___",
+     "options": [
+      "Yes, I am into.",
+      "I'm into the room.",
+      "Mostly pop, but I also like jazz.",
+      "Music is good for me yesterday."
+     ],
+     "answer": 2,
+     "explanation_th": "ตอบแนวเพลงที่ชอบ",
+     "why_wrong": [
+      "คำถามไม่ใช่ yes / no และ into ต้องมีกรรม",
+      "ตีความ into เป็นทิศทาง",
+      null,
+      "ใช้ tense ผิดและไม่ได้ตอบแนวเพลง"
+     ]
+    },
+    {
+     "id": "ENL111-U3-07",
+     "skill": "ENL111-U3",
+     "difficulty": 2,
+     "stem": "Which sentence gives a detail, not just a feeling?",
+     "options": [
+      "The book is great.",
+      "The book is about a girl who travels alone across Japan.",
+      "I really like it.",
+      "It's so good."
+     ],
+     "answer": 1,
+     "explanation_th": "บอกว่าหนังสือเกี่ยวกับอะไร จึงเป็นรายละเอียด",
+     "why_wrong": [
+      "บอกแค่ความรู้สึก",
+      null,
+      "บอกแค่ความรู้สึก",
+      "บอกแค่ความรู้สึก"
+     ]
+    },
+    {
+     "id": "ENL111-U3-08",
+     "skill": "ENL111-U3",
+     "difficulty": 1,
+     "stem": "A: What do you do when you feel stressed? B: ___",
+     "options": [
+      "I usually listen to music or go for a walk.",
+      "I am stressed yesterday.",
+      "Stress is bad.",
+      "Yes, I do."
+     ],
+     "answer": 0,
+     "explanation_th": "ตอบสิ่งที่ทำเป็นประจำด้วย present simple",
+     "why_wrong": [
+      null,
+      "ใช้ am กับ yesterday ผิด tense และไม่ได้ตอบคำถาม",
+      "ไม่ได้บอกว่าทำอะไร",
+      "คำถามไม่ใช่ yes / no"
+     ]
+    }
+   ],
+   "say": [
+    "Let me tell you about a show I really love.",
+    "You should try it. It's worth it."
+   ],
+   "task_th": "เลือกเรื่องที่สนใจ 1 เรื่อง (เกม เพลง ซีรีส์ กีฬา) อัดเสียงพูด 1 นาที: บอกหัวข้อ → รายละเอียด 2 อย่าง → ทำไมชอบ → แนะนำคนฟัง"
+  },
+  {
+   "id": "ENL111-U4",
+   "title_th": "ฟังจับใจความกับฟังรายละเอียด",
+   "title_en": "Listening for gist and detail",
+   "covers": "การฟังเพื่อจับประเด็นหลัก",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "Gist กับ detail",
+     "body_th": "gist คือภาพรวม (ใคร ที่ไหน เรื่องอะไร) detail คือข้อมูลเฉพาะ (ตัวเลข เวลา ชื่อ) ฟังรอบแรกเอา gist รอบสองเก็บ detail"
+    },
+    {
+     "title_th": "ไม่ต้องรู้ทุกคำ",
+     "body_th": "เจอคำที่ไม่รู้ให้ฟังต่อและเดาจากบริบท ถ้าหยุดคิดจะพลาดประโยคถัดไป"
+    },
+    {
+     "title_th": "เดาก่อนฟัง",
+     "body_th": "ดูหัวข้อหรือภาพก่อน แล้วนึกคำที่น่าจะได้ยิน สมองจะจับคำนั้นได้ง่ายขึ้น"
+    },
+    {
+     "title_th": "คำสำคัญถูกเน้นเสียง",
+     "body_th": "คำเนื้อหา (content words) เช่น คำนาม กริยาหลัก ตัวเลข มักออกเสียงดังและยาวกว่า ส่วน a, the, of, to มักเบาและสั้น"
+    }
+   ],
+   "vocab": [
+    [
+     "main idea",
+     "ใจความหลัก"
+    ],
+    [
+     "gist",
+     "ใจความโดยรวม"
+    ],
+    [
+     "specific detail",
+     "รายละเอียดเฉพาะ"
+    ],
+    [
+     "predict",
+     "คาดเดาล่วงหน้า"
+    ],
+    [
+     "key word",
+     "คำสำคัญ"
+    ],
+    [
+     "stress",
+     "การเน้นเสียง"
+    ],
+    [
+     "context",
+     "บริบท"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL111-U4-01",
+     "skill": "ENL111-U4",
+     "difficulty": 1,
+     "stem": "'Listening for gist' means ___.",
+     "options": [
+      "catching every single word",
+      "understanding the general idea",
+      "writing down all the numbers",
+      "translating each sentence into Thai"
+     ],
+     "answer": 1,
+     "explanation_th": "gist = ใจความโดยรวม",
+     "why_wrong": [
+      "นั่นคือการฟังทุกคำ ไม่ใช่ gist",
+      null,
+      "ตัวเลขเป็นรายละเอียด ไม่ใช่ภาพรวม",
+      "การแปลทีละประโยคไม่ใช่การจับภาพรวม"
+     ]
+    },
+    {
+     "id": "ENL111-U4-02",
+     "skill": "ENL111-U4",
+     "difficulty": 2,
+     "stem": "You hear: 'Hi everyone. Just a reminder that tomorrow's class is moved from Room 204 to Room 310 because the air conditioner is being repaired. Same time, nine o'clock.' What is the main idea?",
+     "options": [
+      "Tomorrow's class is in a different room.",
+      "The class time has changed.",
+      "The air conditioner is new.",
+      "Tomorrow's class is cancelled."
+     ],
+     "answer": 0,
+     "explanation_th": "ประกาศนี้บอกเรื่องย้ายห้องเป็นหลัก",
+     "why_wrong": [
+      null,
+      "ผู้พูดบอกว่าเวลาเหมือนเดิม",
+      "แอร์กำลังซ่อม ไม่ได้บอกว่าใหม่",
+      "ยังมีเรียน แค่ย้ายห้อง"
+     ]
+    },
+    {
+     "id": "ENL111-U4-03",
+     "skill": "ENL111-U4",
+     "difficulty": 1,
+     "stem": "You hear: 'Tomorrow's class is moved from Room 204 to Room 310. Same time, nine o'clock.' Which room should students go to?",
+     "options": [
+      "Room 204",
+      "Room 209",
+      "Room 9",
+      "Room 310"
+     ],
+     "answer": 3,
+     "explanation_th": "moved from 204 to 310 ห้องใหม่คือ 310",
+     "why_wrong": [
+      "เป็นห้องเดิมที่ย้ายออก",
+      "ไม่มีห้องนี้ในประกาศ",
+      "nine คือเวลา ไม่ใช่ห้อง",
+      null
+     ]
+    },
+    {
+     "id": "ENL111-U4-04",
+     "skill": "ENL111-U4",
+     "difficulty": 1,
+     "stem": "When you hear an unknown word during a listening task, you should usually ___.",
+     "options": [
+      "stop and look it up immediately",
+      "stop listening",
+      "keep listening and guess from the context",
+      "write the word in Thai first"
+     ],
+     "answer": 2,
+     "explanation_th": "ฟังต่อและเดาจากบริบทช่วยให้ยังได้ใจความ",
+     "why_wrong": [
+      "จะพลาดส่วนที่ตามมา",
+      "จะพลาดทั้งเรื่อง",
+      null,
+      "ยังไม่รู้ความหมาย และเสียเวลาจนพลาดส่วนถัดไป"
+     ]
+    },
+    {
+     "id": "ENL111-U4-05",
+     "skill": "ENL111-U4",
+     "difficulty": 2,
+     "stem": "Which words are usually stressed and easier to hear?",
+     "options": [
+      "articles, like 'a' and 'the'",
+      "prepositions, like 'of' and 'to'",
+      "content words, like nouns and main verbs",
+      "auxiliaries, like 'do' and 'can'"
+     ],
+     "answer": 2,
+     "explanation_th": "คำที่มีเนื้อหาถูกเน้นเสียง จึงเป็นคำสำคัญที่ควรจับ",
+     "why_wrong": [
+      "article มักออกเสียงเบา",
+      "บุพบทสั้น ๆ มักออกเสียงเบา",
+      null,
+      "กริยาช่วยในประโยคบอกเล่ามักออกเสียงเบา"
+     ]
+    },
+    {
+     "id": "ENL111-U4-06",
+     "skill": "ENL111-U4",
+     "difficulty": 2,
+     "stem": "A: Did you enjoy the trip? B: The hotel was nice, but it rained every day, so we stayed inside most of the time. How did B feel about the trip?",
+     "options": [
+      "It was perfect.",
+      "B didn't go on the trip.",
+      "The hotel was terrible.",
+      "It was a bit disappointing."
+     ],
+     "answer": 3,
+     "explanation_th": "มีข้อดีคือโรงแรม แต่ฝนทำให้เที่ยวไม่ได้ จึงค่อนข้างผิดหวัง",
+     "why_wrong": [
+      "ฝนตกทุกวันจนต้องอยู่ในห้อง จึงไม่สมบูรณ์แบบ",
+      "B เล่าว่าพักโรงแรมและอยู่ในห้อง แสดงว่าไปจริง",
+      "B บอกว่าโรงแรมดี",
+      null
+     ]
+    },
+    {
+     "id": "ENL111-U4-07",
+     "skill": "ENL111-U4",
+     "difficulty": 1,
+     "stem": "Before you listen to a talk called 'Saving money as a student', what is a good strategy?",
+     "options": [
+      "Think of words you might hear, like 'budget' and 'spend'.",
+      "Close your eyes and think about something else.",
+      "Write the whole talk first.",
+      "Ignore the title."
+     ],
+     "answer": 0,
+     "explanation_th": "เดาคำที่น่าจะได้ยินจากหัวข้อ ช่วยให้จับคำได้เร็วขึ้น",
+     "why_wrong": [
+      null,
+      "ไม่ได้เตรียมสมองให้พร้อมฟัง",
+      "ทำไม่ได้และเสียเวลา",
+      "ชื่อเรื่องช่วยเดาเนื้อหา ไม่ควรมองข้าม"
+     ]
+    },
+    {
+     "id": "ENL111-U4-08",
+     "skill": "ENL111-U4",
+     "difficulty": 2,
+     "stem": "You hear: 'This is Dr. Anan's office. Your appointment is on Thursday the 14th at 2:30. Please arrive ten minutes early.' What time should you arrive?",
+     "options": [
+      "2:30",
+      "2:20",
+      "2:40",
+      "2:14"
+     ],
+     "answer": 1,
+     "explanation_th": "2:30 ลบ 10 นาที = 2:20",
+     "why_wrong": [
+      "เป็นเวลานัด แต่ต้องมาก่อน 10 นาที",
+      null,
+      "เป็นการมาสาย 10 นาที",
+      "14 เป็นวันที่ ไม่ใช่นาที"
+     ]
+    }
+   ],
+   "say": [
+    "First, I listen for the main idea. Then, I listen for details.",
+    "I didn't catch every word, but I got the main point."
+   ],
+   "task_th": "ฟังคลิปข่าวหรือพอดแคสต์ภาษาอังกฤษสั้น 1 คลิป (ไม่เกิน 2 นาที) รอบแรกเขียนใจความหลัก 1 ประโยค รอบสองเขียนคำสำคัญ 3 คำ แล้วเช็กกับซับไตเติล"
+  },
+  {
+   "id": "ENL111-U5",
+   "title_th": "เสียงเชื่อมและคำย่อในภาษาพูด",
+   "title_en": "Connected speech",
+   "covers": "การฟังเพื่อจับประเด็นหลัก",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "คำที่กร่อนเสียง",
+     "body_th": "going to → gonna / want to → wanna / have got to → gotta / kind of → kinda ได้ยินบ่อยในหนังและบทสนทนา แต่ไม่ใช้ในงานเขียนทางการ"
+    },
+    {
+     "title_th": "เสียงเบา (weak forms)",
+     "body_th": "คำเล็ก ๆ ที่ไม่ถูกเน้นออกเสียงสั้นเป็น 'เออะ' เช่น to → tə, of → əv, and → 'n, can → kən",
+     "example": "a cup of tea → a cup-ə-tea"
+    },
+    {
+     "title_th": "เสียงเชื่อม (linking)",
+     "body_th": "คำที่ลงท้ายด้วยพยัญชนะตามด้วยคำที่ขึ้นต้นด้วยสระ จะเชื่อมกันเป็นเสียงเดียว",
+     "example": "pick it up → pi-ki-tup / turn off → tur-noff"
+    },
+    {
+     "title_th": "can กับ can't",
+     "body_th": "ในประโยคบอกเล่า can มักเบา (kən) ส่วน can't มักถูกเน้นและเสียงยาวกว่า ฟังที่ความหนักของเสียง"
+    }
+   ],
+   "vocab": [
+    [
+     "connected speech",
+     "การออกเสียงต่อเนื่องในภาษาพูด"
+    ],
+    [
+     "reduction",
+     "การกร่อนเสียง"
+    ],
+    [
+     "weak form",
+     "รูปเสียงเบา"
+    ],
+    [
+     "linking",
+     "การเชื่อมเสียง"
+    ],
+    [
+     "contraction",
+     "คำย่อ"
+    ],
+    [
+     "formal writing",
+     "งานเขียนทางการ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL111-U5-01",
+     "skill": "ENL111-U5",
+     "difficulty": 1,
+     "stem": "'I'm gonna call you later.' What does 'gonna' mean?",
+     "options": [
+      "want to",
+      "got to",
+      "have to",
+      "going to"
+     ],
+     "answer": 3,
+     "explanation_th": "gonna = going to",
+     "why_wrong": [
+      "want to ย่อเป็น wanna",
+      "got to ย่อเป็น gotta",
+      "have to ไม่ได้ย่อเป็น gonna",
+      null
+     ]
+    },
+    {
+     "id": "ENL111-U5-02",
+     "skill": "ENL111-U5",
+     "difficulty": 1,
+     "stem": "'I wanna go home.' What does 'wanna' mean?",
+     "options": [
+      "going to",
+      "want to",
+      "have to",
+      "was going to"
+     ],
+     "answer": 1,
+     "explanation_th": "wanna = want to",
+     "why_wrong": [
+      "going to ย่อเป็น gonna",
+      null,
+      "have to มักฟังเป็น hafta",
+      "ไม่ใช่รูปของ wanna"
+     ]
+    },
+    {
+     "id": "ENL111-U5-03",
+     "skill": "ENL111-U5",
+     "difficulty": 1,
+     "stem": "'Sorry, I gotta go.' What does it mean?",
+     "options": [
+      "I want to go.",
+      "I went there.",
+      "I have to go.",
+      "I am going there tomorrow."
+     ],
+     "answer": 2,
+     "explanation_th": "gotta = have got to = ต้อง",
+     "why_wrong": [
+      "want to ย่อเป็น wanna",
+      "gotta ไม่ใช่อดีต",
+      null,
+      "gotta บอกความจำเป็นตอนนี้ ไม่ใช่แผนพรุ่งนี้"
+     ]
+    },
+    {
+     "id": "ENL111-U5-04",
+     "skill": "ENL111-U5",
+     "difficulty": 2,
+     "stem": "You hear 'Whaddaya want for lunch?' What did the speaker say?",
+     "options": [
+      "What do you want for lunch?",
+      "Why do you want lunch?",
+      "Where do you want lunch?",
+      "What day you want lunch?"
+     ],
+     "answer": 0,
+     "explanation_th": "whaddaya = what do you พูดเร็ว",
+     "why_wrong": [
+      null,
+      "why ออกเสียงต่างจาก what",
+      "where ออกเสียงต่างจาก what และประโยคต้องเป็น want to have lunch",
+      "ผิดไวยากรณ์ และ whadda ไม่ใช่ what day"
+     ]
+    },
+    {
+     "id": "ENL111-U5-05",
+     "skill": "ENL111-U5",
+     "difficulty": 2,
+     "stem": "In fast speech, 'pick it up' often sounds like ___.",
+     "options": [
+      "pi-ki-tup",
+      "pick / it / up, with clear pauses",
+      "pick-up-it",
+      "pi-tup"
+     ],
+     "answer": 0,
+     "explanation_th": "k เชื่อมกับ it และ t เชื่อมกับ up กลายเป็น pi-ki-tup",
+     "why_wrong": [
+      null,
+      "พูดเร็วไม่เว้นระหว่างคำ",
+      "สลับลำดับคำ",
+      "เสียง k และ i หายไปไม่ได้"
+     ]
+    },
+    {
+     "id": "ENL111-U5-06",
+     "skill": "ENL111-U5",
+     "difficulty": 2,
+     "stem": "In 'a cup of tea', the word 'of' usually sounds like ___.",
+     "options": [
+      "a strong 'off'",
+      "a long 'oh'",
+      "a short weak 'uh' sound",
+      "the loudest word in the phrase"
+     ],
+     "answer": 2,
+     "explanation_th": "of เป็นคำเล็กที่ไม่ถูกเน้น ออกเสียงสั้นเป็น əv หรือ ə",
+     "why_wrong": [
+      "of ไม่ถูกเน้น จึงไม่ออกเสียงเต็ม",
+      "of ไม่ได้ออกเสียงยาว",
+      null,
+      "คำที่ดังที่สุดคือ cup กับ tea"
+     ]
+    },
+    {
+     "id": "ENL111-U5-07",
+     "skill": "ENL111-U5",
+     "difficulty": 1,
+     "stem": "Which sentence is fine for a formal email?",
+     "options": [
+      "I'm gonna submit the report tomorrow.",
+      "I am going to submit the report tomorrow.",
+      "I wanna submit the report tomorrow.",
+      "I gotta submit the report tomorrow."
+     ],
+     "answer": 1,
+     "explanation_th": "งานเขียนทางการใช้รูปเต็ม going to",
+     "why_wrong": [
+      "gonna เป็นภาษาพูด ไม่ใช้ในงานเขียนทางการ",
+      null,
+      "wanna เป็นภาษาพูด",
+      "gotta เป็นภาษาพูด"
+     ]
+    },
+    {
+     "id": "ENL111-U5-08",
+     "skill": "ENL111-U5",
+     "difficulty": 2,
+     "stem": "In natural speech, 'can' in 'I can swim' is usually ___, and 'can't' in 'I can't swim' is usually ___.",
+     "options": [
+      "stressed / weak",
+      "silent / silent",
+      "stressed / silent",
+      "weak / stressed"
+     ],
+     "answer": 3,
+     "explanation_th": "can ออกเสียงเบา kən ส่วน can't ถูกเน้นเพื่อให้รู้ว่าปฏิเสธ",
+     "why_wrong": [
+      "กลับกัน can มักเบา ส่วน can't มักเน้น",
+      "ทั้งสองคำยังมีเสียง",
+      "can't ไม่เงียบ และ can มักไม่เน้น",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "I'm gonna try my best.",
+    "What do you wanna do this weekend?"
+   ],
+   "task_th": "ดูซีรีส์หรือ vlog ภาษาอังกฤษพร้อมซับ 3 นาที หาคำว่า gonna, wanna, gotta หรือจุดที่เสียงเชื่อมกันให้ได้ 3 ที่ จดเวลาไว้ แล้วพูดตามแบบเร็ว 3 รอบ"
+  },
+  {
+   "id": "ENL111-U6",
+   "title_th": "วิเคราะห์สิ่งที่ได้ยิน",
+   "title_en": "Analyzing what you hear",
+   "covers": "วิเคราะห์ข้อมูล",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "ผู้พูดต้องการอะไร",
+     "body_th": "ถามตัวเองว่าผู้พูดกำลังให้ข้อมูล ชักชวน ชวน หรือบ่น จุดประสงค์ (purpose) ช่วยให้เข้าใจทั้งเรื่อง"
+    },
+    {
+     "title_th": "ทัศนคติจากน้ำเสียงและคำ",
+     "body_th": "I guess it's OK. แปลว่าไม่ค่อยประทับใจ / I absolutely loved it! แปลว่าชอบมาก ฟังทั้งคำและน้ำเสียง"
+    },
+    {
+     "title_th": "ความหมายที่ไม่ได้พูดตรง ๆ",
+     "body_th": "คนมักไม่ปฏิเสธตรง ๆ เช่น ถูกชวนไปงานแล้วตอบว่า I have an exam the next morning. แปลว่าน่าจะไม่ไป"
+    },
+    {
+     "title_th": "คำสัญญาณ",
+     "body_th": "but, however, actually มักนำข้อมูลสำคัญ ฟังสิ่งที่ตามหลังให้ดี"
+    }
+   ],
+   "vocab": [
+    [
+     "analyze",
+     "วิเคราะห์"
+    ],
+    [
+     "purpose",
+     "จุดประสงค์"
+    ],
+    [
+     "attitude",
+     "ทัศนคติ"
+    ],
+    [
+     "tone",
+     "น้ำเสียง"
+    ],
+    [
+     "infer",
+     "อนุมาน สรุปจากสิ่งที่ได้ยิน"
+    ],
+    [
+     "imply",
+     "บอกเป็นนัย"
+    ],
+    [
+     "signal word",
+     "คำสัญญาณ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL111-U6-01",
+     "skill": "ENL111-U6",
+     "difficulty": 2,
+     "stem": "A: How was the new restaurant? B: Well, the food was OK, I guess. But it was really expensive. What is B's attitude?",
+     "options": [
+      "B was not very impressed.",
+      "B was very excited.",
+      "B was angry at A.",
+      "B didn't eat there."
+     ],
+     "answer": 0,
+     "explanation_th": "อาหารแค่พอใช้และแพง จึงไม่ค่อยประทับใจ",
+     "why_wrong": [
+      null,
+      "OK, I guess กับ really expensive ไม่ใช่น้ำเสียงตื่นเต้น",
+      "B ไม่ได้ไม่พอใจ A",
+      "B พูดถึงรสอาหาร แสดงว่าได้กิน"
+     ]
+    },
+    {
+     "id": "ENL111-U6-02",
+     "skill": "ENL111-U6",
+     "difficulty": 1,
+     "stem": "You hear: 'Don't miss our weekend sale! Everything is 30% off, only until Sunday!' What is the purpose?",
+     "options": [
+      "to apologize to customers",
+      "to persuade people to buy",
+      "to give directions",
+      "to complain about prices"
+     ],
+     "answer": 1,
+     "explanation_th": "Don't miss... + ลดราคา + ระยะเวลาจำกัด เป็นการชักชวนให้ซื้อ",
+     "why_wrong": [
+      "ไม่มีการขอโทษ",
+      null,
+      "ไม่ได้บอกทาง",
+      "เป็นการลดราคา ไม่ใช่การบ่น"
+     ]
+    },
+    {
+     "id": "ENL111-U6-03",
+     "skill": "ENL111-U6",
+     "difficulty": 2,
+     "stem": "A: Are you coming to the party tonight? B: I have an exam at 8 a.m. tomorrow. What does B mean?",
+     "options": [
+      "B will definitely come.",
+      "B loves exams.",
+      "B probably won't come.",
+      "The party is tomorrow morning."
+     ],
+     "answer": 2,
+     "explanation_th": "B ปฏิเสธอ้อม ๆ ด้วยการให้เหตุผล",
+     "why_wrong": [
+      "การมีสอบเช้าเป็นเหตุผลที่จะไม่ไป",
+      "ไม่มีข้อมูลนี้",
+      null,
+      "ปาร์ตี้คืนนี้ สอบพรุ่งนี้เช้า"
+     ]
+    },
+    {
+     "id": "ENL111-U6-04",
+     "skill": "ENL111-U6",
+     "difficulty": 1,
+     "stem": "When a speaker says 'however' or 'but', you should listen carefully because ___.",
+     "options": [
+      "the talk is finished",
+      "the speaker is asking a question",
+      "the speaker is repeating the same point",
+      "the important idea often comes next"
+     ],
+     "answer": 3,
+     "explanation_th": "คำบอกความขัดแย้งมักนำประเด็นสำคัญ",
+     "why_wrong": [
+      "คำเหล่านี้ไม่ได้บอกว่าจบ",
+      "คำเหล่านี้ไม่ได้นำคำถาม",
+      "คำเหล่านี้นำข้อมูลที่ต่างออกไป ไม่ใช่การพูดซ้ำ",
+      null
+     ]
+    },
+    {
+     "id": "ENL111-U6-05",
+     "skill": "ENL111-U6",
+     "difficulty": 1,
+     "stem": "You hear: 'Tickets are 200 baht for adults. Students pay half price.' How much is a student ticket?",
+     "options": [
+      "200 baht",
+      "50 baht",
+      "100 baht",
+      "150 baht"
+     ],
+     "answer": 2,
+     "explanation_th": "half price ของ 200 = 100",
+     "why_wrong": [
+      "เป็นราคาผู้ใหญ่",
+      "ครึ่งหนึ่งของ 200 คือ 100 ไม่ใช่ 50",
+      null,
+      "ลดแค่ 50 ไม่ใช่ครึ่งราคา"
+     ]
+    },
+    {
+     "id": "ENL111-U6-06",
+     "skill": "ENL111-U6",
+     "difficulty": 2,
+     "stem": "A: Can you help me move on Saturday? B: Saturday? Hmm... I'd love to, but my cousin is visiting. What is B doing?",
+     "options": [
+      "politely saying no",
+      "happily agreeing",
+      "asking for money",
+      "moving the plan to Sunday"
+     ],
+     "answer": 0,
+     "explanation_th": "I'd love to, but... + เหตุผล = ปฏิเสธอย่างสุภาพ",
+     "why_wrong": [
+      null,
+      "but my cousin is visiting แปลว่าไม่ว่าง",
+      "ไม่มีการพูดถึงเงิน",
+      "B ไม่ได้เสนอวันอื่น"
+     ]
+    },
+    {
+     "id": "ENL111-U6-07",
+     "skill": "ENL111-U6",
+     "difficulty": 2,
+     "stem": "Teacher: 'Your essay has great ideas. Next time, check your spelling more carefully.' What is the teacher's main message?",
+     "options": [
+      "The essay is perfect.",
+      "The ideas are bad.",
+      "Spelling is not important.",
+      "The ideas are good, but the spelling needs work."
+     ],
+     "answer": 3,
+     "explanation_th": "มีทั้งคำชมและสิ่งที่ต้องปรับ",
+     "why_wrong": [
+      "มีเรื่องการสะกดที่ต้องแก้",
+      "อาจารย์ชมว่าความคิดดี",
+      "อาจารย์บอกให้ระวังการสะกด",
+      null
+     ]
+    },
+    {
+     "id": "ENL111-U6-08",
+     "skill": "ENL111-U6",
+     "difficulty": 2,
+     "stem": "A: Was the movie long? B: Long? I fell asleep twice! What can you infer?",
+     "options": [
+      "B enjoyed every minute.",
+      "B thought the movie was too long and boring.",
+      "The movie was short.",
+      "B didn't watch the movie."
+     ],
+     "answer": 1,
+     "explanation_th": "การหลับสองรอบบอกเป็นนัยว่าหนังยาวและน่าเบื่อ",
+     "why_wrong": [
+      "หลับสองรอบแสดงว่าไม่สนุก",
+      null,
+      "B ตอบเชิงประชดว่ายาวมาก",
+      "B ไปดูแต่หลับระหว่างเรื่อง"
+     ]
+    }
+   ],
+   "say": [
+    "So, what you mean is that the price is too high?",
+    "I think the speaker wants us to save energy."
+   ],
+   "task_th": "ฟังโฆษณาหรือประกาศภาษาอังกฤษ 2 อัน แล้วตอบ 3 ข้อสำหรับแต่ละอัน: จุดประสงค์คืออะไร ข้อมูลสำคัญ 1 อย่าง และน้ำเสียงผู้พูดเป็นแบบไหน"
+  },
+  {
+   "id": "ENL111-U7",
+   "title_th": "ตอบสนองอย่างเหมาะสม",
+   "title_en": "Responding appropriately",
+   "covers": "และตอบสนองอย่างเหมาะสม",
+   "minutes": 12,
+   "interview": [
+    "I61"
+   ],
+   "cards": [
+    {
+     "title_th": "คำรับลูกระหว่างฟัง",
+     "body_th": "Really? / I see. / Uh-huh. / That's interesting! / Oh no! บอกผู้พูดว่าเรากำลังฟังอยู่ คนขี้อายใช้คำเหล่านี้เริ่มก่อนได้เลย"
+    },
+    {
+     "title_th": "ขอให้พูดใหม่หรือขอความชัดเจน",
+     "body_th": "Sorry, could you say that again? / Could you speak a little more slowly? / Do you mean...? / Did you say 5B or 5D?"
+    },
+    {
+     "title_th": "ซื้อเวลาคิด",
+     "body_th": "That's a good question. Let me think for a moment."
+    },
+    {
+     "title_th": "ตอบให้ตรงอารมณ์",
+     "body_th": "ข่าวดี: Congratulations! That's great! / ข่าวร้าย: Oh, I'm sorry to hear that. / คำขอบคุณ: You're welcome. Anytime!"
+    }
+   ],
+   "vocab": [
+    [
+     "respond",
+     "ตอบสนอง"
+    ],
+    [
+     "back-channel",
+     "คำรับลูกระหว่างฟัง"
+    ],
+    [
+     "clarify",
+     "ขอความชัดเจน"
+    ],
+    [
+     "repeat",
+     "พูดซ้ำ"
+    ],
+    [
+     "react",
+     "แสดงปฏิกิริยา"
+    ],
+    [
+     "sympathy",
+     "ความเห็นใจ"
+    ],
+    [
+     "appropriate",
+     "เหมาะสม"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL111-U7-01",
+     "skill": "ENL111-U7",
+     "difficulty": 1,
+     "stem": "A: I passed my driving test! B: ___",
+     "options": [
+      "Oh no, I'm sorry.",
+      "Congratulations! That's great!",
+      "Really? So what?",
+      "Never mind."
+     ],
+     "answer": 1,
+     "explanation_th": "ข่าวดีตอบด้วยความยินดี",
+     "why_wrong": [
+      "ใช้กับข่าวร้าย",
+      null,
+      "ไม่ใส่ใจความสำเร็จของเพื่อน",
+      "ใช้ปลอบเมื่อมีเรื่องไม่ดี"
+     ]
+    },
+    {
+     "id": "ENL111-U7-02",
+     "skill": "ENL111-U7",
+     "difficulty": 1,
+     "stem": "A: My grandmother is in the hospital. B: ___",
+     "options": [
+      "Congratulations!",
+      "That's interesting!",
+      "Good for you!",
+      "Oh, I'm sorry to hear that. I hope she gets better soon."
+     ],
+     "answer": 3,
+     "explanation_th": "ข่าวร้ายตอบด้วยความเห็นใจ",
+     "why_wrong": [
+      "ใช้กับข่าวดี",
+      "ฟังเหมือนไม่เห็นใจ",
+      "ใช้ชมเมื่อมีเรื่องดี",
+      null
+     ]
+    },
+    {
+     "id": "ENL111-U7-03",
+     "skill": "ENL111-U7",
+     "difficulty": 1,
+     "stem": "You didn't hear the last part of what someone said. You say: ___",
+     "options": [
+      "Sorry, could you say that again?",
+      "What? Speak up!",
+      "I heard you.",
+      "Yes, OK."
+     ],
+     "answer": 0,
+     "explanation_th": "ขอโทษแล้วขอให้พูดซ้ำอย่างสุภาพ",
+     "why_wrong": [
+      null,
+      "ห้วนและเป็นคำสั่ง",
+      "ไม่จริง และไม่ได้ขอให้พูดซ้ำ",
+      "ทำเหมือนเข้าใจทั้งที่ไม่ได้ยิน"
+     ]
+    },
+    {
+     "id": "ENL111-U7-04",
+     "skill": "ENL111-U7",
+     "difficulty": 1,
+     "stem": "Your friend is telling a long story. Which response shows you are listening?",
+     "options": [
+      "Stop, I'm bored.",
+      "Can we talk about me now?",
+      "Uh-huh... and then what happened?",
+      "Wait, I need to check my phone."
+     ],
+     "answer": 2,
+     "explanation_th": "คำรับลูก + ถามต่อ แสดงว่าตั้งใจฟัง",
+     "why_wrong": [
+      "ตัดบทและไม่สุภาพ",
+      "เปลี่ยนเรื่องมาที่ตัวเอง",
+      null,
+      "แสดงว่าไม่ได้ตั้งใจฟัง"
+     ]
+    },
+    {
+     "id": "ENL111-U7-05",
+     "skill": "ENL111-U7",
+     "difficulty": 2,
+     "stem": "A: Where do you see yourself in five years? B: (You need time to think.) ___",
+     "options": [
+      "I don't see.",
+      "Five years.",
+      "Next question.",
+      "That's a good question. Let me think for a moment."
+     ],
+     "answer": 3,
+     "explanation_th": "ใช้ประโยคซื้อเวลาอย่างสุภาพก่อนตอบ",
+     "why_wrong": [
+      "ตีความ see ผิด",
+      "ทวนคำถามโดยไม่ตอบ",
+      "ข้ามคำถามแบบไม่สุภาพ",
+      null
+     ]
+    },
+    {
+     "id": "ENL111-U7-06",
+     "skill": "ENL111-U7",
+     "difficulty": 2,
+     "stem": "A: The meeting has been moved to Room 5B. B: (You aren't sure if A said B or D.) ___",
+     "options": [
+      "OK, 5D.",
+      "The room is fine.",
+      "Sorry, did you say 5B or 5D?",
+      "I don't care."
+     ],
+     "answer": 2,
+     "explanation_th": "ถามเจาะจงตรงจุดที่ไม่แน่ใจ",
+     "why_wrong": [
+      "เดาเองโดยไม่ถามให้แน่ใจ",
+      "ไม่ได้ขอความชัดเจน",
+      null,
+      "ไม่สุภาพ"
+     ]
+    },
+    {
+     "id": "ENL111-U7-07",
+     "skill": "ENL111-U7",
+     "difficulty": 1,
+     "stem": "A: Thank you for your help today. B: ___",
+     "options": [
+      "Yes, thank you.",
+      "You're welcome. Anytime!",
+      "Me too.",
+      "Sorry."
+     ],
+     "answer": 1,
+     "explanation_th": "ตอบคำขอบคุณด้วย You're welcome.",
+     "why_wrong": [
+      "ขอบคุณกลับ ทั้งที่ตัวเองเป็นคนช่วย",
+      null,
+      "ไม่เข้ากับการถูกขอบคุณ",
+      "ไม่มีอะไรต้องขอโทษ"
+     ]
+    },
+    {
+     "id": "ENL111-U7-08",
+     "skill": "ENL111-U7",
+     "difficulty": 1,
+     "stem": "A: Would you like some more rice? B: (You don't want more.) ___",
+     "options": [
+      "No, thank you. I'm full.",
+      "No, I don't like.",
+      "Yes, I'm full.",
+      "Full rice."
+     ],
+     "answer": 0,
+     "explanation_th": "ปฏิเสธอย่างสุภาพด้วย No, thank you + เหตุผล",
+     "why_wrong": [
+      null,
+      "like ต้องมีกรรม และฟังเหมือนไม่ชอบอาหาร",
+      "yes แปลว่าต้องการเพิ่ม ขัดกับ full",
+      "ผิดไวยากรณ์และไม่ชัดเจน"
+     ]
+    }
+   ],
+   "say": [
+    "Could you repeat that, please?",
+    "Let me think for a moment.",
+    "Oh, I'm sorry to hear that."
+   ],
+   "task_th": "ดูคลิปสัมภาษณ์หรือ vlog ที่มีคนคุยกัน 3 นาที จดคำรับลูก (Really?, I see, Oh no) ที่ได้ยิน 3 คำ แล้วขอให้คนในบ้านหรือเพื่อนเล่าเรื่องอะไรก็ได้ 1 นาที คุณฝึกตอบรับเป็นภาษาอังกฤษตลอด"
+  }
+ ]
+}

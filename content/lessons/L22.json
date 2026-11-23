@@ -1,0 +1,664 @@
+{
+ "id": "L22",
+ "phase": 3,
+ "skill": "r.inference",
+ "title_th": "อ่านระหว่างบรรทัด (Inference)",
+ "title_en": "Inference and \"what if not\" questions",
+ "villain": "boo",
+ "hook": {
+  "beats": [
+   {
+    "say": "ปิ๊ปเห็นเพื่อนใส่เสื้อกันฝนและถือร่มก่อนออกจากบ้าน",
+    "anim": "enter",
+    "board": "Ploy put on her raincoat and took an umbrella."
+   },
+   {
+    "say": "บูถามว่า บทความไม่ได้บอกว่าฝนจะตก เจ้าตอบไม่ได้หรอก!",
+    "actor": "villain",
+    "anim": "shake",
+    "board": "rain? ไม่มีคำนี้!"
+   },
+   {
+    "say": "inference คือข้อสรุปที่มีหลักฐานรองรับ แม้ไม่ได้เขียนตรง ๆ",
+    "anim": "think",
+    "board": "หลักฐาน → ข้อสรุป"
+   },
+   {
+    "say": "ใส่เสื้อกันฝนและถือร่ม หลักฐานชัดว่าเธอคิดว่าฝนจะตก",
+    "anim": "jump",
+    "board": "She expected rain."
+   },
+   {
+    "say": "คำถาม ถ้าไม่ทำ X จะเป็นอย่างไร ให้หาว่า X ช่วยอะไร แล้วกลับด้าน",
+    "anim": "zap",
+    "board": "If X had not happened → ผลที่ X ป้องกันไว้จะเกิด"
+   },
+   {
+    "say": "ไม่เห็นบอกตรง ๆ ก็ยังตอบได้ เก่งจริง!",
+    "actor": "villain",
+    "anim": "swap"
+   }
+  ]
+ },
+ "discover": {
+  "examples": [
+   "The streets were wet and full of puddles.",
+   "→ It **had rained** recently. (สรุปได้ ✓)",
+   "→ It **will rain** tomorrow. (ไม่มีหลักฐาน ✗)",
+   "If the farmer had not built a fence, the elephants would have eaten his crops. → The fence **protected** his crops."
+  ],
+  "question_th": "ข้อสรุปที่ดีต้องเป็นอย่างไร?",
+  "options_th": [
+   "มีหลักฐานในข้อความรองรับ แต่ไม่ได้เขียนตรง ๆ",
+   "เป็นความคิดเห็นส่วนตัวของเรา",
+   "คัดลอกประโยคจากข้อความ",
+   "ยิ่งไกลจากข้อความยิ่งดี"
+  ],
+  "answer": 0,
+  "reveal_th": "Inference ต้องอยู่ระหว่าง \"เขียนตรง ๆ\" กับ \"เดาลอย ๆ\" · ข้อ \"If … had not …\" ให้หาว่าสิ่งนั้นช่วยอะไร แล้วคำตอบคือผลร้ายที่จะเกิดถ้าไม่มีมัน · ระวังตัวเลือกที่ \"สมเหตุสมผลในชีวิตจริง\" แต่ไม่มีหลักฐานในบทความ"
+ },
+ "rule": {
+  "line_th": "หลักฐานในข้อความ → ข้อสรุปที่ \"ต้องจริง\" · if not X → X ป้องกันอะไรไว้ → สิ่งนั้นจะเกิด",
+  "memory_th": "🕵️ นักสืบ: ชี้หลักฐานได้ทุกครั้ง ถ้าชี้หลักฐานไม่ได้ = เดามั่ว",
+  "terms": [
+   [
+    "inference",
+    "การอนุมาน"
+   ],
+   [
+    "evidence",
+    "หลักฐาน"
+   ],
+   [
+    "imply",
+    "บอกเป็นนัย"
+   ]
+  ]
+ },
+ "speak": [
+  "She put on her raincoat, so she probably expected rain.",
+  "The tickets sold out in five minutes. The concert must be very popular.",
+  "Without the map, the hikers would have been lost."
+ ],
+ "twists": [
+  {
+   "id": "L22-t1",
+   "skill": "r.inference",
+   "type": "match",
+   "prompt_th": "จับคู่หลักฐานกับข้อสรุป",
+   "pairs": [
+    [
+     "The tickets sold out in five minutes.",
+     "The event was very popular."
+    ],
+    [
+     "The streets were wet.",
+     "It had rained."
+    ],
+    [
+     "She smiled at her exam score.",
+     "She did well."
+    ],
+    [
+     "He checked his watch and ran.",
+     "He was worried about being late."
+    ]
+   ],
+   "explanation_th": "ข้อสรุปแต่ละข้อมีหลักฐานรองรับในประโยค"
+  },
+  {
+   "id": "L22-t2",
+   "skill": "r.inference",
+   "type": "fill",
+   "stem": "If the farmer had not built a fence, the elephants would have ___ his crops.",
+   "accept": [
+    "eaten",
+    "destroyed"
+   ],
+   "hint_th": "รั้วป้องกันอะไร?",
+   "explanation_th": "รั้วกันช้างกินพืช ถ้าไม่มีรั้ว ช้างจะกินพืช"
+  },
+  {
+   "id": "L22-t3",
+   "skill": "r.inference",
+   "type": "order",
+   "words": [
+    "The",
+    "clues",
+    "are",
+    "in",
+    "the",
+    "text."
+   ],
+   "explanation_th": "inference ต้องมีหลักฐานจากข้อความ"
+  }
+ ],
+ "questions": [
+  {
+   "id": "L22-01",
+   "skill": "r.inference",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"Ploy put on her raincoat and took an umbrella before leaving the house.\" — We can infer that Ploy ___.",
+   "options": [
+    "was going to the beach",
+    "expected rain",
+    "had lost her umbrella",
+    "did not like the rain"
+   ],
+   "answer": 1,
+   "explanation_th": "เสื้อกันฝน + ร่ม = คิดว่าฝนจะตก",
+   "why_wrong": [
+    "ไม่มีหลักฐาน",
+    null,
+    "ขัดกับ took an umbrella",
+    "ไม่มีหลักฐานเรื่องความชอบ"
+   ]
+  },
+  {
+   "id": "L22-02",
+   "skill": "r.inference",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"The streets were wet, and there were puddles everywhere.\" — We can infer that ___.",
+   "options": [
+    "it will rain tomorrow",
+    "the streets were being cleaned",
+    "it had rained recently",
+    "there was a flood"
+   ],
+   "answer": 2,
+   "explanation_th": "ถนนเปียกและมีแอ่งน้ำ = ฝนเพิ่งตก",
+   "why_wrong": [
+    "ไม่มีหลักฐานเรื่องพรุ่งนี้",
+    "เป็นไปได้แต่หลักฐาน (แอ่งน้ำทุกที่) ชี้ไปที่ฝน",
+    null,
+    "เกินจริง"
+   ]
+  },
+  {
+   "id": "L22-03",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"Mr. Chai checked his watch again and walked faster toward the station.\" — Mr. Chai was probably ___.",
+   "options": [
+    "lost",
+    "tired",
+    "happy",
+    "worried about being late"
+   ],
+   "answer": 3,
+   "explanation_th": "ดูนาฬิกาซ้ำ + เดินเร็วขึ้น = กลัวสาย",
+   "why_wrong": [
+    "ไม่มีหลักฐาน (เขารู้ทางไปสถานี)",
+    "เดินเร็วขึ้นขัดกับเหนื่อย",
+    "ไม่มีหลักฐาน",
+    null
+   ]
+  },
+  {
+   "id": "L22-04",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"The restaurant was almost empty on a Saturday night, even though it was in the city center.\" — We can infer that the restaurant ___.",
+   "options": [
+    "was probably not very popular",
+    "was closed",
+    "was very expensive",
+    "had excellent food"
+   ],
+   "answer": 0,
+   "explanation_th": "คืนวันเสาร์ใจกลางเมืองแต่ว่าง = ไม่ค่อยได้รับความนิยม",
+   "why_wrong": [
+    null,
+    "ถ้าปิดจะไม่ใช่ almost empty",
+    "เป็นไปได้แต่ไม่มีหลักฐาน",
+    "ขัดกับนัยของข้อความ"
+   ]
+  },
+  {
+   "id": "L22-05",
+   "skill": "r.inference",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"Nida smiled when she saw her exam score and called her mother immediately.\" — Nida probably ___.",
+   "options": [
+    "failed the exam",
+    "did well on the exam",
+    "forgot her phone",
+    "was angry with her mother"
+   ],
+   "answer": 1,
+   "explanation_th": "ยิ้ม + โทรหาแม่ทันที = ทำได้ดี",
+   "why_wrong": [
+    "ขัดกับการยิ้ม",
+    null,
+    "ขัดกับการโทร",
+    "ไม่มีหลักฐาน"
+   ]
+  },
+  {
+   "id": "L22-06",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"If the farmer had not built a fence, the elephants would have eaten his crops.\" — We can infer that ___.",
+   "options": [
+    "the elephants ate his crops",
+    "the farmer has no crops",
+    "the fence protected his crops",
+    "the farmer likes elephants"
+   ],
+   "answer": 2,
+   "explanation_th": "สร้างรั้วแล้วช้างจึงไม่ได้กิน → รั้วปกป้องพืช",
+   "why_wrong": [
+    "ขัดกับเงื่อนไข (ช้างไม่ได้กิน)",
+    "ขัดกับ his crops",
+    null,
+    "ไม่มีหลักฐาน"
+   ]
+  },
+  {
+   "id": "L22-07",
+   "skill": "r.inference",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"The baby stopped crying as soon as her mother picked her up.\" — We can infer that the baby ___.",
+   "options": [
+    "was hungry",
+    "was sick",
+    "wanted to sleep",
+    "wanted her mother"
+   ],
+   "answer": 3,
+   "explanation_th": "หยุดร้องทันทีที่แม่อุ้ม = อยากให้แม่อุ้ม",
+   "why_wrong": [
+    "เป็นไปได้แต่ไม่มีหลักฐาน",
+    "ไม่มีหลักฐาน",
+    "ไม่มีหลักฐาน",
+    null
+   ]
+  },
+  {
+   "id": "L22-08",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"Ton has been to the dentist three times this month.\" — We can infer that ___.",
+   "options": [
+    "Ton probably has a problem with his teeth",
+    "Ton wants to be a dentist",
+    "the dentist is Ton's father",
+    "Ton has perfect teeth"
+   ],
+   "answer": 0,
+   "explanation_th": "ไปหาหมอฟันบ่อย = น่าจะมีปัญหาฟัน",
+   "why_wrong": [
+    null,
+    "ไม่มีหลักฐาน",
+    "ไม่มีหลักฐาน",
+    "ขัดกับนัยของข้อความ"
+   ]
+  },
+  {
+   "id": "L22-09",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"The shop sign said \"Back in 10 minutes\", but the door was locked.\" — We can infer that ___.",
+   "options": [
+    "the shop had closed forever",
+    "the owner had gone out for a short time",
+    "the shop was open",
+    "nobody worked there"
+   ],
+   "answer": 1,
+   "explanation_th": "Back in 10 minutes = ออกไปแป๊บเดียว",
+   "why_wrong": [
+    "ขัดกับป้าย",
+    null,
+    "ขัดกับ door was locked",
+    "ป้ายบอกว่าจะกลับมา"
+   ]
+  },
+  {
+   "id": "L22-10",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"Without the map, the hikers would have been lost in the forest.\" — We can infer that ___.",
+   "options": [
+    "the hikers got lost",
+    "the hikers did not have a map",
+    "the map helped them find their way",
+    "the forest was small"
+   ],
+   "answer": 2,
+   "explanation_th": "ถ้าไม่มีแผนที่จะหลง → แผนที่ช่วยให้ไม่หลง",
+   "why_wrong": [
+    "ขัดกับเงื่อนไข",
+    "ขัดกับเงื่อนไข",
+    null,
+    "ไม่มีหลักฐาน"
+   ]
+  },
+  {
+   "id": "L22-11",
+   "skill": "r.inference",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"Fah practiced the piano for four hours every day before the competition.\" — We can infer that Fah ___.",
+   "options": [
+    "did not like the piano",
+    "won the competition",
+    "was forced to practice",
+    "took the competition seriously"
+   ],
+   "answer": 3,
+   "explanation_th": "ซ้อมวันละ 4 ชม. = จริงจังกับการแข่ง",
+   "why_wrong": [
+    "ไม่มีหลักฐาน",
+    "ไม่มีหลักฐานเรื่องผลแข่ง (เกินกว่าข้อความ)",
+    "ไม่มีหลักฐาน",
+    null
+   ]
+  },
+  {
+   "id": "L22-12",
+   "skill": "r.inference",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"All the concert tickets sold out in five minutes.\" — We can infer that ___.",
+   "options": [
+    "the concert was very popular",
+    "the tickets were free",
+    "the concert was cancelled",
+    "only five people bought tickets"
+   ],
+   "answer": 0,
+   "explanation_th": "ขายหมดใน 5 นาที = คนอยากดูมาก",
+   "why_wrong": [
+    null,
+    "ไม่มีหลักฐาน",
+    "ไม่มีหลักฐาน",
+    "ขัดกับ sold out"
+   ]
+  },
+  {
+   "id": "L22-13",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"When the principal walked in, the noisy classroom suddenly became silent.\" — We can infer that ___.",
+   "options": [
+    "the principal was angry",
+    "the students stopped talking because the principal came in",
+    "the classroom was empty",
+    "the students were sleeping"
+   ],
+   "answer": 1,
+   "explanation_th": "เงียบทันทีเมื่อผู้อำนวยการเข้ามา",
+   "why_wrong": [
+    "ไม่มีหลักฐานว่าโกรธ",
+    null,
+    "ขัดกับ noisy",
+    "ขัดกับ noisy"
+   ]
+  },
+  {
+   "id": "L22-14",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"If he had not worn a seatbelt, he might have been badly hurt in the accident.\" — We can infer that ___.",
+   "options": [
+    "he was badly hurt",
+    "he never wears a seatbelt",
+    "the seatbelt protected him",
+    "there was no accident"
+   ],
+   "answer": 2,
+   "explanation_th": "คาดเข็มขัดแล้วจึงไม่บาดเจ็บหนัก → เข็มขัดช่วยไว้",
+   "why_wrong": [
+    "ขัดกับเงื่อนไข",
+    "ขัดกับเงื่อนไข",
+    null,
+    "ขัดกับ in the accident"
+   ]
+  },
+  {
+   "id": "L22-15",
+   "skill": "r.inference",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"Lek ordered a large pizza, two burgers and three drinks just for himself.\" — We can infer that Lek ___.",
+   "options": [
+    "was on a diet",
+    "was buying food for friends",
+    "did not like pizza",
+    "was very hungry"
+   ],
+   "answer": 3,
+   "explanation_th": "สั่งเยอะมากสำหรับตัวเอง = หิวมาก",
+   "why_wrong": [
+    "ขัดกับปริมาณ",
+    "ขัดกับ just for himself",
+    "ขัดกับการสั่งพิซซ่า",
+    null
+   ]
+  },
+  {
+   "id": "L22-16",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"For years, the village had no doctor. Sick people had to travel three hours to the nearest hospital. Last year, a young doctor who grew up in the village returned after finishing medical school. Now the small clinic is busy every day.\" — We can infer that the young doctor ___.",
+   "options": [
+    "wanted to help the people of her home village",
+    "could not find a job in the city",
+    "did not finish medical school",
+    "was forced to work there"
+   ],
+   "answer": 0,
+   "explanation_th": "กลับบ้านเกิดที่ไม่มีหมอ หลังเรียนจบ = อยากช่วยคนบ้านเกิด",
+   "why_wrong": [
+    null,
+    "ไม่มีหลักฐาน (เดาเกิน)",
+    "ขัดกับ after finishing medical school",
+    "ไม่มีหลักฐาน"
+   ]
+  },
+  {
+   "id": "L22-17",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "\"For years, the village had no doctor. Sick people had to travel three hours to the nearest hospital. Last year, a young doctor who grew up in the village returned after finishing medical school. Now the small clinic is busy every day.\" — If the doctor had not returned, the villagers would probably ___.",
+   "options": [
+    "have built a hospital",
+    "still have to travel far to see a doctor",
+    "have moved to the city",
+    "have become doctors"
+   ],
+   "answer": 1,
+   "explanation_th": "ก่อนหมอกลับมา ต้องเดินทาง 3 ชม. → ถ้าไม่กลับ ก็ยังต้องเดินทางไกล",
+   "why_wrong": [
+    "ไม่มีหลักฐาน",
+    null,
+    "เกินกว่าข้อความ",
+    "ไม่มีหลักฐาน"
+   ]
+  },
+  {
+   "id": "L22-18",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"The library's late fee is 5 baht per day. Last month, the library collected more than 3,000 baht in late fees, twice as much as usual. The head librarian has now decided to send email reminders three days before books are due.\" — Why did the librarian decide to send reminders? ___",
+   "options": [
+    "The library needed more money.",
+    "Students asked for emails.",
+    "Many people were returning books late.",
+    "The late fee went up."
+   ],
+   "answer": 2,
+   "explanation_th": "ค่าปรับเพิ่มเป็นสองเท่า = คนคืนหนังสือช้ามาก",
+   "why_wrong": [
+    "ถ้าต้องการเงินคงไม่ส่งเตือน (ขัดกับนัย)",
+    "ไม่มีหลักฐาน",
+    null,
+    "ค่าปรับยังเท่าเดิม 5 บาท"
+   ]
+  },
+  {
+   "id": "L22-19",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "\"The library's late fee is 5 baht per day. Last month, the library collected more than 3,000 baht in late fees, twice as much as usual. The head librarian has now decided to send email reminders three days before books are due.\" — We can infer that the librarian wants ___.",
+   "options": [
+    "to collect more fees",
+    "students to stop using the library",
+    "to raise the late fee",
+    "fewer books to be returned late"
+   ],
+   "answer": 3,
+   "explanation_th": "เตือนก่อนครบกำหนด = อยากให้คืนตรงเวลา",
+   "why_wrong": [
+    "ตรงข้ามกับการส่งเตือน",
+    "ไม่มีหลักฐาน",
+    "ไม่มีหลักฐาน",
+    null
+   ]
+  },
+  {
+   "id": "L22-20",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"Kai's grandmother keeps every letter she has ever received in a wooden box. Some are more than sixty years old. When Kai asked why she did not throw them away, she said, \"Each one is a piece of my life.\"\" — The letters are important to the grandmother because ___.",
+   "options": [
+    "they remind her of her past",
+    "they are worth a lot of money",
+    "Kai wrote them",
+    "she wants to sell the box"
+   ],
+   "answer": 0,
+   "explanation_th": "\"Each one is a piece of my life\" = เป็นความทรงจำของชีวิต",
+   "why_wrong": [
+    null,
+    "ไม่มีหลักฐานเรื่องเงิน",
+    "ไม่มีหลักฐาน (บางฉบับอายุ 60 ปี)",
+    "ไม่มีหลักฐาน"
+   ]
+  },
+  {
+   "id": "L22-21",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"Kai's grandmother keeps every letter she has ever received in a wooden box. Some are more than sixty years old. When Kai asked why she did not throw them away, she said, \"Each one is a piece of my life.\"\" — What can we infer about Kai? ___",
+   "options": [
+    "He collects letters too.",
+    "At first, he did not understand why she kept old letters.",
+    "He wanted to read the letters.",
+    "He wrote to his grandmother every week."
+   ],
+   "answer": 1,
+   "explanation_th": "ถามว่าทำไมไม่ทิ้ง = ตอนแรกไม่เข้าใจ",
+   "why_wrong": [
+    "ไม่มีหลักฐาน",
+    null,
+    "ไม่มีหลักฐาน",
+    "ไม่มีหลักฐาน"
+   ]
+  },
+  {
+   "id": "L22-22",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"The football team had lost every match that season. Then a new coach arrived. He made the players run every morning and practice passing for hours. By the end of the year, the team was in the final.\" — The team improved mainly because ___.",
+   "options": [
+    "they bought new players",
+    "the other teams were weak",
+    "the new coach trained them hard",
+    "they played more matches"
+   ],
+   "answer": 2,
+   "explanation_th": "โค้ชใหม่ให้วิ่งและฝึกส่งบอลหนัก แล้วทีมเข้ารอบชิง",
+   "why_wrong": [
+    "ไม่มีหลักฐาน",
+    "ไม่มีหลักฐาน",
+    null,
+    "ไม่มีหลักฐาน"
+   ]
+  },
+  {
+   "id": "L22-23",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"The football team had lost every match that season. Then a new coach arrived. He made the players run every morning and practice passing for hours. By the end of the year, the team was in the final.\" — If the new coach had not arrived, the team would probably ___.",
+   "options": [
+    "have won the final",
+    "have found another coach",
+    "have stopped playing",
+    "have continued losing"
+   ],
+   "answer": 3,
+   "explanation_th": "ก่อนโค้ชมา แพ้ทุกนัด → ถ้าไม่มีโค้ช ก็น่าจะแพ้ต่อ",
+   "why_wrong": [
+    "ขัดกับนัยของข้อความ",
+    "ไม่มีหลักฐาน",
+    "เกินกว่าข้อความ",
+    null
+   ]
+  },
+  {
+   "id": "L22-24",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"Mrs. Wong always buys fruit from the same old woman at the market, even though the supermarket is closer and cheaper. \"She knows my family,\" Mrs. Wong says. \"And her mangoes are always sweet.\"\" — Mrs. Wong shops at the market mainly because ___.",
+   "options": [
+    "she values the relationship and the quality of the fruit",
+    "the market is closer",
+    "the market is cheaper",
+    "the supermarket has no mangoes"
+   ],
+   "answer": 0,
+   "explanation_th": "\"She knows my family\" + มะม่วงหวานเสมอ",
+   "why_wrong": [
+    null,
+    "ขัดกับข้อความ (ซูเปอร์ใกล้กว่า)",
+    "ขัดกับข้อความ (ซูเปอร์ถูกกว่า)",
+    "ไม่มีหลักฐาน"
+   ]
+  },
+  {
+   "id": "L22-25",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "\"Mrs. Wong always buys fruit from the same old woman at the market, even though the supermarket is closer and cheaper. \"She knows my family,\" Mrs. Wong says. \"And her mangoes are always sweet.\"\" — Which statement would Mrs. Wong most likely agree with? ___",
+   "options": [
+    "Supermarkets always have better fruit.",
+    "Price is not the only thing that matters when shopping.",
+    "People should buy the cheapest food.",
+    "Old people should not work at markets."
+   ],
+   "answer": 1,
+   "explanation_th": "เธอเลือกที่แพงกว่าเพราะความสัมพันธ์และคุณภาพ",
+   "why_wrong": [
+    "ขัดกับความเห็นของเธอ",
+    null,
+    "ขัดกับการกระทำของเธอ",
+    "ไม่มีหลักฐาน"
+   ]
+  }
+ ],
+ "cloze": "C09"
+}

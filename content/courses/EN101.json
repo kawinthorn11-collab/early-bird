@@ -1,0 +1,1387 @@
+{
+ "code": "EN101",
+ "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+ "in_class_th": [
+  "น่าจะต้องแนะนำตัวหน้าห้องเป็นภาษาอังกฤษตั้งแต่สัปดาห์แรก ๆ",
+  "วิชานี้มีชั่วโมงปฏิบัติ (2-2-6) จึงน่าจะได้พูดในห้องบ่อยกว่าวิชาบรรยาย เช่น จับคู่สัมภาษณ์เพื่อนแล้วเล่าเรื่องเพื่อนให้ห้องฟัง",
+  "น่าจะมีงานเขียนสั้น เช่น โปรไฟล์ตัวเอง หรือย่อหน้าแสดงความคิดเห็นเรื่องทั่วไป",
+  "การวัดผลน่าจะรวมทั้งพูด ฟัง อ่าน และเขียน ตามที่คำอธิบายรายวิชาเขียนว่าเป็นแบบบูรณาการ"
+ ],
+ "units": [
+  {
+   "id": "EN101-U1",
+   "title_th": "สำนวนประจำวันและการคุยเล่น",
+   "title_en": "Everyday expressions and small talk",
+   "covers": "ฝึกฝนการใช้โครงสร้างพื้นฐานและสำนวนภาษาอังกฤษที่ใช้ในชีวิตประจำวัน",
+   "minutes": 12,
+   "interview": [
+    "I56"
+   ],
+   "cards": [
+    {
+     "title_th": "ทักทายให้เป็นธรรมชาติ",
+     "body_th": "นอกจาก How are you? ยังมี How's it going? หรือ How are things? ตอบได้หลายแบบ เช่น Pretty good, thanks. You? หรือ Not bad. ไม่จำเป็นต้องตอบ I'm fine, thank you. and you? ทุกครั้ง"
+    },
+    {
+     "title_th": "Small talk ใช้คำถามเปิด",
+     "body_th": "คำถามที่ตอบได้ยาวกว่า yes / no ช่วยให้คุยต่อได้ เช่น How was your weekend? หรือ What are you up to today?"
+    },
+    {
+     "title_th": "ตอบแล้วถามกลับ",
+     "body_th": "สูตรง่าย ๆ: ตอบ + รายละเอียด 1 อย่าง + ถามกลับ ช่วยให้คนขี้อายคุยต่อได้โดยไม่ต้องคิดหัวข้อใหม่",
+     "example": "It was great. I went to the beach. How about you?"
+    },
+    {
+     "title_th": "จบบทสนทนาอย่างสุภาพ",
+     "body_th": "บอกเหตุผลสั้น ๆ แล้วลา เช่น I have to go to class now. It was nice talking to you. See you later!"
+    }
+   ],
+   "vocab": [
+    [
+     "greeting",
+     "คำทักทาย"
+    ],
+    [
+     "small talk",
+     "การคุยเล่นเรื่องทั่วไป"
+    ],
+    [
+     "casual",
+     "ไม่เป็นทางการ สบาย ๆ"
+    ],
+    [
+     "formal",
+     "เป็นทางการ"
+    ],
+    [
+     "follow-up question",
+     "คำถามต่อยอด"
+    ],
+    [
+     "farewell",
+     "การกล่าวลา"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "EN101-U1-01",
+     "skill": "EN101-U1",
+     "difficulty": 1,
+     "stem": "A: How's it going? B: ___",
+     "options": [
+      "I'm going to the library.",
+      "It's going by bus.",
+      "Not bad, thanks. You?",
+      "Yes, it is."
+     ],
+     "answer": 2,
+     "explanation_th": "How's it going? = เป็นยังไงบ้าง ตอบสภาพตัวเองแล้วถามกลับ",
+     "why_wrong": [
+      "How's it going? เป็นคำทักทายแปลว่าเป็นยังไงบ้าง ไม่ได้ถามว่าจะไปไหน",
+      "ตีความ going ผิด คำถามนี้ไม่ได้ถามเรื่องการเดินทาง",
+      null,
+      "คำถามนี้ไม่ใช่คำถาม yes / no"
+     ]
+    },
+    {
+     "id": "EN101-U1-02",
+     "skill": "EN101-U1",
+     "difficulty": 1,
+     "stem": "A: Nice to meet you. B: ___",
+     "options": [
+      "Me too meet you.",
+      "Yes, I am nice.",
+      "You're welcome.",
+      "Nice to meet you too."
+     ],
+     "answer": 3,
+     "explanation_th": "ตอบ Nice to meet you ด้วย Nice to meet you too.",
+     "why_wrong": [
+      "ผิดโครงสร้าง ต้องพูดเต็มว่า Nice to meet you too.",
+      "ตีความ nice ผิด ประโยคนี้ไม่ได้ชมว่าคุณนิสัยดี",
+      "You're welcome ใช้ตอบคำขอบคุณ",
+      null
+     ]
+    },
+    {
+     "id": "EN101-U1-03",
+     "skill": "EN101-U1",
+     "difficulty": 2,
+     "stem": "Which question is the best way to start small talk with a new classmate?",
+     "options": [
+      "Which class are you going to next?",
+      "How much money do your parents earn?",
+      "Why are you so quiet?",
+      "How old is your mother?"
+     ],
+     "answer": 0,
+     "explanation_th": "เรื่องเรียนเป็นหัวข้อกลาง ๆ ที่ทั้งสองคนมีร่วมกัน ถามได้ไม่อึดอัด",
+     "why_wrong": [
+      null,
+      "เป็นเรื่องส่วนตัวมากเกินไปสำหรับคนเพิ่งรู้จัก",
+      "ทำให้อีกฝ่ายอึดอัดและรู้สึกถูกตัดสิน",
+      "เป็นเรื่องส่วนตัวของครอบครัว ไม่เหมาะเปิดบทสนทนา"
+     ]
+    },
+    {
+     "id": "EN101-U1-04",
+     "skill": "EN101-U1",
+     "difficulty": 1,
+     "stem": "A: How was your weekend? B: ___",
+     "options": [
+      "It is great.",
+      "It was great. I went to the beach with my family.",
+      "I will go to the beach.",
+      "Yes, it was weekend."
+     ],
+     "answer": 1,
+     "explanation_th": "ตอบด้วยอดีต was แล้วเพิ่มรายละเอียด 1 อย่าง",
+     "why_wrong": [
+      "ถามถึงสุดสัปดาห์ที่ผ่านมาแล้ว ต้องใช้อดีต was",
+      null,
+      "เป็นอนาคต แต่คำถามถามเรื่องที่ผ่านไปแล้ว",
+      "ไม่ได้ตอบว่าเป็นอย่างไร และผิดไวยากรณ์ (ขาด the)"
+     ]
+    },
+    {
+     "id": "EN101-U1-05",
+     "skill": "EN101-U1",
+     "difficulty": 1,
+     "stem": "You want to end a chat politely. What do you say?",
+     "options": [
+      "Stop talking now.",
+      "Bye. You talk too much.",
+      "Go away, please.",
+      "It was nice talking to you. See you in class!"
+     ],
+     "answer": 3,
+     "explanation_th": "ชมว่าคุยสนุกแล้วลาแบบมีนัดเจอกันใหม่ เป็นการจบที่สุภาพ",
+     "why_wrong": [
+      "เป็นคำสั่ง ไม่สุภาพ",
+      "ตำหนิอีกฝ่าย ไม่สุภาพ",
+      "แม้มี please แต่ไล่อีกฝ่าย ไม่สุภาพ",
+      null
+     ]
+    },
+    {
+     "id": "EN101-U1-06",
+     "skill": "EN101-U1",
+     "difficulty": 1,
+     "stem": "A: Thank you so much for your help! B: ___",
+     "options": [
+      "Yes, thank you.",
+      "No problem.",
+      "Me too.",
+      "You're right."
+     ],
+     "answer": 1,
+     "explanation_th": "ตอบคำขอบคุณด้วย No problem. หรือ You're welcome.",
+     "why_wrong": [
+      "เป็นการขอบคุณกลับ ไม่ได้ตอบรับคำขอบคุณ",
+      null,
+      "Me too ไม่เข้ากับการถูกขอบคุณ",
+      "You're right ใช้เมื่อเห็นด้วยกับความคิด"
+     ]
+    },
+    {
+     "id": "EN101-U1-07",
+     "skill": "EN101-U1",
+     "difficulty": 1,
+     "stem": "Which greeting is the most formal?",
+     "options": [
+      "Hey, what's up?",
+      "Hi there!",
+      "Good afternoon, Professor.",
+      "Yo!"
+     ],
+     "answer": 2,
+     "explanation_th": "Good afternoon + คำนำหน้า Professor เป็นทางการที่สุด",
+     "why_wrong": [
+      "เป็นภาษาพูดกับเพื่อนสนิท ไม่เป็นทางการ",
+      "เป็นคำทักทายสบาย ๆ",
+      null,
+      "เป็นภาษาพูดแบบกันเองมาก"
+     ]
+    },
+    {
+     "id": "EN101-U1-08",
+     "skill": "EN101-U1",
+     "difficulty": 1,
+     "stem": "A: Sorry I'm late. B: ___",
+     "options": [
+      "That's OK. We just started.",
+      "You're welcome.",
+      "Nice to meet you.",
+      "Congratulations."
+     ],
+     "answer": 0,
+     "explanation_th": "ตอบคำขอโทษด้วย That's OK. หรือ No worries.",
+     "why_wrong": [
+      null,
+      "You're welcome ใช้ตอบคำขอบคุณ ไม่ใช่คำขอโทษ",
+      "ใช้ตอนเพิ่งรู้จักกัน",
+      "ใช้แสดงความยินดี"
+     ]
+    }
+   ],
+   "say": [
+    "Hi, nice to meet you. Which class are you going to next?",
+    "How was your weekend?",
+    "It was nice talking to you. See you later!"
+   ],
+   "task_th": "อัดเสียงบทสนทนาสั้นกับตัวเอง 1 นาที เล่นทั้งสองบทบาท: ทักทาย ถาม How was your weekend? ตอบพร้อมรายละเอียด 1 อย่าง ถามกลับ แล้วกล่าวลา ใช้ประโยคจากหน่วยนี้อย่างน้อย 4 ประโยค"
+  },
+  {
+   "id": "EN101-U2",
+   "title_th": "แนะนำตัวและให้ข้อมูลส่วนตัว",
+   "title_en": "Introducing yourself",
+   "covers": "ประกอบด้วยการพูดแนะนำตนเองและให้ข้อมูลส่วนตัว",
+   "minutes": 12,
+   "interview": [
+    "I01",
+    "I02",
+    "I06",
+    "I55"
+   ],
+   "cards": [
+    {
+     "title_th": "โครง 4 ส่วนใน 30 วินาที",
+     "body_th": "ชื่อ → เรียนอะไร ที่ไหน → นิสัย 1 คำพร้อมตัวอย่าง → ความสนใจ 1 อย่าง แล้วปิดด้วยประโยคสั้น ๆ",
+     "example": "Hi, I'm Pete. I'm a first-year English major. I'm a bit shy, but I'm a good listener. I love music."
+    },
+    {
+     "title_th": "ข้อมูลส่วนตัวที่ควรเตรียม",
+     "body_th": "บ้านเกิด สาขาที่เรียน ชั้นปี ครอบครัว งานอดิเรก ส่วนที่อยู่บ้าน เบอร์โทร และเลขบัตรไม่ต้องบอกในห้องเรียน"
+    },
+    {
+     "title_th": "ใช้ present simple เป็นหลัก",
+     "body_th": "ข้อมูลเกี่ยวกับตัวเองตอนนี้ใช้ present simple เช่น I live..., I study..., I like... ส่วนสาขาพูดว่า I'm majoring in English หรือ I'm an English major"
+    },
+    {
+     "title_th": "ปิดให้ดี",
+     "body_th": "ประโยคปิดสั้น ๆ ช่วยให้คนฟังรู้ว่าจบแล้ว",
+     "example": "I'm happy to be here, and I'm looking forward to working with you all."
+    }
+   ],
+   "vocab": [
+    [
+     "hometown",
+     "บ้านเกิด"
+    ],
+    [
+     "major",
+     "วิชาเอก"
+    ],
+    [
+     "first-year student",
+     "นักศึกษาปี 1"
+    ],
+    [
+     "introduce",
+     "แนะนำ"
+    ],
+    [
+     "background",
+     "ภูมิหลัง"
+    ],
+    [
+     "look forward to",
+     "ตั้งตารอ"
+    ],
+    [
+     "personal information",
+     "ข้อมูลส่วนตัว"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "EN101-U2-01",
+     "skill": "EN101-U2",
+     "difficulty": 1,
+     "stem": "Which sentence is correct for a self-introduction?",
+     "options": [
+      "I'm a first-year English major.",
+      "I'm first year student English major.",
+      "I study in English major first year.",
+      "My major is first-year English student."
+     ],
+     "answer": 0,
+     "explanation_th": "I'm a + first-year + English major ถูกทั้งลำดับคำและความหมาย",
+     "why_wrong": [
+      null,
+      "ขาด a และเรียงคำผิด",
+      "เรียงคำผิดและใช้ in ไม่ถูก",
+      "major เป็นสาขา ไม่ใช่ตัวนักศึกษา จึงไม่เข้ากับ student"
+     ]
+    },
+    {
+     "id": "EN101-U2-02",
+     "skill": "EN101-U2",
+     "difficulty": 1,
+     "stem": "My cousin comes ___ Khon Kaen.",
+     "options": [
+      "to",
+      "at",
+      "from",
+      "of"
+     ],
+     "answer": 2,
+     "explanation_th": "come from + สถานที่ = มาจาก",
+     "why_wrong": [
+      "to บอกทิศทางที่ไป ไม่ได้บอกบ้านเกิด",
+      "come at ไม่ใช้บอกที่มา",
+      null,
+      "come of ไม่ใช้บอกบ้านเกิด"
+     ]
+    },
+    {
+     "id": "EN101-U2-03",
+     "skill": "EN101-U2",
+     "difficulty": 1,
+     "stem": "A: Where do you live? B: ___",
+     "options": [
+      "I'm live in Bangkok.",
+      "I live in Bangkok with my family.",
+      "I living in Bangkok.",
+      "Bangkok is live."
+     ],
+     "answer": 1,
+     "explanation_th": "I + live + in + สถานที่ ใช้ present simple",
+     "why_wrong": [
+      "มี am กับ live ซ้อนกัน ผิดไวยากรณ์",
+      null,
+      "ขาด am ถ้าจะใช้ V-ing",
+      "ประธานผิด และไม่ได้ตอบว่าตัวเองอยู่ที่ไหน"
+     ]
+    },
+    {
+     "id": "EN101-U2-04",
+     "skill": "EN101-U2",
+     "difficulty": 1,
+     "stem": "Which detail is NOT a good idea to share when you introduce yourself to a new class?",
+     "options": [
+      "your hometown",
+      "your hobbies",
+      "your major",
+      "your home address and phone number"
+     ],
+     "answer": 3,
+     "explanation_th": "ที่อยู่และเบอร์โทรเป็นข้อมูลส่วนตัวที่ไม่ควรบอกต่อหน้าคนจำนวนมาก",
+     "why_wrong": [
+      "บ้านเกิดเป็นข้อมูลทั่วไป แชร์ได้",
+      "งานอดิเรกช่วยให้หาเพื่อนที่ชอบเหมือนกัน",
+      "สาขาที่เรียนเป็นข้อมูลพื้นฐานในการแนะนำตัว",
+      null
+     ]
+    },
+    {
+     "id": "EN101-U2-05",
+     "skill": "EN101-U2",
+     "difficulty": 2,
+     "stem": "I'm looking forward to ___ you all.",
+     "options": [
+      "working with",
+      "work with",
+      "worked with",
+      "works with"
+     ],
+     "answer": 0,
+     "explanation_th": "look forward to + V-ing",
+     "why_wrong": [
+      null,
+      "หลัง look forward to ต้องเป็น V-ing เพราะ to เป็นบุพบท",
+      "หลัง to ไม่ใช้กริยาช่อง 2",
+      "หลัง to ไม่ใช้กริยาเติม -s"
+     ]
+    },
+    {
+     "id": "EN101-U2-06",
+     "skill": "EN101-U2",
+     "difficulty": 2,
+     "stem": "A: What do you do? B: ___",
+     "options": [
+      "I'm doing my homework now.",
+      "I'm a university student.",
+      "I do fine, thanks.",
+      "I do it every day."
+     ],
+     "answer": 1,
+     "explanation_th": "What do you do? = ทำงานอะไร หรือเป็นอะไร ตอบด้วยอาชีพหรือสถานะ",
+     "why_wrong": [
+      "What do you do? ถามอาชีพหรือสถานะ ไม่ได้ถามว่ากำลังทำอะไร",
+      null,
+      "ตีความเป็นการถามสบายดีไหม ซึ่งไม่ใช่",
+      "ไม่ได้บอกว่าทำอาชีพอะไร"
+     ]
+    },
+    {
+     "id": "EN101-U2-07",
+     "skill": "EN101-U2",
+     "difficulty": 1,
+     "stem": "There ___ four people in my family.",
+     "options": [
+      "is",
+      "have",
+      "are",
+      "has"
+     ],
+     "answer": 2,
+     "explanation_th": "There are + คำนามพหูพจน์",
+     "why_wrong": [
+      "four people เป็นพหูพจน์ ต้องใช้ are",
+      "There ไม่ใช้กับ have ในการบอกว่ามี",
+      null,
+      "There ไม่ใช้กับ has ในการบอกว่ามี"
+     ]
+    },
+    {
+     "id": "EN101-U2-08",
+     "skill": "EN101-U2",
+     "difficulty": 1,
+     "stem": "My name is Nok, ___ I'm from Chiang Rai.",
+     "options": [
+      "but",
+      "or",
+      "so",
+      "and"
+     ],
+     "answer": 3,
+     "explanation_th": "เพิ่มข้อมูลต่อกันใช้ and",
+     "why_wrong": [
+      "ไม่มีความขัดแย้งระหว่างสองข้อมูล",
+      "or ใช้กับตัวเลือก",
+      "ชื่อไม่ใช่เหตุผลที่ทำให้มาจากเชียงราย",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "Hi everyone. I'm Pete, and I'm a first-year English major.",
+    "I am a little nervous, but I am happy to be here.",
+    "I'm looking forward to working with you all."
+   ],
+   "task_th": "อัดคลิปแนะนำตัว 30 วินาทีด้วยโครง ชื่อ → เรียนอะไร → นิสัย 1 คำ → ความสนใจ 1 อย่าง → ประโยคปิด ฟังซ้ำ 1 รอบ แล้วอัดใหม่อีก 1 รอบให้ลื่นขึ้น"
+  },
+  {
+   "id": "EN101-U3",
+   "title_th": "บรรยายบุคลิกลักษณะ",
+   "title_en": "Describing personality",
+   "covers": "การบรรยายบุคลิกลักษณะ",
+   "minutes": 12,
+   "interview": [
+    "I03",
+    "I04",
+    "I25",
+    "I26"
+   ],
+   "cards": [
+    {
+     "title_th": "คำบรรยายนิสัยที่ใช้บ่อย",
+     "body_th": "outgoing (ชอบเข้าสังคม), shy (ขี้อาย), patient (อดทน), reliable (ไว้ใจได้), hard-working (ขยัน), easy-going (สบาย ๆ), creative (สร้างสรรค์), honest (ซื่อสัตย์)"
+    },
+    {
+     "title_th": "อย่าพูดคำเดียว ให้ตัวอย่าง",
+     "body_th": "คำบรรยายนิสัยจะน่าเชื่อขึ้นมากถ้ามีตัวอย่าง 1 เรื่อง",
+     "example": "I'm patient. For example, I can explain math to my little brother many times."
+    },
+    {
+     "title_th": "ทำให้นุ่มลง",
+     "body_th": "ใช้ a bit, quite, sometimes ทำให้ฟังไม่แข็งเกินไป โดยเฉพาะตอนพูดข้อเสีย",
+     "example": "I can be a bit shy at first."
+    },
+    {
+     "title_th": "คู่คำตรงข้าม",
+     "body_th": "outgoing / shy, patient / impatient, organized / messy, polite / rude ช่วยจำได้เร็วขึ้น"
+    }
+   ],
+   "vocab": [
+    [
+     "personality",
+     "บุคลิกภาพ"
+    ],
+    [
+     "outgoing",
+     "ชอบเข้าสังคม"
+    ],
+    [
+     "shy",
+     "ขี้อาย"
+    ],
+    [
+     "patient",
+     "อดทน ใจเย็น"
+    ],
+    [
+     "reliable",
+     "ไว้ใจได้"
+    ],
+    [
+     "easy-going",
+     "สบาย ๆ ไม่เครียด"
+    ],
+    [
+     "hard-working",
+     "ขยัน"
+    ],
+    [
+     "creative",
+     "มีความคิดสร้างสรรค์"
+    ],
+    [
+     "bossy",
+     "ชอบสั่ง"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "EN101-U3-01",
+     "skill": "EN101-U3",
+     "difficulty": 1,
+     "stem": "Mai always finishes her work on time and never forgets a promise. She is ___.",
+     "options": [
+      "lazy",
+      "rude",
+      "reliable",
+      "shy"
+     ],
+     "answer": 2,
+     "explanation_th": "ทำงานตรงเวลาและรักษาสัญญา = ไว้ใจได้ (reliable)",
+     "why_wrong": [
+      "คนขี้เกียจไม่ทำงานเสร็จตรงเวลา",
+      "rude คือหยาบคาย ไม่เกี่ยวกับการรักษาสัญญา",
+      null,
+      "shy คือขี้อาย ไม่เกี่ยวกับการรักษาสัญญา"
+     ]
+    },
+    {
+     "id": "EN101-U3-02",
+     "skill": "EN101-U3",
+     "difficulty": 1,
+     "stem": "Which word is the opposite of 'outgoing'?",
+     "options": [
+      "shy",
+      "friendly",
+      "talkative",
+      "honest"
+     ],
+     "answer": 0,
+     "explanation_th": "outgoing = ชอบเข้าสังคม ตรงข้ามกับ shy = ขี้อาย",
+     "why_wrong": [
+      null,
+      "friendly มีความหมายใกล้กับ outgoing",
+      "talkative (ช่างพูด) ใกล้กับ outgoing",
+      "honest (ซื่อสัตย์) ไม่ได้ตรงข้าม"
+     ]
+    },
+    {
+     "id": "EN101-U3-03",
+     "skill": "EN101-U3",
+     "difficulty": 1,
+     "stem": "Ken doesn't get angry when he waits a long time. He is ___.",
+     "options": [
+      "impatient",
+      "nervous",
+      "bossy",
+      "patient"
+     ],
+     "answer": 3,
+     "explanation_th": "รอนานแล้วไม่โกรธ = อดทน (patient)",
+     "why_wrong": [
+      "impatient คือใจร้อน ตรงข้ามกับเรื่องที่เล่า",
+      "nervous คือประหม่า ไม่เกี่ยวกับการรอ",
+      "bossy คือชอบสั่ง",
+      null
+     ]
+    },
+    {
+     "id": "EN101-U3-04",
+     "skill": "EN101-U3",
+     "difficulty": 1,
+     "stem": "Which sentence describes personality, not appearance?",
+     "options": [
+      "She is very tall.",
+      "She is very easy-going.",
+      "She has long hair.",
+      "She wears glasses."
+     ],
+     "answer": 1,
+     "explanation_th": "easy-going บอกนิสัย ไม่ใช่รูปร่างหน้าตา",
+     "why_wrong": [
+      "ความสูงเป็นรูปร่าง",
+      null,
+      "ผมเป็นหน้าตา",
+      "แว่นเป็นการแต่งตัวหรือหน้าตา"
+     ]
+    },
+    {
+     "id": "EN101-U3-05",
+     "skill": "EN101-U3",
+     "difficulty": 2,
+     "stem": "I can ___ a bit shy at first, but I open up quickly.",
+     "options": [
+      "am",
+      "be",
+      "being",
+      "to be"
+     ],
+     "answer": 1,
+     "explanation_th": "can + be + adjective",
+     "why_wrong": [
+      "หลัง can ต้องเป็นกริยาช่อง 1 be",
+      null,
+      "หลัง can ไม่ใช้ V-ing",
+      "หลัง can ไม่มี to"
+     ]
+    },
+    {
+     "id": "EN101-U3-06",
+     "skill": "EN101-U3",
+     "difficulty": 2,
+     "stem": "A: What is your greatest strength? B: ___",
+     "options": [
+      "My strength is 60 kilograms.",
+      "Yes, I am strong.",
+      "I don't have strength.",
+      "I'm hard-working. For example, I practice English every day."
+     ],
+     "answer": 3,
+     "explanation_th": "บอกจุดแข็ง 1 คำแล้วตามด้วยตัวอย่าง",
+     "why_wrong": [
+      "ตีความ strength เป็นกำลังกาย แต่คำถามถามจุดแข็งด้านนิสัย",
+      "คำถามไม่ใช่ yes / no และไม่ได้ถามเรื่องแรง",
+      "ไม่ตอบคำถามและไม่ช่วยให้คนฟังรู้จักคุณ",
+      null
+     ]
+    },
+    {
+     "id": "EN101-U3-07",
+     "skill": "EN101-U3",
+     "difficulty": 1,
+     "stem": "Which adjective has a negative meaning?",
+     "options": [
+      "bossy",
+      "generous",
+      "cheerful",
+      "polite"
+     ],
+     "answer": 0,
+     "explanation_th": "bossy = ชอบสั่งคนอื่น เป็นความหมายด้านลบ",
+     "why_wrong": [
+      null,
+      "generous (ใจกว้าง) เป็นความหมายดี",
+      "cheerful (ร่าเริง) เป็นความหมายดี",
+      "polite (สุภาพ) เป็นความหมายดี"
+     ]
+    },
+    {
+     "id": "EN101-U3-08",
+     "skill": "EN101-U3",
+     "difficulty": 2,
+     "stem": "My friends say I'm creative ___ I always have new ideas for projects.",
+     "options": [
+      "but",
+      "although",
+      "because",
+      "or"
+     ],
+     "answer": 2,
+     "explanation_th": "ประโยคหลังเป็นเหตุผลที่เพื่อนบอกว่าสร้างสรรค์ ใช้ because",
+     "why_wrong": [
+      "ไม่มีความขัดแย้ง ความคิดใหม่สนับสนุนว่าสร้างสรรค์",
+      "although บอกความขัดแย้ง ไม่เข้ากับเหตุผลที่สนับสนุน",
+      null,
+      "or ใช้กับตัวเลือก"
+     ]
+    }
+   ],
+   "say": [
+    "I'm quite shy at first, but I'm a good listener.",
+    "My friends say I am reliable because I keep my promises."
+   ],
+   "task_th": "เลือกคำบรรยายนิสัยตัวเอง 3 คำจากหน่วยนี้ เขียนประโยคละ 1 ตัวอย่างจริง (I'm ... For example, ...) แล้วอัดเสียงตอบคำถาม How would your friends describe you? ไม่เกิน 30 วินาที"
+  },
+  {
+   "id": "EN101-U4",
+   "title_th": "ความสนใจ ความชอบ และแรงผลักดัน",
+   "title_en": "Interests, likes and passions",
+   "covers": "การพูดถึงเรื่องที่สนใจ เรื่องที่เป็นความชอบและแรงผลักดันส่วนตัวของแต่ละคน",
+   "minutes": 14,
+   "interview": [
+    "I32",
+    "I56",
+    "I57",
+    "I58",
+    "I60"
+   ],
+   "cards": [
+    {
+     "title_th": "like / love / enjoy + V-ing",
+     "body_th": "enjoy ตามด้วย V-ing เท่านั้น ส่วน like กับ love ใช้ได้ทั้ง V-ing และ to V",
+     "example": "I enjoy watching movies. / I like to read at night."
+    },
+    {
+     "title_th": "ระดับความชอบ",
+     "body_th": "love > really like > like > don't mind > don't really like > can't stand / hate"
+    },
+    {
+     "title_th": "interested in / passionate about / into",
+     "body_th": "I'm interested in languages. / She's passionate about animals. / I'm really into K-pop. (ภาษาพูด)"
+    },
+    {
+     "title_th": "บอกแรงผลักดัน",
+     "body_th": "ใช้ My dream is to..., I want to... because..., What motivates me is... แล้วต่อด้วยเหตุผลสั้น ๆ",
+     "example": "My dream is to become a translator because I love languages."
+    }
+   ],
+   "vocab": [
+    [
+     "interest",
+     "ความสนใจ"
+    ],
+    [
+     "hobby",
+     "งานอดิเรก"
+    ],
+    [
+     "passion",
+     "สิ่งที่หลงใหล"
+    ],
+    [
+     "motivation",
+     "แรงจูงใจ แรงผลักดัน"
+    ],
+    [
+     "inspire",
+     "สร้างแรงบันดาลใจ"
+    ],
+    [
+     "can't stand",
+     "ทนไม่ได้"
+    ],
+    [
+     "be into",
+     "ชอบมาก"
+    ],
+    [
+     "dream",
+     "ความฝัน"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "EN101-U4-01",
+     "skill": "EN101-U4",
+     "difficulty": 1,
+     "stem": "I enjoy ___ English songs.",
+     "options": [
+      "to listen to",
+      "listen to",
+      "listened to",
+      "listening to"
+     ],
+     "answer": 3,
+     "explanation_th": "enjoy + V-ing",
+     "why_wrong": [
+      "enjoy ตามด้วย V-ing เท่านั้น",
+      "หลัง enjoy ใช้กริยาช่อง 1 ไม่ได้",
+      "หลัง enjoy ใช้กริยาช่อง 2 ไม่ได้",
+      null
+     ]
+    },
+    {
+     "id": "EN101-U4-02",
+     "skill": "EN101-U4",
+     "difficulty": 1,
+     "stem": "I'm interested ___ learning Korean.",
+     "options": [
+      "on",
+      "at",
+      "in",
+      "for"
+     ],
+     "answer": 2,
+     "explanation_th": "be interested in + คำนามหรือ V-ing",
+     "why_wrong": [
+      "interested ใช้คู่กับ in เท่านั้น",
+      "interested ไม่ใช้กับ at",
+      null,
+      "interested ไม่ใช้กับ for"
+     ]
+    },
+    {
+     "id": "EN101-U4-03",
+     "skill": "EN101-U4",
+     "difficulty": 2,
+     "stem": "Which sentence shows the strongest dislike?",
+     "options": [
+      "I don't mind horror movies.",
+      "I can't stand horror movies.",
+      "I'm not really into horror movies.",
+      "Horror movies are OK."
+     ],
+     "answer": 1,
+     "explanation_th": "can't stand = ทนไม่ได้ ไม่ชอบมากที่สุด",
+     "why_wrong": [
+      "don't mind = เฉย ๆ ไม่ได้รังเกียจ",
+      null,
+      "ไม่ค่อยชอบ แต่เบากว่า can't stand",
+      "OK = พอใช้ได้ ไม่ใช่ไม่ชอบ"
+     ]
+    },
+    {
+     "id": "EN101-U4-04",
+     "skill": "EN101-U4",
+     "difficulty": 1,
+     "stem": "She is passionate ___ protecting animals.",
+     "options": [
+      "about",
+      "in",
+      "on",
+      "with"
+     ],
+     "answer": 0,
+     "explanation_th": "be passionate about + คำนามหรือ V-ing",
+     "why_wrong": [
+      null,
+      "passionate ใช้คู่กับ about",
+      "passionate ไม่ใช้กับ on",
+      "passionate ไม่ใช้กับ with ในความหมายนี้"
+     ]
+    },
+    {
+     "id": "EN101-U4-05",
+     "skill": "EN101-U4",
+     "difficulty": 1,
+     "stem": "A: What do you do in your free time? B: ___",
+     "options": [
+      "I'm free on Friday.",
+      "I usually play games or draw.",
+      "Yes, I have free time.",
+      "It is my free time now."
+     ],
+     "answer": 1,
+     "explanation_th": "ตอบกิจกรรมที่ทำเป็นประจำด้วย present simple",
+     "why_wrong": [
+      "ตอบว่าว่างวันไหน แต่คำถามถามว่าทำอะไรตอนว่าง",
+      null,
+      "คำถามไม่ใช่ yes / no",
+      "ไม่ได้บอกว่าทำอะไร"
+     ]
+    },
+    {
+     "id": "EN101-U4-06",
+     "skill": "EN101-U4",
+     "difficulty": 2,
+     "stem": "A: What motivates you to learn English? B: ___",
+     "options": [
+      "I want to understand movies without subtitles.",
+      "English is a language.",
+      "Yes, it motivates me.",
+      "My English teacher is tall."
+     ],
+     "answer": 0,
+     "explanation_th": "แรงจูงใจคือเหตุผลหรือเป้าหมายที่ทำให้อยากเรียน",
+     "why_wrong": [
+      null,
+      "บอกข้อเท็จจริง ไม่ได้บอกแรงจูงใจ",
+      "คำถามไม่ใช่ yes / no",
+      "ไม่เกี่ยวกับแรงจูงใจในการเรียน"
+     ]
+    },
+    {
+     "id": "EN101-U4-07",
+     "skill": "EN101-U4",
+     "difficulty": 1,
+     "stem": "Which sentence is correct?",
+     "options": [
+      "My dream is become a translator.",
+      "My dream is to becoming a translator.",
+      "My dream to become a translator.",
+      "My dream is to become a translator."
+     ],
+     "answer": 3,
+     "explanation_th": "My dream is + to + V",
+     "why_wrong": [
+      "หลัง is ต้องมี to ก่อนกริยา",
+      "หลัง to ใช้กริยาช่อง 1",
+      "ขาดกริยา is",
+      null
+     ]
+    },
+    {
+     "id": "EN101-U4-08",
+     "skill": "EN101-U4",
+     "difficulty": 2,
+     "stem": "I don't mind ___ the dishes.",
+     "options": [
+      "to wash",
+      "wash",
+      "washing",
+      "washed"
+     ],
+     "answer": 2,
+     "explanation_th": "don't mind + V-ing",
+     "why_wrong": [
+      "don't mind ตามด้วย V-ing",
+      "หลัง don't mind ใช้กริยาช่อง 1 ไม่ได้",
+      null,
+      "หลัง don't mind ใช้กริยาช่อง 2 ไม่ได้"
+     ]
+    }
+   ],
+   "say": [
+    "I enjoy learning new words from songs and movies.",
+    "What motivates me is my dream to use English at work."
+   ],
+   "task_th": "เขียนรายการความชอบ 3 ระดับ: love / don't mind / can't stand อย่างละ 2 อย่าง แล้วอัดเสียง 30 วินาทีเล่าเรื่องสิ่งที่ชอบที่สุด บอกว่าเริ่มชอบเมื่อไหร่และทำไม"
+  },
+  {
+   "id": "EN101-U5",
+   "title_th": "แสดงความคิดเห็น",
+   "title_en": "Expressing opinions",
+   "covers": "รวมถึงการแสดงความคิดเห็นในเรื่องทั่วไป",
+   "minutes": 12,
+   "interview": [
+    "I17",
+    "I35"
+   ],
+   "cards": [
+    {
+     "title_th": "เปิดความเห็น",
+     "body_th": "I think..., In my opinion..., I believe..., For me,... เลือกใช้สลับกันเพื่อไม่ให้ซ้ำ"
+    },
+    {
+     "title_th": "ความเห็น + เหตุผล + ตัวอย่าง",
+     "body_th": "ความเห็นที่ดีมี 3 ชั้น: บอกความเห็น ให้เหตุผลด้วย because และยกตัวอย่างด้วย For example",
+     "example": "I think part-time jobs are useful because students learn about money. For example, ..."
+    },
+    {
+     "title_th": "เห็นด้วยและไม่เห็นด้วยแบบสุภาพ",
+     "body_th": "I agree with you because... / I see your point, but... / I'm not sure about that."
+    },
+    {
+     "title_th": "ไม่ต้องเลือกข้างเสมอ",
+     "body_th": "It depends. ใช้ได้เมื่อคำตอบขึ้นกับสถานการณ์ แต่ต้องอธิบายต่อว่าขึ้นกับอะไร",
+     "example": "It depends. Some homework helps, but too much is stressful."
+    }
+   ],
+   "vocab": [
+    [
+     "opinion",
+     "ความคิดเห็น"
+    ],
+    [
+     "reason",
+     "เหตุผล"
+    ],
+    [
+     "agree",
+     "เห็นด้วย"
+    ],
+    [
+     "disagree",
+     "ไม่เห็นด้วย"
+    ],
+    [
+     "point of view",
+     "มุมมอง"
+    ],
+    [
+     "it depends",
+     "แล้วแต่กรณี"
+    ],
+    [
+     "fact",
+     "ข้อเท็จจริง"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "EN101-U5-01",
+     "skill": "EN101-U5",
+     "difficulty": 1,
+     "stem": "___ my opinion, online classes are useful.",
+     "options": [
+      "On",
+      "For",
+      "In",
+      "At"
+     ],
+     "answer": 2,
+     "explanation_th": "In my opinion = ในความคิดของฉัน",
+     "why_wrong": [
+      "สำนวนนี้ใช้ in เท่านั้น",
+      "For my opinion ไม่ใช้ในภาษาอังกฤษมาตรฐาน",
+      null,
+      "At my opinion ผิดสำนวน"
+     ]
+    },
+    {
+     "id": "EN101-U5-02",
+     "skill": "EN101-U5",
+     "difficulty": 1,
+     "stem": "Which is the most polite way to disagree?",
+     "options": [
+      "You're wrong.",
+      "That's a stupid idea.",
+      "No. Next.",
+      "I see your point, but I don't think that's always true."
+     ],
+     "answer": 3,
+     "explanation_th": "ยอมรับมุมมองอีกฝ่ายก่อนด้วย I see your point แล้วจึงบอกความเห็นต่าง",
+     "why_wrong": [
+      "ตรงเกินไปและไม่ให้เหตุผล",
+      "ดูถูกความคิดของอีกฝ่าย",
+      "ตัดบทและไม่สุภาพ",
+      null
+     ]
+    },
+    {
+     "id": "EN101-U5-03",
+     "skill": "EN101-U5",
+     "difficulty": 1,
+     "stem": "A: I think phones should not be allowed in class. B: I agree ___ students can focus better.",
+     "options": [
+      "because",
+      "although",
+      "but",
+      "unless"
+     ],
+     "answer": 0,
+     "explanation_th": "ประโยคหลังเป็นเหตุผลที่เห็นด้วย ใช้ because",
+     "why_wrong": [
+      null,
+      "although บอกความขัดแย้ง แต่ประโยคหลังสนับสนุนการเห็นด้วย",
+      "but บอกความขัดแย้ง ไม่ใช่เหตุผล",
+      "unless แปลว่า เว้นแต่ ไม่เข้ากับความหมาย"
+     ]
+    },
+    {
+     "id": "EN101-U5-04",
+     "skill": "EN101-U5",
+     "difficulty": 2,
+     "stem": "Which sentence gives an opinion, not a fact?",
+     "options": [
+      "Bangkok is the capital of Thailand.",
+      "Bangkok is the most exciting city in Thailand.",
+      "Bangkok has a subway system.",
+      "Bangkok is in central Thailand."
+     ],
+     "answer": 1,
+     "explanation_th": "exciting เป็นความรู้สึกของแต่ละคน จึงเป็นความคิดเห็น",
+     "why_wrong": [
+      "เป็นข้อเท็จจริงที่ตรวจสอบได้",
+      null,
+      "เป็นข้อเท็จจริงที่ตรวจสอบได้",
+      "เป็นข้อเท็จจริงทางภูมิศาสตร์"
+     ]
+    },
+    {
+     "id": "EN101-U5-05",
+     "skill": "EN101-U5",
+     "difficulty": 1,
+     "stem": "I ___ that learning a second language is good for your brain.",
+     "options": [
+      "am believe",
+      "believing",
+      "believes",
+      "believe"
+     ],
+     "answer": 3,
+     "explanation_th": "I + believe + that-clause",
+     "why_wrong": [
+      "มี am กับ believe ซ้อนกัน ผิดไวยากรณ์",
+      "ขาดกริยาแท้",
+      "ประธาน I ไม่เติม -s",
+      null
+     ]
+    },
+    {
+     "id": "EN101-U5-06",
+     "skill": "EN101-U5",
+     "difficulty": 2,
+     "stem": "A: Do you think homework is necessary? B: ___",
+     "options": [
+      "Yes, I do homework.",
+      "It depends. Some homework helps, but too much is stressful.",
+      "Homework is at 5 p.m.",
+      "No, I didn't."
+     ],
+     "answer": 1,
+     "explanation_th": "It depends + อธิบายว่าขึ้นกับอะไร เป็นความคิดเห็นที่มีเหตุผล",
+     "why_wrong": [
+      "ตอบว่าทำการบ้าน แต่คำถามถามความคิดเห็น",
+      null,
+      "ไม่ได้ตอบความคิดเห็น",
+      "ใช้อดีตผิด และไม่ได้ให้ความเห็น"
+     ]
+    },
+    {
+     "id": "EN101-U5-07",
+     "skill": "EN101-U5",
+     "difficulty": 1,
+     "stem": "Which phrase introduces an example?",
+     "options": [
+      "However,",
+      "In conclusion,",
+      "For instance,",
+      "On the other hand,"
+     ],
+     "answer": 2,
+     "explanation_th": "For instance = For example ใช้ยกตัวอย่าง",
+     "why_wrong": [
+      "However บอกความขัดแย้ง",
+      "In conclusion ใช้สรุป",
+      null,
+      "On the other hand บอกอีกด้านหนึ่ง"
+     ]
+    },
+    {
+     "id": "EN101-U5-08",
+     "skill": "EN101-U5",
+     "difficulty": 2,
+     "stem": "I agree ___ you.",
+     "options": [
+      "with",
+      "to",
+      "on",
+      "at"
+     ],
+     "answer": 0,
+     "explanation_th": "agree with + คน",
+     "why_wrong": [
+      null,
+      "agree to ใช้กับข้อเสนอ ไม่ใช้กับคน",
+      "agree on ใช้กับเรื่องที่ตกลงกัน ไม่ใช่คน",
+      "agree ไม่ใช้กับ at"
+     ]
+    }
+   ],
+   "say": [
+    "In my opinion, small steps every day are better than one big step.",
+    "I see your point, but I think it depends."
+   ],
+   "task_th": "เลือกหัวข้อ 1 เรื่อง เช่น นักศึกษาควรทำงานพิเศษไหม แล้วอัดเสียง 30 วินาทีด้วยโครง In my opinion... because... For example... So I think..."
+  },
+  {
+   "id": "EN101-U6",
+   "title_th": "ใช้ 4 ทักษะรวมกัน",
+   "title_en": "Using the four skills together",
+   "covers": "อีกทั้งพัฒนาทักษะการพูด การฟัง การอ่าน และการเขียนด้วยวิธีเชิงบูรณาการ",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "บูรณาการคืออะไร",
+     "body_th": "ใช้หัวข้อเดียวฝึกหลายทักษะต่อกัน เช่น ฟังเพื่อนแนะนำตัว จดโน้ต เขียนโปรไฟล์เพื่อน แล้วออกมาเล่าให้ห้องฟัง"
+    },
+    {
+     "title_th": "จดเป็นคำสำคัญ",
+     "body_th": "ตอนฟังอย่าจดทั้งประโยค จดแค่คำสำคัญ เช่น ชื่อ สถานที่ ความชอบ แล้วค่อยขยายเป็นประโยคทีหลัง",
+     "example": "Fern / photography / tourism job"
+    },
+    {
+     "title_th": "เขียนถึงคนอื่นใช้บุรุษที่ 3",
+     "body_th": "เปลี่ยน I เป็น he / she และอย่าลืมเติม -s ที่กริยา",
+     "example": "I like cooking. → She likes cooking."
+    },
+    {
+     "title_th": "อ่านแล้วถามต่อ",
+     "body_th": "อ่านโพสต์หรือข้อความของเพื่อนแล้วถามต่อ 1 คำถาม เป็นการฝึกอ่านและเขียนไปพร้อมกัน"
+    }
+   ],
+   "vocab": [
+    [
+     "integrated skills",
+     "ทักษะเชิงบูรณาการ"
+    ],
+    [
+     "note-taking",
+     "การจดโน้ต"
+    ],
+    [
+     "keyword",
+     "คำสำคัญ"
+    ],
+    [
+     "profile",
+     "ข้อมูลแนะนำตัวสั้น ๆ"
+    ],
+    [
+     "summarize",
+     "สรุป"
+    ],
+    [
+     "third person",
+     "บุรุษที่ 3"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "EN101-U6-01",
+     "skill": "EN101-U6",
+     "difficulty": 2,
+     "stem": "Read: 'Hi! I'm Joe. I'm from Phuket, but I study in Bangkok. I love surfing, so I go home every holiday.' Why does Joe go home every holiday?",
+     "options": [
+      "He wants to go surfing.",
+      "He doesn't like Bangkok.",
+      "He studies in Phuket.",
+      "His family asks him to."
+     ],
+     "answer": 0,
+     "explanation_th": "I love surfing, so I go home บอกเหตุผลว่ากลับไปเล่นเซิร์ฟ",
+     "why_wrong": [
+      null,
+      "ข้อความไม่ได้บอกว่าไม่ชอบกรุงเทพ",
+      "Joe เรียนที่กรุงเทพ",
+      "ข้อความไม่ได้พูดถึงครอบครัว"
+     ]
+    },
+    {
+     "id": "EN101-U6-02",
+     "skill": "EN101-U6",
+     "difficulty": 1,
+     "stem": "Change to the third person: 'I like cooking.' → 'She ___ cooking.'",
+     "options": [
+      "like",
+      "liking",
+      "likes",
+      "is like"
+     ],
+     "answer": 2,
+     "explanation_th": "he / she / it + กริยาเติม -s",
+     "why_wrong": [
+      "ประธาน She ต้องเติม -s",
+      "ขาดกริยาแท้",
+      null,
+      "มี is กับ like ซ้อนกัน ผิดไวยากรณ์"
+     ]
+    },
+    {
+     "id": "EN101-U6-03",
+     "skill": "EN101-U6",
+     "difficulty": 2,
+     "stem": "Your partner says: 'My name's Fern. I'm into photography, and I want to work in tourism.' Which notes are the best?",
+     "options": [
+      "My name's Fern. I'm into photography, and I want to work in tourism.",
+      "Fern / photography / tourism job",
+      "photo",
+      "Fern / tourism / likes cooking"
+     ],
+     "answer": 1,
+     "explanation_th": "จดคำสำคัญครบ 3 ข้อมูล: ชื่อ ความชอบ งานที่อยากทำ",
+     "why_wrong": [
+      "จดทั้งประโยค ช้าเกินไปตอนฟังจริง",
+      null,
+      "ขาดชื่อและงานที่อยากทำ",
+      "ข้อมูลผิด Fern ไม่ได้พูดถึงการทำอาหาร"
+     ]
+    },
+    {
+     "id": "EN101-U6-04",
+     "skill": "EN101-U6",
+     "difficulty": 1,
+     "stem": "Which sentence is correct in a profile of a classmate?",
+     "options": [
+      "Fern want to work in tourism.",
+      "Fern wants work in tourism.",
+      "Fern is want to work in tourism.",
+      "Fern wants to work in tourism."
+     ],
+     "answer": 3,
+     "explanation_th": "Fern + wants + to + V",
+     "why_wrong": [
+      "ประธาน Fern เป็นเอกพจน์ ต้องเติม -s",
+      "want ต้องตามด้วย to + V",
+      "มี is กับ want ซ้อนกัน",
+      null
+     ]
+    },
+    {
+     "id": "EN101-U6-05",
+     "skill": "EN101-U6",
+     "difficulty": 2,
+     "stem": "Read: 'I'm not a morning person. I study best at night, but I always have breakfast before class.' Which is true about the writer?",
+     "options": [
+      "The writer studies better at night.",
+      "The writer likes mornings.",
+      "The writer skips breakfast.",
+      "The writer has no morning classes."
+     ],
+     "answer": 0,
+     "explanation_th": "I study best at night แปลว่าเรียนตอนกลางคืนได้ดีที่สุด",
+     "why_wrong": [
+      null,
+      "I'm not a morning person แปลว่าไม่ชอบตอนเช้า",
+      "ข้อความบอกว่ากินข้าวเช้าทุกครั้ง",
+      "ข้อความไม่ได้บอกตารางเรียน"
+     ]
+    },
+    {
+     "id": "EN101-U6-06",
+     "skill": "EN101-U6",
+     "difficulty": 1,
+     "stem": "A classmate posts: 'I just started learning the guitar!' Which reply is the best follow-up?",
+     "options": [
+      "I don't care.",
+      "Cool! What songs are you learning?",
+      "A guitar is a musical instrument.",
+      "Yes, I started."
+     ],
+     "answer": 1,
+     "explanation_th": "แสดงความสนใจแล้วถามต่อ 1 คำถาม",
+     "why_wrong": [
+      "ไม่สุภาพและปิดบทสนทนา",
+      null,
+      "บอกข้อเท็จจริงที่เพื่อนรู้อยู่แล้ว ไม่ได้ต่อบทสนทนา",
+      "ตอบเหมือนตัวเองเป็นคนโพสต์"
+     ]
+    },
+    {
+     "id": "EN101-U6-07",
+     "skill": "EN101-U6",
+     "difficulty": 1,
+     "stem": "You introduce your partner to the class. What do you say?",
+     "options": [
+      "This is Fern. I'm from Chiang Rai.",
+      "He is Fern. She from Chiang Rai.",
+      "This is Fern. She's from Chiang Rai.",
+      "Fern, she are from Chiang Rai."
+     ],
+     "answer": 2,
+     "explanation_th": "แนะนำคนอื่นใช้ This is ... แล้วตามด้วย she / he",
+     "why_wrong": [
+      "พูดถึงเพื่อนแต่ใช้ I ทำให้ข้อมูลกลายเป็นของตัวเอง",
+      "ใช้สรรพนามสลับกัน และขาด is",
+      null,
+      "she ต้องใช้ is"
+     ]
+    },
+    {
+     "id": "EN101-U6-08",
+     "skill": "EN101-U6",
+     "difficulty": 1,
+     "stem": "When you listen to a classmate's introduction, what should you write down?",
+     "options": [
+      "Every word they say",
+      "Only their grammar mistakes",
+      "Nothing at all",
+      "Key words like names, places and hobbies"
+     ],
+     "answer": 3,
+     "explanation_th": "จดคำสำคัญพอให้นำไปเล่าต่อได้",
+     "why_wrong": [
+      "จดไม่ทันและพลาดส่วนที่เหลือ",
+      "ไม่ใช่จุดประสงค์ของการฟังเพื่อรู้จักเพื่อน",
+      "จะจำข้อมูลไม่ได้ตอนต้องเล่าต่อ",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "This is my partner, Fern. She's into photography.",
+    "Can I ask you a question about your post?"
+   ],
+   "task_th": "ฟังคลิปแนะนำตัวภาษาอังกฤษสั้น ๆ 1 คลิป จดคำสำคัญ 3 คำ เขียนโปรไฟล์ของคนในคลิปเป็นบุรุษที่ 3 ยาว 3 ประโยค แล้วอ่านออกเสียง"
+  }
+ ]
+}

@@ -1,0 +1,209 @@
+{
+ "id": "C08",
+ "title": "Our School Robot Club",
+ "genre": "ชีวิตนักเรียน",
+ "level": "B1",
+ "text": "Our school has a robot club, and it (1) one of the most popular clubs. Every member (2) to build one small robot each term. The number of members (3) grown from five to forty in just two years, and a number of them (4) won prizes in national competitions.\nBuilding robots (5) a lot of patience. Each robot (6) about two months to finish. Our teacher, together with some older students, (7) us every Friday afternoon. Neither the teacher nor the older students (8) paid for this work; they do it because they love it.\nThe equipment in our club room (9) expensive, so we must be careful. Everyone who (10) the club says it is the best decision they have ever made.",
+ "items": [
+  {
+   "id": "C08-1",
+   "skill": "g.agreement",
+   "difficulty": 1,
+   "stem": "(1) Our school has a robot club, and it ___ one of the most popular clubs.",
+   "options": [
+    "are",
+    "is",
+    "were",
+    "be"
+   ],
+   "answer": 1,
+   "explanation_th": "ประธาน it (the robot club) → is",
+   "why_wrong": [
+    "are ตาม clubs ซึ่งเป็นส่วนขยาย",
+    null,
+    "were เป็นพหูพจน์และอดีต",
+    "be ต้องมีกริยาช่วย"
+   ]
+  },
+  {
+   "id": "C08-2",
+   "skill": "g.agreement",
+   "difficulty": 1,
+   "stem": "(2) Every member ___ to build one small robot each term.",
+   "options": [
+    "have",
+    "are having",
+    "has",
+    "were"
+   ],
+   "answer": 2,
+   "explanation_th": "Every member (เอกพจน์) + has to = ต้อง",
+   "why_wrong": [
+    "have ใช้กับพหูพจน์",
+    "are having to ไม่ใช่รูปปกติและเป็นพหูพจน์",
+    null,
+    "were to build เป็นพหูพจน์อดีต"
+   ]
+  },
+  {
+   "id": "C08-3",
+   "skill": "g.agreement",
+   "difficulty": 2,
+   "stem": "(3) The number of members ___ grown from five to forty in just two years, and a number of them … won prizes in national competitions.",
+   "options": [
+    "has",
+    "have",
+    "are",
+    "were"
+   ],
+   "answer": 0,
+   "explanation_th": "The number (เอกพจน์) + has grown (present perfect)",
+   "why_wrong": [
+    null,
+    "have ตาม members ซึ่งเป็นส่วนขยาย",
+    "are grown ผิดความหมาย (ถูกปลูก)",
+    "were เป็นพหูพจน์"
+   ]
+  },
+  {
+   "id": "C08-4",
+   "skill": "g.agreement",
+   "difficulty": 2,
+   "stem": "(4) The number of members … grown from five to forty in just two years, and a number of them ___ won prizes in national competitions.",
+   "options": [
+    "has",
+    "is",
+    "was",
+    "have"
+   ],
+   "answer": 3,
+   "explanation_th": "a number of them = หลายคน (พหูพจน์) → have won",
+   "why_wrong": [
+    "has เป็นเอกพจน์",
+    "is won ผิดความหมาย",
+    "was เป็นเอกพจน์",
+    null
+   ]
+  },
+  {
+   "id": "C08-5",
+   "skill": "g.agreement",
+   "difficulty": 1,
+   "stem": "(5) Building robots ___ a lot of patience.",
+   "options": [
+    "take",
+    "are taking",
+    "takes",
+    "have taken"
+   ],
+   "answer": 2,
+   "explanation_th": "ประธาน Building robots (V-ing) เป็นเอกพจน์ → takes",
+   "why_wrong": [
+    "take ตาม robots ซึ่งเป็นกรรมของ building",
+    "are เป็นพหูพจน์",
+    null,
+    "have เป็นพหูพจน์"
+   ]
+  },
+  {
+   "id": "C08-6",
+   "skill": "g.agreement",
+   "difficulty": 1,
+   "stem": "(6) Each robot ___ about two months to finish.",
+   "options": [
+    "needs",
+    "need",
+    "are needing",
+    "have needed"
+   ],
+   "answer": 0,
+   "explanation_th": "Each robot (เอกพจน์) → needs",
+   "why_wrong": [
+    null,
+    "need ไม่เติม s แต่ประธานเอกพจน์",
+    "are เป็นพหูพจน์",
+    "have เป็นพหูพจน์"
+   ]
+  },
+  {
+   "id": "C08-7",
+   "skill": "g.agreement",
+   "difficulty": 3,
+   "stem": "(7) Our teacher, together with some older students, ___ us every Friday afternoon.",
+   "options": [
+    "help",
+    "are helping",
+    "have helped",
+    "helps"
+   ],
+   "answer": 3,
+   "explanation_th": "together with … เป็นส่วนขยาย ประธานคือ Our teacher → helps",
+   "why_wrong": [
+    "help ตาม students ในส่วนขยาย",
+    "are เป็นพหูพจน์",
+    "have เป็นพหูพจน์",
+    null
+   ]
+  },
+  {
+   "id": "C08-8",
+   "skill": "g.agreement",
+   "difficulty": 3,
+   "stem": "(8) Neither the teacher nor the older students ___ paid for this work; they do it because they love it.",
+   "options": [
+    "is",
+    "are",
+    "was",
+    "has"
+   ],
+   "answer": 1,
+   "explanation_th": "neither…nor ตามประธานใกล้สุด (the older students) → are paid",
+   "why_wrong": [
+    "is ตาม the teacher ซึ่งอยู่ไกลกว่า",
+    null,
+    "was เป็นเอกพจน์และอดีต",
+    "has paid = ได้จ่ายแล้ว ความหมายผิด"
+   ]
+  },
+  {
+   "id": "C08-9",
+   "skill": "g.agreement",
+   "difficulty": 2,
+   "stem": "(9) The equipment in our club room ___ expensive, so we must be careful.",
+   "options": [
+    "are",
+    "were",
+    "is",
+    "have"
+   ],
+   "answer": 2,
+   "explanation_th": "equipment เป็นนามนับไม่ได้ → is",
+   "why_wrong": [
+    "are ตาม room? ไม่ใช่ และ equipment นับไม่ได้",
+    "were เป็นพหูพจน์",
+    null,
+    "have expensive ผิดรูป"
+   ]
+  },
+  {
+   "id": "C08-10",
+   "skill": "g.agreement",
+   "difficulty": 2,
+   "stem": "(10) Everyone who ___ the club says it is the best decision they have ever made.",
+   "options": [
+    "join",
+    "are joining",
+    "have joined",
+    "joins"
+   ],
+   "answer": 3,
+   "explanation_th": "Everyone who (เอกพจน์) → joins",
+   "why_wrong": [
+    "join ไม่เติม s แต่ Everyone เป็นเอกพจน์",
+    "are เป็นพหูพจน์",
+    "have เป็นพหูพจน์",
+    null
+   ]
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "L04",
+  "phase": 1,
+  "skill": "g.pronoun",
+  "title_th": "เขา / เขา / ของเขา (pronoun ตามตำแหน่ง)",
+  "title_en": "Pronouns: subject, object, possessive, reflexive",
+  "villain": "boo",
+  "hook": {
+    "beats": [
+      { "say": "ปิ๊ปได้จดหมายฉบับหนึ่ง แต่คำว่าเขาหายไปสามที่", "anim": "enter", "board": "___ helped ___ with ___ homework." },
+      { "say": "ข้าคือบู! ข้าจะสลับ he him his ให้ปนกันไปหมด", "actor": "villain", "anim": "shake", "board": "he? him? his?" },
+      { "say": "ดูตำแหน่งเป็นหลัก หน้ากริยาคือประธาน ใช้ he she they", "anim": "think", "board": "He helped…" },
+      { "say": "หลังกริยาหรือหลังบุพบทคือกรรม ใช้ him her them", "anim": "jump", "board": "…helped them…" },
+      { "say": "ส่วนหน้าคำนามคือเจ้าของ ใช้ his her their", "anim": "zap", "board": "He helped them with their homework." },
+      { "say": "ไม่จริ๊ง! หลอกไม่ได้แล้ว ข้าไปหลอกคนอื่นดีกว่า", "actor": "villain", "anim": "swap" }
+    ]
+  },
+  "discover": {
+    "examples": ["**They** visited **us** yesterday.", "We visited **them** yesterday.", "**Their** house is near **our** school.", "This book is **mine**, not **yours**."],
+    "question_th": "they / them / their ต่างกันที่อะไร?",
+    "options_th": ["ตำแหน่ง: they หน้ากริยา, them หลังกริยา/บุพบท, their หน้าคำนาม", "ความหมาย: they = คน, them = สัตว์", "จำนวน: they = สองคน, them = หลายคน", "ใช้แทนกันได้หมด"],
+    "answer": 0,
+    "reveal_th": "คนคนเดิม แต่เปลี่ยนรูปตามตำแหน่งในประโยค ถ้าคำไม่มีคำนามตาม เช่น 'This book is mine' ใช้รูปยืนเดี่ยว (mine, yours, his, hers, ours, theirs) และถ้าทำกับตัวเองใช้ -self (myself, himself, themselves)"
+  },
+  "rule": {
+    "line_th": "หน้ากริยา → I/he/she/they · หลังกริยา/บุพบท → me/him/her/them · หน้านาม → my/his/her/their · ยืนเดี่ยว → mine/hers/theirs · ทำกับตัวเอง → -self",
+    "memory_th": "🪑 เก้าอี้ 3 ตัว: นั่งหน้ากริยา (ประธาน) · นั่งหลังกริยา (กรรม) · ยืนหน้าคำนาม (เจ้าของ) คนเดิม แต่เปลี่ยนชุดตามเก้าอี้ — และ its (ของมัน) ไม่มี ' ส่วน it's = it is",
+    "terms": [["subject pronoun", "สรรพนามประธาน"], ["object pronoun", "สรรพนามกรรม"], ["possessive adjective", "คำบอกเจ้าของหน้าคำนาม"], ["possessive pronoun", "สรรพนามแสดงเจ้าของ (mine)"], ["reflexive pronoun", "สรรพนามสะท้อน (-self)"]]
+  },
+  "speak": ["Ben and I went to the library after school.", "This pen isn't mine. Mine is blue.", "My grandparents live far away, but I visit them every holiday."],
+  "twists": [
+    { "id": "L04-t1", "skill": "g.pronoun", "type": "error", "parts": ["Me and my sister", "go to school", "by bus", "every day."], "answer": 0, "explanation_th": "ตำแหน่งประธานต้องใช้ I และสุภาพคือเอาตัวเองไว้หลัง: My sister and I", "why_wrong": [null, "go ไม่เติม s เพราะประธานสองคน ถูกแล้ว", "by bus ถูกแล้ว", "every day ถูกแล้ว"] },
+    { "id": "L04-t2", "skill": "g.pronoun", "type": "fill", "stem": "The cat is cleaning ___ paws.", "accept": ["its"], "hint_th": "ของมัน หน้าคำนาม paws (ระวัง: ไม่มีเครื่องหมาย ')", "explanation_th": "its = ของมัน ส่วน it's = it is" },
+    { "id": "L04-t3", "skill": "g.pronoun", "type": "order", "words": ["She", "made", "the", "dress", "herself."], "explanation_th": "herself วางท้ายประโยคเพื่อเน้นว่า 'ทำเอง'" },
+    { "id": "L04-t4", "skill": "g.pronoun", "type": "match", "prompt_th": "เลือกรูปของ they ให้ตรงตำแหน่ง", "pairs": [["___ are my best friends.", "They"], ["I like ___ a lot.", "them"], ["___ house is very big.", "Their"], ["The big house is ___.", "theirs"]], "explanation_th": "หน้ากริยา They · หลังกริยา them · หน้านาม Their · ยืนเดี่ยว theirs" },
+    { "id": "L04-t5", "skill": "g.pronoun", "type": "error", "parts": ["The company", "changed", "it's", "name last year."], "answer": 2, "explanation_th": "ของมัน หน้าคำนาม name ต้องเป็น its (it's = it is)", "why_wrong": ["The company ประธาน ถูกแล้ว", "changed อดีต ถูกแล้ว", null, "name last year ถูกแล้ว"] }
+  ],
+  "questions": [
+    { "id": "L04-01", "skill": "g.pronoun", "difficulty": 1, "stage": 1, "stem": "Ben and ___ went to the library after school.", "options": ["me", "I", "my", "mine"], "answer": 1, "explanation_th": "Ben and ___ อยู่หน้ากริยา went = ประธาน ใช้ I", "why_wrong": ["me เป็นกรรม ใช้ในตำแหน่งประธานไม่ได้", null, "my ต้องมีคำนามตาม", "mine แปลว่าของฉัน ไม่ใช่ตัวฉัน"] },
+    { "id": "L04-02", "skill": "g.pronoun", "difficulty": 1, "stage": 1, "stem": "The teacher asked Nok and ___ to clean the board.", "options": ["I", "my", "me", "myself"], "answer": 2, "explanation_th": "หลังกริยา asked = กรรม ใช้ me (ลองตัด Nok and ออก: asked me)", "why_wrong": ["I เป็นประธาน (ลองอ่าน 'asked I' จะรู้ว่าผิด)", "my ต้องมีคำนามตาม", null, "myself ใช้เมื่อประธานกับกรรมเป็นคนเดียวกัน"] },
+    { "id": "L04-03", "skill": "g.pronoun", "difficulty": 1, "stage": 1, "stem": "This is not my pen. ___ is blue.", "options": ["My", "Me", "I", "Mine"], "answer": 3, "explanation_th": "ไม่มีคำนามตาม และหมายถึง 'ปากกาของฉัน' ใช้รูปยืนเดี่ยว Mine", "why_wrong": ["My ต้องมีคำนามตาม เช่น My pen", "Me เป็นกรรม", "I is blue = ฉันเป็นสีฟ้า ผิดความหมาย", null] },
+    { "id": "L04-04", "skill": "g.pronoun", "difficulty": 1, "stage": 1, "stem": "The dog is wagging ___ tail.", "options": ["its", "it's", "it", "their"], "answer": 0, "explanation_th": "หางของมัน = its tail (its ไม่มี ')", "why_wrong": [null, "it's = it is ใช้หน้าคำนามไม่ได้", "it ไม่ได้บอกความเป็นเจ้าของ", "their ใช้กับพหูพจน์ แต่หมามีตัวเดียว"] },
+    { "id": "L04-05", "skill": "g.pronoun", "difficulty": 1, "stage": 1, "stem": "My parents love ___ garden very much.", "options": ["there", "their", "they're", "them"], "answer": 1, "explanation_th": "สวนของพวกเขา หน้าคำนาม garden → their", "why_wrong": ["there = ที่นั่น ไม่ใช่ของพวกเขา", null, "they're = they are", "them เป็นกรรม ไม่ได้บอกเจ้าของ"] },
+    { "id": "L04-06", "skill": "g.pronoun", "difficulty": 2, "stage": 1, "stem": "Did you make this cake ___? It's delicious!", "options": ["yours", "your", "yourself", "you"], "answer": 2, "explanation_th": "เน้นว่าทำเองไม่มีใครช่วย → yourself", "why_wrong": ["yours = ของคุณ ไม่ได้แปลว่าด้วยตัวเอง", "your ต้องมีคำนามตาม", null, "make this cake you ไม่มีความหมาย"] },
+    { "id": "L04-07", "skill": "g.pronoun", "difficulty": 1, "stage": 1, "stem": "Our neighbors are very kind. We often visit ___.", "options": ["they", "their", "theirs", "them"], "answer": 3, "explanation_th": "หลังกริยา visit = กรรม หมายถึง neighbors (พหูพจน์) → them", "why_wrong": ["they เป็นประธาน", "their ต้องมีคำนามตาม", "theirs = ของพวกเขา ไม่ใช่ตัวพวกเขา", null] },
+    { "id": "L04-08", "skill": "g.pronoun", "difficulty": 1, "stage": 1, "stem": "I told ___ that I would be late for the meeting.", "options": ["him", "he", "his", "himself"], "answer": 0, "explanation_th": "หลังกริยา told = กรรม (ผู้ฟัง) → him", "why_wrong": [null, "he เป็นประธาน", "his ต้องมีคำนามตาม", "himself ใช้เมื่อประธานคือเขาเอง แต่ประธานคือ I"] },
+    { "id": "L04-09", "skill": "g.pronoun", "difficulty": 1, "stage": 1, "stem": "Is this bag ___? It has your name on it.", "options": ["your", "yours", "you", "yourself"], "answer": 1, "explanation_th": "ไม่มีคำนามตาม ใช้รูปยืนเดี่ยว yours (ของคุณ)", "why_wrong": ["your ต้องมีคำนามตาม เช่น your bag", null, "Is this bag you? = กระเป๋าคือตัวคุณ ผิดความหมาย", "yourself ไม่ได้บอกความเป็นเจ้าของ"] },
+    { "id": "L04-10", "skill": "g.pronoun", "difficulty": 2, "stage": 1, "stem": "The students did the project by ___, without any help from the teacher.", "options": ["them", "their", "themselves", "they"], "answer": 2, "explanation_th": "by + -self = ทำเองคนเดียว → by themselves", "why_wrong": ["by them = โดยคนอื่นกลุ่มหนึ่ง ไม่ใช่ตัวนักเรียนเอง", "their ต้องมีคำนามตาม", null, "หลังบุพบท by ใช้ they ไม่ได้"] },
+    { "id": "L04-11", "skill": "g.pronoun", "difficulty": 1, "stage": 1, "stem": "When the baby woke up, ___ started to cry.", "options": ["her", "hers", "herself", "she"], "answer": 3, "explanation_th": "หน้ากริยา started = ประธาน → she", "why_wrong": ["her เป็นกรรมหรือบอกเจ้าของ", "hers = ของเธอ", "herself ใช้เป็นกรรม", null] },
+    { "id": "L04-12", "skill": "g.pronoun", "difficulty": 1, "stage": 1, "stem": "Somsak forgot ___ homework at home again.", "options": ["his", "him", "he", "he's"], "answer": 0, "explanation_th": "หน้าคำนาม homework = เจ้าของ → his", "why_wrong": [null, "him เป็นกรรม วางหน้าคำนามไม่ได้", "he เป็นประธาน", "he's = he is"] },
+    { "id": "L04-13", "skill": "g.pronoun", "difficulty": 2, "stage": 1, "stem": "Everyone in the class has to bring ___ own lunch on Friday.", "options": ["there", "their", "they", "them"], "answer": 1, "explanation_th": "หน้า own lunch ต้องเป็นคำบอกเจ้าของ ภาษาอังกฤษปัจจุบันใช้ their กับ everyone ได้", "why_wrong": ["there = ที่นั่น", null, "they เป็นประธาน", "them เป็นกรรม"] },
+    { "id": "L04-14", "skill": "g.pronoun", "difficulty": 2, "stage": 1, "stem": "The company changed ___ logo last year.", "options": ["it's", "it", "its", "her"], "answer": 2, "explanation_th": "บริษัทเป็นสิ่งของ (it) โลโก้ของมัน → its", "why_wrong": ["it's = it is", "it ไม่ได้บอกเจ้าของ", null, "her ใช้กับผู้หญิง ไม่ใช่บริษัท"] },
+    { "id": "L04-15", "skill": "g.pronoun", "difficulty": 2, "stage": 1, "stem": "My brother and I share a bike. It is ___.", "options": ["our", "us", "we", "ours"], "answer": 3, "explanation_th": "ไม่มีคำนามตาม ใช้รูปยืนเดี่ยว ours (ของพวกเรา)", "why_wrong": ["our ต้องมีคำนามตาม เช่น our bike", "It is us = มันคือพวกเรา ผิดความหมาย", "we เป็นประธาน", null] },
+
+    { "id": "L04-16", "skill": "g.pronoun", "difficulty": 1, "stage": 2, "stem": "Kai has two cats. She feeds ___ every morning before school, and they follow her to the door.", "options": ["them", "they", "their", "it"], "answer": 0, "explanation_th": "หลังกริยา feeds = กรรม หมายถึง two cats → them", "why_wrong": [null, "they เป็นประธาน", "their ต้องมีคำนามตาม", "it เป็นเอกพจน์ แต่แมวมีสองตัว"] },
+    { "id": "L04-17", "skill": "g.pronoun", "difficulty": 1, "stage": 2, "stem": "Mr. and Mrs. Tan opened a small restaurant. ___ food is famous for its spicy curry.", "options": ["There", "Their", "They're", "Them"], "answer": 1, "explanation_th": "อาหารของพวกเขา หน้าคำนาม food → Their", "why_wrong": ["There = ที่นั่น", null, "They're = They are", "Them เป็นกรรม"] },
+    { "id": "L04-18", "skill": "g.pronoun", "difficulty": 1, "stage": 2, "stem": "My best friend and I had an argument yesterday, but today ___ are friends again.", "options": ["us", "our", "we", "ours"], "answer": 2, "explanation_th": "หน้ากริยา are = ประธาน หมายถึงเพื่อนกับฉัน → we", "why_wrong": ["us เป็นกรรม", "our ต้องมีคำนามตาม", null, "ours = ของพวกเรา"] },
+    { "id": "L04-19", "skill": "g.pronoun", "difficulty": 3, "stage": 2, "stem": "The old man was trapped in his car after the accident. He tried to push ___ way out, but the door would not open.", "options": ["him", "he", "himself", "his"], "answer": 3, "explanation_th": "สำนวน push/kick/fight + (เจ้าของ) way out = ดัน/เตะหาทางออก ใช้ his way", "why_wrong": ["him ไม่ได้บอกเจ้าของ (him way ผิด)", "he เป็นประธาน", "himself ไม่ใช้กับ way ในสำนวนนี้", null] },
+    { "id": "L04-20", "skill": "g.pronoun", "difficulty": 2, "stage": 2, "stem": "Pim lent me her dictionary because I had lost ___ on the bus.", "options": ["mine", "my", "me", "myself"], "answer": 0, "explanation_th": "หมายถึง my dictionary แต่ไม่พูดซ้ำ ใช้รูปยืนเดี่ยว mine", "why_wrong": [null, "my ต้องมีคำนามตาม", "lost me = ทำตัวเองหาย ผิดความหมาย", "lost myself = หลงทางในความคิด ไม่ใช่ทำพจนานุกรมหาย"] },
+    { "id": "L04-21", "skill": "g.pronoun", "difficulty": 2, "stage": 2, "stem": "The little boy was riding too fast. He hurt ___ when he fell off his bike.", "options": ["him", "himself", "his", "he"], "answer": 1, "explanation_th": "ทำร้ายตัวเอง (ประธานกับกรรมคือคนเดียวกัน) → himself", "why_wrong": ["hurt him = ทำร้ายผู้ชายอีกคน ความหมายเปลี่ยน", null, "his ต้องมีคำนามตาม", "he เป็นประธาน"] },
+    { "id": "L04-22", "skill": "g.pronoun", "difficulty": 1, "stage": 2, "stem": "Our school has a new library. ___ has more than ten thousand books.", "options": ["They", "Its", "It", "It's"], "answer": 2, "explanation_th": "หน้ากริยา has = ประธาน หมายถึง library (เอกพจน์ สิ่งของ) → It", "why_wrong": ["They เป็นพหูพจน์ แต่ห้องสมุดมีหนึ่งแห่ง", "Its ต้องมีคำนามตาม", null, "It's = It is ซ้อนกับ has ไม่ได้"] },
+    { "id": "L04-23", "skill": "g.pronoun", "difficulty": 1, "stage": 2, "stem": "My grandparents live in the countryside. I visit ___ every holiday, and my grandmother always cooks for me.", "options": ["they", "their", "theirs", "them"], "answer": 3, "explanation_th": "หลังกริยา visit = กรรม หมายถึง grandparents → them", "why_wrong": ["they เป็นประธาน", "their ต้องมีคำนามตาม", "theirs = ของพวกเขา", null] },
+    { "id": "L04-24", "skill": "g.pronoun", "difficulty": 1, "stage": 2, "stem": "Jane and Tom are twins, but ___ personalities are very different.", "options": ["their", "they're", "there", "them"], "answer": 0, "explanation_th": "นิสัยของพวกเขา หน้าคำนาม personalities → their", "why_wrong": [null, "they're = they are", "there = ที่นั่น", "them เป็นกรรม"] },
+    { "id": "L04-25", "skill": "g.pronoun", "difficulty": 1, "stage": 2, "stem": "When I needed help with math, my cousin explained the lessons to ___ patiently.", "options": ["I", "me", "my", "mine"], "answer": 1, "explanation_th": "หลังบุพบท to = กรรม → me", "why_wrong": ["หลังบุพบทใช้ I ไม่ได้", null, "my ต้องมีคำนามตาม", "mine = ของฉัน ไม่ใช่ตัวฉัน"] }
+  ],
+  "cloze": "C04"
+}

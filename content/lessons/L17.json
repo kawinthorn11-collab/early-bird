@@ -1,0 +1,679 @@
+{
+ "id": "L17",
+ "phase": 2,
+ "skill": "g.parallel",
+ "title_th": "คู่ขนาน: and / or / but ต้องรูปเดียวกัน",
+ "title_en": "Parallel structure",
+ "villain": "hydra",
+ "hook": {
+  "beats": [
+   {
+    "say": "ปิ๊ปเขียนรายการสิ่งที่ชอบทำวันหยุด",
+    "anim": "enter",
+    "board": "I like swimming, reading and ___."
+   },
+   {
+    "say": "ไฮดราสองหัว! หัวนี้ชอบ to dance หัวโน้นชอบ dance",
+    "actor": "villain",
+    "anim": "shake",
+    "board": "to dance? dance?"
+   },
+   {
+    "say": "ดูคำที่อยู่ในรายการเดียวกันก่อน swimming กับ reading เป็น ing",
+    "anim": "think",
+    "board": "swimming · reading · ___"
+   },
+   {
+    "say": "and or but เป็นตาชั่ง สองข้างต้องหน้าตาเหมือนกัน",
+    "anim": "jump",
+    "board": "swimming, reading and dancing"
+   },
+   {
+    "say": "ใช้กับคู่อื่นด้วย not only but also, first then, either or",
+    "anim": "zap",
+    "board": "She not only sings but also plays the piano."
+   },
+   {
+    "say": "หัวข้าทั้งสองต้องพูดเหมือนกันแล้ว!",
+    "actor": "villain",
+    "anim": "swap"
+   }
+  ]
+ },
+ "discover": {
+  "examples": [
+   "She likes swimming, reading and **dancing**.",
+   "He speaks slowly and **clearly**.",
+   "I would first wash the rice and then **cook** it.",
+   "She not only sings but also **plays** the piano."
+  ],
+  "question_th": "คำตัวหนาเลือกรูปจากอะไร?",
+  "options_th": [
+   "ให้หน้าตาเหมือนคำอีกฝั่งของ and / or / but / then",
+   "ใช้ V-ing เสมอ",
+   "ดูจากประธาน",
+   "เลือกรูปที่ยาวที่สุด"
+  ],
+  "answer": 0,
+  "reveal_th": "คำเชื่อมคู่ (and, or, but, not only…but also, either…or, first…then, not X but Y) ต้องเชื่อมของ \"ชนิดเดียวกัน รูปเดียวกัน\" — V-ing คู่ V-ing, to V คู่ to V, adverb คู่ adverb, กริยาแท้ tense เดียวกัน"
+ },
+ "rule": {
+  "line_th": "มองข้ามคำเชื่อม แล้วเลียนรูปคำฝั่งตรงข้ามให้เหมือน: V-ing↔V-ing · to V↔to V · V2↔V2 · adj↔adj · adv↔adv",
+  "memory_th": "⚖️ ตาชั่ง: and/or/but คือจุดกลางตาชั่ง ของสองข้างต้องเป็นชนิดเดียวกัน ไม่งั้นตาชั่งเอียง",
+  "terms": [
+   [
+    "parallel structure",
+    "โครงสร้างคู่ขนาน"
+   ],
+   [
+    "correlative conjunction",
+    "คำเชื่อมคู่ (not only…but also)"
+   ]
+  ]
+ },
+ "speak": [
+  "She likes swimming, reading and dancing.",
+  "He speaks slowly and clearly.",
+  "She not only sings but also plays the piano."
+ ],
+ "twists": [
+  {
+   "id": "L17-t1",
+   "skill": "g.parallel",
+   "type": "error",
+   "parts": [
+    "My hobbies are",
+    "cooking,",
+    "painting and",
+    "to play the guitar."
+   ],
+   "answer": 3,
+   "explanation_th": "รายการเป็น V-ing ทั้งหมด → playing the guitar",
+   "why_wrong": [
+    "ถูกแล้ว",
+    "ถูกแล้ว",
+    "ถูกแล้ว",
+    null
+   ]
+  },
+  {
+   "id": "L17-t2",
+   "skill": "g.parallel",
+   "type": "fill",
+   "stem": "He opened the door quietly and ___ walked in. (careful)",
+   "accept": [
+    "carefully"
+   ],
+   "hint_th": "คู่กับ quietly (adverb)",
+   "explanation_th": "quietly and carefully — adverb คู่ adverb"
+  },
+  {
+   "id": "L17-t3",
+   "skill": "g.parallel",
+   "type": "order",
+   "words": [
+    "She",
+    "not",
+    "only",
+    "dances",
+    "but",
+    "also",
+    "sings."
+   ],
+   "explanation_th": "not only dances but also sings — กริยาเติม s ทั้งคู่"
+  },
+  {
+   "id": "L17-t4",
+   "skill": "g.parallel",
+   "type": "match",
+   "prompt_th": "เติมให้ขนานกัน",
+   "pairs": [
+    [
+     "I like reading and ___.",
+     "writing"
+    ],
+    [
+     "I want to read and ___.",
+     "to write"
+    ],
+    [
+     "She reads and ___ every day.",
+     "writes"
+    ],
+    [
+     "He read a book and ___ a letter yesterday.",
+     "wrote"
+    ]
+   ],
+   "explanation_th": "เลียนรูปคำฝั่งตรงข้ามของ and"
+  }
+ ],
+ "questions": [
+  {
+   "id": "L17-01",
+   "skill": "g.parallel",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "She likes swimming, reading and ___.",
+   "options": [
+    "to dance",
+    "dancing",
+    "dance",
+    "danced"
+   ],
+   "answer": 1,
+   "explanation_th": "รายการเป็น V-ing → dancing",
+   "why_wrong": [
+    "to dance ไม่ขนานกับ swimming, reading",
+    null,
+    "dance ไม่ขนาน",
+    "danced ไม่ขนาน"
+   ]
+  },
+  {
+   "id": "L17-02",
+   "skill": "g.parallel",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "Our new teacher is smart, kind and ___.",
+   "options": [
+    "honestly",
+    "honesty",
+    "honest",
+    "to be honest"
+   ],
+   "answer": 2,
+   "explanation_th": "รายการเป็น adjective → honest",
+   "why_wrong": [
+    "honestly เป็น adverb",
+    "honesty เป็นคำนาม",
+    null,
+    "to be honest เป็นสำนวน ไม่ขนาน"
+   ]
+  },
+  {
+   "id": "L17-03",
+   "skill": "g.parallel",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "To cook rice, I would first wash it and then ___ it in a pot.",
+   "options": [
+    "cooking",
+    "cooked",
+    "to cook",
+    "cook"
+   ],
+   "answer": 3,
+   "explanation_th": "would first wash … and then cook — V1 ขนานกัน (หลัง would)",
+   "why_wrong": [
+    "cooking ไม่ขนานกับ wash",
+    "cooked ไม่ขนาน",
+    "to cook ไม่ขนาน",
+    null
+   ]
+  },
+  {
+   "id": "L17-04",
+   "skill": "g.parallel",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "She not only sings but also ___ the piano.",
+   "options": [
+    "plays",
+    "playing",
+    "to play",
+    "played"
+   ],
+   "answer": 0,
+   "explanation_th": "sings ↔ plays (กริยาเติม s เหมือนกัน)",
+   "why_wrong": [
+    null,
+    "playing ไม่ขนานกับ sings",
+    "to play ไม่ขนาน",
+    "played ไม่ขนาน"
+   ]
+  },
+  {
+   "id": "L17-05",
+   "skill": "g.parallel",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "We can get to Chiang Mai by bus or ___.",
+   "options": [
+    "on train",
+    "by train",
+    "to train",
+    "training"
+   ],
+   "answer": 1,
+   "explanation_th": "by bus ↔ by train",
+   "why_wrong": [
+    "on ต้องมี the (on the train) และไม่ขนานกับ by bus",
+    null,
+    "to train = ฝึก ความหมายผิด",
+    "training ความหมายผิด"
+   ]
+  },
+  {
+   "id": "L17-06",
+   "skill": "g.parallel",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "The teacher told us to read the text and ___ the questions.",
+   "options": [
+    "answering",
+    "answered",
+    "answer",
+    "answers"
+   ],
+   "answer": 2,
+   "explanation_th": "to read … and (to) answer — V1 ขนานกัน",
+   "why_wrong": [
+    "answering ไม่ขนาน",
+    "answered ไม่ขนาน",
+    null,
+    "answers ไม่ขนาน"
+   ]
+  },
+  {
+   "id": "L17-07",
+   "skill": "g.parallel",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "He spoke slowly and ___ so everyone could understand.",
+   "options": [
+    "clear",
+    "clarity",
+    "more clear",
+    "clearly"
+   ],
+   "answer": 3,
+   "explanation_th": "slowly ↔ clearly (adverb)",
+   "why_wrong": [
+    "clear เป็น adjective",
+    "clarity เป็นคำนาม",
+    "more clear เป็น adjective",
+    null
+   ]
+  },
+  {
+   "id": "L17-08",
+   "skill": "g.parallel",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "My plan is to finish school, find a job and ___ money for my family.",
+   "options": [
+    "save",
+    "saving",
+    "saved",
+    "to saving"
+   ],
+   "answer": 0,
+   "explanation_th": "to finish, (to) find and (to) save — V1 ขนาน",
+   "why_wrong": [
+    null,
+    "saving ไม่ขนาน",
+    "saved ไม่ขนาน",
+    "to saving ผิดรูป"
+   ]
+  },
+  {
+   "id": "L17-09",
+   "skill": "g.parallel",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "After the long race, she was tired but ___.",
+   "options": [
+    "happily",
+    "happy",
+    "happiness",
+    "happier than"
+   ],
+   "answer": 1,
+   "explanation_th": "tired ↔ happy (adjective หลัง was)",
+   "why_wrong": [
+    "happily เป็น adverb",
+    null,
+    "happiness เป็นคำนาม",
+    "happier than ต้องมีสิ่งเปรียบเทียบ"
+   ]
+  },
+  {
+   "id": "L17-10",
+   "skill": "g.parallel",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Either you apologize to her, or you ___ the room.",
+   "options": [
+    "leaving",
+    "left",
+    "leave",
+    "to leave"
+   ],
+   "answer": 2,
+   "explanation_th": "you apologize ↔ you leave",
+   "why_wrong": [
+    "leaving ไม่ขนาน",
+    "left ไม่ขนาน",
+    null,
+    "to leave ไม่ขนาน"
+   ]
+  },
+  {
+   "id": "L17-11",
+   "skill": "g.parallel",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "For your heart, running is better than ___.",
+   "options": [
+    "to walk",
+    "walk",
+    "walked",
+    "walking"
+   ],
+   "answer": 3,
+   "explanation_th": "running ↔ walking",
+   "why_wrong": [
+    "to walk ไม่ขนานกับ running",
+    "walk ไม่ขนาน",
+    "walked ไม่ขนาน",
+    null
+   ]
+  },
+  {
+   "id": "L17-12",
+   "skill": "g.parallel",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "This job requires patience, creativity and ___.",
+   "options": [
+    "honesty",
+    "honest",
+    "honestly",
+    "to be honest"
+   ],
+   "answer": 0,
+   "explanation_th": "รายการเป็นคำนาม → honesty",
+   "why_wrong": [
+    null,
+    "honest เป็น adjective",
+    "honestly เป็น adverb",
+    "to be honest เป็นสำนวน"
+   ]
+  },
+  {
+   "id": "L17-13",
+   "skill": "g.parallel",
+   "difficulty": 3,
+   "stage": 1,
+   "stem": "The aim of the project was not to win prizes but ___ the local community.",
+   "options": [
+    "helping",
+    "to help",
+    "helps",
+    "helped"
+   ],
+   "answer": 1,
+   "explanation_th": "not to win … but to help — to V ขนานกัน",
+   "why_wrong": [
+    "helping ไม่ขนานกับ to win",
+    null,
+    "helps ไม่ขนานกับ to win",
+    "helped ไม่ขนาน"
+   ]
+  },
+  {
+   "id": "L17-14",
+   "skill": "g.parallel",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "Julius Caesar famously said, \"I came, I saw, I ___.\"",
+   "options": [
+    "win",
+    "winning",
+    "conquered",
+    "to conquer"
+   ],
+   "answer": 2,
+   "explanation_th": "came, saw ↔ conquered (V2)",
+   "why_wrong": [
+    "win เป็นปัจจุบัน ไม่ขนาน",
+    "winning ไม่ขนาน",
+    null,
+    "to conquer ไม่ขนาน"
+   ]
+  },
+  {
+   "id": "L17-15",
+   "skill": "g.parallel",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "She enjoys hiking in the mountains and ___ in the sea.",
+   "options": [
+    "swim",
+    "to swim",
+    "swam",
+    "swimming"
+   ],
+   "answer": 3,
+   "explanation_th": "hiking ↔ swimming (หลัง enjoys)",
+   "why_wrong": [
+    "swim ไม่ขนาน",
+    "to swim ไม่ขนาน และ enjoy ไม่ตามด้วย to",
+    "swam ไม่ขนาน",
+    null
+   ]
+  },
+  {
+   "id": "L17-16",
+   "skill": "g.parallel",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "My grandmother is very active. Every morning she wakes up at five, waters the garden and ___ breakfast for the whole family.",
+   "options": [
+    "cooks",
+    "cooking",
+    "to cook",
+    "cooked"
+   ],
+   "answer": 0,
+   "explanation_th": "wakes, waters ↔ cooks",
+   "why_wrong": [
+    null,
+    "cooking ไม่ขนาน",
+    "to cook ไม่ขนาน",
+    "cooked ไม่ขนาน"
+   ]
+  },
+  {
+   "id": "L17-17",
+   "skill": "g.parallel",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "University is different from high school. To succeed, you need to manage your time, ask questions and ___ every day.",
+   "options": [
+    "reviewing your notes",
+    "review your notes",
+    "reviewed your notes",
+    "to reviewing your notes"
+   ],
+   "answer": 1,
+   "explanation_th": "to manage, (to) ask and (to) review — V1 ขนาน",
+   "why_wrong": [
+    "reviewing ไม่ขนาน",
+    null,
+    "reviewed ไม่ขนาน",
+    "to reviewing ผิดรูป"
+   ]
+  },
+  {
+   "id": "L17-18",
+   "skill": "g.parallel",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "Some parents worried about the new law. But the minister said it was meant not to punish families but ___ them.",
+   "options": [
+    "supporting",
+    "supports",
+    "to support",
+    "supported"
+   ],
+   "answer": 2,
+   "explanation_th": "not to punish … but to support",
+   "why_wrong": [
+    "supporting ไม่ขนาน",
+    "supports ไม่ขนานกับ to punish",
+    null,
+    "supported ไม่ขนาน"
+   ]
+  },
+  {
+   "id": "L17-19",
+   "skill": "g.parallel",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "I did not enjoy my stay at the hotel. The room was small, dark and ___.",
+   "options": [
+    "noise",
+    "noisily",
+    "a noise",
+    "noisy"
+   ],
+   "answer": 3,
+   "explanation_th": "small, dark ↔ noisy (adjective)",
+   "why_wrong": [
+    "noise เป็นคำนาม",
+    "noisily เป็น adverb",
+    "a noise เป็นคำนาม",
+    null
+   ]
+  },
+  {
+   "id": "L17-20",
+   "skill": "g.parallel",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Ploy is a fast and careful student. She finished her homework quickly and ___.",
+   "options": [
+    "correctly",
+    "correct",
+    "correction",
+    "more correct"
+   ],
+   "answer": 0,
+   "explanation_th": "quickly ↔ correctly",
+   "why_wrong": [
+    null,
+    "correct เป็น adjective",
+    "correction เป็นคำนาม",
+    "more correct เป็น adjective"
+   ]
+  },
+  {
+   "id": "L17-21",
+   "skill": "g.parallel",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "During the holidays, my brother likes playing games, watching movies and ___ late.",
+   "options": [
+    "sleep",
+    "sleeping",
+    "to sleep",
+    "slept"
+   ],
+   "answer": 1,
+   "explanation_th": "playing, watching ↔ sleeping",
+   "why_wrong": [
+    "sleep ไม่ขนาน",
+    null,
+    "to sleep ไม่ขนาน",
+    "slept ไม่ขนาน"
+   ]
+  },
+  {
+   "id": "L17-22",
+   "skill": "g.parallel",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "The fishermen woke up before sunrise. They first checked their nets and then ___ out to sea.",
+   "options": [
+    "sailing",
+    "to sail",
+    "sailed",
+    "sail"
+   ],
+   "answer": 2,
+   "explanation_th": "checked ↔ sailed (V2)",
+   "why_wrong": [
+    "sailing ไม่ขนาน",
+    "to sail ไม่ขนาน",
+    null,
+    "sail เป็นปัจจุบัน ไม่ขนานกับ checked"
+   ]
+  },
+  {
+   "id": "L17-23",
+   "skill": "g.parallel",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Read the conditions carefully. The scholarship pays for tuition fees but not for ___.",
+   "options": [
+    "accommodate",
+    "accommodated",
+    "accommodating",
+    "accommodation"
+   ],
+   "answer": 3,
+   "explanation_th": "for tuition fees ↔ for accommodation (คำนาม)",
+   "why_wrong": [
+    "accommodate เป็นกริยา",
+    "accommodated เป็นกริยา",
+    "accommodating เป็น adjective",
+    null
+   ]
+  },
+  {
+   "id": "L17-24",
+   "skill": "g.parallel",
+   "difficulty": 1,
+   "stage": 2,
+   "stem": "Good students listen carefully, take notes and ___ when they do not understand.",
+   "options": [
+    "ask questions",
+    "asking questions",
+    "asked questions",
+    "to ask questions"
+   ],
+   "answer": 0,
+   "explanation_th": "listen, take ↔ ask (V1)",
+   "why_wrong": [
+    null,
+    "asking ไม่ขนาน",
+    "asked ไม่ขนาน",
+    "to ask ไม่ขนาน"
+   ]
+  },
+  {
+   "id": "L17-25",
+   "skill": "g.parallel",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Reading English news every day is useful not only for learning vocabulary but also for ___ about the world.",
+   "options": [
+    "learn",
+    "learning",
+    "to learn",
+    "learned"
+   ],
+   "answer": 1,
+   "explanation_th": "for learning ↔ for learning (บุพบท + V-ing)",
+   "why_wrong": [
+    "หลังบุพบทใช้ V1 ไม่ได้",
+    null,
+    "หลัง for ไม่ใช้ to V",
+    "learned ไม่ขนาน"
+   ]
+  }
+ ],
+ "cloze": "C17"
+}

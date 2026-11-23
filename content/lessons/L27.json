@@ -1,0 +1,731 @@
+{
+ "id": "L27",
+ "phase": 2,
+ "skill": "g.reported",
+ "title_th": "เขาพูดว่าอะไรนะ? (Reported speech)",
+ "title_en": "Reported speech: said, told, asked",
+ "villain": "boo",
+ "hook": {
+  "beats": [
+   {
+    "say": "ปิ๊ปกลับถึงบ้าน อยากเล่าให้แม่ฟังว่าครูชมอะไรในห้องเรียน",
+    "anim": "enter",
+    "board": "Teacher: \"I am proud of you.\""
+   },
+   {
+    "say": "ข้าคือบู! ลอกคำพูดมาทั้งดุ้นเลยสิ ครูพูดว่า I am ก็ใส่ I am ไปเลย!",
+    "actor": "villain",
+    "anim": "shake",
+    "board": "She said that I am proud of you??"
+   },
+   {
+    "say": "เล่าคำพูดคนอื่น ต้องเปลี่ยนสามอย่าง คนพูด tense และคำบอกเวลา",
+    "anim": "think",
+    "board": "I → she · am → was · you → us"
+   },
+   {
+    "say": "ครูเป็นคนภูมิใจ ไม่ใช่เรา เลยใช้ she และถอย am เป็น was",
+    "anim": "jump",
+    "board": "My teacher said that she was proud of us."
+   },
+   {
+    "say": "คำถามที่เล่าต่อไม่ใช่คำถามแล้ว เรียงแบบประโยคบอกเล่า ส่วนคำสั่งใช้ told + คน + to V",
+    "anim": "zap",
+    "board": "She asked where I lived. · He told me to sit down."
+   },
+   {
+    "say": "โอ๊ย ชี้ผิดคนไม่ได้แล้ว ข้ากลับบ้านดีกว่า!",
+    "actor": "villain",
+    "anim": "swap"
+   }
+  ]
+ },
+ "discover": {
+  "examples": [
+   "\"I **am** hungry,\" Nok said. → Nok said that she **was** hungry.",
+   "\"Where **do you live**?\" → He asked me where **I lived**.",
+   "\"Sit down.\" → She **told me to sit** down.",
+   "\"I'll call you **tomorrow**.\" → He said he **would** call me **the next day**."
+  ],
+  "question_th": "เวลาเล่าคำพูดคนอื่นด้วย said / asked / told อะไรเปลี่ยนบ้าง?",
+  "options_th": [
+   "tense ถอยหลังหนึ่งขั้น และสรรพนามกับคำบอกเวลาเปลี่ยนตามผู้เล่า",
+   "ไม่มีอะไรเปลี่ยนเลย",
+   "เปลี่ยนแค่เครื่องหมายคำพูด",
+   "เปลี่ยนเป็นอนาคตทั้งหมด"
+  ],
+  "answer": 0,
+  "reveal_th": "am / is → was · are → were · do / does → did หรือ V2 · will → would · can → could · have done / did → had done · คำถาม: asked if / asked where + ประธาน + กริยา (ไม่สลับ) · คำสั่ง: told + คน + to V / not to V · say ไม่ตามด้วยคนทันที (said that) แต่ tell ต้องมีคน (told me) · today → that day · tomorrow → the next day · yesterday → the day before · here → there"
+ },
+ "rule": {
+  "line_th": "เล่าคำพูด: tense ถอยหนึ่งขั้น · I / my เปลี่ยนตามคนพูด · คำถามเรียงแบบบอกเล่า (asked if / where + ประธาน + กริยา) · คำสั่ง told + คน + (not) to V",
+  "memory_th": "📼 เทปย้อนหลัง: กดเล่นคำพูดเก่า ทุกอย่างถอยไปหนึ่งช่อง (am → was, will → would, tomorrow → the next day) แล้วเปลี่ยนป้ายชื่อให้ถูกคนพูด",
+  "terms": [
+   [
+    "reported speech",
+    "การเล่าคำพูดคนอื่น"
+   ],
+   [
+    "backshift",
+    "การถอย tense"
+   ],
+   [
+    "reported question",
+    "คำถามที่เล่าต่อ (asked if / where)"
+   ],
+   [
+    "say vs tell",
+    "say ไม่ต้องมีคน / tell ต้องมีคน"
+   ]
+  ]
+ },
+ "speak": [
+  "She said that she was tired.",
+  "He asked me where I lived.",
+  "The teacher told us not to run in the hall."
+ ],
+ "twists": [
+  {
+   "id": "L27-t1",
+   "skill": "g.reported",
+   "type": "error",
+   "parts": [
+    "She asked me",
+    "where",
+    "did I live,",
+    "and I told her."
+   ],
+   "answer": 2,
+   "explanation_th": "คำถามที่เล่าต่อเรียงแบบบอกเล่า ต้องเป็น where I lived",
+   "why_wrong": [
+    "asked me ถูกแล้ว",
+    "where ถูกแล้ว",
+    null,
+    "told her ถูกแล้ว"
+   ]
+  },
+  {
+   "id": "L27-t2",
+   "skill": "g.reported",
+   "type": "fill",
+   "stem": "\"Don't be late,\" the teacher said. → The teacher told us ___ late.",
+   "accept": [
+    "not to be"
+   ],
+   "hint_th": "คำสั่งห้าม: told + คน + not to V",
+   "explanation_th": "don't be → not to be"
+  },
+  {
+   "id": "L27-t3",
+   "skill": "g.reported",
+   "type": "order",
+   "words": [
+    "He",
+    "asked",
+    "me",
+    "if",
+    "I",
+    "was",
+    "hungry."
+   ],
+   "explanation_th": "asked + คน + if + ประธาน + กริยา (ไม่สลับเป็นรูปคำถาม)"
+  },
+  {
+   "id": "L27-t4",
+   "skill": "g.reported",
+   "type": "match",
+   "prompt_th": "จับคู่คำในคำพูดเดิมกับคำที่ใช้ตอนเล่าต่อ",
+   "pairs": [
+    [
+     "today",
+     "that day"
+    ],
+    [
+     "tomorrow",
+     "the next day"
+    ],
+    [
+     "yesterday",
+     "the day before"
+    ],
+    [
+     "here",
+     "there"
+    ],
+    [
+     "will",
+     "would"
+    ]
+   ],
+   "explanation_th": "เวลา สถานที่ และ tense ถอยออกไปจากตอนที่เล่า"
+  },
+  {
+   "id": "L27-t5",
+   "skill": "g.reported",
+   "type": "error",
+   "parts": [
+    "My mum",
+    "said me",
+    "to clean",
+    "my room."
+   ],
+   "answer": 1,
+   "explanation_th": "มีคนตามหลัง ต้องใช้ told me ไม่ใช่ said me",
+   "why_wrong": [
+    "ประธาน ถูกแล้ว",
+    null,
+    "told + คน + to V ถูกแล้ว",
+    "my room ถูกแล้ว"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "L27-01",
+   "skill": "g.reported",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"I am so tired after the run,\" Nok said. → Nok said that she ___ so tired after the run.",
+   "options": [
+    "am",
+    "was",
+    "were",
+    "be"
+   ],
+   "answer": 1,
+   "explanation_th": "เล่าคำพูด am ถอยเป็น was + she เอกพจน์ → was",
+   "why_wrong": [
+    "am ใช้กับ I เท่านั้น แต่ประธานตอนนี้คือ she",
+    null,
+    "she ใช้ was ไม่ใช่ were",
+    "be ไม่ผันตามประธาน ใช้เป็นกริยาแท้ไม่ได้"
+   ]
+  },
+  {
+   "id": "L27-02",
+   "skill": "g.reported",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"I really like spicy noodles,\" Tom said. → Tom said that ___ really liked spicy noodles.",
+   "options": [
+    "I",
+    "him",
+    "he",
+    "his"
+   ],
+   "answer": 2,
+   "explanation_th": "I ของ Tom เปลี่ยนเป็น he ตอนเล่าต่อ และช่องนี้เป็นประธาน → he",
+   "why_wrong": [
+    "I = ผู้เล่า ไม่ใช่ Tom",
+    "him เป็นกรรม ใช้เป็นประธานไม่ได้",
+    null,
+    "his แสดงความเป็นเจ้าของ ใช้เป็นประธานไม่ได้"
+   ]
+  },
+  {
+   "id": "L27-03",
+   "skill": "g.reported",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "My teacher ___ me to sit down and open my book.",
+   "options": [
+    "said",
+    "spoke",
+    "talked",
+    "told"
+   ],
+   "answer": 3,
+   "explanation_th": "มีคน (me) ตามหลัง + to V → told me to",
+   "why_wrong": [
+    "said ไม่ตามด้วยคนทันที (said me ผิด)",
+    "spoke me to ผิดรูป",
+    "talked me to ผิดรูป",
+    null
+   ]
+  },
+  {
+   "id": "L27-04",
+   "skill": "g.reported",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "Ann ___ that she was hungry, so we went to the food court.",
+   "options": [
+    "said",
+    "told",
+    "talked",
+    "spoke"
+   ],
+   "answer": 0,
+   "explanation_th": "ไม่มีคนตามหลัง ตามด้วย that ทันที → said that",
+   "why_wrong": [
+    null,
+    "told ต้องมีคนตามหลัง (told us that)",
+    "talked that ผิดรูป",
+    "spoke that ผิดรูป"
+   ]
+  },
+  {
+   "id": "L27-05",
+   "skill": "g.reported",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"Close the door, please,\" Dad said to me. → Dad told me ___ the door.",
+   "options": [
+    "close",
+    "to close",
+    "closing",
+    "closed"
+   ],
+   "answer": 1,
+   "explanation_th": "เล่าคำสั่ง: told + คน + to V → to close",
+   "why_wrong": [
+    "หลัง told me ต้องมี to",
+    null,
+    "told me ตามด้วย to V ไม่ใช่ V-ing",
+    "told me ตามด้วย to V ไม่ใช่กริยาช่องสอง"
+   ]
+  },
+  {
+   "id": "L27-06",
+   "skill": "g.reported",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"Don't touch the birthday cake,\" Mum said. → Mum told us ___ the birthday cake.",
+   "options": [
+    "don't touch",
+    "not touching",
+    "not to touch",
+    "didn't touch"
+   ],
+   "answer": 2,
+   "explanation_th": "คำสั่งห้าม: told + คน + not to V → not to touch",
+   "why_wrong": [
+    "ใช้ don't ตอนเล่าต่อไม่ได้ ต้องเป็น not to",
+    "told us ตามด้วย not to V ไม่ใช่ V-ing",
+    null,
+    "didn't touch บอกเหตุการณ์ ไม่ใช่คำสั่งห้าม"
+   ]
+  },
+  {
+   "id": "L27-07",
+   "skill": "g.reported",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"Are you hungry?\" she asked. → She asked me ___ hungry.",
+   "options": [
+    "was I",
+    "am I",
+    "if was I",
+    "if I was"
+   ],
+   "answer": 3,
+   "explanation_th": "คำถาม yes/no → asked + if + ประธาน + กริยา (เรียงแบบบอกเล่า) → if I was",
+   "why_wrong": [
+    "ห้ามสลับเป็นรูปคำถาม และขาด if",
+    "ห้ามสลับเป็นรูปคำถาม และ tense ต้องถอย",
+    "หลัง if ต้องเป็นประธานก่อนกริยา (if I was)",
+    null
+   ]
+  },
+  {
+   "id": "L27-08",
+   "skill": "g.reported",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"Where do you live?\" the new teacher asked me. → The new teacher asked me where ___.",
+   "options": [
+    "I lived",
+    "did I live",
+    "do I live",
+    "lived I"
+   ],
+   "answer": 0,
+   "explanation_th": "คำถามที่เล่าต่อเรียงแบบบอกเล่า: where + ประธาน + กริยา และ tense ถอย → I lived",
+   "why_wrong": [
+    null,
+    "ห้ามใช้รูปคำถาม (did I) ใน reported question",
+    "ห้ามใช้รูปคำถาม และ tense ต้องถอย",
+    "ประธานต้องมาก่อนกริยา"
+   ]
+  },
+  {
+   "id": "L27-09",
+   "skill": "g.reported",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"I will help you with your project,\" Ben said. → Ben said that he ___ me with my project.",
+   "options": [
+    "would helped",
+    "would help",
+    "will helped",
+    "would to help"
+   ],
+   "answer": 1,
+   "explanation_th": "will ถอยเป็น would + กริยาช่องหนึ่ง → would help",
+   "why_wrong": [
+    "หลัง would ต้องเป็นกริยาช่องหนึ่ง",
+    null,
+    "หลัง will ต้องเป็นกริยาช่องหนึ่ง",
+    "หลัง would ไม่มี to"
+   ]
+  },
+  {
+   "id": "L27-10",
+   "skill": "g.reported",
+   "difficulty": 3,
+   "stage": 1,
+   "stem": "Last month, Kim said, \"I saw a snake yesterday.\" → Last month, Kim said that she had seen a snake ___.",
+   "options": [
+    "yesterday",
+    "tomorrow",
+    "the day before",
+    "the next day"
+   ],
+   "answer": 2,
+   "explanation_th": "เล่าเรื่องเมื่อเดือนก่อน yesterday ต้องเปลี่ยนเป็น the day before",
+   "why_wrong": [
+    "yesterday ตอนนี้หมายถึงเมื่อวานของวันนี้ ไม่ใช่วันก่อนที่ Kim พูด",
+    "tomorrow เป็นอนาคต ขัดกับ had seen",
+    null,
+    "the next day = วันถัดไป ใช้แทน tomorrow ไม่ใช่ yesterday"
+   ]
+  },
+  {
+   "id": "L27-11",
+   "skill": "g.reported",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"We are watching a cartoon,\" the kids said. → The kids said that they ___ a cartoon.",
+   "options": [
+    "was watching",
+    "watching",
+    "have watch",
+    "were watching"
+   ],
+   "answer": 3,
+   "explanation_th": "are watching ถอยเป็น were watching + they → were watching",
+   "why_wrong": [
+    "they ใช้ were ไม่ใช่ was",
+    "ขาด were",
+    "ผิดรูป (have + V3) และความหมายไม่ตรง",
+    null
+   ]
+  },
+  {
+   "id": "L27-12",
+   "skill": "g.reported",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"I have finished my homework,\" Joe said. → Joe said that he ___ his homework.",
+   "options": [
+    "had finished",
+    "had finish",
+    "have finished",
+    "has finish"
+   ],
+   "answer": 0,
+   "explanation_th": "have finished ถอยเป็น had finished",
+   "why_wrong": [
+    null,
+    "หลัง had ต้องเป็นกริยาช่องสาม finished",
+    "he ใช้ has ไม่ใช่ have และ tense ต้องถอย",
+    "หลัง has ต้องเป็นกริยาช่องสาม"
+   ]
+  },
+  {
+   "id": "L27-13",
+   "skill": "g.reported",
+   "difficulty": 3,
+   "stage": 1,
+   "stem": "\"Can you swim?\" the coach asked me. → The coach asked me ___ swim.",
+   "options": [
+    "could I",
+    "if I could",
+    "can I",
+    "if could I"
+   ],
+   "answer": 1,
+   "explanation_th": "yes/no question → if + ประธาน + กริยา และ can ถอยเป็น could → if I could",
+   "why_wrong": [
+    "ห้ามสลับเป็นรูปคำถาม และขาด if",
+    null,
+    "ห้ามสลับเป็นรูปคำถาม และ can ต้องถอย",
+    "หลัง if ต้องเป็นประธานก่อนกริยา"
+   ]
+  },
+  {
+   "id": "L27-14",
+   "skill": "g.reported",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"Please be quiet,\" the librarian said to the students. → The librarian ___ the students to be quiet.",
+   "options": [
+    "said",
+    "talked",
+    "asked",
+    "spoke"
+   ],
+   "answer": 2,
+   "explanation_th": "คำขอร้อง (please): asked + คน + to V → asked",
+   "why_wrong": [
+    "said ไม่ตามด้วยคนทันที",
+    "talked + คน + to V ผิดรูป",
+    null,
+    "spoke + คน + to V ผิดรูป"
+   ]
+  },
+  {
+   "id": "L27-15",
+   "skill": "g.reported",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"This is my new bike,\" Pim said. → Pim said that it was ___ new bike. She was very proud of it.",
+   "options": [
+    "my",
+    "their",
+    "its",
+    "her"
+   ],
+   "answer": 3,
+   "explanation_th": "my ของ Pim (ผู้หญิง She) เปลี่ยนเป็น her",
+   "why_wrong": [
+    "my = ของผู้เล่า ไม่ใช่ของ Pim",
+    "their = ของพวกเขา แต่ Pim คนเดียว",
+    "its ใช้กับสัตว์หรือสิ่งของ ไม่ใช้กับคน",
+    null
+   ]
+  },
+  {
+   "id": "L27-16",
+   "skill": "g.reported",
+   "difficulty": 3,
+   "stage": 1,
+   "stem": "Last Sunday, Mai phoned and said, \"I'm at the beach now.\" → Mai said that she was at the beach ___.",
+   "options": [
+    "at that time",
+    "now",
+    "tomorrow",
+    "ago"
+   ],
+   "answer": 0,
+   "explanation_th": "เล่าเรื่องวันอาทิตย์ที่แล้ว now ต้องเปลี่ยนเป็น at that time",
+   "why_wrong": [
+    null,
+    "now หมายถึงตอนนี้ ไม่ใช่ตอนที่ Mai โทรมา",
+    "tomorrow เป็นอนาคต ขัดกับ was",
+    "ago ต้องมีช่วงเวลานำหน้า (two days ago)"
+   ]
+  },
+  {
+   "id": "L27-17",
+   "skill": "g.reported",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Yesterday at lunch, Kai looked at my new phone. He asked me how much ___. I told him it was a birthday present, so I did not know.",
+   "options": [
+    "did it cost",
+    "it had cost",
+    "had it cost",
+    "does it cost"
+   ],
+   "answer": 1,
+   "explanation_th": "คำถามที่เล่าต่อเรียงแบบบอกเล่า: how much + ประธาน + กริยา → it had cost",
+   "why_wrong": [
+    "ห้ามใช้รูปคำถาม (did it) ใน reported question",
+    null,
+    "ห้ามสลับ had มาไว้หน้าประธาน",
+    "ห้ามใช้รูปคำถาม และ tense ต้องถอย"
+   ]
+  },
+  {
+   "id": "L27-18",
+   "skill": "g.reported",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "On Monday, our teacher said, \"The test will be on Friday.\" I told my mum that our teacher had said the test ___ on Friday.",
+   "options": [
+    "would is",
+    "will being",
+    "would be",
+    "would been"
+   ],
+   "answer": 2,
+   "explanation_th": "will ถอยเป็น would + be → would be",
+   "why_wrong": [
+    "หลัง would ต้องเป็นกริยาช่องหนึ่ง (be)",
+    "หลัง will ไม่เติม -ing",
+    null,
+    "หลัง would ต้องเป็น be ไม่ใช่ been"
+   ]
+  },
+  {
+   "id": "L27-19",
+   "skill": "g.reported",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "At the airport, an old woman stopped me. She asked me ___. I showed her the way and she thanked me.",
+   "options": [
+    "where were the toilets",
+    "where are the toilets",
+    "the toilets where were",
+    "where the toilets were"
+   ],
+   "answer": 3,
+   "explanation_th": "คำถามที่เล่าต่อเรียงแบบบอกเล่า: where + ประธาน + กริยา → where the toilets were",
+   "why_wrong": [
+    "ห้ามสลับกริยามาไว้หน้าประธาน",
+    "ห้ามใช้รูปคำถาม และ tense ต้องถอย",
+    "where ต้องอยู่หน้าสุด ลำดับคำผิด",
+    null
+   ]
+  },
+  {
+   "id": "L27-20",
+   "skill": "g.reported",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "My little brother wanted to play outside, but it was raining hard. My mother told him ___ out in the rain.",
+   "options": [
+    "not to go",
+    "don't go",
+    "not go",
+    "to not going"
+   ],
+   "answer": 0,
+   "explanation_th": "คำสั่งห้าม: told + คน + not to V → not to go",
+   "why_wrong": [
+    null,
+    "ใช้ don't ตอนเล่าคำสั่งต่อไม่ได้",
+    "ขาด to (not to go)",
+    "หลัง to ต้องเป็นกริยาช่องหนึ่ง และ not ควรอยู่หน้า to"
+   ]
+  },
+  {
+   "id": "L27-21",
+   "skill": "g.reported",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "Last night Dad came home very late. Mum asked him ___ he had eaten dinner, and he said no.",
+   "options": [
+    "that",
+    "if",
+    "what",
+    "does"
+   ],
+   "answer": 1,
+   "explanation_th": "yes/no question ที่เล่าต่อ → asked + if",
+   "why_wrong": [
+    "asked that ใช้เล่าคำถามไม่ได้",
+    null,
+    "what ต้องตามด้วยประโยคที่ขาดกรรม แต่ he had eaten dinner ครบแล้ว",
+    "does เป็นรูปคำถามและเป็นปัจจุบัน ใช้ในตำแหน่งนี้ไม่ได้"
+   ]
+  },
+  {
+   "id": "L27-22",
+   "skill": "g.reported",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "Bee called me on Saturday morning. She was sorry, but she told me that she ___ come to my party that evening.",
+   "options": [
+    "couldn't to",
+    "doesn't can",
+    "couldn't",
+    "not could"
+   ],
+   "answer": 2,
+   "explanation_th": "can't ถอยเป็น couldn't",
+   "why_wrong": [
+    "หลัง couldn't ไม่มี to",
+    "can ใช้กับ doesn't ไม่ได้",
+    null,
+    "ต้องเป็น could not ไม่ใช่ not could"
+   ]
+  },
+  {
+   "id": "L27-23",
+   "skill": "g.reported",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "We met our new neighbour this morning. He ___ us that he had just moved from Singapore with his family.",
+   "options": [
+    "said",
+    "talked",
+    "spoke",
+    "told"
+   ],
+   "answer": 3,
+   "explanation_th": "มีคน (us) ตามหลัง → told us that",
+   "why_wrong": [
+    "said ไม่ตามด้วยคนทันที (said to us ได้ แต่ said us ไม่ได้)",
+    "talked us that ผิดรูป",
+    "spoke us that ผิดรูป",
+    null
+   ]
+  },
+  {
+   "id": "L27-24",
+   "skill": "g.reported",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "A new student was standing alone at the school gate. She looked lost, so I went to her and asked her what ___.",
+   "options": [
+    "her name was",
+    "was her name",
+    "is her name",
+    "did her name be"
+   ],
+   "answer": 0,
+   "explanation_th": "what + ประธาน + กริยา (เรียงแบบบอกเล่า) → her name was",
+   "why_wrong": [
+    null,
+    "ห้ามสลับกริยามาไว้หน้าประธาน",
+    "ห้ามสลับเป็นรูปคำถาม และ tense ต้องถอย",
+    "ผิดรูป ใช้ did กับ be ไม่ได้"
+   ]
+  },
+  {
+   "id": "L27-25",
+   "skill": "g.reported",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "During training, the coach shouted at us, \"Run faster!\" Later I told my friends that the coach ___ faster.",
+   "options": [
+    "had told to us run",
+    "had told us to run",
+    "had said us to run",
+    "had told us run"
+   ],
+   "answer": 1,
+   "explanation_th": "เล่าคำสั่ง: told + คน + to V → had told us to run",
+   "why_wrong": [
+    "หลัง told ต้องเป็นคนทันที ไม่มี to หน้าคน",
+    null,
+    "said ไม่ตามด้วยคน",
+    "ขาด to หน้า run"
+   ]
+  },
+  {
+   "id": "L27-26",
+   "skill": "g.reported",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "Last Friday at the library, Mew said to me, \"I'll meet you here tomorrow.\" Now I am at home, and I tell my mum, \"Mew said she would meet me ___ the next day.\"",
+   "options": [
+    "here",
+    "at there",
+    "there",
+    "these"
+   ],
+   "answer": 2,
+   "explanation_th": "ตอนนี้อยู่บ้าน ไม่ได้อยู่ห้องสมุด here จึงเปลี่ยนเป็น there",
+   "why_wrong": [
+    "here หมายถึงบ้านที่ผู้เล่าอยู่ตอนนี้ ไม่ใช่ห้องสมุด",
+    "there ไม่ต้องมี at นำหน้า",
+    null,
+    "these ใช้ชี้คำนามพหูพจน์ ไม่ได้บอกสถานที่"
+   ]
+  }
+ ],
+ "cloze": "C23"
+}

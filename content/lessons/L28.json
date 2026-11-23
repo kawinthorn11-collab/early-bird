@@ -1,0 +1,719 @@
+{
+ "id": "L28",
+ "phase": 3,
+ "skill": "r.main-idea",
+ "title_th": "ร่มคลุมทั้งเรื่อง (Main idea / Title / Purpose)",
+ "title_en": "Main idea, best title and the writer's purpose",
+ "villain": "boo",
+ "hook": {
+  "beats": [
+   {
+    "say": "ปิ๊ปอ่านโพสต์เรื่องแมวนอนเยอะ แล้วต้องเลือกชื่อเรื่องที่ดีที่สุด",
+    "anim": "enter",
+    "board": "Cats sleep about 15 hours a day. They sleep more when it rains..."
+   },
+   {
+    "say": "ข้าคือบู! เลือก Cats Hate Rain สิ มีคำว่า rain ในบทความด้วยนะ!",
+    "actor": "villain",
+    "anim": "shake",
+    "board": "Cats Hate Rain?"
+   },
+   {
+    "say": "ใจความหลักคือเรื่องที่ทุกประโยคพูดถึง ไม่ใช่รายละเอียดจากประโยคเดียว",
+    "anim": "think",
+    "board": "ทุกประโยค → แมวนอนเยอะ"
+   },
+   {
+    "say": "ชื่อเรื่องที่ดีต้องคลุมทั้งเรื่อง ไม่แคบไป ไม่กว้างไป",
+    "anim": "jump",
+    "board": "Sleepy Cats ✓"
+   },
+   {
+    "say": "ส่วนจุดประสงค์ของผู้เขียน ให้ถามว่าเขาเขียนมาเพื่ออะไร บอกข้อมูล ชวน เตือน ขอบคุณ หรือโน้มน้าว",
+    "anim": "zap",
+    "board": "inform · invite · warn · thank · persuade"
+   },
+   {
+    "say": "หลอกด้วยคำที่เหมือนในบทความไม่ได้แล้ว ข้ายอม!",
+    "actor": "villain",
+    "anim": "swap"
+   }
+  ]
+ },
+ "discover": {
+  "examples": [
+   "Cats sleep about 15 hours a day. They sleep more when it is cold. Old cats sleep even longer.",
+   "→ Main idea: **Cats sleep a lot.** ✓",
+   "→ Cats sleep more when it is cold. (รายละเอียด แคบเกิน ✗)",
+   "→ All animals need sleep. (กว้างเกิน ✗)"
+  ],
+  "question_th": "ใจความหลักที่ถูกต้องเป็นอย่างไร?",
+  "options_th": [
+   "เป็นเรื่องที่ทุกประโยคในข้อความพูดถึง",
+   "เป็นประโยคที่ยาวที่สุด",
+   "เป็นรายละเอียดที่น่าสนใจที่สุด",
+   "เป็นสิ่งที่เรารู้อยู่แล้วแม้ไม่มีในข้อความ"
+  ],
+  "answer": 0,
+  "reveal_th": "ใจความหลัก = ร่มที่คลุมทุกประโยค · ระวังกับดัก 3 แบบ: แคบเกิน (รายละเอียดประโยคเดียว) · กว้างเกิน (พูดเกินกว่าข้อความ) · ไม่มีในข้อความหรือขัดกับข้อความ · ถ้ามี However / But / In fact ความคิดหลักมักอยู่หลังคำนั้น · ชื่อเรื่องใช้หลักเดียวกัน · จุดประสงค์ = ข้อความทำหน้าที่อะไร: inform บอกข้อมูล · invite ชวน · warn เตือน · persuade โน้มน้าว · thank ขอบคุณ · explain how อธิบายวิธีทำ"
+ },
+ "rule": {
+  "line_th": "ถามว่า \"ทุกประโยคพูดถึงอะไร?\" คำตอบคือใจความหลักและชื่อเรื่อง · ตัดตัวเลือกที่แคบเกิน กว้างเกิน หรือไม่มีในข้อความ · จุดประสงค์ = ข้อความนี้เขียนมาเพื่อทำอะไร",
+  "memory_th": "☂️ ร่มใจความหลัก: ร่มที่ดีต้องคลุมทุกประโยคพอดี ร่มเล็กไป (รายละเอียด) คนเปียก ร่มใหญ่ไป (กว้างเกิน) ปลิวหาย",
+  "terms": [
+   [
+    "main idea",
+    "ใจความหลัก"
+   ],
+   [
+    "title",
+    "ชื่อเรื่อง"
+   ],
+   [
+    "purpose",
+    "จุดประสงค์ของผู้เขียน"
+   ],
+   [
+    "detail",
+    "รายละเอียด"
+   ],
+   [
+    "topic sentence",
+    "ประโยคใจความสำคัญ"
+   ]
+  ]
+ },
+ "speak": [
+  "The main idea is that cats sleep a lot.",
+  "A good title covers the whole text.",
+  "The writer wants to warn people about the deep water."
+ ],
+ "twists": [
+  {
+   "id": "L28-t1",
+   "skill": "r.main-idea",
+   "type": "match",
+   "prompt_th": "ข้อความ: \"Cats sleep 15 hours a day. They sleep more when it is cold.\" จับคู่ตัวเลือกกับชนิดของมัน",
+   "pairs": [
+    [
+     "Cats sleep a lot.",
+     "main idea ✓"
+    ],
+    [
+     "They sleep more when it is cold.",
+     "แคบเกิน (detail)"
+    ],
+    [
+     "All animals need sleep.",
+     "กว้างเกิน (too broad)"
+    ],
+    [
+     "Cats hate milk.",
+     "ไม่มีในข้อความ"
+    ]
+   ],
+   "explanation_th": "ใจความหลักต้องคลุมทุกประโยคพอดี"
+  },
+  {
+   "id": "L28-t2",
+   "skill": "r.main-idea",
+   "type": "match",
+   "prompt_th": "จับคู่ข้อความกับจุดประสงค์ของผู้เขียน",
+   "pairs": [
+    [
+     "Lost: a black backpack. Please call me if you find it.",
+     "to ask for help"
+    ],
+    [
+     "Join the Green Club! We meet every Wednesday.",
+     "to invite"
+    ],
+    [
+     "Do not swim here. The water is deep.",
+     "to warn"
+    ],
+    [
+     "Fold the paper in half. Then fold the corners.",
+     "to explain how"
+    ]
+   ],
+   "explanation_th": "ดูว่าข้อความทำหน้าที่อะไร: ขอความช่วยเหลือ ชวน เตือน หรือบอกวิธี"
+  },
+  {
+   "id": "L28-t3",
+   "skill": "r.main-idea",
+   "type": "fill",
+   "stem": "\"Walking every day helps your heart, your sleep and your mood.\" Best title: The ___ of Walking",
+   "accept": [
+    "benefits",
+    "advantages"
+   ],
+   "hint_th": "ทุกส่วนของประโยคพูดถึงข้อดี",
+   "explanation_th": "หัวใจ การนอน อารมณ์ ล้วนเป็นข้อดี → The Benefits of Walking"
+  },
+  {
+   "id": "L28-t4",
+   "skill": "r.main-idea",
+   "type": "order",
+   "words": [
+    "A",
+    "good",
+    "title",
+    "covers",
+    "the",
+    "whole",
+    "text."
+   ],
+   "explanation_th": "ชื่อเรื่องที่ดีต้องคลุมทั้งเรื่อง"
+  }
+ ],
+ "questions": [
+  {
+   "id": "L28-01",
+   "skill": "r.main-idea",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"Cats sleep for about 15 hours a day. They sleep even more when it is cold or rainy. Kittens and old cats sleep the longest.\" The main idea is that ___.",
+   "options": [
+    "cats hate the rain",
+    "cats sleep a lot",
+    "kittens are lazy",
+    "cats sleep less in cold weather"
+   ],
+   "answer": 1,
+   "explanation_th": "ทุกประโยคพูดเรื่องแมวนอนเยอะ",
+   "why_wrong": [
+    "ไม่มีในข้อความ บอกแค่ว่านอนมากขึ้นตอนฝนตก",
+    null,
+    "แคบเกินไป และข้อความไม่ได้บอกว่าขี้เกียจ",
+    "ขัดกับข้อความ (นอนมากขึ้นตอนอากาศเย็น)"
+   ]
+  },
+  {
+   "id": "L28-02",
+   "skill": "r.main-idea",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"Som tam is made with green papaya, lime, chili and fish sauce. Some people also add peanuts or dried shrimp. You can make it at home in ten minutes.\" The best title is ___.",
+   "options": [
+    "\"The History of Thai Food\"",
+    "\"Why Peanuts Are Healthy\"",
+    "\"What Goes into Som Tam\"",
+    "\"The Best Restaurants in Bangkok\""
+   ],
+   "answer": 2,
+   "explanation_th": "ข้อความพูดถึงส่วนผสมของส้มตำทั้งหมด",
+   "why_wrong": [
+    "กว้างเกินไป และข้อความไม่ได้พูดถึงประวัติ",
+    "แคบเกิน ถั่วเป็นแค่รายละเอียดหนึ่ง",
+    null,
+    "ไม่มีในข้อความ"
+   ]
+  },
+  {
+   "id": "L28-03",
+   "skill": "r.main-idea",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"Lost: a black backpack with a blue water bottle inside. I left it in Room 204 on Monday afternoon. If you find it, please take it to the school office. Thank you!\" The writer's main purpose is to ___.",
+   "options": [
+    "sell a black backpack",
+    "describe Room 204",
+    "complain about the school office",
+    "ask people to help find a lost bag"
+   ],
+   "answer": 3,
+   "explanation_th": "บอกลักษณะกระเป๋าที่หาย แล้วขอให้คนที่เจอช่วยเอาไปคืน",
+   "why_wrong": [
+    "ไม่มีการพูดถึงราคาหรือการขาย",
+    "ห้อง 204 เป็นแค่รายละเอียดว่าลืมไว้ที่ไหน",
+    "ไม่มีการบ่น แค่ขอให้เอาไปคืนที่ห้องธุรการ",
+    null
+   ]
+  },
+  {
+   "id": "L28-04",
+   "skill": "r.main-idea",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"Many teenagers check their phones as soon as they wake up. Some check them more than 100 times a day. Doctors say this habit can make it hard to focus at school.\" The main idea is that ___.",
+   "options": [
+    "teenagers use their phones very often, and this can cause problems",
+    "doctors check their phones 100 times a day",
+    "teenagers wake up very early",
+    "phones are useful for school"
+   ],
+   "answer": 0,
+   "explanation_th": "ทุกประโยคพูดถึงวัยรุ่นใช้มือถือบ่อยและผลเสีย",
+   "why_wrong": [
+    null,
+    "อ่านผิด คนที่เช็กมือถือคือวัยรุ่น ไม่ใช่หมอ",
+    "ไม่มีในข้อความ",
+    "ขัดกับข้อความ ซึ่งพูดถึงผลเสีย"
+   ]
+  },
+  {
+   "id": "L28-05",
+   "skill": "r.main-idea",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"Come and join the Green School Club! We plant trees, clean the canal behind the school and make posters about saving energy. We meet every Wednesday after school in the science room.\" The writer's main purpose is to ___.",
+   "options": [
+    "explain how trees grow",
+    "invite students to join a club",
+    "complain about the dirty canal",
+    "describe the science room"
+   ],
+   "answer": 1,
+   "explanation_th": "Come and join + บอกว่าทำอะไรและนัดเจอเมื่อไหร่ = ชวน",
+   "why_wrong": [
+    "ไม่มีการอธิบายเรื่องต้นไม้โต",
+    null,
+    "คลองเป็นแค่กิจกรรมหนึ่ง ไม่ได้บ่น",
+    "ห้องวิทย์เป็นแค่สถานที่นัด"
+   ]
+  },
+  {
+   "id": "L28-06",
+   "skill": "r.main-idea",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"Ants can carry things that are 50 times heavier than their own bodies. They also work in large teams to move big pieces of food back to their nests.\" The best title is ___.",
+   "options": [
+    "\"How to Get Rid of Ants\"",
+    "\"Food in the Kitchen\"",
+    "\"Small but Strong: Ants\"",
+    "\"The Biggest Animals on Earth\""
+   ],
+   "answer": 2,
+   "explanation_th": "ทั้งสองประโยคพูดว่ามดตัวเล็กแต่แรงเยอะและช่วยกันขนของ",
+   "why_wrong": [
+    "ไม่มีในข้อความ",
+    "ไม่มีในข้อความ อาหารเป็นแค่สิ่งที่มดขน",
+    null,
+    "ขัดกับข้อความ มดเป็นสัตว์ตัวเล็ก"
+   ]
+  },
+  {
+   "id": "L28-07",
+   "skill": "r.main-idea",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"Walking for 30 minutes a day is good for your heart. It also helps you sleep better and feel less stressed. Best of all, it does not cost anything.\" The main idea is that ___.",
+   "options": [
+    "walking is expensive",
+    "many people cannot sleep",
+    "heart problems are common",
+    "walking every day has many benefits"
+   ],
+   "answer": 3,
+   "explanation_th": "ทุกประโยคบอกข้อดีของการเดิน",
+   "why_wrong": [
+    "ขัดกับข้อความ (does not cost anything)",
+    "ไม่มีในข้อความ",
+    "ไม่มีในข้อความ",
+    null
+   ]
+  },
+  {
+   "id": "L28-08",
+   "skill": "r.main-idea",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"Do not swim in this part of the river. The water is very deep, and there are strong currents. Two people were hurt here this year.\" The writer's main purpose is to ___.",
+   "options": [
+    "warn people about a danger",
+    "advertise a new swimming pool",
+    "tell a story about two friends",
+    "teach people how to swim"
+   ],
+   "answer": 0,
+   "explanation_th": "Do not swim + เหตุผลว่าอันตราย = เตือน",
+   "why_wrong": [
+    null,
+    "ไม่มีการพูดถึงสระว่ายน้ำ",
+    "สองคนที่บาดเจ็บเป็นแค่หลักฐานประกอบ",
+    "ข้อความห้ามว่ายน้ำ ไม่ได้สอนว่ายน้ำ"
+   ]
+  },
+  {
+   "id": "L28-09",
+   "skill": "r.main-idea",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"In Japan, most trains arrive within one minute of the time on the timetable. If a train is more than five minutes late, the station gives passengers a paper note to show their school or office.\" The best title is ___.",
+   "options": [
+    "\"How to Buy a Train Ticket\"",
+    "\"Japanese Trains Are Rarely Late\"",
+    "\"Schools in Japan\"",
+    "\"Why People Are Always Late\""
+   ],
+   "answer": 1,
+   "explanation_th": "ทั้งสองประโยคพูดเรื่องรถไฟญี่ปุ่นตรงเวลา",
+   "why_wrong": [
+    "ไม่มีในข้อความ",
+    null,
+    "โรงเรียนเป็นแค่รายละเอียดเล็ก ๆ",
+    "ขัดกับข้อความ ซึ่งพูดเรื่องตรงเวลา"
+   ]
+  },
+  {
+   "id": "L28-10",
+   "skill": "r.main-idea",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"Some people think that video games are a waste of time. However, studies show that some games can improve memory and problem-solving skills.\" The main idea is that ___.",
+   "options": [
+    "video games are a waste of time",
+    "everyone loves video games",
+    "some video games may be good for the brain",
+    "students should study more"
+   ],
+   "answer": 2,
+   "explanation_th": "ประโยคหลัง However คือความคิดหลักของผู้เขียน",
+   "why_wrong": [
+    "เป็นความเห็นของคนอื่นที่ผู้เขียนกำลังโต้แย้ง",
+    "ไม่มีในข้อความ",
+    null,
+    "ไม่มีในข้อความ"
+   ]
+  },
+  {
+   "id": "L28-11",
+   "skill": "r.main-idea",
+   "difficulty": 1,
+   "stage": 1,
+   "stem": "\"Thank you so much for the birthday present, Aunt Lek! I love the red headphones. I use them every day on the bus to school.\" The writer's main purpose is to ___.",
+   "options": [
+    "ask for new headphones",
+    "describe a bus trip",
+    "sell red headphones",
+    "thank someone for a gift"
+   ],
+   "answer": 3,
+   "explanation_th": "Thank you for the birthday present = ขอบคุณสำหรับของขวัญ",
+   "why_wrong": [
+    "ได้หูฟังแล้ว ไม่ได้ขอใหม่",
+    "รถเมล์เป็นแค่รายละเอียดว่าใช้หูฟังที่ไหน",
+    "ไม่มีการขาย",
+    null
+   ]
+  },
+  {
+   "id": "L28-12",
+   "skill": "r.main-idea",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"Every year, millions of plastic bags end up in the sea. Sea turtles often eat them because the bags look like jellyfish. Many turtles die as a result.\" The best title is ___.",
+   "options": [
+    "\"Plastic Bags Are Killing Sea Turtles\"",
+    "\"What Jellyfish Eat\"",
+    "\"How Plastic Bags Are Made\"",
+    "\"Turtles Make Good Pets\""
+   ],
+   "answer": 0,
+   "explanation_th": "ข้อความพูดถึงถุงพลาสติกในทะเลทำให้เต่าตาย",
+   "why_wrong": [
+    null,
+    "แมงกะพรุนเป็นแค่การเปรียบเทียบ",
+    "ไม่มีในข้อความ",
+    "ไม่มีในข้อความ"
+   ]
+  },
+  {
+   "id": "L28-13",
+   "skill": "r.main-idea",
+   "difficulty": 3,
+   "stage": 1,
+   "stem": "\"Nida reads the questions before she reads the passage. She underlines key words and checks the clock often. Because of these habits, she always finishes her reading tests early.\" The main idea is that ___.",
+   "options": [
+    "Nida likes to underline words",
+    "Nida's good habits help her finish reading tests quickly",
+    "reading tests are too long",
+    "Nida never looks at the clock"
+   ],
+   "answer": 1,
+   "explanation_th": "ประโยคสุดท้ายสรุปว่านิสัยทั้งหมดช่วยให้ทำข้อสอบเสร็จเร็ว",
+   "why_wrong": [
+    "แคบเกิน เป็นแค่นิสัยเดียว",
+    null,
+    "ไม่มีในข้อความ",
+    "ขัดกับข้อความ (checks the clock often)"
+   ]
+  },
+  {
+   "id": "L28-14",
+   "skill": "r.main-idea",
+   "difficulty": 3,
+   "stage": 1,
+   "stem": "\"Students should have a longer lunch break. Thirty minutes is not enough time to eat and rest. A longer break would help students feel fresh and ready to learn in the afternoon.\" The writer's main purpose is to ___.",
+   "options": [
+    "describe the school lunch menu",
+    "explain how to eat quickly",
+    "persuade readers that lunch breaks should be longer",
+    "tell a funny story about lunch"
+   ],
+   "answer": 2,
+   "explanation_th": "should + เหตุผลสนับสนุน = โน้มน้าว",
+   "why_wrong": [
+    "ไม่มีการพูดถึงเมนู",
+    "ไม่มีการสอนวิธีกินเร็ว",
+    null,
+    "ไม่ใช่เรื่องเล่าตลก"
+   ]
+  },
+  {
+   "id": "L28-15",
+   "skill": "r.main-idea",
+   "difficulty": 2,
+   "stage": 1,
+   "stem": "\"The Mekong River flows through six countries, including China, Laos, Thailand and Vietnam. Millions of people depend on it for fishing, farming and travel.\" The best title is ___.",
+   "options": [
+    "\"Fishing as a Hobby\"",
+    "\"Travel in China\"",
+    "\"Why Rivers Flood\"",
+    "\"The Mekong: A River for Millions\""
+   ],
+   "answer": 3,
+   "explanation_th": "ข้อความพูดว่าแม่น้ำโขงไหลผ่านหลายประเทศและคนนับล้านพึ่งพามัน",
+   "why_wrong": [
+    "การจับปลาเป็นแค่รายละเอียด และไม่ได้พูดถึงงานอดิเรก",
+    "จีนเป็นแค่หนึ่งในประเทศที่แม่น้ำไหลผ่าน",
+    "ไม่มีในข้อความ",
+    null
+   ]
+  },
+  {
+   "id": "L28-16",
+   "skill": "r.main-idea",
+   "difficulty": 3,
+   "stage": 1,
+   "stem": "\"Bamboo grows very fast. Some kinds can grow almost one meter in a single day. Because of this, farmers can cut it and sell it again and again.\" The main idea is that ___.",
+   "options": [
+    "bamboo grows very quickly, so farmers can harvest it often",
+    "all plants grow very fast",
+    "farmers in Thailand are rich",
+    "bamboo is used to make paper"
+   ],
+   "answer": 0,
+   "explanation_th": "ทุกประโยคพูดเรื่องไผ่โตเร็วและผลของมัน",
+   "why_wrong": [
+    null,
+    "กว้างเกินไป ข้อความพูดถึงไผ่เท่านั้น",
+    "ไม่มีในข้อความ",
+    "ไม่มีในข้อความ"
+   ]
+  },
+  {
+   "id": "L28-17",
+   "skill": "r.main-idea",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"Last year, our town started a free bicycle program. People can take a bike from one station and leave it at another. Since then, fewer people have driven to the market, and the air in the town center is cleaner. Shop owners say more customers stop at their shops because they ride past slowly.\" The main idea is that ___.",
+   "options": [
+    "shop owners do not like bicycles",
+    "the free bicycle program has made the town better",
+    "people must pay to use the bikes",
+    "the market is far from the town center"
+   ],
+   "answer": 1,
+   "explanation_th": "ทุกประโยคบอกผลดีของโครงการจักรยานฟรี",
+   "why_wrong": [
+    "ขัดกับข้อความ เจ้าของร้านได้ลูกค้าเพิ่ม",
+    null,
+    "ขัดกับข้อความ (free)",
+    "ไม่มีในข้อความ"
+   ]
+  },
+  {
+   "id": "L28-18",
+   "skill": "r.main-idea",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"Mangroves are trees that grow in salty water along the coast. Their roots hold the soil, so big waves cannot wash the beach away. They also give young fish a safe place to hide. In some parts of Thailand, villagers plant new mangroves every year.\" The best title is ___.",
+   "options": [
+    "\"How to Catch Young Fish\"",
+    "\"The Biggest Waves in the World\"",
+    "\"Mangroves: Trees That Protect the Coast\"",
+    "\"Thai Villages in the Mountains\""
+   ],
+   "answer": 2,
+   "explanation_th": "ข้อความพูดถึงป่าชายเลนและประโยชน์ของมันต่อชายฝั่ง",
+   "why_wrong": [
+    "ปลาเป็นแค่รายละเอียด และไม่ได้สอนวิธีจับ",
+    "คลื่นเป็นแค่รายละเอียด",
+    null,
+    "ข้อความพูดถึงชายฝั่ง ไม่ใช่ภูเขา"
+   ]
+  },
+  {
+   "id": "L28-19",
+   "skill": "r.main-idea",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"Dear students, the school swimming pool will be closed from 3 to 10 June for repairs. P.E. classes during this time will be held in the gym. Please bring sports shoes instead of swimsuits. We are sorry for any trouble.\" The writer's main purpose is to ___.",
+   "options": [
+    "invite students to a swimming competition",
+    "complain about the gym",
+    "persuade students to learn to swim",
+    "inform students about a change in P.E. classes"
+   ],
+   "answer": 3,
+   "explanation_th": "แจ้งว่าสระปิด ย้ายไปเรียนในโรงยิม และให้เตรียมรองเท้า",
+   "why_wrong": [
+    "ไม่มีการแข่งขัน สระปิดด้วยซ้ำ",
+    "ไม่มีการบ่น",
+    "ไม่มีการโน้มน้าว",
+    null
+   ]
+  },
+  {
+   "id": "L28-20",
+   "skill": "r.main-idea",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "\"Many people believe that eating at night makes you gain weight. In fact, the time you eat matters less than how much you eat. If you eat more food than your body uses in a day, you will gain weight, whether you eat at 6 p.m. or at 10 p.m.\" The main idea is that ___.",
+   "options": [
+    "how much you eat matters more than when you eat",
+    "eating at night always makes you gain weight",
+    "people should always eat dinner at 6 p.m.",
+    "our bodies use less food at night"
+   ],
+   "answer": 0,
+   "explanation_th": "In fact ตามด้วยความคิดหลักของผู้เขียน ปริมาณสำคัญกว่าเวลา",
+   "why_wrong": [
+    null,
+    "เป็นความเชื่อที่ผู้เขียนกำลังโต้แย้ง",
+    "ขัดกับข้อความ ซึ่งบอกว่าเวลาไม่ค่อยสำคัญ",
+    "ไม่มีในข้อความ"
+   ]
+  },
+  {
+   "id": "L28-21",
+   "skill": "r.main-idea",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "\"When Mina moved to a new school, she did not know anyone. She was too shy to talk to her classmates. One day, she joined the drawing club. There, she met two girls who loved comics as much as she did. By the end of the term, the three of them were best friends.\" The best title is ___.",
+   "options": [
+    "\"The History of Comics\"",
+    "\"How Mina Made New Friends\"",
+    "\"Why Drawing Is Difficult\"",
+    "\"Mina's First Day at School\""
+   ],
+   "answer": 1,
+   "explanation_th": "เรื่องทั้งหมดเล่าว่ามีนาได้เพื่อนใหม่อย่างไร",
+   "why_wrong": [
+    "การ์ตูนเป็นแค่รายละเอียด",
+    null,
+    "ไม่มีในข้อความ",
+    "แคบเกิน เรื่องเล่ายาวไปจนจบเทอม ไม่ใช่แค่วันแรก"
+   ]
+  },
+  {
+   "id": "L28-22",
+   "skill": "r.main-idea",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"Do you have old clothes that you never wear? Bring them to the Community Hall this Saturday. We will give them to families who lost their homes in the flood. Every shirt helps!\" The writer's main purpose is to ___.",
+   "options": [
+    "sell second-hand clothes",
+    "describe a flood",
+    "ask people to give their old clothes",
+    "explain how to wash clothes"
+   ],
+   "answer": 2,
+   "explanation_th": "Bring them + Every shirt helps = ขอให้บริจาคเสื้อผ้า",
+   "why_wrong": [
+    "ไม่มีการขาย จะนำไปให้ฟรี",
+    "น้ำท่วมเป็นแค่เหตุผลประกอบ",
+    null,
+    "ไม่มีในข้อความ"
+   ]
+  },
+  {
+   "id": "L28-23",
+   "skill": "r.main-idea",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "\"Some parents want their children to study all weekend. But young people also need free time. Playing sport, meeting friends and resting help them learn better on Monday. A few hours of fun is not a waste of time. It is part of learning.\" The main idea is that ___.",
+   "options": [
+    "children should study all weekend",
+    "sport is more important than school",
+    "parents do not care about their children",
+    "free time is important for young people's learning"
+   ],
+   "answer": 3,
+   "explanation_th": "หลัง But คือความคิดของผู้เขียน และประโยคต่อ ๆ ไปสนับสนุนทั้งหมด",
+   "why_wrong": [
+    "เป็นความต้องการของพ่อแม่บางคนที่ผู้เขียนโต้แย้ง",
+    "กว้างเกินและไม่มีในข้อความ",
+    "ไม่มีในข้อความ",
+    null
+   ]
+  },
+  {
+   "id": "L28-24",
+   "skill": "r.main-idea",
+   "difficulty": 2,
+   "stage": 2,
+   "stem": "\"Many students find it hard to wake up early. Experts say that teenagers' bodies naturally want to sleep later than adults'. For this reason, some schools in other countries now start classes at 9 a.m. instead of 8 a.m. Students at these schools are less tired and get better grades.\" The best title is ___.",
+   "options": [
+    "\"Why Some Schools Start Later\"",
+    "\"How to Get Better Grades in Maths\"",
+    "\"Teenagers Who Never Sleep\"",
+    "\"The Best Alarm Clocks\""
+   ],
+   "answer": 0,
+   "explanation_th": "ข้อความอธิบายเหตุผลและผลดีของการเริ่มเรียนสายขึ้น",
+   "why_wrong": [
+    null,
+    "ไม่มีเรื่องวิชาคณิต",
+    "ขัดกับข้อความ วัยรุ่นอยากนอนนานขึ้น",
+    "ไม่มีในข้อความ"
+   ]
+  },
+  {
+   "id": "L28-25",
+   "skill": "r.main-idea",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "\"To make a simple paper boat, start with a rectangle of paper. Fold it in half from top to bottom. Next, fold the two top corners down to the middle to make a triangle. Then fold up the bottom edges on both sides to make a hat. After a few more folds, pull the sides apart and your boat is ready.\" The writer's main purpose is to ___.",
+   "options": [
+    "tell the history of boats",
+    "explain how to make something",
+    "persuade people to buy paper",
+    "describe a trip on a boat"
+   ],
+   "answer": 1,
+   "explanation_th": "start with / Next / Then / After = บอกขั้นตอนการทำ",
+   "why_wrong": [
+    "ไม่มีเรื่องประวัติ",
+    null,
+    "ไม่มีการโน้มน้าวให้ซื้อ",
+    "ไม่มีการเดินทาง"
+   ]
+  },
+  {
+   "id": "L28-26",
+   "skill": "r.main-idea",
+   "difficulty": 3,
+   "stage": 2,
+   "stem": "\"Online classes have good and bad points. Students can study at home and watch a lesson again if they miss something. However, it is easy to get distracted by games and social media. Also, some students do not have fast internet at home.\" The main idea is that ___.",
+   "options": [
+    "online classes are better than normal classes",
+    "students should never play games",
+    "online classes have both advantages and disadvantages",
+    "every student has fast internet at home"
+   ],
+   "answer": 2,
+   "explanation_th": "ประโยคแรกบอกใจความหลัก แล้วตามด้วยข้อดีและข้อเสีย",
+   "why_wrong": [
+    "ข้อความไม่ได้เปรียบเทียบ และพูดถึงข้อเสียด้วย",
+    "แคบเกิน เกมเป็นแค่ตัวอย่างหนึ่ง",
+    null,
+    "ขัดกับข้อความ"
+   ]
+  }
+ ],
+ "cloze": "C24"
+}

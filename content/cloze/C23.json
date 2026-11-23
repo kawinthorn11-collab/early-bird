@@ -1,0 +1,209 @@
+{
+ "id": "C23",
+ "title": "A Surprise from Grandma",
+ "genre": "เรื่องเล่า",
+ "level": "A2",
+ "text": "Last Saturday my grandmother called me early in the morning. She said that she (1) a surprise for me and asked me (2) I could visit her. I took the bus to her village, (3) is about an hour from the city. When I arrived, she (4) for me in the garden. She told me (5) my eyes. Then she put something soft in my hands. It was a little kitten!\nGrandma said that she (6) it near the market two days before. The kitten was (7) small to drink milk from a bowl, so we fed it with a spoon. Grandma smiled and told me to choose a name. I thought about it for (8) long time. In the end, I called her Mochi (9) she was white and round. Now I visit Grandma and Mochi (10) weekend.",
+ "items": [
+  {
+   "id": "C23-1",
+   "skill": "g.reported",
+   "difficulty": 2,
+   "stem": "(1) She said that she ___ a surprise for me.",
+   "options": [
+    "have",
+    "had",
+    "having",
+    "to have"
+   ],
+   "answer": 1,
+   "explanation_th": "เล่าคำพูด have ถอยเป็น had",
+   "why_wrong": [
+    "she ใช้ has และ tense ต้องถอยเป็น had",
+    null,
+    "having เป็นกริยาแท้ไม่ได้",
+    "to have เป็นกริยาแท้ไม่ได้"
+   ]
+  },
+  {
+   "id": "C23-2",
+   "skill": "g.reported",
+   "difficulty": 2,
+   "stem": "(2) ... and asked me ___ I could visit her.",
+   "options": [
+    "that",
+    "what",
+    "do",
+    "if"
+   ],
+   "answer": 3,
+   "explanation_th": "คำถาม yes/no ที่เล่าต่อ → asked + if",
+   "why_wrong": [
+    "asked that ใช้เล่าคำถามไม่ได้",
+    "what ต้องตามด้วยประโยคที่ขาดกรรม แต่ I could visit her ครบแล้ว",
+    "do เป็นรูปคำถาม ใช้ในตำแหน่งนี้ไม่ได้",
+    null
+   ]
+  },
+  {
+   "id": "C23-3",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(3) I took the bus to her village, ___ is about an hour from the city.",
+   "options": [
+    "which",
+    "who",
+    "where",
+    "what"
+   ],
+   "answer": 0,
+   "explanation_th": "ขยาย her village (สถานที่ที่เป็นประธานของ is) หลังจุลภาค → which",
+   "why_wrong": [
+    null,
+    "who ใช้กับคน",
+    "where ต้องตามด้วยประธาน แต่ช่องนี้ต้องเป็นประธานของ is เอง",
+    "what ใช้ขยายคำนามข้างหน้าไม่ได้"
+   ]
+  },
+  {
+   "id": "C23-4",
+   "skill": "g.tense-past",
+   "difficulty": 2,
+   "stem": "(4) When I arrived, she ___ for me in the garden.",
+   "options": [
+    "waits",
+    "has waited",
+    "was waiting",
+    "is waiting"
+   ],
+   "answer": 2,
+   "explanation_th": "กำลังรออยู่ตอนที่ฉันไปถึง → was waiting",
+   "why_wrong": [
+    "waits เป็นปัจจุบัน แต่เรื่องเล่าเป็นอดีต",
+    "has waited ไม่ใช้ในเรื่องเล่าอดีตกับ When I arrived",
+    null,
+    "is waiting เป็นปัจจุบัน แต่เรื่องเล่าเป็นอดีต"
+   ]
+  },
+  {
+   "id": "C23-5",
+   "skill": "g.reported",
+   "difficulty": 1,
+   "stem": "(5) She told me ___ my eyes.",
+   "options": [
+    "to close",
+    "close",
+    "closing",
+    "closed"
+   ],
+   "answer": 0,
+   "explanation_th": "เล่าคำสั่ง: told + คน + to V → to close",
+   "why_wrong": [
+    null,
+    "หลัง told me ต้องมี to",
+    "told me ตามด้วย to V ไม่ใช่ V-ing",
+    "told me ตามด้วย to V ไม่ใช่กริยาช่องสอง"
+   ]
+  },
+  {
+   "id": "C23-6",
+   "skill": "g.reported",
+   "difficulty": 2,
+   "stem": "(6) Grandma said that she ___ it near the market two days before.",
+   "options": [
+    "has found",
+    "finds",
+    "was finding",
+    "had found"
+   ],
+   "answer": 3,
+   "explanation_th": "เจอก่อนตอนที่ยายพูด + two days before → had found",
+   "why_wrong": [
+    "has found ใช้กับ two days before ไม่ได้",
+    "finds เป็นปัจจุบัน แต่เรื่องเกิดในอดีต",
+    "find เป็นการเจอครั้งเดียว ไม่ใช้รูปกำลังทำ",
+    null
+   ]
+  },
+  {
+   "id": "C23-7",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(7) The kitten was ___ small to drink milk from a bowl.",
+   "options": [
+    "very",
+    "too",
+    "so",
+    "enough"
+   ],
+   "answer": 1,
+   "explanation_th": "too + adj + to V = เกินกว่าจะทำได้ → too",
+   "why_wrong": [
+    "very small to drink ไม่ได้บอกว่าทำไม่ได้ ต้องใช้ too",
+    null,
+    "so ต้องคู่กับ that (so small that…)",
+    "enough ต้องอยู่หลังคำคุณศัพท์ (small enough)"
+   ]
+  },
+  {
+   "id": "C23-8",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stem": "(8) I thought about it for ___ long time.",
+   "options": [
+    "the",
+    "an",
+    "a",
+    "some"
+   ],
+   "answer": 2,
+   "explanation_th": "สำนวน for a long time = เป็นเวลานาน → a",
+   "why_wrong": [
+    "สำนวนนี้ใช้ a ไม่ใช้ the",
+    "long ขึ้นต้นด้วยเสียงพยัญชนะ ใช้ a",
+    null,
+    "some long time ไม่ใช่สำนวนที่ถูก"
+   ]
+  },
+  {
+   "id": "C23-9",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stem": "(9) In the end, I called her Mochi ___ she was white and round.",
+   "options": [
+    "although",
+    "because",
+    "so",
+    "unless"
+   ],
+   "answer": 1,
+   "explanation_th": "สีขาวกลม (เหตุ) จึงตั้งชื่อ Mochi → because",
+   "why_wrong": [
+    "although ใช้กับเรื่องขัดกัน แต่นี่เป็นเหตุผล",
+    null,
+    "so นำผล แต่ส่วนหลังเป็นเหตุ",
+    "unless = ถ้าไม่ ไม่เข้ากับความหมาย"
+   ]
+  },
+  {
+   "id": "C23-10",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stem": "(10) Now I visit Grandma and Mochi ___ weekend.",
+   "options": [
+    "every",
+    "many",
+    "all of",
+    "few"
+   ],
+   "answer": 0,
+   "explanation_th": "every + นามเอกพจน์ = ทุก → every weekend",
+   "why_wrong": [
+    null,
+    "many ต้องตามด้วยนามพหูพจน์ (many weekends)",
+    "all of ต้องมี the หรือ my นำหน้านาม",
+    "few ต้องตามด้วยนามพหูพจน์ และความหมายไม่เข้า"
+   ]
+  }
+ ]
+}

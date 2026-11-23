@@ -1,0 +1,209 @@
+{
+ "id": "C02",
+ "title": "My Busy Family",
+ "genre": "เรื่องเล่าชีวิตประจำวัน",
+ "level": "A2",
+ "text": "My family is small but very busy. My father (1) a taxi driver. He usually (2) home at six in the morning and comes back late at night. My mother sells noodles at the market near (3) house. Right now it is Saturday afternoon, and she (4) her stall for tomorrow.\nMy little brother, Tong, is ten. He loves football and plays it (5) every evening. (6) of his friends are on the same school team. Me? I'm in Grade 12, so at the moment I (7) very hard for my exams. Every night I read English stories (8) I go to bed. My parents often tell me (9) proud they are of me. (10) we are all busy, we always eat dinner together on Sundays.",
+ "items": [
+  {
+   "id": "C02-1",
+   "skill": "g.sentence",
+   "difficulty": 1,
+   "stem": "(1) My father ___ a taxi driver.",
+   "options": [
+    "is",
+    "are",
+    "be",
+    "being"
+   ],
+   "answer": 0,
+   "explanation_th": "ประธาน My father เอกพจน์ และขาดกริยาแท้ → is",
+   "why_wrong": [
+    null,
+    "are ใช้กับประธานพหูพจน์",
+    "be ต้องมี will/can นำหน้า",
+    "being อยู่ลำพังเป็นกริยาแท้ไม่ได้"
+   ]
+  },
+  {
+   "id": "C02-2",
+   "skill": "g.tense-present",
+   "difficulty": 1,
+   "stem": "(2) He usually ___ home at six in the morning and comes back late at night.",
+   "options": [
+    "is leaving",
+    "leaves",
+    "leave",
+    "left"
+   ],
+   "answer": 1,
+   "explanation_th": "usually = กิจวัตร ประธาน He → leaves",
+   "why_wrong": [
+    "usually ไม่ใช้กับรูปกำลังทำ",
+    null,
+    "ประธาน He ต้องเติม s",
+    "left เป็นอดีต ขัดกับ comes back"
+   ]
+  },
+  {
+   "id": "C02-3",
+   "skill": "g.pronoun",
+   "difficulty": 1,
+   "stem": "(3) My mother sells noodles at the market near ___ house.",
+   "options": [
+    "us",
+    "we",
+    "our",
+    "ours"
+   ],
+   "answer": 2,
+   "explanation_th": "หน้าคำนาม house ต้องบอกเจ้าของ → our",
+   "why_wrong": [
+    "us เป็นกรรม วางหน้าคำนามไม่ได้",
+    "we เป็นประธาน",
+    null,
+    "ours ใช้โดยไม่มีคำนามตาม"
+   ]
+  },
+  {
+   "id": "C02-4",
+   "skill": "g.tense-present",
+   "difficulty": 1,
+   "stem": "(4) Right now it is Saturday afternoon, and she ___ her stall for tomorrow.",
+   "options": [
+    "prepares",
+    "prepare",
+    "prepared",
+    "is preparing"
+   ],
+   "answer": 3,
+   "explanation_th": "Right now = ตอนนี้ → is preparing",
+   "why_wrong": [
+    "prepares บอกกิจวัตร ไม่ใช่ตอนนี้",
+    "ประธาน she ต้องเติม s หรือใช้ is",
+    "prepared เป็นอดีต",
+    null
+   ]
+  },
+  {
+   "id": "C02-5",
+   "skill": "g.wordform",
+   "difficulty": 2,
+   "stem": "(5) He loves football and plays it ___ every evening.",
+   "options": [
+    "almost",
+    "most",
+    "mostly",
+    "the most"
+   ],
+   "answer": 0,
+   "explanation_th": "almost every evening = เกือบทุกเย็น (almost ขยาย every)",
+   "why_wrong": [
+    null,
+    "most every evening ไม่ใช่รูปมาตรฐาน",
+    "mostly = ส่วนใหญ่แล้ว ไม่ใช้ขยาย every",
+    "the most = มากที่สุด ความหมายผิด"
+   ]
+  },
+  {
+   "id": "C02-6",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stem": "(6) ___ of his friends are on the same school team.",
+   "options": [
+    "Much",
+    "Many",
+    "Every",
+    "A"
+   ],
+   "answer": 1,
+   "explanation_th": "หลายคน + friends (นับได้ พหูพจน์) → Many of",
+   "why_wrong": [
+    "Much ใช้กับนามนับไม่ได้",
+    null,
+    "Every of ไม่มีในภาษาอังกฤษ",
+    "A of ไม่มีในภาษาอังกฤษ"
+   ]
+  },
+  {
+   "id": "C02-7",
+   "skill": "g.tense-present",
+   "difficulty": 1,
+   "stem": "(7) I'm in Grade 12, so at the moment I ___ very hard for my exams.",
+   "options": [
+    "studies",
+    "studied",
+    "am studying",
+    "have study"
+   ],
+   "answer": 2,
+   "explanation_th": "at the moment = ช่วงนี้/ตอนนี้ → am studying",
+   "why_wrong": [
+    "ประธาน I ไม่เติม s",
+    "studied เป็นอดีต ขัดกับ at the moment",
+    null,
+    "have study ผิดรูป (ต้อง have studied)"
+   ]
+  },
+  {
+   "id": "C02-8",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stem": "(8) Every night I read English stories ___ I go to bed.",
+   "options": [
+    "after",
+    "during",
+    "since",
+    "before"
+   ],
+   "answer": 3,
+   "explanation_th": "อ่านนิทานก่อนเข้านอน → before",
+   "why_wrong": [
+    "after I go to bed = หลังเข้านอนแล้ว ไม่สมเหตุสมผล",
+    "during ต้องตามด้วยคำนาม ไม่ใช่ประโยค",
+    "since = ตั้งแต่ ความหมายไม่เข้า",
+    null
+   ]
+  },
+  {
+   "id": "C02-9",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(9) My parents often tell me ___ proud they are of me.",
+   "options": [
+    "how",
+    "what",
+    "that",
+    "which"
+   ],
+   "answer": 0,
+   "explanation_th": "tell me how proud = บอกว่าภูมิใจแค่ไหน (how + adjective)",
+   "why_wrong": [
+    null,
+    "what proud ไม่ใช่โครงสร้างที่ถูก",
+    "that proud ไม่บอกระดับ",
+    "which ไม่ใช้นำ adjective"
+   ]
+  },
+  {
+   "id": "C02-10",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stem": "(10) ___ we are all busy, we always eat dinner together on Sundays.",
+   "options": [
+    "Unless",
+    "So",
+    "Although",
+    "Or"
+   ],
+   "answer": 2,
+   "explanation_th": "ยุ่ง แต่ก็ยังกินข้าวด้วยกัน = ขัดกัน → Although",
+   "why_wrong": [
+    "Unless = ถ้าไม่ ไม่สมเหตุผล",
+    "So ต้องตามด้วยผลลัพธ์ และไม่ขึ้นต้นประโยคแบบนี้",
+    null,
+    "Or ใช้เสนอทางเลือก"
+   ]
+  }
+ ]
+}

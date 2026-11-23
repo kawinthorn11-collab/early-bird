@@ -1,0 +1,209 @@
+{
+ "id": "C05",
+ "title": "The Old Bookshop",
+ "genre": "เรื่องเล่า",
+ "level": "A2",
+ "text": "There is (1) old bookshop on my street. (2) shop is small and dark, but I love it. The owner is (3) old man called Uncle Lek. He has worked there (4) more than forty years, and he knows (5) book in the shop. If you ask for (6) story about dragons, he can find one in a minute.\nLast week I wanted to buy a birthday present for my cousin, but I didn't have (7) money left. Uncle Lek smiled and gave me (8) small notebook for free. \"Write (9) own stories,\" he said. Now I write in it every night, and (10) notebook is almost full.",
+ "items": [
+  {
+   "id": "C05-1",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stem": "(1) There is ___ old bookshop on my street.",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "some"
+   ],
+   "answer": 1,
+   "explanation_th": "แนะนำครั้งแรก + old ขึ้นต้นเสียงสระ → an",
+   "why_wrong": [
+    "a ใช้ก่อนเสียงพยัญชนะ",
+    null,
+    "There is ใช้แนะนำสิ่งใหม่ จึงไม่ใช้ the",
+    "some ไม่ใช้กับนามเอกพจน์นับได้"
+   ]
+  },
+  {
+   "id": "C05-2",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stem": "(2) ___ shop is small and dark, but I love it.",
+   "options": [
+    "A",
+    "An",
+    "Some",
+    "The"
+   ],
+   "answer": 3,
+   "explanation_th": "ร้านที่เพิ่งพูดถึง → The",
+   "why_wrong": [
+    "A shop = ร้านใหม่อีกร้าน",
+    "An ใช้ก่อนเสียงสระ",
+    "Some ไม่ใช้กับเอกพจน์นับได้",
+    null
+   ]
+  },
+  {
+   "id": "C05-3",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stem": "(3) The owner is ___ old man called Uncle Lek.",
+   "options": [
+    "an",
+    "a",
+    "the",
+    "some"
+   ],
+   "answer": 0,
+   "explanation_th": "บรรยายเจ้าของครั้งแรก + old เสียงสระ → an",
+   "why_wrong": [
+    null,
+    "a ใช้ก่อนเสียงพยัญชนะ",
+    "the old man = คนที่รู้กันแล้ว แต่นี่เพิ่งแนะนำ",
+    "some ไม่ใช้กับเอกพจน์"
+   ]
+  },
+  {
+   "id": "C05-4",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(4) He has worked there ___ more than forty years, and he knows … book in the shop.",
+   "options": [
+    "since",
+    "during",
+    "for",
+    "at"
+   ],
+   "answer": 2,
+   "explanation_th": "ระยะเวลา (more than forty years) → for",
+   "why_wrong": [
+    "since + จุดเริ่ม",
+    "during ไม่ใช้กับ present perfect + ระยะเวลาแบบนี้",
+    null,
+    "at ใช้กับจุดเวลา"
+   ]
+  },
+  {
+   "id": "C05-5",
+   "skill": "g.article",
+   "difficulty": 2,
+   "stem": "(5) He has worked there … more than forty years, and he knows ___ book in the shop.",
+   "options": [
+    "all",
+    "many",
+    "some",
+    "every"
+   ],
+   "answer": 3,
+   "explanation_th": "every + นามเอกพจน์ (book) = ทุกเล่ม",
+   "why_wrong": [
+    "all ต้องตามด้วยพหูพจน์ (all the books)",
+    "many ต้องตามด้วยพหูพจน์",
+    "some book ฟังเหมือน \"หนังสือสักเล่ม\" ความหมายผิด",
+    null
+   ]
+  },
+  {
+   "id": "C05-6",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stem": "(6) If you ask for ___ story about dragons, he can find one in a minute.",
+   "options": [
+    "an",
+    "a",
+    "the",
+    "some"
+   ],
+   "answer": 1,
+   "explanation_th": "เรื่องไหนก็ได้หนึ่งเรื่อง เสียงพยัญชนะ → a story",
+   "why_wrong": [
+    "an ใช้ก่อนเสียงสระ",
+    null,
+    "the story = เรื่องที่รู้กันแล้ว แต่นี่คือเรื่องไหนก็ได้",
+    "some story ไม่ใช้กับเอกพจน์แบบนี้"
+   ]
+  },
+  {
+   "id": "C05-7",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stem": "(7) Last week I wanted to buy a birthday present for my cousin, but I didn't have ___ money left.",
+   "options": [
+    "some",
+    "any",
+    "a",
+    "many"
+   ],
+   "answer": 1,
+   "explanation_th": "ปฏิเสธ + นามนับไม่ได้ (money) → any",
+   "why_wrong": [
+    "some ใช้ในประโยคบอกเล่า",
+    null,
+    "money นับไม่ได้ ใช้ a ไม่ได้",
+    "many ใช้กับนามนับได้"
+   ]
+  },
+  {
+   "id": "C05-8",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stem": "(8) Uncle Lek smiled and gave me ___ small notebook for free.",
+   "options": [
+    "the",
+    "a",
+    "an",
+    "any"
+   ],
+   "answer": 1,
+   "explanation_th": "ให้สมุดเล่มหนึ่ง (ครั้งแรก) เสียงพยัญชนะ → a",
+   "why_wrong": [
+    "the ใช้กับสิ่งที่รู้กันแล้ว",
+    null,
+    "an ใช้ก่อนเสียงสระ",
+    "any ไม่ใช้ในประโยคบอกเล่า"
+   ]
+  },
+  {
+   "id": "C05-9",
+   "skill": "g.pronoun",
+   "difficulty": 1,
+   "stem": "(9) \"Write ___ own stories,\"",
+   "options": [
+    "you",
+    "yours",
+    "your",
+    "yourself"
+   ],
+   "answer": 2,
+   "explanation_th": "หน้า own stories ต้องบอกเจ้าของ → your own",
+   "why_wrong": [
+    "you เป็นประธาน/กรรม",
+    "yours ใช้โดยไม่มีคำนามตาม",
+    null,
+    "yourself ไม่ใช้หน้า own"
+   ]
+  },
+  {
+   "id": "C05-10",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stem": "(10) Now I write in it every night, and ___ notebook is almost full.",
+   "options": [
+    "a",
+    "an",
+    "some",
+    "the"
+   ],
+   "answer": 3,
+   "explanation_th": "สมุดเล่มที่พูดถึงแล้ว → the notebook",
+   "why_wrong": [
+    "a notebook = สมุดเล่มใหม่",
+    "an ใช้ก่อนเสียงสระ",
+    "some ไม่ใช้กับเอกพจน์",
+    null
+   ]
+  }
+ ]
+}

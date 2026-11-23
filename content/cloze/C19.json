@@ -1,0 +1,209 @@
+{
+ "id": "C19",
+ "title": "Sports Day",
+ "genre": "เรื่องเล่า",
+ "level": "A2",
+ "text": "Last Friday was Sports Day at our school. It was (1) very hot day, but everyone was excited. My best friend Arm and I (2) in the 100-metre race. Arm is (3) than me, so he usually wins. This year, (4), I trained every morning (5) six weeks.\nWhen the race started, I felt (6) than ever before. At the end, Arm and I crossed the line at exactly the same time! The teacher said we were as fast (7) each other, so we both got a gold medal. (8) was the best moment of the year for me.\nNow everyone in our team (9) together after school. Next year I want to be (10) runner in the whole school.",
+ "items": [
+  {
+   "id": "C19-1",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stem": "(1) It was ___ very hot day, but everyone was excited.",
+   "options": [
+    "an",
+    "a",
+    "the",
+    "some"
+   ],
+   "answer": 1,
+   "explanation_th": "วันหนึ่งที่ร้อนมาก นามเอกพจน์ very ขึ้นต้นเสียงพยัญชนะ → a",
+   "why_wrong": [
+    "an ใช้ก่อนเสียงสระ แต่ very ขึ้นต้นเสียงพยัญชนะ",
+    null,
+    "the ใช้กับสิ่งที่รู้กันแล้ว แต่นี่เพิ่งบรรยายวันนั้น",
+    "some ไม่ใช้กับนามเอกพจน์นับได้"
+   ]
+  },
+  {
+   "id": "C19-2",
+   "skill": "g.tense-past",
+   "difficulty": 1,
+   "stem": "(2) My best friend Arm and I ___ in the 100-metre race.",
+   "options": [
+    "compete",
+    "competed",
+    "competes",
+    "are competing"
+   ],
+   "answer": 1,
+   "explanation_th": "เรื่องเกิดเมื่อวันศุกร์ที่แล้ว (Last Friday) → อดีต competed",
+   "why_wrong": [
+    "compete เป็นปัจจุบัน แต่เรื่องเกิดเมื่อศุกร์ที่แล้ว",
+    null,
+    "competes เป็นปัจจุบันและใช้กับประธานเอกพจน์",
+    "are competing เป็นปัจจุบัน แต่เรื่องจบไปแล้ว"
+   ]
+  },
+  {
+   "id": "C19-3",
+   "skill": "g.comparison",
+   "difficulty": 1,
+   "stem": "(3) Arm is ___ than me, so he usually wins.",
+   "options": [
+    "fast",
+    "fastest",
+    "faster",
+    "more fast"
+   ],
+   "answer": 2,
+   "explanation_th": "มี than เทียบสองคน fast เป็นคำสั้น → faster",
+   "why_wrong": [
+    "fast เป็นรูปปกติ ใช้คู่กับ than ไม่ได้",
+    "fastest เป็นขั้นสุด ไม่ใช้กับ than",
+    null,
+    "fast เป็นคำพยางค์เดียว เติม -er ไม่ใช้ more"
+   ]
+  },
+  {
+   "id": "C19-4",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stem": "(4) This year, ___, I trained every morning … six weeks.",
+   "options": [
+    "because",
+    "so",
+    "however",
+    "although"
+   ],
+   "answer": 2,
+   "explanation_th": "ปกติอาร์มชนะ แต่ปีนี้ต่างไป = ขัดแย้ง และมีจุลภาคล้อมรอบ → however",
+   "why_wrong": [
+    "because ต้องตามด้วยประโยคบอกเหตุผล",
+    "so บอกผลลัพธ์ ไม่ใช่ความขัดแย้ง",
+    null,
+    "although ต้องตามด้วยประโยค ไม่วางเดี่ยวระหว่างจุลภาค"
+   ]
+  },
+  {
+   "id": "C19-5",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(5) This year, …, I trained every morning ___ six weeks.",
+   "options": [
+    "since",
+    "during",
+    "at",
+    "for"
+   ],
+   "answer": 3,
+   "explanation_th": "six weeks เป็นระยะเวลา → for",
+   "why_wrong": [
+    "since ตามด้วยจุดเริ่มต้น เช่น since May",
+    "during ตามด้วยช่วงที่มีชื่อ เช่น during the holiday ไม่ใช่จำนวนสัปดาห์",
+    "at ใช้กับจุดเวลา เช่น at six o'clock",
+    null
+   ]
+  },
+  {
+   "id": "C19-6",
+   "skill": "g.comparison",
+   "difficulty": 2,
+   "stem": "(6) When the race started, I felt ___ than ever before.",
+   "options": [
+    "strongest",
+    "more strong",
+    "the strongest",
+    "stronger"
+   ],
+   "answer": 3,
+   "explanation_th": "than ever before = กว่าทุกครั้ง → ขั้นกว่า stronger",
+   "why_wrong": [
+    "strongest เป็นขั้นสุด ไม่ใช้กับ than",
+    "strong เป็นคำพยางค์เดียว เติม -er ไม่ใช้ more",
+    "the strongest เป็นขั้นสุด ไม่ใช้กับ than",
+    null
+   ]
+  },
+  {
+   "id": "C19-7",
+   "skill": "g.comparison",
+   "difficulty": 1,
+   "stem": "(7) The teacher said we were as fast ___ each other, so we both got a gold medal.",
+   "options": [
+    "as",
+    "than",
+    "like",
+    "so"
+   ],
+   "answer": 0,
+   "explanation_th": "เข้าเส้นพร้อมกัน = เท่ากัน → as fast as",
+   "why_wrong": [
+    null,
+    "than ใช้กับขั้นกว่า เช่น faster than",
+    "like แปลว่าเหมือน แต่โครงสร้างนี้ต้องปิดด้วย as",
+    "so ไม่ใช้ปิดโครงสร้าง as … as"
+   ]
+  },
+  {
+   "id": "C19-8",
+   "skill": "g.demonstrative",
+   "difficulty": 2,
+   "stem": "(8) ___ was the best moment of the year for me.",
+   "options": [
+    "Those",
+    "That",
+    "These",
+    "They"
+   ],
+   "answer": 1,
+   "explanation_th": "ชี้กลับไปที่เหตุการณ์เดียว (ได้เหรียญทองคู่กัน) ซึ่งผ่านไปแล้ว → That",
+   "why_wrong": [
+    "Those เป็นพหูพจน์ แต่ moment เป็นเอกพจน์",
+    null,
+    "These เป็นพหูพจน์ แต่ moment เป็นเอกพจน์",
+    "They เป็นพหูพจน์ ใช้กับ was และ moment ไม่ได้"
+   ]
+  },
+  {
+   "id": "C19-9",
+   "skill": "g.agreement",
+   "difficulty": 2,
+   "stem": "(9) Now everyone in our team ___ together after school.",
+   "options": [
+    "trains",
+    "train",
+    "are training",
+    "training"
+   ],
+   "answer": 0,
+   "explanation_th": "ประธานคือ everyone (นับเป็นหนึ่ง) → กริยาเติม s → trains",
+   "why_wrong": [
+    null,
+    "everyone เป็นเอกพจน์ กริยาต้องเติม s",
+    "are ใช้กับประธานพหูพจน์ แต่ everyone เป็นเอกพจน์",
+    "training ขาดกริยาแท้ ประโยคไม่สมบูรณ์"
+   ]
+  },
+  {
+   "id": "C19-10",
+   "skill": "g.comparison",
+   "difficulty": 2,
+   "stem": "(10) Next year I want to be ___ runner in the whole school.",
+   "options": [
+    "the fastest",
+    "faster",
+    "the faster",
+    "fastest"
+   ],
+   "answer": 0,
+   "explanation_th": "in the whole school = ทั้งโรงเรียน → ขั้นสุด → the fastest",
+   "why_wrong": [
+    null,
+    "faster เป็นขั้นกว่า และหน้า runner ต้องมีคำนำหน้า",
+    "the faster ใช้เทียบสองคน แต่นี่ทั้งโรงเรียน",
+    "ขั้นสุดหน้าคำนามต้องมี the"
+   ]
+  }
+ ]
+}
