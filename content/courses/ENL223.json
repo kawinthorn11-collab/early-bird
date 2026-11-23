@@ -1,0 +1,1633 @@
+{
+ "code": "ENL223",
+ "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+ "in_class_th": [
+  "น่าจะได้อ่านบทความแสดงความเห็น ข่าว และโฆษณา แล้ววิเคราะห์ว่าผู้เขียนต้องการอะไร เขียนให้ใคร และใช้หลักฐานอะไร",
+  "น่าจะมีแบบฝึกแยกข้อเท็จจริงกับความคิดเห็นในย่อหน้าเดียวกัน ซึ่งยากกว่าทีละประโยค",
+  "อาจต้องเขียนย่อหน้าวิเคราะห์บทความ (written analysis) ที่มีข้อโต้แย้ง หลักฐานจากเรื่อง และคำอธิบาย",
+  "น่าจะต่อยอดจาก ENL221 โดยตรง จากอ่านให้เข้าใจ ไปเป็นอ่านแล้วตัดสินว่าน่าเชื่อแค่ไหน"
+ ],
+ "units": [
+  {
+   "id": "ENL223-U1",
+   "title_th": "อ่านเชิงวิเคราะห์: จุดประสงค์และผู้อ่าน",
+   "title_en": "Critical reading: purpose and audience",
+   "covers": "ทักษะการอ่านเชิงวิเคราะห์",
+   "minutes": 15,
+   "lessons": [
+    "L28"
+   ],
+   "cards": [
+    {
+     "title_th": "อ่านเชิงวิเคราะห์คืออะไร",
+     "body_th": "ไม่ใช่แค่ถามว่าเรื่องพูดอะไร แต่ถามว่าใครเขียน เขียนให้ใคร เขียนทำไม และเชื่อได้แค่ไหน"
+    },
+    {
+     "title_th": "จุดประสงค์ 4 แบบ",
+     "body_th": "inform (ให้ข้อมูล เช่น ประกาศ) / persuade (โน้มน้าว มักมี should) / entertain (ให้ความบันเทิง เช่น เรื่องเล่าตลก) / instruct (สอนวิธีทำ)"
+    },
+    {
+     "title_th": "ผู้อ่านเป้าหมาย",
+     "body_th": "ดูคำเรียก (Attention all first-year students) ระดับภาษา และสิ่งที่ผู้เขียนขอให้ทำ จะรู้ว่าเขียนถึงใคร"
+    },
+    {
+     "title_th": "ประโยคที่บอกจุดประสงค์",
+     "body_th": "ในงานโน้มน้าว ประโยคสำคัญมักมี should / must / we need to และมักอยู่ต้นหรือท้ายเรื่อง"
+    }
+   ],
+   "vocab": [
+    [
+     "critical reading",
+     "การอ่านเชิงวิเคราะห์"
+    ],
+    [
+     "purpose",
+     "จุดประสงค์"
+    ],
+    [
+     "audience",
+     "ผู้อ่านเป้าหมาย"
+    ],
+    [
+     "inform",
+     "ให้ข้อมูล"
+    ],
+    [
+     "persuade",
+     "โน้มน้าว"
+    ],
+    [
+     "entertain",
+     "ให้ความบันเทิง"
+    ],
+    [
+     "council",
+     "สภา คณะกรรมการ (ท้องถิ่น)"
+    ],
+    [
+     "vaccination",
+     "การฉีดวัคซีน"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL223-U1-01",
+     "skill": "ENL223-U1",
+     "difficulty": 1,
+     "stem": "Passage: \"Attention all first-year students: The Student Health Centre will offer free flu vaccinations on 12 and 13 September from 9 a.m. to 3 p.m. Bring your student ID card. No appointment is needed, but lines are usually shorter in the morning. Students who have a fever on the day should speak to a nurse first.\" **What is the main purpose of this text?**",
+     "options": [
+      "to persuade students to study medicine",
+      "to inform students about a free vaccination service",
+      "to tell a personal story about being sick",
+      "to entertain readers with a joke"
+     ],
+     "answer": 1,
+     "explanation_th": "ประกาศนี้ให้ข้อมูล วัน เวลา สิ่งที่ต้องเตรียม ไม่ได้โน้มน้าวหรือเล่าเรื่อง",
+     "why_wrong": [
+      "ไม่มีการพูดถึงการเรียนแพทย์",
+      null,
+      "ไม่มีผู้เล่าหรือเรื่องส่วนตัว",
+      "ภาษาเป็นทางการ ไม่มีมุกตลก"
+     ]
+    },
+    {
+     "id": "ENL223-U1-02",
+     "skill": "ENL223-U1",
+     "difficulty": 1,
+     "stem": "Passage: \"Attention all first-year students: The Student Health Centre will offer free flu vaccinations on 12 and 13 September from 9 a.m. to 3 p.m. Bring your student ID card. No appointment is needed, but lines are usually shorter in the morning. Students who have a fever on the day should speak to a nurse first.\" **Who is the intended audience?**",
+     "options": [
+      "doctors and nurses",
+      "parents of young children",
+      "tourists visiting the city",
+      "first-year students"
+     ],
+     "answer": 3,
+     "explanation_th": "ประโยคแรกเรียก Attention all first-year students",
+     "why_wrong": [
+      "พยาบาลเป็นผู้ให้บริการ ไม่ใช่ผู้อ่านเป้าหมาย",
+      "ไม่มีการพูดถึงเด็กเล็กหรือผู้ปกครอง",
+      "ต้องใช้บัตรนักศึกษา จึงไม่ใช่นักท่องเที่ยว",
+      null
+     ]
+    },
+    {
+     "id": "ENL223-U1-03",
+     "skill": "ENL223-U1",
+     "difficulty": 2,
+     "stem": "Passage: \"Attention all first-year students: The Student Health Centre will offer free flu vaccinations on 12 and 13 September from 9 a.m. to 3 p.m. Bring your student ID card. No appointment is needed, but lines are usually shorter in the morning. Students who have a fever on the day should speak to a nurse first.\" **Why does the writer mention that lines are shorter in the morning?**",
+     "options": [
+      "to give practical advice so students can wait less",
+      "to warn that the centre closes at noon",
+      "to suggest that vaccinations are dangerous",
+      "to complain about the staff"
+     ],
+     "answer": 0,
+     "explanation_th": "เป็นคำแนะนำที่ใช้ได้จริงให้มาตอนเช้าจะรอน้อยกว่า",
+     "why_wrong": [
+      null,
+      "ศูนย์เปิดถึง 3 โมงเย็น ไม่ได้ปิดเที่ยง",
+      "ไม่มีการพูดถึงอันตรายของวัคซีน",
+      "ไม่มีการบ่นเรื่องพนักงาน"
+     ]
+    },
+    {
+     "id": "ENL223-U1-04",
+     "skill": "ENL223-U1",
+     "difficulty": 2,
+     "stem": "Passage: \"Every year, our town throws away tonnes of food from markets and restaurants. Meanwhile, some families struggle to buy enough to eat. A food-sharing app could connect the two. Shops could list extra food at the end of the day, and anyone could collect it for free or at a low price. Apps like this already operate in several countries. Our town council should support this idea and help local shops join.\" **What is the writer's main purpose?**",
+     "options": [
+      "to explain how to cook leftover food",
+      "to persuade the town council to support a food-sharing app",
+      "to describe the history of the town",
+      "to inform readers about restaurant prices"
+     ],
+     "answer": 1,
+     "explanation_th": "ผู้เขียนเสนอไอเดียและปิดท้ายว่า Our town council should support this idea เป็นการโน้มน้าว",
+     "why_wrong": [
+      "ไม่มีวิธีทำอาหาร",
+      null,
+      "ไม่ได้เล่าประวัติเมือง",
+      "ไม่ได้ให้ข้อมูลราคาร้านอาหาร"
+     ]
+    },
+    {
+     "id": "ENL223-U1-05",
+     "skill": "ENL223-U1",
+     "difficulty": 2,
+     "stem": "Passage: \"Every year, our town throws away tonnes of food from markets and restaurants. Meanwhile, some families struggle to buy enough to eat. A food-sharing app could connect the two. Shops could list extra food at the end of the day, and anyone could collect it for free or at a low price. Apps like this already operate in several countries. Our town council should support this idea and help local shops join.\" **Which sentence shows the writer's purpose most clearly?**",
+     "options": [
+      "'Every year, our town throws away tonnes of food from markets and restaurants.'",
+      "'Meanwhile, some families struggle to buy enough to eat.'",
+      "'Our town council should support this idea and help local shops join.'",
+      "'Apps like this already operate in several countries.'"
+     ],
+     "answer": 2,
+     "explanation_th": "should บอกว่าผู้เขียนต้องการให้ใครทำอะไร จึงแสดงจุดประสงค์โน้มน้าวชัดที่สุด",
+     "why_wrong": [
+      "เป็นข้อมูลปัญหา ใช้ปูพื้นเหตุผล ไม่ได้บอกว่าต้องการอะไร",
+      "เป็นข้อมูลปัญหาอีกด้าน ใช้ปูพื้นเหตุผล",
+      null,
+      "เป็นหลักฐานสนับสนุน ไม่ใช่สิ่งที่ผู้เขียนขอ"
+     ]
+    },
+    {
+     "id": "ENL223-U1-06",
+     "skill": "ENL223-U1",
+     "difficulty": 2,
+     "stem": "Passage: \"Every year, our town throws away tonnes of food from markets and restaurants. Meanwhile, some families struggle to buy enough to eat. A food-sharing app could connect the two. Shops could list extra food at the end of the day, and anyone could collect it for free or at a low price. Apps like this already operate in several countries. Our town council should support this idea and help local shops join.\" **Who is the writer mainly trying to influence?**",
+     "options": [
+      "the town council",
+      "tourists",
+      "computer programmers",
+      "farmers in other countries"
+     ],
+     "answer": 0,
+     "explanation_th": "ผู้เขียนขอให้ town council สนับสนุนไอเดียโดยตรง",
+     "why_wrong": [
+      null,
+      "ไม่มีการพูดถึงนักท่องเที่ยว",
+      "ผู้เขียนไม่ได้ขอให้ใครเขียนแอป",
+      "ประเทศอื่นถูกยกเป็นตัวอย่าง ไม่ใช่ผู้ที่ถูกโน้มน้าว"
+     ]
+    },
+    {
+     "id": "ENL223-U1-07",
+     "skill": "ENL223-U1",
+     "difficulty": 2,
+     "stem": "Passage: \"My first attempt at cooking pad kra pao was a disaster. I used far too many chillies, and when the oil got hot, the whole kitchen filled with smoke. My roommate ran in, coughing, sure the building was on fire. We opened every window, laughed until we cried, and ordered from the shop downstairs. I have improved since then, but my roommate still checks the kitchen whenever I cook.\" **What is the writer's main purpose?**",
+     "options": [
+      "to teach a recipe step by step",
+      "to persuade people never to cook",
+      "to report news about a building fire",
+      "to entertain readers with a funny personal story"
+     ],
+     "answer": 3,
+     "explanation_th": "เป็นเรื่องเล่าส่วนตัวที่ตลก มี laughed until we cried และตอนจบขำ ๆ",
+     "why_wrong": [
+      "ไม่มีส่วนผสมหรือขั้นตอนครบ",
+      "ผู้เขียนยังทำอาหารต่อและเก่งขึ้น",
+      "ไม่มีไฟไหม้จริง เพื่อนแค่เข้าใจผิดเพราะควัน",
+      null
+     ]
+    },
+    {
+     "id": "ENL223-U1-08",
+     "skill": "ENL223-U1",
+     "difficulty": 1,
+     "stem": "A leaflet lists the opening hours, ticket prices and address of a museum. What is its main purpose most likely to be?",
+     "options": [
+      "to entertain",
+      "to argue against museums",
+      "to inform",
+      "to tell a story"
+     ],
+     "answer": 2,
+     "explanation_th": "เวลาเปิด ราคา ที่อยู่ เป็นข้อมูลล้วน จุดประสงค์คือให้ข้อมูล",
+     "why_wrong": [
+      "ข้อมูลเวลาและราคาไม่ได้ทำเพื่อความบันเทิง",
+      "แผ่นพับของพิพิธภัณฑ์ไม่ได้ต่อต้านพิพิธภัณฑ์",
+      null,
+      "ไม่มีตัวละครหรือลำดับเหตุการณ์"
+     ]
+    }
+   ],
+   "say": [
+    "The writer wants to persuade the council.",
+    "This notice is written for first-year students."
+   ],
+   "task_th": "เก็บข้อความภาษาอังกฤษ 3 แบบ (ประกาศ โฆษณา โพสต์เล่าเรื่อง) อย่างละ 1 ชิ้น เขียนตารางสั้น ๆ: ใครเขียน / เขียนให้ใคร / จุดประสงค์ (inform, persuade, entertain, instruct) / ประโยคที่เป็นหลักฐาน"
+  },
+  {
+   "id": "ENL223-U2",
+   "title_th": "แยกข้อเท็จจริงกับความคิดเห็น",
+   "title_en": "Distinguishing facts and opinions",
+   "covers": "การแยกข้อเท็จจริงและความคิดเห็น",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "ข้อเท็จจริงตรวจสอบได้",
+     "body_th": "fact คือสิ่งที่พิสูจน์ได้ด้วยการวัด นับ ดูแผนที่ หรือดูเอกสาร เช่น ตัวเลข วันที่ สถานที่"
+    },
+    {
+     "title_th": "ความคิดเห็นขึ้นกับคน",
+     "body_th": "opinion คือความรู้สึกหรือการตัดสิน คนอื่นอาจไม่เห็นด้วย มักมีคำอย่าง best, beautiful, boring, should, I think, in my opinion"
+    },
+    {
+     "title_th": "ประโยคเดียวมีทั้งสองอย่างได้",
+     "body_th": "The museum, which opened in 1998, is boring. ส่วน opened in 1998 เป็น fact ส่วน is boring เป็น opinion"
+    },
+    {
+     "title_th": "ถามตัวเองว่า ตรวจได้ไหม",
+     "body_th": "ถ้าตอบว่าตรวจได้ด้วยแหล่งข้อมูล คือ fact ถ้าตอบว่าแล้วแต่คน คือ opinion"
+    }
+   ],
+   "vocab": [
+    [
+     "fact",
+     "ข้อเท็จจริง"
+    ],
+    [
+     "opinion",
+     "ความคิดเห็น"
+    ],
+    [
+     "prove",
+     "พิสูจน์"
+    ],
+    [
+     "check",
+     "ตรวจสอบ"
+    ],
+    [
+     "signal word",
+     "คำบ่งชี้"
+    ],
+    [
+     "judgement",
+     "การตัดสิน"
+    ],
+    [
+     "moat",
+     "คูเมือง"
+    ],
+    [
+     "convenient",
+     "สะดวก"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL223-U2-01",
+     "skill": "ENL223-U2",
+     "difficulty": 1,
+     "stem": "Which sentence is a fact?",
+     "options": [
+      "Summer is the best season of the year.",
+      "Coffee tastes better than tea.",
+      "Everyone should learn to swim.",
+      "Water boils at 100°C at sea level."
+     ],
+     "answer": 3,
+     "explanation_th": "จุดเดือดของน้ำวัดได้และพิสูจน์ได้",
+     "why_wrong": [
+      "the best เป็นการตัดสินที่แต่ละคนต่างกัน",
+      "รสชาติดีกว่าขึ้นกับความชอบของแต่ละคน",
+      "should เป็นความเห็นว่าควรทำอะไร",
+      null
+     ]
+    },
+    {
+     "id": "ENL223-U2-02",
+     "skill": "ENL223-U2",
+     "difficulty": 1,
+     "stem": "Which sentence is an opinion?",
+     "options": [
+      "Online classes are more enjoyable than classes on campus.",
+      "The course has fifteen weekly lessons.",
+      "The library opens at 8 a.m.",
+      "The final exam lasts two hours."
+     ],
+     "answer": 0,
+     "explanation_th": "more enjoyable ขึ้นกับความรู้สึกของแต่ละคน",
+     "why_wrong": [
+      null,
+      "จำนวนบทเรียนนับได้",
+      "เวลาเปิดตรวจสอบได้",
+      "ระยะเวลาสอบตรวจสอบได้"
+     ]
+    },
+    {
+     "id": "ENL223-U2-03",
+     "skill": "ENL223-U2",
+     "difficulty": 1,
+     "stem": "Which phrase most often signals an opinion?",
+     "options": [
+      "In 2019,",
+      "In my view,",
+      "The map shows that",
+      "It is located in"
+     ],
+     "answer": 1,
+     "explanation_th": "In my view บอกว่าต่อไปเป็นความคิดของผู้เขียน",
+     "why_wrong": [
+      "ปีเป็นข้อมูลที่ตรวจสอบได้",
+      null,
+      "แผนที่เป็นแหล่งข้อมูลที่ตรวจได้",
+      "ตำแหน่งที่ตั้งตรวจสอบได้"
+     ]
+    },
+    {
+     "id": "ENL223-U2-04",
+     "skill": "ENL223-U2",
+     "difficulty": 1,
+     "stem": "Read: \"(1) The city opened a new train line in 2023. (2) The line has twelve stations. (3) It is the most convenient way to reach the airport. (4) Trains run every six minutes during rush hour.\" Which sentence is an opinion?",
+     "options": [
+      "Sentence 1",
+      "Sentence 2",
+      "Sentence 3",
+      "Sentence 4"
+     ],
+     "answer": 2,
+     "explanation_th": "ประโยค 3 ใช้ the most convenient ซึ่งเป็นการตัดสิน คนอื่นอาจคิดว่าแท็กซี่หรือรถบัสสะดวกกว่า",
+     "why_wrong": [
+      "ปีที่เปิดตรวจสอบได้",
+      "จำนวนสถานีนับได้",
+      null,
+      "ความถี่ของรถไฟตรวจสอบได้จากตารางเวลา"
+     ]
+    },
+    {
+     "id": "ENL223-U2-05",
+     "skill": "ENL223-U2",
+     "difficulty": 2,
+     "stem": "Which sentence contains BOTH a fact and an opinion?",
+     "options": [
+      "The museum, which opened in 1998, is the most boring place in town.",
+      "The museum opened in 1998.",
+      "The museum is boring.",
+      "The museum has three floors."
+     ],
+     "answer": 0,
+     "explanation_th": "opened in 1998 เป็นข้อเท็จจริง ส่วน the most boring place เป็นความคิดเห็น",
+     "why_wrong": [
+      null,
+      "มีแค่ข้อเท็จจริง",
+      "มีแค่ความคิดเห็น",
+      "มีแค่ข้อเท็จจริง"
+     ]
+    },
+    {
+     "id": "ENL223-U2-06",
+     "skill": "ENL223-U2",
+     "difficulty": 2,
+     "stem": "Passage: \"I spent three days in Chiang Mai in December. The mornings were cool, about 15°C, so I needed a jacket. The old city is surrounded by a square moat. In my opinion, the night markets there are more fun than the ones in Bangkok. I took a red truck to Doi Suthep, which cost 60 baht each way. It was the most beautiful view I have ever seen.\" **Which sentence from the passage is an opinion?**",
+     "options": [
+      "'The old city is surrounded by a square moat.'",
+      "'The mornings were cool, about 15°C.'",
+      "'It was the most beautiful view I have ever seen.'",
+      "'I took a red truck to Doi Suthep.'"
+     ],
+     "answer": 2,
+     "explanation_th": "the most beautiful เป็นความรู้สึกของผู้เขียน คนอื่นอาจไม่เห็นด้วย",
+     "why_wrong": [
+      "คูเมืองสี่เหลี่ยมตรวจสอบได้จากแผนที่",
+      "อุณหภูมิวัดได้",
+      null,
+      "เป็นสิ่งที่ผู้เขียนทำ ตรวจสอบได้ ไม่ใช่การตัดสิน"
+     ]
+    },
+    {
+     "id": "ENL223-U2-07",
+     "skill": "ENL223-U2",
+     "difficulty": 2,
+     "stem": "Passage: \"I spent three days in Chiang Mai in December. The mornings were cool, about 15°C, so I needed a jacket. The old city is surrounded by a square moat. In my opinion, the night markets there are more fun than the ones in Bangkok. I took a red truck to Doi Suthep, which cost 60 baht each way. It was the most beautiful view I have ever seen.\" **How could a reader check the sentence 'The old city is surrounded by a square moat'?**",
+     "options": [
+      "by asking the writer how she felt",
+      "by reading another travel review full of opinions",
+      "It cannot be checked at all.",
+      "by looking at a map of Chiang Mai"
+     ],
+     "answer": 3,
+     "explanation_th": "เป็นข้อเท็จจริงเรื่องสถานที่ ตรวจได้จากแผนที่",
+     "why_wrong": [
+      "ความรู้สึกของผู้เขียนไม่ได้พิสูจน์ข้อมูลสถานที่",
+      "รีวิวที่เต็มไปด้วยความเห็นไม่ใช่แหล่งตรวจสอบที่ดี",
+      "สถานที่ตรวจสอบได้ จึงเป็นข้อเท็จจริง",
+      null
+     ]
+    },
+    {
+     "id": "ENL223-U2-08",
+     "skill": "ENL223-U2",
+     "difficulty": 1,
+     "stem": "A fact is a statement that ___.",
+     "options": [
+      "many people like",
+      "can be checked or proven",
+      "the writer feels strongly about",
+      "uses strong adjectives"
+     ],
+     "answer": 1,
+     "explanation_th": "นิยามของข้อเท็จจริงคือสิ่งที่ตรวจสอบหรือพิสูจน์ได้",
+     "why_wrong": [
+      "คนชอบเยอะไม่ได้ทำให้เป็นข้อเท็จจริง",
+      null,
+      "ความรู้สึกแรงกล้าเป็นเรื่องของความคิดเห็น",
+      "คุณศัพท์แรง ๆ มักเป็นสัญญาณของความคิดเห็น"
+     ]
+    },
+    {
+     "id": "ENL223-U2-09",
+     "skill": "ENL223-U2",
+     "difficulty": 2,
+     "stem": "\"The new timetable starts classes at 8 a.m. instead of 9 a.m. The new timetable is unfair to students who live far away.\" Which word makes the second sentence an opinion?",
+     "options": [
+      "timetable",
+      "students",
+      "new",
+      "unfair"
+     ],
+     "answer": 3,
+     "explanation_th": "unfair เป็นการตัดสินว่ายุติธรรมหรือไม่ ซึ่งแต่ละคนเห็นต่างกันได้",
+     "why_wrong": [
+      "timetable เป็นคำนามธรรมดา",
+      "students เป็นคำนามธรรมดา",
+      "new เป็นข้อเท็จจริง ตารางเพิ่งเปลี่ยน",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "A fact can be checked.",
+    "In my opinion, this view is beautiful."
+   ],
+   "task_th": "อ่านรีวิวร้านอาหารหรือรีวิวสินค้าภาษาอังกฤษ 1 รีวิว จดประโยคข้อเท็จจริง 3 ประโยคกับความคิดเห็น 3 ประโยค และวงคำที่ทำให้เป็นความคิดเห็น แล้วเขียนเพิ่มอีกคู่ละ 1 ประโยคเกี่ยวกับร้านที่ตัวเองชอบ"
+  },
+  {
+   "id": "ENL223-U3",
+   "title_th": "การตีความ",
+   "title_en": "Making interpretations",
+   "covers": "การตีความ",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "ตีความคือหาความหมายที่ลึกกว่าคำ",
+     "body_th": "ผู้เขียนมักไม่บอกความรู้สึกตรง ๆ แต่ให้เราเห็นจากการกระทำ รายละเอียด และภาษาเปรียบเทียบ"
+    },
+    {
+     "title_th": "ภาษาเปรียบเทียบ (figurative language)",
+     "body_th": "a piece of cake = ง่ายมาก / My phone is a dinosaur = เก่ามาก ถ้าอ่านตามตัวอักษรจะงง ให้ถามว่าผู้เขียนหมายถึงอะไร"
+    },
+    {
+     "title_th": "ความหมายแฝงของคำ (connotation)",
+     "body_th": "thrifty กับ stingy แปลว่าประหยัดทั้งคู่ แต่ thrifty ฟังดี stingy ฟังไม่ดี คำที่ผู้เขียนเลือกบอกทัศนคติ"
+    },
+    {
+     "title_th": "การกระทำบอกความรู้สึก",
+     "body_th": "เดินช้า ๆ ไม่ใส่หูฟังเหมือนทุกวัน = เศร้าหรือคิดมาก / แม่วางขนมไว้แต่ไม่เคาะ = อยากปลอบแต่ไม่อยากรบกวน"
+    }
+   ],
+   "vocab": [
+    [
+     "interpret",
+     "ตีความ"
+    ],
+    [
+     "figurative",
+     "เชิงเปรียบเทียบ"
+    ],
+    [
+     "literal",
+     "ตามตัวอักษร"
+    ],
+    [
+     "connotation",
+     "ความหมายแฝง"
+    ],
+    [
+     "comfort",
+     "ปลอบใจ"
+    ],
+    [
+     "thrifty",
+     "มัธยัสถ์ (ความหมายดี)"
+    ],
+    [
+     "stingy",
+     "ขี้เหนียว (ความหมายไม่ดี)"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL223-U3-01",
+     "skill": "ENL223-U3",
+     "difficulty": 1,
+     "stem": "\"The exam was a piece of cake.\" What does the speaker mean?",
+     "options": [
+      "The exam was about food.",
+      "The exam was very easy.",
+      "The exam was very long.",
+      "The exam was very difficult."
+     ],
+     "answer": 1,
+     "explanation_th": "a piece of cake เป็นสำนวน แปลว่าง่ายมาก",
+     "why_wrong": [
+      "อ่านตามตัวอักษร แต่เป็นสำนวน ไม่ได้พูดเรื่องอาหาร",
+      null,
+      "สำนวนนี้ไม่เกี่ยวกับความยาว",
+      "ตรงข้ามกับความหมายของสำนวน"
+     ]
+    },
+    {
+     "id": "ENL223-U3-02",
+     "skill": "ENL223-U3",
+     "difficulty": 1,
+     "stem": "\"My phone is a dinosaur,\" Joe laughed. What does Joe mean?",
+     "options": [
+      "His phone is very old.",
+      "His phone is very big and heavy.",
+      "His phone has a dinosaur picture.",
+      "His phone is very expensive."
+     ],
+     "answer": 0,
+     "explanation_th": "ไดโนเสาร์เป็นสิ่งที่เก่ามาก การเปรียบโทรศัพท์เป็นไดโนเสาร์จึงหมายถึงรุ่นเก่ามาก",
+     "why_wrong": [
+      null,
+      "ประโยคไม่ได้ให้เบาะแสเรื่องขนาดหรือน้ำหนัก ส่วนที่เหมือนกันคือความเก่า",
+      "อ่านตามตัวอักษร แต่เป็นการเปรียบเทียบ",
+      "ไดโนเสาร์ไม่ได้สื่อถึงราคาแพง"
+     ]
+    },
+    {
+     "id": "ENL223-U3-03",
+     "skill": "ENL223-U3",
+     "difficulty": 2,
+     "stem": "Which word gives the most POSITIVE picture of a person who spends money carefully?",
+     "options": [
+      "stingy",
+      "cheap",
+      "thrifty",
+      "mean"
+     ],
+     "answer": 2,
+     "explanation_th": "thrifty มีความหมายแฝงในทางดี คือรู้จักใช้เงินอย่างฉลาด",
+     "why_wrong": [
+      "stingy ฟังเป็นลบ แปลว่าขี้เหนียว",
+      "cheap เมื่อพูดถึงคนฟังเป็นลบ หมายถึงงก",
+      null,
+      "mean เมื่อพูดถึงเรื่องเงินฟังเป็นลบ หมายถึงงก"
+     ]
+    },
+    {
+     "id": "ENL223-U3-04",
+     "skill": "ENL223-U3",
+     "difficulty": 2,
+     "stem": "Passage: \"When the results were posted, Mai stared at the list for a long time. Her name was not there. She walked home slowly, without putting on her headphones as she usually did. That night, her mother left a plate of mango sticky rice outside her door and did not knock. The next morning, Mai found a small note under the plate: 'There is always next year.'\" **What does 'without putting on her headphones as she usually did' suggest?**",
+     "options": [
+      "Mai's headphones were broken.",
+      "Mai wanted to enjoy the sound of traffic.",
+      "Mai was in a hurry to get home.",
+      "Mai was upset and not in her usual mood."
+     ],
+     "answer": 3,
+     "explanation_th": "เธอไม่ทำสิ่งที่ทำเป็นประจำ หลังรู้ว่าไม่มีชื่อ จึงตีความได้ว่าเธอเสียใจ",
+     "why_wrong": [
+      "ไม่มีเบาะแสว่าหูฟังเสีย",
+      "ไม่มีเบาะแสว่าเธออยากฟังเสียงรถ",
+      "เธอเดินช้า ๆ (walked home slowly) จึงไม่ได้รีบ",
+      null
+     ]
+    },
+    {
+     "id": "ENL223-U3-05",
+     "skill": "ENL223-U3",
+     "difficulty": 2,
+     "stem": "Passage: \"When the results were posted, Mai stared at the list for a long time. Her name was not there. She walked home slowly, without putting on her headphones as she usually did. That night, her mother left a plate of mango sticky rice outside her door and did not knock. The next morning, Mai found a small note under the plate: 'There is always next year.'\" **How can the mother's actions best be interpreted?**",
+     "options": [
+      "She was angry with Mai.",
+      "She wanted to comfort Mai without disturbing her.",
+      "She forgot that Mai was at home.",
+      "She wanted Mai to cook dinner."
+     ],
+     "answer": 1,
+     "explanation_th": "วางขนมที่ลูกชอบไว้หน้าห้องโดยไม่เคาะ เป็นการปลอบใจแบบให้พื้นที่",
+     "why_wrong": [
+      "การวางขนมให้ไม่ใช่การแสดงความโกรธ",
+      null,
+      "เธอวางขนมไว้หน้าห้อง Mai แปลว่ารู้ว่าลูกอยู่",
+      "ไม่มีเบาะแสเรื่องให้ทำอาหาร"
+     ]
+    },
+    {
+     "id": "ENL223-U3-06",
+     "skill": "ENL223-U3",
+     "difficulty": 2,
+     "stem": "Passage: \"When the results were posted, Mai stared at the list for a long time. Her name was not there. She walked home slowly, without putting on her headphones as she usually did. That night, her mother left a plate of mango sticky rice outside her door and did not knock. The next morning, Mai found a small note under the plate: 'There is always next year.'\" **What does the note 'There is always next year' mean?**",
+     "options": [
+      "Mai can try again in the future.",
+      "Mai must wait a year before she can eat.",
+      "Her mother is going away for a year.",
+      "Mai passed but must start next year."
+     ],
+     "answer": 0,
+     "explanation_th": "แม่ให้กำลังใจว่าปีหน้ายังมีโอกาสลองใหม่",
+     "why_wrong": [
+      null,
+      "โน้ตไม่ได้พูดเรื่องการกิน",
+      "ไม่มีเบาะแสว่าแม่จะไปไหน",
+      "ขัดกับเรื่อง ชื่อของ Mai ไม่อยู่ในรายชื่อ"
+     ]
+    },
+    {
+     "id": "ENL223-U3-07",
+     "skill": "ENL223-U3",
+     "difficulty": 2,
+     "stem": "Ploy arrived twenty minutes late to the meeting. Her manager looked at his watch and said, \"Nice of you to join us.\" How should his words be interpreted?",
+     "options": [
+      "He is happy that she came so early.",
+      "He wants to buy her a new watch.",
+      "He is not pleased that she is late.",
+      "He thinks the meeting has not started yet."
+     ],
+     "answer": 2,
+     "explanation_th": "มาสาย 20 นาที และมองนาฬิกา แปลว่าประโยคนี้เป็นการประชด ไม่พอใจที่มาสาย",
+     "why_wrong": [
+      "ขัดกับเรื่อง เธอมาสาย 20 นาที",
+      "การมองนาฬิกาเป็นการเน้นเรื่องเวลาที่สาย ไม่ใช่เรื่องซื้อนาฬิกา",
+      null,
+      "join us แปลว่าคนอื่นอยู่ในประชุมแล้ว"
+     ]
+    },
+    {
+     "id": "ENL223-U3-08",
+     "skill": "ENL223-U3",
+     "difficulty": 1,
+     "stem": "\"The room fell silent when the head of the department walked in.\" What does \"fell silent\" mean?",
+     "options": [
+      "fell to the floor",
+      "became darker",
+      "became quiet suddenly",
+      "became empty"
+     ],
+     "answer": 2,
+     "explanation_th": "fall silent เป็นสำนวน แปลว่าเงียบลงทันที ไม่ได้มีอะไรตก",
+     "why_wrong": [
+      "อ่านตามตัวอักษร fell ในที่นี้ไม่ได้แปลว่าตก",
+      "silent เกี่ยวกับเสียง ไม่ใช่แสง",
+      null,
+      "คนยังอยู่ในห้อง แค่เงียบลง"
+     ]
+    }
+   ],
+   "say": [
+    "I think the writer means that Mai was sad.",
+    "A piece of cake means very easy."
+   ],
+   "task_th": "เลือกเพลงหรือเรื่องสั้นภาษาอังกฤษที่ชอบ หาวลีเปรียบเทียบ 2 วลี เขียนความหมายตามตัวอักษร กับความหมายที่ตีความได้ เทียบกันเป็นตาราง 2 ช่อง แล้วเขียน 1 ประโยค: I think the writer means ... because ..."
+  },
+  {
+   "id": "ENL223-U4",
+   "title_th": "การอนุมานและการสรุปผล",
+   "title_en": "Making inferences and conclusions",
+   "covers": "การอนุมาน",
+   "minutes": 15,
+   "lessons": [
+    "L22"
+   ],
+   "cards": [
+    {
+     "title_th": "อนุมานต่อยอดจาก ENL221",
+     "body_th": "ใน ENL221 เราอนุมานความรู้สึกและเหตุการณ์ ใน ENL223 เราอนุมานเพื่อสรุปผล: จากข้อมูลนี้ อะไรน่าจะจริง และอะไรสรุปไม่ได้"
+    },
+    {
+     "title_th": "สรุปได้แค่ไหน",
+     "body_th": "ข้อสรุปที่ดีใช้คำอย่าง probably, likely, suggests และไม่สรุปเกินหลักฐาน ข้อมูลเดือนเดียวบอกว่าป้ายน่าจะช่วย ไม่ได้พิสูจน์ว่าป้ายเป็นเหตุผลเดียว"
+    },
+    {
+     "title_th": "ข้อสรุปที่ไม่มีหลักฐาน",
+     "body_th": "คำถาม NOT supported ให้หาตัวเลือกที่เกินเรื่อง เช่น all patients are happy ทั้งที่เรื่องบอกว่ามีคนบ่น"
+    },
+    {
+     "title_th": "ตรรกะง่าย ๆ",
+     "body_th": "ถ้าทุกคนในกลุ่ม A สอบผ่าน และฝ้ายอยู่กลุ่ม A ฝ้ายต้องผ่าน แต่สรุปไม่ได้ว่าฝ้ายได้คะแนนสูงสุด"
+    }
+   ],
+   "vocab": [
+    [
+     "conclusion",
+     "ข้อสรุป"
+    ],
+    [
+     "draw a conclusion",
+     "สรุปผล"
+    ],
+    [
+     "support",
+     "สนับสนุน"
+    ],
+    [
+     "likely",
+     "น่าจะ"
+    ],
+    [
+     "evidence",
+     "หลักฐาน"
+    ],
+    [
+     "appointment",
+     "การนัดหมาย"
+    ],
+    [
+     "canteen",
+     "โรงอาหาร"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL223-U4-01",
+     "skill": "ENL223-U4",
+     "difficulty": 2,
+     "stem": "Passage: \"Last year, a university canteen switched from plastic forks to metal ones that are washed and reused. In the first month, about 300 forks went missing. The canteen then put up a sign at the exit: 'Please return forks to the tray.' The next month, only 40 forks went missing.\" **Which conclusion is best supported by the passage?**",
+     "options": [
+      "The sign probably helped reduce the number of missing forks.",
+      "Students stole 300 forks to sell them.",
+      "Metal forks are cheaper than plastic ones.",
+      "The canteen went back to plastic forks."
+     ],
+     "answer": 0,
+     "explanation_th": "หลังติดป้าย ส้อมหายลดจาก 300 เป็น 40 จึงสรุปได้ว่าป้ายน่าจะช่วย",
+     "why_wrong": [
+      null,
+      "ไม่มีหลักฐานว่าขโมยไปขาย",
+      "เรื่องไม่ได้พูดถึงราคา",
+      "เรื่องไม่ได้บอกว่ากลับไปใช้พลาสติก"
+     ]
+    },
+    {
+     "id": "ENL223-U4-02",
+     "skill": "ENL223-U4",
+     "difficulty": 2,
+     "stem": "Passage: \"Dr. Kanya's clinic has a new rule. Patients who arrive more than 15 minutes late must book a new appointment. Since the rule began, the waiting room has been less crowded, and the clinic finishes on time most days. Some patients complain that traffic in the area makes it hard to arrive on time.\" **Before the new rule, what was probably true?**",
+     "options": [
+      "The clinic had no patients at all.",
+      "Appointments often ran late because some patients arrived late.",
+      "Patients always arrived early.",
+      "The clinic was closed every afternoon."
+     ],
+     "answer": 1,
+     "explanation_th": "หลังมีกฎ คลินิกเสร็จตรงเวลา แสดงว่าก่อนหน้านั้นการมาสายทำให้นัดเลื่อน",
+     "why_wrong": [
+      "ห้องรอเคยแน่นกว่านี้ จึงมีคนไข้",
+      null,
+      "ถ้ามาก่อนเวลาทุกคนก็ไม่ต้องมีกฎนี้",
+      "ไม่มีข้อมูลเรื่องเวลาปิด"
+     ]
+    },
+    {
+     "id": "ENL223-U4-03",
+     "skill": "ENL223-U4",
+     "difficulty": 3,
+     "stem": "Passage: \"Dr. Kanya's clinic has a new rule. Patients who arrive more than 15 minutes late must book a new appointment. Since the rule began, the waiting room has been less crowded, and the clinic finishes on time most days. Some patients complain that traffic in the area makes it hard to arrive on time.\" **Which conclusion is NOT supported by the passage?**",
+     "options": [
+      "The rule has helped the clinic keep to its schedule.",
+      "Traffic can affect when patients arrive.",
+      "Some patients disagree with the rule.",
+      "All patients are happy with the new rule."
+     ],
+     "answer": 3,
+     "explanation_th": "เรื่องบอกว่ามีคนไข้บางคนบ่น จึงสรุปไม่ได้ว่าทุกคนพอใจ",
+     "why_wrong": [
+      "สนับสนุนโดย finishes on time most days",
+      "สนับสนุนโดยคำบ่นเรื่องรถติด",
+      "สนับสนุนโดย Some patients complain",
+      null
+     ]
+    },
+    {
+     "id": "ENL223-U4-04",
+     "skill": "ENL223-U4",
+     "difficulty": 1,
+     "stem": "Passage: \"Arm checked the weather app three times before leaving the dorm. He put a raincoat in his bag, wore his old sneakers instead of his new white ones, and wrapped his laptop in a plastic bag.\" **What does Arm most likely expect?**",
+     "options": [
+      "a hot, sunny day",
+      "an exam about the weather",
+      "heavy rain",
+      "a long flight"
+     ],
+     "answer": 2,
+     "explanation_th": "เช็กแอปพยากรณ์อากาศ พกเสื้อกันฝน ใส่รองเท้าเก่า ห่อแล็ปท็อป ล้วนเป็นการเตรียมรับฝน",
+     "why_wrong": [
+      "เสื้อกันฝนและการห่อแล็ปท็อปไม่ใช่การเตรียมรับแดด",
+      "การเช็กแอปคือการดูพยากรณ์ ไม่ได้เตรียมสอบ",
+      null,
+      "ไม่มีเบาะแสเรื่องเดินทางไกล"
+     ]
+    },
+    {
+     "id": "ENL223-U4-05",
+     "skill": "ENL223-U4",
+     "difficulty": 2,
+     "stem": "Passage: \"Arm checked the weather app three times before leaving the dorm. He put a raincoat in his bag, wore his old sneakers instead of his new white ones, and wrapped his laptop in a plastic bag.\" **Why did Arm most likely wear his old sneakers?**",
+     "options": [
+      "His new shoes were too small.",
+      "He did not want his new white shoes to get wet and dirty.",
+      "Old sneakers make him walk faster.",
+      "He could not find his new shoes."
+     ],
+     "answer": 1,
+     "explanation_th": "เขาเตรียมรับฝนทุกอย่าง จึงน่าจะไม่อยากให้รองเท้าขาวคู่ใหม่เปียกเลอะ",
+     "why_wrong": [
+      "ไม่มีเบาะแสเรื่องขนาดรองเท้า",
+      null,
+      "ไม่มีเบาะแสเรื่องความเร็ว",
+      "เรื่องบอกว่าเลือกใส่รองเท้าเก่าแทน (instead of) แปลว่ารู้ว่ารองเท้าใหม่อยู่ไหน"
+     ]
+    },
+    {
+     "id": "ENL223-U4-06",
+     "skill": "ENL223-U4",
+     "difficulty": 2,
+     "stem": "A sign in a shop window says: \"Everything 50% off! Last week before we close for good.\" What can you conclude?",
+     "options": [
+      "The shop will soon close permanently.",
+      "The shop is opening a new branch next door.",
+      "Prices will double next week.",
+      "The shop closes for one week every year."
+     ],
+     "answer": 0,
+     "explanation_th": "close for good แปลว่าปิดถาวร และนี่คือสัปดาห์สุดท้าย",
+     "why_wrong": [
+      null,
+      "ป้ายพูดถึงการปิด ไม่ใช่การเปิดสาขา",
+      "ไม่มีข้อมูลเรื่องราคาเพิ่ม",
+      "for good แปลว่าถาวร ไม่ใช่ปิดชั่วคราว"
+     ]
+    },
+    {
+     "id": "ENL223-U4-07",
+     "skill": "ENL223-U4",
+     "difficulty": 1,
+     "stem": "\"All the students in Group A passed the test. Fon is in Group A.\" What can we conclude?",
+     "options": [
+      "Fon got the highest score.",
+      "Fon failed the test.",
+      "Fon studied harder than everyone else.",
+      "Fon passed the test."
+     ],
+     "answer": 3,
+     "explanation_th": "ทุกคนในกลุ่ม A ผ่าน และฝนอยู่กลุ่ม A จึงต้องผ่าน",
+     "why_wrong": [
+      "ผ่านไม่ได้แปลว่าคะแนนสูงสุด",
+      "ขัดกับข้อมูลว่าทุกคนในกลุ่มผ่าน",
+      "ไม่มีข้อมูลเรื่องการอ่านหนังสือ",
+      null
+     ]
+    },
+    {
+     "id": "ENL223-U4-08",
+     "skill": "ENL223-U4",
+     "difficulty": 3,
+     "stem": "Passage: \"Last year, a university canteen switched from plastic forks to metal ones that are washed and reused. In the first month, about 300 forks went missing. The canteen then put up a sign at the exit: 'Please return forks to the tray.' The next month, only 40 forks went missing.\" **Which question would you need answered before you could be SURE the sign caused the change?**",
+     "options": [
+      "Did anything else change in the canteen during the second month?",
+      "What colour was the sign?",
+      "How much does a plastic fork cost?",
+      "Do students prefer metal forks?"
+     ],
+     "answer": 0,
+     "explanation_th": "ถ้ามีสิ่งอื่นเปลี่ยนด้วย (เช่น มีพนักงานยืนเฝ้า) ส้อมหายลดลงอาจไม่ได้มาจากป้ายอย่างเดียว",
+     "why_wrong": [
+      null,
+      "สีป้ายไม่ได้ช่วยแยกว่าป้ายเป็นสาเหตุหรือไม่",
+      "ราคาส้อมพลาสติกไม่เกี่ยวกับสาเหตุที่ส้อมเหล็กหายน้อยลง",
+      "ความชอบไม่ได้ตอบว่าอะไรทำให้ส้อมหายน้อยลง"
+     ]
+    }
+   ],
+   "say": [
+    "The evidence suggests that the sign helped.",
+    "We cannot conclude that everyone is happy."
+   ],
+   "task_th": "อ่านข่าวสั้นภาษาอังกฤษ 1 ข่าว เขียนข้อสรุป 2 ประโยคที่เรื่องสนับสนุน (The article suggests that ...) และ 1 ประโยคที่คนอาจสรุปเกินหลักฐาน (We cannot conclude that ...) พร้อมเหตุผลสั้น ๆ"
+  },
+  {
+   "id": "ENL223-U5",
+   "title_th": "ลงความเห็น: ประเมินข้อโต้แย้งและหลักฐาน",
+   "title_en": "Making judgements: arguments and evidence",
+   "covers": "และการลงความเห็น",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "ข้อโต้แย้งมี 3 ส่วน",
+     "body_th": "claim (ข้อเสนอ เช่น ควรเริ่มเรียน 9 โมง) / evidence (หลักฐาน เช่น งานวิจัย) / response to the other side (ตอบข้อแย้ง)"
+    },
+    {
+     "title_th": "หลักฐานที่แข็งแรง",
+     "body_th": "งานวิจัยกับกลุ่มคนจำนวนมาก ข้อมูลที่ตรวจสอบได้ ผู้เชี่ยวชาญที่ระบุชื่อ หลักฐานที่อ่อน: เพื่อนคนเดียว คนดังพูด หรือคนส่วนใหญ่ชอบ"
+    },
+    {
+     "title_th": "ตรรกะที่ผิดบ่อย",
+     "body_th": "คนรู้จักใช้กันเยอะ จึงดีที่สุด (popularity) / ถ้า A แล้ว B แล้ว C จนหายนะ (slippery slope) / คำกล่าวอ้างสุดโต่งไม่มีที่มา"
+    },
+    {
+     "title_th": "ถามคำถามก่อนเชื่อ",
+     "body_th": "ใครพูด รู้จริงไหม ได้ประโยชน์อะไรไหม มีตัวเลขไหม กลุ่มตัวอย่างใหญ่แค่ไหน"
+    }
+   ],
+   "vocab": [
+    [
+     "argument",
+     "ข้อโต้แย้ง"
+    ],
+    [
+     "claim",
+     "ข้อกล่าวอ้าง"
+    ],
+    [
+     "evidence",
+     "หลักฐาน"
+    ],
+    [
+     "reliable",
+     "น่าเชื่อถือ"
+    ],
+    [
+     "source",
+     "แหล่งข้อมูล"
+    ],
+    [
+     "survey",
+     "การสำรวจ"
+    ],
+    [
+     "opposing view",
+     "ความเห็นฝ่ายตรงข้าม"
+    ],
+    [
+     "attendance",
+     "การเข้าเรียน"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL223-U5-01",
+     "skill": "ENL223-U5",
+     "difficulty": 1,
+     "stem": "Which is the strongest evidence for the claim \"Regular exercise improves sleep\"?",
+     "options": [
+      "My friend runs every day, and he sleeps well.",
+      "Exercise videos are very popular on social media.",
+      "A famous actor says exercise is great.",
+      "A study of 2,000 adults found that those who exercised regularly fell asleep faster."
+     ],
+     "answer": 3,
+     "explanation_th": "งานศึกษากับคนจำนวนมากที่วัดผลการนอนโดยตรงเป็นหลักฐานที่แข็งแรงที่สุด",
+     "why_wrong": [
+      "คนเดียวเป็นตัวอย่างที่น้อยเกินไป",
+      "ความนิยมไม่ได้พิสูจน์ผลต่อการนอน",
+      "นักแสดงไม่ใช่ผู้เชี่ยวชาญ และไม่ได้พูดถึงการนอน",
+      null
+     ]
+    },
+    {
+     "id": "ENL223-U5-02",
+     "skill": "ENL223-U5",
+     "difficulty": 2,
+     "stem": "\"Everyone I know uses this app, so it must be the best app.\" What is the main problem with this argument?",
+     "options": [
+      "It uses too many numbers.",
+      "It is much too long.",
+      "Being popular with a few people does not prove that something is the best.",
+      "It gives too much evidence."
+     ],
+     "answer": 2,
+     "explanation_th": "คนรอบตัวใช้กันเยอะเป็นแค่ความนิยมในกลุ่มเล็ก ไม่ได้พิสูจน์คุณภาพ",
+     "why_wrong": [
+      "ข้อโต้แย้งนี้ไม่มีตัวเลขเลย",
+      "ความยาวไม่ใช่ปัญหา ข้อโต้แย้งนี้สั้นมาก",
+      null,
+      "ปัญหาคือหลักฐานน้อยเกินไป ไม่ใช่มากเกินไป"
+     ]
+    },
+    {
+     "id": "ENL223-U5-03",
+     "skill": "ENL223-U5",
+     "difficulty": 2,
+     "stem": "\"If we allow phones in class, students will stop listening, then they will fail, and then they will never get jobs.\" What is wrong with this argument?",
+     "options": [
+      "It gives strong statistics.",
+      "It jumps to extreme results without evidence.",
+      "It is a proven fact.",
+      "It quotes an expert."
+     ],
+     "answer": 1,
+     "explanation_th": "ต่อเหตุการณ์เป็นทอด ๆ ไปจนถึงผลสุดโต่ง โดยไม่มีหลักฐานสักขั้น (slippery slope)",
+     "why_wrong": [
+      "ไม่มีตัวเลขสถิติเลย",
+      null,
+      "เป็นการคาดเดา ไม่ใช่ข้อเท็จจริงที่พิสูจน์แล้ว",
+      "ไม่มีการอ้างผู้เชี่ยวชาญ"
+     ]
+    },
+    {
+     "id": "ENL223-U5-04",
+     "skill": "ENL223-U5",
+     "difficulty": 1,
+     "stem": "Passage: \"Our school should start classes at 9 a.m. instead of 8 a.m. Research on teenagers shows that their bodies naturally prefer to sleep and wake later. In one study, students at schools with later start times had better attendance. Some parents worry about traffic and work schedules, but these problems could be solved with flexible drop-off times.\" **What is the writer's main claim?**",
+     "options": [
+      "Teenagers sleep too much.",
+      "Classes should start at 9 a.m. instead of 8 a.m.",
+      "Parents should change their jobs.",
+      "Traffic is the biggest problem in the city."
+     ],
+     "answer": 1,
+     "explanation_th": "ประโยคแรกบอกข้อเสนอหลัก และที่เหลือเป็นเหตุผลสนับสนุน",
+     "why_wrong": [
+      "เรื่องบอกว่าร่างกายวัยรุ่นอยากนอนและตื่นสาย ไม่ได้บอกว่านอนมากเกินไป",
+      null,
+      "ผู้เขียนเสนอเวลาส่งลูกที่ยืดหยุ่น ไม่ได้ให้เปลี่ยนงาน",
+      "รถติดเป็นแค่ข้อกังวลที่พูดถึง ไม่ใช่ข้อเสนอหลัก"
+     ]
+    },
+    {
+     "id": "ENL223-U5-05",
+     "skill": "ENL223-U5",
+     "difficulty": 2,
+     "stem": "Passage: \"Our school should start classes at 9 a.m. instead of 8 a.m. Research on teenagers shows that their bodies naturally prefer to sleep and wake later. In one study, students at schools with later start times had better attendance. Some parents worry about traffic and work schedules, but these problems could be solved with flexible drop-off times.\" **What evidence does the writer give?**",
+     "options": [
+      "a personal story about being late",
+      "the opinion of a famous singer",
+      "a study that linked later start times to better attendance",
+      "the cost of school buses"
+     ],
+     "answer": 2,
+     "explanation_th": "In one study, students at schools with later start times had better attendance",
+     "why_wrong": [
+      "ไม่มีเรื่องส่วนตัวในเรื่อง",
+      "ไม่มีการอ้างนักร้อง",
+      null,
+      "ไม่มีการพูดถึงค่ารถโรงเรียน"
+     ]
+    },
+    {
+     "id": "ENL223-U5-06",
+     "skill": "ENL223-U5",
+     "difficulty": 2,
+     "stem": "Passage: \"Our school should start classes at 9 a.m. instead of 8 a.m. Research on teenagers shows that their bodies naturally prefer to sleep and wake later. In one study, students at schools with later start times had better attendance. Some parents worry about traffic and work schedules, but these problems could be solved with flexible drop-off times.\" **How does the writer deal with the opposing view?**",
+     "options": [
+      "ignores all opposing views",
+      "says parents are wrong but gives no reason",
+      "agrees that school should start earlier",
+      "mentions parents' worries and suggests a solution"
+     ],
+     "answer": 3,
+     "explanation_th": "ผู้เขียนยอมรับข้อกังวลของผู้ปกครอง แล้วเสนอเวลาส่งลูกที่ยืดหยุ่นเป็นทางแก้",
+     "why_wrong": [
+      "ผู้เขียนพูดถึงความกังวลของผู้ปกครอง จึงไม่ได้เพิกเฉย",
+      "ผู้เขียนให้ทางแก้ ไม่ได้แค่บอกว่าผิด",
+      "ผู้เขียนเสนอให้เริ่มช้าลง ไม่ใช่เร็วขึ้น",
+      null
+     ]
+    },
+    {
+     "id": "ENL223-U5-07",
+     "skill": "ENL223-U5",
+     "difficulty": 1,
+     "stem": "Which question best helps you judge whether an online article is reliable?",
+     "options": [
+      "Who wrote it, and what do they know about the topic?",
+      "Is the font attractive?",
+      "Is the article very long?",
+      "Do my friends like the website?"
+     ],
+     "answer": 0,
+     "explanation_th": "ผู้เขียนเป็นใครและมีความรู้เรื่องนั้นไหม เป็นคำถามหลักในการตัดสินความน่าเชื่อถือ",
+     "why_wrong": [
+      null,
+      "ฟอนต์สวยไม่ได้ทำให้ข้อมูลถูก",
+      "ความยาวไม่ได้บอกความถูกต้อง",
+      "ความชอบของเพื่อนไม่ได้พิสูจน์ความน่าเชื่อถือ"
+     ]
+    },
+    {
+     "id": "ENL223-U5-08",
+     "skill": "ENL223-U5",
+     "difficulty": 2,
+     "stem": "An advert says: \"Doctors agree that this tea cures all illnesses.\" Why should a careful reader doubt it?",
+     "options": [
+      "Tea is a drink, so it cannot be advertised.",
+      "The sentence is too short to be true.",
+      "The word 'doctors' always means the claim is true.",
+      "'Cures all illnesses' is an extreme claim, and no doctors or studies are named."
+     ],
+     "answer": 3,
+     "explanation_th": "คำกล่าวอ้างสุดโต่ง (รักษาได้ทุกโรค) และไม่บอกว่าหมอคนไหนหรืองานวิจัยไหน",
+     "why_wrong": [
+      "เครื่องดื่มโฆษณาได้ ไม่ใช่เหตุผลที่ต้องสงสัย",
+      "ความสั้นไม่ได้บอกว่าจริงหรือเท็จ",
+      "การอ้างคำว่าหมอโดยไม่มีชื่อไม่ได้ทำให้จริง และข้อนี้ไม่ได้ตอบว่าทำไมต้องสงสัย",
+      null
+     ]
+    },
+    {
+     "id": "ENL223-U5-09",
+     "skill": "ENL223-U5",
+     "difficulty": 2,
+     "stem": "\"In a survey of 50 students in one dorm, 40 said they prefer studying at night.\" Which conclusion is best supported?",
+     "options": [
+      "All students in Thailand prefer studying at night.",
+      "Studying at night gives better grades.",
+      "Most of the students surveyed in that dorm prefer studying at night.",
+      "Ten students in the dorm never study."
+     ],
+     "answer": 2,
+     "explanation_th": "สรุปเฉพาะกลุ่มที่สำรวจ 40 จาก 50 คือส่วนใหญ่",
+     "why_wrong": [
+      "กลุ่มตัวอย่างหอเดียว 50 คน สรุปทั้งประเทศไม่ได้",
+      "การสำรวจถามความชอบ ไม่ได้วัดเกรด",
+      null,
+      "อีก 10 คนแค่ไม่ได้ชอบอ่านกลางคืน ไม่ได้แปลว่าไม่อ่านเลย"
+     ]
+    }
+   ],
+   "say": [
+    "The writer gives one study as evidence.",
+    "This claim is too extreme to believe."
+   ],
+   "task_th": "หาโฆษณาหรือโพสต์ภาษาอังกฤษที่พยายามโน้มน้าว 1 ชิ้น เขียน 3 บรรทัด: Claim: ... / Evidence: ... / My judgement: The evidence is strong / weak because ..."
+  },
+  {
+   "id": "ENL223-U6",
+   "title_th": "น้ำเสียงและอคติ",
+   "title_en": "Tone and bias",
+   "covers": "การลงความเห็น",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "น้ำเสียง (tone) คือทัศนคติของผู้เขียน",
+     "body_th": "ดูจากคำที่เลือก เช่น humorous (ขำขัน), formal (ทางการ), critical (วิจารณ์), apologetic (ขอโทษ), enthusiastic (กระตือรือร้น)"
+    },
+    {
+     "title_th": "คำที่มีน้ำหนัก (loaded words)",
+     "body_th": "เรื่องเดียวกันเล่าได้หลายแบบ happy fans กับ noisy crowd อาจเป็นคนกลุ่มเดียวกัน แต่ผู้เขียนมีทัศนคติต่างกัน"
+    },
+    {
+     "title_th": "อคติ (bias)",
+     "body_th": "งานที่มีอคติเสนอแค่ด้านเดียว ใช้คำรุนแรงโจมตีอีกฝ่าย หรือเหมารวม (always, anyone, everyone) โดยไม่มีหลักฐาน"
+    },
+    {
+     "title_th": "ใครได้ประโยชน์",
+     "body_th": "รีวิวที่บริษัทเขียนเองเกี่ยวกับสินค้าตัวเอง อาจมีข้อมูลจริง แต่มักเลือกพูดแต่ด้านดี"
+    }
+   ],
+   "vocab": [
+    [
+     "tone",
+     "น้ำเสียง"
+    ],
+    [
+     "bias",
+     "อคติ"
+    ],
+    [
+     "one-sided",
+     "เข้าข้างด้านเดียว"
+    ],
+    [
+     "neutral",
+     "เป็นกลาง"
+    ],
+    [
+     "loaded word",
+     "คำที่แฝงทัศนคติ"
+    ],
+    [
+     "overgeneralization",
+     "การเหมารวม"
+    ],
+    [
+     "apologetic",
+     "แสดงความขอโทษ"
+    ],
+    [
+     "humorous",
+     "ขำขัน"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL223-U6-01",
+     "skill": "ENL223-U6",
+     "difficulty": 1,
+     "stem": "Passage: \"My first attempt at cooking pad kra pao was a disaster. I used far too many chillies, and when the oil got hot, the whole kitchen filled with smoke. My roommate ran in, coughing, sure the building was on fire. We opened every window, laughed until we cried, and ordered from the shop downstairs. I have improved since then, but my roommate still checks the kitchen whenever I cook.\" **What is the tone of the passage?**",
+     "options": [
+      "humorous",
+      "angry",
+      "sad",
+      "formal and scientific"
+     ],
+     "answer": 0,
+     "explanation_th": "เรื่องพลาดแต่เล่าแบบขำ ๆ หัวเราะจนน้ำตาไหล และตอนจบแซวตัวเอง",
+     "why_wrong": [
+      null,
+      "ไม่มีคำแสดงความโกรธ",
+      "ทั้งคู่หัวเราะ จึงไม่ใช่น้ำเสียงเศร้า",
+      "เป็นเรื่องเล่าส่วนตัว ภาษาเป็นกันเอง"
+     ]
+    },
+    {
+     "id": "ENL223-U6-02",
+     "skill": "ENL223-U6",
+     "difficulty": 2,
+     "stem": "\"The so-called 'healthy' snack was full of sugar.\" What does \"so-called\" show about the writer?",
+     "options": [
+      "The writer is impressed by the snack.",
+      "The writer doubts that the snack is really healthy.",
+      "The writer has no opinion about the snack.",
+      "The writer is unsure how to spell \"healthy\"."
+     ],
+     "answer": 1,
+     "explanation_th": "so-called ใช้เมื่อผู้เขียนไม่เชื่อชื่อหรือคำเรียกนั้น และประโยคบอกว่าเต็มไปด้วยน้ำตาล",
+     "why_wrong": [
+      "so-called ไม่ใช่คำชม",
+      null,
+      "การใช้ so-called แสดงทัศนคติชัดเจน",
+      "so-called ไม่เกี่ยวกับการสะกดคำ"
+     ]
+    },
+    {
+     "id": "ENL223-U6-03",
+     "skill": "ENL223-U6",
+     "difficulty": 2,
+     "stem": "Report A: \"Thousands of happy fans filled the stadium.\" Report B: \"A noisy crowd packed the stadium and blocked nearby roads.\" What does the difference show?",
+     "options": [
+      "Report A must be false.",
+      "Word choice can show a positive or negative attitude toward the same event.",
+      "Report B uses more numbers.",
+      "The reports describe two different events."
+     ],
+     "answer": 1,
+     "explanation_th": "ทั้งสองรายงานพูดถึงคนเต็มสนามเหมือนกัน แต่ happy fans ฟังดี noisy crowd ฟังไม่ดี",
+     "why_wrong": [
+      "ข้อมูลที่มีไม่พอจะบอกว่ารายงานไหนเท็จ",
+      null,
+      "Report A มีตัวเลข (thousands) แต่ Report B ไม่มี",
+      "ทั้งสองพูดถึงสนามที่เต็มไปด้วยคน ไม่มีเบาะแสว่าเป็นคนละงาน"
+     ]
+    },
+    {
+     "id": "ENL223-U6-04",
+     "skill": "ENL223-U6",
+     "difficulty": 2,
+     "stem": "A review of a new phone was written by the company that makes the phone. What should a careful reader do?",
+     "options": [
+      "believe everything because the company knows best",
+      "ignore every fact in it",
+      "decide that the phone must be bad",
+      "expect that the review may be one-sided"
+     ],
+     "answer": 3,
+     "explanation_th": "บริษัทได้ประโยชน์จากการขาย รีวิวจึงอาจเลือกพูดแต่ด้านดี ควรอ่านอย่างระวัง",
+     "why_wrong": [
+      "บริษัทมีส่วนได้เสีย จึงไม่ควรเชื่อทั้งหมด",
+      "ข้อมูลบางอย่าง เช่น ขนาดหน้าจอ อาจจริงและตรวจสอบได้",
+      "อคติในรีวิวไม่ได้พิสูจน์ว่าสินค้าแย่",
+      null
+     ]
+    },
+    {
+     "id": "ENL223-U6-05",
+     "skill": "ENL223-U6",
+     "difficulty": 2,
+     "stem": "Which sentence is the most neutral?",
+     "options": [
+      "The city plans to build a new road through the park.",
+      "The city wants to destroy our beautiful park with an ugly road.",
+      "The wonderful new road will finally fix the useless park.",
+      "Greedy officials are attacking the park."
+     ],
+     "answer": 0,
+     "explanation_th": "บอกข้อมูลโดยไม่ใช้คำที่แฝงทัศนคติ",
+     "why_wrong": [
+      null,
+      "destroy, beautiful, ugly เป็นคำที่แสดงทัศนคติลบต่อถนน",
+      "wonderful, useless เป็นคำที่แสดงทัศนคติ",
+      "Greedy, attacking เป็นคำโจมตี"
+     ]
+    },
+    {
+     "id": "ENL223-U6-06",
+     "skill": "ENL223-U6",
+     "difficulty": 1,
+     "stem": "Passage: \"We regret to inform you that the field trip on Friday has been cancelled because of the storm warning. Fees will be fully refunded within seven days. We apologise for any inconvenience.\" **What is the tone of this message?**",
+     "options": [
+      "excited and cheerful",
+      "humorous",
+      "formal and apologetic",
+      "angry and rude"
+     ],
+     "answer": 2,
+     "explanation_th": "We regret to inform you และ We apologise แสดงน้ำเสียงทางการและขอโทษ",
+     "why_wrong": [
+      "ข่าวยกเลิกทริปและคำขอโทษไม่ใช่น้ำเสียงตื่นเต้น",
+      "ไม่มีมุกตลก",
+      null,
+      "ภาษาสุภาพ ไม่มีคำหยาบหรือโกรธ"
+     ]
+    },
+    {
+     "id": "ENL223-U6-07",
+     "skill": "ENL223-U6",
+     "difficulty": 2,
+     "stem": "Passage: \"Electric scooters are the future. Anyone who still drives a car to work is simply lazy and selfish. Scooters are cheap, quiet and clean, and the accidents you hear about are always the riders' own fault.\" **Which statement best describes the passage?**",
+     "options": [
+      "It is balanced and gives both sides fairly.",
+      "It is one-sided: it praises scooters and attacks car drivers without evidence.",
+      "It is a scientific report with data.",
+      "It mainly explains how to repair scooters."
+     ],
+     "answer": 1,
+     "explanation_th": "มีแต่ข้อดีของสกู๊ตเตอร์ เรียกคนขับรถว่าขี้เกียจและเห็นแก่ตัว และไม่มีหลักฐานเลย",
+     "why_wrong": [
+      "ไม่มีข้อดีของรถยนต์หรือข้อเสียของสกู๊ตเตอร์",
+      null,
+      "ไม่มีตัวเลขหรือข้อมูลวิจัย",
+      "ไม่มีวิธีซ่อมเลย"
+     ]
+    },
+    {
+     "id": "ENL223-U6-08",
+     "skill": "ENL223-U6",
+     "difficulty": 3,
+     "stem": "Passage: \"Electric scooters are the future. Anyone who still drives a car to work is simply lazy and selfish. Scooters are cheap, quiet and clean, and the accidents you hear about are always the riders' own fault.\" **Which claim is an overgeneralization?**",
+     "options": [
+      "'Scooters are quiet.'",
+      "'Scooters are cheap.'",
+      "'Scooters are clean.'",
+      "'the accidents you hear about are always the riders' own fault'"
+     ],
+     "answer": 3,
+     "explanation_th": "always เหมาว่าอุบัติเหตุทุกครั้งเป็นความผิดของผู้ขี่ ซึ่งเกินกว่าที่ใครจะรู้ได้",
+     "why_wrong": [
+      "เป็นการบรรยายลักษณะทั่วไปที่ตรวจสอบได้ เช่น วัดระดับเสียง",
+      "เป็นการบรรยายราคาที่เทียบได้",
+      "เป็นการบรรยายว่าไม่ปล่อยไอเสียขณะขับ ตรวจสอบได้",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "The tone of this story is humorous.",
+    "This writer only shows one side."
+   ],
+   "task_th": "หาข่าวเรื่องเดียวกันจาก 2 สำนักข่าวภาษาอังกฤษ (หัวข้อทั่วไป เช่น กีฬา หรือสภาพอากาศ) จดคำที่แต่ละสำนักใช้ต่างกัน 3 คู่ แล้วเขียน 1 ประโยคว่าน้ำเสียงต่างกันอย่างไร"
+  },
+  {
+   "id": "ENL223-U7",
+   "title_th": "เขียนวิเคราะห์สิ่งที่อ่าน",
+   "title_en": "Expressing comprehension through written analysis",
+   "covers": "การถ่ายทอดความเข้าใจในการอ่านด้วยการเขียนเชิงวิเคราะห์",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "สรุป vs วิเคราะห์",
+     "body_th": "summary บอกว่าเรื่องพูดอะไร analysis บอกว่าเรื่องพูดได้ดีแค่ไหน ทำไม หลักฐานพอไหม"
+    },
+    {
+     "title_th": "โครงย่อหน้าวิเคราะห์",
+     "body_th": "claim (ข้อตัดสินของเรา) → evidence (อ้างหรือถอดความจากเรื่อง) → explanation (อธิบายว่าหลักฐานแสดงอะไร) → short conclusion"
+    },
+    {
+     "title_th": "กริยารายงาน",
+     "body_th": "The writer argues / claims / suggests / explains that ... ใช้เพื่อแยกความเห็นของผู้เขียนออกจากของเรา"
+    },
+    {
+     "title_th": "ตัดสินอย่างระมัดระวัง",
+     "body_th": "ใช้ may, suggests, seems แทน definitely, always เมื่อหลักฐานยังไม่พอ",
+     "example": "The evidence suggests that the sign may have helped."
+    }
+   ],
+   "vocab": [
+    [
+     "analysis",
+     "การวิเคราะห์"
+    ],
+    [
+     "analyse",
+     "วิเคราะห์"
+    ],
+    [
+     "argue",
+     "โต้แย้ง ให้เหตุผล"
+    ],
+    [
+     "claim",
+     "กล่าวอ้าง"
+    ],
+    [
+     "weaken",
+     "ทำให้อ่อนลง"
+    ],
+    [
+     "strengthen",
+     "ทำให้แข็งแรงขึ้น"
+    ],
+    [
+     "quote",
+     "อ้างคำพูด"
+    ],
+    [
+     "hedge",
+     "พูดอย่างระมัดระวัง ไม่ฟันธง"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL223-U7-01",
+     "skill": "ENL223-U7",
+     "difficulty": 2,
+     "stem": "Which is the best topic sentence for a short written analysis of an article?",
+     "options": [
+      "The article argues that later school start times improve attendance, but it supports this with only one study.",
+      "I like reading articles.",
+      "This article is about stuff.",
+      "School is important for everyone."
+     ],
+     "answer": 0,
+     "explanation_th": "บอกทั้งข้อโต้แย้งของบทความและข้อตัดสินของเราเรื่องหลักฐาน จึงเป็นประโยคใจความของงานวิเคราะห์",
+     "why_wrong": [
+      null,
+      "เป็นความชอบส่วนตัว ไม่ได้วิเคราะห์บทความ",
+      "กว้างและคลุมเครือ ไม่ได้บอกอะไรเลย",
+      "กว้างเกินไป ไม่ได้พูดถึงบทความ"
+     ]
+    },
+    {
+     "id": "ENL223-U7-02",
+     "skill": "ENL223-U7",
+     "difficulty": 1,
+     "stem": "Which sentence correctly reports the writer's view in a written analysis?",
+     "options": [
+      "The writer is 100% correct, and nobody can disagree.",
+      "I claims the app good.",
+      "The writer claims that food-sharing apps can reduce waste.",
+      "Food apps is reduce waste, the writer."
+     ],
+     "answer": 2,
+     "explanation_th": "The writer claims that ... แยกความเห็นของผู้เขียนออกจากของเรา และไวยากรณ์ถูกต้อง",
+     "why_wrong": [
+      "เป็นการตัดสินที่สุดโต่ง ไม่ได้รายงานความเห็นของผู้เขียน",
+      "ผิดไวยากรณ์ (I claims) และไม่ได้รายงานความเห็นของผู้เขียน",
+      null,
+      "ผิดไวยากรณ์และอ่านไม่รู้เรื่อง"
+     ]
+    },
+    {
+     "id": "ENL223-U7-03",
+     "skill": "ENL223-U7",
+     "difficulty": 2,
+     "stem": "Which sentence analyses rather than just summarises?",
+     "options": [
+      "The writer says her town throws away food.",
+      "The writer's argument is weakened because she gives only one example from her own town.",
+      "The writer mentions an app for sharing food.",
+      "The writer asks the council to support the idea."
+     ],
+     "answer": 1,
+     "explanation_th": "ประโยคนี้ตัดสินคุณภาพของข้อโต้แย้งพร้อมเหตุผล จึงเป็นการวิเคราะห์",
+     "why_wrong": [
+      "เป็นการเล่าว่าผู้เขียนพูดอะไร",
+      null,
+      "เป็นการเล่าเนื้อหา",
+      "เป็นการเล่าเนื้อหา"
+     ]
+    },
+    {
+     "id": "ENL223-U7-04",
+     "skill": "ENL223-U7",
+     "difficulty": 1,
+     "stem": "Written analysis: \"The writer ___ that the council should support the app.\"",
+     "options": [
+      "argue",
+      "arguing",
+      "is argue",
+      "argues"
+     ],
+     "answer": 3,
+     "explanation_th": "ประธานเอกพจน์ The writer ใช้ present simple เติม s: argues",
+     "why_wrong": [
+      "ขาด s สำหรับประธานเอกพจน์",
+      "V-ing ใช้เป็นกริยาแท้ไม่ได้ถ้าไม่มี is",
+      "is ตามด้วยกริยาช่อง 1 ไม่ได้",
+      null
+     ]
+    },
+    {
+     "id": "ENL223-U7-05",
+     "skill": "ENL223-U7",
+     "difficulty": 1,
+     "stem": "What is the best way to support a point in a written analysis?",
+     "options": [
+      "Repeat your point in capital letters.",
+      "Write 'everybody knows this'.",
+      "Quote or paraphrase a specific line from the text, then explain it.",
+      "Add a story that is not related to the text."
+     ],
+     "answer": 2,
+     "explanation_th": "หลักฐานจากเรื่องพร้อมคำอธิบายทำให้ข้อตัดสินน่าเชื่อ",
+     "why_wrong": [
+      "การพูดซ้ำไม่ได้เพิ่มหลักฐาน",
+      "การอ้างว่าใคร ๆ ก็รู้ไม่ใช่หลักฐาน",
+      null,
+      "เรื่องที่ไม่เกี่ยวไม่ได้สนับสนุนข้อตัดสินเกี่ยวกับบทความ"
+     ]
+    },
+    {
+     "id": "ENL223-U7-06",
+     "skill": "ENL223-U7",
+     "difficulty": 2,
+     "stem": "Which sentence is the most careful (hedged) judgement?",
+     "options": [
+      "The evidence suggests that the sign may have helped reduce missing forks.",
+      "The sign definitely solved every problem forever.",
+      "The sign did nothing at all.",
+      "Signs always work."
+     ],
+     "answer": 0,
+     "explanation_th": "suggests และ may เป็นการตัดสินที่พอดีกับหลักฐาน",
+     "why_wrong": [
+      null,
+      "definitely และ forever เกินหลักฐาน",
+      "ขัดกับข้อมูลที่ส้อมหายลดลง",
+      "always เป็นการเหมารวม"
+     ]
+    },
+    {
+     "id": "ENL223-U7-07",
+     "skill": "ENL223-U7",
+     "difficulty": 2,
+     "stem": "Which order is best for a short analytical paragraph?",
+     "options": [
+      "conclusion, unrelated story, claim",
+      "claim, evidence from the text, explanation, short conclusion",
+      "evidence only, with no claim",
+      "a list of new words from the text"
+     ],
+     "answer": 1,
+     "explanation_th": "โครงนี้ทำให้ผู้อ่านรู้ว่าเราตัดสินอะไร หลักฐานคืออะไร และทำไมหลักฐานสนับสนุน",
+     "why_wrong": [
+      "เรื่องที่ไม่เกี่ยวทำให้ย่อหน้าไม่มีเอกภาพ และลำดับสับสน",
+      null,
+      "ไม่มี claim ผู้อ่านไม่รู้ว่าหลักฐานสนับสนุนอะไร",
+      "รายการคำศัพท์ไม่ใช่การวิเคราะห์"
+     ]
+    },
+    {
+     "id": "ENL223-U7-08",
+     "skill": "ENL223-U7",
+     "difficulty": 2,
+     "stem": "Written analysis: \"The writer gives clear statistics. ___, she does not mention any opposing views.\"",
+     "options": [
+      "However",
+      "Therefore",
+      "For example",
+      "Because"
+     ],
+     "answer": 0,
+     "explanation_th": "ประโยคแรกเป็นจุดแข็ง ประโยคหลังเป็นจุดอ่อน ขัดแย้งกัน จึงใช้ However",
+     "why_wrong": [
+      null,
+      "Therefore บอกผล แต่การไม่พูดถึงฝ่ายตรงข้ามไม่ได้เป็นผลของสถิติ",
+      "For example ใช้ยกตัวอย่างของประโยคก่อน ไม่ใช่ความขัดแย้ง",
+      "Because ขึ้นต้นแล้วตามด้วยจุลภาคแบบนี้ไม่ได้ และความหมายผิด"
+     ]
+    }
+   ],
+   "say": [
+    "The writer argues that classes should start later.",
+    "The argument is weak because there is only one study."
+   ],
+   "task_th": "เลือกบทความแสดงความเห็นภาษาอังกฤษสั้น 1 ชิ้น เขียนย่อหน้าวิเคราะห์ 4 ประโยค: 1) The writer argues that ... 2) หลักฐานที่ผู้เขียนใช้ 3) The argument is strong / weak because ... 4) ประโยคสรุปที่ใช้ may หรือ suggests"
+  }
+ ]
+}

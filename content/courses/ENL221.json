@@ -1,0 +1,1701 @@
+{
+ "code": "ENL221",
+ "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+ "in_class_th": [
+  "น่าจะได้อ่านบทความสั้นภาษาอังกฤษทุกสัปดาห์ แล้วตอบคำถามหาใจความสำคัญ รายละเอียด และคำอ้างอิง (it, they, this)",
+  "น่าจะมีแบบฝึกเดาความหมายศัพท์จากบริบท และแยกคำออกเป็น prefix, root, suffix",
+  "อาจต้องเขียนบันทึกการอ่าน (reading journal) เป็นประจำ และเขียนสรุปบทความด้วยคำพูดของตัวเอง",
+  "น่าจะมีคำถามแนว \"อ่านระหว่างบรรทัด\" ที่คำตอบไม่ได้เขียนไว้ตรง ๆ ต้องอนุมานจากเบาะแสในเรื่อง"
+ ],
+ "units": [
+  {
+   "id": "ENL221-U1",
+   "title_th": "อ่านให้เข้าใจ: รายละเอียดและคำอ้างอิง",
+   "title_en": "Reading for comprehension: details and reference",
+   "covers": "การอ่านเพื่อความเข้าใจ",
+   "minutes": 15,
+   "lessons": [
+    "L19",
+    "L21"
+   ],
+   "cards": [
+    {
+     "title_th": "อ่านคำถามก่อน แล้วค่อยหาในเรื่อง",
+     "body_th": "ข้อสอบรายละเอียดมักมีคำสำคัญในคำถาม (ชื่อคน ตัวเลข วัน) ให้กวาดตาหาคำนั้นในเรื่อง แล้วอ่านประโยครอบ ๆ อย่างละเอียด"
+    },
+    {
+     "title_th": "คำตอบมักถูกถอดความ",
+     "body_th": "คำตอบที่ถูกมักไม่ใช้คำเดียวกับในเรื่อง แต่ความหมายเท่ากัน (paraphrase) ส่วนตัวหลอกมักใช้คำเดียวกันแต่ความหมายเพี้ยน",
+     "example": "must be returned within two weeks = have to bring back no later than two weeks"
+    },
+    {
+     "title_th": "คำอ้างอิงชี้กลับไปข้างหน้า",
+     "body_th": "it, they, this, she ชี้ถึงคำนามที่พูดไปแล้ว ให้ลองแทนคำตอบลงไป ถ้าประโยคยังเข้าใจได้คือถูก"
+    },
+    {
+     "title_th": "คำถาม NOT TRUE",
+     "body_th": "ต้องเช็กทั้ง 4 ตัวเลือก ตัวที่หาไม่เจอหรือขัดกับเรื่องคือคำตอบ อย่าเลือกเพราะจำได้ลาง ๆ"
+    }
+   ],
+   "vocab": [
+    [
+     "comprehension",
+     "ความเข้าใจในการอ่าน"
+    ],
+    [
+     "detail",
+     "รายละเอียด"
+    ],
+    [
+     "paraphrase",
+     "การถอดความ"
+    ],
+    [
+     "refer to",
+     "อ้างถึง"
+    ],
+    [
+     "scan",
+     "กวาดตาหาข้อมูลเฉพาะ"
+    ],
+    [
+     "renew",
+     "ต่ออายุ (การยืม)"
+    ],
+    [
+     "in advance",
+     "ล่วงหน้า"
+    ],
+    [
+     "graduate",
+     "เรียนจบ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL221-U1-01",
+     "skill": "ENL221-U1",
+     "difficulty": 2,
+     "stem": "Passage: \"Mina started a part-time job at a bookshop near her university in June. She works there on Tuesday and Thursday evenings, from five to nine. Her main job is to put new books on the shelves, but she also helps customers find what they need. At first, she found the cash machine difficult to use. Her manager, Mr. Somchai, showed her how it worked, and after two weeks it was easy. Mina likes the job because she can read during quiet hours. She plans to keep it until she graduates.\" **How many hours does Mina work at the bookshop each week?**",
+     "options": [
+      "4 hours",
+      "8 hours",
+      "9 hours",
+      "5 hours"
+     ],
+     "answer": 1,
+     "explanation_th": "ทำวันอังคารกับพฤหัส วันละ 5 โมงถึง 3 ทุ่ม = 4 ชั่วโมง x 2 วัน = 8 ชั่วโมง",
+     "why_wrong": [
+      "4 ชั่วโมงคือแค่วันเดียว แต่ทำสองวัน",
+      null,
+      "9 มาจากเวลาเลิกงาน ไม่ใช่จำนวนชั่วโมง",
+      "5 มาจากเวลาเริ่มงาน ไม่ใช่จำนวนชั่วโมง"
+     ]
+    },
+    {
+     "id": "ENL221-U1-02",
+     "skill": "ENL221-U1",
+     "difficulty": 1,
+     "stem": "Passage: \"Mina started a part-time job at a bookshop near her university in June. She works there on Tuesday and Thursday evenings, from five to nine. Her main job is to put new books on the shelves, but she also helps customers find what they need. At first, she found the cash machine difficult to use. Her manager, Mr. Somchai, showed her how it worked, and after two weeks it was easy. Mina likes the job because she can read during quiet hours. She plans to keep it until she graduates.\" **In 'showed her how it worked', what does 'it' refer to?**",
+     "options": [
+      "the bookshop",
+      "the job",
+      "the cash machine",
+      "the shelf"
+     ],
+     "answer": 2,
+     "explanation_th": "ประโยคก่อนหน้าพูดถึง the cash machine ที่ใช้ยาก ผู้จัดการจึงสอนวิธีใช้เครื่องนั้น",
+     "why_wrong": [
+      "ร้านหนังสือไม่ใช่สิ่งที่ Mina ใช้ไม่เป็น",
+      "ประโยคก่อนหน้าพูดถึงเครื่องเก็บเงิน ไม่ใช่งานทั้งหมด",
+      null,
+      "ชั้นหนังสือไม่ได้ถูกพูดถึงในประโยคนั้น"
+     ]
+    },
+    {
+     "id": "ENL221-U1-03",
+     "skill": "ENL221-U1",
+     "difficulty": 2,
+     "stem": "Passage: \"Mina started a part-time job at a bookshop near her university in June. She works there on Tuesday and Thursday evenings, from five to nine. Her main job is to put new books on the shelves, but she also helps customers find what they need. At first, she found the cash machine difficult to use. Her manager, Mr. Somchai, showed her how it worked, and after two weeks it was easy. Mina likes the job because she can read during quiet hours. She plans to keep it until she graduates.\" **Which statement is NOT true according to the passage?**",
+     "options": [
+      "Mina found the cash machine easy from the first day.",
+      "Mina works in the evenings.",
+      "Mr. Somchai is Mina's manager.",
+      "Mina sometimes reads at work."
+     ],
+     "answer": 0,
+     "explanation_th": "เรื่องบอกว่าตอนแรกใช้เครื่องเก็บเงินยาก (At first, she found the cash machine difficult) จึงไม่จริง",
+     "why_wrong": [
+      null,
+      "จริง ทำงานตอนเย็น 5 โมงถึง 3 ทุ่ม",
+      "จริง Her manager, Mr. Somchai",
+      "จริง she can read during quiet hours"
+     ]
+    },
+    {
+     "id": "ENL221-U1-04",
+     "skill": "ENL221-U1",
+     "difficulty": 2,
+     "stem": "Passage: \"The city library has changed its rules for this term. Students can now borrow up to eight books at a time instead of five. Books must be returned within two weeks, but students can renew them online once. Late books cost two baht per day. The study rooms on the third floor must be booked a day in advance, and each booking lasts two hours. Food is not allowed anywhere in the building, although students may bring water in a closed bottle.\" **How many books could students borrow at a time before this term?**",
+     "options": [
+      "eight",
+      "two",
+      "three",
+      "five"
+     ],
+     "answer": 3,
+     "explanation_th": "instead of five แปลว่าเดิมยืมได้ 5 เล่ม ตอนนี้เป็น 8 เล่ม",
+     "why_wrong": [
+      "8 เล่มเป็นกฎใหม่ของเทอมนี้",
+      "2 เป็นจำนวนสัปดาห์และค่าปรับ ไม่ใช่จำนวนหนังสือ",
+      "three เป็นชั้นของห้องอ่านหนังสือ",
+      null
+     ]
+    },
+    {
+     "id": "ENL221-U1-05",
+     "skill": "ENL221-U1",
+     "difficulty": 2,
+     "stem": "Passage: \"The city library has changed its rules for this term. Students can now borrow up to eight books at a time instead of five. Books must be returned within two weeks, but students can renew them online once. Late books cost two baht per day. The study rooms on the third floor must be booked a day in advance, and each booking lasts two hours. Food is not allowed anywhere in the building, although students may bring water in a closed bottle.\" **Which of these is allowed in the library?**",
+     "options": [
+      "eating a sandwich in a study room",
+      "renewing a book online twice",
+      "bringing water in a closed bottle",
+      "booking a study room on the same day you use it"
+     ],
+     "answer": 2,
+     "explanation_th": "เรื่องบอกว่า students may bring water in a closed bottle",
+     "why_wrong": [
+      "Food is not allowed anywhere in the building",
+      "ต่ออายุออนไลน์ได้ครั้งเดียว (once)",
+      null,
+      "ต้องจองล่วงหน้า 1 วัน (a day in advance)"
+     ]
+    },
+    {
+     "id": "ENL221-U1-06",
+     "skill": "ENL221-U1",
+     "difficulty": 3,
+     "stem": "Passage: \"The city library has changed its rules for this term. Students can now borrow up to eight books at a time instead of five. Books must be returned within two weeks, but students can renew them online once. Late books cost two baht per day. The study rooms on the third floor must be booked a day in advance, and each booking lasts two hours. Food is not allowed anywhere in the building, although students may bring water in a closed bottle.\" **Which sentence has the same meaning as 'Books must be returned within two weeks'?**",
+     "options": [
+      "Students can keep books for longer than two weeks without paying.",
+      "Students must wait two weeks before they return a book.",
+      "Students can borrow books only once every two weeks.",
+      "Students have to bring books back no later than two weeks after borrowing them."
+     ],
+     "answer": 3,
+     "explanation_th": "within two weeks = ภายในสองสัปดาห์ ไม่เกินสองสัปดาห์ ตรงกับ no later than two weeks",
+     "why_wrong": [
+      "เกินสองสัปดาห์จะเสียค่าปรับ 2 บาทต่อวัน",
+      "within แปลว่าภายใน คืนก่อนได้ ไม่ต้องรอครบ",
+      "เรื่องไม่ได้จำกัดว่ายืมได้สองสัปดาห์ครั้ง",
+      null
+     ]
+    },
+    {
+     "id": "ENL221-U1-07",
+     "skill": "ENL221-U1",
+     "difficulty": 2,
+     "stem": "Passage: \"Ken and his sister Aom study at the same university. He studies engineering, while she studies English. Every morning they take the same bus, but they rarely see each other on campus, because their buildings are on opposite sides of a large lake. On Fridays, however, they meet for lunch at a small noodle shop that their father recommended. Both of them agree it is the best place near campus.\" **What does 'it' in the last sentence refer to?**",
+     "options": [
+      "the noodle shop",
+      "the campus",
+      "the lake",
+      "the bus"
+     ],
+     "answer": 0,
+     "explanation_th": "ประโยคก่อนหน้าพูดถึง a small noodle shop และ the best place near campus ก็คือร้านนี้",
+     "why_wrong": [
+      null,
+      "campus อยู่ในวลี near campus ซึ่งบอกตำแหน่งของสิ่งที่ it ชี้ ไม่ใช่ตัว it เอง",
+      "ทะเลสาบอยู่ในประโยคก่อนหน้านั้น และไม่ใช่ที่กินข้าว",
+      "รถบัสพูดถึงในตอนต้น ไม่ใช่สิ่งที่ทั้งคู่เห็นว่าดีที่สุด"
+     ]
+    },
+    {
+     "id": "ENL221-U1-08",
+     "skill": "ENL221-U1",
+     "difficulty": 1,
+     "stem": "Passage: \"Ken and his sister Aom study at the same university. He studies engineering, while she studies English. Every morning they take the same bus, but they rarely see each other on campus, because their buildings are on opposite sides of a large lake. On Fridays, however, they meet for lunch at a small noodle shop that their father recommended. Both of them agree it is the best place near campus.\" **Why do Ken and Aom rarely see each other on campus?**",
+     "options": [
+      "They take different buses.",
+      "Their buildings are far apart.",
+      "Aom studies at another university.",
+      "Ken has lunch alone every day."
+     ],
+     "answer": 1,
+     "explanation_th": "because their buildings are on opposite sides of a large lake บอกเหตุผลตรง ๆ",
+     "why_wrong": [
+      "ทั้งคู่ขึ้นรถบัสคันเดียวกันทุกเช้า",
+      null,
+      "ทั้งคู่เรียนมหาวิทยาลัยเดียวกัน",
+      "วันศุกร์ทั้งคู่กินข้าวกลางวันด้วยกัน"
+     ]
+    }
+   ],
+   "say": [
+    "I read the question first, then I look for the answer.",
+    "'It' refers to the cash machine."
+   ],
+   "task_th": "อ่านบทความภาษาอังกฤษสั้น 1 ชิ้น (ประมาณ 100 คำ) แล้วตั้งคำถามรายละเอียดเอง 3 ข้อ พร้อมคำตอบ และวงคำอ้างอิง (it, they, this) ทุกตัว ลากเส้นไปหาคำที่มันชี้"
+  },
+  {
+   "id": "ENL221-U2",
+   "title_th": "ใช้บริบทเดาความหมาย",
+   "title_en": "Using context",
+   "covers": "การใช้บริบท",
+   "minutes": 15,
+   "lessons": [
+    "L20"
+   ],
+   "cards": [
+    {
+     "title_th": "ไม่ต้องรู้ทุกคำ",
+     "body_th": "เจอคำไม่รู้จัก อย่าหยุดเปิดดิกทันที อ่านต่อให้จบประโยค และประโยคถัดไป เบาะแสมักอยู่ใกล้ ๆ"
+    },
+    {
+     "title_th": "เบาะแส 4 แบบ",
+     "body_th": "definition (นิยามตรง ๆ) / example (such as ...) / contrast (unlike, but) / cause and effect (so, because)",
+     "example": "Unlike his talkative brother, Beam is taciturn. (contrast: taciturn = พูดน้อย)"
+    },
+    {
+     "title_th": "ดูชนิดคำก่อน",
+     "body_th": "คำนั้นอยู่ตำแหน่งคำนาม คุณศัพท์ หรือกริยา ช่วยตัดตัวเลือกที่ชนิดคำไม่ตรงออกได้"
+    },
+    {
+     "title_th": "เอาคำตอบแทนกลับลงไป",
+     "body_th": "แทนความหมายที่เดาลงในประโยค ถ้าอ่านแล้วเข้ากับทั้งเรื่องคือถูก"
+    }
+   ],
+   "vocab": [
+    [
+     "context",
+     "บริบท"
+    ],
+    [
+     "clue",
+     "เบาะแส"
+    ],
+    [
+     "guess",
+     "เดา"
+    ],
+    [
+     "contrast",
+     "ความแตกต่าง ตรงข้าม"
+    ],
+    [
+     "definition",
+     "นิยาม"
+    ],
+    [
+     "consolidate",
+     "ทำให้มั่นคงขึ้น"
+    ],
+    [
+     "economical",
+     "ประหยัด"
+    ],
+    [
+     "ambiguous",
+     "กำกวม มีหลายความหมาย"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL221-U2-01",
+     "skill": "ENL221-U2",
+     "difficulty": 2,
+     "stem": "Passage: \"Sleep is not a waste of time. While we sleep, the brain sorts the information it received during the day and stores the important parts. Students who stay up all night before an exam often do worse, not better, because their memory has no chance to consolidate what they studied. Doctors suggest that young adults get seven to nine hours of sleep. A short nap of twenty minutes can also help, but a long nap in the late afternoon may make it harder to fall asleep at night.\" **The word 'consolidate' in the passage is closest in meaning to ___.**",
+     "options": [
+      "forget quickly",
+      "share with friends",
+      "write down on paper",
+      "make stronger and more fixed"
+     ],
+     "answer": 3,
+     "explanation_th": "ประโยคก่อนหน้าบอกว่าสมองจัดและเก็บข้อมูลสำคัญตอนหลับ consolidate จึงหมายถึงทำให้ความจำมั่นคงขึ้น",
+     "why_wrong": [
+      "ลืมเร็วขัดกับที่สมองเก็บข้อมูลสำคัญไว้",
+      "เรื่องไม่ได้พูดถึงการแบ่งปันกับเพื่อน",
+      "เรื่องพูดถึงสิ่งที่สมองทำตอนหลับ ไม่ใช่การจดบนกระดาษ",
+      null
+     ]
+    },
+    {
+     "id": "ENL221-U2-02",
+     "skill": "ENL221-U2",
+     "difficulty": 2,
+     "stem": "Passage: \"Sleep is not a waste of time. While we sleep, the brain sorts the information it received during the day and stores the important parts. Students who stay up all night before an exam often do worse, not better, because their memory has no chance to consolidate what they studied. Doctors suggest that young adults get seven to nine hours of sleep. A short nap of twenty minutes can also help, but a long nap in the late afternoon may make it harder to fall asleep at night.\" **Which part of the passage gives the best clue to the meaning of 'consolidate'?**",
+     "options": [
+      "'Doctors suggest that young adults get seven to nine hours'",
+      "'A short nap of twenty minutes can also help'",
+      "'the brain sorts the information ... and stores the important parts'",
+      "'it harder to fall asleep at night'"
+     ],
+     "answer": 2,
+     "explanation_th": "ส่วนนี้อธิบายว่าสมองทำอะไรกับข้อมูลตอนหลับ ซึ่งคือความหมายของ consolidate",
+     "why_wrong": [
+      "บอกจำนวนชั่วโมงนอน ไม่ได้อธิบายสิ่งที่สมองทำกับความจำ",
+      "พูดถึงการงีบ ไม่เกี่ยวกับความหมายของคำ",
+      null,
+      "พูดถึงผลของการงีบนาน ไม่เกี่ยวกับความจำ"
+     ]
+    },
+    {
+     "id": "ENL221-U2-03",
+     "skill": "ENL221-U2",
+     "difficulty": 2,
+     "stem": "Passage: \"Many travellers now carry a reusable water bottle. Instead of buying a new plastic bottle every few hours, they refill one bottle at water stations in airports, hotels and cafés. This habit is economical: a traveller can save several hundred baht on a two-week trip. It also cuts waste, since plastic bottles take a very long time to break down. Some cafés even give a small discount to customers who bring their own bottle or cup.\" **In the passage, 'economical' most likely means ___.**",
+     "options": [
+      "saving money",
+      "harmful to nature",
+      "very popular",
+      "difficult to do"
+     ],
+     "answer": 0,
+     "explanation_th": "ประโยคเดียวกันบอกว่าประหยัดได้หลายร้อยบาท (save several hundred baht) จึงแปลว่าประหยัดเงิน",
+     "why_wrong": [
+      null,
+      "ประโยคถัดไปบอกว่านิสัยนี้ลดขยะ ช่วยธรรมชาติ ไม่ได้ทำร้าย",
+      "เรื่องไม่ได้ใช้ข้อมูลความนิยมอธิบายคำนี้",
+      "การเติมน้ำที่จุดบริการไม่ได้ถูกบรรยายว่ายาก"
+     ]
+    },
+    {
+     "id": "ENL221-U2-04",
+     "skill": "ENL221-U2",
+     "difficulty": 1,
+     "stem": "Passage: \"Many travellers now carry a reusable water bottle. Instead of buying a new plastic bottle every few hours, they refill one bottle at water stations in airports, hotels and cafés. This habit is economical: a traveller can save several hundred baht on a two-week trip. It also cuts waste, since plastic bottles take a very long time to break down. Some cafés even give a small discount to customers who bring their own bottle or cup.\" **In the passage, 'refill' most likely means ___.**",
+     "options": [
+      "throw away",
+      "fill again",
+      "buy new",
+      "wash quickly"
+     ],
+     "answer": 1,
+     "explanation_th": "Instead of buying a new bottle เขาเอาขวดเดิมไปเติมน้ำที่จุดบริการ re- = อีกครั้ง fill = เติม",
+     "why_wrong": [
+      "ทิ้งขัดกับการพกขวดเดิมไปใช้ต่อ",
+      null,
+      "ซื้อใหม่คือสิ่งที่เขาไม่ทำ (Instead of buying)",
+      "จุดบริการเป็น water stations สำหรับเติมน้ำ ไม่ใช่ล้างขวด"
+     ]
+    },
+    {
+     "id": "ENL221-U2-05",
+     "skill": "ENL221-U2",
+     "difficulty": 2,
+     "stem": "\"The instructions were ambiguous; half the class understood them one way, and the other half understood them another way.\" What does \"ambiguous\" mean?",
+     "options": [
+      "very clear and simple",
+      "much too long",
+      "having more than one possible meaning",
+      "written in another language"
+     ],
+     "answer": 2,
+     "explanation_th": "คนเข้าใจคำสั่งต่างกันเป็นสองแบบ แปลว่าคำสั่งตีความได้หลายทาง",
+     "why_wrong": [
+      "ถ้าชัดเจน ทุกคนคงเข้าใจตรงกัน",
+      "ความยาวไม่ใช่เหตุที่คนเข้าใจต่างกันในประโยคนี้",
+      null,
+      "ไม่มีเบาะแสเรื่องภาษาอื่นในประโยค"
+     ]
+    },
+    {
+     "id": "ENL221-U2-06",
+     "skill": "ENL221-U2",
+     "difficulty": 1,
+     "stem": "\"Unlike his talkative brother, Beam is taciturn and rarely speaks in class.\" What does \"taciturn\" mean?",
+     "options": [
+      "funny and loud",
+      "often late",
+      "very clever",
+      "quiet and saying little"
+     ],
+     "answer": 3,
+     "explanation_th": "Unlike talkative (ช่างพูด) และ rarely speaks บอกว่าเป็นคนพูดน้อย",
+     "why_wrong": [
+      "ตรงข้ามกับเบาะแส unlike talkative",
+      "ประโยคไม่ได้พูดเรื่องเวลา",
+      "ประโยคพูดถึงการพูดน้อย ไม่ได้พูดถึงความฉลาด",
+      null
+     ]
+    },
+    {
+     "id": "ENL221-U2-07",
+     "skill": "ENL221-U2",
+     "difficulty": 1,
+     "stem": "\"The hikers were famished after eight hours without food, so they ate everything on the table.\" What does \"famished\" mean?",
+     "options": [
+      "very hungry",
+      "very full",
+      "very angry",
+      "very cold"
+     ],
+     "answer": 0,
+     "explanation_th": "ไม่ได้กินมา 8 ชั่วโมงและกินทุกอย่างบนโต๊ะ แปลว่าหิวมาก",
+     "why_wrong": [
+      null,
+      "ไม่ได้กินมานาน จึงไม่ใช่อิ่ม",
+      "ไม่มีเบาะแสเรื่องอารมณ์โกรธ",
+      "ไม่มีเบาะแสเรื่องอากาศ"
+     ]
+    },
+    {
+     "id": "ENL221-U2-08",
+     "skill": "ENL221-U2",
+     "difficulty": 2,
+     "stem": "\"Tropical fruits, such as mangosteen and rambutan, grow well in this region.\" Which kind of context clue tells you what mangosteen is?",
+     "options": [
+      "a contrast clue",
+      "an example clue",
+      "a cause-and-effect clue",
+      "a definition clue"
+     ],
+     "answer": 1,
+     "explanation_th": "such as แนะนำตัวอย่างของ tropical fruits จึงเป็นเบาะแสแบบตัวอย่าง",
+     "why_wrong": [
+      "ไม่มีคำแสดงความต่างอย่าง unlike หรือ but",
+      null,
+      "ไม่มีคำบอกเหตุผลอย่าง because หรือ so",
+      "ประโยคไม่ได้ให้นิยามว่ามังคุดคืออะไร แค่ยกเป็นตัวอย่างผลไม้"
+     ]
+    }
+   ],
+   "say": [
+    "I can guess the meaning from the words around it.",
+    "'Unlike' is a contrast clue."
+   ],
+   "task_th": "อ่านบทความหรือโพสต์ภาษาอังกฤษ 1 ชิ้น เลือกคำที่ไม่รู้ 3 คำ เขียนความหมายที่เดาจากบริบทก่อน พร้อมจดว่าใช้เบาะแสแบบไหน แล้วค่อยเปิดดิกเช็กว่าเดาถูกกี่คำ"
+  },
+  {
+   "id": "ENL221-U3",
+   "title_th": "จับใจความสำคัญ",
+   "title_en": "Understanding main ideas",
+   "covers": "การจับใจความสำคัญ",
+   "minutes": 15,
+   "lessons": [
+    "L28"
+   ],
+   "cards": [
+    {
+     "title_th": "ใจความสำคัญคือร่ม",
+     "body_th": "main idea คือประโยคที่คลุมทุกย่อหน้า ไม่แคบเกินไป (แค่รายละเอียดเดียว) และไม่กว้างเกินไป (พูดเรื่องที่เรื่องไม่ได้พูด)"
+    },
+    {
+     "title_th": "หาจากประโยคแรกและประโยคสุดท้าย",
+     "body_th": "ย่อหน้าภาษาอังกฤษมักบอกใจความในประโยคแรก (topic sentence) และสรุปอีกทีในประโยคสุดท้าย เช่น In short, ..."
+    },
+    {
+     "title_th": "ชื่อเรื่องที่ดี",
+     "body_th": "best title ต้องตรงกับใจความสำคัญ ไม่ใช่รายละเอียดที่สะดุดตาที่สุด"
+    },
+    {
+     "title_th": "จุดประสงค์ของผู้เขียน",
+     "body_th": "to inform (ให้ข้อมูล) / to persuade (โน้มน้าว) / to advise (แนะนำ) / to entertain (ให้ความบันเทิง)"
+    }
+   ],
+   "vocab": [
+    [
+     "main idea",
+     "ใจความสำคัญ"
+    ],
+    [
+     "topic sentence",
+     "ประโยคใจความ"
+    ],
+    [
+     "supporting detail",
+     "รายละเอียดสนับสนุน"
+    ],
+    [
+     "title",
+     "ชื่อเรื่อง"
+    ],
+    [
+     "purpose",
+     "จุดประสงค์"
+    ],
+    [
+     "canal",
+     "คลอง"
+    ],
+    [
+     "distract",
+     "ทำให้เสียสมาธิ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL221-U3-01",
+     "skill": "ENL221-U3",
+     "difficulty": 2,
+     "stem": "Passage: \"Many first-year students think that good grades come from studying long hours. However, research on learning suggests that how you study matters more than how long. Short sessions spread over several days help memory more than one long session the night before a test. Testing yourself with flashcards or practice questions is more useful than simply reading your notes again. Explaining a topic to a friend also shows you quickly what you do not understand yet. In short, smart methods can save time and lead to better results.\" **What is the main idea of the passage?**",
+     "options": [
+      "First-year students study too many hours.",
+      "The way you study is more important than the number of hours you study.",
+      "Flashcards are the only good way to study.",
+      "Studying with friends is always better than studying alone."
+     ],
+     "answer": 1,
+     "explanation_th": "ประโยคที่ 2 บอกใจความ (how you study matters more than how long) และประโยคสุดท้ายสรุปซ้ำ",
+     "why_wrong": [
+      "เรื่องบอกแค่ว่านักศึกษาบางคนคิดแบบนั้น ไม่ได้บอกว่าเรียนนานเกินไป",
+      null,
+      "บัตรคำเป็นแค่ตัวอย่างหนึ่ง และเรื่องไม่ได้บอกว่าเป็นวิธีเดียว",
+      "การอธิบายให้เพื่อนฟังเป็นแค่หนึ่งวิธี เรื่องไม่ได้บอกว่าดีกว่าเสมอ"
+     ]
+    },
+    {
+     "id": "ENL221-U3-02",
+     "skill": "ENL221-U3",
+     "difficulty": 1,
+     "stem": "Passage: \"Many first-year students think that good grades come from studying long hours. However, research on learning suggests that how you study matters more than how long. Short sessions spread over several days help memory more than one long session the night before a test. Testing yourself with flashcards or practice questions is more useful than simply reading your notes again. Explaining a topic to a friend also shows you quickly what you do not understand yet. In short, smart methods can save time and lead to better results.\" **Which is the best title for the passage?**",
+     "options": [
+      "How to Make Flashcards",
+      "Life in the First Year",
+      "Study Smarter, Not Longer",
+      "Why Friends Matter"
+     ],
+     "answer": 2,
+     "explanation_th": "ชื่อนี้ตรงกับใจความว่าวิธีเรียนสำคัญกว่าเวลาที่ใช้",
+     "why_wrong": [
+      "แคบเกินไป บัตรคำเป็นแค่รายละเอียดหนึ่ง",
+      "กว้างเกินไป เรื่องพูดแค่เรื่องวิธีเรียน",
+      null,
+      "เพื่อนเป็นแค่รายละเอียดเดียว"
+     ]
+    },
+    {
+     "id": "ENL221-U3-03",
+     "skill": "ENL221-U3",
+     "difficulty": 2,
+     "stem": "Passage: \"Many first-year students think that good grades come from studying long hours. However, research on learning suggests that how you study matters more than how long. Short sessions spread over several days help memory more than one long session the night before a test. Testing yourself with flashcards or practice questions is more useful than simply reading your notes again. Explaining a topic to a friend also shows you quickly what you do not understand yet. In short, smart methods can save time and lead to better results.\" **What is the writer's main purpose?**",
+     "options": [
+      "to sell flashcards to students",
+      "to tell a story about one student",
+      "to complain about difficult tests",
+      "to give advice about effective study methods"
+     ],
+     "answer": 3,
+     "explanation_th": "เรื่องแนะนำวิธีเรียนหลายวิธีและสรุปว่าวิธีฉลาดช่วยได้ จึงเป็นการให้คำแนะนำ",
+     "why_wrong": [
+      "ไม่มีการขายหรือพูดถึงราคา",
+      "ไม่มีตัวละครหรือเรื่องเล่าของคนใดคนหนึ่ง",
+      "ไม่มีการบ่นเรื่องข้อสอบ",
+      null
+     ]
+    },
+    {
+     "id": "ENL221-U3-04",
+     "skill": "ENL221-U3",
+     "difficulty": 2,
+     "stem": "Passage: \"Bangkok's canals, or khlongs, were once the city's main roads. In the past, people travelled by boat to markets, temples and each other's homes, and many houses faced the water rather than the street. Over time, many canals were filled in to build roads for cars. Today, only some canals remain, but they still carry boats, and several floating markets attract visitors. The canals remind people how much the city has changed.\" **What is the main idea of the passage?**",
+     "options": [
+      "Bangkok's canals were once very important, and their role has changed over time.",
+      "Floating markets attract many visitors.",
+      "Boats are better than cars.",
+      "All of Bangkok's canals have disappeared."
+     ],
+     "answer": 0,
+     "explanation_th": "เรื่องเล่าว่าคลองเคยเป็นถนนหลัก ต่อมาถูกถมทำถนน และวันนี้ยังเหลือบางส่วน ใจความคือบทบาทของคลองที่เปลี่ยนไป",
+     "why_wrong": [
+      null,
+      "ตลาดน้ำเป็นแค่รายละเอียดหนึ่งในเรื่อง",
+      "เรื่องไม่ได้เปรียบเทียบว่าเรือดีกว่ารถ",
+      "เรื่องบอกว่ายังเหลือคลองบางส่วน (only some canals remain)"
+     ]
+    },
+    {
+     "id": "ENL221-U3-05",
+     "skill": "ENL221-U3",
+     "difficulty": 2,
+     "stem": "Passage: \"Bangkok's canals, or khlongs, were once the city's main roads. In the past, people travelled by boat to markets, temples and each other's homes, and many houses faced the water rather than the street. Over time, many canals were filled in to build roads for cars. Today, only some canals remain, but they still carry boats, and several floating markets attract visitors. The canals remind people how much the city has changed.\" **What is the purpose of the last sentence?**",
+     "options": [
+      "to sum up the point of the passage",
+      "to give a new example",
+      "to disagree with the first sentence",
+      "to give the exact date of a change"
+     ],
+     "answer": 0,
+     "explanation_th": "ประโยคสุดท้ายสรุปว่าคลองสะท้อนการเปลี่ยนแปลงของเมือง ซึ่งเป็นใจความของทั้งเรื่อง",
+     "why_wrong": [
+      null,
+      "ไม่มีตัวอย่างใหม่ในประโยคสุดท้าย",
+      "ประโยคสุดท้ายไม่ได้ขัดแย้งกับประโยคแรก",
+      "ประโยคสุดท้ายไม่มีวันที่หรือปี"
+     ]
+    },
+    {
+     "id": "ENL221-U3-06",
+     "skill": "ENL221-U3",
+     "difficulty": 2,
+     "stem": "Passage: \"Some teachers ban phones in class, but others use them as learning tools. In one English class, students use their phones to look up new words, answer quick online quizzes and record themselves speaking. The teacher says that shy students now speak more, because they can practise privately first. Of course, phones can also distract students with games and social media. The key, the teacher says, is clear rules about when phones are used.\" **What is the main idea of the passage?**",
+     "options": [
+      "Phones should be banned in all classes.",
+      "Shy students like to record themselves.",
+      "Phones can help learning in class if there are clear rules for using them.",
+      "Social media is dangerous for everyone."
+     ],
+     "answer": 2,
+     "explanation_th": "เรื่องให้ทั้งข้อดีและข้อเสีย แล้วสรุปว่ากุญแจคือกฎที่ชัดเจน",
+     "why_wrong": [
+      "ตรงข้ามกับเรื่อง ซึ่งยกตัวอย่างการใช้โทรศัพท์เพื่อเรียน",
+      "เป็นแค่รายละเอียดหนึ่ง",
+      null,
+      "กว้างเกินไป และเรื่องพูดแค่ว่าโทรศัพท์ทำให้เสียสมาธิได้"
+     ]
+    },
+    {
+     "id": "ENL221-U3-07",
+     "skill": "ENL221-U3",
+     "difficulty": 1,
+     "stem": "Passage: \"Some teachers ban phones in class, but others use them as learning tools. In one English class, students use their phones to look up new words, answer quick online quizzes and record themselves speaking. The teacher says that shy students now speak more, because they can practise privately first. Of course, phones can also distract students with games and social media. The key, the teacher says, is clear rules about when phones are used.\" **Which is the best title for the passage?**",
+     "options": [
+      "How to Record Your Voice",
+      "Phones in Class: Tool or Distraction?",
+      "Why Teachers Hate Phones",
+      "The History of Mobile Phones"
+     ],
+     "answer": 1,
+     "explanation_th": "ชื่อนี้ครอบทั้งสองด้านที่เรื่องพูดถึง คือเครื่องมือเรียนและสิ่งรบกวน",
+     "why_wrong": [
+      "แคบเกินไป การอัดเสียงเป็นแค่ตัวอย่างหนึ่ง",
+      null,
+      "ขัดกับเรื่อง ครูในเรื่องใช้โทรศัพท์ช่วยสอน",
+      "เรื่องไม่ได้พูดถึงประวัติโทรศัพท์"
+     ]
+    },
+    {
+     "id": "ENL221-U3-08",
+     "skill": "ENL221-U3",
+     "difficulty": 2,
+     "stem": "Passage: \"Some teachers ban phones in class, but others use them as learning tools. In one English class, students use their phones to look up new words, answer quick online quizzes and record themselves speaking. The teacher says that shy students now speak more, because they can practise privately first. Of course, phones can also distract students with games and social media. The key, the teacher says, is clear rules about when phones are used.\" **Which detail supports the idea that phones can help learning?**",
+     "options": [
+      "Phones can distract students with games.",
+      "Some teachers ban phones in class.",
+      "Social media can take attention away from lessons.",
+      "Shy students speak more after practising privately."
+     ],
+     "answer": 3,
+     "explanation_th": "นักศึกษาขี้อายพูดมากขึ้นเพราะได้ฝึกส่วนตัวก่อน เป็นหลักฐานว่าโทรศัพท์ช่วยการเรียน",
+     "why_wrong": [
+      "เป็นข้อเสียของโทรศัพท์ ไม่ได้สนับสนุนว่าช่วยการเรียน",
+      "เป็นข้อเท็จจริงว่าครูบางคนห้าม ไม่ได้แสดงว่าช่วยการเรียน",
+      "เป็นข้อเสีย ไม่ได้สนับสนุนว่าช่วยการเรียน",
+      null
+     ]
+    },
+    {
+     "id": "ENL221-U3-09",
+     "skill": "ENL221-U3",
+     "difficulty": 1,
+     "stem": "A paragraph begins: \"There are three simple ways to save money as a student.\" What will the rest of the paragraph most likely contain?",
+     "options": [
+      "three ways to save money, with short explanations",
+      "a story about the writer's holiday",
+      "a list of expensive restaurants",
+      "reasons why students should spend more"
+     ],
+     "answer": 0,
+     "explanation_th": "topic sentence บอกล่วงหน้าว่าย่อหน้าจะพูดถึงสามวิธีประหยัดเงิน",
+     "why_wrong": [
+      null,
+      "ไม่เกี่ยวกับใจความเรื่องการประหยัดเงิน",
+      "ร้านแพงขัดกับเรื่องการประหยัด",
+      "ตรงข้ามกับใจความเรื่องการประหยัด"
+     ]
+    }
+   ],
+   "say": [
+    "The main idea is in the first sentence.",
+    "A good title matches the main idea."
+   ],
+   "task_th": "อ่านบทความภาษาอังกฤษ 1 ชิ้น (3 ถึง 4 ย่อหน้า) เขียนใจความสำคัญของแต่ละย่อหน้าเป็นภาษาอังกฤษ ย่อหน้าละ 1 ประโยคไม่เกิน 12 คำ แล้วตั้งชื่อเรื่องใหม่ให้บทความ"
+  },
+  {
+   "id": "ENL221-U4",
+   "title_th": "วิเคราะห์คำ: prefix, root, suffix",
+   "title_en": "Analyzing words: prefixes, roots and suffixes",
+   "covers": "การวิเคราะห์คำ",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "คำยาวแยกเป็นชิ้นได้",
+     "body_th": "prefix (หน้า) + root (รากคำ) + suffix (ท้าย) รู้ความหมายแต่ละชิ้นก็เดาคำใหม่ได้",
+     "example": "un + read + able = unreadable (อ่านไม่ออก)"
+    },
+    {
+     "title_th": "prefix ที่เจอบ่อย",
+     "body_th": "un-, im-, in-, dis- = ไม่ / re- = อีกครั้ง / pre- = ก่อน / mis- = ผิด / over- = เกินไป",
+     "example": "unfair, impossible, rewrite, pre-study, misread"
+    },
+    {
+     "title_th": "suffix บอกชนิดคำ",
+     "body_th": "-er, -or = คน / -ness, -ment, -tion = คำนาม / -ful = เต็มไปด้วย / -less = ไม่มี / -able = ทำได้ / -ly = กริยาวิเศษณ์",
+     "example": "teacher, kindness, hopeful, careless, readable, quickly"
+    },
+    {
+     "title_th": "root จากภาษากรีกและละติน",
+     "body_th": "bio = ชีวิต / tele = ไกล / graph = เขียน / port = ขน นำ / dict = พูด",
+     "example": "biology, telephone, autograph, transport, dictionary"
+    }
+   ],
+   "vocab": [
+    [
+     "prefix",
+     "อุปสรรค (หน่วยหน้าคำ)"
+    ],
+    [
+     "suffix",
+     "ปัจจัย (หน่วยท้ายคำ)"
+    ],
+    [
+     "root",
+     "รากศัพท์"
+    ],
+    [
+     "word family",
+     "กลุ่มคำที่มาจากรากเดียวกัน"
+    ],
+    [
+     "misread",
+     "อ่านผิด"
+    ],
+    [
+     "careless",
+     "สะเพร่า"
+    ],
+    [
+     "repeatable",
+     "ทำซ้ำได้"
+    ],
+    [
+     "biology",
+     "ชีววิทยา"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL221-U4-01",
+     "skill": "ENL221-U4",
+     "difficulty": 1,
+     "stem": "In \"unhappy\", \"unfair\" and \"unusual\", the prefix \"un-\" means ___.",
+     "options": [
+      "again",
+      "before",
+      "too much",
+      "not"
+     ],
+     "answer": 3,
+     "explanation_th": "un- แปลว่าไม่ เช่น unhappy = ไม่มีความสุข",
+     "why_wrong": [
+      "อีกครั้งคือ re-",
+      "ก่อนคือ pre-",
+      "มากเกินไปคือ over-",
+      null
+     ]
+    },
+    {
+     "id": "ENL221-U4-02",
+     "skill": "ENL221-U4",
+     "difficulty": 1,
+     "stem": "In \"rewrite\", \"rebuild\" and \"retell\", the prefix \"re-\" means ___.",
+     "options": [
+      "not",
+      "again",
+      "after",
+      "wrongly"
+     ],
+     "answer": 1,
+     "explanation_th": "re- แปลว่าอีกครั้ง เช่น rewrite = เขียนใหม่",
+     "why_wrong": [
+      "ไม่คือ un-, dis-, im-",
+      null,
+      "หลังคือ post-",
+      "ผิดคือ mis-"
+     ]
+    },
+    {
+     "id": "ENL221-U4-03",
+     "skill": "ENL221-U4",
+     "difficulty": 1,
+     "stem": "In \"pre-study\", \"preview\" and \"prepay\", the prefix \"pre-\" means ___.",
+     "options": [
+      "after",
+      "against",
+      "before",
+      "again"
+     ],
+     "answer": 2,
+     "explanation_th": "pre- แปลว่าก่อน เช่น pre-study = เรียนก่อน",
+     "why_wrong": [
+      "หลังคือ post-",
+      "ต่อต้านคือ anti-",
+      null,
+      "อีกครั้งคือ re-"
+     ]
+    },
+    {
+     "id": "ENL221-U4-04",
+     "skill": "ENL221-U4",
+     "difficulty": 1,
+     "stem": "In \"careless\", \"homeless\" and \"useless\", the suffix \"-less\" means ___.",
+     "options": [
+      "without",
+      "full of",
+      "able to be",
+      "a person who"
+     ],
+     "answer": 0,
+     "explanation_th": "-less แปลว่าไม่มี careless = ไม่มีความระมัดระวัง",
+     "why_wrong": [
+      null,
+      "เต็มไปด้วยคือ -ful",
+      "ทำได้คือ -able",
+      "คนที่ทำคือ -er หรือ -or"
+     ]
+    },
+    {
+     "id": "ENL221-U4-05",
+     "skill": "ENL221-U4",
+     "difficulty": 1,
+     "stem": "Which word means \"full of hope\"?",
+     "options": [
+      "hopeless",
+      "hoping",
+      "hopeful",
+      "hopely"
+     ],
+     "answer": 2,
+     "explanation_th": "hope + -ful (เต็มไปด้วย) = hopeful",
+     "why_wrong": [
+      "-less แปลว่าไม่มี hopeless คือสิ้นหวัง",
+      "hoping เป็นรูป V-ing ของกริยา",
+      null,
+      "hopely ไม่ใช่คำในภาษาอังกฤษ"
+     ]
+    },
+    {
+     "id": "ENL221-U4-06",
+     "skill": "ENL221-U4",
+     "difficulty": 2,
+     "stem": "\"Biology\" and \"biography\" share the root \"bio\". What does \"bio\" mean?",
+     "options": [
+      "earth",
+      "water",
+      "sound",
+      "life"
+     ],
+     "answer": 3,
+     "explanation_th": "bio = ชีวิต biology = วิชาที่ศึกษาสิ่งมีชีวิต biography = เรื่องราวชีวิตของคน",
+     "why_wrong": [
+      "earth คือ geo เช่น geography",
+      "water คือ hydro หรือ aqua",
+      "sound คือ phon เช่น phone",
+      null
+     ]
+    },
+    {
+     "id": "ENL221-U4-07",
+     "skill": "ENL221-U4",
+     "difficulty": 2,
+     "stem": "\"Telephone\", \"television\" and \"telescope\" share the root \"tele\". What does \"tele\" mean?",
+     "options": [
+      "small",
+      "far",
+      "light",
+      "new"
+     ],
+     "answer": 1,
+     "explanation_th": "tele = ไกล ทั้งสามคำเป็นเครื่องที่ช่วยให้ได้ยินหรือเห็นสิ่งที่อยู่ไกล",
+     "why_wrong": [
+      "small คือ micro เช่น microscope",
+      null,
+      "light คือ photo เช่น photograph",
+      "new คือ neo หรือ nov"
+     ]
+    },
+    {
+     "id": "ENL221-U4-08",
+     "skill": "ENL221-U4",
+     "difficulty": 2,
+     "stem": "Passage: \"Pond was a careless reader in his first year. He often misread exam questions and lost easy marks. In his second year, he decided to read every question twice before answering and to underline the key words. He also started going over his notes each weekend. His grades improved, and he became more confident. Now he tells younger students that small, repeatable habits are more powerful than last-minute effort.\" **In the passage, 'misread' means ___.**",
+     "options": [
+      "read wrongly",
+      "read again",
+      "read quickly",
+      "read aloud"
+     ],
+     "answer": 0,
+     "explanation_th": "mis- = ผิด และเรื่องบอกว่าเขาเสียคะแนนง่าย ๆ จึงหมายถึงอ่านโจทย์ผิด",
+     "why_wrong": [
+      null,
+      "อ่านอีกครั้งใช้ re- และเป็นสิ่งที่เขาทำในปีสองเพื่อแก้ปัญหา",
+      "mis- ไม่ได้แปลว่าเร็ว",
+      "mis- ไม่ได้แปลว่าออกเสียง"
+     ]
+    },
+    {
+     "id": "ENL221-U4-09",
+     "skill": "ENL221-U4",
+     "difficulty": 2,
+     "stem": "Passage: \"Pond was a careless reader in his first year. He often misread exam questions and lost easy marks. In his second year, he decided to read every question twice before answering and to underline the key words. He also started going over his notes each weekend. His grades improved, and he became more confident. Now he tells younger students that small, repeatable habits are more powerful than last-minute effort.\" **Which word from the passage has a suffix meaning 'able to be'?**",
+     "options": [
+      "powerful",
+      "careless",
+      "repeatable",
+      "confident"
+     ],
+     "answer": 2,
+     "explanation_th": "repeat + -able = ทำซ้ำได้",
+     "why_wrong": [
+      "-ful แปลว่าเต็มไปด้วย",
+      "-less แปลว่าไม่มี",
+      null,
+      "confident ไม่มี suffix -able"
+     ]
+    },
+    {
+     "id": "ENL221-U4-10",
+     "skill": "ENL221-U4",
+     "difficulty": 2,
+     "stem": "How can the word \"unreadable\" be divided into its parts?",
+     "options": [
+      "unr + ead + able",
+      "un + read + able",
+      "un + rea + dable",
+      "unread + ble"
+     ],
+     "answer": 1,
+     "explanation_th": "prefix un- (ไม่) + root read (อ่าน) + suffix -able (ได้) = อ่านไม่ได้",
+     "why_wrong": [
+      "unr- ไม่ใช่ prefix และ ead ไม่ใช่รากคำ",
+      null,
+      "rea และ dable ไม่มีความหมาย",
+      "-ble ไม่ใช่ suffix ที่ถูกต้อง ต้องเป็น -able"
+     ]
+    }
+   ],
+   "say": [
+    "Un-, im- and dis- often mean not.",
+    "Careless means without care."
+   ],
+   "task_th": "เลือก root 1 ตัว (เช่น port, dict, graph) หาคำภาษาอังกฤษที่มี root นี้ 5 คำ แยกแต่ละคำเป็น prefix + root + suffix และเขียนความหมายภาษาไทย ทำเป็นแผนภาพ word family ในสมุด"
+  },
+  {
+   "id": "ENL221-U5",
+   "title_th": "เข้าใจความหมายโดยนัย",
+   "title_en": "Understanding inferences",
+   "covers": "การเข้าใจความหมายโดยนัย",
+   "minutes": 15,
+   "lessons": [
+    "L22"
+   ],
+   "cards": [
+    {
+     "title_th": "อนุมาน = เบาะแส + สามัญสำนึก",
+     "body_th": "ผู้เขียนไม่ได้บอกตรง ๆ แต่ให้เบาะแส เช่น ถ้วยชาสองใบ ยังอุ่น เราเอาเบาะแสมารวมกับความรู้ทั่วไปเพื่อหาคำตอบ"
+    },
+    {
+     "title_th": "ต้องมีหลักฐานในเรื่องเสมอ",
+     "body_th": "คำตอบที่ถูกต้องชี้กลับไปหาเบาะแสในเรื่องได้ ตัวเลือกที่ฟังดูเป็นไปได้แต่ไม่มีเบาะแสเลยคือตัวหลอก"
+    },
+    {
+     "title_th": "ระวังตัวเลือกที่เกินเลย",
+     "body_th": "คำว่า always, never, all, the best ในตัวเลือกมักเกินกว่าที่เรื่องบอก"
+    },
+    {
+     "title_th": "อนุมานความรู้สึก",
+     "body_th": "ดูการกระทำของตัวละคร เช่น กระโดด ตะโกน หัวเราะ บอกความรู้สึกได้โดยไม่ต้องมีคำว่า happy"
+    }
+   ],
+   "vocab": [
+    [
+     "infer",
+     "อนุมาน"
+    ],
+    [
+     "inference",
+     "การอนุมาน"
+    ],
+    [
+     "imply",
+     "บอกเป็นนัย"
+    ],
+    [
+     "evidence",
+     "หลักฐาน"
+    ],
+    [
+     "clue",
+     "เบาะแส"
+    ],
+    [
+     "internship",
+     "การฝึกงาน"
+    ],
+    [
+     "most likely",
+     "น่าจะเป็นที่สุด"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL221-U5-01",
+     "skill": "ENL221-U5",
+     "difficulty": 2,
+     "stem": "Passage: \"When Jay got home, the kitchen light was still on and two cups sat on the table, one of them still warm. His mother's car keys were not on their usual hook by the door. Jay smiled, took off his shoes and checked his phone. There was a message from his aunt: 'Thanks for the tea! Your mom is driving me to the station. Back soon.'\" **What can we infer from the passage?**",
+     "options": [
+      "Jay's mother left the light on because she was angry.",
+      "Jay made tea for his aunt.",
+      "Jay's aunt lives in the same house as Jay.",
+      "Jay's aunt visited the house a short time before Jay got home."
+     ],
+     "answer": 3,
+     "explanation_th": "ถ้วยใบหนึ่งยังอุ่น และป้าส่งข้อความขอบคุณเรื่องชา แปลว่าป้าเพิ่งมาที่บ้านไม่นาน",
+     "why_wrong": [
+      "ไม่มีเบาะแสว่าแม่โกรธ",
+      "Jay เพิ่งกลับบ้าน ไม่ได้อยู่ตอนที่ดื่มชา",
+      "แม่กำลังขับรถไปส่งป้าที่สถานี แสดงว่าป้ามาเยี่ยม ไม่มีเบาะแสว่าอยู่ด้วยกัน",
+      null
+     ]
+    },
+    {
+     "id": "ENL221-U5-02",
+     "skill": "ENL221-U5",
+     "difficulty": 2,
+     "stem": "Passage: \"When Jay got home, the kitchen light was still on and two cups sat on the table, one of them still warm. His mother's car keys were not on their usual hook by the door. Jay smiled, took off his shoes and checked his phone. There was a message from his aunt: 'Thanks for the tea! Your mom is driving me to the station. Back soon.'\" **Why were his mother's car keys not on the hook?**",
+     "options": [
+      "She had lost them somewhere.",
+      "She had taken them to drive his aunt to the station.",
+      "Jay had taken them earlier.",
+      "His aunt had driven the car alone."
+     ],
+     "answer": 1,
+     "explanation_th": "ข้อความของป้าบอกว่าแม่กำลังขับรถไปส่งที่สถานี แม่จึงเอากุญแจไป",
+     "why_wrong": [
+      "ไม่มีเบาะแสว่าหาย และข้อความอธิบายว่าแม่ใช้รถอยู่",
+      null,
+      "Jay เพิ่งกลับบ้าน ไม่มีเบาะแสว่าเขาเอาไป",
+      "ข้อความบอกว่าแม่เป็นคนขับ ไม่ใช่ป้าขับเอง"
+     ]
+    },
+    {
+     "id": "ENL221-U5-03",
+     "skill": "ENL221-U5",
+     "difficulty": 2,
+     "stem": "Passage: \"A new café opened near campus in May. On the first day, the line went out the door. By July, the owners had added ten more tables and hired two more staff. In September, they started opening at 6 a.m. instead of 8 a.m., because many students wanted coffee before their early classes. The owners are now looking for a second location.\" **What can we infer about the café?**",
+     "options": [
+      "It has been successful since it opened.",
+      "It will close soon.",
+      "Its coffee is cheaper than at other cafés.",
+      "Students do not like its food."
+     ],
+     "answer": 0,
+     "explanation_th": "คนต่อแถวยาว เพิ่มโต๊ะ เพิ่มพนักงาน เปิดเร็วขึ้น และหาสาขาที่สอง ล้วนเป็นเบาะแสว่าร้านไปได้ดี",
+     "why_wrong": [
+      null,
+      "ขัดกับเบาะแส ร้านกำลังขยาย",
+      "เรื่องไม่ได้พูดถึงราคาเลย",
+      "เรื่องไม่ได้พูดถึงอาหาร และลูกค้าเยอะ"
+     ]
+    },
+    {
+     "id": "ENL221-U5-04",
+     "skill": "ENL221-U5",
+     "difficulty": 3,
+     "stem": "Passage: \"A new café opened near campus in May. On the first day, the line went out the door. By July, the owners had added ten more tables and hired two more staff. In September, they started opening at 6 a.m. instead of 8 a.m., because many students wanted coffee before their early classes. The owners are now looking for a second location.\" **What can we infer about some students near the café?**",
+     "options": [
+      "They do not drink coffee.",
+      "They all work at the café.",
+      "Some of them have classes that start before 8 a.m.",
+      "They only visit the café in May."
+     ],
+     "answer": 2,
+     "explanation_th": "ร้านเปิด 6 โมงเพราะนักศึกษาอยากได้กาแฟก่อนเรียนเช้า แปลว่าบางคนมีเรียนก่อน 8 โมง ซึ่งเป็นเวลาเปิดเดิม",
+     "why_wrong": [
+      "ขัดกับที่นักศึกษาอยากได้กาแฟ",
+      "ร้านจ้างพนักงานเพิ่มแค่ 2 คน ไม่ใช่ทุกคน",
+      null,
+      "ลูกค้ายังมาจนถึงกันยายน"
+     ]
+    },
+    {
+     "id": "ENL221-U5-05",
+     "skill": "ENL221-U5",
+     "difficulty": 1,
+     "stem": "Passage: \"Nan had applied for an internship at a hotel in Phuket two months earlier and had almost given up hope. On Monday morning, an email arrived. Nan read it three times. Then she jumped up, ran to her room and called her mother. 'I got it!' she shouted. 'They want me to start in June!' Her mother laughed and said she would cook Nan's favourite dinner that evening.\" **How did Nan most likely feel when she read the email?**",
+     "options": [
+      "nervous and afraid",
+      "angry and upset",
+      "bored and tired",
+      "excited and happy"
+     ],
+     "answer": 3,
+     "explanation_th": "กระโดด วิ่ง โทรหาแม่ และตะโกนว่า I got it! เป็นเบาะแสว่าดีใจมาก",
+     "why_wrong": [
+      "ไม่มีเบาะแสความกลัว เธอได้งานแล้ว",
+      "ไม่มีเบาะแสความโกรธ",
+      "การกระโดดและตะโกนไม่ใช่อาการเบื่อ",
+      null
+     ]
+    },
+    {
+     "id": "ENL221-U5-06",
+     "skill": "ENL221-U5",
+     "difficulty": 2,
+     "stem": "Passage: \"Nan had applied for an internship at a hotel in Phuket two months earlier and had almost given up hope. On Monday morning, an email arrived. Nan read it three times. Then she jumped up, ran to her room and called her mother. 'I got it!' she shouted. 'They want me to start in June!' Her mother laughed and said she would cook Nan's favourite dinner that evening.\" **What can we infer from the passage?**",
+     "options": [
+      "Nan's mother works at the hotel.",
+      "Nan did not want the job.",
+      "Nan will start the internship in May.",
+      "Nan was accepted for the internship."
+     ],
+     "answer": 3,
+     "explanation_th": "I got it! และ They want me to start in June แปลว่าได้รับเลือก",
+     "why_wrong": [
+      "ไม่มีเบาะแสว่าแม่ทำงานที่โรงแรม",
+      "เธอสมัครเองและดีใจมากเมื่อได้",
+      "เรื่องบอกว่าเริ่มเดือนมิถุนายน",
+      null
+     ]
+    },
+    {
+     "id": "ENL221-U5-07",
+     "skill": "ENL221-U5",
+     "difficulty": 2,
+     "stem": "Passage: \"Nan had applied for an internship at a hotel in Phuket two months earlier and had almost given up hope. On Monday morning, an email arrived. Nan read it three times. Then she jumped up, ran to her room and called her mother. 'I got it!' she shouted. 'They want me to start in June!' Her mother laughed and said she would cook Nan's favourite dinner that evening.\" **Why will Nan's mother most likely cook Nan's favourite dinner?**",
+     "options": [
+      "because Nan is sick",
+      "because it is Nan's birthday",
+      "to celebrate Nan's good news",
+      "because Nan asked her to cook"
+     ],
+     "answer": 2,
+     "explanation_th": "แม่หัวเราะและจะทำอาหารจานโปรดหลังรู้ข่าวดี จึงน่าจะเป็นการฉลอง",
+     "why_wrong": [
+      "ไม่มีเบาะแสว่าป่วย",
+      "ไม่มีเบาะแสเรื่องวันเกิด",
+      null,
+      "เรื่องบอกว่าแม่เป็นคนเสนอเอง ไม่ใช่ Nan ขอ"
+     ]
+    },
+    {
+     "id": "ENL221-U5-08",
+     "skill": "ENL221-U5",
+     "difficulty": 1,
+     "stem": "A sign on a door says: \"Please knock. Recording in progress.\" What can you infer?",
+     "options": [
+      "People inside are recording and need it to be quiet.",
+      "The room is empty.",
+      "Anyone can walk in at any time.",
+      "The room is a restaurant."
+     ],
+     "answer": 0,
+     "explanation_th": "Recording in progress บอกว่ากำลังอัดเสียงหรือวิดีโอ และขอให้เคาะก่อน แปลว่าต้องการความเงียบ",
+     "why_wrong": [
+      null,
+      "ถ้าห้องว่างจะไม่มีการอัดอยู่",
+      "ป้ายขอให้เคาะก่อน จึงไม่ใช่เข้าได้ตลอด",
+      "ไม่มีเบาะแสเรื่องอาหาร"
+     ]
+    },
+    {
+     "id": "ENL221-U5-09",
+     "skill": "ENL221-U5",
+     "difficulty": 1,
+     "stem": "\"Fon looked at the dark clouds, picked up her umbrella and closed all the windows before she left.\" What does Fon most likely think?",
+     "options": [
+      "It will be very hot.",
+      "It is going to rain.",
+      "Someone will steal her umbrella.",
+      "The windows are broken."
+     ],
+     "answer": 1,
+     "explanation_th": "เมฆดำ หยิบร่ม ปิดหน้าต่าง เป็นเบาะแสว่าเธอคิดว่าฝนจะตก",
+     "why_wrong": [
+      "เมฆดำและร่มไม่ใช่เบาะแสของอากาศร้อน",
+      null,
+      "เธอพกร่มไปเอง ไม่มีเบาะแสเรื่องขโมย",
+      "เธอปิดหน้าต่างได้ แปลว่าหน้าต่างไม่เสีย"
+     ]
+    }
+   ],
+   "say": [
+    "The warm cup is a clue.",
+    "I can infer that Nan was very happy."
+   ],
+   "task_th": "ดูคลิปสั้นหรืออ่านเรื่องสั้นภาษาอังกฤษ 1 เรื่อง จดเบาะแส 3 อย่างที่ไม่ได้บอกตรง ๆ แล้วเขียนประโยค I can infer that ... because ... 3 ประโยค"
+  },
+  {
+   "id": "ENL221-U6",
+   "title_th": "เขียนบันทึกการอ่าน",
+   "title_en": "Reading journals",
+   "covers": "การถ่ายทอดความเข้าใจในการอ่านด้วยการเขียนบันทึก",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "บันทึกการอ่านคืออะไร",
+     "body_th": "reading journal คือสมุดจดสั้น ๆ หลังอ่าน บอกว่าอ่านอะไร เรื่องว่าด้วยอะไร และเรารู้สึกหรือคิดอย่างไร ไม่ต้องยาว"
+    },
+    {
+     "title_th": "โครง 4 ช่อง",
+     "body_th": "1) วันที่ ชื่อเรื่อง 2) เรื่องนี้ว่าด้วย ... (1 ถึง 2 ประโยค) 3) ปฏิกิริยาของฉัน (I was surprised that ... / This reminds me of ...) 4) คำใหม่ หรือคำถามที่ยังสงสัย"
+    },
+    {
+     "title_th": "สรุปกับความเห็นแยกกัน",
+     "body_th": "ช่องสรุปเขียนสิ่งที่ผู้เขียนพูด ช่องปฏิกิริยาเขียนความคิดของเรา อย่าปนกัน"
+    },
+    {
+     "title_th": "ใช้ past simple เล่าสิ่งที่อ่าน",
+     "body_th": "Today I read ... / The article explained ... ส่วนเนื้อหาที่ยังจริงอยู่ใช้ present ได้"
+    }
+   ],
+   "vocab": [
+    [
+     "journal",
+     "บันทึก"
+    ],
+    [
+     "entry",
+     "บันทึกหนึ่งครั้ง"
+    ],
+    [
+     "reaction",
+     "ปฏิกิริยา ความรู้สึกต่อสิ่งที่อ่าน"
+    ],
+    [
+     "reflect",
+     "ไตร่ตรอง"
+    ],
+    [
+     "remind",
+     "ทำให้นึกถึง"
+    ],
+    [
+     "volunteer",
+     "อาสาสมัคร"
+    ],
+    [
+     "repair",
+     "ซ่อม"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL221-U6-01",
+     "skill": "ENL221-U6",
+     "difficulty": 1,
+     "stem": "Which is the best opening line for a reading journal entry about an article on sleep?",
+     "options": [
+      "Sleep is important for everyone in the world forever.",
+      "Doctors are always right about everything.",
+      "I will read an article about sleep next year.",
+      "Today I read an article about how sleep helps memory."
+     ],
+     "answer": 3,
+     "explanation_th": "ประโยคเปิดที่ดีบอกว่าอ่านอะไรและเรื่องว่าด้วยอะไรอย่างชัดเจน",
+     "why_wrong": [
+      "กว้างเกินไปและไม่ได้บอกว่าอ่านอะไร",
+      "เป็นความเห็นที่เกินจริงและไม่ได้บอกเรื่องที่อ่าน",
+      "เป็นอนาคต แต่บันทึกเขียนหลังอ่านแล้ว",
+      null
+     ]
+    },
+    {
+     "id": "ENL221-U6-02",
+     "skill": "ENL221-U6",
+     "difficulty": 2,
+     "stem": "Passage: \"Sleep is not a waste of time. While we sleep, the brain sorts the information it received during the day and stores the important parts. Students who stay up all night before an exam often do worse, not better, because their memory has no chance to consolidate what they studied. Doctors suggest that young adults get seven to nine hours of sleep. A short nap of twenty minutes can also help, but a long nap in the late afternoon may make it harder to fall asleep at night.\" **Which sentence is a personal response to this passage, not a summary?**",
+     "options": [
+      "I was surprised that a short nap can help, because I always thought naps were lazy.",
+      "The passage says the brain stores information during sleep.",
+      "Doctors suggest seven to nine hours of sleep for young adults.",
+      "Staying up all night before an exam can lower results."
+     ],
+     "answer": 0,
+     "explanation_th": "ประโยคนี้บอกความรู้สึกและความคิดของผู้อ่านเอง (I was surprised ... I always thought ...)",
+     "why_wrong": [
+      null,
+      "เป็นการสรุปสิ่งที่เรื่องพูด",
+      "เป็นข้อมูลจากเรื่อง ไม่ใช่ปฏิกิริยาของเรา",
+      "เป็นการถอดความจากเรื่อง ไม่ใช่ความรู้สึกของเรา"
+     ]
+    },
+    {
+     "id": "ENL221-U6-03",
+     "skill": "ENL221-U6",
+     "difficulty": 1,
+     "stem": "What is a reading journal mainly for?",
+     "options": [
+      "copying the whole text word for word",
+      "recording your understanding of and reactions to what you read",
+      "correcting the writer's grammar",
+      "writing a story about a different topic"
+     ],
+     "answer": 1,
+     "explanation_th": "บันทึกการอ่านมีไว้จดว่าเข้าใจเรื่องอย่างไรและคิดอย่างไรกับมัน",
+     "why_wrong": [
+      "คัดลอกทั้งหมดไม่ได้แสดงความเข้าใจ",
+      null,
+      "บันทึกการอ่านไม่ได้มีไว้ตรวจไวยากรณ์ของผู้เขียน",
+      "ต้องเขียนเกี่ยวกับสิ่งที่อ่าน ไม่ใช่เรื่องอื่น"
+     ]
+    },
+    {
+     "id": "ENL221-U6-04",
+     "skill": "ENL221-U6",
+     "difficulty": 2,
+     "stem": "Passage: \"A university club started a weekend 'repair café'. Students bring broken fans, lamps and bags, and volunteers with repair skills help them fix the items for free. The club says the event teaches practical skills and keeps useful things out of the rubbish. In three months, volunteers repaired more than 150 items. Some visitors now come back as volunteers themselves.\" **Which journal entry shows that the reader understood the passage?**",
+     "options": [
+      "The text is about a shop that sells new fans and lamps cheaply. I want to buy one.",
+      "The text says that students must pay a lot to repair their bags. That seems unfair.",
+      "The text is about a club that helps people fix broken things for free. I liked that some visitors later become volunteers.",
+      "The text explains how to build a new lamp at home. I will try it this weekend."
+     ],
+     "answer": 2,
+     "explanation_th": "สรุปถูกว่าเป็นชมรมช่วยซ่อมฟรี และปฏิกิริยาอ้างถึงรายละเอียดจริงในเรื่อง",
+     "why_wrong": [
+      "เรื่องเป็นการซ่อมของเก่า ไม่ใช่ร้านขายของใหม่",
+      "เรื่องบอกว่าซ่อมฟรี (for free)",
+      null,
+      "เรื่องพูดถึงการซ่อม ไม่ใช่การประกอบโคมไฟใหม่"
+     ]
+    },
+    {
+     "id": "ENL221-U6-05",
+     "skill": "ENL221-U6",
+     "difficulty": 3,
+     "stem": "Passage: \"A university club started a weekend 'repair café'. Students bring broken fans, lamps and bags, and volunteers with repair skills help them fix the items for free. The club says the event teaches practical skills and keeps useful things out of the rubbish. In three months, volunteers repaired more than 150 items. Some visitors now come back as volunteers themselves.\" **Which is the best 'question I still have' for a journal entry about this passage?**",
+     "options": [
+      "Is the repair café free?",
+      "How many items were repaired in three months?",
+      "What do students bring to the repair café?",
+      "How do the volunteers learn their repair skills?"
+     ],
+     "answer": 3,
+     "explanation_th": "คำถามที่ยังสงสัยควรเป็นสิ่งที่เรื่องยังไม่ได้ตอบ เรื่องไม่ได้บอกว่าอาสาสมัครเรียนซ่อมจากที่ไหน",
+     "why_wrong": [
+      "เรื่องตอบแล้วว่าฟรี (for free)",
+      "เรื่องตอบแล้วว่ามากกว่า 150 ชิ้น",
+      "เรื่องตอบแล้วว่าพัดลม โคมไฟ และกระเป๋า",
+      null
+     ]
+    },
+    {
+     "id": "ENL221-U6-06",
+     "skill": "ENL221-U6",
+     "difficulty": 1,
+     "stem": "Which sentence uses the correct tense to describe what you did today in a journal?",
+     "options": [
+      "This morning I am read a short article about canals.",
+      "This morning I have reading a short article about canals.",
+      "This morning I read a short article about canals.",
+      "This morning I will read a short article about canals."
+     ],
+     "answer": 2,
+     "explanation_th": "เล่าสิ่งที่ทำเสร็จแล้วเมื่อเช้าใช้ past simple (read อ่านว่า เร้ด)",
+     "why_wrong": [
+      "am ตามด้วยกริยาช่อง 1 ไม่ได้",
+      "have ต้องตามด้วย V3 ไม่ใช่ V-ing",
+      null,
+      "will เป็นอนาคต ขัดกับการเขียนบันทึกหลังอ่านแล้ว"
+     ]
+    },
+    {
+     "id": "ENL221-U6-07",
+     "skill": "ENL221-U6",
+     "difficulty": 2,
+     "stem": "Passage: \"Bangkok's canals, or khlongs, were once the city's main roads. In the past, people travelled by boat to markets, temples and each other's homes, and many houses faced the water rather than the street. Over time, many canals were filled in to build roads for cars. Today, only some canals remain, but they still carry boats, and several floating markets attract visitors. The canals remind people how much the city has changed.\" **Which journal response connects the text to the reader's own life?**",
+     "options": [
+      "This reminds me of my grandmother's house, which also faces a canal.",
+      "The canals were once the main roads of the city.",
+      "Many canals were filled in to build roads.",
+      "Some floating markets attract visitors today."
+     ],
+     "answer": 0,
+     "explanation_th": "This reminds me of ... เชื่อมเรื่องที่อ่านกับประสบการณ์ของผู้อ่าน",
+     "why_wrong": [
+      null,
+      "เป็นข้อมูลจากเรื่อง ไม่ได้เชื่อมกับชีวิตผู้อ่าน",
+      "เป็นข้อมูลจากเรื่อง ไม่ได้เชื่อมกับชีวิตผู้อ่าน",
+      "เป็นข้อมูลจากเรื่อง ไม่ได้เชื่อมกับชีวิตผู้อ่าน"
+     ]
+    },
+    {
+     "id": "ENL221-U6-08",
+     "skill": "ENL221-U6",
+     "difficulty": 2,
+     "stem": "Passage: \"A university club started a weekend 'repair café'. Students bring broken fans, lamps and bags, and volunteers with repair skills help them fix the items for free. The club says the event teaches practical skills and keeps useful things out of the rubbish. In three months, volunteers repaired more than 150 items. Some visitors now come back as volunteers themselves.\" **Which sentence is an opinion that belongs in the 'my reaction' part of a journal?**",
+     "options": [
+      "Volunteers repaired more than 150 items.",
+      "I think the repair café is a great idea for students.",
+      "The repair café is free.",
+      "Students bring broken fans, lamps and bags."
+     ],
+     "answer": 1,
+     "explanation_th": "I think ... a great idea เป็นความเห็นของผู้อ่าน จึงอยู่ในช่องปฏิกิริยา",
+     "why_wrong": [
+      "เป็นข้อมูลตัวเลขจากเรื่อง อยู่ในช่องสรุป",
+      null,
+      "เป็นข้อมูลจากเรื่อง อยู่ในช่องสรุป",
+      "เป็นข้อมูลจากเรื่อง อยู่ในช่องสรุป"
+     ]
+    }
+   ],
+   "say": [
+    "Today I read an article about sleep.",
+    "This reminds me of my own study habits."
+   ],
+   "task_th": "เปิดสมุดหรือโน้ตในมือถือ ตั้งชื่อว่า Reading Journal อ่านบทความภาษาอังกฤษสั้น 1 ชิ้น แล้วเขียนบันทึกแรก 4 ช่อง: วันที่ + ชื่อเรื่อง / เรื่องว่าด้วย (2 ประโยค) / ปฏิกิริยา (I was surprised that ... หรือ This reminds me of ...) / คำใหม่ 2 คำ"
+  },
+  {
+   "id": "ENL221-U7",
+   "title_th": "เขียนสรุป",
+   "title_en": "Writing a summary",
+   "covers": "บันทึกและสรุป",
+   "minutes": 15,
+   "lessons": [
+    "L28"
+   ],
+   "cards": [
+    {
+     "title_th": "สรุปคือเรื่องเดิมในแบบสั้น",
+     "body_th": "summary เก็บใจความสำคัญและจุดสนับสนุนหลัก ใช้คำของเราเอง และสั้นกว่าต้นฉบับมาก ไม่ใส่ความเห็นของเรา"
+    },
+    {
+     "title_th": "3 ขั้นตอน",
+     "body_th": "1) หาใจความสำคัญ 2) ขีดจุดสนับสนุนหลัก 2 ถึง 3 จุด ข้ามตัวอย่างย่อย 3) เขียนใหม่ด้วยคำของตัวเอง แล้วเช็กว่าไม่ได้เพิ่มข้อมูลที่เรื่องไม่มี"
+    },
+    {
+     "title_th": "ประโยคเปิดของสรุป",
+     "body_th": "The article explains ... / The passage describes ... / According to the writer, ..."
+    },
+    {
+     "title_th": "ถอดความ ไม่ลอก",
+     "body_th": "เปลี่ยนโครงสร้างและคำ แต่ความหมายเท่าเดิม ระวังอย่าทำให้ความหมายแรงขึ้นหรืออ่อนลง",
+     "example": "Doctors suggest seven to nine hours → Young adults are advised to sleep seven to nine hours."
+    }
+   ],
+   "vocab": [
+    [
+     "summary",
+     "บทสรุป"
+    ],
+    [
+     "summarize",
+     "สรุป"
+    ],
+    [
+     "main point",
+     "ประเด็นหลัก"
+    ],
+    [
+     "in your own words",
+     "ด้วยคำพูดของตัวเอง"
+    ],
+    [
+     "environment",
+     "สิ่งแวดล้อม"
+    ],
+    [
+     "reduce",
+     "ลด"
+    ],
+    [
+     "brisk",
+     "เร็วและกระฉับกระเฉง"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL221-U7-01",
+     "skill": "ENL221-U7",
+     "difficulty": 2,
+     "stem": "Passage: \"Plastic bags are cheap and useful, but they cause serious problems. Many end up in rivers and the sea, where animals can mistake them for food. Because they break down very slowly, they stay in the environment for a long time. To reduce this, many shops now charge for plastic bags or offer cloth bags instead. Shoppers can help by carrying their own bags and saying no to bags they do not need.\" **Which is the best one-sentence summary of the passage?**",
+     "options": [
+      "Plastic bags are cheap and useful.",
+      "Plastic bags harm the environment, so shops and shoppers are taking steps to use fewer of them.",
+      "Sea animals eat plastic bags every single day.",
+      "Cloth bags are more beautiful than plastic bags."
+     ],
+     "answer": 1,
+     "explanation_th": "ครอบทั้งปัญหา (ทำร้ายสิ่งแวดล้อม) และทางแก้ (ร้านค้าและผู้ซื้อลดการใช้) ซึ่งเป็นใจความทั้งเรื่อง",
+     "why_wrong": [
+      "เป็นแค่ครึ่งประโยคแรก ขาดปัญหาและทางแก้",
+      null,
+      "เกินจริงจากเรื่อง ซึ่งบอกแค่ว่าสัตว์อาจเข้าใจผิดว่าเป็นอาหาร",
+      "เรื่องไม่ได้พูดเรื่องความสวย"
+     ]
+    },
+    {
+     "id": "ENL221-U7-02",
+     "skill": "ENL221-U7",
+     "difficulty": 1,
+     "stem": "Which should a good summary NOT include?",
+     "options": [
+      "the main idea of the text",
+      "the most important supporting points",
+      "the writer's key conclusion",
+      "your own opinion about the topic"
+     ],
+     "answer": 3,
+     "explanation_th": "สรุปต้องสะท้อนสิ่งที่ผู้เขียนพูด ความเห็นของเราไปอยู่ในบันทึกปฏิกิริยา",
+     "why_wrong": [
+      "ใจความสำคัญต้องมีในสรุปเสมอ",
+      "จุดสนับสนุนหลักควรอยู่ในสรุป",
+      "ข้อสรุปของผู้เขียนเป็นส่วนสำคัญของเรื่อง",
+      null
+     ]
+    },
+    {
+     "id": "ENL221-U7-03",
+     "skill": "ENL221-U7",
+     "difficulty": 2,
+     "stem": "Passage: \"Plastic bags are cheap and useful, but they cause serious problems. Many end up in rivers and the sea, where animals can mistake them for food. Because they break down very slowly, they stay in the environment for a long time. To reduce this, many shops now charge for plastic bags or offer cloth bags instead. Shoppers can help by carrying their own bags and saying no to bags they do not need.\" **Which is the best paraphrase of 'Because they break down very slowly, they stay in the environment for a long time'?**",
+     "options": [
+      "Plastic bags break quickly, so they are not a problem.",
+      "Plastic bags are slow and difficult to make.",
+      "Plastic bags take a long time to disappear, so they remain in nature for years.",
+      "Nature breaks down plastic bags in a short time."
+     ],
+     "answer": 2,
+     "explanation_th": "ความหมายเท่าเดิม (ย่อยสลายช้า จึงอยู่นาน) แต่ใช้คำและโครงสร้างใหม่",
+     "why_wrong": [
+      "ตรงข้ามกับเรื่อง ซึ่งบอกว่าย่อยสลายช้ามาก",
+      "เรื่องพูดถึงการย่อยสลาย ไม่ใช่การผลิต",
+      null,
+      "ตรงข้ามกับเรื่อง ซึ่งบอกว่าใช้เวลานาน"
+     ]
+    },
+    {
+     "id": "ENL221-U7-04",
+     "skill": "ENL221-U7",
+     "difficulty": 2,
+     "stem": "Passage: \"Walking is one of the easiest ways to stay healthy. It needs no special equipment and can be done almost anywhere. Health experts say that a brisk thirty-minute walk on most days is good for the heart and can improve mood. People who find it hard to start can take small steps: walking to a nearby shop instead of driving, using the stairs instead of the lift, or walking while talking on the phone.\" **Which is the best summary of the passage?**",
+     "options": [
+      "Walking is an easy, low-cost way to improve health, and people can add it to daily life in small ways.",
+      "People should never drive to the shops.",
+      "A brisk walk is good for the heart.",
+      "Walking while talking on the phone is dangerous."
+     ],
+     "answer": 0,
+     "explanation_th": "ครอบทั้งใจความ (เดินง่ายและดีต่อสุขภาพ) และวิธีเริ่ม (ก้าวเล็ก ๆ ในชีวิตประจำวัน)",
+     "why_wrong": [
+      null,
+      "เกินจริง เรื่องแค่แนะนำให้เดินแทนการขับในบางครั้ง",
+      "เป็นแค่รายละเอียดเดียว ขาดส่วนวิธีเริ่ม",
+      "เรื่องแนะนำให้เดินขณะคุยโทรศัพท์ ไม่ได้บอกว่าอันตราย"
+     ]
+    },
+    {
+     "id": "ENL221-U7-05",
+     "skill": "ENL221-U7",
+     "difficulty": 3,
+     "stem": "Passage: \"Walking is one of the easiest ways to stay healthy. It needs no special equipment and can be done almost anywhere. Health experts say that a brisk thirty-minute walk on most days is good for the heart and can improve mood. People who find it hard to start can take small steps: walking to a nearby shop instead of driving, using the stairs instead of the lift, or walking while talking on the phone.\" **Which summary sentence adds information that is NOT in the passage?**",
+     "options": [
+      "Walking is better than swimming for losing weight.",
+      "Walking needs no special equipment.",
+      "Regular brisk walks can help the heart and mood.",
+      "People can start by using the stairs instead of the lift."
+     ],
+     "answer": 0,
+     "explanation_th": "เรื่องไม่ได้พูดถึงการว่ายน้ำหรือการลดน้ำหนักเลย ประโยคนี้จึงเพิ่มข้อมูลเอง",
+     "why_wrong": [
+      null,
+      "เรื่องบอกว่า needs no special equipment",
+      "เรื่องบอกว่าดีต่อหัวใจและอารมณ์",
+      "เรื่องยกตัวอย่างการใช้บันไดแทนลิฟต์"
+     ]
+    },
+    {
+     "id": "ENL221-U7-06",
+     "skill": "ENL221-U7",
+     "difficulty": 1,
+     "stem": "What is the best first step when you write a summary?",
+     "options": [
+      "Copy the first sentence of the text.",
+      "Find the main idea of the text.",
+      "Write down your opinion of the topic.",
+      "Count every word in the text."
+     ],
+     "answer": 1,
+     "explanation_th": "ต้องรู้ใจความสำคัญก่อน จึงจะเลือกได้ว่าอะไรสำคัญพอจะใส่ในสรุป",
+     "why_wrong": [
+      "การลอกประโยคไม่ใช่การสรุปด้วยคำของตัวเอง",
+      null,
+      "ความเห็นไม่ควรอยู่ในสรุป",
+      "การนับคำไม่ช่วยให้เข้าใจเรื่อง"
+     ]
+    },
+    {
+     "id": "ENL221-U7-07",
+     "skill": "ENL221-U7",
+     "difficulty": 2,
+     "stem": "Passage: \"A new café opened near campus in May. On the first day, the line went out the door. By July, the owners had added ten more tables and hired two more staff. In September, they started opening at 6 a.m. instead of 8 a.m., because many students wanted coffee before their early classes. The owners are now looking for a second location.\" **Which sentence best summarizes the passage?**",
+     "options": [
+      "The café opened in May.",
+      "The café has the best coffee in the city.",
+      "A new café has grown quickly since May by adding tables, staff and longer hours.",
+      "Students should wake up early to buy coffee."
+     ],
+     "answer": 2,
+     "explanation_th": "รวมใจความว่าร้านเติบโตเร็วและวิธีที่ร้านขยาย",
+     "why_wrong": [
+      "เป็นแค่รายละเอียดเดียว",
+      "เรื่องไม่ได้ประเมินว่ากาแฟดีที่สุด",
+      null,
+      "เรื่องไม่ได้แนะนำนักศึกษาแบบนี้"
+     ]
+    },
+    {
+     "id": "ENL221-U7-08",
+     "skill": "ENL221-U7",
+     "difficulty": 1,
+     "stem": "Which is the most suitable way to begin a summary of the plastic bag passage?",
+     "options": [
+      "I love this passage so much!",
+      "Plastic.",
+      "In my opinion, the writer is wrong.",
+      "The passage explains why plastic bags are a problem and how people can reduce their use."
+     ],
+     "answer": 3,
+     "explanation_th": "ประโยคเปิดของสรุปบอกว่าเรื่องว่าด้วยอะไร ด้วยภาษากลาง ๆ",
+     "why_wrong": [
+      "เป็นความรู้สึกของผู้อ่าน ไม่ใช่การสรุป",
+      "ไม่ใช่ประโยค และไม่บอกใจความ",
+      "เป็นความเห็น ไม่ควรอยู่ในสรุป",
+      null
+     ]
+    },
+    {
+     "id": "ENL221-U7-09",
+     "skill": "ENL221-U7",
+     "difficulty": 2,
+     "stem": "Passage: \"Sleep is not a waste of time. While we sleep, the brain sorts the information it received during the day and stores the important parts. Students who stay up all night before an exam often do worse, not better, because their memory has no chance to consolidate what they studied. Doctors suggest that young adults get seven to nine hours of sleep. A short nap of twenty minutes can also help, but a long nap in the late afternoon may make it harder to fall asleep at night.\" **In a summary, how should 'Doctors suggest that young adults get seven to nine hours of sleep' be written?**",
+     "options": [
+      "Young adults must sleep exactly eight hours.",
+      "Doctors do not know how much sleep people need.",
+      "Doctors themselves sleep seven to nine hours.",
+      "Young adults are advised to sleep seven to nine hours."
+     ],
+     "answer": 3,
+     "explanation_th": "suggest = แนะนำ ถอดความเป็น are advised ได้โดยความหมายไม่เปลี่ยน",
+     "why_wrong": [
+      "must และ exactly eight ทำให้ความหมายแรงและแคบกว่าต้นฉบับ",
+      "ขัดกับเรื่อง หมอให้คำแนะนำที่ชัดเจน",
+      "เรื่องพูดถึงคำแนะนำสำหรับวัยหนุ่มสาว ไม่ใช่ชั่วโมงนอนของหมอ",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "A summary is short and uses my own words.",
+    "The article explains why plastic bags are a problem."
+   ],
+   "task_th": "เลือกบทความภาษาอังกฤษสั้น 1 ชิ้น (100 ถึง 200 คำ) เขียนสรุป 3 ประโยคด้วยคำของตัวเอง ประโยค 1 ใจความสำคัญ ประโยค 2 ถึง 3 จุดสนับสนุนหลัก แล้วเช็กว่าไม่มีความเห็นของตัวเองหรือข้อมูลที่เรื่องไม่มี"
+  }
+ ]
+}

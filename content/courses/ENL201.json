@@ -1,0 +1,1761 @@
+{
+ "code": "ENL201",
+ "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+ "in_class_th": [
+  "น่าจะได้อ่านข้อความจริงหลายแบบ เช่น อีเมล ประกาศ บทความสั้น รีวิว แล้วหาว่าไวยากรณ์แต่ละจุดทำหน้าที่อะไร",
+  "น่าจะมีแบบฝึกหาที่ผิดและแก้ไวยากรณ์ในย่อหน้า (proofreading) มากกว่าการทำโจทย์ทีละประโยค",
+  "อาจต้องเขียนข้อความสั้นเอง เช่น อีเมลถึงอาจารย์หรือรีวิว แล้วถูกตรวจทั้งความถูกต้องและระดับภาษา (formal / informal)",
+  "น่าจะทบทวนเรื่องที่เรียนใน ENL101 และ ENL102 (tense, ประโยคความซ้อน, passive, reported speech) แต่ใช้ในงานเขียนจริง"
+ ],
+ "units": [
+  {
+   "id": "ENL201-U1",
+   "title_th": "ไวยากรณ์ในอีเมลและข้อความ",
+   "title_en": "Grammar in emails and messages",
+   "covers": "การฝึกใช้ไวยากรณ์ภาษาอังกฤษในบริบทที่หลากหลาย",
+   "minutes": 15,
+   "lessons": [
+    "L02",
+    "L25",
+    "L26"
+   ],
+   "cards": [
+    {
+     "title_th": "อีเมลทางการ vs ข้อความถึงเพื่อน",
+     "body_th": "ไวยากรณ์ถูกอย่างเดียวไม่พอ ต้องเลือกระดับภาษา (register) ให้เหมาะกับคนอ่าน อีเมลถึงอาจารย์ใช้ประโยคเต็ม สุภาพ ไม่ย่อคำ ข้อความถึงเพื่อนสั้นและเป็นกันเองได้",
+     "example": "Formal: I am writing to ask about the deadline. / Informal: Hey, when's the deadline?"
+    },
+    {
+     "title_th": "ขอร้องอย่างสุภาพ",
+     "body_th": "ในอีเมลทางการ ใช้ Could you ...? / Would you ...? / I would like to ... แทนคำสั่งตรง ๆ",
+     "example": "Could you please send me the course outline?"
+    },
+    {
+     "title_th": "Present perfect ในอีเมล",
+     "body_th": "ใช้บอกงานที่ทำเสร็จแล้วและผลยังอยู่ตอนนี้ เช่น แนบไฟล์แล้ว ส่งงานแล้ว แต่ถ้ามีเวลาในอดีตชัด ๆ (yesterday, last week) ต้องใช้ past simple",
+     "example": "I have attached the form. / I missed the class yesterday."
+    },
+    {
+     "title_th": "อนาคตในข้อความนัดหมาย",
+     "body_th": "นัดไว้แล้วใช้ present continuous (We are meeting at 2 tomorrow.) ตัดสินใจทันทีตอนพูดใช้ will (I'll call them now.)"
+    }
+   ],
+   "vocab": [
+    [
+     "register",
+     "ระดับภาษา (ทางการ/ไม่ทางการ)"
+    ],
+    [
+     "formal",
+     "ทางการ"
+    ],
+    [
+     "informal",
+     "ไม่ทางการ เป็นกันเอง"
+    ],
+    [
+     "attach",
+     "แนบ (ไฟล์)"
+    ],
+    [
+     "deadline",
+     "กำหนดส่ง"
+    ],
+    [
+     "extension",
+     "การขยายเวลา"
+    ],
+    [
+     "request",
+     "คำขอ / ขอ"
+    ],
+    [
+     "regards",
+     "ด้วยความนับถือ (คำลงท้าย)"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL201-U1-01",
+     "skill": "ENL201-U1",
+     "difficulty": 1,
+     "stem": "Email to a lecturer: \"Dear Dr. Smith, I am writing ___ about the deadline for the report.\"",
+     "options": [
+      "to ask",
+      "for asking",
+      "to asking",
+      "ask"
+     ],
+     "answer": 0,
+     "explanation_th": "I am writing to + V ใช้บอกจุดประสงค์ของอีเมล เป็นประโยคเปิดอีเมลทางการที่ใช้บ่อยมาก",
+     "why_wrong": [
+      null,
+      "for ไม่ใช้บอกจุดประสงค์กับกริยาแบบนี้ ต้องใช้ to + V",
+      "to บอกจุดประสงค์ตามด้วยกริยาช่อง 1 ไม่ใช่ V-ing",
+      "มีกริยาแท้ am writing แล้ว ต่อกริยาช่อง 1 ตรง ๆ ไม่ได้"
+     ]
+    },
+    {
+     "id": "ENL201-U1-02",
+     "skill": "ENL201-U1",
+     "difficulty": 2,
+     "stem": "Email: \"Dear Ms. Lee, Thank you for your email. I ___ the form and attached it to this message.\"",
+     "options": [
+      "complete",
+      "am completing",
+      "will complete",
+      "have completed"
+     ],
+     "answer": 3,
+     "explanation_th": "กรอกเสร็จแล้วและแนบมาแล้ว ผลยังอยู่ตอนนี้ จึงใช้ present perfect have completed",
+     "why_wrong": [
+      "present simple ใช้กับสิ่งที่ทำเป็นประจำ ไม่ใช่งานที่เพิ่งเสร็จ",
+      "กำลังกรอกอยู่ ขัดกับที่บอกว่าแนบมาแล้ว",
+      "จะกรอกในอนาคต ขัดกับที่แนบมาแล้ว",
+      null
+     ]
+    },
+    {
+     "id": "ENL201-U1-03",
+     "skill": "ENL201-U1",
+     "difficulty": 1,
+     "stem": "Which closing is most suitable for an email to the university registration office?",
+     "options": [
+      "Best regards,",
+      "See ya!",
+      "Love,",
+      "Bye bye :)"
+     ],
+     "answer": 0,
+     "explanation_th": "Best regards เป็นคำลงท้ายสุภาพ ใช้กับคนที่ไม่สนิทหรือหน่วยงานได้",
+     "why_wrong": [
+      null,
+      "เป็นภาษาพูดกับเพื่อน ไม่เหมาะกับหน่วยงาน",
+      "ใช้กับครอบครัวหรือคนรัก ไม่ใช่สำนักงาน",
+      "เป็นกันเองเกินไปและมีอีโมจิ"
+     ]
+    },
+    {
+     "id": "ENL201-U1-04",
+     "skill": "ENL201-U1",
+     "difficulty": 1,
+     "stem": "Which sentence is the most polite request in a formal email?",
+     "options": [
+      "Could you please send me the course outline?",
+      "Send me the course outline.",
+      "You must send me the course outline.",
+      "I want the course outline now."
+     ],
+     "answer": 0,
+     "explanation_th": "Could you please ...? เป็นคำขอแบบสุภาพ เหมาะกับอีเมลทางการ",
+     "why_wrong": [
+      null,
+      "เป็นประโยคคำสั่ง ฟังห้วนเกินไปสำหรับอาจารย์หรือสำนักงาน",
+      "must เป็นการบังคับ ไม่ใช่การขอร้อง",
+      "I want ... now ฟังเรียกร้องและไม่สุภาพ"
+     ]
+    },
+    {
+     "id": "ENL201-U1-05",
+     "skill": "ENL201-U1",
+     "difficulty": 2,
+     "stem": "Message to a group: \"Hi team, the room is booked. We ___ at 2 p.m. tomorrow, as planned.\"",
+     "options": [
+      "met",
+      "have met",
+      "are meeting",
+      "were meeting"
+     ],
+     "answer": 2,
+     "explanation_th": "นัดหมายที่จองไว้แล้วในอนาคต ใช้ present continuous are meeting ได้ คำว่า tomorrow บอกอนาคต",
+     "why_wrong": [
+      "met เป็นอดีต ขัดกับ tomorrow",
+      "have met เป็น present perfect ใช้กับอนาคตไม่ได้",
+      null,
+      "were meeting เป็นอดีต ขัดกับ tomorrow"
+     ]
+    },
+    {
+     "id": "ENL201-U1-06",
+     "skill": "ENL201-U1",
+     "difficulty": 2,
+     "stem": "Chat: A: \"The printer isn't working.\" B: \"Don't worry, I ___ the IT office right now.\"",
+     "options": [
+      "called",
+      "had called",
+      "was calling",
+      "'ll call"
+     ],
+     "answer": 3,
+     "explanation_th": "ตัดสินใจทันทีตอนพูดว่าจะทำ ใช้ will ('ll call)",
+     "why_wrong": [
+      "called เป็นอดีต แต่ right now บอกว่ากำลังจะทำ",
+      "had called ใช้กับเหตุการณ์ก่อนอีกเหตุการณ์ในอดีต ไม่เข้ากับ right now",
+      "was calling เป็นอดีตกำลังทำ ไม่เข้ากับ right now",
+      null
+     ]
+    },
+    {
+     "id": "ENL201-U1-07",
+     "skill": "ENL201-U1",
+     "difficulty": 2,
+     "stem": "Email: \"(1) I am a first-year student in the English program. (2) I have missed the class yesterday because I was sick. (3) Could you tell me what I should read? (4) Thank you for your help.\" Which sentence has a grammar error?",
+     "options": [
+      "Sentence 1",
+      "Sentence 2",
+      "Sentence 3",
+      "Sentence 4"
+     ],
+     "answer": 1,
+     "explanation_th": "ประโยค 2 มี yesterday ซึ่งเป็นเวลาในอดีตที่ชัดเจน ต้องใช้ past simple: I missed the class yesterday.",
+     "why_wrong": [
+      "ประโยคนี้ถูก am ใช้กับ I และ the English program ใช้ the ถูกต้อง",
+      null,
+      "Could you tell me what I should read? ถูก เพราะในคำถามซ้อน what ตามด้วย I should แบบประโยคบอกเล่า",
+      "Thank you for your help ถูกต้องตามรูปแบบ"
+     ]
+    },
+    {
+     "id": "ENL201-U1-08",
+     "skill": "ENL201-U1",
+     "difficulty": 1,
+     "stem": "Which sentence fits a formal email to a lecturer best?",
+     "options": [
+      "Gimme two more days, OK?",
+      "I would like to ask for a two-day extension.",
+      "I wanna get more days.",
+      "Two more days pls."
+     ],
+     "answer": 1,
+     "explanation_th": "I would like to ... เป็นภาษาทางการ ประโยคครบ ไม่ใช้คำย่อ",
+     "why_wrong": [
+      "Gimme เป็นภาษาพูดแบบย่อ ไม่เหมาะกับอีเมลถึงอาจารย์",
+      null,
+      "wanna เป็นภาษาพูด และ get more days ไม่ชัดว่าขออะไร",
+      "ไม่มีประธานกับกริยา และ pls เป็นคำย่อแชต"
+     ]
+    },
+    {
+     "id": "ENL201-U1-09",
+     "skill": "ENL201-U1",
+     "difficulty": 1,
+     "stem": "Text message: \"Sorry, I can't talk now. I ___ on the bus and it's really noisy.\"",
+     "options": [
+      "sit",
+      "sat",
+      "am sitting",
+      "have sat"
+     ],
+     "answer": 2,
+     "explanation_th": "กำลังนั่งรถอยู่ตอนนี้ ใช้ present continuous am sitting",
+     "why_wrong": [
+      "present simple ใช้กับกิจวัตร ไม่ใช่สิ่งที่กำลังเกิดตอนพูด",
+      "sat เป็นอดีต แต่ now บอกว่าตอนนี้",
+      null,
+      "have sat ไม่ใช้บอกสิ่งที่กำลังเกิดตอนนี้"
+     ]
+    }
+   ],
+   "say": [
+    "I am writing to ask about the deadline.",
+    "Could you please send me the file?",
+    "I have attached my report to this email."
+   ],
+   "task_th": "เขียนอีเมลสั้น 4 ประโยคถึงอาจารย์ (สมมติ) ขอเอกสารประกอบการเรียน ต้องมี I am writing to ..., Could you please ...?, ประโยค present perfect 1 ประโยค และคำลงท้าย Best regards แล้วเขียนเวอร์ชันแชตถึงเพื่อนเรื่องเดียวกันอีก 2 ประโยค เทียบกันว่าต่างกันตรงไหน"
+  },
+  {
+   "id": "ENL201-U2",
+   "title_th": "ไวยากรณ์ในประกาศและคำแนะนำ",
+   "title_en": "Grammar in notices and instructions",
+   "covers": "ในบริบทที่หลากหลาย",
+   "minutes": 15,
+   "lessons": [
+    "L07",
+    "L12",
+    "L14"
+   ],
+   "cards": [
+    {
+     "title_th": "ประกาศชอบใช้ passive",
+     "body_th": "ประกาศเน้นสิ่งที่ต้องทำ ไม่เน้นว่าใครทำ จึงใช้ passive บ่อย: be + V3 และหลัง modal ใช้ be + V3",
+     "example": "All books must be returned by Friday."
+    },
+    {
+     "title_th": "คำแนะนำใช้ imperative",
+     "body_th": "คู่มือและขั้นตอนใช้กริยาช่อง 1 ขึ้นต้นประโยค ไม่มีประธาน สั้นและตรง",
+     "example": "Close the lid. Shake well. Do not freeze."
+    },
+    {
+     "title_th": "must not vs don't have to",
+     "body_th": "must not = ห้ามทำ / don't have to = ไม่จำเป็นต้องทำ (ทำก็ได้ ไม่ทำก็ได้) ความหมายต่างกันมาก",
+     "example": "You must not smoke here. / You don't have to bring a pen; we have pens."
+    },
+    {
+     "title_th": "บุพบทเวลาในประกาศ",
+     "body_th": "at + เวลา (at 4:30 p.m.) / on + วัน วันที่ (on Monday, on 20 August) / in + เดือน ปี (in August) / from ... to ... บอกช่วง"
+    }
+   ],
+   "vocab": [
+    [
+     "notice",
+     "ประกาศ"
+    ],
+    [
+     "instructions",
+     "คำแนะนำ ขั้นตอน"
+    ],
+    [
+     "registration",
+     "การลงทะเบียน"
+    ],
+    [
+     "submit",
+     "ส่ง (งาน เอกสาร)"
+    ],
+    [
+     "allowed",
+     "อนุญาต"
+    ],
+    [
+     "reception",
+     "แผนกต้อนรับ"
+    ],
+    [
+     "visitor",
+     "ผู้มาเยือน"
+    ],
+    [
+     "in advance",
+     "ล่วงหน้า"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL201-U2-01",
+     "skill": "ENL201-U2",
+     "difficulty": 1,
+     "stem": "Library notice: \"All books ___ by Friday, 5 p.m.\"",
+     "options": [
+      "must return",
+      "must be returned",
+      "must returning",
+      "must be return"
+     ],
+     "answer": 1,
+     "explanation_th": "หนังสือถูกคืน (ไม่ได้คืนเอง) จึงใช้ passive หลัง modal: must be + V3",
+     "why_wrong": [
+      "active ทำให้ประโยคหมายถึงหนังสือคืนเอง",
+      null,
+      "หลัง modal ต้องเป็นกริยาช่อง 1 ไม่ใช่ V-ing",
+      "passive ต้องใช้ V3 returned ไม่ใช่ return"
+     ]
+    },
+    {
+     "id": "ENL201-U2-02",
+     "skill": "ENL201-U2",
+     "difficulty": 2,
+     "stem": "Notice on a door: \"This room ___ for an exam tomorrow morning. Please do not enter.\"",
+     "options": [
+      "will use",
+      "is using",
+      "used",
+      "will be used"
+     ],
+     "answer": 3,
+     "explanation_th": "ห้องถูกใช้ ในอนาคต (tomorrow) จึงเป็น will be + V3",
+     "why_wrong": [
+      "will use หมายถึงห้องจะใช้สิ่งอื่นเอง ไม่สมเหตุสมผล",
+      "is using เป็น active หมายถึงห้องกำลังใช้อะไรบางอย่าง",
+      "used เป็นอดีต ขัดกับ tomorrow",
+      null
+     ]
+    },
+    {
+     "id": "ENL201-U2-03",
+     "skill": "ENL201-U2",
+     "difficulty": 1,
+     "stem": "Instructions on a bottle: \"___ the lid tightly before you shake the bottle.\"",
+     "options": [
+      "Close",
+      "Closing",
+      "To closed",
+      "Closed"
+     ],
+     "answer": 0,
+     "explanation_th": "คำแนะนำใช้ imperative ขึ้นต้นด้วยกริยาช่อง 1: Close the lid.",
+     "why_wrong": [
+      null,
+      "V-ing ขึ้นต้นประโยคเป็นประธาน แต่ประโยคนี้ไม่มีกริยาแท้ต่อ",
+      "หลัง to ต้องเป็นกริยาช่อง 1 และไม่ใช่รูปคำสั่ง",
+      "Closed เป็นรูปอดีต/V3 ใช้เป็นคำสั่งไม่ได้"
+     ]
+    },
+    {
+     "id": "ENL201-U2-04",
+     "skill": "ENL201-U2",
+     "difficulty": 1,
+     "stem": "Sign: \"The office is open ___ Monday ___ Friday.\"",
+     "options": [
+      "in / at",
+      "from / to",
+      "on / in",
+      "at / on"
+     ],
+     "answer": 1,
+     "explanation_th": "บอกช่วงวันใช้ from ... to ...",
+     "why_wrong": [
+      "in ใช้กับเดือนหรือปี at ใช้กับเวลา ไม่ใช่ช่วงวัน",
+      null,
+      "ไม่บอกช่วงเริ่มถึงจบ และ in ไม่ใช้กับวัน",
+      "at ไม่ใช้กับวัน และไม่บอกช่วง"
+     ]
+    },
+    {
+     "id": "ENL201-U2-05",
+     "skill": "ENL201-U2",
+     "difficulty": 2,
+     "stem": "Exam rules: \"Please avoid ___ your phone during the exam.\"",
+     "options": [
+      "to use",
+      "use",
+      "used",
+      "using"
+     ],
+     "answer": 3,
+     "explanation_th": "avoid ตามด้วย V-ing เสมอ",
+     "why_wrong": [
+      "avoid ไม่ตามด้วย to + V",
+      "หลัง avoid ใช้กริยาช่อง 1 ไม่ได้",
+      "used เป็นรูปอดีต ไม่ใช่รูปที่ตามหลัง avoid",
+      null
+     ]
+    },
+    {
+     "id": "ENL201-U2-06",
+     "skill": "ENL201-U2",
+     "difficulty": 2,
+     "stem": "Notice in a computer lab: \"Students ___ bring food into this room. It is not allowed.\"",
+     "options": [
+      "don't have to",
+      "should to",
+      "must not",
+      "mustn't to"
+     ],
+     "answer": 2,
+     "explanation_th": "It is not allowed = ห้าม จึงใช้ must not",
+     "why_wrong": [
+      "don't have to แปลว่าไม่จำเป็น ไม่ใช่ห้าม ขัดกับ not allowed",
+      "หลัง should ไม่มี to",
+      null,
+      "หลัง mustn't ไม่มี to"
+     ]
+    },
+    {
+     "id": "ENL201-U2-07",
+     "skill": "ENL201-U2",
+     "difficulty": 2,
+     "stem": "Notice: \"Registration closes ___ 4:30 p.m. ___ 20 August.\"",
+     "options": [
+      "at / on",
+      "on / at",
+      "in / on",
+      "at / in"
+     ],
+     "answer": 0,
+     "explanation_th": "at + เวลา on + วันที่",
+     "why_wrong": [
+      null,
+      "สลับกัน at ใช้กับเวลา on ใช้กับวันที่",
+      "in ไม่ใช้กับเวลาเจาะจงแบบ 4:30 p.m.",
+      "วันที่ (20 August) ใช้ on ไม่ใช่ in"
+     ]
+    },
+    {
+     "id": "ENL201-U2-08",
+     "skill": "ENL201-U2",
+     "difficulty": 2,
+     "stem": "Instructions: \"(1) Fill in the form with a black pen. (2) Attach a recent photo. (3) The form must be sign by a parent. (4) Submit it at the front desk.\" Which sentence has a grammar error?",
+     "options": [
+      "Sentence 1",
+      "Sentence 2",
+      "Sentence 3",
+      "Sentence 4"
+     ],
+     "answer": 2,
+     "explanation_th": "ประโยค 3 เป็น passive หลัง must ต้องใช้ be + V3: must be signed",
+     "why_wrong": [
+      "imperative Fill in ... ถูกต้อง",
+      "imperative Attach ... ถูกต้อง",
+      null,
+      "imperative Submit ... ถูกต้อง"
+     ]
+    },
+    {
+     "id": "ENL201-U2-09",
+     "skill": "ENL201-U2",
+     "difficulty": 2,
+     "stem": "Which sentence sounds most like an official notice?",
+     "options": [
+      "Hey guys, sign in at reception!",
+      "Visitors are requested to sign in at reception.",
+      "Sign in pls at reception.",
+      "Maybe you sign in at reception?"
+     ],
+     "answer": 1,
+     "explanation_th": "ประกาศทางการใช้ passive และคำสุภาพ เช่น are requested to",
+     "why_wrong": [
+      "Hey guys เป็นภาษาพูดเป็นกันเอง",
+      null,
+      "pls เป็นคำย่อแชต",
+      "ไม่มีกริยาช่วยในคำถาม และ maybe ทำให้ไม่ชัดว่าต้องทำ"
+     ]
+    }
+   ],
+   "say": [
+    "All books must be returned by Friday.",
+    "Please avoid using your phone during the exam.",
+    "You must not eat in the lab."
+   ],
+   "task_th": "ถ่ายรูปหรือหาป้ายประกาศภาษาอังกฤษ 1 ป้าย (ห้าง สนามบิน ในเว็บ) จดประโยค passive หรือ imperative ที่เจอ แล้วเขียนประกาศของตัวเอง 3 ประโยคสำหรับห้องนอนหรือห้องเรียน ใช้ must be + V3, must not และ imperative อย่างละ 1 ประโยค"
+  },
+  {
+   "id": "ENL201-U3",
+   "title_th": "ไวยากรณ์ในเรื่องเล่า",
+   "title_en": "Grammar in narratives",
+   "covers": "ผ่านการอ่าน",
+   "minutes": 15,
+   "lessons": [
+    "L03",
+    "L09",
+    "L27"
+   ],
+   "cards": [
+    {
+     "title_th": "เรื่องเล่าใช้ past หลายแบบ",
+     "body_th": "past simple เล่าเหตุการณ์หลัก / past continuous บอกฉากที่กำลังเกิด / past perfect บอกสิ่งที่เกิดก่อนอีกเหตุการณ์ในอดีต",
+     "example": "I was walking home when it started to rain. The bus had already left."
+    },
+    {
+     "title_th": "อ่านแล้วเรียงลำดับเหตุการณ์",
+     "body_th": "had + V3 คือสิ่งที่เกิดก่อน ถึงจะเขียนไว้ทีหลังในประโยคก็ตาม อ่านเรื่องเล่าให้ดูรูปกริยาเพื่อรู้ลำดับจริง",
+     "example": "When I arrived, the guests had gone home. (แขกกลับก่อน แล้วฉันมาถึง)"
+    },
+    {
+     "title_th": "คำเชื่อมในเรื่องเล่า",
+     "body_th": "so / therefore = ผล / but / however = ขัดแย้ง / although + ประโยค / despite + คำนาม ดูว่าสองส่วนสัมพันธ์กันแบบไหน"
+    },
+    {
+     "title_th": "เล่าคำพูดของคนอื่น",
+     "body_th": "reported speech ถอย tense หนึ่งขั้น และคำถามซ้อนเรียงแบบประโยคบอกเล่า",
+     "example": "\"Where do you live?\" → He asked me where I lived."
+    }
+   ],
+   "vocab": [
+    [
+     "narrative",
+     "เรื่องเล่า"
+    ],
+    [
+     "event",
+     "เหตุการณ์"
+    ],
+    [
+     "sequence",
+     "ลำดับ"
+    ],
+    [
+     "background",
+     "ฉากหลัง เหตุการณ์ประกอบ"
+    ],
+    [
+     "linker",
+     "คำเชื่อม"
+    ],
+    [
+     "reported speech",
+     "การเล่าคำพูดของผู้อื่น"
+    ],
+    [
+     "already",
+     "แล้ว (เกิดก่อน)"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL201-U3-01",
+     "skill": "ENL201-U3",
+     "difficulty": 2,
+     "stem": "Story: \"When I got to the station, the train ___, so I waited for the next one.\"",
+     "options": [
+      "had already left",
+      "already leaves",
+      "has already left",
+      "is leaving"
+     ],
+     "answer": 0,
+     "explanation_th": "รถไฟออกไปก่อนที่ฉันจะถึง (อดีตก่อนอดีต) ใช้ past perfect had already left",
+     "why_wrong": [
+      null,
+      "present simple ไม่เข้ากับเรื่องเล่าในอดีต",
+      "present perfect ใช้กับเรื่องที่โยงถึงปัจจุบัน ไม่ใช่ก่อนอีกเหตุการณ์ในอดีต",
+      "is leaving เป็นปัจจุบัน และขัดกับที่ต้องรอขบวนถัดไป"
+     ]
+    },
+    {
+     "id": "ENL201-U3-02",
+     "skill": "ENL201-U3",
+     "difficulty": 1,
+     "stem": "Story: \"I ___ dinner when suddenly the lights went out.\"",
+     "options": [
+      "am cooking",
+      "have cooked",
+      "was cooking",
+      "cook"
+     ],
+     "answer": 2,
+     "explanation_th": "กำลังทำอาหารอยู่ (ฉากหลัง) แล้วไฟดับแทรก ใช้ past continuous was cooking",
+     "why_wrong": [
+      "am cooking เป็นปัจจุบัน แต่ went out เป็นอดีต",
+      "present perfect ไม่ใช้เล่าเหตุการณ์ที่ถูกแทรกในอดีต",
+      null,
+      "present simple ไม่เข้ากับเรื่องเล่าในอดีต"
+     ]
+    },
+    {
+     "id": "ENL201-U3-03",
+     "skill": "ENL201-U3",
+     "difficulty": 2,
+     "stem": "Story: \"It was raining hard all afternoon. ___, we stayed at home and watched films.\"",
+     "options": [
+      "However",
+      "Although",
+      "Despite",
+      "Therefore"
+     ],
+     "answer": 3,
+     "explanation_th": "ฝนตกหนักเป็นเหตุ อยู่บ้านเป็นผล ใช้ Therefore",
+     "why_wrong": [
+      "However ใช้กับความขัดแย้ง แต่สองประโยคเป็นเหตุและผล",
+      "Although ต้องตามด้วยประโยคในประโยคเดียวกัน ไม่ใช่ขึ้นต้นด้วยจุลภาค",
+      "Despite ต้องตามด้วยคำนาม และความหมายเป็นขัดแย้ง",
+      null
+     ]
+    },
+    {
+     "id": "ENL201-U3-04",
+     "skill": "ENL201-U3",
+     "difficulty": 2,
+     "stem": "Story: \"___ she was very tired, Fah finished reading the whole novel that night.\"",
+     "options": [
+      "Despite",
+      "However",
+      "Although",
+      "So"
+     ],
+     "answer": 2,
+     "explanation_th": "เหนื่อยแต่ก็อ่านจบ เป็นความขัดแย้ง และตามด้วยประโยค she was ... จึงใช้ Although",
+     "why_wrong": [
+      "Despite ต้องตามด้วยคำนามหรือ V-ing ไม่ใช่ประโยค",
+      "However ไม่ใช้เชื่อมสองส่วนในประโยคเดียวแบบนี้",
+      null,
+      "So ใช้ขึ้นต้นประโยคย่อยแล้วตามด้วยประโยคหลักแบบนี้ไม่ได้ และ so บอกผล ไม่ใช่ความขัดแย้ง"
+     ]
+    },
+    {
+     "id": "ENL201-U3-05",
+     "skill": "ENL201-U3",
+     "difficulty": 2,
+     "stem": "\"I lost my key yesterday,\" Mai said. → Mai said that she ___ her key the day before.",
+     "options": [
+      "had lost",
+      "has lost",
+      "loses",
+      "lose"
+     ],
+     "answer": 0,
+     "explanation_th": "reported speech ถอย past simple เป็น past perfect: had lost",
+     "why_wrong": [
+      null,
+      "has lost ไม่ได้ถอย tense และไม่เข้ากับ the day before",
+      "present simple ไม่ตรงกับเหตุการณ์ในอดีต",
+      "lose ไม่ผันตามประธาน she และไม่ใช่อดีต"
+     ]
+    },
+    {
+     "id": "ENL201-U3-06",
+     "skill": "ENL201-U3",
+     "difficulty": 2,
+     "stem": "He asked me, \"Where do you live?\" → He asked me where ___.",
+     "options": [
+      "did I live",
+      "I lived",
+      "do I live",
+      "lived I"
+     ],
+     "answer": 1,
+     "explanation_th": "คำถามซ้อนใน reported speech เรียงแบบบอกเล่า ประธานก่อนกริยา และถอย tense: where I lived",
+     "why_wrong": [
+      "ไม่ใช้ did และไม่สลับประธานกับกริยาในคำถามซ้อน",
+      null,
+      "ยังเป็นรูปคำถามตรง ไม่ได้เรียงแบบบอกเล่า",
+      "กริยาอยู่หน้าประธาน ผิดลำดับคำ"
+     ]
+    },
+    {
+     "id": "ENL201-U3-07",
+     "skill": "ENL201-U3",
+     "difficulty": 2,
+     "stem": "Read: \"When Ploy arrived at the party, most guests had gone home. She ate some cake and talked to the host.\" Which happened FIRST?",
+     "options": [
+      "Ploy arrived at the party.",
+      "Ploy ate some cake.",
+      "Ploy talked to the host.",
+      "Most guests went home."
+     ],
+     "answer": 3,
+     "explanation_th": "had gone เป็น past perfect บอกว่าแขกกลับก่อนที่ Ploy จะมาถึง",
+     "why_wrong": [
+      "Ploy มาถึงหลังจากแขกส่วนใหญ่กลับแล้ว (had gone)",
+      "กินเค้กหลังจากมาถึงงาน",
+      "คุยกับเจ้าภาพหลังจากมาถึงงาน",
+      null
+     ]
+    },
+    {
+     "id": "ENL201-U3-08",
+     "skill": "ENL201-U3",
+     "difficulty": 2,
+     "stem": "Story: \"(1) Last Saturday, my friends and I went to Ayutthaya. (2) We were walking around an old temple when it started to rain. (3) We run into a small café to stay dry. (4) We were wet, but we laughed a lot.\" Which sentence has a grammar error?",
+     "options": [
+      "Sentence 1",
+      "Sentence 2",
+      "Sentence 3",
+      "Sentence 4"
+     ],
+     "answer": 2,
+     "explanation_th": "ประโยค 3 เล่าเหตุการณ์ในอดีต ต้องใช้ ran ไม่ใช่ run",
+     "why_wrong": [
+      "went เป็น past simple ถูกต้อง",
+      "were walking ... when it started เป็นโครงสร้างถูกต้อง",
+      null,
+      "were และ laughed เป็นอดีต ถูกต้อง"
+     ]
+    }
+   ],
+   "say": [
+    "I was walking home when it started to rain.",
+    "The bus had already left when I arrived."
+   ],
+   "task_th": "อ่านเรื่องสั้นหรือโพสต์เล่าเรื่องภาษาอังกฤษ 1 เรื่อง (ประมาณ 150 คำ) ขีดเส้นใต้กริยาทุกตัว แยกเป็น past simple / past continuous / past perfect แล้วเขียนเรื่องของตัวเอง 4 ประโยค ใช้ครบทั้ง 3 แบบ และมีคำเชื่อม 1 คำ"
+  },
+  {
+   "id": "ENL201-U4",
+   "title_th": "ไวยากรณ์ในบทความสั้น",
+   "title_en": "Grammar in short articles",
+   "covers": "ผ่านการอ่าน",
+   "minutes": 15,
+   "lessons": [
+    "L05",
+    "L08",
+    "L11",
+    "L24"
+   ],
+   "cards": [
+    {
+     "title_th": "บทความชอบใช้ relative clause",
+     "body_th": "who / which / whose ช่วยให้ข้อมูลเพิ่มโดยไม่ต้องขึ้นประโยคใหม่ ถ้ามีจุลภาคคั่น (non-defining) ห้ามใช้ that",
+     "example": "The café, which opened last month, is already popular."
+    },
+    {
+     "title_th": "ประธานจริงคือใคร",
+     "body_th": "บทความมีประธานยาว ต้องหาคำหลักให้เจอ Each of the students → each (เอกพจน์) / The number of ... → number (เอกพจน์) / A number of ... → พหูพจน์"
+    },
+    {
+     "title_th": "few / little / a few / a little",
+     "body_th": "few, a few ใช้กับนามนับได้ / little, a little ใช้กับนามนับไม่ได้ ไม่มี a = น้อยจนแทบไม่พอ มี a = มีบ้าง",
+     "example": "There is little information. / Only a few students came."
+    },
+    {
+     "title_th": "a แล้วกลายเป็น the",
+     "body_th": "พูดถึงครั้งแรกใช้ a/an พอพูดถึงสิ่งเดิมอีกครั้งใช้ the",
+     "example": "BU has a new app. The app helps students book rooms."
+    }
+   ],
+   "vocab": [
+    [
+     "article",
+     "บทความ"
+    ],
+    [
+     "shuttle bus",
+     "รถรับส่ง"
+    ],
+    [
+     "popular",
+     "เป็นที่นิยม"
+    ],
+    [
+     "increase",
+     "เพิ่มขึ้น"
+    ],
+    [
+     "online course",
+     "คอร์สออนไลน์"
+    ],
+    [
+     "information",
+     "ข้อมูล (นามนับไม่ได้)"
+    ],
+    [
+     "subject",
+     "ประธาน (ของประโยค)"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL201-U4-01",
+     "skill": "ENL201-U4",
+     "difficulty": 1,
+     "stem": "Article: \"Students ___ live far from campus can use the free shuttle bus.\"",
+     "options": [
+      "which",
+      "who",
+      "whose",
+      "where"
+     ],
+     "answer": 1,
+     "explanation_th": "ขยายคน (students) และทำหน้าที่ประธานของ live จึงใช้ who",
+     "why_wrong": [
+      "which ใช้กับสิ่งของ ไม่ใช่คน",
+      null,
+      "whose ต้องตามด้วยคำนาม (whose + noun)",
+      "where ใช้กับสถานที่"
+     ]
+    },
+    {
+     "id": "ENL201-U4-02",
+     "skill": "ENL201-U4",
+     "difficulty": 2,
+     "stem": "Article: \"The café, ___ opened last month, is already popular with students.\"",
+     "options": [
+      "that",
+      "who",
+      "where",
+      "which"
+     ],
+     "answer": 3,
+     "explanation_th": "ขยายสิ่งของ และมีจุลภาคคั่น (non-defining) จึงใช้ which",
+     "why_wrong": [
+      "that ใช้ใน relative clause ที่มีจุลภาคคั่นไม่ได้",
+      "who ใช้กับคน",
+      "where ต้องตามด้วยประโยคเต็มที่มีประธาน แต่ตรงนี้ต้องการประธานของ opened",
+      null
+     ]
+    },
+    {
+     "id": "ENL201-U4-03",
+     "skill": "ENL201-U4",
+     "difficulty": 2,
+     "stem": "Article: \"Each of the students in the project ___ a laptop from the faculty.\"",
+     "options": [
+      "receive",
+      "are receiving",
+      "receives",
+      "have received"
+     ],
+     "answer": 2,
+     "explanation_th": "ประธานจริงคือ Each ซึ่งเป็นเอกพจน์ กริยาจึงเติม s",
+     "why_wrong": [
+      "receive เป็นรูปพหูพจน์ ไม่ตรงกับ each",
+      "are ใช้กับประธานพหูพจน์",
+      null,
+      "have ใช้กับประธานพหูพจน์ ต้องเป็น has"
+     ]
+    },
+    {
+     "id": "ENL201-U4-04",
+     "skill": "ENL201-U4",
+     "difficulty": 2,
+     "stem": "Article: \"There is ___ information about the event online, so many people are confused.\"",
+     "options": [
+      "little",
+      "few",
+      "many",
+      "a few"
+     ],
+     "answer": 0,
+     "explanation_th": "information นับไม่ได้ และประโยคบอกว่าคนสับสน แปลว่ามีข้อมูลน้อยมาก จึงใช้ little",
+     "why_wrong": [
+      null,
+      "few ใช้กับนามนับได้",
+      "many ใช้กับนามนับได้ และขัดกับที่คนสับสน",
+      "a few ใช้กับนามนับได้"
+     ]
+    },
+    {
+     "id": "ENL201-U4-05",
+     "skill": "ENL201-U4",
+     "difficulty": 2,
+     "stem": "Article: \"Only ___ students came to the first meeting, so the room looked empty.\"",
+     "options": [
+      "a few",
+      "a little",
+      "much",
+      "little"
+     ],
+     "answer": 0,
+     "explanation_th": "students นับได้ และสำนวน only a few = แค่ไม่กี่คน",
+     "why_wrong": [
+      null,
+      "a little ใช้กับนามนับไม่ได้",
+      "much ใช้กับนามนับไม่ได้ และขัดกับห้องที่ดูว่าง",
+      "little ใช้กับนามนับไม่ได้"
+     ]
+    },
+    {
+     "id": "ENL201-U4-06",
+     "skill": "ENL201-U4",
+     "difficulty": 1,
+     "stem": "Article: \"The university has launched a new study app. ___ app helps them book study rooms.\"",
+     "options": [
+      "A",
+      "An",
+      "Some",
+      "The"
+     ],
+     "answer": 3,
+     "explanation_th": "พูดถึงแอปเดิมเป็นครั้งที่สอง ผู้อ่านรู้แล้วว่าแอปไหน จึงใช้ The",
+     "why_wrong": [
+      "A ใช้ตอนพูดถึงครั้งแรก",
+      "An ใช้กับคำที่ขึ้นต้นด้วยเสียงสระ และเป็นการพูดถึงครั้งแรก",
+      "Some ใช้กับนามพหูพจน์หรือนับไม่ได้ ไม่ใช่ app เอกพจน์",
+      null
+     ]
+    },
+    {
+     "id": "ENL201-U4-07",
+     "skill": "ENL201-U4",
+     "difficulty": 3,
+     "stem": "Article: \"The number of online courses ___ growing every year.\"",
+     "options": [
+      "are",
+      "have",
+      "is",
+      "be"
+     ],
+     "answer": 2,
+     "explanation_th": "The number of ... มีคำหลักคือ number (เอกพจน์) จึงใช้ is",
+     "why_wrong": [
+      "are ใช้กับประธานพหูพจน์ แต่ประธานคือ the number",
+      "have growing ไม่ใช่โครงสร้างที่ถูกต้อง",
+      null,
+      "be ต้องผันตามประธาน ใช้รูปนี้ตรง ๆ ไม่ได้"
+     ]
+    },
+    {
+     "id": "ENL201-U4-08",
+     "skill": "ENL201-U4",
+     "difficulty": 2,
+     "stem": "Article: \"The writer, ___ new book is about Thai street food, will give a talk on Friday.\"",
+     "options": [
+      "who",
+      "whose",
+      "which",
+      "that"
+     ],
+     "answer": 1,
+     "explanation_th": "หนังสือเป็นของนักเขียน (ความเป็นเจ้าของ) ใช้ whose + noun",
+     "why_wrong": [
+      "who ต้องตามด้วยกริยา ไม่ใช่คำนาม new book",
+      null,
+      "which ใช้กับสิ่งของ",
+      "that ใช้ไม่ได้หลังจุลภาค และไม่บอกความเป็นเจ้าของ"
+     ]
+    },
+    {
+     "id": "ENL201-U4-09",
+     "skill": "ENL201-U4",
+     "difficulty": 2,
+     "stem": "Article: \"The library has raised its limit from five to eight books, so students can now borrow ___ books at a time than before.\"",
+     "options": [
+      "fewer",
+      "less",
+      "the same number of",
+      "more"
+     ],
+     "answer": 3,
+     "explanation_th": "จำนวนเพิ่มจาก 5 เป็น 8 จึงยืมได้มากกว่าเดิม และมี than จึงใช้ more books",
+     "why_wrong": [
+      "fewer หมายถึงน้อยลง ขัดกับ 5 เป็น 8",
+      "less ใช้กับนามนับไม่ได้ และหมายถึงน้อยลง",
+      "เท่าเดิมขัดกับที่ limit เพิ่มขึ้น และ the same ... ใช้คู่กับ as ไม่ใช่ than",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "Students who live far away can take the shuttle bus.",
+    "The number of online courses is growing."
+   ],
+   "task_th": "อ่านบทความข่าวภาษาอังกฤษสั้น 1 ชิ้น (เช่น ข่าวการศึกษาหรือเทคโนโลยี) หา relative clause 3 ที่ และประธาน + กริยา 3 คู่ที่ประธานยาว เขียนลงสมุดว่าคำหลักของประธานคืออะไรและกริยาเอกพจน์หรือพหูพจน์"
+  },
+  {
+   "id": "ENL201-U5",
+   "title_th": "ไวยากรณ์ในรีวิวและความคิดเห็น",
+   "title_en": "Grammar in reviews and opinions",
+   "covers": "การเขียน",
+   "minutes": 15,
+   "lessons": [
+    "L13",
+    "L15",
+    "L16",
+    "L23"
+   ],
+   "cards": [
+    {
+     "title_th": "รีวิวเปรียบเทียบเยอะ",
+     "body_th": "คำสั้นเติม -er / -est คำยาวใช้ more / the most ห้ามใช้ more คู่กับ -er",
+     "example": "lighter, the best, more comfortable (ไม่ใช่ more lighter)"
+    },
+    {
+     "title_th": "คุณศัพท์ vs กริยาวิเศษณ์",
+     "body_th": "คุณศัพท์ขยายคำนามหรือตามหลัง be (The staff were helpful.) กริยาวิเศษณ์ขยายกริยาหรือคุณศัพท์ (extremely clean)"
+    },
+    {
+     "title_th": "-ing vs -ed",
+     "body_th": "-ing บอกลักษณะของสิ่งนั้น (boring film) -ed บอกความรู้สึกของคน (I was bored.)"
+    },
+    {
+     "title_th": "ติชมด้วย if และ should have",
+     "body_th": "แนะนำ: If you like spicy food, you will love it. / สมมติ: If it were cheaper, more people would come. / ติสิ่งที่ผ่านไป: They should have delivered it faster."
+    }
+   ],
+   "vocab": [
+    [
+     "review",
+     "รีวิว บทวิจารณ์"
+    ],
+    [
+     "comfortable",
+     "สบาย"
+    ],
+    [
+     "helpful",
+     "ช่วยเหลือดี"
+    ],
+    [
+     "disappointing",
+     "น่าผิดหวัง"
+    ],
+    [
+     "recommend",
+     "แนะนำ"
+    ],
+    [
+     "delivery",
+     "การส่งของ"
+    ],
+    [
+     "value for money",
+     "คุ้มค่าเงิน"
+    ],
+    [
+     "staff",
+     "พนักงาน"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL201-U5-01",
+     "skill": "ENL201-U5",
+     "difficulty": 1,
+     "stem": "Phone review: \"The new model is ___ than the old one, but the battery is worse.\"",
+     "options": [
+      "lighter",
+      "lightly",
+      "lightest",
+      "more lighter"
+     ],
+     "answer": 0,
+     "explanation_th": "light เป็นคำสั้น เปรียบเทียบสองสิ่งด้วย -er และมี than",
+     "why_wrong": [
+      null,
+      "lightly เป็นกริยาวิเศษณ์ ไม่ใช่รูปเปรียบเทียบของคุณศัพท์ และใช้กับ than แบบนี้ไม่ได้",
+      "lightest เป็นขั้นสูงสุด ใช้กับ than ไม่ได้",
+      "ใช้ more คู่กับ -er ซ้ำซ้อน"
+     ]
+    },
+    {
+     "id": "ENL201-U5-02",
+     "skill": "ENL201-U5",
+     "difficulty": 1,
+     "stem": "Food review: \"This is ___ noodle shop I have ever tried.\"",
+     "options": [
+      "better",
+      "the better",
+      "the best",
+      "most good"
+     ],
+     "answer": 2,
+     "explanation_th": "มี I have ever tried บอกขั้นสูงสุด good → the best",
+     "why_wrong": [
+      "better เป็นขั้นกว่า ต้องมีสิ่งเปรียบเทียบสองสิ่ง",
+      "the better ไม่ใช่ขั้นสูงสุด",
+      null,
+      "good ผันไม่ปกติ ไม่ใช้ most good"
+     ]
+    },
+    {
+     "id": "ENL201-U5-03",
+     "skill": "ENL201-U5",
+     "difficulty": 1,
+     "stem": "Hotel review: \"The staff were very ___ and answered all our questions.\"",
+     "options": [
+      "help",
+      "helpful",
+      "helpfully",
+      "helpfulness"
+     ],
+     "answer": 1,
+     "explanation_th": "หลัง were very ต้องเป็นคุณศัพท์ helpful",
+     "why_wrong": [
+      "help เป็นกริยาหรือคำนาม",
+      null,
+      "helpfully เป็นกริยาวิเศษณ์ ใช้หลัง be ไม่ได้",
+      "helpfulness เป็นคำนาม"
+     ]
+    },
+    {
+     "id": "ENL201-U5-04",
+     "skill": "ENL201-U5",
+     "difficulty": 2,
+     "stem": "Hotel review: \"Our room was ___ clean, and the bed was very comfortable.\"",
+     "options": [
+      "extreme",
+      "extremity",
+      "extremes",
+      "extremely"
+     ],
+     "answer": 3,
+     "explanation_th": "ขยายคุณศัพท์ clean ต้องใช้กริยาวิเศษณ์ extremely",
+     "why_wrong": [
+      "extreme เป็นคุณศัพท์ ขยายคุณศัพท์อีกตัวไม่ได้",
+      "extremity เป็นคำนาม",
+      "extremes เป็นคำนามพหูพจน์",
+      null
+     ]
+    },
+    {
+     "id": "ENL201-U5-05",
+     "skill": "ENL201-U5",
+     "difficulty": 2,
+     "stem": "Restaurant review: \"If you ___ spicy food, you will love this place.\"",
+     "options": [
+      "like",
+      "will like",
+      "liking",
+      "had liked"
+     ],
+     "answer": 0,
+     "explanation_th": "conditional แบบ 1: If + present simple, will + V",
+     "why_wrong": [
+      null,
+      "ส่วน if ไม่ใช้ will",
+      "หลังประธาน you ต้องมีกริยาแท้ ไม่ใช่ V-ing",
+      "had liked ใช้กับ conditional แบบ 3 ไม่เข้ากับ will love"
+     ]
+    },
+    {
+     "id": "ENL201-U5-06",
+     "skill": "ENL201-U5",
+     "difficulty": 2,
+     "stem": "Concert review: \"If the tickets were cheaper, more people ___ the show.\"",
+     "options": [
+      "will see",
+      "would see",
+      "see",
+      "seen"
+     ],
+     "answer": 1,
+     "explanation_th": "สมมติไม่จริงในปัจจุบัน (were) ใช้ would + V",
+     "why_wrong": [
+      "will ใช้กับ conditional แบบ 1 ไม่เข้ากับ were",
+      null,
+      "see ไม่มี would เลยไม่เป็นการสมมติ",
+      "seen เป็น V3 ต้องมีกริยาช่วยนำหน้า"
+     ]
+    },
+    {
+     "id": "ENL201-U5-07",
+     "skill": "ENL201-U5",
+     "difficulty": 2,
+     "stem": "Delivery review: \"The food was cold when it arrived. The restaurant ___ it more quickly.\"",
+     "options": [
+      "should deliver",
+      "must have delivered",
+      "should have delivered",
+      "should delivered"
+     ],
+     "answer": 2,
+     "explanation_th": "ติสิ่งที่ควรทำแต่ไม่ได้ทำในอดีต ใช้ should have + V3",
+     "why_wrong": [
+      "should deliver ใช้กับปัจจุบันหรืออนาคต ไม่ใช่สิ่งที่ผ่านไปแล้ว",
+      "must have delivered แปลว่าคงส่งเร็วแน่ ๆ ขัดกับอาหารเย็น",
+      null,
+      "หลัง should ต้องเป็นกริยาช่อง 1 หรือ have + V3"
+     ]
+    },
+    {
+     "id": "ENL201-U5-08",
+     "skill": "ENL201-U5",
+     "difficulty": 2,
+     "stem": "Review: \"(1) I stayed at the Sunrise Hotel for two nights. (2) The room was more bigger than I expected. (3) The breakfast was delicious. (4) I would happily stay there again.\" Which sentence has a grammar error?",
+     "options": [
+      "Sentence 1",
+      "Sentence 2",
+      "Sentence 3",
+      "Sentence 4"
+     ],
+     "answer": 1,
+     "explanation_th": "ประโยค 2 ใช้ more คู่กับ bigger ซ้ำซ้อน ต้องเป็น bigger than",
+     "why_wrong": [
+      "stayed ... for two nights ถูกต้อง",
+      null,
+      "was delicious ถูกต้อง",
+      "would happily stay ถูกต้อง"
+     ]
+    },
+    {
+     "id": "ENL201-U5-09",
+     "skill": "ENL201-U5",
+     "difficulty": 2,
+     "stem": "Film review: \"The film was ___ that I fell asleep halfway through.\"",
+     "options": [
+      "such boring",
+      "too boring",
+      "so bored",
+      "so boring"
+     ],
+     "answer": 3,
+     "explanation_th": "so + คุณศัพท์ + that บอกผล และหนังเป็นสิ่งที่น่าเบื่อจึงใช้ boring",
+     "why_wrong": [
+      "such ต้องตามด้วยคำนาม เช่น such a boring film",
+      "too ... that ไม่ใช่โครงสร้างถูกต้อง too ใช้กับ to + V",
+      "bored บอกความรู้สึกของคน ไม่ใช่ลักษณะของหนัง",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "This is the best noodle shop I have ever tried.",
+    "If you like spicy food, you will love this place.",
+    "The restaurant should have delivered it faster."
+   ],
+   "task_th": "เขียนรีวิว 5 ประโยคเกี่ยวกับร้านอาหาร แอป หรือหนังที่ชอบ ต้องมีขั้นกว่า 1 ขั้นสูงสุด 1 กริยาวิเศษณ์ขยายคุณศัพท์ 1 ประโยค if 1 และ should have + V3 1 แล้วตรวจคำ -ing / -ed ด้วยตัวเอง"
+  },
+  {
+   "id": "ENL201-U6",
+   "title_th": "ตรวจหาที่ผิดในข้อความ",
+   "title_en": "Proofreading short texts",
+   "covers": "ผ่านการอ่านและการเขียน",
+   "minutes": 15,
+   "lessons": [
+    "L04",
+    "L05",
+    "L08",
+    "L17"
+   ],
+   "cards": [
+    {
+     "title_th": "ตรวจทีละเรื่อง ไม่ใช่ทีละคำ",
+     "body_th": "อ่านรอบแรกดูกริยากับประธาน รอบสองดู pronoun รอบสามดู article และคำนามเอกพจน์พหูพจน์ แยกรอบจะเจอที่ผิดมากกว่าอ่านรวดเดียว"
+    },
+    {
+     "title_th": "Pronoun ตามตำแหน่ง",
+     "body_th": "หน้ากริยาใช้รูปประธาน (I, she) หลังกริยาหรือบุพบทใช้รูปกรรม (me, her) ทำเองใช้ -self",
+     "example": "Pim and I went. / The teacher gave it to Ton and me."
+    },
+    {
+     "title_th": "คู่ขนาน (parallel)",
+     "body_th": "สิ่งที่เชื่อมด้วย and / or ต้องเป็นรูปเดียวกัน",
+     "example": "She checks emails, drinks coffee, and walks to campus."
+    },
+    {
+     "title_th": "อย่าแก้สิ่งที่ถูกอยู่แล้ว",
+     "body_th": "ก่อนแก้ ให้บอกได้ว่าผิดเพราะกฎข้อไหน ถ้าบอกไม่ได้ อาจไม่ผิด"
+    }
+   ],
+   "vocab": [
+    [
+     "proofread",
+     "ตรวจทานหาที่ผิด"
+    ],
+    [
+     "error",
+     "ข้อผิดพลาด"
+    ],
+    [
+     "correct",
+     "แก้ให้ถูก / ถูกต้อง"
+    ],
+    [
+     "pronoun",
+     "คำสรรพนาม"
+    ],
+    [
+     "singular",
+     "เอกพจน์"
+    ],
+    [
+     "plural",
+     "พหูพจน์"
+    ],
+    [
+     "parallel structure",
+     "โครงสร้างคู่ขนาน"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL201-U6-01",
+     "skill": "ENL201-U6",
+     "difficulty": 1,
+     "stem": "Text: \"My brother and I shares a small room. It is bright and quiet.\" Which word is wrong?",
+     "options": [
+      "room",
+      "bright",
+      "shares",
+      "quiet"
+     ],
+     "answer": 2,
+     "explanation_th": "ประธาน My brother and I เป็นพหูพจน์ กริยาต้องเป็น share",
+     "why_wrong": [
+      "room เป็นคำนามเอกพจน์ถูกต้องหลัง a small",
+      "bright เป็นคุณศัพท์หลัง is ถูกต้อง",
+      null,
+      "quiet เป็นคุณศัพท์หลัง is ถูกต้อง"
+     ]
+    },
+    {
+     "id": "ENL201-U6-02",
+     "skill": "ENL201-U6",
+     "difficulty": 1,
+     "stem": "Text: \"Every morning, Nan checks her emails, drinks coffee, and ___ to campus.\"",
+     "options": [
+      "walks",
+      "walking",
+      "to walk",
+      "walked"
+     ],
+     "answer": 0,
+     "explanation_th": "คู่ขนานกับ checks และ drinks จึงต้องเป็น walks",
+     "why_wrong": [
+      null,
+      "walking ไม่ขนานกับ checks, drinks",
+      "to walk ไม่ขนานกับกริยาแท้ตัวอื่น",
+      "walked เป็นอดีต แต่ every morning และกริยาอื่นเป็นปัจจุบัน"
+     ]
+    },
+    {
+     "id": "ENL201-U6-03",
+     "skill": "ENL201-U6",
+     "difficulty": 1,
+     "stem": "Text: \"Pim and ___ went to the library together after class.\"",
+     "options": [
+      "me",
+      "I",
+      "myself",
+      "mine"
+     ],
+     "answer": 1,
+     "explanation_th": "อยู่ในส่วนประธานหน้ากริยา went ใช้รูปประธาน I",
+     "why_wrong": [
+      "me เป็นรูปกรรม ใช้เป็นประธานไม่ได้",
+      null,
+      "myself ใช้เมื่อประธานกับกรรมเป็นคนเดียวกัน",
+      "mine แปลว่าของฉัน ไม่ใช่ตัวฉัน"
+     ]
+    },
+    {
+     "id": "ENL201-U6-04",
+     "skill": "ENL201-U6",
+     "difficulty": 2,
+     "stem": "Text: \"The teacher gave the handouts to Ton and ___.\"",
+     "options": [
+      "I",
+      "myself",
+      "me",
+      "mine"
+     ],
+     "answer": 2,
+     "explanation_th": "หลังบุพบท to ใช้รูปกรรม me",
+     "why_wrong": [
+      "I เป็นรูปประธาน ใช้หลังบุพบทไม่ได้",
+      "myself ใช้เมื่อผู้ทำกับผู้รับเป็นคนเดียวกัน แต่ผู้ให้คือ teacher",
+      null,
+      "mine แปลว่าของฉัน ไม่ใช่ตัวฉัน"
+     ]
+    },
+    {
+     "id": "ENL201-U6-05",
+     "skill": "ENL201-U6",
+     "difficulty": 2,
+     "stem": "Text: \"I bought an umbrella yesterday. An umbrella is blue and very light.\" What is the best correction?",
+     "options": [
+      "Change \"An umbrella is\" to \"The umbrella is\".",
+      "Change \"an umbrella yesterday\" to \"the umbrella yesterday\".",
+      "Change \"is\" to \"are\".",
+      "Change \"very\" to \"much\"."
+     ],
+     "answer": 0,
+     "explanation_th": "ร่มคันเดิมถูกพูดถึงครั้งที่สอง ต้องใช้ The",
+     "why_wrong": [
+      null,
+      "ครั้งแรกที่พูดถึงร่ม ใช้ an ถูกแล้ว",
+      "umbrella เป็นเอกพจน์ ใช้ is ถูกแล้ว",
+      "very ขยายคุณศัพท์ light ถูกแล้ว much ขยายคุณศัพท์ธรรมดาไม่ได้"
+     ]
+    },
+    {
+     "id": "ENL201-U6-06",
+     "skill": "ENL201-U6",
+     "difficulty": 2,
+     "stem": "Job ad: \"We need someone who is friendly, careful, and ___.\"",
+     "options": [
+      "works hard",
+      "hard-working",
+      "working hardly",
+      "to work hard"
+     ],
+     "answer": 1,
+     "explanation_th": "คู่ขนานกับคุณศัพท์ friendly, careful จึงใช้คุณศัพท์ hard-working",
+     "why_wrong": [
+      "works hard เป็นกริยา ไม่ขนานกับคุณศัพท์",
+      null,
+      "hardly แปลว่าแทบไม่ ความหมายผิด และไม่ขนาน",
+      "to work hard เป็น infinitive ไม่ขนานกับคุณศัพท์"
+     ]
+    },
+    {
+     "id": "ENL201-U6-07",
+     "skill": "ENL201-U6",
+     "difficulty": 2,
+     "stem": "Text: \"(1) Our class has 30 students. (2) Most of them live in Pathum Thani. (3) They take the train or the bus. (4) The trip take about an hour.\" Which sentence has a grammar error?",
+     "options": [
+      "Sentence 1",
+      "Sentence 2",
+      "Sentence 3",
+      "Sentence 4"
+     ],
+     "answer": 3,
+     "explanation_th": "ประโยค 4 ประธาน The trip เป็นเอกพจน์ ต้องใช้ takes",
+     "why_wrong": [
+      "Our class has ถูกต้อง class เป็นเอกพจน์",
+      "Most of them live ถูกต้อง them เป็นพหูพจน์",
+      "They take ถูกต้อง",
+      null
+     ]
+    },
+    {
+     "id": "ENL201-U6-08",
+     "skill": "ENL201-U6",
+     "difficulty": 1,
+     "stem": "Text: \"Nobody helped Fai with the poster. She made it ___.\"",
+     "options": [
+      "her",
+      "hers",
+      "she",
+      "herself"
+     ],
+     "answer": 3,
+     "explanation_th": "ทำเองคนเดียว ใช้ reflexive herself",
+     "why_wrong": [
+      "her เป็นรูปกรรม ไม่ได้แปลว่าด้วยตัวเอง",
+      "hers แปลว่าของเธอ",
+      "she เป็นรูปประธาน ใช้ท้ายประโยคแบบนี้ไม่ได้",
+      null
+     ]
+    },
+    {
+     "id": "ENL201-U6-09",
+     "skill": "ENL201-U6",
+     "difficulty": 1,
+     "stem": "Teacher's comment: \"There ___ two small mistakes in your paragraph.\"",
+     "options": [
+      "is",
+      "are",
+      "be",
+      "has"
+     ],
+     "answer": 1,
+     "explanation_th": "There + be ผันตามคำนามที่ตามมา two mistakes เป็นพหูพจน์ จึงใช้ are",
+     "why_wrong": [
+      "is ใช้กับนามเอกพจน์",
+      null,
+      "be ต้องผันตามคำนาม",
+      "There ไม่ใช้กับ has ในความหมายมีอยู่"
+     ]
+    }
+   ],
+   "say": [
+    "I always check my verbs first.",
+    "My brother and I share a room.",
+    "The teacher gave the handouts to Ton and me."
+   ],
+   "task_th": "เอางานเขียนภาษาอังกฤษเก่าของตัวเอง (โพสต์ แคปชัน หรือการบ้าน) มา 1 ย่อหน้า ตรวจ 3 รอบ: รอบ 1 ประธานกับกริยา รอบ 2 pronoun รอบ 3 a / an / the จดที่ผิดที่เจอพร้อมกฎที่ใช้แก้"
+  },
+  {
+   "id": "ENL201-U7",
+   "title_th": "แก้และเรียบเรียงย่อหน้า",
+   "title_en": "Editing a paragraph",
+   "covers": "การเขียน",
+   "minutes": 15,
+   "lessons": [
+    "L09",
+    "L10",
+    "L11",
+    "L17",
+    "L18"
+   ],
+   "cards": [
+    {
+     "title_th": "รวมประโยคสั้นให้ลื่น",
+     "body_th": "ประโยคสั้นติดกันหลายประโยคอ่านแล้วกระตุก ใช้คำเชื่อม (but, so, because) หรือ relative clause (who, which) รวมให้เป็นประโยคเดียว",
+     "example": "I met a student. She speaks four languages. → I met a student who speaks four languages."
+    },
+    {
+     "title_th": "ห้ามใช้จุลภาคเชื่อมสองประโยค",
+     "body_th": "สองประโยคเต็มต่อกันด้วยจุลภาคเฉย ๆ ผิด (comma splice) ต้องใส่คำเชื่อม หรือแยกเป็นสองประโยค",
+     "example": "The library is quiet, so it is a good place to study."
+    },
+    {
+     "title_th": "However ขึ้นต้นประโยคใหม่",
+     "body_th": "However, Therefore ใช้ขึ้นประโยคใหม่แล้วตามด้วยจุลภาค ส่วน Although ใช้เชื่อมในประโยคเดียว"
+    },
+    {
+     "title_th": "สำนวนในอีเมลต้องจำทั้งก้อน",
+     "body_th": "Thank you for + noun / V-ing, I look forward to + V-ing, or = ไม่อย่างนั้น",
+     "example": "I look forward to hearing from you."
+    }
+   ],
+   "vocab": [
+    [
+     "edit",
+     "แก้ไข เรียบเรียง"
+    ],
+    [
+     "combine",
+     "รวม"
+    ],
+    [
+     "comma splice",
+     "การใช้จุลภาคเชื่อมสองประโยคผิด ๆ"
+    ],
+    [
+     "flow",
+     "ความลื่นไหล"
+    ],
+    [
+     "linker",
+     "คำเชื่อม"
+    ],
+    [
+     "contrast",
+     "ความขัดแย้ง"
+    ],
+    [
+     "result",
+     "ผล"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL201-U7-01",
+     "skill": "ENL201-U7",
+     "difficulty": 1,
+     "stem": "Combine: \"I wanted to join the club. I was too busy.\" Which is the best combined sentence?",
+     "options": [
+      "I wanted to join the club, so I was too busy.",
+      "I wanted to join the club, or I was too busy.",
+      "I wanted to join the club, therefore I was too busy.",
+      "I wanted to join the club, but I was too busy."
+     ],
+     "answer": 3,
+     "explanation_th": "อยากเข้าแต่ไม่ว่าง เป็นความขัดแย้ง ใช้ but",
+     "why_wrong": [
+      "so ทำให้ความหมายว่าอยากเข้าชมรมจึงไม่ว่าง ไม่สมเหตุสมผล",
+      "or เสนอทางเลือก ไม่ใช่ความขัดแย้ง",
+      "therefore บอกผล ความหมายผิด และใช้จุลภาคเชื่อมผิดรูปแบบ",
+      null
+     ]
+    },
+    {
+     "id": "ENL201-U7-02",
+     "skill": "ENL201-U7",
+     "difficulty": 1,
+     "stem": "Combine: \"I met a student. She speaks four languages.\"",
+     "options": [
+      "I met a student who speaks four languages.",
+      "I met a student which speaks four languages.",
+      "I met a student whose speaks four languages.",
+      "I met a student who she speaks four languages."
+     ],
+     "answer": 0,
+     "explanation_th": "who แทน a student และเป็นประธานของ speaks",
+     "why_wrong": [
+      null,
+      "which ใช้กับสิ่งของ ไม่ใช่คน",
+      "whose ต้องตามด้วยคำนาม",
+      "มี who แทนประธานแล้ว ไม่ต้องมี she ซ้ำ"
+     ]
+    },
+    {
+     "id": "ENL201-U7-03",
+     "skill": "ENL201-U7",
+     "difficulty": 1,
+     "stem": "Email: \"Thank you ___ your quick reply.\"",
+     "options": [
+      "to",
+      "about",
+      "for",
+      "with"
+     ],
+     "answer": 2,
+     "explanation_th": "สำนวนตายตัว Thank you for + noun",
+     "why_wrong": [
+      "Thank you to ใช้เมื่อขอบคุณบุคคลในรูปอื่น ไม่ใช่ตามด้วยสิ่งที่ขอบคุณ",
+      "ไม่ใช้ about กับ thank you",
+      null,
+      "ไม่ใช้ with กับ thank you"
+     ]
+    },
+    {
+     "id": "ENL201-U7-04",
+     "skill": "ENL201-U7",
+     "difficulty": 2,
+     "stem": "Email ending: \"I look forward to ___ from you.\"",
+     "options": [
+      "hear",
+      "heard",
+      "hearing",
+      "be hearing"
+     ],
+     "answer": 2,
+     "explanation_th": "look forward to ตามด้วย V-ing เพราะ to ในสำนวนนี้เป็นบุพบท",
+     "why_wrong": [
+      "to ในสำนวนนี้เป็นบุพบท ต้องตามด้วย V-ing",
+      "heard เป็นอดีต/V3",
+      null,
+      "be hearing ไม่ใช่รูปที่ใช้หลังบุพบท"
+     ]
+    },
+    {
+     "id": "ENL201-U7-05",
+     "skill": "ENL201-U7",
+     "difficulty": 2,
+     "stem": "Paragraph: \"Social media helps students share ideas. ___, it can also waste a lot of time.\"",
+     "options": [
+      "Although",
+      "Because",
+      "Despite",
+      "However"
+     ],
+     "answer": 3,
+     "explanation_th": "ประโยคที่สองขัดแย้งกับประโยคแรก และขึ้นประโยคใหม่ตามด้วยจุลภาค จึงใช้ However",
+     "why_wrong": [
+      "Although ต้องเชื่อมสองส่วนในประโยคเดียว ไม่ขึ้นต้นด้วยจุลภาคตามหลังแบบนี้",
+      "Because บอกเหตุ ไม่ใช่ความขัดแย้ง",
+      "Despite ต้องตามด้วยคำนาม",
+      null
+     ]
+    },
+    {
+     "id": "ENL201-U7-06",
+     "skill": "ENL201-U7",
+     "difficulty": 2,
+     "stem": "Message: \"Bring an umbrella, ___ you will get wet. It is going to rain.\"",
+     "options": [
+      "and",
+      "or",
+      "so",
+      "but"
+     ],
+     "answer": 1,
+     "explanation_th": "or = ไม่อย่างนั้น ถ้าไม่เอาร่มไปจะเปียก",
+     "why_wrong": [
+      "and ทำให้ความหมายว่าเอาร่มแล้วจะเปียก ไม่สมเหตุสมผล",
+      null,
+      "so ทำให้ความหมายว่าเอาร่มเพราะฉะนั้นจะเปียก ไม่สมเหตุสมผล",
+      "but ไม่สื่อความหมายว่าไม่อย่างนั้น"
+     ]
+    },
+    {
+     "id": "ENL201-U7-07",
+     "skill": "ENL201-U7",
+     "difficulty": 2,
+     "stem": "Which is the best edit of \"The library is quiet, it is a good place to study.\"?",
+     "options": [
+      "The library is quiet, so it is a good place to study.",
+      "The library is quiet it is a good place to study.",
+      "The library is quiet, because it is a good place to study.",
+      "The library quiet, so it is a good place to study."
+     ],
+     "answer": 0,
+     "explanation_th": "เดิมเป็น comma splice ใส่ so เชื่อมเหตุ (เงียบ) กับผล (เหมาะกับการอ่าน)",
+     "why_wrong": [
+      null,
+      "ไม่มีอะไรคั่นเลย ผิดหนักกว่าเดิม (run-on)",
+      "because กลับเหตุและผล เงียบไม่ได้เกิดจากการเป็นที่อ่านหนังสือ",
+      "ขาดกริยา is ในส่วนแรก"
+     ]
+    },
+    {
+     "id": "ENL201-U7-08",
+     "skill": "ENL201-U7",
+     "difficulty": 1,
+     "stem": "Paragraph: \"In my free time, I like reading, cooking, and ___.\"",
+     "options": [
+      "swim",
+      "to swim",
+      "swimming",
+      "swam"
+     ],
+     "answer": 2,
+     "explanation_th": "คู่ขนานกับ reading, cooking จึงใช้ swimming",
+     "why_wrong": [
+      "swim ไม่ขนานกับ V-ing ตัวอื่น",
+      "to swim ไม่ขนานกับ V-ing ตัวอื่น",
+      null,
+      "swam เป็นอดีต ไม่ขนาน"
+     ]
+    },
+    {
+     "id": "ENL201-U7-09",
+     "skill": "ENL201-U7",
+     "difficulty": 2,
+     "stem": "Paragraph: \"___ you practise a little every day, your writing will improve.\"",
+     "options": [
+      "Unless",
+      "If",
+      "Whether",
+      "Despite"
+     ],
+     "answer": 1,
+     "explanation_th": "ฝึกทุกวันเป็นเงื่อนไข งานเขียนดีขึ้นเป็นผล ใช้ If",
+     "why_wrong": [
+      "Unless = ถ้าไม่ ทำให้ความหมายว่าถ้าไม่ฝึกจะดีขึ้น ไม่สมเหตุสมผล",
+      null,
+      "Whether ต้องมี or not หรือทางเลือก และไม่ใช้แบบนี้",
+      "Despite ต้องตามด้วยคำนาม"
+     ]
+    }
+   ],
+   "say": [
+    "I met a student who speaks four languages.",
+    "Thank you for your quick reply.",
+    "I look forward to hearing from you."
+   ],
+   "task_th": "เขียนประโยคสั้น ๆ 6 ประโยคเกี่ยวกับวันของตัวเอง (ประโยคละ 5 ถึง 7 คำ) แล้วแก้ให้เหลือ 3 ประโยคโดยใช้ but / so / because 1 คำ และ who หรือ which 1 คำ อ่านออกเสียงทั้งสองเวอร์ชันเทียบกัน"
+  }
+ ]
+}

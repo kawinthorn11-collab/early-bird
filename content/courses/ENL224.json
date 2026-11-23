@@ -1,0 +1,1806 @@
+{
+ "code": "ENL224",
+ "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+ "in_class_th": [
+  "น่าจะได้เขียนเรียงความหลายประเภท และส่งเป็นฉบับร่างหลายรอบ เช่น ร่างแรก ร่างที่สอง และฉบับสมบูรณ์",
+  "อาจต้องส่งโครงร่าง (outline) ก่อนเขียนจริง และได้รับความเห็นจากอาจารย์หรือเพื่อน (peer review)",
+  "คาดว่าจะมีการเขียนเรียงความในห้องแบบจับเวลา (timed writing) อย่างน้อยหนึ่งครั้ง",
+  "น่าจะมีกติกาเรื่องการลอกเลียนผลงาน การใช้เครื่องมือ AI และการอ้างอิงแหล่ง ซึ่งน่าจะต่อยอดจาก ENL181",
+  "เพราะวิชานี้ต้องเรียน ENL222 ก่อน อาจารย์น่าจะคาดว่าคุณเขียนย่อหน้าที่มีประโยคใจความและคำเชื่อมได้แล้ว"
+ ],
+ "units": [
+  {
+   "id": "ENL224-U1",
+   "title_th": "กระบวนการเขียน การเตรียมความคิด และโครงร่าง",
+   "title_en": "The Writing Process, Prewriting and Outlining",
+   "covers": "กระบวนการเขียนเรียงความ",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "เรียงความคืออะไร",
+     "body_th": "เรียงความ (essay) คือหลายย่อหน้าที่ช่วยกันพิสูจน์ความคิดหลักเดียว (thesis) แบบที่ฝึกบ่อยคือเรียงความ 5 ย่อหน้า บทนำ 1 เนื้อเรื่อง 3 สรุป 1"
+    },
+    {
+     "title_th": "5 ขั้นของการเขียน",
+     "body_th": "เตรียมความคิด (prewriting) ทำโครงร่าง (outlining) เขียนร่าง (drafting) ปรับเนื้อหา (revising) แก้ภาษา (editing) แล้วจึงได้ฉบับสมบูรณ์"
+    },
+    {
+     "title_th": "เทคนิคเตรียมความคิด",
+     "body_th": "ระดมความคิด (brainstorming) จดทุกอย่างที่นึกได้ / เขียนอิสระ (freewriting) เขียนไม่หยุด 5 ถึง 10 นาทีโดยไม่สนไวยากรณ์ / แผนผังความคิด (clustering) วงหัวข้อไว้กลางแล้วโยงเส้นออก / ถามตัวเองด้วย Who, What, Why, How"
+    },
+    {
+     "title_th": "จำกัดหัวข้อให้แคบ",
+     "body_th": "หัวข้อกว้างเขียนไม่จบใน 5 ย่อหน้า ค่อย ๆ บีบให้แคบลง",
+     "example": "Technology → Smartphones and students → Three ways smartphones help first-year students study"
+    },
+    {
+     "title_th": "โครงร่าง (outline)",
+     "body_th": "วางลำดับก่อนเขียนจริง ช่วยเช็กว่าทุกย่อหน้าสนับสนุน thesis",
+     "example": "I. Introduction + thesis / II. Body 1 / III. Body 2 / IV. Body 3 / V. Conclusion"
+    }
+   ],
+   "vocab": [
+    [
+     "essay",
+     "เรียงความ"
+    ],
+    [
+     "prewriting",
+     "การเตรียมความคิดก่อนเขียน"
+    ],
+    [
+     "brainstorming",
+     "การระดมความคิด"
+    ],
+    [
+     "freewriting",
+     "การเขียนอิสระ"
+    ],
+    [
+     "clustering (mind mapping)",
+     "การทำแผนผังความคิด"
+    ],
+    [
+     "outline",
+     "โครงร่าง"
+    ],
+    [
+     "draft",
+     "ฉบับร่าง"
+    ],
+    [
+     "narrow down",
+     "จำกัดให้แคบลง"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL224-U1-01",
+     "skill": "ENL224-U1",
+     "difficulty": 1,
+     "stem": "Which is the usual order of the writing process?",
+     "options": [
+      "prewriting, outlining, drafting, revising, editing",
+      "drafting, editing, prewriting, outlining, revising",
+      "editing, drafting, revising, outlining, prewriting",
+      "outlining, prewriting, editing, drafting, revising"
+     ],
+     "answer": 0,
+     "explanation_th": "คิดก่อน วางโครง เขียนร่าง ปรับเนื้อหา แล้วแก้ภาษา",
+     "why_wrong": [
+      null,
+      "เขียนร่างก่อนเตรียมความคิดและวางโครง ลำดับกลับหัว",
+      "แก้ภาษาก่อนมีงานให้แก้ไม่ได้",
+      "ต้องมีความคิดก่อนจึงทำโครงร่างได้"
+     ]
+    },
+    {
+     "id": "ENL224-U1-02",
+     "skill": "ENL224-U1",
+     "difficulty": 1,
+     "stem": "In freewriting, you ____.",
+     "options": [
+      "check every comma before you continue",
+      "copy sentences from a website",
+      "write nonstop for a few minutes without worrying about grammar",
+      "write only the final title"
+     ],
+     "answer": 2,
+     "explanation_th": "freewriting คือเขียนให้ความคิดไหลออกมาโดยยังไม่ตัดสิน",
+     "why_wrong": [
+      "การหยุดเช็กไวยากรณ์ขัดกับจุดประสงค์ของการเขียนอิสระ",
+      "เป็นการลอก ไม่ใช่การหาความคิดของตัวเอง",
+      null,
+      "การเขียนอิสระคือเขียนต่อเนื่องเพื่อหาความคิด ไม่ใช่เขียนแค่ชื่อเรื่อง"
+     ]
+    },
+    {
+     "id": "ENL224-U1-03",
+     "skill": "ENL224-U1",
+     "difficulty": 2,
+     "stem": "Which prewriting technique puts the topic in a circle in the middle and connects ideas around it?",
+     "options": [
+      "freewriting",
+      "clustering (mind mapping)",
+      "editing",
+      "proofreading"
+     ],
+     "answer": 1,
+     "explanation_th": "clustering วางหัวข้อไว้กลางแล้วแตกความคิดออกเป็นกิ่ง",
+     "why_wrong": [
+      "เป็นการเขียนเป็นประโยคต่อเนื่อง ไม่ได้วาดวงกลมโยงเส้น",
+      null,
+      "เป็นขั้นแก้ภาษาท้ายกระบวนการ ไม่ใช่เทคนิคเตรียมความคิด",
+      "เป็นการตรวจคำผิดก่อนส่ง ไม่ใช่การหาความคิด"
+     ]
+    },
+    {
+     "id": "ENL224-U1-04",
+     "skill": "ENL224-U1",
+     "difficulty": 2,
+     "stem": "Which topic is narrow enough for a five-paragraph essay?",
+     "options": [
+      "Friendship",
+      "The history of friendship around the world",
+      "Everything about university life",
+      "Three ways first-year students can make friends on campus"
+     ],
+     "answer": 3,
+     "explanation_th": "จำกัดทั้งกลุ่มคน สถานที่ และจำนวนประเด็น พอดีกับ 3 ย่อหน้าเนื้อเรื่อง",
+     "why_wrong": [
+      "กว้างมาก ไม่รู้จะพูดในมุมไหน",
+      "กว้างเกินกว่าจะเขียนใน 5 ย่อหน้า",
+      "คำว่า everything กว้างเกินไป",
+      null
+     ]
+    },
+    {
+     "id": "ENL224-U1-05",
+     "skill": "ENL224-U1",
+     "difficulty": 2,
+     "stem": "What is the main purpose of an outline?",
+     "options": [
+      "to plan the order of ideas before writing the draft",
+      "to check spelling at the end",
+      "to make the essay longer",
+      "to list the sources in APA style"
+     ],
+     "answer": 0,
+     "explanation_th": "โครงร่างช่วยวางลำดับความคิดและเช็กว่าทุกส่วนสนับสนุน thesis",
+     "why_wrong": [
+      null,
+      "นั่นคือการตรวจทานภาษา (editing)",
+      "โครงร่างช่วยจัดลำดับ ไม่ได้มีไว้เพิ่มความยาว",
+      "นั่นคือรายการอ้างอิง (reference list)"
+     ]
+    },
+    {
+     "id": "ENL224-U1-06",
+     "skill": "ENL224-U1",
+     "difficulty": 1,
+     "stem": "In a five-paragraph essay, how many body paragraphs are there?",
+     "options": [
+      "one",
+      "five",
+      "two",
+      "three"
+     ],
+     "answer": 3,
+     "explanation_th": "บทนำ 1 เนื้อเรื่อง 3 สรุป 1",
+     "why_wrong": [
+      "น้อยเกินไป 5 ย่อหน้าลบบทนำกับสรุปเหลือ 3",
+      "ทั้งเรียงความมี 5 ย่อหน้า แต่รวมบทนำกับสรุปแล้ว",
+      "5 ลบ 2 ได้ 3 ไม่ใช่ 2",
+      null
+     ]
+    },
+    {
+     "id": "ENL224-U1-07",
+     "skill": "ENL224-U1",
+     "difficulty": 3,
+     "stem": "Outline: I. Introduction (thesis: Living in a dorm helps first-year students in three ways.) II. It saves travel time. III. ____ IV. It helps students make friends. V. Conclusion. Which point fits best in III?",
+     "options": [
+      "Dorm rooms near campus can be expensive.",
+      "It teaches students to manage their own money.",
+      "My cousin lives in a condo.",
+      "Dorms are good, so students should live there."
+     ],
+     "answer": 1,
+     "explanation_th": "thesis บอกว่ามีประโยชน์ 3 ข้อ ข้อ III ต้องเป็นประโยชน์อีกข้อหนึ่ง",
+     "why_wrong": [
+      "เป็นข้อเสีย ไม่สนับสนุน thesis ที่บอกว่าหอช่วยนักศึกษา",
+      null,
+      "เป็นเรื่องส่วนตัวที่ไม่เกี่ยวกับประโยชน์ของหอ",
+      "เป็นการสรุปซ้ำ ไม่ใช่ประโยชน์ข้อใหม่"
+     ]
+    },
+    {
+     "id": "ENL224-U1-08",
+     "skill": "ENL224-U1",
+     "difficulty": 2,
+     "stem": "Which step comes right after you finish your first draft?",
+     "options": [
+      "prewriting",
+      "outlining",
+      "revising",
+      "choosing a topic"
+     ],
+     "answer": 2,
+     "explanation_th": "เขียนร่างเสร็จแล้วกลับไปปรับเนื้อหา (revising)",
+     "why_wrong": [
+      "เป็นขั้นแรกสุด ทำก่อนเขียนร่าง",
+      "ทำก่อนเขียนร่าง ไม่ใช่หลัง",
+      null,
+      "ต้องเลือกหัวข้อตั้งแต่ก่อนเริ่มเขียน"
+     ]
+    },
+    {
+     "id": "ENL224-U1-09",
+     "skill": "ENL224-U1",
+     "difficulty": 1,
+     "stem": "Brainstorming means ____.",
+     "options": [
+      "listing many ideas quickly without judging them",
+      "correcting grammar mistakes",
+      "writing the final copy neatly",
+      "reading the essay aloud to the class"
+     ],
+     "answer": 0,
+     "explanation_th": "brainstorming คือจดความคิดให้มากที่สุดก่อน แล้วค่อยเลือกทีหลัง",
+     "why_wrong": [
+      null,
+      "นั่นคือการแก้ภาษา",
+      "นั่นคือฉบับสมบูรณ์ซึ่งอยู่ท้ายกระบวนการ",
+      "เป็นการนำเสนอหรือตรวจทาน ไม่ใช่การหาความคิด"
+     ]
+    }
+   ],
+   "say": [
+    "First, I brainstorm. Then, I write an outline.",
+    "My topic is too broad, so I will narrow it down.",
+    "A five-paragraph essay has three body paragraphs."
+   ],
+   "task_th": "เลือกหัวข้อกว้าง ๆ 1 เรื่อง เช่น Social media บีบให้แคบลง 3 ขั้นจนเขียนได้ใน 5 ย่อหน้า แล้วเขียนอิสระเรื่องนั้น 5 นาทีโดยไม่หยุด จากนั้นวงความคิดที่ดีที่สุด 3 ข้อ"
+  },
+  {
+   "id": "ENL224-U2",
+   "title_th": "ประโยคใจความหลักของเรียงความ",
+   "title_en": "Thesis Statements",
+   "covers": "กลวิธีและกระบวนการเขียนเรียงความ",
+   "minutes": 13,
+   "cards": [
+    {
+     "title_th": "thesis statement คืออะไร",
+     "body_th": "ประโยคใจความหลักของทั้งเรียงความ บอกหัวข้อและจุดยืนหรือมุมของผู้เขียน มักอยู่ท้ายบทนำ"
+    },
+    {
+     "title_th": "thesis ที่มีแผนที่",
+     "body_th": "บางครั้งบอกประเด็นย่อยไว้เลย ผู้อ่านรู้ทันทีว่าเนื้อเรื่องมีกี่ย่อหน้า เรียงอย่างไร",
+     "example": "Cooking at home is better than eating out because it is cheaper, healthier and more fun."
+    },
+    {
+     "title_th": "thesis กับประโยคใจความ",
+     "body_th": "thesis คุมทั้งเรียงความ ประโยคใจความ (topic sentence) คุมย่อหน้าเดียว ประโยคใจความของแต่ละย่อหน้าเนื้อเรื่องต้องสนับสนุน thesis"
+    },
+    {
+     "title_th": "thesis ที่ใช้ไม่ได้",
+     "body_th": "กว้างไป / เป็นแค่ข้อเท็จจริง / เป็นประโยคประกาศ / เป็นคำถาม",
+     "example": "In this essay, I will talk about social media. (ประกาศ ไม่มีจุดยืน)"
+    },
+    {
+     "title_th": "thesis ฉบับใช้งาน",
+     "body_th": "thesis แรกเรียกว่า working thesis ปรับได้ระหว่างเขียน ถ้าเนื้อเรื่องเปลี่ยนไป ให้กลับไปแก้ thesis ให้ตรงกัน"
+    }
+   ],
+   "vocab": [
+    [
+     "thesis statement",
+     "ประโยคใจความหลักของเรียงความ"
+    ],
+    [
+     "position",
+     "จุดยืน"
+    ],
+    [
+     "main point",
+     "ประเด็นหลัก"
+    ],
+    [
+     "working thesis",
+     "thesis ฉบับใช้งานที่ยังแก้ได้"
+    ],
+    [
+     "announcement",
+     "ประโยคประกาศ"
+    ],
+    [
+     "arguable",
+     "โต้แย้งได้"
+    ],
+    [
+     "focus",
+     "จุดเน้น"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL224-U2-01",
+     "skill": "ENL224-U2",
+     "difficulty": 1,
+     "stem": "Where is the thesis statement usually found?",
+     "options": [
+      "only in the title",
+      "in the middle of the second body paragraph",
+      "at the end of the introduction",
+      "in the reference list"
+     ],
+     "answer": 2,
+     "explanation_th": "บทนำเริ่มกว้างแล้วแคบลงจนจบที่ thesis",
+     "why_wrong": [
+      "ชื่อเรื่องสั้นเกินกว่าจะบอกจุดยืนและประเด็น",
+      "ผู้อ่านต้องรู้ thesis ก่อนอ่านเนื้อเรื่อง",
+      null,
+      "รายการอ้างอิงมีแค่ข้อมูลแหล่ง ไม่มี thesis"
+     ]
+    },
+    {
+     "id": "ENL224-U2-02",
+     "skill": "ENL224-U2",
+     "difficulty": 2,
+     "stem": "Which is the best thesis statement?",
+     "options": [
+      "Part-time jobs.",
+      "I have a part-time job at a cafe.",
+      "In this essay, I will write about part-time jobs.",
+      "Part-time jobs help university students learn time management, teamwork and money skills."
+     ],
+     "answer": 3,
+     "explanation_th": "มีหัวข้อ จุดยืน และประเด็นย่อย 3 ข้อ",
+     "why_wrong": [
+      "เป็นแค่คำนาม ไม่ใช่ประโยคและไม่มีจุดยืน",
+      "เป็นข้อเท็จจริงส่วนตัว ขยายเป็นเรียงความไม่ได้",
+      "เป็นประโยคประกาศ ไม่บอกจุดยืนหรือประเด็น",
+      null
+     ]
+    },
+    {
+     "id": "ENL224-U2-03",
+     "skill": "ENL224-U2",
+     "difficulty": 2,
+     "stem": "Which thesis statement is just a fact?",
+     "options": [
+      "Every student should learn basic first aid.",
+      "Water is made of hydrogen and oxygen.",
+      "Public transport in my city needs three changes.",
+      "Online games can teach useful teamwork skills."
+     ],
+     "answer": 1,
+     "explanation_th": "เป็นข้อเท็จจริงทางวิทยาศาสตร์ ไม่มีอะไรให้โต้แย้ง",
+     "why_wrong": [
+      "มี should เป็นจุดยืนที่โต้แย้งได้",
+      null,
+      "เป็นความเห็นที่มีประเด็นให้ขยาย",
+      "เป็นข้ออ้างที่ต้องพิสูจน์ด้วยเหตุผล"
+     ]
+    },
+    {
+     "id": "ENL224-U2-04",
+     "skill": "ENL224-U2",
+     "difficulty": 2,
+     "stem": "What is wrong with this thesis? 'In this essay, I am going to talk about social media.'",
+     "options": [
+      "It is too specific.",
+      "It announces the topic but gives no position or main points.",
+      "It uses the past tense.",
+      "It has too many main points."
+     ],
+     "answer": 1,
+     "explanation_th": "ประโยคประกาศบอกแค่ว่าจะพูดอะไร ไม่บอกว่าคิดอย่างไร",
+     "why_wrong": [
+      "ตรงกันข้าม ประโยคนี้กว้างมาก",
+      null,
+      "ประโยคนี้ใช้ am going to ซึ่งไม่ใช่อดีต",
+      "ประโยคนี้ไม่มีประเด็นเลยสักข้อ"
+     ]
+    },
+    {
+     "id": "ENL224-U2-05",
+     "skill": "ENL224-U2",
+     "difficulty": 3,
+     "stem": "Thesis: 'Learning a second language helps students in their studies, their careers and their travels.' Which topic sentence fits body paragraph 2?",
+     "options": [
+      "A second language makes travel easier and more fun.",
+      "Learning a second language is hard for adults.",
+      "In conclusion, languages are useful.",
+      "A second language can also open more job opportunities."
+     ],
+     "answer": 3,
+     "explanation_th": "thesis เรียง studies, careers, travels ย่อหน้าที่ 2 จึงพูดเรื่องงาน",
+     "why_wrong": [
+      "เป็นประเด็นที่ 3 (travels) ควรอยู่ย่อหน้าเนื้อเรื่องที่ 3",
+      "ไม่ได้สนับสนุน thesis เรื่องประโยชน์",
+      "เป็นประโยคสรุป ไม่ใช่ประโยคใจความของย่อหน้าเนื้อเรื่อง",
+      null
+     ]
+    },
+    {
+     "id": "ENL224-U2-06",
+     "skill": "ENL224-U2",
+     "difficulty": 2,
+     "stem": "How is a thesis statement different from a topic sentence?",
+     "options": [
+      "A topic sentence controls the whole essay; a thesis controls one paragraph.",
+      "A thesis is always a question.",
+      "A thesis controls the whole essay; a topic sentence controls one paragraph.",
+      "A topic sentence is always longer than a thesis."
+     ],
+     "answer": 2,
+     "explanation_th": "thesis คุมทั้งเรียงความ ประโยคใจความคุมย่อหน้าเดียว",
+     "why_wrong": [
+      "สลับกัน thesis เป็นตัวใหญ่ที่คุมทั้งเรื่อง",
+      "thesis ควรเป็นประโยคบอกเล่าที่มีจุดยืน",
+      null,
+      "ความยาวไม่ใช่สิ่งที่แยก 2 อย่างนี้"
+     ]
+    },
+    {
+     "id": "ENL224-U2-07",
+     "skill": "ENL224-U2",
+     "difficulty": 2,
+     "stem": "Which thesis is too broad for a short essay?",
+     "options": [
+      "Technology has changed the world.",
+      "Using a planner app helped me get better grades in two ways.",
+      "Bangkok should add more bicycle lanes near universities.",
+      "Group projects teach students to solve problems together."
+     ],
+     "answer": 0,
+     "explanation_th": "technology กับ the world กว้างมาก เขียนเป็นหนังสือได้ทั้งเล่ม",
+     "why_wrong": [
+      null,
+      "จำกัดหัวข้อและจำนวนประเด็นพอดี",
+      "จำกัดสถานที่และมีจุดยืนชัด",
+      "มีมุมชัด เขียนใน 5 ย่อหน้าได้"
+     ]
+    },
+    {
+     "id": "ENL224-U2-08",
+     "skill": "ENL224-U2",
+     "difficulty": 3,
+     "stem": "Which thesis statement includes a map of the essay's main points?",
+     "options": [
+      "Cooking at home is better than eating out.",
+      "Cooking at home is better than eating out because it is cheaper, healthier and more fun.",
+      "I like cooking.",
+      "Do you like cooking at home?"
+     ],
+     "answer": 1,
+     "explanation_th": "บอกประเด็น 3 ข้อ cheaper, healthier, more fun ซึ่งเป็นแผนที่ของเนื้อเรื่อง",
+     "why_wrong": [
+      "มีจุดยืน แต่ไม่ได้บอกประเด็นย่อยเลย",
+      null,
+      "เป็นความชอบส่วนตัว ไม่มีประเด็นย่อย",
+      "เป็นคำถาม ไม่ใช่ thesis"
+     ]
+    },
+    {
+     "id": "ENL224-U2-09",
+     "skill": "ENL224-U2",
+     "difficulty": 1,
+     "stem": "A working thesis is ____.",
+     "options": [
+      "a first thesis that you can change while you write",
+      "the final title of the essay",
+      "a sentence copied from your source",
+      "the last sentence of the conclusion"
+     ],
+     "answer": 0,
+     "explanation_th": "working thesis คือ thesis ชั่วคราวที่ปรับได้เมื่อความคิดชัดขึ้น",
+     "why_wrong": [
+      null,
+      "ชื่อเรื่องไม่ใช่ thesis",
+      "thesis ต้องเป็นความคิดของผู้เขียนเอง",
+      "ประโยคสุดท้ายของบทสรุปมักเป็นข้อคิดส่งท้าย"
+     ]
+    }
+   ],
+   "say": [
+    "My thesis statement is at the end of my introduction.",
+    "Each body paragraph supports my thesis.",
+    "This thesis is too broad, so I will narrow it."
+   ],
+   "task_th": "เขียน thesis 3 แบบสำหรับหัวข้อเดียวกัน แบบแรกกว้างเกินไป แบบที่สองเป็นข้อเท็จจริง แบบที่สามดีและมีแผนที่ 3 ประเด็น แล้วเขียนประโยคใจความของย่อหน้าเนื้อเรื่องทั้ง 3 จาก thesis แบบที่สาม"
+  },
+  {
+   "id": "ENL224-U3",
+   "title_th": "บทนำและบทสรุป",
+   "title_en": "Introductions and Conclusions",
+   "covers": "กลวิธีและกระบวนการเขียนเรียงความ",
+   "minutes": 13,
+   "cards": [
+    {
+     "title_th": "บทนำ 3 ส่วน",
+     "body_th": "ประโยคดึงความสนใจ (hook) ข้อมูลพื้นฐาน (background) แล้วจบด้วย thesis รูปทรงเหมือนกรวย (funnel) เริ่มกว้างแล้วแคบลง"
+    },
+    {
+     "title_th": "hook แบบต่าง ๆ",
+     "body_th": "คำถาม / ข้อเท็จจริงหรือตัวเลขที่น่าแปลกใจ / เรื่องเล่าสั้น (anecdote) / คำพูดที่ยกมา (quotation)",
+     "example": "Have you ever slept through an important exam?"
+    },
+    {
+     "title_th": "background",
+     "body_th": "ให้ข้อมูลที่ผู้อ่านต้องรู้ก่อนถึง thesis เช่น นิยามคำ บริบท หรือสถานการณ์ปัจจุบัน"
+    },
+    {
+     "title_th": "บทสรุป",
+     "body_th": "กล่าว thesis ซ้ำด้วยคำใหม่ สรุปประเด็นหลักสั้น ๆ แล้วปิดด้วยข้อคิด คำแนะนำ หรือการคาดการณ์"
+    },
+    {
+     "title_th": "สิ่งที่ห้ามทำในบทสรุป",
+     "body_th": "เปิดประเด็นใหม่ / ลอกบทนำทั้งประโยค / ขอโทษ เช่น I am not an expert"
+    }
+   ],
+   "vocab": [
+    [
+     "introduction",
+     "บทนำ"
+    ],
+    [
+     "hook",
+     "ประโยคดึงความสนใจ"
+    ],
+    [
+     "background information",
+     "ข้อมูลพื้นฐาน"
+    ],
+    [
+     "funnel",
+     "กรวย"
+    ],
+    [
+     "anecdote",
+     "เรื่องเล่าสั้น"
+    ],
+    [
+     "conclusion",
+     "บทสรุป"
+    ],
+    [
+     "restate",
+     "กล่าวซ้ำด้วยคำใหม่"
+    ],
+    [
+     "final thought",
+     "ข้อคิดส่งท้าย"
+    ],
+    [
+     "recommendation",
+     "ข้อเสนอแนะ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL224-U3-01",
+     "skill": "ENL224-U3",
+     "difficulty": 1,
+     "stem": "What is the usual order of an introduction?",
+     "options": [
+      "thesis, hook, background",
+      "background, thesis, hook",
+      "hook, background, thesis",
+      "conclusion, hook, thesis"
+     ],
+     "answer": 2,
+     "explanation_th": "ดึงความสนใจ ให้ข้อมูล แล้วบอกจุดยืน",
+     "why_wrong": [
+      "thesis มักอยู่ท้ายบทนำ ไม่ใช่ต้น",
+      "hook ต้องอยู่ต้นเพื่อดึงความสนใจ",
+      null,
+      "บทนำไม่มีบทสรุปอยู่ข้างใน"
+     ]
+    },
+    {
+     "id": "ENL224-U3-02",
+     "skill": "ENL224-U3",
+     "difficulty": 1,
+     "stem": "What is the job of a hook?",
+     "options": [
+      "to list the sources",
+      "to give the final summary",
+      "to explain every main point in detail",
+      "to catch the reader's interest"
+     ],
+     "answer": 3,
+     "explanation_th": "hook แปลว่าตะขอ ใช้เกี่ยวผู้อ่านให้อยากอ่านต่อ",
+     "why_wrong": [
+      "นั่นคือรายการอ้างอิง",
+      "นั่นคือหน้าที่ของบทสรุป",
+      "รายละเอียดอยู่ในย่อหน้าเนื้อเรื่อง",
+      null
+     ]
+    },
+    {
+     "id": "ENL224-U3-03",
+     "skill": "ENL224-U3",
+     "difficulty": 2,
+     "stem": "Which sentence is a hook that uses a question?",
+     "options": [
+      "Sleep is important.",
+      "This essay is about sleep.",
+      "Have you ever slept through an important exam?",
+      "In conclusion, sleep well."
+     ],
+     "answer": 2,
+     "explanation_th": "เป็นคำถามที่ชวนให้ผู้อ่านนึกถึงประสบการณ์ตัวเอง",
+     "why_wrong": [
+      "เป็นประโยคบอกเล่าธรรมดา ไม่ใช่คำถาม",
+      "เป็นประโยคประกาศ ไม่น่าสนใจและไม่ใช่คำถาม",
+      null,
+      "เป็นประโยคสรุป ไม่ใช่ hook"
+     ]
+    },
+    {
+     "id": "ENL224-U3-04",
+     "skill": "ENL224-U3",
+     "difficulty": 2,
+     "stem": "Which is the best background sentence for an essay about stress in first-year students?",
+     "options": [
+      "Have you ever felt stressed?",
+      "In conclusion, students should exercise and talk to friends.",
+      "My favorite color is blue.",
+      "Many first-year students move away from home and face new classes, new friends and new rules at the same time."
+     ],
+     "answer": 3,
+     "explanation_th": "อธิบายสถานการณ์ที่ทำให้นักศึกษาปี 1 เครียด เตรียมผู้อ่านก่อนถึง thesis",
+     "why_wrong": [
+      "เป็น hook แบบคำถาม ไม่ใช่ข้อมูลพื้นฐาน",
+      "เป็นประโยคสรุป",
+      "ไม่เกี่ยวกับความเครียดเลย",
+      null
+     ]
+    },
+    {
+     "id": "ENL224-U3-05",
+     "skill": "ENL224-U3",
+     "difficulty": 2,
+     "stem": "A good conclusion ____.",
+     "options": [
+      "restates the thesis in new words and gives a final thought",
+      "adds a new main point that was not in the body",
+      "copies the introduction word for word",
+      "starts with 'I am not an expert, so this may be wrong.'"
+     ],
+     "answer": 0,
+     "explanation_th": "บทสรุปย้ำ thesis ด้วยคำใหม่และปิดด้วยข้อคิด",
+     "why_wrong": [
+      null,
+      "ประเด็นใหม่ในบทสรุปไม่มีที่ให้อธิบาย ทำให้ผู้อ่านสับสน",
+      "การลอกบทนำทำให้น่าเบื่อและไม่ได้สรุปอะไรเพิ่ม",
+      "การขอโทษทำให้งานดูไม่น่าเชื่อถือ"
+     ]
+    },
+    {
+     "id": "ENL224-U3-06",
+     "skill": "ENL224-U3",
+     "difficulty": 2,
+     "stem": "Which is the best final sentence for an essay about saving money?",
+     "options": [
+      "Also, my phone screen is broken.",
+      "If students start with small steps today, they will thank themselves in the future.",
+      "Saving.",
+      "In my next essay, I will explain how to cook rice."
+     ],
+     "answer": 1,
+     "explanation_th": "เป็นข้อคิดส่งท้ายที่เกี่ยวกับการออมและชวนให้ลงมือทำ",
+     "why_wrong": [
+      "เป็นเรื่องใหม่ที่ไม่เกี่ยวกับการออม",
+      null,
+      "เป็นแค่คำเดียว ไม่ใช่ประโยค",
+      "เปิดเรื่องใหม่ที่ไม่เกี่ยวกับเรียงความนี้"
+     ]
+    },
+    {
+     "id": "ENL224-U3-07",
+     "skill": "ENL224-U3",
+     "difficulty": 3,
+     "stem": "Which hook is an anecdote (a short story)?",
+     "options": [
+      "What makes a good friend?",
+      "'Practice makes perfect,' as the saying goes.",
+      "Last year, my friend Nan missed her first class because she got on the wrong BTS train.",
+      "Many students feel nervous on the first day."
+     ],
+     "answer": 2,
+     "explanation_th": "เล่าเหตุการณ์สั้น ๆ ที่เกิดกับคนจริง มีเวลา สถานที่ และเรื่องที่เกิด",
+     "why_wrong": [
+      "เป็น hook แบบคำถาม",
+      "เป็น hook แบบยกคำพูดหรือสำนวน",
+      null,
+      "เป็นข้อความทั่วไป ไม่ใช่เรื่องเล่า"
+     ]
+    },
+    {
+     "id": "ENL224-U3-08",
+     "skill": "ENL224-U3",
+     "difficulty": 2,
+     "stem": "Why is an introduction often called a 'funnel'?",
+     "options": [
+      "It moves from a general idea to a specific thesis.",
+      "It moves from the thesis to a general idea.",
+      "It lists the references from A to Z.",
+      "It repeats the same sentence three times."
+     ],
+     "answer": 0,
+     "explanation_th": "กรวยปากกว้างแล้วแคบลง เหมือนบทนำที่เริ่มกว้างแล้วจบที่ thesis",
+     "why_wrong": [
+      null,
+      "กลับทิศ กรวยเริ่มกว้างแล้วแคบลง",
+      "การเรียงอ้างอิงไม่เกี่ยวกับบทนำ",
+      "การซ้ำประโยคไม่ใช่ลักษณะของบทนำ"
+     ]
+    },
+    {
+     "id": "ENL224-U3-09",
+     "skill": "ENL224-U3",
+     "difficulty": 3,
+     "stem": "Thesis: 'Volunteering helps students build skills, make friends and help their community.' Which sentence restates it in new words?",
+     "options": [
+      "In short, volunteering helps students build skills, make friends and help their community.",
+      "In short, volunteer work lets students grow their abilities, meet new people and support the places where they live.",
+      "In short, volunteering is boring for some students.",
+      "In short, students should also learn to swim."
+     ],
+     "answer": 1,
+     "explanation_th": "ความหมายครบ 3 ประเด็นเดิม แต่ใช้คำใหม่",
+     "why_wrong": [
+      "ใช้คำเดิมเกือบทุกคำ ไม่ใช่การกล่าวซ้ำด้วยคำใหม่",
+      null,
+      "ขัดกับ thesis และเป็นประเด็นใหม่",
+      "เป็นเรื่องใหม่ที่ไม่เกี่ยวกับ thesis"
+     ]
+    }
+   ],
+   "say": [
+    "My introduction starts with a hook.",
+    "Have you ever missed an important class?",
+    "In short, small steps lead to big changes."
+   ],
+   "task_th": "ใช้ thesis ที่เขียนไว้จากหน่วยก่อน เขียน hook 2 แบบ (คำถาม 1 และเรื่องเล่าสั้น 1) ประโยคข้อมูลพื้นฐาน 1 ถึง 2 ประโยค แล้วเขียนประโยคแรกของบทสรุปที่กล่าว thesis ซ้ำด้วยคำใหม่"
+  },
+  {
+   "id": "ENL224-U4",
+   "title_th": "ย่อหน้าเนื้อเรื่อง การปรับเนื้อหา และการแก้ภาษา",
+   "title_en": "Body Paragraphs, Revising and Editing",
+   "covers": "กระบวนการเขียนเรียงความ",
+   "minutes": 13,
+   "cards": [
+    {
+     "title_th": "ย่อหน้าเนื้อเรื่อง",
+     "body_th": "แต่ละย่อหน้ามีประโยคใจความที่ผูกกับ thesis ตามด้วยเหตุผล ตัวอย่าง หรือหลักฐาน และปิดด้วยประโยคสรุปหรือประโยคส่งต่อไปย่อหน้าถัดไป"
+    },
+    {
+     "title_th": "คำเชื่อมระหว่างย่อหน้า",
+     "body_th": "First of all, Another reason, In addition, The most important reason ช่วยให้ผู้อ่านรู้ว่ากำลังอยู่ประเด็นไหน"
+    },
+    {
+     "title_th": "revising ปรับเนื้อหา",
+     "body_th": "ดูภาพใหญ่ ความคิด ลำดับ ความครบ ตัด เพิ่ม ย้าย หรือเปลี่ยนประโยคและย่อหน้า บางครูใช้คำย่อ ARMS (Add, Remove, Move, Substitute)"
+    },
+    {
+     "title_th": "editing แก้ภาษา",
+     "body_th": "ดูระดับประโยค ไวยากรณ์ การสะกด เครื่องหมายวรรคตอน ตัวพิมพ์ใหญ่ บางครูใช้คำย่อ CUPS (Capitalization, Usage, Punctuation, Spelling)"
+    },
+    {
+     "title_th": "เทคนิคตรวจงาน",
+     "body_th": "ทิ้งงานไว้ 1 วันก่อนกลับมาอ่าน อ่านออกเสียง และให้เพื่อนอ่าน (peer review) แก้เนื้อหาก่อน แล้วค่อยแก้ภาษา"
+    }
+   ],
+   "vocab": [
+    [
+     "body paragraph",
+     "ย่อหน้าเนื้อเรื่อง"
+    ],
+    [
+     "revise",
+     "ปรับแก้เนื้อหา"
+    ],
+    [
+     "edit",
+     "แก้ไขภาษา"
+    ],
+    [
+     "proofread",
+     "ตรวจทาน"
+    ],
+    [
+     "peer review",
+     "การให้เพื่อนอ่านและให้ความเห็น"
+    ],
+    [
+     "feedback",
+     "ความคิดเห็นป้อนกลับ"
+    ],
+    [
+     "final draft",
+     "ฉบับสมบูรณ์"
+    ],
+    [
+     "punctuation",
+     "เครื่องหมายวรรคตอน"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL224-U4-01",
+     "skill": "ENL224-U4",
+     "difficulty": 1,
+     "stem": "Revising mainly focuses on ____.",
+     "options": [
+      "spelling only",
+      "commas only",
+      "the font size",
+      "ideas, organization and content"
+     ],
+     "answer": 3,
+     "explanation_th": "revising ดูภาพใหญ่ ความคิด และลำดับ",
+     "why_wrong": [
+      "การสะกดเป็นงานของ editing",
+      "เครื่องหมายวรรคตอนเป็นงานของ editing",
+      "ขนาดตัวอักษรเป็นเรื่องรูปแบบ ไม่ใช่เนื้อหา",
+      null
+     ]
+    },
+    {
+     "id": "ENL224-U4-02",
+     "skill": "ENL224-U4",
+     "difficulty": 1,
+     "stem": "Editing mainly focuses on ____.",
+     "options": [
+      "choosing a new topic",
+      "changing the thesis",
+      "brainstorming ideas",
+      "grammar, spelling and punctuation"
+     ],
+     "answer": 3,
+     "explanation_th": "editing แก้ความถูกต้องของภาษาในระดับประโยค",
+     "why_wrong": [
+      "การเลือกหัวข้อเกิดตอนเตรียมความคิด",
+      "การเปลี่ยน thesis เป็นการปรับเนื้อหา (revising)",
+      "เป็นขั้นเตรียมความคิด",
+      null
+     ]
+    },
+    {
+     "id": "ENL224-U4-03",
+     "skill": "ENL224-U4",
+     "difficulty": 2,
+     "stem": "A writer moves body paragraph 3 before paragraph 2 because the new order makes more sense. This is ____.",
+     "options": [
+      "editing",
+      "brainstorming",
+      "revising",
+      "citing"
+     ],
+     "answer": 2,
+     "explanation_th": "การย้ายลำดับย่อหน้าเป็นการปรับโครงสร้าง จึงเป็น revising",
+     "why_wrong": [
+      "editing ดูไวยากรณ์และการสะกด ไม่ใช่การย้ายย่อหน้า",
+      "brainstorming เกิดก่อนเขียน ไม่ใช่หลังมีร่างแล้ว",
+      null,
+      "การอ้างอิงคือการบอกแหล่งข้อมูล"
+     ]
+    },
+    {
+     "id": "ENL224-U4-04",
+     "skill": "ENL224-U4",
+     "difficulty": 2,
+     "stem": "A writer changes 'He go to school' to 'He goes to school.' This is ____.",
+     "options": [
+      "revising",
+      "editing",
+      "outlining",
+      "freewriting"
+     ],
+     "answer": 1,
+     "explanation_th": "แก้กริยาให้ตรงกับประธาน เป็นการแก้ไวยากรณ์",
+     "why_wrong": [
+      "ไม่ได้เปลี่ยนความคิดหรือโครงสร้าง แค่แก้ไวยากรณ์",
+      null,
+      "การทำโครงร่างเกิดก่อนเขียนร่าง",
+      "การเขียนอิสระไม่สนไวยากรณ์"
+     ]
+    },
+    {
+     "id": "ENL224-U4-05",
+     "skill": "ENL224-U4",
+     "difficulty": 2,
+     "stem": "Thesis: 'Exercise improves students' sleep, mood and grades.' Which is the best topic sentence for the first body paragraph?",
+     "options": [
+      "One major benefit of exercise is better sleep.",
+      "Some gyms are expensive.",
+      "Exercise can be dangerous if you do it wrong.",
+      "My friend plays football every Sunday."
+     ],
+     "answer": 0,
+     "explanation_th": "ตรงกับประเด็นแรกของ thesis คือการนอน",
+     "why_wrong": [
+      null,
+      "ไม่ได้สนับสนุน thesis เรื่องประโยชน์",
+      "เป็นข้อเสีย ขัดกับ thesis",
+      "เป็นข้อมูลส่วนตัว ไม่ได้บอกประเด็น"
+     ]
+    },
+    {
+     "id": "ENL224-U4-06",
+     "skill": "ENL224-U4",
+     "difficulty": 2,
+     "stem": "A writer saves the strongest reason for the last body paragraph. Which phrase is best to start that paragraph?",
+     "options": [
+      "For example,",
+      "In other words,",
+      "First of all,",
+      "The most important reason is"
+     ],
+     "answer": 3,
+     "explanation_th": "ลำดับความสำคัญมักเก็บประเด็นแรงที่สุดไว้ท้าย",
+     "why_wrong": [
+      "ใช้นำตัวอย่างในย่อหน้า ไม่ใช่เริ่มย่อหน้าเนื้อเรื่องใหม่",
+      "ใช้อธิบายสิ่งที่พูดไปแล้วซ้ำด้วยคำอื่น ไม่ได้เปิดเหตุผลใหม่ที่สำคัญที่สุด",
+      "ใช้กับประเด็นแรก ไม่ใช่ประเด็นสุดท้าย",
+      null
+     ]
+    },
+    {
+     "id": "ENL224-U4-07",
+     "skill": "ENL224-U4",
+     "difficulty": 3,
+     "stem": "Which is a revising question, not an editing question?",
+     "options": [
+      "Does every body paragraph support my thesis?",
+      "Did I spell 'necessary' correctly?",
+      "Does each sentence end with a period?",
+      "Did I use capital letters for names?"
+     ],
+     "answer": 0,
+     "explanation_th": "ถามเรื่องความสัมพันธ์ของเนื้อหากับ thesis เป็นภาพใหญ่",
+     "why_wrong": [
+      null,
+      "เป็นคำถามเรื่องการสะกด จึงเป็น editing",
+      "เป็นคำถามเรื่องเครื่องหมายวรรคตอน จึงเป็น editing",
+      "เป็นคำถามเรื่องตัวพิมพ์ใหญ่ จึงเป็น editing"
+     ]
+    },
+    {
+     "id": "ENL224-U4-08",
+     "skill": "ENL224-U4",
+     "difficulty": 2,
+     "stem": "Why is it a good idea to wait one day before you revise?",
+     "options": [
+      "The grammar fixes itself.",
+      "Teachers prefer old essays.",
+      "You can read your essay with fresh eyes and notice problems.",
+      "It makes the essay longer."
+     ],
+     "answer": 2,
+     "explanation_th": "เว้นระยะทำให้อ่านเหมือนผู้อ่านคนใหม่ และเห็นจุดที่ต้องแก้",
+     "why_wrong": [
+      "ไวยากรณ์ไม่แก้ตัวเอง ต้องแก้ด้วยตัวเอง",
+      "ไม่ใช่เหตุผลของการรอ",
+      null,
+      "การรอไม่ได้เพิ่มความยาว"
+     ]
+    },
+    {
+     "id": "ENL224-U4-09",
+     "skill": "ENL224-U4",
+     "difficulty": 1,
+     "stem": "Peer review means ____.",
+     "options": [
+      "the teacher gives the final grade",
+      "a classmate reads your draft and gives feedback",
+      "you copy a classmate's essay",
+      "you read only your own essay silently"
+     ],
+     "answer": 1,
+     "explanation_th": "peer แปลว่าเพื่อนร่วมชั้น review แปลว่าอ่านทบทวน",
+     "why_wrong": [
+      "การให้เกรดเป็นการประเมิน ไม่ใช่การให้เพื่อนอ่าน",
+      null,
+      "นั่นคือการลอกเลียนผลงาน",
+      "ไม่มีเพื่อนมาช่วยอ่าน"
+     ]
+    }
+   ],
+   "say": [
+    "First I revise my ideas, and then I edit my grammar.",
+    "Could you read my draft and give me feedback?",
+    "The most important reason is in my last body paragraph."
+   ],
+   "task_th": "หยิบย่อหน้าภาษาอังกฤษที่เคยเขียนไว้ 1 ย่อหน้า อ่านรอบแรกถามแค่คำถามเนื้อหา 2 ข้อ (ทุกประโยคอยู่ในเรื่องไหม ลำดับดีไหม) แล้วแก้ จากนั้นอ่านรอบที่สองดูแค่ CUPS แล้วจดว่าแก้อะไรไปบ้าง"
+  },
+  {
+   "id": "ENL224-U5",
+   "title_th": "เรียงความเล่าเรื่อง บรรยาย และอธิบายขั้นตอน",
+   "title_en": "Narrative, Descriptive and Process Essays",
+   "covers": "เรียงความประเภทต่าง ๆ",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "เรียงความเล่าเรื่อง (narrative essay)",
+     "body_th": "เล่าเหตุการณ์ที่มีจุดหมาย thesis บอกว่าเรื่องนี้สอนอะไร โครงเรื่องมีฉาก (setting) ปัญหา (conflict) จุดสูงสุด (climax) และตอนจบ มักใช้ past simple และสรรพนาม I"
+    },
+    {
+     "title_th": "เรียงความบรรยาย (descriptive essay)",
+     "body_th": "บรรยายคน สถานที่ หรือสิ่งของ ให้เกิดความรู้สึกเด่นอย่างเดียว (dominant impression) แต่ละย่อหน้าเนื้อเรื่องดูมุมหรือส่วนหนึ่ง ใช้ประสาทสัมผัส"
+    },
+    {
+     "title_th": "เรียงความอธิบายขั้นตอน (process essay)",
+     "body_th": "อธิบายวิธีทำ แบ่งขั้นตอนเป็นกลุ่ม ย่อหน้าละกลุ่ม เช่น ก่อน ระหว่าง หลัง บอกอุปกรณ์และเตือนข้อผิดพลาดที่พบบ่อย"
+    },
+    {
+     "title_th": "แสดงให้เห็น ไม่ใช่บอก",
+     "body_th": "show, don't tell ใช้รายละเอียดให้ผู้อ่านรู้สึกเอง",
+     "example": "I was scared. → My hands shook, and I could not say a word."
+    },
+    {
+     "title_th": "มุมมองให้คงที่",
+     "body_th": "เรื่องเล่ามักใช้ I ส่วนขั้นตอนมักใช้ you หรือประโยคคำสั่ง เลือกแล้วใช้ให้เหมือนกันทั้งเรียงความ"
+    }
+   ],
+   "vocab": [
+    [
+     "narrative essay",
+     "เรียงความเล่าเรื่อง"
+    ],
+    [
+     "descriptive essay",
+     "เรียงความบรรยาย"
+    ],
+    [
+     "process essay",
+     "เรียงความอธิบายขั้นตอน"
+    ],
+    [
+     "dominant impression",
+     "ความรู้สึกเด่นที่ต้องการให้ผู้อ่านได้"
+    ],
+    [
+     "setting",
+     "ฉาก (เวลาและสถานที่)"
+    ],
+    [
+     "conflict",
+     "ปัญหาหรือความขัดแย้งในเรื่อง"
+    ],
+    [
+     "climax",
+     "จุดสูงสุดของเรื่อง"
+    ],
+    [
+     "show, don't tell",
+     "แสดงให้เห็น ไม่ใช่บอก"
+    ],
+    [
+     "point of view",
+     "มุมมองของผู้เล่า"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL224-U5-01",
+     "skill": "ENL224-U5",
+     "difficulty": 1,
+     "stem": "Which essay type tells a story with a beginning, a middle and an end?",
+     "options": [
+      "narrative",
+      "descriptive",
+      "process",
+      "argumentative"
+     ],
+     "answer": 0,
+     "explanation_th": "narrative คือเรื่องเล่าที่มีต้น กลาง จบ",
+     "why_wrong": [
+      null,
+      "บรรยายลักษณะ ไม่ได้เล่าเหตุการณ์ตามเวลา",
+      "อธิบายขั้นตอนวิธีทำ",
+      "โน้มน้าวให้เห็นด้วยกับจุดยืน"
+     ]
+    },
+    {
+     "id": "ENL224-U5-02",
+     "skill": "ENL224-U5",
+     "difficulty": 1,
+     "stem": "Which essay type explains how to do something step by step?",
+     "options": [
+      "narrative",
+      "descriptive",
+      "comparison",
+      "process"
+     ],
+     "answer": 3,
+     "explanation_th": "process อธิบายขั้นตอนทีละขั้น",
+     "why_wrong": [
+      "เล่าเรื่องที่เกิดขึ้น ไม่ได้สอนวิธีทำ",
+      "บรรยายลักษณะ",
+      "เปรียบเทียบ 2 สิ่ง",
+      null
+     ]
+    },
+    {
+     "id": "ENL224-U5-03",
+     "skill": "ENL224-U5",
+     "difficulty": 2,
+     "stem": "In a descriptive essay, the 'dominant impression' is ____.",
+     "options": [
+      "the longest sentence in the essay",
+      "the main feeling the description gives the reader",
+      "the list of sources",
+      "the title of the essay"
+     ],
+     "answer": 1,
+     "explanation_th": "ความรู้สึกเด่น เช่น อบอุ่น วุ่นวาย หรือเงียบสงบ ที่รายละเอียดทั้งหมดช่วยกันสร้าง",
+     "why_wrong": [
+      "ความยาวของประโยคไม่เกี่ยว",
+      null,
+      "นั่นคือรายการอ้างอิง",
+      "ชื่อเรื่องไม่ใช่ความรู้สึกเด่น"
+     ]
+    },
+    {
+     "id": "ENL224-U5-04",
+     "skill": "ENL224-U5",
+     "difficulty": 2,
+     "stem": "The most exciting or important moment in a story is the ____.",
+     "options": [
+      "setting",
+      "thesis",
+      "climax",
+      "citation"
+     ],
+     "answer": 2,
+     "explanation_th": "climax คือจุดที่เรื่องตื่นเต้นหรือสำคัญที่สุด",
+     "why_wrong": [
+      "ฉากคือเวลาและสถานที่ของเรื่อง",
+      "thesis คือประโยคใจความหลักของเรียงความ",
+      null,
+      "การอ้างอิงแหล่งข้อมูล ไม่เกี่ยวกับโครงเรื่อง"
+     ]
+    },
+    {
+     "id": "ENL224-U5-05",
+     "skill": "ENL224-U5",
+     "difficulty": 2,
+     "stem": "Which sentence 'shows' rather than 'tells'?",
+     "options": [
+      "My hands shook, and my voice was very quiet as I started my speech.",
+      "I was nervous.",
+      "I felt very, very nervous.",
+      "Nervous is how I felt."
+     ],
+     "answer": 0,
+     "explanation_th": "ใช้รายละเอียดมือสั่นและเสียงเบา ให้ผู้อ่านรู้เองว่าตื่นเต้น",
+     "why_wrong": [
+      null,
+      "บอกความรู้สึกตรง ๆ ไม่ได้แสดงให้เห็น",
+      "แค่เพิ่ม very ยังเป็นการบอก",
+      "สลับคำ แต่ยังเป็นการบอกความรู้สึก"
+     ]
+    },
+    {
+     "id": "ENL224-U5-06",
+     "skill": "ENL224-U5",
+     "difficulty": 2,
+     "stem": "Which thesis fits a narrative essay?",
+     "options": [
+      "There are four steps to set up a new laptop.",
+      "Getting lost on my first day in Bangkok taught me to ask for help.",
+      "Students should get free bus passes.",
+      "Dogs and cats need different kinds of care."
+     ],
+     "answer": 1,
+     "explanation_th": "บอกเหตุการณ์และบทเรียนที่ได้ เหมาะกับเรื่องเล่า",
+     "why_wrong": [
+      "เป็น thesis ของเรียงความขั้นตอน",
+      null,
+      "เป็น thesis ของเรียงความโต้แย้ง",
+      "เป็น thesis ของเรียงความเปรียบเทียบ"
+     ]
+    },
+    {
+     "id": "ENL224-U5-07",
+     "skill": "ENL224-U5",
+     "difficulty": 3,
+     "stem": "A process essay about 'how to prepare for a job interview' could organize its body paragraphs as ____.",
+     "options": [
+      "the causes of interviews, the effects of interviews, the history of interviews",
+      "my best friend, my teacher, my parents",
+      "before the interview, during the interview, after the interview",
+      "the advantages of jobs, the disadvantages of jobs, my opinion"
+     ],
+     "answer": 2,
+     "explanation_th": "แบ่งขั้นตอนตามเวลาเป็น 3 กลุ่ม ย่อหน้าละกลุ่ม",
+     "why_wrong": [
+      "เป็นการจัดแบบเหตุผลและประวัติ ไม่ใช่ขั้นตอน",
+      "เป็นรายชื่อคน ไม่ใช่กลุ่มขั้นตอน",
+      null,
+      "เป็นการจัดแบบโต้แย้ง ไม่ได้สอนวิธีเตรียมตัว"
+     ]
+    },
+    {
+     "id": "ENL224-U5-08",
+     "skill": "ENL224-U5",
+     "difficulty": 2,
+     "stem": "Which tense is most common in a narrative essay about a past event?",
+     "options": [
+      "future simple",
+      "present perfect continuous",
+      "future perfect",
+      "past simple"
+     ],
+     "answer": 3,
+     "explanation_th": "เหตุการณ์ที่จบแล้วในอดีตใช้ past simple",
+     "why_wrong": [
+      "ใช้กับเรื่องที่ยังไม่เกิด",
+      "ใช้กับสิ่งที่เริ่มในอดีตและยังทำต่อเนื่อง ไม่ใช่การเล่าเหตุการณ์ที่จบแล้ว",
+      "ใช้กับสิ่งที่จะเสร็จในอนาคต",
+      null
+     ]
+    },
+    {
+     "id": "ENL224-U5-09",
+     "skill": "ENL224-U5",
+     "difficulty": 3,
+     "stem": "Which thesis fits a descriptive essay?",
+     "options": [
+      "The old floating market near my grandmother's house is a noisy, colorful and delicious place.",
+      "The floating market became popular for three reasons.",
+      "First, take a boat to the market.",
+      "Floating markets should be protected by law."
+     ],
+     "answer": 0,
+     "explanation_th": "บอกสถานที่และความรู้สึกเด่นผ่านเสียง สี และรส",
+     "why_wrong": [
+      null,
+      "เป็น thesis เหตุและผล",
+      "เป็นขั้นตอน และไม่ใช่ thesis",
+      "เป็น thesis โต้แย้ง"
+     ]
+    }
+   ],
+   "say": [
+    "My story has a beginning, a middle and an end.",
+    "My hands shook. I couldn't say a word.",
+    "Before the interview, prepare your answers."
+   ],
+   "task_th": "นึกถึงเหตุการณ์จริงที่สอนอะไรคุณสักอย่าง เขียน thesis ของเรียงความเล่าเรื่อง 1 ประโยค แล้วเขียนโน้ตฉาก ปัญหา จุดสูงสุด และตอนจบอย่างละ 1 บรรทัด และเขียนประโยค show don't tell 1 ประโยค"
+  },
+  {
+   "id": "ENL224-U6",
+   "title_th": "เรียงความเปรียบเทียบ เหตุและผล และโต้แย้ง",
+   "title_en": "Comparison, Cause-and-Effect and Argumentative Essays",
+   "covers": "เรียงความประเภทต่าง ๆ",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "เรียงความเปรียบเทียบ",
+     "body_th": "เลือก 2 สิ่งที่อยู่กลุ่มเดียวกันและมีเกณฑ์เปรียบเทียบร่วม (basis of comparison) จัดแบบแยกก้อน (block) หรือทีละประเด็น (point-by-point) thesis บอกว่าเหมือนหรือต่างอย่างไร"
+    },
+    {
+     "title_th": "เรียงความเหตุและผล",
+     "body_th": "เน้นสาเหตุหรือผลอย่างใดอย่างหนึ่ง ระวังความคิดผิดว่า เกิดก่อนแปลว่าเป็นสาเหตุ (false cause) เพียงเพราะเหตุการณ์หนึ่งเกิดหลังอีกเหตุการณ์ ไม่ได้แปลว่าเป็นผลของมัน"
+    },
+    {
+     "title_th": "เรียงความโต้แย้ง (argumentative)",
+     "body_th": "มีข้ออ้าง (claim) ชัด แต่ละเหตุผลมีหลักฐาน เช่น ข้อเท็จจริง ตัวเลข หรือความเห็นผู้เชี่ยวชาญ แล้วยกข้อโต้แย้งฝ่ายตรงข้ามพร้อมการโต้กลับ"
+    },
+    {
+     "title_th": "ข้อโต้แย้งและการโต้กลับ",
+     "body_th": "counterargument คือความเห็นของอีกฝ่าย rebuttal คือคำตอบของผู้เขียน",
+     "example": "Some people argue that ... However, ..."
+    },
+    {
+     "title_th": "ภาษาวิชาการไม่ฟันธงเกินจริง",
+     "body_th": "เลี่ยง always, never, everyone ใช้ may, can, often, some แทน เรียกว่า hedging",
+     "example": "Social media may increase stress for some teenagers."
+    }
+   ],
+   "vocab": [
+    [
+     "argumentative essay",
+     "เรียงความโต้แย้ง"
+    ],
+    [
+     "claim",
+     "ข้ออ้าง"
+    ],
+    [
+     "evidence",
+     "หลักฐาน"
+    ],
+    [
+     "counterargument",
+     "ข้อโต้แย้งของฝ่ายตรงข้าม"
+    ],
+    [
+     "rebuttal",
+     "การโต้กลับ"
+    ],
+    [
+     "basis of comparison",
+     "เกณฑ์ในการเปรียบเทียบ"
+    ],
+    [
+     "false cause",
+     "การสรุปสาเหตุผิด"
+    ],
+    [
+     "hedging",
+     "การใช้ภาษาไม่ฟันธงเกินจริง"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL224-U6-01",
+     "skill": "ENL224-U6",
+     "difficulty": 1,
+     "stem": "Which essay type tries to make the reader agree with the writer's position?",
+     "options": [
+      "descriptive",
+      "narrative",
+      "process",
+      "argumentative"
+     ],
+     "answer": 3,
+     "explanation_th": "argumentative มีจุดยืนและพยายามโน้มน้าวด้วยเหตุผลและหลักฐาน",
+     "why_wrong": [
+      "บรรยายลักษณะ ไม่ได้โน้มน้าว",
+      "เล่าเรื่อง ไม่ได้มุ่งให้เห็นด้วยกับจุดยืน",
+      "สอนขั้นตอน",
+      null
+     ]
+    },
+    {
+     "id": "ENL224-U6-02",
+     "skill": "ENL224-U6",
+     "difficulty": 2,
+     "stem": "In an argumentative essay, a rebuttal is ____.",
+     "options": [
+      "the first sentence of the essay",
+      "a list of steps",
+      "the writer's answer to the other side's argument",
+      "a story about the writer's childhood"
+     ],
+     "answer": 2,
+     "explanation_th": "rebuttal คือการโต้กลับข้อโต้แย้งของอีกฝ่าย",
+     "why_wrong": [
+      "ประโยคแรกมักเป็น hook",
+      "นั่นคือเรียงความขั้นตอน",
+      null,
+      "นั่นคือเรื่องเล่า"
+     ]
+    },
+    {
+     "id": "ENL224-U6-03",
+     "skill": "ENL224-U6",
+     "difficulty": 2,
+     "stem": "Which is the best thesis for a cause-and-effect essay?",
+     "options": [
+      "Screens come in many sizes.",
+      "Too much screen time at night can lead to poor sleep, low energy and lower grades.",
+      "Phones and tablets are similar in three ways.",
+      "First, turn off your phone at 10 p.m."
+     ],
+     "answer": 1,
+     "explanation_th": "บอกสาเหตุ (ใช้จอตอนกลางคืน) และผล 3 ข้อ",
+     "why_wrong": [
+      "เป็นข้อเท็จจริง ไม่มีเหตุหรือผล",
+      null,
+      "เป็น thesis เปรียบเทียบ",
+      "เป็นขั้นตอน ไม่ใช่ thesis"
+     ]
+    },
+    {
+     "id": "ENL224-U6-04",
+     "skill": "ENL224-U6",
+     "difficulty": 2,
+     "stem": "Which pair is the best choice for a comparison essay?",
+     "options": [
+      "a library and a pineapple",
+      "studying in a library and studying in a cafe",
+      "my phone and the moon",
+      "a cafe and the number seven"
+     ],
+     "answer": 1,
+     "explanation_th": "ทั้งคู่เป็นที่อ่านหนังสือ เทียบได้ในเรื่องเสียง ราคา ความสะดวก",
+     "why_wrong": [
+      "ไม่มีเกณฑ์ร่วมให้เปรียบเทียบอย่างมีความหมาย",
+      null,
+      "อยู่คนละกลุ่ม ไม่มีเกณฑ์เปรียบเทียบร่วม",
+      "สิ่งหนึ่งเป็นสถานที่ อีกสิ่งเป็นตัวเลข เทียบกันไม่ได้"
+     ]
+    },
+    {
+     "id": "ENL224-U6-05",
+     "skill": "ENL224-U6",
+     "difficulty": 2,
+     "stem": "In the block method of a comparison essay, the writer ____.",
+     "options": [
+      "discusses all the points about A, then all the points about B",
+      "discusses A and B together, point by point",
+      "discusses only causes",
+      "tells a story in time order"
+     ],
+     "answer": 0,
+     "explanation_th": "block คือพูด A จบเป็นก้อน แล้วค่อยพูด B",
+     "why_wrong": [
+      null,
+      "นั่นคือวิธี point-by-point",
+      "นั่นคือเรียงความเหตุและผล",
+      "นั่นคือเรื่องเล่า"
+     ]
+    },
+    {
+     "id": "ENL224-U6-06",
+     "skill": "ENL224-U6",
+     "difficulty": 3,
+     "stem": "'I ate street food, and the next day it rained. So the street food caused the rain.' What is the problem with this reasoning?",
+     "options": [
+      "The sentence has a spelling mistake.",
+      "The writer should use more adjectives.",
+      "The writer used the block method.",
+      "One event came after another, but that does not prove it caused it."
+     ],
+     "answer": 3,
+     "explanation_th": "เป็น false cause เกิดก่อนไม่ได้แปลว่าเป็นสาเหตุ",
+     "why_wrong": [
+      "ไม่มีคำสะกดผิด ปัญหาอยู่ที่การให้เหตุผล",
+      "คำคุณศัพท์ไม่ได้แก้ปัญหาเรื่องเหตุผล",
+      "block method เป็นวิธีจัดเรียงความเปรียบเทียบ ไม่เกี่ยว",
+      null
+     ]
+    },
+    {
+     "id": "ENL224-U6-07",
+     "skill": "ENL224-U6",
+     "difficulty": 2,
+     "stem": "Which is the strongest evidence for the claim 'Students should sleep at least seven hours a night'?",
+     "options": [
+      "My friend sleeps five hours, and he feels fine.",
+      "Sleeping is boring.",
+      "Many health organizations advise adults to sleep at least seven hours a night.",
+      "Everyone always sleeps too much."
+     ],
+     "answer": 2,
+     "explanation_th": "คำแนะนำจากองค์กรด้านสุขภาพเป็นหลักฐานที่น่าเชื่อถือ",
+     "why_wrong": [
+      "เป็นประสบการณ์คนเดียว และยังขัดกับข้ออ้าง",
+      "เป็นความเห็นที่ไม่สนับสนุนข้ออ้าง",
+      null,
+      "เหมารวมและขัดกับข้ออ้าง"
+     ]
+    },
+    {
+     "id": "ENL224-U6-08",
+     "skill": "ENL224-U6",
+     "difficulty": 3,
+     "stem": "Which sentence uses careful academic language (hedging)?",
+     "options": [
+      "Social media always destroys every teenager's life.",
+      "Social media may increase stress for some teenagers.",
+      "Everyone knows social media is terrible.",
+      "Social media never helps anyone."
+     ],
+     "answer": 1,
+     "explanation_th": "may และ some ทำให้ข้ออ้างระมัดระวังและพิสูจน์ได้",
+     "why_wrong": [
+      "always และ every เหมารวมเกินจริง",
+      null,
+      "everyone knows เป็นการอ้างแบบไม่มีหลักฐาน",
+      "never กับ anyone ฟันธงเกินจริง"
+     ]
+    },
+    {
+     "id": "ENL224-U6-09",
+     "skill": "ENL224-U6",
+     "difficulty": 2,
+     "stem": "An essay argues that university classes should start at 10 a.m. Which sentence is a counterargument?",
+     "options": [
+      "Students would be more awake at 10 a.m.",
+      "In conclusion, 10 a.m. is a better start time.",
+      "Some people argue that later classes would finish too late in the evening.",
+      "First, many students need more sleep."
+     ],
+     "answer": 2,
+     "explanation_th": "ยกความเห็นของฝ่ายที่ไม่เห็นด้วย จึงเป็น counterargument",
+     "why_wrong": [
+      "เป็นเหตุผลที่สนับสนุนผู้เขียน ไม่ใช่ของฝ่ายตรงข้าม",
+      "เป็นประโยคสรุปของผู้เขียน",
+      null,
+      "เป็นเหตุผลข้อแรกของผู้เขียน"
+     ]
+    }
+   ],
+   "say": [
+    "Some people argue that uniforms save money.",
+    "However, my evidence shows a different result.",
+    "Too much screen time may lead to poor sleep."
+   ],
+   "task_th": "เลือกหัวข้อโต้แย้ง 1 เรื่อง เช่น ควรให้นักศึกษาใช้ AI ช่วยเขียนงานหรือไม่ เขียน thesis 1 ประโยค เหตุผล 2 ข้อพร้อมชนิดหลักฐานที่จะหา ข้อโต้แย้งฝ่ายตรงข้าม 1 ข้อ และการโต้กลับ 1 ประโยค"
+  },
+  {
+   "id": "ENL224-U7",
+   "title_th": "ใช้แหล่งข้อมูลอย่างซื่อตรง ถอดความ และอ้างอิงแบบ APA",
+   "title_en": "Using Sources: Paraphrase, Plagiarism and APA Citations",
+   "covers": "กลวิธีและกระบวนการเขียนเรียงความ",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "การลอกเลียนผลงาน (plagiarism)",
+     "body_th": "การนำคำหรือความคิดของคนอื่นมาใช้โดยไม่บอกแหล่ง รวมถึงลอกงานเพื่อน ส่งงานเก่าของตัวเองซ้ำโดยไม่ได้รับอนุญาต และส่งงานที่เครื่องมือ AI เขียนเป็นของตัวเองเมื่ออาจารย์ไม่อนุญาต"
+    },
+    {
+     "title_th": "3 วิธีใช้แหล่ง",
+     "body_th": "ยกคำพูดตรง (quotation) ใส่เครื่องหมายคำพูดและเลขหน้า / ถอดความ (paraphrase) เขียนใหม่ด้วยคำและโครงสร้างของตัวเอง / สรุปความ (summary) ย่อเฉพาะใจความหลัก ทั้ง 3 แบบต้องอ้างอิง"
+    },
+    {
+     "title_th": "ถอดความให้ถูก",
+     "body_th": "อ่านจนเข้าใจ ปิดต้นฉบับ เขียนเอง แล้วเปิดเทียบความหมาย เปลี่ยนแค่บางคำแต่โครงประโยคเดิม (patchwriting) ยังนับว่าลอก"
+    },
+    {
+     "title_th": "APA 7 ในเนื้อหา",
+     "body_th": "แบบในวงเล็บ (Smith, 2020) / แบบเล่า Smith (2020) found that... / ยกคำพูดตรงใส่หน้า (Smith, 2020, p. 15) / ผู้แต่ง 2 คน (Brown & Lee, 2019) หรือ Brown and Lee (2019) / 3 คนขึ้นไป (Tan et al., 2022) ตั้งแต่ครั้งแรก เหมือนที่เรียนใน ENL181"
+    },
+    {
+     "title_th": "เชื่อมกับรายการท้ายงาน",
+     "body_th": "แหล่งที่อ้างในเนื้อหา เช่น หนังสือ บทความ เว็บไซต์ ต้องมีในรายการอ้างอิง (reference list) เรียงตามนามสกุล ข้อยกเว้นคือการสื่อสารส่วนตัว เช่น สัมภาษณ์หรืออีเมล ซึ่งอ้างในเนื้อหาอย่างเดียว ความรู้ทั่วไป (common knowledge) เช่น Bangkok is the capital of Thailand ไม่ต้องอ้าง"
+    }
+   ],
+   "vocab": [
+    [
+     "plagiarism",
+     "การลอกเลียนผลงาน"
+    ],
+    [
+     "paraphrase",
+     "การถอดความ"
+    ],
+    [
+     "quotation",
+     "การยกคำพูดตรง"
+    ],
+    [
+     "summary",
+     "การสรุปความ"
+    ],
+    [
+     "in-text citation",
+     "การอ้างอิงในเนื้อหา"
+    ],
+    [
+     "reference list",
+     "รายการอ้างอิงท้ายงาน"
+    ],
+    [
+     "common knowledge",
+     "ความรู้ทั่วไป"
+    ],
+    [
+     "source",
+     "แหล่งข้อมูล"
+    ],
+    [
+     "academic integrity",
+     "ความซื่อตรงทางวิชาการ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL224-U7-01",
+     "skill": "ENL224-U7",
+     "difficulty": 1,
+     "stem": "Plagiarism is ____.",
+     "options": [
+      "using someone else's words or ideas without giving credit",
+      "writing your own ideas in your own words",
+      "citing a source correctly",
+      "asking a teacher for help"
+     ],
+     "answer": 0,
+     "explanation_th": "plagiarism คือการใช้งานคนอื่นโดยไม่บอกแหล่ง",
+     "why_wrong": [
+      null,
+      "เป็นการเขียนที่ถูกต้อง ไม่ใช่การลอก",
+      "การอ้างอิงถูกต้องคือสิ่งที่ป้องกันการลอก",
+      "การขอความช่วยเหลือไม่ใช่การลอก"
+     ]
+    },
+    {
+     "id": "ENL224-U7-02",
+     "skill": "ENL224-U7",
+     "difficulty": 2,
+     "stem": "Original text: 'Regular exercise can reduce stress in university students.' (Kim, 2021). Which is the best paraphrase?",
+     "options": [
+      "Regular exercise can reduce stress in university students.",
+      "Regular workouts can lower stress in college students.",
+      "Exercise is boring for many students (Kim, 2021).",
+      "According to Kim (2021), students who exercise often may feel less stressed."
+     ],
+     "answer": 3,
+     "explanation_th": "คำและโครงสร้างใหม่ ความหมายเดิม และมีการอ้างอิง",
+     "why_wrong": [
+      "ลอกตรงทุกคำ ไม่มีเครื่องหมายคำพูดและไม่มีการอ้างอิง",
+      "เปลี่ยนแค่บางคำแต่โครงเดิม (patchwriting) และไม่อ้างอิง",
+      "ความหมายผิดไปจากต้นฉบับ",
+      null
+     ]
+    },
+    {
+     "id": "ENL224-U7-03",
+     "skill": "ENL224-U7",
+     "difficulty": 2,
+     "stem": "One author, Smith, wrote a source in 2020. Which APA 7 in-text citation is correct?",
+     "options": [
+      "(2020, Smith)",
+      "(Smith 2020 p.)",
+      "(Smith, 2020)",
+      "[Smith: 2020]"
+     ],
+     "answer": 2,
+     "explanation_th": "รูปแบบคือ (นามสกุล, ปี)",
+     "why_wrong": [
+      "APA ใส่ชื่อผู้แต่งก่อนปี",
+      "ขาด comma และใส่ p. โดยไม่มีเลขหน้า",
+      null,
+      "APA ใช้วงเล็บกลม และใช้ comma ไม่ใช่ colon"
+     ]
+    },
+    {
+     "id": "ENL224-U7-04",
+     "skill": "ENL224-U7",
+     "difficulty": 2,
+     "stem": "Two authors, Brown and Lee, wrote a source in 2019. Which parenthetical citation is correct in APA 7?",
+     "options": [
+      "(Brown & Lee, 2019)",
+      "(Brown and Lee 2019)",
+      "(Brown, Lee, 2019)",
+      "(Brown et al., 2019)"
+     ],
+     "answer": 0,
+     "explanation_th": "ผู้แต่ง 2 คนในวงเล็บเชื่อมด้วย &",
+     "why_wrong": [
+      null,
+      "ในวงเล็บใช้ & และต้องมี comma ก่อนปี",
+      "ผู้แต่ง 2 คนต้องเชื่อมด้วย & ไม่ใช่ comma",
+      "et al. ใช้กับผู้แต่ง 3 คนขึ้นไป"
+     ]
+    },
+    {
+     "id": "ENL224-U7-05",
+     "skill": "ENL224-U7",
+     "difficulty": 2,
+     "stem": "A source has three authors: Tan, Park and Garcia (2022). Which citation is correct in APA 7?",
+     "options": [
+      "(Tan, Park, & Garcia, 2022)",
+      "(Tan et al., 2022)",
+      "(Tan and others, 2022)",
+      "(Tan & Park et al., 2022)"
+     ],
+     "answer": 1,
+     "explanation_th": "ผู้แต่ง 3 คนขึ้นไปใช้นามสกุลคนแรก + et al.",
+     "why_wrong": [
+      "APA 7 ใช้ et al. ตั้งแต่ครั้งแรกเมื่อมีผู้แต่ง 3 คนขึ้นไป",
+      null,
+      "APA ใช้ et al. ไม่ใช่ and others",
+      "ใส่ชื่อแรกคนเดียวแล้วตามด้วย et al."
+     ]
+    },
+    {
+     "id": "ENL224-U7-06",
+     "skill": "ENL224-U7",
+     "difficulty": 2,
+     "stem": "In APA 7, a direct quotation needs ____.",
+     "options": [
+      "only the author's first name",
+      "no citation if it is short",
+      "only the URL",
+      "quotation marks, the author's name, the year and the page number"
+     ],
+     "answer": 3,
+     "explanation_th": "คำพูดตรงต้องมีเครื่องหมายคำพูด และ (ผู้แต่ง, ปี, p. หน้า)",
+     "why_wrong": [
+      "APA ใช้นามสกุล และต้องมีปีกับเลขหน้า",
+      "คำพูดตรงทุกความยาวต้องอ้างอิง",
+      "URL อยู่ในรายการท้ายงาน ไม่ใช่ในเนื้อหา",
+      null
+     ]
+    },
+    {
+     "id": "ENL224-U7-07",
+     "skill": "ENL224-U7",
+     "difficulty": 1,
+     "stem": "Which sentence does NOT usually need a citation?",
+     "options": [
+      "A 2023 survey found that 60% of students study at night.",
+      "An idea that you read in a journal article",
+      "Bangkok is the capital of Thailand.",
+      "A sentence you quote from a famous writer"
+     ],
+     "answer": 2,
+     "explanation_th": "เป็นความรู้ทั่วไปที่ทุกคนรู้ จึงไม่ต้องอ้าง",
+     "why_wrong": [
+      "ตัวเลขจากการสำรวจต้องบอกแหล่ง",
+      "ความคิดของผู้อื่นต้องอ้างอิง",
+      null,
+      "คำพูดของผู้อื่นต้องอ้างอิงเสมอ"
+     ]
+    },
+    {
+     "id": "ENL224-U7-08",
+     "skill": "ENL224-U7",
+     "difficulty": 3,
+     "stem": "Which is a narrative citation in APA 7?",
+     "options": [
+      "Students remember more when they test themselves (Wong, 2018).",
+      "Wong (2018) found that students remember more when they test themselves.",
+      "Students remember more when they test themselves, Wong said in 2018 maybe.",
+      "(Wong) found in 2018 that students remember more."
+     ],
+     "answer": 1,
+     "explanation_th": "แบบเล่าใส่ชื่อผู้แต่งในประโยค แล้วตามด้วย (ปี)",
+     "why_wrong": [
+      "เป็นการอ้างแบบในวงเล็บ ไม่ใช่แบบเล่า",
+      null,
+      "ไม่ใช่รูปแบบ APA และคำว่า maybe ทำให้ไม่ชัด",
+      "ชื่อผู้แต่งในแบบเล่าไม่ใส่วงเล็บ ปีต้องอยู่ในวงเล็บหลังชื่อ"
+     ]
+    },
+    {
+     "id": "ENL224-U7-09",
+     "skill": "ENL224-U7",
+     "difficulty": 2,
+     "stem": "What is 'patchwriting'?",
+     "options": [
+      "changing only a few words of the original and keeping its structure",
+      "writing your own ideas from the beginning",
+      "putting a quotation in quotation marks",
+      "making a list of references"
+     ],
+     "answer": 0,
+     "explanation_th": "patchwriting คือการปะคำใหม่ลงบนโครงประโยคเดิม ยังนับเป็นการลอก",
+     "why_wrong": [
+      null,
+      "เป็นการเขียนเองทั้งหมด ไม่ใช่ patchwriting",
+      "เป็นการยกคำพูดตรงอย่างถูกต้อง",
+      "เป็นการทำรายการอ้างอิง"
+     ]
+    },
+    {
+     "id": "ENL224-U7-10",
+     "skill": "ENL224-U7",
+     "difficulty": 2,
+     "stem": "In APA 7, an in-text citation of a book or journal article must ____.",
+     "options": [
+      "be written in bold",
+      "be written in Thai",
+      "appear only in the introduction",
+      "match an entry in the reference list"
+     ],
+     "answer": 3,
+     "explanation_th": "หนังสือและบทความที่อ้างในเนื้อหาต้องหาเจอในรายการท้ายงาน",
+     "why_wrong": [
+      "APA ไม่ได้ให้ทำตัวหนา",
+      "ภาษาของการอ้างอิงตามภาษาของงาน",
+      "อ้างได้ทุกส่วนที่ใช้ข้อมูลจากแหล่ง",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "I paraphrase in my own words and add a citation.",
+    "According to Kim (2021), exercise reduces stress.",
+    "Every citation matches my reference list."
+   ],
+   "task_th": "หาประโยคภาษาอังกฤษสั้น ๆ 1 ประโยคจากบทความที่น่าเชื่อถือ เขียนแบบยกคำพูดตรง 1 แบบ ถอดความ 1 แบบ (ปิดต้นฉบับก่อนเขียน) แล้วใส่ in-text citation แบบในวงเล็บและแบบเล่าตาม APA 7"
+  }
+ ]
+}

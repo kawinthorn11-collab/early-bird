@@ -1,0 +1,1849 @@
+{
+ "code": "ENL222",
+ "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+ "in_class_th": [
+  "น่าจะได้เขียนย่อหน้าจริงหลายชิ้น แล้วแก้ตามความเห็นของอาจารย์หรือเพื่อน (peer feedback) ก่อนส่งฉบับสุดท้าย",
+  "อาจเริ่มจากฝึกแยกประโยคใจความสำคัญ ประโยคสนับสนุน และประโยคสรุปในย่อหน้าตัวอย่าง ก่อนให้เขียนเอง",
+  "น่าจะได้ฝึกเขียนย่อหน้าหลายประเภท เช่น บรรยาย เล่าเรื่อง อธิบายขั้นตอน เปรียบเทียบ เหตุและผล และแสดงความคิดเห็น",
+  "อาจให้คะแนนด้วยเกณฑ์ (rubric) ที่ดูเรื่องเอกภาพ สัมพันธภาพ การใช้คำเชื่อม และไวยากรณ์",
+  "คาดว่าบางครั้งจะมีการเขียนในห้องแบบจับเวลา (in-class writing) เพื่อดูว่าเขียนเองได้จริง"
+ ],
+ "units": [
+  {
+   "id": "ENL222-U1",
+   "title_th": "ประโยคใจความสำคัญและความคิดควบคุม",
+   "title_en": "Topic Sentences and Controlling Ideas",
+   "covers": "องค์ประกอบและโครงสร้างของย่อหน้า",
+   "minutes": 13,
+   "cards": [
+    {
+     "title_th": "ย่อหน้าคืออะไร",
+     "body_th": "ย่อหน้า (paragraph) คือกลุ่มประโยคที่พูดถึงใจความหลักเพียงเรื่องเดียว เริ่มบรรทัดใหม่โดยย่อหน้าเข้าไป (indent) หรือเว้นบรรทัด คุณเคยเจอหลักนี้แล้วใน ENL182 ฝั่งภาษาไทย ภาษาอังกฤษใช้หลักเดียวกัน"
+    },
+    {
+     "title_th": "โครง 3 ส่วน",
+     "body_th": "ประโยคใจความสำคัญ (topic sentence) ตามด้วยประโยคสนับสนุน (supporting sentences) แล้วปิดด้วยประโยคสรุป (concluding sentence)"
+    },
+    {
+     "title_th": "หัวเรื่อง + ความคิดควบคุม",
+     "body_th": "ประโยคใจความสำคัญที่ดีมี 2 ส่วน หัวเรื่อง (topic) คือเรื่องที่พูด ความคิดควบคุม (controlling idea) คือมุมที่จะพูดถึงเรื่องนั้น ซึ่งจำกัดว่าย่อหน้านี้จะพูดอะไรบ้าง",
+     "example": "Street food in Bangkok (topic) / is cheap and tasty (controlling idea)."
+    },
+    {
+     "title_th": "ไม่กว้างไป ไม่แคบไป",
+     "body_th": "กว้างไปจะเขียนไม่จบในย่อหน้าเดียว แคบไปเป็นแค่ข้อเท็จจริง ไม่มีอะไรให้ขยายต่อ",
+     "example": "Too broad: Food is interesting. / Too narrow: My noodles cost 50 baht. / Good: Cooking noodles at home saves students money."
+    },
+    {
+     "title_th": "วางไว้ตรงไหน",
+     "body_th": "ในงานเขียนวิชาการภาษาอังกฤษ ส่วนใหญ่วางประโยคใจความสำคัญไว้เป็นประโยคแรก ผู้อ่านจะรู้ทันทีว่าย่อหน้านี้พูดเรื่องอะไร"
+    }
+   ],
+   "vocab": [
+    [
+     "paragraph",
+     "ย่อหน้า"
+    ],
+    [
+     "topic sentence",
+     "ประโยคใจความสำคัญ"
+    ],
+    [
+     "topic",
+     "หัวเรื่อง"
+    ],
+    [
+     "controlling idea",
+     "ความคิดควบคุม (มุมที่จะพูดถึงหัวเรื่อง)"
+    ],
+    [
+     "main idea",
+     "ใจความหลัก"
+    ],
+    [
+     "indent",
+     "การย่อหน้าเข้าไป"
+    ],
+    [
+     "too broad",
+     "กว้างเกินไป"
+    ],
+    [
+     "too narrow",
+     "แคบเกินไป"
+    ],
+    [
+     "specific",
+     "เจาะจง"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL222-U1-01",
+     "skill": "ENL222-U1",
+     "difficulty": 1,
+     "stem": "What does a topic sentence do?",
+     "options": [
+      "It tells the main idea of the paragraph.",
+      "It gives the last small detail of the paragraph.",
+      "It lists all the sources you used.",
+      "It must always be a question to the reader."
+     ],
+     "answer": 0,
+     "explanation_th": "ประโยคใจความสำคัญบอกใจความหลักของทั้งย่อหน้า",
+     "why_wrong": [
+      null,
+      "รายละเอียดเล็ก ๆ เป็นหน้าที่ของประโยคสนับสนุน ไม่ใช่ประโยคใจความสำคัญ",
+      "การบอกแหล่งข้อมูลอยู่ในการอ้างอิง ไม่ใช่หน้าที่ของประโยคใจความสำคัญ",
+      "ประโยคใจความสำคัญเป็นประโยคบอกเล่า ไม่จำเป็นต้องเป็นคำถาม"
+     ]
+    },
+    {
+     "id": "ENL222-U1-02",
+     "skill": "ENL222-U1",
+     "difficulty": 1,
+     "stem": "Topic sentence: 'Living in a dorm teaches students to be independent.' What is the topic?",
+     "options": [
+      "teaches students to be independent",
+      "living in a dorm",
+      "independent",
+      "teaches"
+     ],
+     "answer": 1,
+     "explanation_th": "หัวเรื่องคือเรื่องที่ย่อหน้าพูดถึง คือการอยู่หอพัก",
+     "why_wrong": [
+      "ส่วนนี้คือความคิดควบคุม บอกมุมที่จะพูด ไม่ใช่หัวเรื่อง",
+      null,
+      "เป็นคำหนึ่งในความคิดควบคุม ไม่ใช่เรื่องที่พูดถึง",
+      "เป็นแค่คำกริยา ไม่ใช่หัวเรื่อง"
+     ]
+    },
+    {
+     "id": "ENL222-U1-03",
+     "skill": "ENL222-U1",
+     "difficulty": 1,
+     "stem": "Topic sentence: 'Chiang Mai is a great city for a cheap holiday.' What is the controlling idea?",
+     "options": [
+      "Chiang Mai",
+      "is",
+      "a great city for a cheap holiday",
+      "a great city"
+     ],
+     "answer": 2,
+     "explanation_th": "ความคิดควบคุมบอกว่าจะพูดถึงเชียงใหม่ในมุมไหน คือเป็นที่เที่ยวราคาถูก",
+     "why_wrong": [
+      "Chiang Mai คือหัวเรื่อง ไม่ใช่ความคิดควบคุม",
+      "เป็นแค่คำกริยาเชื่อม ไม่ได้บอกมุมของเรื่อง",
+      null,
+      "บอกไม่ครบ ขาดคำว่า cheap holiday ซึ่งเป็นมุมที่ย่อหน้าจะพูดจริง ๆ"
+     ]
+    },
+    {
+     "id": "ENL222-U1-04",
+     "skill": "ENL222-U1",
+     "difficulty": 2,
+     "stem": "Which is the best topic sentence for a paragraph?",
+     "options": [
+      "Online classes have two big advantages for busy students.",
+      "Online classes exist.",
+      "My online class started at 9:00 this morning.",
+      "In this paragraph, I am going to write about something."
+     ],
+     "answer": 0,
+     "explanation_th": "มีหัวเรื่อง (online classes) และความคิดควบคุม (two big advantages for busy students) ชัดเจน",
+     "why_wrong": [
+      null,
+      "กว้างและว่างเกินไป ไม่มีความคิดควบคุมให้ขยายต่อ",
+      "เป็นข้อเท็จจริงแคบ ๆ ขยายเป็นย่อหน้าไม่ได้",
+      "เป็นประโยคประกาศ ไม่บอกทั้งหัวเรื่องและความคิดควบคุม"
+     ]
+    },
+    {
+     "id": "ENL222-U1-05",
+     "skill": "ENL222-U1",
+     "difficulty": 2,
+     "stem": "Which topic sentence is too broad?",
+     "options": [
+      "Badminton is a cheap sport for university students.",
+      "Sports are good.",
+      "Running in the evening helps me sleep better.",
+      "Thai football fans often stay up late to watch European matches."
+     ],
+     "answer": 1,
+     "explanation_th": "Sports are good กว้างมาก ไม่รู้ว่ากีฬาอะไร ดีอย่างไร เขียนไม่จบในย่อหน้าเดียว",
+     "why_wrong": [
+      "เจาะจงพอดี มีหัวเรื่องและมุมชัด",
+      null,
+      "เจาะจงพอดี ขยายด้วยเหตุผลได้",
+      "เจาะจงพอดี พูดถึงกลุ่มคนและพฤติกรรมชัดเจน"
+     ]
+    },
+    {
+     "id": "ENL222-U1-06",
+     "skill": "ENL222-U1",
+     "difficulty": 2,
+     "stem": "Which sentence is too narrow (just a simple fact) to be a topic sentence?",
+     "options": [
+      "Smartphones change the way teenagers make friends.",
+      "There are three ways to save money on a phone plan.",
+      "My phone helps me study English in three ways.",
+      "My phone has a black case."
+     ],
+     "answer": 3,
+     "explanation_th": "เป็นข้อเท็จจริงสั้น ๆ ไม่มีอะไรให้อธิบายต่อ",
+     "why_wrong": [
+      "มีความคิดควบคุมที่ขยายได้ จึงใช้เป็นประโยคใจความได้",
+      "บอกว่าจะพูด 3 วิธี ขยายเป็นย่อหน้าได้",
+      "มีความคิดควบคุมชัด ขยายได้",
+      null
+     ]
+    },
+    {
+     "id": "ENL222-U1-07",
+     "skill": "ENL222-U1",
+     "difficulty": 2,
+     "stem": "Choose the best topic sentence for this paragraph. '____. First, a cat does not need a walk every day. Second, it can stay alone while its owner is at class. Finally, it needs only a small space.'",
+     "options": [
+      "Dogs need a lot of exercise every day.",
+      "Cats sleep a lot.",
+      "A cat is a good pet for a busy university student.",
+      "Many people have pets."
+     ],
+     "answer": 2,
+     "explanation_th": "เหตุผลทั้ง 3 ข้อแสดงว่าแมวเหมาะกับนักศึกษาที่ยุ่ง",
+     "why_wrong": [
+      "พูดเรื่องสุนัข แต่ย่อหน้าพูดเรื่องแมว",
+      "แคบไป ไม่ครอบคลุมเหตุผลทั้ง 3 ข้อ",
+      null,
+      "กว้างไป ไม่บอกว่าพูดถึงแมวกับนักศึกษา"
+     ]
+    },
+    {
+     "id": "ENL222-U1-08",
+     "skill": "ENL222-U1",
+     "difficulty": 3,
+     "stem": "Which sentence is a supporting detail, NOT a topic sentence?",
+     "options": [
+      "There are several easy ways to save money at university.",
+      "For example, I save 30 baht a day by bringing water from home.",
+      "Cooking at home has three main benefits.",
+      "Learning a second language can open new job doors."
+     ],
+     "answer": 1,
+     "explanation_th": "ขึ้นต้นด้วย For example และเป็นตัวอย่างเจาะจง จึงเป็นรายละเอียดสนับสนุน",
+     "why_wrong": [
+      "เป็นประโยคใจความ มีหัวเรื่องและความคิดควบคุม",
+      null,
+      "เป็นประโยคใจความ บอกว่าจะพูด 3 ข้อดี",
+      "เป็นประโยคใจความ ขยายเป็นย่อหน้าได้"
+     ]
+    },
+    {
+     "id": "ENL222-U1-09",
+     "skill": "ENL222-U1",
+     "difficulty": 1,
+     "stem": "Where is the topic sentence usually found in an academic English paragraph?",
+     "options": [
+      "at the beginning",
+      "after the concluding sentence",
+      "only in the title",
+      "in the middle, after the examples"
+     ],
+     "answer": 0,
+     "explanation_th": "งานเขียนวิชาการภาษาอังกฤษส่วนใหญ่วางประโยคใจความไว้ต้นย่อหน้า",
+     "why_wrong": [
+      null,
+      "ประโยคสรุปอยู่ท้ายสุด จึงไม่มีอะไรอยู่หลังมัน",
+      "ชื่อเรื่องไม่ใช่ประโยคในย่อหน้า",
+      "วางกลางย่อหน้าได้บ้าง แต่ไม่ใช่ตำแหน่งปกติในงานวิชาการ"
+     ]
+    }
+   ],
+   "say": [
+    "A paragraph has one main idea.",
+    "My topic sentence has a topic and a controlling idea.",
+    "This sentence is too broad, so I will make it more specific."
+   ],
+   "task_th": "เลือกหัวเรื่อง 3 เรื่องจากชีวิตคุณ เช่น เกมที่ชอบ ร้านอาหารใกล้บ้าน หรือวิชาที่ชอบ เขียนประโยคใจความสำคัญภาษาอังกฤษเรื่องละ 1 ประโยค แล้ววงหัวเรื่องและขีดเส้นใต้ความคิดควบคุม"
+  },
+  {
+   "id": "ENL222-U2",
+   "title_th": "ประโยคสนับสนุนและประโยคสรุป",
+   "title_en": "Supporting and Concluding Sentences",
+   "covers": "โครงสร้างของย่อหน้า",
+   "minutes": 13,
+   "cards": [
+    {
+     "title_th": "ประโยคสนับสนุน",
+     "body_th": "อธิบาย พิสูจน์ หรือขยายความคิดควบคุม ใช้ได้หลายแบบ เหตุผล ตัวอย่าง ข้อเท็จจริง ตัวเลข หรือประสบการณ์ของตัวเอง"
+    },
+    {
+     "title_th": "ประเด็นหลักกับรายละเอียด",
+     "body_th": "ประเด็นสนับสนุนหลัก (major support) ตอบความคิดควบคุมโดยตรง รายละเอียด (minor support) ขยายประเด็นหลักด้วยตัวอย่างหรือข้อมูล",
+     "example": "Major: First, students earn their own money. / Minor: For instance, I earn 3,000 baht a month at a cafe."
+    },
+    {
+     "title_th": "ประโยคสรุป",
+     "body_th": "ปิดย่อหน้าโดยกล่าวใจความหลักซ้ำด้วยคำใหม่ (restate) หรือสรุปประเด็น หรือให้ข้อคิดสั้น ๆ ห้ามเปิดเรื่องใหม่"
+    },
+    {
+     "title_th": "คำขึ้นต้นประโยคสรุป",
+     "body_th": "In conclusion, In short, In summary, Overall, For these reasons"
+    },
+    {
+     "title_th": "โครงร่างย่อหน้า",
+     "body_th": "เขียนโน้ตก่อนเขียนจริง ช่วยให้ไม่หลุดเรื่อง",
+     "example": "TS / Major 1 + minor / Major 2 + minor / Major 3 + minor / CS"
+    }
+   ],
+   "vocab": [
+    [
+     "supporting sentence",
+     "ประโยคสนับสนุน"
+    ],
+    [
+     "major support",
+     "ประเด็นสนับสนุนหลัก"
+    ],
+    [
+     "minor support",
+     "รายละเอียดสนับสนุน"
+    ],
+    [
+     "concluding sentence",
+     "ประโยคสรุป"
+    ],
+    [
+     "evidence",
+     "หลักฐาน"
+    ],
+    [
+     "restate",
+     "กล่าวซ้ำด้วยคำใหม่"
+    ],
+    [
+     "summarize",
+     "สรุป"
+    ],
+    [
+     "detail",
+     "รายละเอียด"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL222-U2-01",
+     "skill": "ENL222-U2",
+     "difficulty": 1,
+     "stem": "What is the job of supporting sentences?",
+     "options": [
+      "They start a new topic.",
+      "They repeat the topic sentence with the same words.",
+      "They give the title of the paragraph.",
+      "They explain or prove the topic sentence."
+     ],
+     "answer": 3,
+     "explanation_th": "ประโยคสนับสนุนให้เหตุผล ตัวอย่าง หรือข้อมูลที่ทำให้ใจความหลักน่าเชื่อ",
+     "why_wrong": [
+      "การเปิดเรื่องใหม่ทำให้ย่อหน้าเสียเอกภาพ",
+      "การพูดซ้ำคำเดิมไม่ได้เพิ่มข้อมูลหรือเหตุผล",
+      "ย่อหน้าไม่ต้องมีชื่อเรื่อง และนี่ไม่ใช่หน้าที่ของประโยคสนับสนุน",
+      null
+     ]
+    },
+    {
+     "id": "ENL222-U2-02",
+     "skill": "ENL222-U2",
+     "difficulty": 2,
+     "stem": "Topic sentence: 'Riding a bicycle to campus has many benefits.' Which sentence supports it?",
+     "options": [
+      "Many cars in Bangkok are white.",
+      "My brother bought a new motorbike last year.",
+      "Some students like to sleep late on Sundays.",
+      "It is free, so I save money on bus fares."
+     ],
+     "answer": 3,
+     "explanation_th": "การประหยัดค่ารถเมล์เป็นข้อดีของการปั่นจักรยาน จึงสนับสนุนประโยคใจความ",
+     "why_wrong": [
+      "ไม่เกี่ยวกับข้อดีของการปั่นจักรยาน",
+      "พูดเรื่องรถมอเตอร์ไซค์ของพี่ ไม่ได้สนับสนุนใจความ",
+      "ไม่เกี่ยวกับจักรยานเลย",
+      null
+     ]
+    },
+    {
+     "id": "ENL222-U2-03",
+     "skill": "ENL222-U2",
+     "difficulty": 2,
+     "stem": "Which is the best concluding sentence for a paragraph about why breakfast is important for students?",
+     "options": [
+      "In short, a good breakfast gives students the energy to learn all morning.",
+      "In conclusion, lunch is also very delicious.",
+      "Next, I will tell you about my favorite dinner.",
+      "Breakfast."
+     ],
+     "answer": 0,
+     "explanation_th": "ย้ำใจความหลักเรื่องความสำคัญของอาหารเช้าด้วยคำใหม่",
+     "why_wrong": [
+      null,
+      "เปลี่ยนไปพูดเรื่องอาหารกลางวัน เป็นเรื่องใหม่",
+      "เปิดเรื่องใหม่ ประโยคสรุปต้องปิดเรื่องเดิม",
+      "เป็นแค่คำเดียว ไม่ใช่ประโยค"
+     ]
+    },
+    {
+     "id": "ENL222-U2-04",
+     "skill": "ENL222-U2",
+     "difficulty": 2,
+     "stem": "A good concluding sentence should NOT ____.",
+     "options": [
+      "restate the main idea",
+      "summarize the main points",
+      "add a brand-new idea",
+      "give a final thought about the topic"
+     ],
+     "answer": 2,
+     "explanation_th": "ความคิดใหม่ที่ยังไม่ได้อธิบายทำให้ผู้อ่านสับสน ควรอยู่ในย่อหน้าอื่น",
+     "why_wrong": [
+      "การย้ำใจความด้วยคำใหม่เป็นสิ่งที่ประโยคสรุปควรทำ",
+      "การสรุปประเด็นเป็นหน้าที่หลักของประโยคสรุป",
+      null,
+      "ข้อคิดส่งท้ายที่เกี่ยวกับเรื่องเดิมใช้ปิดย่อหน้าได้"
+     ]
+    },
+    {
+     "id": "ENL222-U2-05",
+     "skill": "ENL222-U2",
+     "difficulty": 1,
+     "stem": "Which phrase often starts a concluding sentence?",
+     "options": [
+      "For example,",
+      "In summary,",
+      "First,",
+      "However,"
+     ],
+     "answer": 1,
+     "explanation_th": "In summary แปลว่า โดยสรุป ใช้นำประโยคสรุป",
+     "why_wrong": [
+      "ใช้นำตัวอย่าง ซึ่งเป็นประโยคสนับสนุน",
+      null,
+      "ใช้บอกประเด็นแรก อยู่ต้นหรือกลางย่อหน้า",
+      "ใช้บอกความขัดแย้ง ไม่ได้บอกว่ากำลังสรุป"
+     ]
+    },
+    {
+     "id": "ENL222-U2-06",
+     "skill": "ENL222-U2",
+     "difficulty": 3,
+     "stem": "Topic sentence: 'Part-time jobs help students in two ways.' Major support: 'First, students earn their own money.' Which sentence is a minor support for this point?",
+     "options": [
+      "Second, they learn how to work with other people.",
+      "Part-time jobs help students in two ways.",
+      "Some part-time jobs are boring.",
+      "For instance, I earn about 3,000 baht a month at a coffee shop."
+     ],
+     "answer": 3,
+     "explanation_th": "เป็นตัวอย่างเจาะจงที่ขยายประเด็นเรื่องหาเงินเองได้",
+     "why_wrong": [
+      "เป็นประเด็นหลักข้อที่ 2 ไม่ใช่รายละเอียดของเรื่องหาเงิน",
+      "เป็นประโยคใจความสำคัญเอง",
+      "ไม่ได้ขยายเรื่องการหาเงินเอง และยังขัดกับใจความของย่อหน้า",
+      null
+     ]
+    },
+    {
+     "id": "ENL222-U2-07",
+     "skill": "ENL222-U2",
+     "difficulty": 2,
+     "stem": "What kind of support is this? 'About 80% of the students in my class use a phone app to study vocabulary.'",
+     "options": [
+      "a personal story",
+      "a number (statistic)",
+      "a definition",
+      "a quotation from an expert"
+     ],
+     "answer": 1,
+     "explanation_th": "ใช้ตัวเลขร้อยละเป็นหลักฐาน จึงเป็นการสนับสนุนด้วยสถิติ",
+     "why_wrong": [
+      "ไม่ได้เล่าเหตุการณ์ที่เกิดกับตัวเอง",
+      null,
+      "ไม่ได้อธิบายความหมายของคำ",
+      "ไม่มีการยกคำพูดของผู้เชี่ยวชาญ"
+     ]
+    },
+    {
+     "id": "ENL222-U2-08",
+     "skill": "ENL222-U2",
+     "difficulty": 1,
+     "stem": "Which order shows the usual structure of an academic paragraph?",
+     "options": [
+      "concluding sentence, topic sentence, supporting sentences",
+      "supporting sentences, concluding sentence, topic sentence",
+      "topic sentence, supporting sentences, concluding sentence",
+      "topic sentence, concluding sentence, supporting sentences"
+     ],
+     "answer": 2,
+     "explanation_th": "ใจความ แล้วสนับสนุน แล้วสรุป เป็นลำดับมาตรฐาน",
+     "why_wrong": [
+      "ประโยคสรุปต้องอยู่ท้าย ไม่ใช่ต้น",
+      "ผู้อ่านจะไม่รู้ใจความจนถึงประโยคสุดท้าย",
+      null,
+      "สรุปก่อนให้เหตุผล ทำให้ลำดับผิด"
+     ]
+    },
+    {
+     "id": "ENL222-U2-09",
+     "skill": "ENL222-U2",
+     "difficulty": 3,
+     "stem": "Topic sentence: 'Learning to cook saves students money.' Which concluding sentence restates it in new words?",
+     "options": [
+      "In short, making your own meals is a cheap way to eat at university.",
+      "In short, learning to cook saves students money.",
+      "In short, restaurants near campus are noisy.",
+      "In short, my mother is a great cook."
+     ],
+     "answer": 0,
+     "explanation_th": "ความหมายเดิม (ทำอาหารเองประหยัด) แต่ใช้คำใหม่",
+     "why_wrong": [
+      null,
+      "ใช้คำเดิมทุกคำ ไม่ได้กล่าวซ้ำด้วยคำใหม่",
+      "พูดเรื่องเสียงดังในร้าน เป็นเรื่องใหม่",
+      "พูดถึงแม่ ไม่ได้ย้ำเรื่องประหยัดเงิน"
+     ]
+    }
+   ],
+   "say": [
+    "Each supporting sentence explains my topic sentence.",
+    "For example, I save money when I cook at home.",
+    "In short, my concluding sentence repeats the main idea in new words."
+   ],
+   "task_th": "เลือกประโยคใจความที่เขียนไว้จากหน่วยก่อน 1 ประโยค เขียนโน้ตประเด็นหลัก 3 ข้อ ใส่รายละเอียดหรือตัวอย่างข้อละ 1 อย่าง แล้วเขียนประโยคสรุปที่ใช้คำใหม่ 1 ประโยค"
+  },
+  {
+   "id": "ENL222-U3",
+   "title_th": "เอกภาพ สัมพันธภาพ และคำเชื่อม",
+   "title_en": "Unity, Coherence and Transitions",
+   "covers": "โครงสร้างของย่อหน้า",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "เอกภาพ (unity)",
+     "body_th": "ทุกประโยคต้องสนับสนุนความคิดควบคุมเดียวกัน ประโยคนอกเรื่อง (irrelevant sentence) ต้องตัดออก แม้จะเป็นประโยคที่ดีก็ตาม"
+    },
+    {
+     "title_th": "สัมพันธภาพ (coherence)",
+     "body_th": "ประโยคต่อกันลื่นและตามได้ง่าย ทำได้ด้วย ลำดับที่สมเหตุสมผล คำเชื่อม คำสรรพนามที่ชี้ชัด และการใช้คำสำคัญซ้ำ"
+    },
+    {
+     "title_th": "คำเชื่อมตามหน้าที่",
+     "body_th": "เพิ่มข้อมูล also, in addition, moreover / ขัดแย้ง however, on the other hand / ตัวอย่าง for example, for instance / ผลลัพธ์ as a result, therefore / ลำดับ first, next, finally"
+    },
+    {
+     "title_th": "ระวังเครื่องหมาย",
+     "body_th": "However ขึ้นต้นประโยคใหม่แล้วตามด้วย comma ห้ามใช้ comma อย่างเดียวเชื่อม 2 ประโยค",
+     "example": "The test was hard. However, I passed it."
+    },
+    {
+     "title_th": "ลำดับ 3 แบบ",
+     "body_th": "ลำดับเวลา (chronological order) ลำดับพื้นที่ (spatial order) และลำดับความสำคัญ (order of importance) เลือกให้เข้ากับเรื่อง"
+    }
+   ],
+   "vocab": [
+    [
+     "unity",
+     "เอกภาพ"
+    ],
+    [
+     "coherence",
+     "สัมพันธภาพ (ความต่อเนื่องลื่นไหล)"
+    ],
+    [
+     "transition",
+     "คำเชื่อม"
+    ],
+    [
+     "irrelevant",
+     "ไม่เกี่ยวข้อง"
+    ],
+    [
+     "logical order",
+     "ลำดับที่สมเหตุสมผล"
+    ],
+    [
+     "chronological order",
+     "ลำดับเวลา"
+    ],
+    [
+     "order of importance",
+     "ลำดับความสำคัญ"
+    ],
+    [
+     "pronoun",
+     "คำสรรพนาม"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL222-U3-01",
+     "skill": "ENL222-U3",
+     "difficulty": 1,
+     "stem": "A paragraph has unity when ____.",
+     "options": [
+      "every sentence supports the same main idea",
+      "every sentence starts with the same word",
+      "it has at least ten sentences",
+      "it uses many difficult words"
+     ],
+     "answer": 0,
+     "explanation_th": "เอกภาพคือทุกประโยคอยู่ในเรื่องเดียวกัน",
+     "why_wrong": [
+      null,
+      "การขึ้นต้นเหมือนกันไม่เกี่ยวกับเอกภาพ และทำให้อ่านน่าเบื่อ",
+      "ความยาวไม่ได้ทำให้เกิดเอกภาพ",
+      "คำยากไม่เกี่ยวกับการพูดเรื่องเดียวกัน"
+     ]
+    },
+    {
+     "id": "ENL222-U3-02",
+     "skill": "ENL222-U3",
+     "difficulty": 2,
+     "stem": "Read the paragraph. (1) My dorm room is small but comfortable. (2) My bed is soft and gets the morning sun. (3) My cousin lives in a big house in Khon Kaen. (4) A small fan keeps the room cool at night. Which sentence breaks the unity?",
+     "options": [
+      "Sentence 1",
+      "Sentence 2",
+      "Sentence 3",
+      "Sentence 4"
+     ],
+     "answer": 2,
+     "explanation_th": "บ้านของญาติไม่เกี่ยวกับห้องหอที่สบาย จึงทำให้เสียเอกภาพ",
+     "why_wrong": [
+      "ประโยค 1 คือประโยคใจความสำคัญ",
+      "เตียงนุ่มเป็นเหตุผลว่าห้องสบาย จึงอยู่ในเรื่อง",
+      null,
+      "พัดลมทำให้ห้องเย็นสบาย สนับสนุนใจความ"
+     ]
+    },
+    {
+     "id": "ENL222-U3-03",
+     "skill": "ENL222-U3",
+     "difficulty": 2,
+     "stem": "Read the paragraph. (1) Team sports teach young people useful life skills. (2) Players learn to work with others toward one goal. (3) They also learn how to lose and try again. (4) Many video games now have very good graphics. Which sentence breaks the unity?",
+     "options": [
+      "Sentence 1",
+      "Sentence 2",
+      "Sentence 3",
+      "Sentence 4"
+     ],
+     "answer": 3,
+     "explanation_th": "กราฟิกของเกมไม่เกี่ยวกับทักษะชีวิตจากกีฬาประเภททีม",
+     "why_wrong": [
+      "ประโยค 1 คือประโยคใจความสำคัญ",
+      "การทำงานเป็นทีมเป็นทักษะชีวิต สนับสนุนใจความ",
+      "การรู้จักแพ้แล้วลองใหม่เป็นทักษะชีวิต สนับสนุนใจความ",
+      null
+     ]
+    },
+    {
+     "id": "ENL222-U3-04",
+     "skill": "ENL222-U3",
+     "difficulty": 1,
+     "stem": "I wanted to go to the concert. ____, the tickets were sold out.",
+     "options": [
+      "For example",
+      "However",
+      "In addition",
+      "First"
+     ],
+     "answer": 1,
+     "explanation_th": "อยากไป แต่บัตรหมด เป็นความขัดแย้ง จึงใช้ However",
+     "why_wrong": [
+      "ประโยคหลังไม่ใช่ตัวอย่างของความต้องการไปคอนเสิร์ต",
+      null,
+      "ประโยคหลังไม่ได้เพิ่มข้อมูลไปทางเดียวกัน แต่ขัดกัน",
+      "ไม่ได้เรียงลำดับขั้นตอน"
+     ]
+    },
+    {
+     "id": "ENL222-U3-05",
+     "skill": "ENL222-U3",
+     "difficulty": 1,
+     "stem": "Fruit is a healthy snack. ____, a banana gives you energy and fiber.",
+     "options": [
+      "However",
+      "As a result",
+      "For example",
+      "In contrast"
+     ],
+     "answer": 2,
+     "explanation_th": "กล้วยเป็นตัวอย่างของผลไม้ที่เป็นของว่างมีประโยชน์",
+     "why_wrong": [
+      "ประโยคหลังไม่ได้ขัดแย้งกับประโยคแรก",
+      "กล้วยไม่ใช่ผลที่เกิดจากการที่ผลไม้มีประโยชน์",
+      null,
+      "ไม่ได้เปรียบเทียบความต่าง"
+     ]
+    },
+    {
+     "id": "ENL222-U3-06",
+     "skill": "ENL222-U3",
+     "difficulty": 2,
+     "stem": "It rained all night. ____, many streets were flooded the next morning.",
+     "options": [
+      "For instance",
+      "On the other hand",
+      "Similarly",
+      "As a result"
+     ],
+     "answer": 3,
+     "explanation_th": "น้ำท่วมเป็นผลจากฝนตกทั้งคืน จึงใช้ As a result",
+     "why_wrong": [
+      "น้ำท่วมไม่ใช่ตัวอย่างของฝนตก แต่เป็นผลของฝนตก",
+      "ไม่ได้เสนออีกด้านที่ขัดกัน",
+      "ไม่ได้บอกสิ่งที่คล้ายกัน",
+      null
+     ]
+    },
+    {
+     "id": "ENL222-U3-07",
+     "skill": "ENL222-U3",
+     "difficulty": 2,
+     "stem": "Learning English can help you get a better job. ____, it lets you enjoy movies without subtitles.",
+     "options": [
+      "In addition",
+      "However",
+      "As a result",
+      "Instead"
+     ],
+     "answer": 0,
+     "explanation_th": "เพิ่มข้อดีอีกข้อของการเรียนภาษาอังกฤษ จึงใช้ In addition",
+     "why_wrong": [
+      null,
+      "ประโยคหลังเป็นข้อดีอีกข้อ ไม่ได้ขัดแย้ง",
+      "การดูหนังได้ไม่ใช่ผลของการได้งานดี",
+      "ไม่ได้บอกว่าทำอย่างหนึ่งแทนอีกอย่าง"
+     ]
+    },
+    {
+     "id": "ENL222-U3-08",
+     "skill": "ENL222-U3",
+     "difficulty": 3,
+     "stem": "Put the sentences in the best order. A. Then, wait three minutes for the noodles to get soft. B. First, open the cup of instant noodles. C. Finally, stir and enjoy your meal. D. Next, pour hot water into the cup.",
+     "options": [
+      "B, A, D, C",
+      "D, B, A, C",
+      "B, D, A, C",
+      "C, B, D, A"
+     ],
+     "answer": 2,
+     "explanation_th": "เปิดถ้วย เทน้ำร้อน รอ 3 นาที แล้วคนและกิน",
+     "why_wrong": [
+      "รอให้เส้นนิ่มก่อนเทน้ำร้อนไม่ได้ เส้นยังไม่ได้แช่น้ำ",
+      "เทน้ำก่อนเปิดถ้วยไม่ได้",
+      null,
+      "Finally ต้องอยู่ท้ายสุด"
+     ]
+    },
+    {
+     "id": "ENL222-U3-09",
+     "skill": "ENL222-U3",
+     "difficulty": 2,
+     "stem": "Which is a good way to make a paragraph coherent?",
+     "options": [
+      "Change the topic in every sentence.",
+      "Use transitions to connect the ideas.",
+      "Use a different name for the same thing in every sentence.",
+      "Put the sentences in random order."
+     ],
+     "answer": 1,
+     "explanation_th": "คำเชื่อมบอกความสัมพันธ์ระหว่างประโยค ทำให้อ่านลื่น",
+     "why_wrong": [
+      "ทำให้เสียทั้งเอกภาพและสัมพันธภาพ",
+      null,
+      "ผู้อ่านจะสับสนว่าพูดถึงสิ่งเดียวกันหรือไม่",
+      "ลำดับสุ่มทำให้ตามความคิดไม่ได้"
+     ]
+    },
+    {
+     "id": "ENL222-U3-10",
+     "skill": "ENL222-U3",
+     "difficulty": 3,
+     "stem": "Which sentence uses 'however' correctly?",
+     "options": [
+      "The test was hard, however I passed it.",
+      "The test was hard however, I passed it.",
+      "However the test was hard I passed it.",
+      "The test was hard. However, I passed it."
+     ],
+     "answer": 3,
+     "explanation_th": "However ขึ้นต้นประโยคใหม่แล้วตามด้วย comma",
+     "why_wrong": [
+      "ใช้ comma อย่างเดียวเชื่อม 2 ประโยค (comma splice) และไม่มี comma หลัง however",
+      "ไม่มีจุดหรือ semicolon คั่นก่อน however",
+      "วางผิดตำแหน่ง ความหมายเพี้ยน และขาดเครื่องหมาย",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "Every sentence in my paragraph is about one idea.",
+    "I use transitions like however and as a result.",
+    "This sentence is off topic, so I will delete it."
+   ],
+   "task_th": "เขียนย่อหน้า 6 ประโยคเรื่องเช้าวันเรียนของคุณ ใช้ First, Next, After that, Finally อย่างละ 1 ครั้ง แล้วแอบใส่ประโยคนอกเรื่อง 1 ประโยค พรุ่งนี้กลับมาอ่านแล้วหาให้เจอ"
+  },
+  {
+   "id": "ENL222-U4",
+   "title_th": "ย่อหน้าบรรยายและย่อหน้าเล่าเรื่อง",
+   "title_en": "Descriptive and Narrative Paragraphs",
+   "covers": "และฝึกเขียนย่อหน้าประเภทต่าง ๆ",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "ย่อหน้าบรรยาย (descriptive)",
+     "body_th": "วาดภาพคน สถานที่ หรือสิ่งของด้วยคำ ใช้ประสาทสัมผัสทั้ง 5 เห็น ได้ยิน ได้กลิ่น รับรส สัมผัส"
+    },
+    {
+     "title_th": "คำคุณศัพท์ที่เจาะจง",
+     "body_th": "เลี่ยงคำกว้างอย่าง nice, good ใช้คำที่ให้ภาพชัดแทน",
+     "example": "nice food → crispy, sweet-smelling grilled pork"
+    },
+    {
+     "title_th": "ลำดับพื้นที่ (spatial order)",
+     "body_th": "บรรยายจากซ้ายไปขวา บนลงล่าง หรือใกล้ไปไกล ใช้คำบอกตำแหน่ง",
+     "example": "on the left, in the middle, next to, above, behind"
+    },
+    {
+     "title_th": "ย่อหน้าเล่าเรื่อง (narrative)",
+     "body_th": "เล่าเหตุการณ์ตามลำดับเวลา มักใช้ past simple ใช้คำเชื่อมเวลา first, then, after that, suddenly, finally"
+    },
+    {
+     "title_th": "เรื่องเล่าต้องมีประเด็น",
+     "body_th": "ประโยคใจความบอกว่าเรื่องนี้สำคัญอย่างไร ประโยคสรุปบอกบทเรียนหรือความรู้สึก",
+     "example": "My first day at the dorm taught me to ask for help."
+    }
+   ],
+   "vocab": [
+    [
+     "descriptive",
+     "เชิงบรรยายลักษณะ"
+    ],
+    [
+     "narrative",
+     "เชิงเล่าเรื่อง"
+    ],
+    [
+     "the five senses",
+     "ประสาทสัมผัสทั้ง 5"
+    ],
+    [
+     "sensory detail",
+     "รายละเอียดทางประสาทสัมผัส"
+    ],
+    [
+     "spatial order",
+     "ลำดับตามพื้นที่"
+    ],
+    [
+     "adjective",
+     "คำคุณศัพท์"
+    ],
+    [
+     "event",
+     "เหตุการณ์"
+    ],
+    [
+     "past simple",
+     "อดีตกาลธรรมดา"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL222-U4-01",
+     "skill": "ENL222-U4",
+     "difficulty": 1,
+     "stem": "A descriptive paragraph mainly ____.",
+     "options": [
+      "tells the steps to make something",
+      "paints a picture of a person, place or thing with words",
+      "argues that one side is right",
+      "explains why something happened"
+     ],
+     "answer": 1,
+     "explanation_th": "ย่อหน้าบรรยายทำให้ผู้อ่านเห็นภาพ",
+     "why_wrong": [
+      "นั่นคือย่อหน้าอธิบายขั้นตอน (process)",
+      null,
+      "นั่นคือย่อหน้าแสดงความคิดเห็น (opinion)",
+      "นั่นคือย่อหน้าเหตุและผล (cause and effect)"
+     ]
+    },
+    {
+     "id": "ENL222-U4-02",
+     "skill": "ENL222-U4",
+     "difficulty": 1,
+     "stem": "A narrative paragraph mainly ____.",
+     "options": [
+      "tells a story in time order",
+      "compares two things",
+      "describes a room from left to right",
+      "gives reasons for an opinion"
+     ],
+     "answer": 0,
+     "explanation_th": "ย่อหน้าเล่าเรื่องเรียงเหตุการณ์ตามเวลา",
+     "why_wrong": [
+      null,
+      "นั่นคือย่อหน้าเปรียบเทียบ",
+      "นั่นคือย่อหน้าบรรยายแบบลำดับพื้นที่",
+      "นั่นคือย่อหน้าแสดงความคิดเห็น"
+     ]
+    },
+    {
+     "id": "ENL222-U4-03",
+     "skill": "ENL222-U4",
+     "difficulty": 2,
+     "stem": "Which sentence has the most specific sensory detail?",
+     "options": [
+      "The food was nice.",
+      "The food was very, very good.",
+      "I liked the food a lot.",
+      "The grilled pork smelled sweet and smoky, and the fat sizzled on the hot coals."
+     ],
+     "answer": 3,
+     "explanation_th": "มีทั้งกลิ่น (sweet and smoky) และเสียง (sizzled) ให้ภาพชัด",
+     "why_wrong": [
+      "nice กว้างมาก ไม่ให้ภาพหรือกลิ่น",
+      "เพิ่ม very ไม่ได้ทำให้เจาะจงขึ้น",
+      "บอกความชอบ แต่ไม่ได้บรรยายประสาทสัมผัส",
+      null
+     ]
+    },
+    {
+     "id": "ENL222-U4-04",
+     "skill": "ENL222-U4",
+     "difficulty": 2,
+     "stem": "Which phrase shows spatial order?",
+     "options": [
+      "after that",
+      "as a result",
+      "next to the window",
+      "in my opinion"
+     ],
+     "answer": 2,
+     "explanation_th": "บอกตำแหน่งในพื้นที่ จึงเป็นลำดับพื้นที่",
+     "why_wrong": [
+      "บอกลำดับเวลา ไม่ใช่ตำแหน่ง",
+      "บอกผลลัพธ์",
+      null,
+      "บอกความคิดเห็น"
+     ]
+    },
+    {
+     "id": "ENL222-U4-05",
+     "skill": "ENL222-U4",
+     "difficulty": 1,
+     "stem": "Which transition shows time order?",
+     "options": [
+      "next to",
+      "after that",
+      "similarly",
+      "in contrast"
+     ],
+     "answer": 1,
+     "explanation_th": "after that แปลว่า หลังจากนั้น ใช้เรียงเหตุการณ์ตามเวลา",
+     "why_wrong": [
+      "บอกตำแหน่ง ไม่ใช่เวลา",
+      null,
+      "บอกความเหมือน",
+      "บอกความต่าง"
+     ]
+    },
+    {
+     "id": "ENL222-U4-06",
+     "skill": "ENL222-U4",
+     "difficulty": 2,
+     "stem": "A narrative paragraph about last weekend usually uses which tense?",
+     "options": [
+      "future simple (will go)",
+      "present continuous (am going)",
+      "past simple (went, saw, felt)",
+      "future perfect (will have gone)"
+     ],
+     "answer": 2,
+     "explanation_th": "เรื่องที่เกิดแล้วในอดีตใช้ past simple",
+     "why_wrong": [
+      "ใช้กับสิ่งที่ยังไม่เกิด",
+      "ใช้กับสิ่งที่กำลังเกิด",
+      null,
+      "ใช้กับสิ่งที่จะเสร็จในอนาคต"
+     ]
+    },
+    {
+     "id": "ENL222-U4-07",
+     "skill": "ENL222-U4",
+     "difficulty": 3,
+     "stem": "What type of paragraph is this? 'My grandmother's kitchen is the warmest room in her house. On the left, a big pot of curry bubbles on the stove. In the middle stands an old wooden table with a red cloth. The air smells of garlic and lemongrass.'",
+     "options": [
+      "narrative",
+      "process",
+      "cause and effect",
+      "descriptive"
+     ],
+     "answer": 3,
+     "explanation_th": "บรรยายห้องครัวตามตำแหน่ง ใช้ภาพและกลิ่น",
+     "why_wrong": [
+      "ไม่ได้เล่าเหตุการณ์ที่เกิดต่อกันตามเวลา",
+      "ไม่ได้สอนขั้นตอนทำอะไร",
+      "ไม่ได้อธิบายสาเหตุหรือผล",
+      null
+     ]
+    },
+    {
+     "id": "ENL222-U4-08",
+     "skill": "ENL222-U4",
+     "difficulty": 3,
+     "stem": "What type of paragraph is this? 'Last Songkran, I got lost in Bangkok. First, I took the wrong bus. Then my phone battery died. After two hours, a kind street vendor showed me the way home. Since that day, I always carry a power bank.'",
+     "options": [
+      "narrative",
+      "descriptive",
+      "comparison and contrast",
+      "opinion"
+     ],
+     "answer": 0,
+     "explanation_th": "เล่าเหตุการณ์ตามลำดับเวลาและจบด้วยบทเรียน",
+     "why_wrong": [
+      null,
+      "ไม่ได้เน้นบรรยายลักษณะของสถานที่",
+      "ไม่ได้เปรียบเทียบ 2 สิ่ง",
+      "ไม่ได้โต้แย้งความคิดเห็น"
+     ]
+    },
+    {
+     "id": "ENL222-U4-09",
+     "skill": "ENL222-U4",
+     "difficulty": 3,
+     "stem": "Put the story in the best order. A. After that, I practiced every evening for a month. B. Last year, I failed my first guitar test. C. Finally, I passed the second test with a high score. D. I felt sad, but I did not give up.",
+     "options": [
+      "B, A, D, C",
+      "B, D, A, C",
+      "D, B, A, C",
+      "C, B, D, A"
+     ],
+     "answer": 1,
+     "explanation_th": "สอบตก รู้สึกเสียใจแต่ไม่ยอมแพ้ ซ้อมทุกเย็น สุดท้ายสอบผ่าน",
+     "why_wrong": [
+      "ความรู้สึกเสียใจต้องตามหลังการสอบตกทันที ไม่ใช่หลังซ้อมไปแล้ว",
+      null,
+      "ยังไม่รู้ว่าเสียใจเรื่องอะไร เพราะการสอบตกยังไม่เกิด",
+      "Finally ต้องอยู่ท้าย"
+     ]
+    }
+   ],
+   "say": [
+    "The market smells sweet and smoky.",
+    "On the left, there is a small noodle shop.",
+    "Last year, I got lost, but a kind vendor helped me."
+   ],
+   "task_th": "เปิดรูปห้องหรือร้านที่คุณชอบ 1 รูป เขียน 5 ประโยคภาษาอังกฤษบรรยายจากซ้ายไปขวา ใช้ประสาทสัมผัสอย่างน้อย 3 อย่าง และห้ามใช้คำว่า nice หรือ good"
+  },
+  {
+   "id": "ENL222-U5",
+   "title_th": "ย่อหน้าอธิบายขั้นตอนและย่อหน้ายกตัวอย่าง",
+   "title_en": "Process and Example Paragraphs",
+   "covers": "ฝึกเขียนย่อหน้าประเภทต่าง ๆ",
+   "minutes": 13,
+   "cards": [
+    {
+     "title_th": "ย่อหน้าอธิบายขั้นตอน (process)",
+     "body_th": "สอนวิธีทำบางอย่าง หรืออธิบายว่าบางอย่างเกิดขึ้นทีละขั้นอย่างไร เรียงตามลำดับเวลา"
+    },
+    {
+     "title_th": "ภาษาของขั้นตอน",
+     "body_th": "ใช้คำเชื่อมลำดับ First, Second, Next, Then, After that, Finally และมักใช้ประโยคคำสั่ง (imperative)",
+     "example": "First, wash the rice. Next, add water."
+    },
+    {
+     "title_th": "ประโยคใจความของ process",
+     "body_th": "บอกว่าจะสอนอะไรและมีกี่ขั้น",
+     "example": "You can make a simple study timetable in four easy steps."
+    },
+    {
+     "title_th": "ย่อหน้ายกตัวอย่าง (example)",
+     "body_th": "เริ่มด้วยข้อความทั่วไป แล้วพิสูจน์ด้วยตัวอย่างเจาะจง 2 ถึง 3 ตัวอย่างที่ตรงกับความคิดควบคุม ใช้ for example, for instance, another example is"
+    },
+    {
+     "title_th": "such as กับ for example",
+     "body_th": "such as ตามด้วยคำนามในประโยคเดียวกัน For example ขึ้นประโยคใหม่ได้",
+     "example": "I like sour fruits such as green mango. / For example, green mango is my favorite."
+    }
+   ],
+   "vocab": [
+    [
+     "process",
+     "กระบวนการ ขั้นตอน"
+    ],
+    [
+     "step",
+     "ขั้น"
+    ],
+    [
+     "instructions",
+     "คำแนะนำวิธีทำ"
+    ],
+    [
+     "imperative",
+     "ประโยคคำสั่ง"
+    ],
+    [
+     "for instance",
+     "ตัวอย่างเช่น"
+    ],
+    [
+     "such as",
+     "เช่น"
+    ],
+    [
+     "illustrate",
+     "แสดงให้เห็น"
+    ],
+    [
+     "general statement",
+     "ข้อความทั่วไป"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL222-U5-01",
+     "skill": "ENL222-U5",
+     "difficulty": 1,
+     "stem": "A process paragraph explains ____.",
+     "options": [
+      "how to do something step by step",
+      "why two things are different",
+      "what a place looks like",
+      "a person's opinion about a rule"
+     ],
+     "answer": 0,
+     "explanation_th": "process คือการอธิบายขั้นตอน",
+     "why_wrong": [
+      null,
+      "นั่นคือย่อหน้าเปรียบเทียบ",
+      "นั่นคือย่อหน้าบรรยาย",
+      "นั่นคือย่อหน้าแสดงความคิดเห็น"
+     ]
+    },
+    {
+     "id": "ENL222-U5-02",
+     "skill": "ENL222-U5",
+     "difficulty": 1,
+     "stem": "Which sentence uses the imperative, which is common in process paragraphs?",
+     "options": [
+      "I washed the rice yesterday.",
+      "The rice is very white.",
+      "Wash the rice two times.",
+      "My mother likes rice."
+     ],
+     "answer": 2,
+     "explanation_th": "ขึ้นต้นด้วยกริยารูปฐาน ไม่มีประธาน จึงเป็นประโยคคำสั่ง",
+     "why_wrong": [
+      "เป็นการเล่าเรื่องในอดีต ไม่ใช่ประโยคคำสั่ง",
+      "เป็นการบรรยายลักษณะ",
+      null,
+      "เป็นประโยคบอกเล่าทั่วไป"
+     ]
+    },
+    {
+     "id": "ENL222-U5-03",
+     "skill": "ENL222-U5",
+     "difficulty": 2,
+     "stem": "Which is the best topic sentence for a process paragraph?",
+     "options": [
+      "Study timetables are popular.",
+      "I used a study timetable last year.",
+      "Study timetables are better than to-do lists.",
+      "You can make a simple study timetable in four easy steps."
+     ],
+     "answer": 3,
+     "explanation_th": "บอกว่าจะสอนทำอะไรและมีกี่ขั้น",
+     "why_wrong": [
+      "กว้างและไม่บอกว่าจะมีขั้นตอน",
+      "เป็นจุดเริ่มเรื่องเล่า ไม่ใช่การสอนขั้นตอน",
+      "เป็นการเปรียบเทียบหรือความคิดเห็น",
+      null
+     ]
+    },
+    {
+     "id": "ENL222-U5-04",
+     "skill": "ENL222-U5",
+     "difficulty": 2,
+     "stem": "First, write all your classes in a table. ____, add your free time for homework. Finally, put the table on your wall.",
+     "options": [
+      "In contrast",
+      "For example",
+      "Next",
+      "As a result"
+     ],
+     "answer": 2,
+     "explanation_th": "Next ใช้บอกขั้นถัดไป อยู่ระหว่าง First กับ Finally",
+     "why_wrong": [
+      "ไม่ได้เปรียบเทียบความต่าง",
+      "ขั้นที่ 2 ไม่ใช่ตัวอย่างของขั้นที่ 1",
+      null,
+      "การเพิ่มเวลาว่างไม่ใช่ผลของการเขียนตาราง"
+     ]
+    },
+    {
+     "id": "ENL222-U5-05",
+     "skill": "ENL222-U5",
+     "difficulty": 1,
+     "stem": "Which phrase introduces an example?",
+     "options": [
+      "However,",
+      "For instance,",
+      "In conclusion,",
+      "On the other hand,"
+     ],
+     "answer": 1,
+     "explanation_th": "For instance มีความหมายเดียวกับ For example",
+     "why_wrong": [
+      "บอกความขัดแย้ง",
+      null,
+      "บอกการสรุป",
+      "บอกอีกด้านที่ต่างกัน"
+     ]
+    },
+    {
+     "id": "ENL222-U5-06",
+     "skill": "ENL222-U5",
+     "difficulty": 2,
+     "stem": "Which sentence uses 'such as' correctly?",
+     "options": [
+      "I like sour fruits such as green mango and tamarind.",
+      "I like sour fruits. Such as, green mango is my favorite.",
+      "Such as I like sour fruit.",
+      "I like sour fruits, such as, I eat green mango."
+     ],
+     "answer": 0,
+     "explanation_th": "such as ตามด้วยคำนามที่เป็นตัวอย่างในประโยคเดียวกัน",
+     "why_wrong": [
+      null,
+      "such as ขึ้นประโยคใหม่ไม่ได้ ต้องใช้ For example",
+      "such as ต้องตามด้วยตัวอย่างที่เป็นคำนาม",
+      "such as ตามด้วยประโยคไม่ได้ และไม่มี comma หลัง such as"
+     ]
+    },
+    {
+     "id": "ENL222-U5-07",
+     "skill": "ENL222-U5",
+     "difficulty": 3,
+     "stem": "Topic sentence: 'Thai students use many English words in daily life.' Which is the best example?",
+     "options": [
+      "For example, the English alphabet has 26 letters.",
+      "For example, Thai has its own alphabet.",
+      "For example, some students prefer Japanese dramas.",
+      "For example, they say 'online,' 'deadline' and 'meeting' when they talk about school."
+     ],
+     "answer": 3,
+     "explanation_th": "ยกคำอังกฤษที่คนไทยพูดจริง ตรงกับความคิดควบคุม",
+     "why_wrong": [
+      "เป็นข้อเท็จจริงเรื่องภาษาอังกฤษ ไม่ได้แสดงว่านักเรียนไทยใช้คำอังกฤษ",
+      "พูดเรื่องอักษรไทย ไม่ได้สนับสนุนใจความ",
+      "พูดเรื่องละครญี่ปุ่น ไม่เกี่ยวกับคำอังกฤษ",
+      null
+     ]
+    },
+    {
+     "id": "ENL222-U5-08",
+     "skill": "ENL222-U5",
+     "difficulty": 3,
+     "stem": "What type of paragraph is this? 'Bangkok has many free places for students to relax. For example, Lumphini Park has shady trees and a big lake. Another example is a public library, where you can read and use the Wi-Fi. Some art galleries also do not charge an entry fee.'",
+     "options": [
+      "process",
+      "narrative",
+      "example",
+      "cause and effect"
+     ],
+     "answer": 2,
+     "explanation_th": "ข้อความทั่วไปตามด้วยตัวอย่างสถานที่ฟรี 3 แห่ง",
+     "why_wrong": [
+      "ไม่ได้สอนขั้นตอน",
+      "ไม่ได้เล่าเหตุการณ์ตามเวลา",
+      null,
+      "ไม่ได้อธิบายสาเหตุหรือผล"
+     ]
+    },
+    {
+     "id": "ENL222-U5-09",
+     "skill": "ENL222-U5",
+     "difficulty": 3,
+     "stem": "What type of paragraph is this? 'Saving money for a new phone is easy if you follow three steps. First, decide how much you need. Next, put a small amount into a savings account every week. Finally, check your progress at the end of each month.'",
+     "options": [
+      "descriptive",
+      "example",
+      "comparison and contrast",
+      "process"
+     ],
+     "answer": 3,
+     "explanation_th": "บอกจำนวนขั้นและเรียง First, Next, Finally",
+     "why_wrong": [
+      "ไม่ได้บรรยายลักษณะของโทรศัพท์",
+      "ไม่ได้ยกตัวอย่างเพื่อพิสูจน์ข้อความทั่วไป แต่เรียงขั้นตอน",
+      "ไม่ได้เปรียบเทียบ 2 สิ่ง",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "First, open the app. Next, choose a lesson.",
+    "For example, I say deadline and meeting every day.",
+    "There are three easy steps."
+   ],
+   "task_th": "เขียน 5 ประโยคภาษาอังกฤษสอนทำสิ่งง่าย ๆ ที่คุณทำเป็น เช่น ชงชาเย็น หรือตั้งนาฬิกาปลุก เริ่มด้วยประโยคใจความที่บอกจำนวนขั้น ใช้ประโยคคำสั่งและ First, Next, Finally"
+  },
+  {
+   "id": "ENL222-U6",
+   "title_th": "ย่อหน้าเปรียบเทียบและย่อหน้าเหตุและผล",
+   "title_en": "Comparison-Contrast and Cause-Effect Paragraphs",
+   "covers": "ฝึกเขียนย่อหน้าประเภทต่าง ๆ",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "เปรียบเทียบ (comparison and contrast)",
+     "body_th": "comparison เน้นความเหมือน contrast เน้นความต่าง ความเหมือนใช้ similarly, likewise, both, also ความต่างใช้ however, in contrast, on the other hand, whereas, unlike"
+    },
+    {
+     "title_th": "2 วิธีจัดย่อหน้า",
+     "body_th": "แบบแยกก้อน (block method) พูดเรื่อง A ทั้งหมดก่อน แล้วค่อยพูดเรื่อง B แบบทีละประเด็น (point-by-point) สลับ A กับ B ทีละประเด็น"
+    },
+    {
+     "title_th": "เหตุและผล (cause and effect)",
+     "body_th": "อธิบายว่าทำไมบางอย่างเกิด (สาเหตุ) หรือเกิดอะไรตามมา (ผล) ย่อหน้าเดียวควรเน้นด้านใดด้านหนึ่ง"
+    },
+    {
+     "title_th": "because กับ because of",
+     "body_th": "because ตามด้วยประโยค (ประธาน + กริยา) because of และ due to ตามด้วยคำนาม",
+     "example": "I stayed home because it rained. / I stayed home because of the rain."
+    },
+    {
+     "title_th": "คำบอกผล",
+     "body_th": "so เชื่อมในประโยคเดียว As a result และ Therefore ขึ้นประโยคใหม่แล้วตามด้วย comma",
+     "example": "I missed the bus, so I was late. / I missed the bus. As a result, I was late."
+    }
+   ],
+   "vocab": [
+    [
+     "compare",
+     "เปรียบเทียบ (ความเหมือน)"
+    ],
+    [
+     "contrast",
+     "เปรียบต่าง"
+    ],
+    [
+     "similarity",
+     "ความเหมือน"
+    ],
+    [
+     "difference",
+     "ความต่าง"
+    ],
+    [
+     "block method",
+     "วิธีแยกเป็นก้อน"
+    ],
+    [
+     "point-by-point method",
+     "วิธีทีละประเด็น"
+    ],
+    [
+     "cause",
+     "สาเหตุ"
+    ],
+    [
+     "effect",
+     "ผล"
+    ],
+    [
+     "due to",
+     "เนื่องจาก"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL222-U6-01",
+     "skill": "ENL222-U6",
+     "difficulty": 1,
+     "stem": "Which transition shows a similarity?",
+     "options": [
+      "However",
+      "Similarly",
+      "Whereas",
+      "On the other hand"
+     ],
+     "answer": 1,
+     "explanation_th": "Similarly แปลว่า ในทำนองเดียวกัน",
+     "why_wrong": [
+      "บอกความขัดแย้งหรือความต่าง",
+      null,
+      "บอกความต่างระหว่าง 2 สิ่ง",
+      "บอกอีกด้านที่ต่างกัน"
+     ]
+    },
+    {
+     "id": "ENL222-U6-02",
+     "skill": "ENL222-U6",
+     "difficulty": 1,
+     "stem": "Which transition shows a difference?",
+     "options": [
+      "In contrast",
+      "Likewise",
+      "Also",
+      "In the same way"
+     ],
+     "answer": 0,
+     "explanation_th": "In contrast แปลว่า ในทางตรงข้าม",
+     "why_wrong": [
+      null,
+      "บอกความเหมือน",
+      "บอกการเพิ่มหรือความเหมือน",
+      "บอกความเหมือน"
+     ]
+    },
+    {
+     "id": "ENL222-U6-03",
+     "skill": "ENL222-U6",
+     "difficulty": 2,
+     "stem": "Bangkok is hot for most of the year. ____, Chiang Mai can be cool in December.",
+     "options": [
+      "Similarly",
+      "For example",
+      "As a result",
+      "In contrast"
+     ],
+     "answer": 3,
+     "explanation_th": "สองเมืองมีอากาศต่างกัน จึงใช้คำบอกความต่าง",
+     "why_wrong": [
+      "อากาศร้อนกับเย็นเป็นความต่าง ไม่ใช่ความเหมือน",
+      "เชียงใหม่ไม่ใช่ตัวอย่างของกรุงเทพฯ ที่ร้อน",
+      "อากาศเชียงใหม่ไม่ใช่ผลของอากาศกรุงเทพฯ",
+      null
+     ]
+    },
+    {
+     "id": "ENL222-U6-04",
+     "skill": "ENL222-U6",
+     "difficulty": 2,
+     "stem": "In the point-by-point method, the writer ____.",
+     "options": [
+      "writes everything about A first, then everything about B",
+      "discusses A and B together, one point at a time",
+      "writes only about A",
+      "lists the causes and effects of A"
+     ],
+     "answer": 1,
+     "explanation_th": "point-by-point สลับพูด A กับ B ในแต่ละประเด็น",
+     "why_wrong": [
+      "นั่นคือ block method",
+      null,
+      "ต้องพูดทั้ง 2 สิ่งจึงจะเป็นการเปรียบเทียบ",
+      "นั่นคือย่อหน้าเหตุและผล"
+     ]
+    },
+    {
+     "id": "ENL222-U6-05",
+     "skill": "ENL222-U6",
+     "difficulty": 2,
+     "stem": "I stayed home ____ the heavy rain.",
+     "options": [
+      "because",
+      "so",
+      "because of",
+      "therefore"
+     ],
+     "answer": 2,
+     "explanation_th": "because of ตามด้วยคำนาม the heavy rain",
+     "why_wrong": [
+      "because ต้องตามด้วยประโยค แต่ the heavy rain เป็นคำนาม",
+      "so บอกผล และต้องตามด้วยประโยค",
+      null,
+      "therefore บอกผล และใช้นำประโยค ไม่ใช่นำคำนาม"
+     ]
+    },
+    {
+     "id": "ENL222-U6-06",
+     "skill": "ENL222-U6",
+     "difficulty": 2,
+     "stem": "I stayed home ____ it was raining heavily.",
+     "options": [
+      "because",
+      "because of",
+      "due to",
+      "as a result"
+     ],
+     "answer": 0,
+     "explanation_th": "because ตามด้วยประโยค it was raining heavily",
+     "why_wrong": [
+      null,
+      "because of ต้องตามด้วยคำนาม แต่ตรงนี้เป็นประโยค",
+      "due to ตามด้วยคำนาม ไม่ใช่ประโยค",
+      "บอกผล แต่ฝนตกเป็นสาเหตุ ไม่ใช่ผล"
+     ]
+    },
+    {
+     "id": "ENL222-U6-07",
+     "skill": "ENL222-U6",
+     "difficulty": 2,
+     "stem": "I forgot to charge my phone. ____, it died before lunch.",
+     "options": [
+      "Because",
+      "Although",
+      "For instance",
+      "As a result"
+     ],
+     "answer": 3,
+     "explanation_th": "ลืมชาร์จเป็นเหตุ แบตหมดเป็นผล",
+     "why_wrong": [
+      "Because, ตามด้วย comma แล้วต่อประโยคไม่ได้",
+      "บอกความขัดแย้ง แต่ 2 ประโยคนี้เป็นเหตุกับผล",
+      "แบตหมดไม่ใช่ตัวอย่าง แต่เป็นผล",
+      null
+     ]
+    },
+    {
+     "id": "ENL222-U6-08",
+     "skill": "ENL222-U6",
+     "difficulty": 3,
+     "stem": "What type of paragraph is this? 'Studying online and studying on campus are different in two main ways. First, online students can study at home, while campus students must travel. Second, campus students can talk to classmates face to face. In contrast, online students mostly chat through a screen.'",
+     "options": [
+      "cause and effect",
+      "process",
+      "comparison and contrast",
+      "narrative"
+     ],
+     "answer": 2,
+     "explanation_th": "พูดถึงความต่างของ 2 แบบ ใช้ while และ In contrast",
+     "why_wrong": [
+      "ไม่ได้อธิบายว่าอะไรทำให้เกิดอะไร",
+      "ไม่ได้สอนขั้นตอน",
+      null,
+      "ไม่ได้เล่าเรื่องตามเวลา"
+     ]
+    },
+    {
+     "id": "ENL222-U6-09",
+     "skill": "ENL222-U6",
+     "difficulty": 3,
+     "stem": "What type of paragraph is this? 'Staying up late to play games can hurt students in several ways. First, they feel sleepy in morning classes. As a result, they miss important information. In addition, a lack of sleep can make them feel stressed.'",
+     "options": [
+      "comparison and contrast",
+      "cause and effect",
+      "descriptive",
+      "process"
+     ],
+     "answer": 1,
+     "explanation_th": "อธิบายผลของการนอนดึกเล่นเกม",
+     "why_wrong": [
+      "ไม่ได้เปรียบเทียบ 2 สิ่ง",
+      null,
+      "ไม่ได้บรรยายลักษณะ",
+      "First ในที่นี้ไม่ได้เรียงขั้นตอนวิธีทำ แต่เรียงผลกระทบ"
+     ]
+    },
+    {
+     "id": "ENL222-U6-10",
+     "skill": "ENL222-U6",
+     "difficulty": 3,
+     "stem": "A cause-and-effect paragraph about 'the effects of social media on teenagers' should mainly discuss ____.",
+     "options": [
+      "what happens to teenagers because of social media",
+      "why social media apps were invented",
+      "how to make a social media account",
+      "what a social media app looks like"
+     ],
+     "answer": 0,
+     "explanation_th": "effects คือผลที่เกิดกับวัยรุ่น",
+     "why_wrong": [
+      null,
+      "นั่นคือสาเหตุ แต่หัวข้อถามถึงผล",
+      "นั่นคือขั้นตอน",
+      "นั่นคือการบรรยาย"
+     ]
+    }
+   ],
+   "say": [
+    "Bangkok is hot. In contrast, Chiang Mai is cool in December.",
+    "I was late because of the traffic.",
+    "As a result, I missed the first class."
+   ],
+   "task_th": "ทำตาราง 2 ช่องเปรียบเทียบ 2 สิ่งที่คุณรู้จักดี เช่น เรียนออนไลน์กับเรียนในห้อง เขียนความเหมือน 2 ข้อและความต่าง 2 ข้อ แล้วเขียนประโยคใจความ 1 ประโยค กับประโยคที่ใช้ In contrast 1 ประโยค"
+  },
+  {
+   "id": "ENL222-U7",
+   "title_th": "ย่อหน้าแสดงความคิดเห็นและทบทวนทุกประเภท",
+   "title_en": "Opinion Paragraphs and Reviewing the Types",
+   "covers": "และฝึกเขียนย่อหน้าประเภทต่าง ๆ",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "ย่อหน้าแสดงความคิดเห็น (opinion)",
+     "body_th": "บอกจุดยืนชัดในประโยคใจความ แล้วให้เหตุผล 2 ถึง 3 ข้อพร้อมตัวอย่างหรือข้อเท็จจริง"
+    },
+    {
+     "title_th": "ภาษาบอกจุดยืน",
+     "body_th": "I believe, In my opinion, should, should not ประโยคใจความต้องเป็นสิ่งที่คนเห็นต่างได้ ไม่ใช่ข้อเท็จจริง",
+     "example": "Universities should let students choose whether to wear a uniform."
+    },
+    {
+     "title_th": "ข้อเท็จจริงกับความคิดเห็น",
+     "body_th": "ข้อเท็จจริง (fact) ตรวจสอบได้ว่าจริงหรือไม่ ความคิดเห็น (opinion) เป็นความเห็นส่วนตัว มักมีคำอย่าง best, worst, should, I think"
+    },
+    {
+     "title_th": "ข้อโต้แย้งฝ่ายตรงข้าม",
+     "body_th": "ยกความเห็นอีกฝ่ายสั้น ๆ แล้วตอบกลับ ทำให้ย่อหน้าน่าเชื่อขึ้น",
+     "example": "Some people say uniforms save money. However, ..."
+    },
+    {
+     "title_th": "ทบทวน 7 ประเภท",
+     "body_th": "บรรยาย ภาพและประสาทสัมผัส / เล่าเรื่อง ลำดับเวลา / ขั้นตอน First, Next / ตัวอย่าง for example / เปรียบเทียบ similarly, in contrast / เหตุและผล because, as a result / ความคิดเห็น should, I believe"
+    }
+   ],
+   "vocab": [
+    [
+     "opinion",
+     "ความคิดเห็น"
+    ],
+    [
+     "fact",
+     "ข้อเท็จจริง"
+    ],
+    [
+     "reason",
+     "เหตุผล"
+    ],
+    [
+     "position",
+     "จุดยืน"
+    ],
+    [
+     "persuade",
+     "โน้มน้าว"
+    ],
+    [
+     "counterargument",
+     "ข้อโต้แย้งของฝ่ายตรงข้าม"
+    ],
+    [
+     "support",
+     "สนับสนุน"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL222-U7-01",
+     "skill": "ENL222-U7",
+     "difficulty": 1,
+     "stem": "Which sentence is an opinion?",
+     "options": [
+      "Thai food is the best food in the world.",
+      "Tom yum is a Thai soup.",
+      "Bangkok is the capital of Thailand.",
+      "Many Thai dishes are eaten with rice."
+     ],
+     "answer": 0,
+     "explanation_th": "คำว่า the best เป็นความเห็นส่วนตัว พิสูจน์ไม่ได้",
+     "why_wrong": [
+      null,
+      "ตรวจสอบได้ว่าจริง จึงเป็นข้อเท็จจริง",
+      "เป็นข้อเท็จจริงที่ตรวจสอบได้",
+      "เป็นข้อเท็จจริงทั่วไป"
+     ]
+    },
+    {
+     "id": "ENL222-U7-02",
+     "skill": "ENL222-U7",
+     "difficulty": 1,
+     "stem": "Which sentence is a fact?",
+     "options": [
+      "Summer is the worst season.",
+      "Students should not wear uniforms.",
+      "Water boils at 100°C at sea level.",
+      "Cats are cuter than dogs."
+     ],
+     "answer": 2,
+     "explanation_th": "เป็นข้อเท็จจริงทางวิทยาศาสตร์ที่ตรวจสอบได้",
+     "why_wrong": [
+      "worst เป็นความเห็น",
+      "should บอกความเห็น",
+      null,
+      "ความน่ารักเป็นความเห็นส่วนตัว"
+     ]
+    },
+    {
+     "id": "ENL222-U7-03",
+     "skill": "ENL222-U7",
+     "difficulty": 2,
+     "stem": "Which is the best topic sentence for an opinion paragraph?",
+     "options": [
+      "Some universities have uniforms.",
+      "Universities should let students choose whether to wear a uniform.",
+      "My uniform is white and black.",
+      "What is a uniform?"
+     ],
+     "answer": 1,
+     "explanation_th": "มี should และเป็นจุดยืนที่คนเห็นต่างได้",
+     "why_wrong": [
+      "เป็นข้อเท็จจริง ไม่มีจุดยืนให้โต้แย้ง",
+      null,
+      "เป็นการบรรยายสั้น ๆ ไม่ใช่ความคิดเห็น",
+      "เป็นคำถาม ไม่บอกจุดยืน"
+     ]
+    },
+    {
+     "id": "ENL222-U7-04",
+     "skill": "ENL222-U7",
+     "difficulty": 2,
+     "stem": "In an opinion paragraph, what should come after the topic sentence?",
+     "options": [
+      "a new topic",
+      "a list of cooking steps",
+      "the reference list",
+      "reasons with examples or facts"
+     ],
+     "answer": 3,
+     "explanation_th": "ความคิดเห็นต้องมีเหตุผลและหลักฐานสนับสนุน",
+     "why_wrong": [
+      "ทำให้เสียเอกภาพ",
+      "นั่นคือย่อหน้าขั้นตอน",
+      "รายการอ้างอิงอยู่ท้ายงาน ไม่ใช่ต่อจากประโยคใจความ",
+      null
+     ]
+    },
+    {
+     "id": "ENL222-U7-05",
+     "skill": "ENL222-U7",
+     "difficulty": 2,
+     "stem": "Which sentence shows a counterargument and an answer to it?",
+     "options": [
+      "Some people say uniforms save money. However, students can buy cheap clothes too.",
+      "First, uniforms are hot in Thai weather.",
+      "In conclusion, students should choose their own clothes.",
+      "I think uniforms are boring."
+     ],
+     "answer": 0,
+     "explanation_th": "ยกความเห็นอีกฝ่าย (Some people say) แล้วตอบกลับด้วย However",
+     "why_wrong": [
+      null,
+      "เป็นเหตุผลของผู้เขียนเอง ไม่ใช่ความเห็นอีกฝ่าย",
+      "เป็นประโยคสรุป",
+      "เป็นความเห็นของผู้เขียน ไม่ได้ยกฝ่ายตรงข้าม"
+     ]
+    },
+    {
+     "id": "ENL222-U7-06",
+     "skill": "ENL222-U7",
+     "difficulty": 3,
+     "stem": "What type of paragraph is this? 'I believe every university student should learn to cook. First, cooking at home is cheaper than eating out every day. Second, home-cooked meals are often healthier. Some people say they are too busy, but a simple meal takes only twenty minutes. For these reasons, cooking is a skill every student needs.'",
+     "options": [
+      "process",
+      "narrative",
+      "descriptive",
+      "opinion"
+     ],
+     "answer": 3,
+     "explanation_th": "มี I believe, should เหตุผล และข้อโต้แย้งฝ่ายตรงข้าม",
+     "why_wrong": [
+      "ไม่ได้สอนวิธีทำอาหารทีละขั้น",
+      "ไม่ได้เล่าเหตุการณ์ตามเวลา",
+      "ไม่ได้บรรยายลักษณะอาหารหรือสถานที่",
+      null
+     ]
+    },
+    {
+     "id": "ENL222-U7-07",
+     "skill": "ENL222-U7",
+     "difficulty": 2,
+     "stem": "Which paragraph type matches this topic sentence? 'There are three easy steps to clean your laptop keyboard.'",
+     "options": [
+      "opinion",
+      "process",
+      "comparison and contrast",
+      "narrative"
+     ],
+     "answer": 1,
+     "explanation_th": "บอกจำนวนขั้นตอน จึงเป็น process",
+     "why_wrong": [
+      "ไม่มีจุดยืนให้โต้แย้ง",
+      null,
+      "ไม่ได้เปรียบเทียบ 2 สิ่ง",
+      "ไม่ได้เล่าเรื่อง"
+     ]
+    },
+    {
+     "id": "ENL222-U7-08",
+     "skill": "ENL222-U7",
+     "difficulty": 2,
+     "stem": "'Living alone and living with family are similar in some ways but very different in others.' This topic sentence is for a ____ paragraph.",
+     "options": [
+      "process",
+      "cause and effect",
+      "comparison and contrast",
+      "narrative"
+     ],
+     "answer": 2,
+     "explanation_th": "พูดถึงความเหมือนและความต่างของ 2 แบบ",
+     "why_wrong": [
+      "ไม่ได้สอนขั้นตอน",
+      "ไม่ได้พูดถึงสาเหตุหรือผล",
+      null,
+      "ไม่ได้เล่าเหตุการณ์"
+     ]
+    },
+    {
+     "id": "ENL222-U7-09",
+     "skill": "ENL222-U7",
+     "difficulty": 2,
+     "stem": "'Heavy traffic in Bangkok has three main causes.' This topic sentence is for a ____ paragraph.",
+     "options": [
+      "cause and effect",
+      "descriptive",
+      "narrative",
+      "process"
+     ],
+     "answer": 0,
+     "explanation_th": "causes แปลว่าสาเหตุ",
+     "why_wrong": [
+      null,
+      "ไม่ได้บรรยายภาพของถนน",
+      "ไม่ได้เล่าเรื่อง",
+      "ไม่ได้สอนวิธีทำ"
+     ]
+    },
+    {
+     "id": "ENL222-U7-10",
+     "skill": "ENL222-U7",
+     "difficulty": 2,
+     "stem": "'The night market near my house is full of bright lights, loud music and the smell of grilled squid.' This topic sentence is for a ____ paragraph.",
+     "options": [
+      "process",
+      "descriptive",
+      "cause and effect",
+      "comparison and contrast"
+     ],
+     "answer": 1,
+     "explanation_th": "ใช้ภาพ เสียง และกลิ่นวาดภาพตลาด",
+     "why_wrong": [
+      "ไม่มีขั้นตอน",
+      null,
+      "ไม่ได้อธิบายสาเหตุหรือผล",
+      "พูดถึงสถานที่เดียว ไม่ได้เปรียบเทียบ"
+     ]
+    }
+   ],
+   "say": [
+    "In my opinion, students should learn to cook.",
+    "Some people disagree, but I have two good reasons.",
+    "This is a fact, and that is an opinion."
+   ],
+   "task_th": "เลือกหัวข้อ Students should (หรือ should not) ... 1 เรื่อง เขียนประโยคใจความ เหตุผล 3 ข้อ และข้อโต้แย้งฝ่ายตรงข้าม 1 ข้อพร้อมประโยคตอบกลับที่ขึ้นต้นด้วย However"
+  }
+ ]
+}

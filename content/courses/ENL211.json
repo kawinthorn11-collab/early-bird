@@ -1,0 +1,1621 @@
+{
+  "code": "ENL211",
+  "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+  "in_class_th": [
+    "น่าจะได้ฟังข่าวหรือคลิปเรื่องสังคมปัจจุบัน แล้วตอบว่าใจความหลักคืออะไร",
+    "น่าจะมีแบบฝึกแยกว่าประโยคไหนเป็นข้อเท็จจริง ประโยคไหนเป็นความเห็น",
+    "น่าจะต้องนำเสนอสั้น ๆ หน้าห้องพร้อมสไลด์ และอาจต้องตอบคำถามจากเพื่อนหรืออาจารย์",
+    "อาจมีการอภิปรายกลุ่มเรื่องประเด็นสังคม ต่อยอดจากการฟังและพูดใน ENL111"
+  ],
+  "units": [
+    {
+      "id": "ENL211-U1",
+      "title_th": "คุยเรื่องประเด็นสังคมปัจจุบัน",
+      "title_en": "Talking about current social issues",
+      "covers": "การฟังและการพูดเกี่ยวกับสถานการณ์ปัจจุบันต่าง ๆ ในสังคม",
+      "minutes": 12,
+      "interview": [
+        "I17"
+      ],
+      "cards": [
+        {
+          "title_th": "ประเด็นสังคมที่เจอบ่อย",
+          "body_th": "cost of living (ค่าครองชีพ), mental health (สุขภาพจิต), online safety (ความปลอดภัยออนไลน์), ageing society (สังคมผู้สูงอายุ), road safety (ความปลอดภัยบนถนน), waste (ขยะ)"
+        },
+        {
+          "title_th": "ศัพท์ข่าว",
+          "body_th": "rise / increase = เพิ่มขึ้น, fall / decrease = ลดลง, survey = การสำรวจ, policy = นโยบาย ได้ยินบ่อยมากในข่าว"
+        },
+        {
+          "title_th": "เปิดคุยเรื่องข่าว",
+          "body_th": "Did you hear about...? / I read that... / What do you think about...? ใช้ชวนเพื่อนคุยเรื่องที่เพิ่งเกิดขึ้น"
+        },
+        {
+          "title_th": "ฟังข่าวด้วย 5W1H",
+          "body_th": "ตั้งคำถามในใจระหว่างฟัง: Who, What, Where, When, Why, How ได้คำตอบครบ 4 ข้อก็เล่าต่อได้แล้ว"
+        }
+      ],
+      "vocab": [
+        [
+          "issue",
+          "ประเด็น"
+        ],
+        [
+          "society",
+          "สังคม"
+        ],
+        [
+          "survey",
+          "การสำรวจ"
+        ],
+        [
+          "increase",
+          "เพิ่มขึ้น"
+        ],
+        [
+          "decrease",
+          "ลดลง"
+        ],
+        [
+          "policy",
+          "นโยบาย"
+        ],
+        [
+          "ageing society",
+          "สังคมผู้สูงอายุ"
+        ],
+        [
+          "cost of living",
+          "ค่าครองชีพ"
+        ],
+        [
+          "online safety",
+          "ความปลอดภัยออนไลน์"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "ENL211-U1-01",
+          "skill": "ENL211-U1",
+          "difficulty": 1,
+          "stem": "Did you hear ___ the new bus fares?",
+          "options": [
+            "at",
+            "on",
+            "to",
+            "about"
+          ],
+          "answer": 3,
+          "explanation_th": "hear about + เรื่อง = ได้ยินข่าวเรื่อง...",
+          "why_wrong": [
+            "hear at ไม่ใช่สำนวนที่ใช้กับเรื่องที่ได้ยิน",
+            "hear on ใช้กับช่องทาง เช่น on the radio ไม่ใช่กับเรื่อง",
+            "hear to ผิดสำนวน",
+            null
+          ]
+        },
+        {
+          "id": "ENL211-U1-02",
+          "skill": "ENL211-U1",
+          "difficulty": 1,
+          "stem": "News: 'The price of rice rose by 5 percent this year.' 'Rose' means ___.",
+          "options": [
+            "went down",
+            "stayed the same",
+            "went up",
+            "was cancelled"
+          ],
+          "answer": 2,
+          "explanation_th": "rose เป็นอดีตของ rise แปลว่า เพิ่มขึ้น",
+          "why_wrong": [
+            "ความหมายตรงข้าม",
+            "rose แปลว่ามีการเปลี่ยนแปลง ไม่ได้คงที่",
+            null,
+            "ราคาไม่ได้ถูกยกเลิก"
+          ]
+        },
+        {
+          "id": "ENL211-U1-03",
+          "skill": "ENL211-U1",
+          "difficulty": 2,
+          "stem": "A society where a large share of the people are over 60 is called an ___ society.",
+          "options": [
+            "online",
+            "ageing",
+            "urban",
+            "open"
+          ],
+          "answer": 1,
+          "explanation_th": "ageing society = สังคมผู้สูงอายุ",
+          "why_wrong": [
+            "online society ไม่ได้เกี่ยวกับอายุ",
+            null,
+            "urban แปลว่าเมือง ไม่ได้บอกอายุประชากร",
+            "open society หมายถึงสังคมเปิด ไม่เกี่ยวกับอายุ"
+          ]
+        },
+        {
+          "id": "ENL211-U1-04",
+          "skill": "ENL211-U1",
+          "difficulty": 1,
+          "stem": "Which question asks for someone's opinion about an issue?",
+          "options": [
+            "What do you think about the new rule?",
+            "When did the new rule start?",
+            "Where is the city hall?",
+            "Who wrote the news report?"
+          ],
+          "answer": 0,
+          "explanation_th": "What do you think about...? ถามความเห็นโดยตรง",
+          "why_wrong": [
+            null,
+            "ถามเวลา ซึ่งเป็นข้อเท็จจริง",
+            "ถามสถานที่",
+            "ถามชื่อคน ซึ่งเป็นข้อเท็จจริง"
+          ]
+        },
+        {
+          "id": "ENL211-U1-05",
+          "skill": "ENL211-U1",
+          "difficulty": 1,
+          "stem": "In 5W1H questions, 'Why' asks about the ___.",
+          "options": [
+            "reason",
+            "place",
+            "time",
+            "person"
+          ],
+          "answer": 0,
+          "explanation_th": "Why ถามเหตุผล",
+          "why_wrong": [
+            null,
+            "สถานที่ใช้ Where",
+            "เวลาใช้ When",
+            "บุคคลใช้ Who"
+          ]
+        },
+        {
+          "id": "ENL211-U1-06",
+          "skill": "ENL211-U1",
+          "difficulty": 2,
+          "stem": "Speaker: 'A survey of 1,000 students found that most of them have part-time jobs.' What is a survey?",
+          "options": [
+            "a type of part-time job",
+            "asking many people questions to collect information",
+            "a news website",
+            "a university exam"
+          ],
+          "answer": 1,
+          "explanation_th": "survey = การสำรวจโดยถามคนจำนวนมาก",
+          "why_wrong": [
+            "งานพาร์ทไทม์เป็นผลการสำรวจ ไม่ใช่ความหมายของ survey",
+            null,
+            "survey ไม่ใช่เว็บไซต์",
+            "การสำรวจไม่ใช่การสอบ"
+          ]
+        },
+        {
+          "id": "ENL211-U1-07",
+          "skill": "ENL211-U1",
+          "difficulty": 1,
+          "stem": "Listen: 'Online scams are increasing, so never share your password with anyone.' What is the speaker's advice?",
+          "options": [
+            "Online scams are decreasing.",
+            "Share your password only with friends.",
+            "Never share your password.",
+            "Stop using the internet."
+          ],
+          "answer": 2,
+          "explanation_th": "คำแนะนำอยู่หลัง so: never share your password",
+          "why_wrong": [
+            "ผู้พูดบอกว่า increasing ไม่ใช่ decreasing",
+            "ผู้พูดบอกว่า with anyone คือห้ามบอกใครเลย",
+            null,
+            "ผู้พูดไม่ได้แนะนำให้เลิกใช้อินเทอร์เน็ต"
+          ]
+        },
+        {
+          "id": "ENL211-U1-08",
+          "skill": "ENL211-U1",
+          "difficulty": 2,
+          "stem": "The government made a new ___ to reduce plastic bags in shops.",
+          "options": [
+            "police",
+            "polite",
+            "politics",
+            "policy"
+          ],
+          "answer": 3,
+          "explanation_th": "policy = นโยบาย",
+          "why_wrong": [
+            "police คือตำรวจ สะกดคล้ายแต่ความหมายต่าง",
+            "polite เป็นคุณศัพท์แปลว่าสุภาพ",
+            "politics คือการเมืองโดยรวม ใช้กับ a new ไม่ได้",
+            null
+          ]
+        }
+      ],
+      "say": [
+        "Did you hear about the new rule for plastic bags?",
+        "I read that many students have part-time jobs. What do you think about that?"
+      ],
+      "task_th": "ฟังข่าวภาษาอังกฤษสั้น ๆ 1 เรื่อง (2-3 นาที) จาก VOA Learning English หรือ BBC Learning English จดคำตอบ 5W1H ให้ได้อย่างน้อย 4 ข้อ แล้วพูดเล่าข่าว 30 วินาที เริ่มด้วย I heard that..."
+    },
+    {
+      "id": "ENL211-U2",
+      "title_th": "ฟังจับใจความหลัก",
+      "title_en": "Listening for the main idea",
+      "covers": "การฟังเพื่อจับประเด็นหลัก",
+      "minutes": 12,
+      "lessons": [
+        "L28"
+      ],
+      "interview": [
+        "I47"
+      ],
+      "cards": [
+        {
+          "title_th": "ใจความหลักไม่ใช่รายละเอียด",
+          "body_th": "ใจความหลักคือเรื่องใหญ่ 1 เรื่องที่ผู้พูดอยากให้จำ ตัวเลข ตัวอย่าง และชื่อเป็นรายละเอียดที่มาสนับสนุน ทบทวนแนวคิดเดียวกันฝั่งการอ่านได้ในบทเรียน L28"
+        },
+        {
+          "title_th": "ฟังตอนต้นและตอนท้าย",
+          "body_th": "ผู้พูดมักบอกประเด็นหลักตอนต้นและพูดซ้ำตอนจบ ฟังวลี The main point is..., So basically..., To sum up..."
+        },
+        {
+          "title_th": "ฟังคำที่ซ้ำ",
+          "body_th": "คำหรือวลีที่ได้ยินซ้ำหลายครั้งมักบอกหัวข้อของเรื่อง"
+        },
+        {
+          "title_th": "ฟังไม่ทันทำอย่างไร",
+          "body_th": "ขอให้พูดซ้ำได้อย่างสุภาพ: Sorry, could you repeat the main point, please?"
+        }
+      ],
+      "vocab": [
+        [
+          "main idea",
+          "ใจความหลัก"
+        ],
+        [
+          "detail",
+          "รายละเอียด"
+        ],
+        [
+          "key word",
+          "คำสำคัญ"
+        ],
+        [
+          "sum up",
+          "สรุป"
+        ],
+        [
+          "basically",
+          "พูดง่าย ๆ คือ"
+        ],
+        [
+          "point",
+          "ประเด็น"
+        ],
+        [
+          "repeat",
+          "พูดซ้ำ"
+        ],
+        [
+          "topic",
+          "หัวข้อ"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "ENL211-U2-01",
+          "skill": "ENL211-U2",
+          "difficulty": 2,
+          "stem": "Listen: 'Many young people in cities can't buy a home. Prices have doubled, but salaries have not. Some now live with their parents into their thirties.' What is the main idea?",
+          "options": [
+            "Salaries have doubled.",
+            "Homes in cities are too expensive for many young people.",
+            "Young people love living with their parents.",
+            "Parents in their thirties are buying homes."
+          ],
+          "answer": 1,
+          "explanation_th": "ทุกประโยคสนับสนุนเรื่องเดียว คือบ้านในเมืองแพงเกินกำลังคนรุ่นใหม่",
+          "why_wrong": [
+            "ผู้พูดบอกว่าราคาบ้านเพิ่มสองเท่า แต่เงินเดือนไม่ได้เพิ่ม",
+            null,
+            "ผู้พูดไม่ได้บอกว่าชอบ เป็นผลจากการซื้อบ้านไม่ไหว",
+            "อายุสามสิบหมายถึงลูกที่ยังอยู่กับพ่อแม่"
+          ]
+        },
+        {
+          "id": "ENL211-U2-02",
+          "skill": "ENL211-U2",
+          "difficulty": 1,
+          "stem": "Which phrase usually tells you the speaker is giving the main point?",
+          "options": [
+            "The main point is...",
+            "For example...",
+            "By the way...",
+            "Um, let me see..."
+          ],
+          "answer": 0,
+          "explanation_th": "The main point is... บอกตรง ๆ ว่ากำลังจะพูดประเด็นหลัก",
+          "why_wrong": [
+            null,
+            "ใช้ยกตัวอย่าง ซึ่งเป็นรายละเอียด",
+            "ใช้พูดเรื่องเสริมที่นอกประเด็น",
+            "เป็นคำเติมช่องว่างตอนคิด"
+          ]
+        },
+        {
+          "id": "ENL211-U2-03",
+          "skill": "ENL211-U2",
+          "difficulty": 2,
+          "stem": "Listen: 'Cycling to work is cheap. It's also good exercise, and it doesn't pollute the air. That's why more cities are building bike lanes.' Which option best states the main idea?",
+          "options": [
+            "Cycling is cheap.",
+            "Exercise is good for you.",
+            "Cars are faster than bikes.",
+            "Cycling has several benefits, so cities are building bike lanes."
+          ],
+          "answer": 3,
+          "explanation_th": "รวมข้อดีหลายข้อและผลที่ตามมาไว้ในประโยคเดียว",
+          "why_wrong": [
+            "เป็นรายละเอียดข้อเดียว ไม่ครอบคลุมทั้งเรื่อง",
+            "เป็นรายละเอียดข้อเดียว",
+            "ผู้พูดไม่ได้พูดถึงความเร็วของรถยนต์",
+            null
+          ]
+        },
+        {
+          "id": "ENL211-U2-04",
+          "skill": "ENL211-U2",
+          "difficulty": 1,
+          "stem": "'To sum up' is used ___.",
+          "options": [
+            "at the start, to say hello",
+            "to give an example",
+            "near the end, to repeat the main points",
+            "to change the topic"
+          ],
+          "answer": 2,
+          "explanation_th": "To sum up ใช้สรุปประเด็นตอนท้าย",
+          "why_wrong": [
+            "ใช้ทักทายตอนเริ่มไม่ได้",
+            "ยกตัวอย่างใช้ For example",
+            null,
+            "เปลี่ยนเรื่องใช้ By the way หรือ Moving on"
+          ]
+        },
+        {
+          "id": "ENL211-U2-05",
+          "skill": "ENL211-U2",
+          "difficulty": 1,
+          "stem": "In a short talk, a speaker says 'online learning' five times. This phrase is probably ___.",
+          "options": [
+            "the topic of the talk",
+            "the speaker's name",
+            "a mistake",
+            "a joke"
+          ],
+          "answer": 0,
+          "explanation_th": "วลีที่ถูกพูดซ้ำหลายครั้งมักเป็นหัวข้อหลัก",
+          "why_wrong": [
+            null,
+            "ไม่ใช่ชื่อคน",
+            "การพูดซ้ำแบบนี้ตั้งใจเน้นหัวข้อ ไม่ใช่พูดผิด",
+            "ไม่มีอะไรบอกว่าเป็นมุกตลก"
+          ]
+        },
+        {
+          "id": "ENL211-U2-06",
+          "skill": "ENL211-U2",
+          "difficulty": 1,
+          "stem": "Your professor speaks fast, and you missed the main point. What can you say?",
+          "options": [
+            "You talk too much.",
+            "I don't care.",
+            "Speak Thai now.",
+            "Sorry, could you repeat the main point, please?"
+          ],
+          "answer": 3,
+          "explanation_th": "ขอให้พูดซ้ำอย่างสุภาพและเจาะจงสิ่งที่พลาด",
+          "why_wrong": [
+            "หยาบคายและไม่ได้ช่วยให้เข้าใจ",
+            "หยาบคายและไม่ได้ขอข้อมูล",
+            "เป็นคำสั่งที่ไม่สุภาพ และวิชานี้ฝึกฟังภาษาอังกฤษ",
+            null
+          ]
+        },
+        {
+          "id": "ENL211-U2-07",
+          "skill": "ENL211-U2",
+          "difficulty": 2,
+          "stem": "Listen: 'Street food is part of Thai life. But some cities now limit where vendors can sell, to keep sidewalks clear for people walking.' What is the speaker mainly talking about?",
+          "options": [
+            "how to cook Thai street food",
+            "limits on where street vendors can sell",
+            "the history of sidewalks",
+            "prices at night markets"
+          ],
+          "answer": 1,
+          "explanation_th": "ประโยคแรกปูพื้น ประโยคหลังคือเรื่องหลัก: การจำกัดพื้นที่ขาย",
+          "why_wrong": [
+            "ไม่มีการพูดถึงวิธีทำอาหาร",
+            null,
+            "ไม่ได้เล่าประวัติทางเท้า",
+            "ไม่ได้พูดถึงราคา"
+          ]
+        },
+        {
+          "id": "ENL211-U2-08",
+          "skill": "ENL211-U2",
+          "difficulty": 1,
+          "stem": "What is a good way to take notes for the main idea while listening?",
+          "options": [
+            "Write every word the speaker says.",
+            "Stop listening and check your phone.",
+            "Write key words, not full sentences.",
+            "Write only the numbers."
+          ],
+          "answer": 2,
+          "explanation_th": "จดคำสำคัญทำได้ทันและยังฟังต่อได้",
+          "why_wrong": [
+            "จดไม่ทันและพลาดประเด็น",
+            "ไม่ได้ฟังเลย",
+            null,
+            "ตัวเลขเป็นรายละเอียด ไม่ใช่ใจความหลัก"
+          ]
+        }
+      ],
+      "say": [
+        "Sorry, could you repeat the main point, please?",
+        "So basically, the speaker says homes in the city are too expensive."
+      ],
+      "task_th": "ฟังคลิปภาษาอังกฤษ 1-2 นาทีเรื่องสังคม รอบแรกห้ามจด ฟังจบให้เขียนใจความหลัก 1 ประโยค รอบที่สองจดคำสำคัญ 5 คำ แล้วเช็กว่าประโยคแรกยังถูกไหม แก้ให้ตรงขึ้นถ้าจำเป็น"
+    },
+    {
+      "id": "ENL211-U3",
+      "title_th": "แยกข้อเท็จจริงกับความเห็น",
+      "title_en": "Facts and opinions",
+      "covers": "การแยกแยะข้อเท็จจริงและการแสดงความคิดเห็น",
+      "minutes": 12,
+      "cards": [
+        {
+          "title_th": "ข้อเท็จจริง",
+          "body_th": "ตรวจสอบได้ว่าจริงหรือไม่ เช่น ตัวเลข วันที่ เหตุการณ์ ผลการวิจัย",
+          "example": "The museum opened in 2010."
+        },
+        {
+          "title_th": "ความเห็น",
+          "body_th": "เป็นความรู้สึกหรือการตัดสิน คนอื่นอาจคิดต่างได้",
+          "example": "The museum is the most beautiful building in town."
+        },
+        {
+          "title_th": "คำสัญญาณ",
+          "body_th": "ข้อเท็จจริงมักมี according to, research shows, ปี, percent ความเห็นมักมี I think, in my view, should, best, worst, terrible, amazing"
+        },
+        {
+          "title_th": "ระวังความเห็นที่ปลอมเป็นข้อเท็จจริง",
+          "body_th": "Clearly..., Everyone knows... ฟังดูมั่นใจ แต่ถ้าไม่มีหลักฐานก็ยังเป็นความเห็น"
+        }
+      ],
+      "vocab": [
+        [
+          "fact",
+          "ข้อเท็จจริง"
+        ],
+        [
+          "opinion",
+          "ความคิดเห็น"
+        ],
+        [
+          "evidence",
+          "หลักฐาน"
+        ],
+        [
+          "prove",
+          "พิสูจน์"
+        ],
+        [
+          "claim",
+          "ข้ออ้าง"
+        ],
+        [
+          "source",
+          "แหล่งที่มา"
+        ],
+        [
+          "biased",
+          "ลำเอียง"
+        ],
+        [
+          "research",
+          "งานวิจัย"
+        ],
+        [
+          "check",
+          "ตรวจสอบ"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "ENL211-U3-01",
+          "skill": "ENL211-U3",
+          "difficulty": 1,
+          "stem": "Which sentence is a fact?",
+          "options": [
+            "Bangkok is the most exciting city in Asia.",
+            "Everyone should visit Bangkok.",
+            "Bangkok is the capital of Thailand.",
+            "Bangkok's food is the best."
+          ],
+          "answer": 2,
+          "explanation_th": "ตรวจสอบได้และเป็นจริง",
+          "why_wrong": [
+            "'most exciting' เป็นความรู้สึก",
+            "'should' แสดงความเห็น",
+            null,
+            "'the best' เป็นการตัดสินส่วนตัว"
+          ]
+        },
+        {
+          "id": "ENL211-U3-02",
+          "skill": "ENL211-U3",
+          "difficulty": 1,
+          "stem": "Which sentence is an opinion?",
+          "options": [
+            "Online classes are more boring than real classes.",
+            "The class starts at 9 a.m.",
+            "There are 40 students in the class.",
+            "The course lasts 15 weeks."
+          ],
+          "answer": 0,
+          "explanation_th": "'more boring' เป็นความรู้สึก คนอื่นอาจคิดต่าง",
+          "why_wrong": [
+            null,
+            "เวลาเริ่มเรียนตรวจสอบได้",
+            "จำนวนนักศึกษานับได้",
+            "ระยะเวลาของวิชาตรวจสอบได้"
+          ]
+        },
+        {
+          "id": "ENL211-U3-03",
+          "skill": "ENL211-U3",
+          "difficulty": 1,
+          "stem": "Which word is a signal of an opinion?",
+          "options": [
+            "in 2024",
+            "should",
+            "percent",
+            "according to the report"
+          ],
+          "answer": 1,
+          "explanation_th": "should บอกว่าผู้พูดคิดว่าอะไรควรเกิด",
+          "why_wrong": [
+            "ปีเป็นข้อมูลที่ตรวจสอบได้",
+            null,
+            "percent มักมากับตัวเลขที่วัดได้",
+            "ใช้อ้างแหล่งข้อมูล"
+          ]
+        },
+        {
+          "id": "ENL211-U3-04",
+          "skill": "ENL211-U3",
+          "difficulty": 1,
+          "stem": "Speaker: 'According to the city's report, the number of buses rose from 200 to 250.' This is mainly a ___.",
+          "options": [
+            "personal feeling",
+            "joke",
+            "question",
+            "fact that you can check"
+          ],
+          "answer": 3,
+          "explanation_th": "มีแหล่งข้อมูลและตัวเลข ตรวจสอบได้",
+          "why_wrong": [
+            "ไม่มีคำแสดงความรู้สึก",
+            "ไม่มีอะไรตลก",
+            "เป็นประโยคบอกเล่า ไม่ใช่คำถาม",
+            null
+          ]
+        },
+        {
+          "id": "ENL211-U3-05",
+          "skill": "ENL211-U3",
+          "difficulty": 2,
+          "stem": "Speaker: 'Clearly, everyone knows that social media is bad for teenagers.' Why is this still an opinion?",
+          "options": [
+            "Because it uses numbers.",
+            "Because it is about teenagers.",
+            "It gives no evidence, and 'clearly' doesn't prove anything.",
+            "Because it is a question."
+          ],
+          "answer": 2,
+          "explanation_th": "คำที่ฟังมั่นใจไม่ใช่หลักฐาน ประโยคนี้ไม่มีข้อมูลสนับสนุน",
+          "why_wrong": [
+            "ประโยคนี้ไม่มีตัวเลขเลย",
+            "หัวข้อไม่ได้ทำให้เป็นความเห็น",
+            null,
+            "เป็นประโยคบอกเล่า ไม่ใช่คำถาม"
+          ]
+        },
+        {
+          "id": "ENL211-U3-06",
+          "skill": "ENL211-U3",
+          "difficulty": 2,
+          "stem": "Which sentence mixes a fact and an opinion?",
+          "options": [
+            "The museum opened in 2010.",
+            "I love the museum.",
+            "The museum is next to the river.",
+            "The museum opened in 2010, and it's the most beautiful building in town."
+          ],
+          "answer": 3,
+          "explanation_th": "ปีที่เปิดเป็นข้อเท็จจริง most beautiful เป็นความเห็น",
+          "why_wrong": [
+            "มีแต่ข้อเท็จจริง",
+            "มีแต่ความเห็น",
+            "มีแต่ข้อเท็จจริงเรื่องที่ตั้ง",
+            null
+          ]
+        },
+        {
+          "id": "ENL211-U3-07",
+          "skill": "ENL211-U3",
+          "difficulty": 1,
+          "stem": "To check whether something is a fact, the best thing to do is ___.",
+          "options": [
+            "look at a reliable source",
+            "ask who likes it",
+            "count the adjectives",
+            "believe the loudest speaker"
+          ],
+          "answer": 0,
+          "explanation_th": "แหล่งที่เชื่อถือได้ใช้ยืนยันข้อเท็จจริง",
+          "why_wrong": [
+            null,
+            "ความชอบไม่ได้บอกว่าจริงหรือไม่",
+            "จำนวนคำคุณศัพท์ไม่ได้พิสูจน์อะไร",
+            "การพูดเสียงดังไม่ใช่หลักฐาน"
+          ]
+        },
+        {
+          "id": "ENL211-U3-08",
+          "skill": "ENL211-U3",
+          "difficulty": 2,
+          "stem": "A speaker who shows only one side of an issue and ignores the other is ___.",
+          "options": [
+            "balanced",
+            "biased",
+            "neutral",
+            "fair"
+          ],
+          "answer": 1,
+          "explanation_th": "biased = ลำเอียง เข้าข้างด้านเดียว",
+          "why_wrong": [
+            "balanced คือเสนอทั้งสองด้าน",
+            null,
+            "neutral คือเป็นกลาง ไม่เข้าข้าง",
+            "fair คือยุติธรรม ตรงข้ามกับการเข้าข้างด้านเดียว"
+          ]
+        }
+      ],
+      "say": [
+        "That's a fact, because you can check it in the report.",
+        "In my view, that's an opinion, because 'the best' is a feeling."
+      ],
+      "task_th": "เปิดโพสต์ข่าวหรือรีวิวภาษาอังกฤษ 1 อัน คัดประโยคมา 6 ประโยค แปะป้าย F (fact) หรือ O (opinion) และขีดเส้นใต้คำสัญญาณ แล้วอ่านออกเสียงทีละประโยคต่อด้วย This is a fact / an opinion because..."
+    },
+    {
+      "id": "ENL211-U4",
+      "title_th": "แสดงและตอบรับความเห็นในวงคุย",
+      "title_en": "Giving and responding to opinions",
+      "covers": "การแสดงความคิดเห็น",
+      "minutes": 12,
+      "interview": [
+        "I43"
+      ],
+      "cards": [
+        {
+          "title_th": "เห็นด้วย",
+          "body_th": "I agree. / That's a good point. / Exactly. สั้นแต่ทำให้ผู้พูดรู้ว่าเราฟังอยู่"
+        },
+        {
+          "title_th": "ไม่เห็นด้วยอย่างสุภาพ",
+          "body_th": "I see what you mean, but... / I'm not sure I agree, because... ยอมรับอีกฝ่ายก่อน แล้วให้เหตุผล"
+        },
+        {
+          "title_th": "เห็นด้วยบางส่วน",
+          "body_th": "I partly agree. / That's true, but... ใช้เมื่อเห็นด้วยแค่บางเรื่อง"
+        },
+        {
+          "title_th": "ดึงคนอื่นเข้าวง",
+          "body_th": "What do you think, Mina? / Does anyone have a different idea? คนขี้อายก็ใช้ประโยคนี้เปิดวงได้โดยไม่ต้องพูดยาว"
+        }
+      ],
+      "vocab": [
+        [
+          "agree",
+          "เห็นด้วย"
+        ],
+        [
+          "disagree",
+          "ไม่เห็นด้วย"
+        ],
+        [
+          "point",
+          "ประเด็น"
+        ],
+        [
+          "partly",
+          "บางส่วน"
+        ],
+        [
+          "discussion",
+          "การอภิปราย"
+        ],
+        [
+          "viewpoint",
+          "มุมมอง"
+        ],
+        [
+          "interrupt",
+          "พูดแทรก"
+        ],
+        [
+          "take turns",
+          "ผลัดกัน"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "ENL211-U4-01",
+          "skill": "ENL211-U4",
+          "difficulty": 1,
+          "stem": "Which phrase disagrees politely?",
+          "options": [
+            "That's nonsense.",
+            "Be quiet.",
+            "You never understand anything.",
+            "I see what you mean, but I think..."
+          ],
+          "answer": 3,
+          "explanation_th": "ยอมรับความเห็นอีกฝ่ายก่อนแล้วจึงเสนอความเห็นตัวเอง",
+          "why_wrong": [
+            "ดูถูกความเห็นของอีกฝ่าย",
+            "เป็นคำสั่งที่ไม่สุภาพ",
+            "โจมตีตัวบุคคล ไม่ใช่ความคิด",
+            null
+          ]
+        },
+        {
+          "id": "ENL211-U4-02",
+          "skill": "ENL211-U4",
+          "difficulty": 1,
+          "stem": "A: Students should wear uniforms. B: 'I partly agree.' What does B mean?",
+          "options": [
+            "B agrees 100%.",
+            "B agrees with some of the idea, but not all of it.",
+            "B didn't hear A.",
+            "B wants to change the topic."
+          ],
+          "answer": 1,
+          "explanation_th": "partly = บางส่วน",
+          "why_wrong": [
+            "ถ้าเห็นด้วยทั้งหมดจะพูด I totally agree",
+            null,
+            "B ตอบตรงความเห็นของ A จึงได้ยินแล้ว",
+            "B ยังพูดเรื่องเดิมอยู่"
+          ]
+        },
+        {
+          "id": "ENL211-U4-03",
+          "skill": "ENL211-U4",
+          "difficulty": 1,
+          "stem": "You want to hear a quiet classmate's view. You say: ___",
+          "options": [
+            "What do you think, Mina?",
+            "Mina, you're wrong.",
+            "Let me finish first.",
+            "I agree with myself."
+          ],
+          "answer": 0,
+          "explanation_th": "ถามความเห็นโดยเรียกชื่อ เปิดโอกาสให้เพื่อนพูด",
+          "why_wrong": [
+            null,
+            "ตัดสินก่อนเพื่อนจะได้พูด",
+            "ขอพูดต่อเอง ไม่ได้ชวนเพื่อน",
+            "ไม่ได้ชวนใครพูด"
+          ]
+        },
+        {
+          "id": "ENL211-U4-04",
+          "skill": "ENL211-U4",
+          "difficulty": 2,
+          "stem": "A: Plastic bags should be banned. B: '___ They hurt sea animals.'",
+          "options": [
+            "I totally disagree.",
+            "Who cares?",
+            "Exactly.",
+            "Sorry, I'm late."
+          ],
+          "answer": 2,
+          "explanation_th": "เหตุผลต่อมาของ B สนับสนุน A จึงต้องเป็นการเห็นด้วย",
+          "why_wrong": [
+            "ขัดกับเหตุผลที่ B พูดต่อซึ่งสนับสนุน A",
+            "ฟังไม่ใส่ใจ และไม่เข้ากับเหตุผลที่ตามมา",
+            null,
+            "ไม่เกี่ยวกับการคุย"
+          ]
+        },
+        {
+          "id": "ENL211-U4-05",
+          "skill": "ENL211-U4",
+          "difficulty": 1,
+          "stem": "Someone is still talking, but you need to add an idea. What is the most polite?",
+          "options": [
+            "Sorry to interrupt, but can I add something?",
+            "Stop! My turn!",
+            "Just talk louder than them.",
+            "Whatever."
+          ],
+          "answer": 0,
+          "explanation_th": "ขอโทษก่อนพูดแทรกและขออนุญาต",
+          "why_wrong": [
+            null,
+            "ตัดบทอย่างหยาบคาย",
+            "แย่งพูดโดยไม่ขอ",
+            "ฟังไม่ใส่ใจ และไม่ได้เพิ่มความคิด"
+          ]
+        },
+        {
+          "id": "ENL211-U4-06",
+          "skill": "ENL211-U4",
+          "difficulty": 2,
+          "stem": "A: 'Online classes save time.' B: 'That's true, but some students find it hard to focus at home.' B ___.",
+          "options": [
+            "fully disagrees and gives no reason",
+            "partly agrees and adds another side",
+            "changes the topic",
+            "asks a question"
+          ],
+          "answer": 1,
+          "explanation_th": "That's true ยอมรับ but... เพิ่มอีกมุม",
+          "why_wrong": [
+            "B ยอมรับบางส่วนและมีเหตุผล",
+            null,
+            "B ยังพูดเรื่องเรียนออนไลน์",
+            "B ไม่ได้ถามอะไร"
+          ]
+        },
+        {
+          "id": "ENL211-U4-07",
+          "skill": "ENL211-U4",
+          "difficulty": 1,
+          "stem": "Which sentence gives an opinion AND a reason?",
+          "options": [
+            "The city has 200 buses.",
+            "I think so.",
+            "The buses are blue.",
+            "I think the city needs more buses because traffic is terrible."
+          ],
+          "answer": 3,
+          "explanation_th": "มีทั้ง I think และ because",
+          "why_wrong": [
+            "เป็นข้อเท็จจริง ไม่มีความเห็น",
+            "มีความเห็นแต่ไม่มีเหตุผล",
+            "เป็นข้อเท็จจริง ไม่มีความเห็น",
+            null
+          ]
+        },
+        {
+          "id": "ENL211-U4-08",
+          "skill": "ENL211-U4",
+          "difficulty": 1,
+          "stem": "In a group discussion, 'Let's take turns' means ___.",
+          "options": [
+            "everyone speaks at the same time",
+            "stop the discussion",
+            "speak one by one",
+            "go home early"
+          ],
+          "answer": 2,
+          "explanation_th": "take turns = ผลัดกัน",
+          "why_wrong": [
+            "ตรงข้ามกับการผลัดกัน",
+            "ไม่ได้ให้หยุดคุย",
+            null,
+            "ไม่เกี่ยวกับการกลับบ้าน"
+          ]
+        }
+      ],
+      "say": [
+        "I see what you mean, but I'm not sure I agree.",
+        "That's a good point. What do you think, Mina?"
+      ],
+      "task_th": "เลือกประเด็น 1 เรื่อง เช่น นักศึกษาควรใส่ชุดนักศึกษาทุกวันไหม เขียนความเห็นของเพื่อนสมมติ 2 คนที่คิดต่างกัน แล้วอัดเสียงตอบแต่ละคน: คนแรกเห็นด้วยพร้อมเหตุผล คนที่สองไม่เห็นด้วยอย่างสุภาพ"
+    },
+    {
+      "id": "ENL211-U5",
+      "title_th": "โครงการนำเสนอและคำบอกทาง",
+      "title_en": "Presentation structure and signposting",
+      "covers": "รวมทั้งการนำเสนอเบื้องต้น",
+      "minutes": 14,
+      "cards": [
+        {
+          "title_th": "โครง 3 ส่วน",
+          "body_th": "บทนำ (ทักทาย หัวข้อ โครงร่าง) → เนื้อหา (2-3 ประเด็น) → บทสรุป (สรุป ขอบคุณ เชิญถาม)"
+        },
+        {
+          "title_th": "คำบอกทาง (signposting)",
+          "body_th": "Today I'm going to talk about... / First... / Moving on to... / Let's look at... / To sum up... บอกผู้ฟังว่าตอนนี้อยู่ตรงไหนของเรื่อง"
+        },
+        {
+          "title_th": "เปิดให้น่าฟัง",
+          "body_th": "เริ่มด้วยคำถาม เรื่องสั้น ๆ หรือข้อมูลที่น่าสนใจ แทนการขอโทษว่าไม่ได้เตรียม",
+          "example": "Have you ever missed a bus because of traffic?"
+        },
+        {
+          "title_th": "สำหรับคนขี้อาย",
+          "body_th": "ซ้อมออกเสียงอย่างน้อย 3 รอบ จดแค่คำสำคัญในการ์ด มองหน้าคนที่ดูเป็นมิตร 2-3 คน หายใจลึก ๆ และพูดช้าลงกว่าที่คิด"
+        }
+      ],
+      "vocab": [
+        [
+          "presentation",
+          "การนำเสนอ"
+        ],
+        [
+          "introduction",
+          "บทนำ"
+        ],
+        [
+          "conclusion",
+          "บทสรุป"
+        ],
+        [
+          "outline",
+          "โครงร่าง"
+        ],
+        [
+          "signposting",
+          "คำบอกทาง"
+        ],
+        [
+          "audience",
+          "ผู้ฟัง"
+        ],
+        [
+          "summarise",
+          "สรุป"
+        ],
+        [
+          "eye contact",
+          "การสบตา"
+        ],
+        [
+          "rehearse",
+          "ซ้อม"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "ENL211-U5-01",
+          "skill": "ENL211-U5",
+          "difficulty": 1,
+          "stem": "Which sentence belongs in the introduction of a presentation?",
+          "options": [
+            "To sum up, saving money is important.",
+            "Today I'm going to talk about three ways to save money.",
+            "Are there any questions?",
+            "Moving on to my last point."
+          ],
+          "answer": 1,
+          "explanation_th": "บอกหัวข้อและโครงร่าง เป็นหน้าที่ของบทนำ",
+          "why_wrong": [
+            "To sum up ใช้ในบทสรุป",
+            null,
+            "ใช้ตอนจบเพื่อเชิญถาม",
+            "ใช้ในส่วนเนื้อหา ระหว่างประเด็น"
+          ]
+        },
+        {
+          "id": "ENL211-U5-02",
+          "skill": "ENL211-U5",
+          "difficulty": 1,
+          "stem": "'Moving on to my second point...' This phrase tells the audience that ___.",
+          "options": [
+            "the talk is over",
+            "the speaker forgot something",
+            "it's time for questions",
+            "the speaker is starting a new point"
+          ],
+          "answer": 3,
+          "explanation_th": "Moving on to... บอกว่าจะเปลี่ยนไปประเด็นถัดไป",
+          "why_wrong": [
+            "ยังมีประเด็นที่สองตามมา",
+            "ไม่ได้บอกว่าลืม",
+            "ยังไม่ถึงช่วงถามตอบ",
+            null
+          ]
+        },
+        {
+          "id": "ENL211-U5-03",
+          "skill": "ENL211-U5",
+          "difficulty": 1,
+          "stem": "Which phrase signals the conclusion?",
+          "options": [
+            "First of all,",
+            "For example,",
+            "In conclusion,",
+            "Let me introduce myself."
+          ],
+          "answer": 2,
+          "explanation_th": "In conclusion ใช้เริ่มบทสรุป",
+          "why_wrong": [
+            "ใช้เริ่มประเด็นแรก",
+            "ใช้ยกตัวอย่าง",
+            null,
+            "ใช้ตอนเริ่มต้น"
+          ]
+        },
+        {
+          "id": "ENL211-U5-04",
+          "skill": "ENL211-U5",
+          "difficulty": 2,
+          "stem": "Put these in order: (A) 'To sum up...' (B) 'Good morning. Today I'll talk about...' (C) 'My first point is...'",
+          "options": [
+            "B, C, A",
+            "A, B, C",
+            "C, A, B",
+            "B, A, C"
+          ],
+          "answer": 0,
+          "explanation_th": "บทนำ → ประเด็นแรก → บทสรุป",
+          "why_wrong": [
+            null,
+            "เริ่มด้วยการสรุปไม่ได้",
+            "ทักทายต้องมาก่อน ไม่ใช่ตอนจบ",
+            "สรุปก่อนพูดประเด็นแรกไม่ได้"
+          ]
+        },
+        {
+          "id": "ENL211-U5-05",
+          "skill": "ENL211-U5",
+          "difficulty": 1,
+          "stem": "An outline in the introduction tells the audience ___.",
+          "options": [
+            "the main parts of the talk",
+            "the speaker's phone number",
+            "the answers to the final exam",
+            "a list of jokes"
+          ],
+          "answer": 0,
+          "explanation_th": "โครงร่างบอกว่าเรื่องแบ่งเป็นกี่ส่วน อะไรบ้าง",
+          "why_wrong": [
+            null,
+            "ไม่เกี่ยวกับเนื้อหา",
+            "ไม่เกี่ยวกับการนำเสนอ",
+            "โครงร่างไม่ใช่รายการมุกตลก"
+          ]
+        },
+        {
+          "id": "ENL211-U5-06",
+          "skill": "ENL211-U5",
+          "difficulty": 1,
+          "stem": "Which is a good way to start and get attention?",
+          "options": [
+            "Um... OK... so... yeah.",
+            "I didn't prepare anything.",
+            "Have you ever missed a bus because of traffic?",
+            "This topic is boring, sorry."
+          ],
+          "answer": 2,
+          "explanation_th": "คำถามที่ผู้ฟังเคยเจอดึงความสนใจได้ดี",
+          "why_wrong": [
+            "ไม่มีเนื้อหาและดูไม่พร้อม",
+            "ทำให้ผู้ฟังหมดความสนใจ",
+            null,
+            "ลดความน่าสนใจของเรื่องตัวเอง"
+          ]
+        },
+        {
+          "id": "ENL211-U5-07",
+          "skill": "ENL211-U5",
+          "difficulty": 1,
+          "stem": "Looking at different people in the audience while you speak is called ___.",
+          "options": [
+            "signposting",
+            "eye contact",
+            "an outline",
+            "a summary"
+          ],
+          "answer": 1,
+          "explanation_th": "eye contact = การสบตา",
+          "why_wrong": [
+            "signposting คือคำบอกทาง",
+            null,
+            "outline คือโครงร่าง",
+            "summary คือบทสรุป"
+          ]
+        },
+        {
+          "id": "ENL211-U5-08",
+          "skill": "ENL211-U5",
+          "difficulty": 2,
+          "stem": "Which is the best tip for a nervous speaker?",
+          "options": [
+            "Read every word from your phone.",
+            "Speak as fast as possible to finish.",
+            "Don't prepare, just hope for the best.",
+            "Practise aloud several times with key-word notes."
+          ],
+          "answer": 3,
+          "explanation_th": "การซ้อมออกเสียงและใช้การ์ดคำสำคัญช่วยลดความกังวล",
+          "why_wrong": [
+            "ทำให้ไม่ได้มองผู้ฟังและฟังเหมือนอ่าน",
+            "ผู้ฟังตามไม่ทัน",
+            "ไม่เตรียมทำให้ตื่นเต้นมากขึ้น",
+            null
+          ]
+        }
+      ],
+      "say": [
+        "Good morning, everyone. Today I'm going to talk about three ways to save money.",
+        "Moving on to my second point, let's look at transport."
+      ],
+      "task_th": "เลือกหัวข้อสังคม 1 เรื่องที่สนใจ เขียนโครงการนำเสนอ 1 นาที: ประโยคเปิด 1 ประโยค, โครงร่าง 1 ประโยค, ประเด็น 2 ข้อพร้อมคำบอกทาง, ประโยคสรุป 1 ประโยค แล้วซ้อมออกเสียงจับเวลา 2 รอบ"
+    },
+    {
+      "id": "ENL211-U6",
+      "title_th": "ใช้สไลด์และสื่อให้เหมาะ",
+      "title_en": "Using slides and technology",
+      "covers": "โดยใช้สื่อเทคโนโลยีที่เหมาะสม",
+      "minutes": 12,
+      "cards": [
+        {
+          "title_th": "สไลด์ช่วยพูด ไม่ใช่บทอ่าน",
+          "body_th": "1 ความคิดต่อ 1 สไลด์ ใช้คำสำคัญไม่กี่คำ ตัวอักษรใหญ่ สีตัวอักษรตัดกับพื้นหลัง"
+        },
+        {
+          "title_th": "เลือกกราฟให้ตรงงาน",
+          "body_th": "กราฟแท่ง (bar) เทียบหลายสิ่ง กราฟเส้น (line) แสดงการเปลี่ยนตามเวลา แผนภูมิวงกลม (pie) แสดงส่วนของทั้งหมด"
+        },
+        {
+          "title_th": "พูดถึงภาพ",
+          "body_th": "This graph shows... / As you can see in this chart... / Look at the red line. พาผู้ฟังดูจุดสำคัญ"
+        },
+        {
+          "title_th": "เตรียมแผนสำรอง",
+          "body_th": "ทดสอบเครื่องฉายและไมค์ก่อน เก็บไฟล์ไว้ 2 ที่ (เช่น ไดรฟ์ออนไลน์กับแฟลชไดรฟ์)"
+        }
+      ],
+      "vocab": [
+        [
+          "slide",
+          "สไลด์"
+        ],
+        [
+          "chart",
+          "แผนภูมิ"
+        ],
+        [
+          "graph",
+          "กราฟ"
+        ],
+        [
+          "font",
+          "แบบตัวอักษร"
+        ],
+        [
+          "projector",
+          "เครื่องฉาย"
+        ],
+        [
+          "visual",
+          "ภาพประกอบ"
+        ],
+        [
+          "bullet point",
+          "หัวข้อย่อย"
+        ],
+        [
+          "backup",
+          "สำรอง"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "ENL211-U6-01",
+          "skill": "ENL211-U6",
+          "difficulty": 1,
+          "stem": "Which slide is easiest for the audience to read?",
+          "options": [
+            "A full page of small text",
+            "Ten pictures and five colours of text",
+            "A title and 3 short bullet points in large font",
+            "White text on a light yellow background"
+          ],
+          "answer": 2,
+          "explanation_th": "ข้อความน้อย ตัวใหญ่ อ่านได้เร็ว",
+          "why_wrong": [
+            "ผู้ฟังอ่านไม่ทันและเลิกฟัง",
+            "รกจนไม่รู้จะดูตรงไหน",
+            null,
+            "สีไม่ตัดกัน อ่านยาก"
+          ]
+        },
+        {
+          "id": "ENL211-U6-02",
+          "skill": "ENL211-U6",
+          "difficulty": 2,
+          "stem": "You want to show how bus fares changed from 2015 to 2025. Which visual fits best?",
+          "options": [
+            "a pie chart",
+            "a photo of a bus",
+            "a word cloud",
+            "a line graph"
+          ],
+          "answer": 3,
+          "explanation_th": "กราฟเส้นแสดงการเปลี่ยนแปลงตามเวลาได้ชัด",
+          "why_wrong": [
+            "แผนภูมิวงกลมแสดงส่วนของทั้งหมด ไม่ใช่การเปลี่ยนตามเวลา",
+            "ภาพรถเมล์ไม่ได้แสดงราคาเลย",
+            "word cloud แสดงคำที่พบบ่อย ไม่ใช่ตัวเลขตามปี",
+            null
+          ]
+        },
+        {
+          "id": "ENL211-U6-03",
+          "skill": "ENL211-U6",
+          "difficulty": 2,
+          "stem": "You want to show what share of a monthly budget goes to food, rent and transport. Which visual fits best?",
+          "options": [
+            "a line graph",
+            "a pie chart",
+            "a timeline",
+            "a map"
+          ],
+          "answer": 1,
+          "explanation_th": "แผนภูมิวงกลมแสดงสัดส่วนของทั้งหมด",
+          "why_wrong": [
+            "กราฟเส้นเหมาะกับการเปลี่ยนตามเวลา",
+            null,
+            "เส้นเวลาแสดงลำดับเหตุการณ์",
+            "แผนที่แสดงสถานที่"
+          ]
+        },
+        {
+          "id": "ENL211-U6-04",
+          "skill": "ENL211-U6",
+          "difficulty": 1,
+          "stem": "'As you can see in this chart...' is used to ___.",
+          "options": [
+            "point the audience to a visual",
+            "end the presentation",
+            "ask for questions",
+            "apologise"
+          ],
+          "answer": 0,
+          "explanation_th": "ชวนให้ผู้ฟังดูภาพบนสไลด์",
+          "why_wrong": [
+            null,
+            "ไม่ใช่ประโยคปิด",
+            "ไม่ได้เชิญถาม",
+            "ไม่มีคำขอโทษ"
+          ]
+        },
+        {
+          "id": "ENL211-U6-05",
+          "skill": "ENL211-U6",
+          "difficulty": 1,
+          "stem": "What should you do before a presentation with slides?",
+          "options": [
+            "Change all the fonts five minutes before.",
+            "Test the projector and keep a backup copy of the file.",
+            "Delete your file after emailing it.",
+            "Turn the music up very loud."
+          ],
+          "answer": 1,
+          "explanation_th": "ทดสอบอุปกรณ์และมีไฟล์สำรองช่วยกันปัญหาเฉพาะหน้า",
+          "why_wrong": [
+            "แก้ตอนท้ายอาจทำให้สไลด์เพี้ยน",
+            null,
+            "ถ้าอีเมลมีปัญหาจะไม่มีไฟล์ใช้",
+            "ไม่เกี่ยวกับการเตรียมสไลด์"
+          ]
+        },
+        {
+          "id": "ENL211-U6-06",
+          "skill": "ENL211-U6",
+          "difficulty": 1,
+          "stem": "A good slide should ___.",
+          "options": [
+            "contain every word you say",
+            "be full of moving animations",
+            "have no title at all",
+            "support what you say with key words"
+          ],
+          "answer": 3,
+          "explanation_th": "สไลด์ช่วยเสริมคำพูด ไม่ใช่แทนคำพูด",
+          "why_wrong": [
+            "ผู้ฟังจะอ่านแทนการฟัง",
+            "แอนิเมชันมากไปดึงความสนใจออกจากเนื้อหา",
+            "หัวข้อช่วยบอกว่าสไลด์นี้เรื่องอะไร",
+            null
+          ]
+        },
+        {
+          "id": "ENL211-U6-07",
+          "skill": "ENL211-U6",
+          "difficulty": 1,
+          "stem": "Which phrase introduces a graph?",
+          "options": [
+            "This graph shows...",
+            "Thank you for listening.",
+            "Let me tell you a joke.",
+            "That's all from me."
+          ],
+          "answer": 0,
+          "explanation_th": "This graph shows... ใช้เริ่มอธิบายกราฟ",
+          "why_wrong": [
+            null,
+            "ใช้ตอนจบ",
+            "ไม่เกี่ยวกับกราฟ",
+            "ใช้ตอนจบ"
+          ]
+        },
+        {
+          "id": "ENL211-U6-08",
+          "skill": "ENL211-U6",
+          "difficulty": 1,
+          "stem": "In a presentation, a 'backup' is ___.",
+          "options": [
+            "the last slide",
+            "the audience",
+            "an extra copy in case something goes wrong",
+            "a type of chart"
+          ],
+          "answer": 2,
+          "explanation_th": "backup = สำรองไว้ใช้เมื่อมีปัญหา",
+          "why_wrong": [
+            "สไลด์สุดท้ายไม่ใช่ความหมายของ backup",
+            "ผู้ฟังคือ audience",
+            null,
+            "backup ไม่ใช่ชนิดของแผนภูมิ"
+          ]
+        }
+      ],
+      "say": [
+        "As you can see in this graph, bus fares went up every year.",
+        "Let me show you one more slide before we finish."
+      ],
+      "task_th": "ทำสไลด์ 3 หน้าในหัวข้อจากหน่วยก่อน (ชื่อเรื่อง, ประเด็นหลักพร้อมภาพหรือกราฟ 1 ภาพ, สรุป) แต่ละหน้าไม่เกิน 15 คำ แล้วซ้อมพูดอธิบายภาพด้วย This graph shows... หรือ As you can see..."
+    },
+    {
+      "id": "ENL211-U7",
+      "title_th": "รับมือคำถามหลังนำเสนอ",
+      "title_en": "Handling questions",
+      "covers": "การนำเสนอเบื้องต้น",
+      "minutes": 12,
+      "interview": [
+        "I61",
+        "I62"
+      ],
+      "cards": [
+        {
+          "title_th": "เชิญถาม",
+          "body_th": "Does anyone have any questions? / I'm happy to take questions. พูดช้า ๆ แล้วรอสักครู่"
+        },
+        {
+          "title_th": "ซื้อเวลาคิด",
+          "body_th": "That's a good question. / Let me think for a second. ใช้ได้เสมอ ไม่ได้แปลว่าไม่รู้"
+        },
+        {
+          "title_th": "ไม่รู้ก็บอกได้",
+          "body_th": "I'm not sure, but I can check and tell you later. ซื่อสัตย์ดีกว่าแต่งคำตอบ"
+        },
+        {
+          "title_th": "ไม่เข้าใจคำถาม",
+          "body_th": "Sorry, could you repeat the question? / Do you mean...? ตอบเสร็จแล้วเช็ก: Does that answer your question?"
+        }
+      ],
+      "vocab": [
+        [
+          "question and answer (Q&A)",
+          "ช่วงถามตอบ"
+        ],
+        [
+          "clarify",
+          "ทำให้ชัดเจน"
+        ],
+        [
+          "follow up",
+          "ติดตามต่อ"
+        ],
+        [
+          "honest",
+          "ซื่อสัตย์"
+        ],
+        [
+          "rephrase",
+          "พูดใหม่ด้วยคำอื่น"
+        ],
+        [
+          "feedback",
+          "คำติชม"
+        ],
+        [
+          "audience",
+          "ผู้ฟัง"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "ENL211-U7-01",
+          "skill": "ENL211-U7",
+          "difficulty": 1,
+          "stem": "You don't know the answer to a question. What is the best response?",
+          "options": [
+            "That's a stupid question.",
+            "I'm not sure, but I'll check and email you.",
+            "Say any number to sound smart.",
+            "Ignore it and look at your notes."
+          ],
+          "answer": 1,
+          "explanation_th": "ยอมรับตรง ๆ และเสนอจะหาคำตอบให้",
+          "why_wrong": [
+            "ดูถูกผู้ถาม",
+            null,
+            "ให้ข้อมูลผิดโดยตั้งใจ",
+            "ทำเหมือนไม่ได้ยิน ไม่สุภาพ"
+          ]
+        },
+        {
+          "id": "ENL211-U7-02",
+          "skill": "ENL211-U7",
+          "difficulty": 1,
+          "stem": "You didn't understand the question. You say: ___",
+          "options": [
+            "Yes.",
+            "Thank you, bye.",
+            "Sorry, could you repeat the question, please?",
+            "I agree."
+          ],
+          "answer": 2,
+          "explanation_th": "ขอให้ถามซ้ำอย่างสุภาพ",
+          "why_wrong": [
+            "ตอบโดยไม่เข้าใจคำถาม",
+            "จบการนำเสนอโดยไม่ตอบ",
+            null,
+            "คำถามไม่ใช่ความเห็นที่ต้องเห็นด้วย"
+          ]
+        },
+        {
+          "id": "ENL211-U7-03",
+          "skill": "ENL211-U7",
+          "difficulty": 1,
+          "stem": "'That's a good question. Let me think for a second.' Why do speakers say this?",
+          "options": [
+            "to end the talk",
+            "to say the question is wrong",
+            "to change the topic",
+            "to get a little time to think"
+          ],
+          "answer": 3,
+          "explanation_th": "ซื้อเวลาเรียบเรียงคำตอบ",
+          "why_wrong": [
+            "ยังกำลังจะตอบอยู่",
+            "บอกว่าเป็นคำถามที่ดี ไม่ใช่ผิด",
+            "ยังอยู่กับคำถามเดิม",
+            null
+          ]
+        },
+        {
+          "id": "ENL211-U7-04",
+          "skill": "ENL211-U7",
+          "difficulty": 1,
+          "stem": "After answering, you want to make sure the person is satisfied. You ask: ___",
+          "options": [
+            "Does that answer your question?",
+            "Do you understand English?",
+            "Why did you ask that?",
+            "Who are you?"
+          ],
+          "answer": 0,
+          "explanation_th": "เช็กว่าคำตอบตรงกับที่ผู้ถามต้องการ",
+          "why_wrong": [
+            null,
+            "ฟังเหมือนดูถูกภาษาของผู้ถาม",
+            "ฟังเหมือนตำหนิผู้ถาม",
+            "ไม่สุภาพและไม่เกี่ยวกับคำตอบ"
+          ]
+        },
+        {
+          "id": "ENL211-U7-05",
+          "skill": "ENL211-U7",
+          "difficulty": 1,
+          "stem": "Which sentence invites questions at the end?",
+          "options": [
+            "Please don't ask me anything.",
+            "Let's start with my first point.",
+            "I'm happy to take any questions now.",
+            "My name is Ben."
+          ],
+          "answer": 2,
+          "explanation_th": "เชิญผู้ฟังถามอย่างเป็นมิตร",
+          "why_wrong": [
+            "ปิดโอกาสถาม",
+            "ใช้ตอนเริ่มเนื้อหา",
+            null,
+            "ใช้แนะนำตัวตอนเริ่ม"
+          ]
+        },
+        {
+          "id": "ENL211-U7-06",
+          "skill": "ENL211-U7",
+          "difficulty": 2,
+          "stem": "Audience: 'How many people did you survey?' Speaker: 'Do you mean in total, or each week?' The speaker is ___.",
+          "options": [
+            "refusing to answer",
+            "clarifying the question",
+            "ending the talk",
+            "telling a joke"
+          ],
+          "answer": 1,
+          "explanation_th": "ถามกลับเพื่อให้แน่ใจว่าเข้าใจคำถามถูก",
+          "why_wrong": [
+            "ผู้พูดกำลังเตรียมจะตอบ",
+            null,
+            "ยังอยู่ในช่วงถามตอบ",
+            "ไม่มีอะไรตลก"
+          ]
+        },
+        {
+          "id": "ENL211-U7-07",
+          "skill": "ENL211-U7",
+          "difficulty": 2,
+          "stem": "Which word means 'to say something again using different words'?",
+          "options": [
+            "rephrase",
+            "repeat",
+            "reply",
+            "remove"
+          ],
+          "answer": 0,
+          "explanation_th": "rephrase = พูดใหม่ด้วยคำอื่น",
+          "why_wrong": [
+            null,
+            "repeat คือพูดซ้ำด้วยคำเดิม",
+            "reply คือตอบกลับ",
+            "remove คือเอาออก"
+          ]
+        },
+        {
+          "id": "ENL211-U7-08",
+          "skill": "ENL211-U7",
+          "difficulty": 1,
+          "stem": "Feedback after a presentation is ___.",
+          "options": [
+            "the final slide",
+            "a type of microphone",
+            "the title of the talk",
+            "comments on what was good and what to improve"
+          ],
+          "answer": 3,
+          "explanation_th": "feedback = คำติชม",
+          "why_wrong": [
+            "ไม่ใช่สไลด์",
+            "ไม่ใช่อุปกรณ์",
+            "ไม่ใช่ชื่อเรื่อง",
+            null
+          ]
+        }
+      ],
+      "say": [
+        "That's a good question. Let me think for a second.",
+        "I'm not sure, but I can check and tell you after class."
+      ],
+      "task_th": "เขียนคำถามที่ผู้ฟังอาจถามหลังการนำเสนอจากหน่วยที่ 5 จำนวน 3 ข้อ (ให้มี 1 ข้อที่คุณไม่รู้คำตอบ) แล้วอัดเสียงตอบทีละข้อ ใช้ประโยคซื้อเวลา 1 ครั้ง และ I'm not sure, but... 1 ครั้ง"
+    }
+  ]
+}

@@ -1,0 +1,1670 @@
+{
+  "code": "EN103",
+  "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+  "in_class_th": [
+    "วิชานี้มีชั่วโมงปฏิบัติ (2-2-6) จึงน่าจะได้พูดและทำกิจกรรมคู่หรือกลุ่มในห้องบ่อยกว่าวิชาบรรยาย",
+    "น่าจะได้เล่าประสบการณ์ของตัวเองหน้าห้อง เช่น การเดินทางหรือปัญหาที่เคยแก้ และน่าจะถูกขอให้ใส่รายละเอียดสนับสนุน",
+    "น่าจะมีการอภิปรายประเด็นระดับโลก เช่น สภาพภูมิอากาศ เมือง สุขภาพ หรือเทคโนโลยีกับงาน แล้วให้แต่ละคนแสดงความเห็นพร้อมเหตุผล",
+    "อาจมีงานเขียนอีเมลแบบทางการ หรือฝึกประชุมผ่านวิดีโอคอล ตามหัวข้อการสื่อสารในโลกดิจิทัล"
+  ],
+  "units": [
+    {
+      "id": "EN103-U1",
+      "title_th": "เล่าประสบการณ์ให้เห็นภาพ",
+      "title_en": "Describing experiences in detail",
+      "covers": "ฝึกฝนการบรรยายประสบการณ์โดยระบุรายละเอียดสนับสนุน",
+      "minutes": 14,
+      "lessons": [
+        "L03"
+      ],
+      "interview": [
+        "I27",
+        "I28",
+        "I30"
+      ],
+      "cards": [
+        {
+          "title_th": "เล่าเรื่องให้มีโครง",
+          "body_th": "ฉาก (เมื่อไหร่ ที่ไหน กับใคร) → เกิดอะไรขึ้น → จบอย่างไร → ได้เรียนรู้อะไร คนฟังตามได้ง่ายเมื่อเรื่องมีลำดับ",
+          "example": "Last summer, I went to Chiang Mai with my cousins. On the second day, we got lost in the old city..."
+        },
+        {
+          "title_th": "รายละเอียดสนับสนุน",
+          "body_th": "ใส่ตัวเลข สี เสียง ความรู้สึก หรือคำพูดจริง 1-2 อย่าง คนฟังจะเห็นภาพทันที ประโยคกว้าง ๆ อย่าง It was good. ไม่ช่วยอะไร",
+          "example": "It was so cold that I could see my breath."
+        },
+        {
+          "title_th": "Tense ในเรื่องเล่า",
+          "body_th": "เหตุการณ์หลักใช้ past simple ส่วนฉากหลังที่กำลังเกิดอยู่ใช้ past continuous ทบทวนได้ในบทเรียน L03",
+          "example": "It was raining when we arrived at the station."
+        },
+        {
+          "title_th": "คำเชื่อมลำดับเหตุการณ์",
+          "body_th": "First, Then, After that, Suddenly, In the end, Finally ช่วยพาคนฟังไปทีละขั้น Suddenly ใช้ตอนมีเรื่องไม่คาดคิด"
+        }
+      ],
+      "vocab": [
+        [
+          "experience",
+          "ประสบการณ์"
+        ],
+        [
+          "detail",
+          "รายละเอียด"
+        ],
+        [
+          "describe",
+          "บรรยาย"
+        ],
+        [
+          "suddenly",
+          "ทันใดนั้น"
+        ],
+        [
+          "at first",
+          "ตอนแรก"
+        ],
+        [
+          "in the end",
+          "ในที่สุด"
+        ],
+        [
+          "memorable",
+          "น่าจดจำ"
+        ],
+        [
+          "lesson learned",
+          "บทเรียนที่ได้"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "EN103-U1-01",
+          "skill": "EN103-U1",
+          "difficulty": 1,
+          "stem": "Which sentence gives the most supporting detail about a trip?",
+          "options": [
+            "We stayed in a small wooden house by a river and swam every morning.",
+            "The trip was good.",
+            "I went somewhere.",
+            "It was a trip."
+          ],
+          "answer": 0,
+          "explanation_th": "มีทั้งสถานที่ ลักษณะบ้าน และกิจกรรมที่ทำ คนฟังเห็นภาพชัด",
+          "why_wrong": [
+            null,
+            "บอกแค่ความรู้สึกกว้าง ๆ ไม่มีรายละเอียดเลย",
+            "ไม่บอกแม้แต่ว่าไปที่ไหน",
+            "ไม่ได้ให้ข้อมูลใหม่ แค่บอกว่าเป็นทริป"
+          ]
+        },
+        {
+          "id": "EN103-U1-02",
+          "skill": "EN103-U1",
+          "difficulty": 1,
+          "stem": "Last year, I ___ to Japan for the first time.",
+          "options": [
+            "go",
+            "have gone",
+            "was go",
+            "went"
+          ],
+          "answer": 3,
+          "explanation_th": "Last year เป็นเวลาในอดีตที่จบแล้ว ใช้ past simple: went",
+          "why_wrong": [
+            "เป็นรูปปัจจุบัน ไม่เข้ากับ last year",
+            "present perfect ใช้กับคำบอกเวลาอดีตที่ชัดเจนอย่าง last year ไม่ได้",
+            "was ต่อด้วยกริยาช่องหนึ่งไม่ได้",
+            null
+          ]
+        },
+        {
+          "id": "EN103-U1-03",
+          "skill": "EN103-U1",
+          "difficulty": 2,
+          "stem": "I ___ dinner when the lights went out.",
+          "options": [
+            "am cooking",
+            "was cooking",
+            "were cooking",
+            "cooking"
+          ],
+          "answer": 1,
+          "explanation_th": "ฉากหลังที่กำลังเกิดอยู่ตอนมีเหตุการณ์แทรก ใช้ past continuous (was + V-ing)",
+          "why_wrong": [
+            "เป็นปัจจุบัน แต่เรื่องเกิดในอดีต (went out)",
+            null,
+            "ประธาน I ใช้ was ไม่ใช่ were",
+            "ขาดกริยา was ประโยคไม่สมบูรณ์"
+          ]
+        },
+        {
+          "id": "EN103-U1-04",
+          "skill": "EN103-U1",
+          "difficulty": 1,
+          "stem": "First, we bought our tickets. ___, we waited for the bus for an hour.",
+          "options": [
+            "Because",
+            "Although",
+            "Then",
+            "Unless"
+          ],
+          "answer": 2,
+          "explanation_th": "Then ใช้บอกเหตุการณ์ถัดไปตามลำดับ",
+          "why_wrong": [
+            "Because บอกเหตุผล ไม่ได้บอกลำดับ และประโยคหลังไม่ใช่เหตุผลของการซื้อตั๋ว",
+            "Although แสดงความขัดแย้ง ซึ่งไม่มีในสองประโยคนี้",
+            null,
+            "Unless แปลว่า ถ้าไม่ ไม่เข้ากับการเล่าลำดับ"
+          ]
+        },
+        {
+          "id": "EN103-U1-05",
+          "skill": "EN103-U1",
+          "difficulty": 1,
+          "stem": "Which word shows that something surprising happened in the middle of a story?",
+          "options": [
+            "Usually",
+            "Firstly",
+            "Therefore",
+            "Suddenly"
+          ],
+          "answer": 3,
+          "explanation_th": "Suddenly (ทันใดนั้น) ใช้เปิดเหตุการณ์ที่ไม่คาดคิด",
+          "why_wrong": [
+            "Usually บอกความถี่ของสิ่งที่ทำเป็นประจำ ไม่ใช่เหตุการณ์ไม่คาดคิด",
+            "Firstly ใช้เริ่มข้อแรกของรายการ",
+            "Therefore บอกผลลัพธ์ ไม่ได้บอกความประหลาดใจ",
+            null
+          ]
+        },
+        {
+          "id": "EN103-U1-06",
+          "skill": "EN103-U1",
+          "difficulty": 2,
+          "stem": "Nina says, 'I was nervous before my speech.' Which sentence adds the best supporting detail?",
+          "options": [
+            "Speeches are common at university.",
+            "I like watching speeches on YouTube.",
+            "My hands were shaking, and I forgot my first line.",
+            "'Nervous' is an adjective."
+          ],
+          "answer": 2,
+          "explanation_th": "มือสั่นและลืมประโยคแรกเป็นรายละเอียดที่แสดงว่าตื่นเต้นจริง",
+          "why_wrong": [
+            "เป็นข้อความทั่วไป ไม่ได้เพิ่มรายละเอียดเรื่องของ Nina",
+            "ไม่เกี่ยวกับความตื่นเต้นก่อนพูดของเธอ",
+            null,
+            "พูดเรื่องไวยากรณ์ ไม่ใช่รายละเอียดของประสบการณ์"
+          ]
+        },
+        {
+          "id": "EN103-U1-07",
+          "skill": "EN103-U1",
+          "difficulty": 2,
+          "stem": "Question: 'Tell us about a mistake you made and what you learned.' Which sentence answers the 'what you learned' part?",
+          "options": [
+            "The deadline was on a Friday.",
+            "Since then, I always check the deadline twice.",
+            "My teacher was not happy.",
+            "I made a mistake."
+          ],
+          "answer": 1,
+          "explanation_th": "บอกสิ่งที่เปลี่ยนไปหลังจากผิดพลาด จึงเป็นบทเรียนที่ได้",
+          "why_wrong": [
+            "เป็นรายละเอียดของเหตุการณ์ ไม่ใช่สิ่งที่เรียนรู้",
+            null,
+            "บอกผลของความผิดพลาด ไม่ได้บอกบทเรียน",
+            "ซ้ำคำถาม ยังไม่ได้บอกว่าเรียนรู้อะไร"
+          ]
+        },
+        {
+          "id": "EN103-U1-08",
+          "skill": "EN103-U1",
+          "difficulty": 2,
+          "stem": "It was ___ hot that we stayed inside all afternoon.",
+          "options": [
+            "so",
+            "such",
+            "very",
+            "too"
+          ],
+          "answer": 0,
+          "explanation_th": "so + คุณศัพท์ + that บอกผลที่ตามมา: ร้อนมากจนต้องอยู่ในบ้าน",
+          "why_wrong": [
+            null,
+            "such ใช้กับคำนาม เช่น such a hot day ไม่ใช้กับคุณศัพท์เดี่ยว ๆ",
+            "very ใช้กับโครงสร้าง that แบบนี้ไม่ได้",
+            "too มักตามด้วย to + V เช่น too hot to go out ไม่ใช่ that"
+          ]
+        }
+      ],
+      "say": [
+        "Last summer, I got lost in a market, and it taught me to ask for help.",
+        "At first I was nervous, but in the end it was a great day."
+      ],
+      "task_th": "เลือกเหตุการณ์จริง 1 เรื่องที่จำได้ดี เขียนโน้ต 4 บรรทัดตามโครง ฉาก → เหตุการณ์ → ตอนจบ → สิ่งที่ได้เรียนรู้ ใส่รายละเอียดสนับสนุนอย่างน้อย 2 อย่าง (ตัวเลข เสียง หรือความรู้สึก) แล้วอัดเสียงเล่า 45 วินาที"
+    },
+    {
+      "id": "EN103-U2",
+      "title_th": "แสดงความเห็นเรื่องการใช้ชีวิต",
+      "title_en": "Opinions about living",
+      "covers": "และแสดงความคิดเห็นเกี่ยวกับชีวิตความเป็นอยู่",
+      "minutes": 12,
+      "lessons": [
+        "L23"
+      ],
+      "interview": [
+        "I56",
+        "I59"
+      ],
+      "cards": [
+        {
+          "title_th": "โครงแสดงความเห็น",
+          "body_th": "ความเห็น → เหตุผล → ตัวอย่าง 3 ขั้นนี้ทำให้ความเห็นสั้น ๆ ฟังมีน้ำหนัก",
+          "example": "I think living near campus is better because I can save time. For example, I can walk to class in five minutes."
+        },
+        {
+          "title_th": "ภาษาเปรียบเทียบ",
+          "body_th": "more convenient than, cheaper than, not as quiet as ใช้เทียบสองที่หรือสองแบบ ทบทวนได้ในบทเรียน L23"
+        },
+        {
+          "title_th": "ทำให้ความเห็นนุ่มลง",
+          "body_th": "For me, In my experience, I would say, It depends ทำให้ฟังไม่แข็งเกินไป และเปิดให้อีกฝ่ายคิดต่างได้"
+        },
+        {
+          "title_th": "ข้อดีข้อเสีย",
+          "body_th": "advantage = ข้อดี, disadvantage = ข้อเสีย ใช้ On the one hand... On the other hand... พูดทั้งสองด้าน"
+        }
+      ],
+      "vocab": [
+        [
+          "cost of living",
+          "ค่าครองชีพ"
+        ],
+        [
+          "convenient",
+          "สะดวก"
+        ],
+        [
+          "crowded",
+          "แออัด"
+        ],
+        [
+          "rent",
+          "ค่าเช่า"
+        ],
+        [
+          "commute",
+          "การเดินทางไปกลับที่เรียนหรือที่ทำงาน"
+        ],
+        [
+          "neighbourhood",
+          "ละแวกบ้าน"
+        ],
+        [
+          "advantage",
+          "ข้อดี"
+        ],
+        [
+          "disadvantage",
+          "ข้อเสีย"
+        ],
+        [
+          "public transport",
+          "ขนส่งสาธารณะ"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "EN103-U2-01",
+          "skill": "EN103-U2",
+          "difficulty": 1,
+          "stem": "Living in a dorm is ___ than living at home because I don't have to travel.",
+          "options": [
+            "convenienter",
+            "most convenient",
+            "as convenient",
+            "more convenient"
+          ],
+          "answer": 3,
+          "explanation_th": "คุณศัพท์ยาวหลายพยางค์ใช้ more + adj + than",
+          "why_wrong": [
+            "คำยาวอย่าง convenient ไม่เติม -er",
+            "most ใช้กับขั้นสูงสุด และต้องมี the ไม่ใช้กับ than",
+            "as convenient ต้องคู่กับ as ไม่ใช่ than",
+            null
+          ]
+        },
+        {
+          "id": "EN103-U2-02",
+          "skill": "EN103-U2",
+          "difficulty": 1,
+          "stem": "Which phrase introduces your opinion?",
+          "options": [
+            "According to the report,",
+            "Once upon a time,",
+            "In my opinion,",
+            "For example,"
+          ],
+          "answer": 2,
+          "explanation_th": "In my opinion แปลว่า ในความเห็นของฉัน ใช้เปิดความเห็นโดยตรง",
+          "why_wrong": [
+            "ใช้อ้างข้อมูลจากแหล่งอื่น ไม่ใช่ความเห็นของตัวเอง",
+            "ใช้เปิดนิทาน",
+            null,
+            "ใช้ยกตัวอย่าง ไม่ใช่เปิดความเห็น"
+          ]
+        },
+        {
+          "id": "EN103-U2-03",
+          "skill": "EN103-U2",
+          "difficulty": 2,
+          "stem": "My room is small. ___, it is cheap and close to the train station.",
+          "options": [
+            "On the other hand",
+            "Because",
+            "For example",
+            "Similarly"
+          ],
+          "answer": 0,
+          "explanation_th": "ประโยคแรกเป็นข้อเสีย ประโยคหลังเป็นข้อดี จึงต้องใช้คำแสดงความขัดแย้ง",
+          "why_wrong": [
+            null,
+            "Because บอกเหตุผล แต่ห้องถูกไม่ใช่เหตุผลของการที่ห้องเล็กในประโยคนี้",
+            "ประโยคหลังไม่ใช่ตัวอย่างของห้องเล็ก",
+            "Similarly ใช้กับสิ่งที่คล้ายกัน แต่สองประโยคนี้ตรงข้ามกัน"
+          ]
+        },
+        {
+          "id": "EN103-U2-04",
+          "skill": "EN103-U2",
+          "difficulty": 1,
+          "stem": "There is a lot of traffic in the city, so my ___ to work takes one hour.",
+          "options": [
+            "rent",
+            "commute",
+            "neighbour",
+            "advantage"
+          ],
+          "answer": 1,
+          "explanation_th": "commute คือการเดินทางไปกลับที่ทำงานหรือที่เรียน",
+          "why_wrong": [
+            "rent คือค่าเช่า ไม่ได้ใช้เวลาเดินทาง",
+            null,
+            "neighbour คือเพื่อนบ้าน",
+            "advantage คือข้อดี ไม่เข้ากับ takes one hour"
+          ]
+        },
+        {
+          "id": "EN103-U2-05",
+          "skill": "EN103-U2",
+          "difficulty": 2,
+          "stem": "A: Is it better to live in the city or the countryside? Which reply from B gives an opinion AND a reason?",
+          "options": [
+            "The countryside.",
+            "Yes, it is.",
+            "I prefer the countryside because it's quieter.",
+            "I live in Bangkok."
+          ],
+          "answer": 2,
+          "explanation_th": "ตอบเลือกหนึ่งอย่างพร้อมเหตุผล ตรงกับคำถามให้เลือก",
+          "why_wrong": [
+            "เลือกแล้วแต่ไม่มีเหตุผลเลย",
+            "คำถามให้เลือกสองอย่าง ตอบ yes ไม่ได้",
+            null,
+            "บอกข้อมูลส่วนตัว ไม่ได้ตอบว่าที่ไหนดีกว่า"
+          ]
+        },
+        {
+          "id": "EN103-U2-06",
+          "skill": "EN103-U2",
+          "difficulty": 2,
+          "stem": "The rent here is too high. I can't ___ it.",
+          "options": [
+            "lend",
+            "afford",
+            "save",
+            "spend"
+          ],
+          "answer": 1,
+          "explanation_th": "can't afford = มีเงินไม่พอจ่าย",
+          "why_wrong": [
+            "lend คือให้ยืม ไม่เข้ากับค่าเช่าแพง",
+            null,
+            "save คือเก็บออม ไม่เข้ากับค่าเช่า",
+            "can't spend it ไม่ได้แปลว่าจ่ายไม่ไหว และไม่ใช่สำนวนที่ใช้กับค่าเช่า"
+          ]
+        },
+        {
+          "id": "EN103-U2-07",
+          "skill": "EN103-U2",
+          "difficulty": 1,
+          "stem": "Which sentence disagrees politely?",
+          "options": [
+            "You're wrong.",
+            "That's a stupid idea.",
+            "No. Small towns are safer. End of story.",
+            "I see your point, but I think small towns are safer."
+          ],
+          "answer": 3,
+          "explanation_th": "I see your point, but... ยอมรับความเห็นอีกฝ่ายก่อนแล้วค่อยเสนอความเห็นตัวเอง",
+          "why_wrong": [
+            "ตรงเกินไปและไม่มีเหตุผล",
+            "หยาบคาย ดูถูกความคิดอีกฝ่าย",
+            "ปิดการคุย ไม่เปิดรับความเห็นอื่น",
+            null
+          ]
+        },
+        {
+          "id": "EN103-U2-08",
+          "skill": "EN103-U2",
+          "difficulty": 2,
+          "stem": "Bangkok is not ___ quiet ___ Chiang Rai.",
+          "options": [
+            "as / as",
+            "most / than",
+            "so / that",
+            "the / the"
+          ],
+          "answer": 0,
+          "explanation_th": "not as + adj + as = ไม่...เท่า",
+          "why_wrong": [
+            null,
+            "most ใช้กับขั้นสูงสุด ใช้คู่กับ than ไม่ได้",
+            "so...that ต้องตามด้วยประโยคผลลัพธ์ ไม่ใช่ชื่อเมือง",
+            "the...the ใช้กับโครงสร้าง the more... the more..."
+          ]
+        }
+      ],
+      "say": [
+        "For me, living near campus is more convenient because I can walk to class.",
+        "It depends. The city is exciting, but it can be crowded and expensive."
+      ],
+      "task_th": "ตอบคำถาม อยู่หอใกล้มหาวิทยาลัยหรืออยู่บ้าน แบบไหนดีกว่า เขียนข้อดี 2 ข้อ ข้อเสีย 2 ข้อเป็นภาษาอังกฤษ แล้วอัดเสียง 40 วินาทีด้วยโครง In my opinion... because... For example... On the other hand..."
+    },
+    {
+      "id": "EN103-U3",
+      "title_th": "แสดงความเห็นเรื่องการทำงาน",
+      "title_en": "Opinions about work",
+      "covers": "การทำงาน",
+      "minutes": 12,
+      "interview": [
+        "I14",
+        "I29",
+        "I31"
+      ],
+      "cards": [
+        {
+          "title_th": "ศัพท์เรื่องงาน",
+          "body_th": "full-time, part-time, remote work (ทำงานทางไกล), salary (เงินเดือน), colleague (เพื่อนร่วมงาน), deadline (กำหนดส่ง)"
+        },
+        {
+          "title_th": "บอกว่าชอบแบบไหน",
+          "body_th": "prefer + V-ing หรือ would rather + V ใช้บอกความชอบเรื่องงาน",
+          "example": "I prefer working in a team. / I'd rather work from home."
+        },
+        {
+          "title_th": "ให้เหตุผลแบบคนทำงาน",
+          "body_th": "เหตุผลที่ดีพูดถึงผลต่องาน เช่น เรียนรู้ได้เร็ว ทำงานเสร็จตรงเวลา หรือมีเวลาให้ครอบครัว",
+          "example": "I prefer a team because I can learn from people with more experience."
+        },
+        {
+          "title_th": "ใกล้ตัวกว่าที่คิด",
+          "body_th": "แผนสหกิจของหลักสูตรมีการฝึกงาน 16 สัปดาห์ในปี 4 (EN400) คำถามเรื่องงานในอนาคตจึงน่าจะถูกถามบ่อย"
+        }
+      ],
+      "vocab": [
+        [
+          "full-time",
+          "เต็มเวลา"
+        ],
+        [
+          "part-time",
+          "ไม่เต็มเวลา"
+        ],
+        [
+          "remote work",
+          "การทำงานทางไกล"
+        ],
+        [
+          "salary",
+          "เงินเดือน"
+        ],
+        [
+          "colleague",
+          "เพื่อนร่วมงาน"
+        ],
+        [
+          "deadline",
+          "กำหนดส่ง"
+        ],
+        [
+          "work-life balance",
+          "สมดุลระหว่างงานกับชีวิต"
+        ],
+        [
+          "internship",
+          "การฝึกงาน"
+        ],
+        [
+          "career",
+          "เส้นทางอาชีพ"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "EN103-U3-01",
+          "skill": "EN103-U3",
+          "difficulty": 1,
+          "stem": "I prefer ___ in a team because I can learn from others.",
+          "options": [
+            "work",
+            "to working",
+            "working",
+            "worked"
+          ],
+          "answer": 2,
+          "explanation_th": "prefer + V-ing ใช้บอกความชอบทั่วไป",
+          "why_wrong": [
+            "หลัง prefer ใช้ V-ing หรือ to + V ไม่ใช้กริยาเปล่า",
+            "to working ผิดรูป ต้องเป็น to work หรือ working",
+            null,
+            "worked เป็นอดีต ไม่ใช่รูปที่ตามหลัง prefer"
+          ]
+        },
+        {
+          "id": "EN103-U3-02",
+          "skill": "EN103-U3",
+          "difficulty": 1,
+          "stem": "I'd rather ___ from home two days a week.",
+          "options": [
+            "working",
+            "work",
+            "to work",
+            "worked"
+          ],
+          "answer": 1,
+          "explanation_th": "would rather + กริยาเปล่า",
+          "why_wrong": [
+            "หลัง would rather ไม่ใช้ V-ing",
+            null,
+            "หลัง would rather ไม่ใส่ to",
+            "ในความหมายนี้ไม่ใช้รูปอดีต"
+          ]
+        },
+        {
+          "id": "EN103-U3-03",
+          "skill": "EN103-U3",
+          "difficulty": 1,
+          "stem": "A person who works with you at the same company is your ___.",
+          "options": [
+            "customer",
+            "landlord",
+            "classmate",
+            "colleague"
+          ],
+          "answer": 3,
+          "explanation_th": "colleague = เพื่อนร่วมงาน",
+          "why_wrong": [
+            "customer คือลูกค้า ไม่ได้ทำงานในบริษัทเดียวกับเรา",
+            "landlord คือเจ้าของบ้านเช่า",
+            "classmate คือเพื่อนร่วมชั้นเรียน ไม่ใช่ที่ทำงาน",
+            null
+          ]
+        },
+        {
+          "id": "EN103-U3-04",
+          "skill": "EN103-U3",
+          "difficulty": 1,
+          "stem": "Which is an advantage of remote work?",
+          "options": [
+            "You don't have to travel to the office every day.",
+            "You must travel to the office every day.",
+            "You can never use a computer.",
+            "Your salary is always double."
+          ],
+          "answer": 0,
+          "explanation_th": "ทำงานทางไกลจึงไม่ต้องเดินทางไปออฟฟิศทุกวัน",
+          "why_wrong": [
+            null,
+            "ขัดกับความหมายของ remote work",
+            "การทำงานทางไกลส่วนใหญ่ต้องใช้คอมพิวเตอร์",
+            "ไม่มีกฎว่าทำงานทางไกลแล้วได้เงินเดือนสองเท่า"
+          ]
+        },
+        {
+          "id": "EN103-U3-05",
+          "skill": "EN103-U3",
+          "difficulty": 2,
+          "stem": "Interviewer: Do you prefer working alone or in a team? Which answer gives a clear preference and a reason?",
+          "options": [
+            "I prefer working in a team because we can share ideas.",
+            "Yes, I do.",
+            "A team.",
+            "I work hard."
+          ],
+          "answer": 0,
+          "explanation_th": "เลือกอย่างใดอย่างหนึ่งชัดเจนและมีเหตุผลด้วย because",
+          "why_wrong": [
+            null,
+            "คำถามให้เลือก ตอบ yes ไม่ได้",
+            "เลือกแล้วแต่ไม่มีเหตุผล",
+            "ไม่ได้ตอบว่าชอบทำงานคนเดียวหรือเป็นทีม"
+          ]
+        },
+        {
+          "id": "EN103-U3-06",
+          "skill": "EN103-U3",
+          "difficulty": 1,
+          "stem": "Mali works about 15 hours a week in a café while she studies. She has a ___ job.",
+          "options": [
+            "full-time",
+            "overtime",
+            "part-time",
+            "lifetime"
+          ],
+          "answer": 2,
+          "explanation_th": "ทำงานไม่กี่ชั่วโมงต่อสัปดาห์ระหว่างเรียน = งานพาร์ทไทม์",
+          "why_wrong": [
+            "งานเต็มเวลามักราว 40 ชั่วโมงต่อสัปดาห์ ไม่ใช่ 15",
+            "overtime คือการทำงานล่วงเวลา ไม่ใช่ประเภทงาน",
+            null,
+            "lifetime แปลว่าตลอดชีวิต ไม่ใช้บอกประเภทงาน"
+          ]
+        },
+        {
+          "id": "EN103-U3-07",
+          "skill": "EN103-U3",
+          "difficulty": 1,
+          "stem": "The report must be finished by Friday. Friday is the ___.",
+          "options": [
+            "salary",
+            "deadline",
+            "meeting",
+            "holiday"
+          ],
+          "answer": 1,
+          "explanation_th": "วันที่ต้องส่งงาน = deadline",
+          "why_wrong": [
+            "salary คือเงินเดือน",
+            null,
+            "ไม่ได้บอกว่ามีประชุม",
+            "วันที่ต้องส่งงานไม่ใช่วันหยุด"
+          ]
+        },
+        {
+          "id": "EN103-U3-08",
+          "skill": "EN103-U3",
+          "difficulty": 2,
+          "stem": "Which sentence is about work-life balance?",
+          "options": [
+            "My salary is 20,000 baht a month.",
+            "My office is on the fifth floor.",
+            "I start work at nine.",
+            "I want time for my family and hobbies, not only for my job."
+          ],
+          "answer": 3,
+          "explanation_th": "พูดถึงการแบ่งเวลาระหว่างงานกับชีวิตส่วนตัว",
+          "why_wrong": [
+            "พูดเรื่องเงินเดือนอย่างเดียว",
+            "พูดเรื่องที่ตั้งออฟฟิศ",
+            "บอกเวลาเริ่มงาน ไม่ได้พูดถึงสมดุล",
+            null
+          ]
+        }
+      ],
+      "say": [
+        "I'd rather work in a team because I learn a lot from other people.",
+        "A good job for me has a fair salary and a healthy work-life balance."
+      ],
+      "task_th": "ตอบคำถาม Where do you see yourself in five years? เขียน 3 ประโยค: งานที่อยากทำ, ชอบทำงานแบบไหน (คนเดียวหรือเป็นทีม, ออฟฟิศหรือทางไกล) และเหตุผล แล้วอัดเสียงตอบ 30 วินาที"
+    },
+    {
+      "id": "EN103-U4",
+      "title_th": "ประเด็นระดับโลก 1: สภาพภูมิอากาศและเมือง",
+      "title_en": "Global issues I: climate and cities",
+      "covers": "และประเด็นปัญหาในระดับสากล",
+      "minutes": 12,
+      "cards": [
+        {
+          "title_th": "พูดเรื่องใหญ่ด้วยภาษาง่าย",
+          "body_th": "ใช้คู่คำ cause (สาเหตุ), effect (ผลกระทบ), solution (ทางแก้)",
+          "example": "One cause of air pollution is traffic. One solution is better public transport."
+        },
+        {
+          "title_th": "การเปลี่ยนแปลงสภาพภูมิอากาศ",
+          "body_th": "การเผาถ่านหิน น้ำมัน และก๊าซธรรมชาติปล่อยคาร์บอนไดออกไซด์ ซึ่งเป็นก๊าซเรือนกระจกที่กักความร้อนไว้ โลกจึงร้อนขึ้น ผลที่ตามมาเช่น ระดับน้ำทะเลสูงขึ้นและคลื่นความร้อนบ่อยขึ้น"
+        },
+        {
+          "title_th": "การขยายตัวของเมือง",
+          "body_th": "คนย้ายจากชนบทเข้าเมืองมากขึ้น ปัจจุบันประชากรโลกมากกว่าครึ่งอยู่ในเขตเมือง ปัญหาที่ตามมาเช่น รถติด ค่าที่อยู่แพง ขยะ ทางแก้ที่พูดถึงบ่อยเช่น ขนส่งสาธารณะและสวนสาธารณะ"
+        },
+        {
+          "title_th": "พูดให้สมดุล",
+          "body_th": "เสนอทั้งสองด้านก่อนบอกความเห็นตัวเอง ใช้ Some people say..., while others believe... ไม่ใช้คำรุนแรงตัดสินคนอื่น"
+        }
+      ],
+      "vocab": [
+        [
+          "climate change",
+          "การเปลี่ยนแปลงสภาพภูมิอากาศ"
+        ],
+        [
+          "greenhouse gas",
+          "ก๊าซเรือนกระจก"
+        ],
+        [
+          "pollution",
+          "มลพิษ"
+        ],
+        [
+          "urbanisation",
+          "การขยายตัวของเมือง"
+        ],
+        [
+          "renewable energy",
+          "พลังงานหมุนเวียน"
+        ],
+        [
+          "sea level",
+          "ระดับน้ำทะเล"
+        ],
+        [
+          "cause",
+          "สาเหตุ"
+        ],
+        [
+          "effect",
+          "ผลกระทบ"
+        ],
+        [
+          "solution",
+          "ทางแก้"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "EN103-U4-01",
+          "skill": "EN103-U4",
+          "difficulty": 1,
+          "stem": "Burning coal, oil and gas releases carbon dioxide. Carbon dioxide is a ___.",
+          "options": [
+            "renewable energy",
+            "greenhouse gas",
+            "type of plastic",
+            "kind of rain"
+          ],
+          "answer": 1,
+          "explanation_th": "คาร์บอนไดออกไซด์เป็นก๊าซเรือนกระจกที่กักความร้อนในชั้นบรรยากาศ",
+          "why_wrong": [
+            "เป็นก๊าซ ไม่ใช่แหล่งพลังงาน",
+            null,
+            "คาร์บอนไดออกไซด์เป็นก๊าซ ไม่ใช่พลาสติก",
+            "เป็นก๊าซ ไม่ใช่ฝน"
+          ]
+        },
+        {
+          "id": "EN103-U4-02",
+          "skill": "EN103-U4",
+          "difficulty": 1,
+          "stem": "Which is a renewable energy source?",
+          "options": [
+            "solar power",
+            "coal",
+            "oil",
+            "natural gas"
+          ],
+          "answer": 0,
+          "explanation_th": "พลังงานแสงอาทิตย์ใช้แล้วไม่หมด จึงเป็นพลังงานหมุนเวียน",
+          "why_wrong": [
+            null,
+            "ถ่านหินเป็นเชื้อเพลิงฟอสซิล ใช้แล้วหมดไป",
+            "น้ำมันเป็นเชื้อเพลิงฟอสซิล",
+            "ก๊าซธรรมชาติเป็นเชื้อเพลิงฟอสซิล"
+          ]
+        },
+        {
+          "id": "EN103-U4-03",
+          "skill": "EN103-U4",
+          "difficulty": 1,
+          "stem": "When more and more people move from the countryside to cities, it is called ___.",
+          "options": [
+            "pollution",
+            "recycling",
+            "tourism",
+            "urbanisation"
+          ],
+          "answer": 3,
+          "explanation_th": "urbanisation = การขยายตัวของเมืองจากการที่คนย้ายเข้าเมือง",
+          "why_wrong": [
+            "pollution คือมลพิษ",
+            "recycling คือการนำกลับมาใช้ใหม่",
+            "tourism คือการท่องเที่ยว ไม่ใช่การย้ายไปอยู่ถาวร",
+            null
+          ]
+        },
+        {
+          "id": "EN103-U4-04",
+          "skill": "EN103-U4",
+          "difficulty": 2,
+          "stem": "Heavy traffic is one ___ of air pollution in big cities.",
+          "options": [
+            "solution",
+            "effect",
+            "cause",
+            "advantage"
+          ],
+          "answer": 2,
+          "explanation_th": "รถติดทำให้เกิดมลพิษทางอากาศ จึงเป็นสาเหตุ",
+          "why_wrong": [
+            "รถติดไม่ได้แก้ปัญหามลพิษ",
+            "รถติดไม่ได้เป็นผลของมลพิษ ทิศทางกลับกัน",
+            null,
+            "รถติดไม่ใช่ข้อดี"
+          ]
+        },
+        {
+          "id": "EN103-U4-05",
+          "skill": "EN103-U4",
+          "difficulty": 2,
+          "stem": "Which sentence presents both sides in a balanced way?",
+          "options": [
+            "Cars are terrible, and everyone who drives is selfish.",
+            "Buses are the only answer.",
+            "I don't care about traffic.",
+            "Some people say cars are necessary, while others want more buses and trains."
+          ],
+          "answer": 3,
+          "explanation_th": "เสนอความเห็นสองฝ่ายโดยไม่ตัดสิน",
+          "why_wrong": [
+            "ตัดสินคนขับรถทั้งหมด ไม่สมดุล",
+            "เสนอแค่ด้านเดียว",
+            "ไม่ได้เสนอความเห็นของฝ่ายใดเลย",
+            null
+          ]
+        },
+        {
+          "id": "EN103-U4-06",
+          "skill": "EN103-U4",
+          "difficulty": 2,
+          "stem": "One effect of rising global temperatures is ___.",
+          "options": [
+            "higher sea levels as ice melts",
+            "more ice at the North Pole",
+            "colder summers everywhere",
+            "less carbon dioxide in the air"
+          ],
+          "answer": 0,
+          "explanation_th": "น้ำแข็งละลายและน้ำทะเลขยายตัวเมื่ออุ่นขึ้น ระดับน้ำทะเลจึงสูงขึ้น",
+          "why_wrong": [
+            null,
+            "อุณหภูมิสูงขึ้นทำให้น้ำแข็งลดลง ไม่ใช่เพิ่มขึ้น",
+            "ขัดกับการที่อุณหภูมิโลกสูงขึ้น",
+            "ก๊าซคาร์บอนไดออกไซด์เป็นสาเหตุ ไม่ได้ลดลงเพราะโลกร้อน"
+          ]
+        },
+        {
+          "id": "EN103-U4-07",
+          "skill": "EN103-U4",
+          "difficulty": 1,
+          "stem": "Which is a solution, not a problem?",
+          "options": [
+            "traffic jams",
+            "air pollution",
+            "building better public transport",
+            "rising rents"
+          ],
+          "answer": 2,
+          "explanation_th": "ขนส่งสาธารณะที่ดีช่วยลดรถติดและมลพิษ จึงเป็นทางแก้",
+          "why_wrong": [
+            "รถติดเป็นปัญหา",
+            "มลพิษทางอากาศเป็นปัญหา",
+            null,
+            "ค่าเช่าที่สูงขึ้นเป็นปัญหา"
+          ]
+        },
+        {
+          "id": "EN103-U4-08",
+          "skill": "EN103-U4",
+          "difficulty": 1,
+          "stem": "The city ___ more parks so people can relax and breathe cleaner air.",
+          "options": [
+            "should builds",
+            "should build",
+            "should to build",
+            "should building"
+          ],
+          "answer": 1,
+          "explanation_th": "should + กริยาเปล่า",
+          "why_wrong": [
+            "หลัง should ไม่เติม -s",
+            null,
+            "หลัง should ไม่ใส่ to",
+            "หลัง should ไม่ใช้ V-ing"
+          ]
+        }
+      ],
+      "say": [
+        "One cause of air pollution in big cities is heavy traffic.",
+        "Some people want more roads, while others want better public transport."
+      ],
+      "task_th": "เลือกปัญหาระดับโลก 1 เรื่อง (อากาศร้อนขึ้น ฝุ่น PM2.5 หรือรถติดในเมือง) ทำตาราง 3 ช่อง สาเหตุ / ผลกระทบ / ทางแก้ อย่างละ 1 ข้อเป็นภาษาอังกฤษ แล้วพูดสรุป 30 วินาทีด้วย One cause is..., One effect is..., One solution is..."
+    },
+    {
+      "id": "EN103-U5",
+      "title_th": "ประเด็นระดับโลก 2: สุขภาพและเทคโนโลยีกับงาน",
+      "title_en": "Global issues II: health and technology at work",
+      "covers": "ประเด็นปัญหาในระดับสากล",
+      "minutes": 12,
+      "cards": [
+        {
+          "title_th": "สุขภาพเป็นเรื่องระดับโลก",
+          "body_th": "องค์การอนามัยโลก (WHO) เป็นหน่วยงานของสหประชาชาติด้านสุขภาพ ประเด็นที่พูดถึงบ่อยเช่น การออกกำลังกาย การนอน สุขภาพจิต และโรคระบาด"
+        },
+        {
+          "title_th": "เทคโนโลยีกับงาน",
+          "body_th": "automation และ AI ทำงานบางอย่างแทนคนได้ งานบางแบบจึงเปลี่ยนไป และคนทำงานต้องพัฒนาทักษะเพิ่ม (upskill) มีทั้งคนมองว่าเป็นโอกาสและคนที่กังวล"
+        },
+        {
+          "title_th": "พูดเรื่องอนาคตอย่างระวัง",
+          "body_th": "ไม่มีใครรู้อนาคตแน่นอน ใช้ may, might, could, is likely to แทน will definitely",
+          "example": "AI may change many office jobs."
+        },
+        {
+          "title_th": "อ้างแหล่งข้อมูล",
+          "body_th": "According to... (ตามที่...ระบุ) ทำให้ข้อมูลน่าเชื่อถือ และแยกข้อเท็จจริงออกจากความเห็นของเรา"
+        }
+      ],
+      "vocab": [
+        [
+          "mental health",
+          "สุขภาพจิต"
+        ],
+        [
+          "automation",
+          "ระบบอัตโนมัติ"
+        ],
+        [
+          "artificial intelligence (AI)",
+          "ปัญญาประดิษฐ์"
+        ],
+        [
+          "skill",
+          "ทักษะ"
+        ],
+        [
+          "upskill",
+          "พัฒนาทักษะเพิ่ม"
+        ],
+        [
+          "screen time",
+          "เวลาที่ใช้หน้าจอ"
+        ],
+        [
+          "according to",
+          "ตามที่...ระบุ"
+        ],
+        [
+          "likely",
+          "น่าจะเกิดขึ้น"
+        ],
+        [
+          "pandemic",
+          "โรคระบาดใหญ่"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "EN103-U5-01",
+          "skill": "EN103-U5",
+          "difficulty": 1,
+          "stem": "The World Health Organization (WHO) is an agency of the ___.",
+          "options": [
+            "European Union",
+            "United Nations",
+            "ASEAN",
+            "Olympic Committee"
+          ],
+          "answer": 1,
+          "explanation_th": "WHO เป็นหน่วยงานชำนาญพิเศษของสหประชาชาติ",
+          "why_wrong": [
+            "EU เป็นกลุ่มประเทศในยุโรป WHO ไม่ได้ขึ้นกับ EU",
+            null,
+            "ASEAN เป็นกลุ่มประเทศเอเชียตะวันออกเฉียงใต้",
+            "คณะกรรมการโอลิมปิกดูแลการแข่งกีฬา ไม่ใช่สุขภาพโลก"
+          ]
+        },
+        {
+          "id": "EN103-U5-02",
+          "skill": "EN103-U5",
+          "difficulty": 1,
+          "stem": "When machines or computer programs do tasks that people used to do, it is called ___.",
+          "options": [
+            "pollution",
+            "tourism",
+            "automation",
+            "inflation"
+          ],
+          "answer": 2,
+          "explanation_th": "automation = การใช้เครื่องจักรหรือโปรแกรมทำงานแทนคน",
+          "why_wrong": [
+            "pollution คือมลพิษ",
+            "tourism คือการท่องเที่ยว",
+            null,
+            "inflation คือเงินเฟ้อ"
+          ]
+        },
+        {
+          "id": "EN103-U5-03",
+          "skill": "EN103-U5",
+          "difficulty": 2,
+          "stem": "Which sentence uses careful language about the future?",
+          "options": [
+            "AI will definitely end all jobs next year.",
+            "Every worker will lose their job tomorrow.",
+            "Nobody will ever use AI at work.",
+            "AI may change many office jobs in the next ten years."
+          ],
+          "answer": 3,
+          "explanation_th": "may บอกความเป็นไปได้ ไม่ได้อ้างว่าแน่นอน",
+          "why_wrong": [
+            "อ้างเกินจริงและมั่นใจเกินไป",
+            "อ้างเกินจริง ไม่มีหลักฐาน",
+            "อ้างแบบสุดขั้วและขัดกับสิ่งที่เกิดขึ้นแล้ว",
+            null
+          ]
+        },
+        {
+          "id": "EN103-U5-04",
+          "skill": "EN103-U5",
+          "difficulty": 1,
+          "stem": "Learning new skills so you can do your job better is called ___.",
+          "options": [
+            "upskilling",
+            "downloading",
+            "retiring",
+            "commuting"
+          ],
+          "answer": 0,
+          "explanation_th": "upskilling = การพัฒนาทักษะเพิ่มเพื่องาน",
+          "why_wrong": [
+            null,
+            "downloading คือการดาวน์โหลดไฟล์",
+            "retiring คือการเกษียณ",
+            "commuting คือการเดินทางไปทำงาน"
+          ]
+        },
+        {
+          "id": "EN103-U5-05",
+          "skill": "EN103-U5",
+          "difficulty": 2,
+          "stem": "Which sentence is a fact, not an opinion?",
+          "options": [
+            "Health apps are the best invention ever.",
+            "The WHO was founded in 1948.",
+            "Everyone should do yoga.",
+            "Working from home is more fun."
+          ],
+          "answer": 1,
+          "explanation_th": "ปีที่ก่อตั้งเป็นข้อมูลที่ตรวจสอบได้",
+          "why_wrong": [
+            "'the best' เป็นการตัดสินส่วนตัว",
+            null,
+            "'should' แสดงความเห็น",
+            "'more fun' เป็นความรู้สึก"
+          ]
+        },
+        {
+          "id": "EN103-U5-06",
+          "skill": "EN103-U5",
+          "difficulty": 2,
+          "stem": "A: Using screens late at night can make it harder to sleep. B: '___ That's why I put my phone away at ten.'",
+          "options": [
+            "I completely disagree.",
+            "Never mind.",
+            "That's true.",
+            "You're welcome."
+          ],
+          "answer": 2,
+          "explanation_th": "B ทำตามคำพูดของ A จึงต้องเป็นการเห็นด้วย",
+          "why_wrong": [
+            "ขัดกับประโยคต่อมาที่ B เก็บโทรศัพท์เพราะเหตุนี้",
+            "ใช้บอกว่าไม่เป็นไร ไม่ได้ตอบความเห็น",
+            null,
+            "ใช้ตอบคำขอบคุณ"
+          ]
+        },
+        {
+          "id": "EN103-U5-07",
+          "skill": "EN103-U5",
+          "difficulty": 1,
+          "stem": "Feeling stressed for a long time can affect your ___ health.",
+          "options": [
+            "mental",
+            "metal",
+            "mentally",
+            "minded"
+          ],
+          "answer": 0,
+          "explanation_th": "mental health = สุขภาพจิต",
+          "why_wrong": [
+            null,
+            "metal แปลว่าโลหะ สะกดใกล้กันแต่ความหมายต่าง",
+            "mentally เป็น adverb ขยายคำนาม health ไม่ได้",
+            "minded health ไม่มีความหมาย"
+          ]
+        },
+        {
+          "id": "EN103-U5-08",
+          "skill": "EN103-U5",
+          "difficulty": 2,
+          "stem": "___ the WHO, regular physical activity is good for both body and mind.",
+          "options": [
+            "Because of",
+            "In spite of",
+            "Instead of",
+            "According to"
+          ],
+          "answer": 3,
+          "explanation_th": "According to ใช้อ้างแหล่งข้อมูล",
+          "why_wrong": [
+            "Because of บอกสาเหตุ ไม่ได้อ้างแหล่งข้อมูล",
+            "In spite of แปลว่า แม้ว่า ไม่เข้ากับความหมาย",
+            "Instead of แปลว่า แทนที่จะ ไม่เข้ากับความหมาย",
+            null
+          ]
+        }
+      ],
+      "say": [
+        "AI may change some jobs, so workers might need to learn new skills.",
+        "According to the WHO, regular exercise is good for body and mind."
+      ],
+      "task_th": "อ่านหรือฟังข่าวภาษาอังกฤษสั้น ๆ 1 เรื่องเกี่ยวกับสุขภาพหรือเทคโนโลยีกับงาน (เช่นจาก VOA Learning English หรือ BBC Learning English) จดข้อเท็จจริง 2 ข้อกับความเห็นของคนในข่าว 1 ข้อ แล้วพูด 30 วินาทีว่าคุณเห็นด้วยไหม พร้อมเหตุผล"
+    },
+    {
+      "id": "EN103-U6",
+      "title_th": "การสื่อสารระหว่างวัฒนธรรม",
+      "title_en": "Intercultural communication",
+      "covers": "โดยมุ่งเน้นการพัฒนาทักษะการสื่อสารระหว่างวัฒนธรรม",
+      "minutes": 12,
+      "interview": [
+        "I45"
+      ],
+      "cards": [
+        {
+          "title_th": "วัฒนธรรมไม่ได้มีแค่อาหารกับเทศกาล",
+          "body_th": "ยังรวมถึงความตรงไปตรงมาในการพูด การตรงเวลา ระยะห่างส่วนตัว และวิธีแสดงความเคารพ สิ่งที่สุภาพในที่หนึ่งอาจแปลกในอีกที่"
+        },
+        {
+          "title_th": "อย่าเหมารวม",
+          "body_th": "stereotype คือการเหมาว่าทุกคนในกลุ่มเหมือนกัน เช่น All... are... ถ้าอยากรู้ ให้ถามแทนการเดา"
+        },
+        {
+          "title_th": "ภาษาอังกฤษของคนทั้งโลก",
+          "body_th": "คนที่ใช้ภาษาอังกฤษเป็นภาษาที่สองมีมากกว่าเจ้าของภาษา สำเนียงต่างกันเป็นเรื่องปกติ พูดช้า ชัด ประโยคสั้น ช่วยให้ทุกคนเข้าใจ"
+        },
+        {
+          "title_th": "ประโยคช่วยเมื่อเข้าใจไม่ตรงกัน",
+          "body_th": "Sorry, could you say that again? / What do you mean by...? / Just to check, you mean...?"
+        }
+      ],
+      "vocab": [
+        [
+          "culture",
+          "วัฒนธรรม"
+        ],
+        [
+          "stereotype",
+          "การเหมารวม"
+        ],
+        [
+          "misunderstanding",
+          "ความเข้าใจผิด"
+        ],
+        [
+          "respect",
+          "ความเคารพ"
+        ],
+        [
+          "custom",
+          "ธรรมเนียม"
+        ],
+        [
+          "accent",
+          "สำเนียง"
+        ],
+        [
+          "assume",
+          "ด่วนสรุปเอาเอง"
+        ],
+        [
+          "clarify",
+          "ทำให้ชัดเจน"
+        ],
+        [
+          "open-minded",
+          "เปิดใจกว้าง"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "EN103-U6-01",
+          "skill": "EN103-U6",
+          "difficulty": 1,
+          "stem": "Which sentence is a stereotype?",
+          "options": [
+            "Some of my Japanese classmates like anime.",
+            "Japan is in Asia.",
+            "Tokyo is a large city.",
+            "All Japanese people are shy."
+          ],
+          "answer": 3,
+          "explanation_th": "เหมาว่าคนทั้งชาติมีนิสัยเหมือนกัน จึงเป็นการเหมารวม",
+          "why_wrong": [
+            "พูดถึงบางคนที่รู้จัก ไม่ได้เหมาทั้งกลุ่ม",
+            "เป็นข้อเท็จจริงทางภูมิศาสตร์",
+            "เป็นข้อเท็จจริง ไม่ได้พูดถึงนิสัยคน",
+            null
+          ]
+        },
+        {
+          "id": "EN103-U6-02",
+          "skill": "EN103-U6",
+          "difficulty": 1,
+          "stem": "Your new friend from Germany says something you don't understand. What is the best first step?",
+          "options": [
+            "Laugh and change the topic.",
+            "Guess and say yes.",
+            "Ask her politely what she means.",
+            "Stop talking to her."
+          ],
+          "answer": 2,
+          "explanation_th": "ถามอย่างสุภาพช่วยให้เข้าใจตรงกันและแสดงความสนใจ",
+          "why_wrong": [
+            "ทำให้ความเข้าใจผิดยังอยู่ และอาจดูไม่ใส่ใจ",
+            "อาจตอบรับสิ่งที่ไม่ได้ตั้งใจ",
+            null,
+            "ตัดการสื่อสาร ไม่ได้แก้ปัญหา"
+          ]
+        },
+        {
+          "id": "EN103-U6-03",
+          "skill": "EN103-U6",
+          "difficulty": 1,
+          "stem": "'Just to check, you mean the meeting is on Monday, right?' This sentence is used to ___.",
+          "options": [
+            "clarify",
+            "complain",
+            "apologise",
+            "invite"
+          ],
+          "answer": 0,
+          "explanation_th": "Just to check... right? ใช้ทวนให้แน่ใจว่าเข้าใจถูก",
+          "why_wrong": [
+            null,
+            "ไม่มีการบ่นหรือแสดงความไม่พอใจ",
+            "ไม่มีคำขอโทษ",
+            "ไม่ได้ชวนใครไปไหน แค่ทวนข้อมูล"
+          ]
+        },
+        {
+          "id": "EN103-U6-04",
+          "skill": "EN103-U6",
+          "difficulty": 2,
+          "stem": "An exchange student from Brazil speaks English with a strong accent. Which attitude helps most?",
+          "options": [
+            "Tell him his English is bad.",
+            "Focus on his message and ask him to repeat if needed.",
+            "Only talk to native speakers.",
+            "Pretend to understand everything."
+          ],
+          "answer": 1,
+          "explanation_th": "สำเนียงต่างกันเป็นเรื่องปกติ ฟังที่ใจความและขอให้พูดซ้ำได้",
+          "why_wrong": [
+            "ทำร้ายความรู้สึกและไม่ช่วยการสื่อสาร",
+            null,
+            "ปิดโอกาสคุยกับคนส่วนใหญ่ที่ใช้ภาษาอังกฤษ",
+            "ทำให้เกิดความเข้าใจผิดภายหลัง"
+          ]
+        },
+        {
+          "id": "EN103-U6-05",
+          "skill": "EN103-U6",
+          "difficulty": 1,
+          "stem": "You will be 15 minutes late for a meeting with a new partner. What should you do?",
+          "options": [
+            "Say nothing and arrive late.",
+            "Cancel without a reason.",
+            "Send a message to say you'll be late.",
+            "Ask them to wait one hour."
+          ],
+          "answer": 2,
+          "explanation_th": "แจ้งล่วงหน้าแสดงความเคารพเวลาของอีกฝ่าย",
+          "why_wrong": [
+            "อีกฝ่ายต้องรอโดยไม่รู้เหตุผล",
+            "ไม่จำเป็นต้องยกเลิก และไม่บอกเหตุผลดูไม่สุภาพ",
+            null,
+            "ขอให้รอนานกว่าที่จำเป็น"
+          ]
+        },
+        {
+          "id": "EN103-U6-06",
+          "skill": "EN103-U6",
+          "difficulty": 1,
+          "stem": "A ___ is a traditional way of doing something in a culture.",
+          "options": [
+            "custom",
+            "costume",
+            "customer",
+            "accent"
+          ],
+          "answer": 0,
+          "explanation_th": "custom = ธรรมเนียม",
+          "why_wrong": [
+            null,
+            "costume คือเครื่องแต่งกาย สะกดคล้ายแต่ความหมายต่าง",
+            "customer คือลูกค้า",
+            "accent คือสำเนียง"
+          ]
+        },
+        {
+          "id": "EN103-U6-07",
+          "skill": "EN103-U6",
+          "difficulty": 2,
+          "stem": "Which question shows respect and interest in another culture?",
+          "options": [
+            "Why is your food so strange?",
+            "Why don't you speak Thai?",
+            "Is your country poor?",
+            "What do people usually eat during holidays in your country?"
+          ],
+          "answer": 3,
+          "explanation_th": "ถามแบบอยากรู้ ไม่ตัดสิน",
+          "why_wrong": [
+            "ตัดสินว่าอาหารของเขาแปลก",
+            "ฟังเหมือนตำหนิ",
+            "ถามแบบตัดสินและอาจทำให้อึดอัด",
+            null
+          ]
+        },
+        {
+          "id": "EN103-U6-08",
+          "skill": "EN103-U6",
+          "difficulty": 1,
+          "stem": "Someone who is ___ is happy to hear new ideas and different ways of living.",
+          "options": [
+            "narrow-minded",
+            "open-minded",
+            "absent-minded",
+            "single-minded"
+          ],
+          "answer": 1,
+          "explanation_th": "open-minded = เปิดใจรับความคิดใหม่",
+          "why_wrong": [
+            "ความหมายตรงข้าม คือใจแคบ",
+            null,
+            "absent-minded คือขี้ลืม",
+            "single-minded คือมุ่งเป้าเดียว ไม่เกี่ยวกับการเปิดรับความคิดใหม่"
+          ]
+        }
+      ],
+      "say": [
+        "Sorry, could you say that again a bit more slowly?",
+        "Just to check, do you mean we meet at the library?"
+      ],
+      "task_th": "ดูคลิปภาษาอังกฤษ 1 คลิปที่คนต่างชาติเล่าเรื่องวัฒนธรรมของตัวเอง จดสิ่งที่ต่างจากไทย 2 ข้อ แล้วเขียนคำถามสุภาพแบบอยากรู้ 3 ข้อที่จะถามเขาได้ถ้าได้คุยกัน อ่านออกเสียงคำถามทั้ง 3 ข้อ"
+    },
+    {
+      "id": "EN103-U7",
+      "title_th": "การสื่อสารในโลกดิจิทัล",
+      "title_en": "Digital communication",
+      "covers": "และการสื่อสารในโลกดิจิทัล ซึ่งสำคัญต่อการเป็นพลเมืองโลก",
+      "minutes": 14,
+      "cards": [
+        {
+          "title_th": "มารยาทออนไลน์ (netiquette)",
+          "body_th": "ไม่พิมพ์ตัวพิมพ์ใหญ่ทั้งหมด (ดูเหมือนตะโกน) เช็กข้อมูลก่อนแชร์ เคารพความเป็นส่วนตัวของคนอื่น"
+        },
+        {
+          "title_th": "อีเมลถึงอาจารย์",
+          "body_th": "หัวเรื่องชัด → Dear + ตำแหน่ง + นามสกุล → จุดประสงค์ในบรรทัดแรก → รายละเอียดสั้น ๆ → Best regards + ชื่อเต็ม",
+          "example": "Dear Dr. Lee, I am writing to ask about the deadline for Essay 1."
+        },
+        {
+          "title_th": "วิดีโอคอล",
+          "body_th": "ปิดไมค์ตอนไม่ได้พูด เช็กกล้องและไมค์ก่อนเข้า ประโยคที่ใช้บ่อย: Can everyone hear me? / You are on mute. / Let me share my screen."
+        },
+        {
+          "title_th": "พลเมืองดิจิทัล",
+          "body_th": "สิ่งที่โพสต์ทิ้งร่องรอยดิจิทัล (digital footprint) ที่อยู่ได้นาน คิดก่อนโพสต์ และตรวจแหล่งที่มาก่อนเชื่อหรือแชร์"
+        }
+      ],
+      "vocab": [
+        [
+          "netiquette",
+          "มารยาทออนไลน์"
+        ],
+        [
+          "subject line",
+          "หัวเรื่องอีเมล"
+        ],
+        [
+          "attachment",
+          "ไฟล์แนบ"
+        ],
+        [
+          "mute",
+          "ปิดเสียง"
+        ],
+        [
+          "share screen",
+          "แชร์หน้าจอ"
+        ],
+        [
+          "digital footprint",
+          "ร่องรอยดิจิทัล"
+        ],
+        [
+          "privacy",
+          "ความเป็นส่วนตัว"
+        ],
+        [
+          "reply all",
+          "ตอบกลับทุกคน"
+        ],
+        [
+          "misinformation",
+          "ข้อมูลที่ผิด"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "EN103-U7-01",
+          "skill": "EN103-U7",
+          "difficulty": 1,
+          "stem": "Writing a message in ALL CAPITAL LETTERS usually feels like ___.",
+          "options": [
+            "whispering",
+            "thanking",
+            "shouting",
+            "joking"
+          ],
+          "answer": 2,
+          "explanation_th": "ตัวพิมพ์ใหญ่ทั้งหมดถูกอ่านเหมือนการตะโกน",
+          "why_wrong": [
+            "ตรงข้าม กระซิบคือพูดเบา",
+            "ตัวพิมพ์ใหญ่ไม่ได้สื่อความขอบคุณ",
+            null,
+            "ตัวพิมพ์ใหญ่ไม่ได้สื่อว่ากำลังล้อเล่น"
+          ]
+        },
+        {
+          "id": "EN103-U7-02",
+          "skill": "EN103-U7",
+          "difficulty": 2,
+          "stem": "Which subject line is best for an email to a teacher about a late assignment?",
+          "options": [
+            "hi",
+            "(no subject)",
+            "URGENT!!! PLEASE READ!!!",
+            "Late submission: Essay 1"
+          ],
+          "answer": 3,
+          "explanation_th": "หัวเรื่องบอกเรื่องและงานที่เกี่ยวข้องชัดเจน",
+          "why_wrong": [
+            "ไม่บอกว่าอีเมลเรื่องอะไร",
+            "ไม่มีหัวเรื่อง อาจถูกมองข้าม",
+            "ตัวพิมพ์ใหญ่และเครื่องหมายเยอะดูเหมือนตะโกน และไม่บอกเรื่อง",
+            null
+          ]
+        },
+        {
+          "id": "EN103-U7-03",
+          "skill": "EN103-U7",
+          "difficulty": 1,
+          "stem": "Which greeting is suitable for an email to a professor?",
+          "options": [
+            "Yo prof,",
+            "Dear Professor Smith,",
+            "Hey dude,",
+            "Hi babe,"
+          ],
+          "answer": 1,
+          "explanation_th": "Dear + ตำแหน่ง + นามสกุล เป็นคำขึ้นต้นแบบทางการ",
+          "why_wrong": [
+            "เป็นภาษาเพื่อน ไม่เหมาะกับอาจารย์",
+            null,
+            "เป็นภาษาเพื่อน ไม่สุภาพพอ",
+            "ใช้กับคนรัก ไม่เหมาะเลย"
+          ]
+        },
+        {
+          "id": "EN103-U7-04",
+          "skill": "EN103-U7",
+          "difficulty": 1,
+          "stem": "In a video call, someone says, 'You're on mute.' This means ___.",
+          "options": [
+            "the others cannot hear you",
+            "your camera is broken",
+            "the meeting is over",
+            "you are speaking too loudly"
+          ],
+          "answer": 0,
+          "explanation_th": "on mute = ไมค์ถูกปิดเสียง คนอื่นจึงไม่ได้ยิน",
+          "why_wrong": [
+            null,
+            "mute เกี่ยวกับเสียง ไม่ใช่กล้อง",
+            "ไม่ได้บอกว่าประชุมจบ",
+            "ถ้าปิดเสียงอยู่ คนอื่นไม่ได้ยินเลย"
+          ]
+        },
+        {
+          "id": "EN103-U7-05",
+          "skill": "EN103-U7",
+          "difficulty": 2,
+          "stem": "Before you share a shocking news post, you should ___.",
+          "options": [
+            "share it quickly before others do",
+            "add more shocking words",
+            "check if a reliable source reports it",
+            "delete all the comments"
+          ],
+          "answer": 2,
+          "explanation_th": "ข่าวที่น่าตกใจอาจเป็นข้อมูลผิด ควรตรวจแหล่งที่เชื่อถือได้ก่อน",
+          "why_wrong": [
+            "อาจกระจายข้อมูลผิด",
+            "ทำให้ข้อมูลบิดเบือนมากขึ้น",
+            null,
+            "ไม่ได้ช่วยตรวจว่าข่าวจริงไหม"
+          ]
+        },
+        {
+          "id": "EN103-U7-06",
+          "skill": "EN103-U7",
+          "difficulty": 1,
+          "stem": "Your digital footprint is ___.",
+          "options": [
+            "the size of your phone",
+            "the information you leave online",
+            "a step-counting app",
+            "your shoe size"
+          ],
+          "answer": 1,
+          "explanation_th": "digital footprint = ร่องรอยข้อมูลที่เราทิ้งไว้บนอินเทอร์เน็ต",
+          "why_wrong": [
+            "ไม่เกี่ยวกับขนาดอุปกรณ์",
+            null,
+            "แอปนับก้าวไม่ใช่ความหมายของคำนี้",
+            "footprint ในที่นี้ไม่ได้หมายถึงรอยเท้าจริง"
+          ]
+        },
+        {
+          "id": "EN103-U7-07",
+          "skill": "EN103-U7",
+          "difficulty": 1,
+          "stem": "Which email closing is professional?",
+          "options": [
+            "Best regards,",
+            "Bye bye!!",
+            "Love ya,",
+            "Whatever,"
+          ],
+          "answer": 0,
+          "explanation_th": "Best regards เป็นคำลงท้ายมาตรฐานของอีเมลทางการ",
+          "why_wrong": [
+            null,
+            "ไม่เป็นทางการ",
+            "ใช้กับคนสนิท",
+            "ฟังไม่สุภาพ"
+          ]
+        },
+        {
+          "id": "EN103-U7-08",
+          "skill": "EN103-U7",
+          "difficulty": 1,
+          "stem": "You want everyone in an online meeting to see your slides. You say, 'Let me ___ my screen.'",
+          "options": [
+            "mute",
+            "attach",
+            "reply",
+            "share"
+          ],
+          "answer": 3,
+          "explanation_th": "share my screen = แชร์หน้าจอให้คนอื่นเห็น",
+          "why_wrong": [
+            "mute คือปิดเสียง",
+            "attach ใช้กับการแนบไฟล์ในอีเมล",
+            "reply คือตอบกลับข้อความ",
+            null
+          ]
+        },
+        {
+          "id": "EN103-U7-09",
+          "skill": "EN103-U7",
+          "difficulty": 2,
+          "stem": "In a group email, you only want to answer the person who sent it. You should click ___.",
+          "options": [
+            "Reply",
+            "Reply all",
+            "Forward",
+            "Delete"
+          ],
+          "answer": 0,
+          "explanation_th": "Reply ส่งถึงผู้ส่งคนเดียว",
+          "why_wrong": [
+            null,
+            "ส่งถึงทุกคนในกลุ่ม ซึ่งไม่ใช่สิ่งที่ต้องการ",
+            "Forward ส่งต่ออีเมลให้คนอื่น",
+            "Delete คือลบอีเมล ไม่ได้ตอบ"
+          ]
+        }
+      ],
+      "say": [
+        "Sorry, I think you're on mute. Could you unmute, please?",
+        "Dear Dr. Lee, I am writing to ask about the deadline for Essay 1."
+      ],
+      "task_th": "เขียนอีเมลภาษาอังกฤษ 5 บรรทัดถึงอาจารย์ (สมมติชื่อ) เพื่อขอเลื่อนส่งงาน 1 วัน: หัวเรื่อง, คำขึ้นต้น, จุดประสงค์ในบรรทัดแรก, เหตุผลสั้น ๆ, คำลงท้ายกับชื่อเต็ม แล้วเช็กตามมารยาทออนไลน์ในหน่วยนี้อีก 1 รอบ"
+    }
+  ]
+}

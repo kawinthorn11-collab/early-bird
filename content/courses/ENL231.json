@@ -1,0 +1,1872 @@
+{
+ "code": "ENL231",
+ "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+ "in_class_th": [
+  "น่าจะได้รู้จักสาขาหลักของภาษาศาสตร์ทีละสาขา เริ่มจากเสียง แล้วไปคำ ประโยค และความหมาย",
+  "อาจได้ฝึกอ่านและเขียนสัญลักษณ์ IPA และแยกหน่วยคำ (morpheme) ในคำภาษาอังกฤษ",
+  "คาดว่าจะมีการเทียบภาษาอังกฤษกับภาษาไทย เช่น ลำดับคำ เสียงวรรณยุกต์ และคำยืม",
+  "น่าจะต้องอ่านตำราภาษาศาสตร์เบื้องต้นเป็นภาษาอังกฤษ และสอบด้วยการนิยามศัพท์เฉพาะกับการวิเคราะห์ตัวอย่างสั้น ๆ"
+ ],
+ "units": [
+  {
+   "id": "ENL231-U1",
+   "title_th": "ภาษาศาสตร์คืออะไร",
+   "title_en": "What Is Linguistics?",
+   "covers": "ทฤษฎีเบื้องต้นและสาขาที่เกี่ยวข้องกับภาษาศาสตร์ภาษาอังกฤษ",
+   "minutes": 13,
+   "cards": [
+    {
+     "title_th": "ภาษาศาสตร์ (linguistics)",
+     "body_th": "การศึกษาภาษาอย่างเป็นระบบและเป็นวิทยาศาสตร์ สังเกต เก็บข้อมูล แล้วหากฎ ไม่ได้หมายถึงการพูดได้หลายภาษา"
+    },
+    {
+     "title_th": "บรรยาย กับ กำหนด",
+     "body_th": "แนวบรรยาย (descriptive) อธิบายว่าคนใช้ภาษาจริงอย่างไร แนวกำหนด (prescriptive) บอกว่าควรใช้อย่างไร นักภาษาศาสตร์ทำงานแบบบรรยายเป็นหลัก",
+     "example": "Prescriptive: Never end a sentence with a preposition. / Descriptive: Many speakers say 'Who are you talking to?'"
+    },
+    {
+     "title_th": "ระดับของภาษา",
+     "body_th": "เสียง (phonetics, phonology) → คำ (morphology) → ประโยค (syntax) → ความหมาย (semantics) → ความหมายตามบริบท (pragmatics)"
+    },
+    {
+     "title_th": "สาขาที่เกี่ยวข้อง",
+     "body_th": "ภาษากับสังคม (sociolinguistics) ภาษากับจิตใจ (psycholinguistics) การนำไปใช้ เช่น การสอนภาษา (applied linguistics) และการเปลี่ยนแปลงตามเวลา (historical linguistics)"
+    },
+    {
+     "title_th": "ลักษณะของภาษามนุษย์",
+     "body_th": "ความไม่มีเหตุผลกำกับ (arbitrariness) เสียงของคำไม่ได้เชื่อมกับความหมายตามธรรมชาติ และความสร้างสรรค์ (creativity หรือ productivity) สร้างและเข้าใจประโยคใหม่ได้ไม่จำกัด",
+     "example": "dog / หมา / inu: สัตว์ตัวเดียวกัน เสียงต่างกัน"
+    }
+   ],
+   "vocab": [
+    [
+     "linguistics",
+     "ภาษาศาสตร์"
+    ],
+    [
+     "linguist",
+     "นักภาษาศาสตร์"
+    ],
+    [
+     "descriptive",
+     "แนวบรรยาย"
+    ],
+    [
+     "prescriptive",
+     "แนวกำหนด"
+    ],
+    [
+     "arbitrariness",
+     "ความไม่มีเหตุผลกำกับระหว่างเสียงกับความหมาย"
+    ],
+    [
+     "creativity (productivity)",
+     "ความสร้างสรรค์ของภาษา"
+    ],
+    [
+     "native speaker",
+     "เจ้าของภาษา"
+    ],
+    [
+     "field",
+     "สาขา"
+    ],
+    [
+     "data",
+     "ข้อมูล"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL231-U1-01",
+     "skill": "ENL231-U1",
+     "difficulty": 1,
+     "stem": "Linguistics is ____.",
+     "options": [
+      "the scientific study of language",
+      "the ability to speak many languages",
+      "the study of poems and novels only",
+      "the study of handwriting"
+     ],
+     "answer": 0,
+     "explanation_th": "ภาษาศาสตร์ศึกษาภาษาอย่างเป็นระบบแบบวิทยาศาสตร์",
+     "why_wrong": [
+      null,
+      "คนที่พูดได้หลายภาษาเรียกว่า polyglot ไม่ใช่ความหมายของภาษาศาสตร์",
+      "นั่นคือวรรณคดี",
+      "ลายมือไม่ใช่ขอบเขตหลักของภาษาศาสตร์"
+     ]
+    },
+    {
+     "id": "ENL231-U1-02",
+     "skill": "ENL231-U1",
+     "difficulty": 2,
+     "stem": "Which sentence is prescriptive?",
+     "options": [
+      "Many English speakers end questions with prepositions, like 'Who are you talking to?'",
+      "Thai uses tones to change the meaning of words.",
+      "You should never end a sentence with a preposition.",
+      "Children learn their first language without formal lessons."
+     ],
+     "answer": 2,
+     "explanation_th": "should never เป็นการกำหนดกฎว่าควรพูดอย่างไร",
+     "why_wrong": [
+      "อธิบายสิ่งที่คนพูดจริง จึงเป็นแนวบรรยาย",
+      "อธิบายลักษณะของภาษาไทย ไม่ได้สั่งว่าควรทำอะไร",
+      null,
+      "เป็นการบรรยายสิ่งที่เกิดขึ้นจริง"
+     ]
+    },
+    {
+     "id": "ENL231-U1-03",
+     "skill": "ENL231-U1",
+     "difficulty": 2,
+     "stem": "Which sentence is descriptive?",
+     "options": [
+      "People must not say 'ain't.'",
+      "Many young speakers use 'like' to introduce what someone said.",
+      "Good students never use slang.",
+      "You should say 'whom,' not 'who,' after a preposition."
+     ],
+     "answer": 1,
+     "explanation_th": "บอกสิ่งที่ผู้พูดทำจริง ไม่ได้ตัดสินว่าถูกหรือผิด",
+     "why_wrong": [
+      "must not เป็นการกำหนด",
+      null,
+      "เป็นการตัดสินว่าควรใช้หรือไม่ควรใช้",
+      "should เป็นการกำหนดกฎ"
+     ]
+    },
+    {
+     "id": "ENL231-U1-04",
+     "skill": "ENL231-U1",
+     "difficulty": 1,
+     "stem": "Which area of linguistics studies sentence structure?",
+     "options": [
+      "phonetics",
+      "morphology",
+      "pragmatics",
+      "syntax"
+     ],
+     "answer": 3,
+     "explanation_th": "syntax ศึกษาการเรียงคำเป็นวลีและประโยค",
+     "why_wrong": [
+      "ศึกษาเสียงพูด",
+      "ศึกษาโครงสร้างของคำ",
+      "ศึกษาความหมายตามบริบท",
+      null
+     ]
+    },
+    {
+     "id": "ENL231-U1-05",
+     "skill": "ENL231-U1",
+     "difficulty": 1,
+     "stem": "Which area of linguistics studies the structure of words?",
+     "options": [
+      "morphology",
+      "syntax",
+      "phonology",
+      "semantics"
+     ],
+     "answer": 0,
+     "explanation_th": "morphology ศึกษาว่าคำประกอบขึ้นจากหน่วยคำอย่างไร",
+     "why_wrong": [
+      null,
+      "ศึกษาโครงสร้างประโยค",
+      "ศึกษาระบบเสียง",
+      "ศึกษาความหมาย"
+     ]
+    },
+    {
+     "id": "ENL231-U1-06",
+     "skill": "ENL231-U1",
+     "difficulty": 2,
+     "stem": "The animal called 'dog' in English is called 'หมา' in Thai. This shows that the link between a word's sound and its meaning is ____.",
+     "options": [
+      "the same in every language",
+      "based on how the animal looks",
+      "decided by one dictionary",
+      "arbitrary"
+     ],
+     "answer": 3,
+     "explanation_th": "arbitrary หมายถึงไม่มีเหตุผลตามธรรมชาติที่เสียงนี้ต้องคู่กับความหมายนี้",
+     "why_wrong": [
+      "ตัวอย่างนี้แสดงว่าแต่ละภาษาใช้เสียงต่างกัน",
+      "เสียงของคำไม่ได้มาจากรูปร่างของสัตว์",
+      "พจนานุกรมบันทึกคำ ไม่ได้เป็นผู้สร้างความสัมพันธ์ระหว่างเสียงกับความหมาย",
+      null
+     ]
+    },
+    {
+     "id": "ENL231-U1-07",
+     "skill": "ENL231-U1",
+     "difficulty": 2,
+     "stem": "You can understand a sentence that you have never heard before. This shows that human language is ____.",
+     "options": [
+      "fixed and closed",
+      "creative (productive)",
+      "only written",
+      "the same as animal calls"
+     ],
+     "answer": 1,
+     "explanation_th": "ความสร้างสรรค์ทำให้เราสร้างและเข้าใจประโยคใหม่ได้ไม่จำกัด",
+     "why_wrong": [
+      "ถ้าภาษาปิดตาย เราจะเข้าใจแค่ประโยคที่เคยได้ยิน",
+      null,
+      "ภาษามนุษย์มีทั้งพูดและเขียน และเรื่องนี้ไม่เกี่ยวกับการเขียน",
+      "เสียงร้องของสัตว์มีจำนวนจำกัด ไม่สร้างประโยคใหม่แบบนี้"
+     ]
+    },
+    {
+     "id": "ENL231-U1-08",
+     "skill": "ENL231-U1",
+     "difficulty": 1,
+     "stem": "Which order goes from the smallest unit to the largest?",
+     "options": [
+      "sentence, word, sound",
+      "word, sound, sentence",
+      "sound, word, sentence",
+      "sentence, sound, word"
+     ],
+     "answer": 2,
+     "explanation_th": "เสียงประกอบเป็นคำ คำประกอบเป็นประโยค",
+     "why_wrong": [
+      "เรียงจากใหญ่ไปเล็ก",
+      "เสียงเล็กกว่าคำ",
+      null,
+      "ลำดับสลับปนกัน"
+     ]
+    },
+    {
+     "id": "ENL231-U1-09",
+     "skill": "ENL231-U1",
+     "difficulty": 3,
+     "stem": "Which question would a pragmatics researcher most likely ask?",
+     "options": [
+      "Why does 'It's cold in here' sometimes mean 'Please close the window'?",
+      "How many syllables does 'banana' have?",
+      "What is the past tense form of 'go'?",
+      "Where does the subject go in an English sentence?"
+     ],
+     "answer": 0,
+     "explanation_th": "pragmatics ศึกษาความหมายที่ผู้พูดตั้งใจในบริบท",
+     "why_wrong": [
+      null,
+      "เป็นคำถามด้านเสียง (phonology)",
+      "เป็นคำถามด้านรูปคำ (morphology)",
+      "เป็นคำถามด้านโครงสร้างประโยค (syntax)"
+     ]
+    }
+   ],
+   "say": [
+    "Linguistics is the scientific study of language.",
+    "Linguists describe how people really speak.",
+    "Syntax is about sentences, and morphology is about words."
+   ],
+   "task_th": "ฟังหรืออ่านภาษาไทยหรืออังกฤษรอบตัว 10 นาที จดกฎแบบกำหนด 2 ข้อที่เคยได้ยินจากครูหรือผู้ใหญ่ แล้วจดสิ่งที่คนพูดจริงแบบบรรยาย 2 ข้อ เขียนเป็นประโยคภาษาอังกฤษสั้น ๆ"
+  },
+  {
+   "id": "ENL231-U2",
+   "title_th": "สัทศาสตร์และสัทวิทยา",
+   "title_en": "Phonetics and Phonology",
+   "covers": "ทฤษฎีเบื้องต้น",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "2 สาขาของเสียง",
+     "body_th": "สัทศาสตร์ (phonetics) ศึกษาเสียงพูดทางกายภาพ ทำเสียงอย่างไร ได้ยินอย่างไร สัทวิทยา (phonology) ศึกษาระบบเสียงของภาษาหนึ่ง ว่าเสียงไหนแยกความหมาย และเสียงเรียงกันอย่างไร"
+    },
+    {
+     "title_th": "IPA",
+     "body_th": "สัทอักษรสากล (International Phonetic Alphabet) 1 สัญลักษณ์แทน 1 เสียง จำเป็นเพราะตัวสะกดอังกฤษไม่ตรงเสียง",
+     "example": "though, through, tough: ough ออกเสียงต่างกันทั้ง 3 คำ"
+    },
+    {
+     "title_th": "หน่วยเสียงและคู่เทียบเสียง",
+     "body_th": "หน่วยเสียง (phoneme) คือเสียงที่เปลี่ยนแล้วความหมายเปลี่ยน คู่เทียบเสียง (minimal pair) คือคำ 2 คำที่ต่างกันเพียงเสียงเดียว",
+     "example": "ship /ʃɪp/ vs sheep /ʃiːp/, pin vs bin"
+    },
+    {
+     "title_th": "เสียงก้องและไม่ก้อง",
+     "body_th": "แตะคอแล้วพูด เสียงก้อง (voiced) เส้นเสียงสั่น เช่น /b d g v z/ เสียงไม่ก้อง (voiceless) ไม่สั่น เช่น /p t k f s/ เสียงจากริมฝีปากทั้งสอง (bilabial) คือ /p b m/"
+    },
+    {
+     "title_th": "เสียงย่อย (allophone)",
+     "body_th": "p ใน pin มีลมพ่นตาม [pʰ] แต่ p ใน spin ไม่มี คนอังกฤษถือว่าเป็นหน่วยเสียงเดียวกัน แต่ในภาษาไทย ป กับ พ แยกความหมาย",
+     "example": "ปา /paa/ กับ พา /pʰaa/ เป็นคนละคำ"
+    }
+   ],
+   "vocab": [
+    [
+     "phonetics",
+     "สัทศาสตร์"
+    ],
+    [
+     "phonology",
+     "สัทวิทยา"
+    ],
+    [
+     "phoneme",
+     "หน่วยเสียง"
+    ],
+    [
+     "allophone",
+     "เสียงย่อย"
+    ],
+    [
+     "minimal pair",
+     "คู่เทียบเสียง"
+    ],
+    [
+     "IPA (International Phonetic Alphabet)",
+     "สัทอักษรสากล"
+    ],
+    [
+     "voiced",
+     "เสียงก้อง"
+    ],
+    [
+     "voiceless",
+     "เสียงไม่ก้อง"
+    ],
+    [
+     "syllable",
+     "พยางค์"
+    ],
+    [
+     "stress",
+     "การลงเสียงหนัก"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL231-U2-01",
+     "skill": "ENL231-U2",
+     "difficulty": 1,
+     "stem": "Phonetics studies ____.",
+     "options": [
+      "how words are built from smaller parts",
+      "the meaning of sentences",
+      "how speech sounds are made and heard",
+      "how English changed over time"
+     ],
+     "answer": 2,
+     "explanation_th": "phonetics ศึกษาเสียงพูดทั้งการผลิตและการรับรู้",
+     "why_wrong": [
+      "นั่นคือ morphology",
+      "นั่นคือ semantics",
+      null,
+      "นั่นคือ historical linguistics"
+     ]
+    },
+    {
+     "id": "ENL231-U2-02",
+     "skill": "ENL231-U2",
+     "difficulty": 2,
+     "stem": "'Ship' and 'sheep' differ in only one sound and have different meanings. They are a ____.",
+     "options": [
+      "pair of homophones",
+      "pair of synonyms",
+      "compound word",
+      "minimal pair"
+     ],
+     "answer": 3,
+     "explanation_th": "ต่างกันแค่สระเดียว ความหมายก็เปลี่ยน จึงเป็นคู่เทียบเสียง",
+     "why_wrong": [
+      "homophone ออกเสียงเหมือนกันแต่ความหมายต่าง แต่ ship กับ sheep ออกเสียงต่างกัน",
+      "synonym มีความหมายเหมือนกัน แต่ 2 คำนี้ความหมายต่างกัน",
+      "compound คือคำประสมจาก 2 คำ",
+      null
+     ]
+    },
+    {
+     "id": "ENL231-U2-03",
+     "skill": "ENL231-U2",
+     "difficulty": 2,
+     "stem": "Which sound is voiced?",
+     "options": [
+      "/s/",
+      "/z/",
+      "/p/",
+      "/f/"
+     ],
+     "answer": 1,
+     "explanation_th": "พูด /z/ แล้วแตะคอจะรู้สึกสั่น",
+     "why_wrong": [
+      "เป็นคู่ไม่ก้องของ /z/",
+      null,
+      "เป็นเสียงไม่ก้อง",
+      "เป็นเสียงไม่ก้อง"
+     ]
+    },
+    {
+     "id": "ENL231-U2-04",
+     "skill": "ENL231-U2",
+     "difficulty": 2,
+     "stem": "Which sound is made with both lips (bilabial)?",
+     "options": [
+      "/t/",
+      "/m/",
+      "/k/",
+      "/s/"
+     ],
+     "answer": 1,
+     "explanation_th": "/m/ ปิดริมฝีปากทั้งสอง เหมือน /p/ และ /b/",
+     "why_wrong": [
+      "ใช้ปลายลิ้นแตะปุ่มเหงือก",
+      null,
+      "ใช้โคนลิ้นแตะเพดานอ่อน",
+      "ใช้ลิ้นใกล้ปุ่มเหงือกแล้วปล่อยลมเสียดแทรก"
+     ]
+    },
+    {
+     "id": "ENL231-U2-05",
+     "skill": "ENL231-U2",
+     "difficulty": 2,
+     "stem": "A phoneme is ____.",
+     "options": [
+      "the smallest unit of meaning",
+      "a letter of the alphabet",
+      "a group of words",
+      "a sound unit that can change meaning in a language"
+     ],
+     "answer": 3,
+     "explanation_th": "phoneme คือหน่วยเสียงที่แยกความหมาย",
+     "why_wrong": [
+      "นั่นคือ morpheme",
+      "ตัวอักษรเป็นเรื่องการเขียน ไม่ใช่เสียง",
+      "กลุ่มคำคือวลี",
+      null
+     ]
+    },
+    {
+     "id": "ENL231-U2-06",
+     "skill": "ENL231-U2",
+     "difficulty": 3,
+     "stem": "In English, the 'p' in 'pin' has a puff of air, but the 'p' in 'spin' does not. English speakers hear them as the same sound. These two sounds are ____.",
+     "options": [
+      "two different phonemes",
+      "two morphemes",
+      "allophones of one phoneme",
+      "a minimal pair"
+     ],
+     "answer": 2,
+     "explanation_th": "เสียงต่างกันเล็กน้อยแต่ไม่แยกความหมาย จึงเป็นเสียงย่อยของหน่วยเสียงเดียว",
+     "why_wrong": [
+      "ถ้าเป็นคนละหน่วยเสียง ผู้พูดจะใช้แยกความหมาย แต่ในภาษาอังกฤษไม่แยก",
+      "morpheme เป็นหน่วยความหมาย ไม่ใช่เสียง",
+      null,
+      "pin กับ spin ต่างกันมากกว่า 1 เสียง และโจทย์ถามถึงเสียง p 2 แบบ"
+     ]
+    },
+    {
+     "id": "ENL231-U2-07",
+     "skill": "ENL231-U2",
+     "difficulty": 2,
+     "stem": "Why do linguists use the IPA?",
+     "options": [
+      "Each symbol stands for one sound, so spelling does not confuse them.",
+      "It makes words shorter.",
+      "It is the official alphabet of England.",
+      "It shows the meaning of words."
+     ],
+     "answer": 0,
+     "explanation_th": "1 สัญลักษณ์ 1 เสียง แก้ปัญหาตัวสะกดไม่ตรงเสียง",
+     "why_wrong": [
+      null,
+      "IPA ไม่ได้มีไว้ย่อคำ",
+      "IPA เป็นระบบสากลสำหรับทุกภาษา ไม่ใช่อักษรทางการของอังกฤษ",
+      "IPA แทนเสียง ไม่ได้บอกความหมาย"
+     ]
+    },
+    {
+     "id": "ENL231-U2-08",
+     "skill": "ENL231-U2",
+     "difficulty": 2,
+     "stem": "In 'though,' 'through' and 'tough,' the letters 'ough' ____.",
+     "options": [
+      "are pronounced the same way",
+      "are pronounced in different ways",
+      "are silent in all three words",
+      "all sound like /f/"
+     ],
+     "answer": 1,
+     "explanation_th": "ตัวสะกดเดียวกันแต่เสียงต่างกัน เป็นเหตุผลที่ต้องใช้ IPA",
+     "why_wrong": [
+      "ทั้ง 3 คำออกเสียง ough ไม่เหมือนกัน",
+      null,
+      "ough มีเสียงในทุกคำ",
+      "มีแค่ tough ที่ลงท้ายด้วยเสียง /f/"
+     ]
+    },
+    {
+     "id": "ENL231-U2-09",
+     "skill": "ENL231-U2",
+     "difficulty": 2,
+     "stem": "Which word is stressed on the second syllable?",
+     "options": [
+      "begin",
+      "happy",
+      "table",
+      "doctor"
+     ],
+     "answer": 0,
+     "explanation_th": "be-GIN ลงเสียงหนักที่พยางค์ที่สอง",
+     "why_wrong": [
+      null,
+      "ลงเสียงหนักที่พยางค์แรก HAP-py",
+      "ลงเสียงหนักที่พยางค์แรก TA-ble",
+      "ลงเสียงหนักที่พยางค์แรก DOC-tor"
+     ]
+    }
+   ],
+   "say": [
+    "Ship and sheep are a minimal pair.",
+    "The sound /z/ is voiced, but /s/ is voiceless.",
+    "I use the IPA to write sounds."
+   ],
+   "task_th": "แตะคอแล้วพูดเสียง /s/ กับ /z/ และ /f/ กับ /v/ สลับกัน จดว่าเสียงไหนสั่น จากนั้นหาคู่เทียบเสียงภาษาอังกฤษ 5 คู่ที่คนไทยมักออกเสียงพลาด เช่น ship กับ sheep แล้วอ่านออกเสียงคู่ละ 3 รอบ"
+  },
+  {
+   "id": "ENL231-U3",
+   "title_th": "สัณฐานวิทยา หน่วยคำและการสร้างคำ",
+   "title_en": "Morphology: Morphemes and Word Building",
+   "covers": "ทฤษฎีเบื้องต้น",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "หน่วยคำ (morpheme)",
+     "body_th": "หน่วยเล็กที่สุดที่มีความหมายหรือมีหน้าที่ทางไวยากรณ์ สัณฐานวิทยา (morphology) ศึกษาว่าคำประกอบจากหน่วยคำอย่างไร",
+     "example": "cats = cat + -s"
+    },
+    {
+     "title_th": "อิสระกับไม่อิสระ",
+     "body_th": "หน่วยคำอิสระ (free morpheme) อยู่เดี่ยว ๆ เป็นคำได้ เช่น book, happy หน่วยคำไม่อิสระ (bound morpheme) ต้องเกาะกับหน่วยอื่น เช่น un-, -ness, -s"
+    },
+    {
+     "title_th": "หน่วยเติม (affix)",
+     "body_th": "หน้าคำเรียก prefix เช่น un-, re- ท้ายคำเรียก suffix เช่น -ful, -ly ส่วนที่เป็นแกนเรียก root"
+    },
+    {
+     "title_th": "สร้างคำใหม่ กับ เปลี่ยนรูปไวยากรณ์",
+     "body_th": "แบบสร้างคำ (derivational) ให้คำใหม่หรือเปลี่ยนชนิดคำ เช่น teach → teacher, quick → quickly แบบผันรูป (inflectional) เปลี่ยนแค่รูปไวยากรณ์ เช่น -s, -ed, -ing, -er, -est ภาษาอังกฤษมีหน่วยคำผันรูป 8 ตัว"
+    },
+    {
+     "title_th": "นับหน่วยคำ",
+     "body_th": "หน่วยคำไม่เท่ากับพยางค์",
+     "example": "unhappiness = un + happy + ness (3) / walked = walk + ed (2) / elephant = 1 หน่วยคำ แม้มี 3 พยางค์"
+    }
+   ],
+   "vocab": [
+    [
+     "morphology",
+     "สัณฐานวิทยา (ศึกษาโครงสร้างคำ)"
+    ],
+    [
+     "morpheme",
+     "หน่วยคำ"
+    ],
+    [
+     "free morpheme",
+     "หน่วยคำอิสระ"
+    ],
+    [
+     "bound morpheme",
+     "หน่วยคำไม่อิสระ"
+    ],
+    [
+     "affix",
+     "หน่วยเติม"
+    ],
+    [
+     "prefix",
+     "หน่วยเติมหน้า"
+    ],
+    [
+     "suffix",
+     "หน่วยเติมหลัง"
+    ],
+    [
+     "root",
+     "รากคำ"
+    ],
+    [
+     "derivational",
+     "แบบสร้างคำใหม่"
+    ],
+    [
+     "inflectional",
+     "แบบผันรูปทางไวยากรณ์"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL231-U3-01",
+     "skill": "ENL231-U3",
+     "difficulty": 1,
+     "stem": "A morpheme is ____.",
+     "options": [
+      "a single speech sound",
+      "a syllable",
+      "the smallest unit of meaning or grammar in a word",
+      "a full sentence"
+     ],
+     "answer": 2,
+     "explanation_th": "morpheme คือหน่วยเล็กสุดที่มีความหมายหรือหน้าที่",
+     "why_wrong": [
+      "นั่นคือหน่วยเสียง (phoneme)",
+      "พยางค์เป็นหน่วยเสียง เช่น elephant มี 3 พยางค์แต่มีหน่วยคำเดียว",
+      null,
+      "ประโยคใหญ่กว่าหน่วยคำมาก"
+     ]
+    },
+    {
+     "id": "ENL231-U3-02",
+     "skill": "ENL231-U3",
+     "difficulty": 1,
+     "stem": "How many morphemes are in 'cats'?",
+     "options": [
+      "one",
+      "three",
+      "four",
+      "two"
+     ],
+     "answer": 3,
+     "explanation_th": "cat + -s (พหูพจน์)",
+     "why_wrong": [
+      "ลืมนับ -s ที่บอกพหูพจน์",
+      "cat แยกต่อไม่ได้อีก",
+      "นับตามจำนวนตัวอักษร ซึ่งไม่ใช่วิธีนับหน่วยคำ",
+      null
+     ]
+    },
+    {
+     "id": "ENL231-U3-03",
+     "skill": "ENL231-U3",
+     "difficulty": 2,
+     "stem": "How many morphemes are in 'unhappiness'?",
+     "options": [
+      "two",
+      "four",
+      "three",
+      "one"
+     ],
+     "answer": 2,
+     "explanation_th": "un- + happy + -ness",
+     "why_wrong": [
+      "ขาดไป 1 หน่วย ต้องนับทั้ง un-, happy และ -ness",
+      "happy แยกต่อเป็นหน่วยที่มีความหมายไม่ได้",
+      null,
+      "คำนี้แยกได้ชัดเป็น 3 ส่วน"
+     ]
+    },
+    {
+     "id": "ENL231-U3-04",
+     "skill": "ENL231-U3",
+     "difficulty": 2,
+     "stem": "Which of these is a bound morpheme?",
+     "options": [
+      "book",
+      "run",
+      "happy",
+      "-ness"
+     ],
+     "answer": 3,
+     "explanation_th": "-ness ต้องเกาะกับคำอื่น เช่น kindness",
+     "why_wrong": [
+      "อยู่เดี่ยว ๆ เป็นคำได้ จึงเป็นหน่วยคำอิสระ",
+      "เป็นคำได้ด้วยตัวเอง",
+      "เป็นคำได้ด้วยตัวเอง",
+      null
+     ]
+    },
+    {
+     "id": "ENL231-U3-05",
+     "skill": "ENL231-U3",
+     "difficulty": 2,
+     "stem": "Which of these is a free morpheme?",
+     "options": [
+      "teach",
+      "-er",
+      "re-",
+      "-ed"
+     ],
+     "answer": 0,
+     "explanation_th": "teach เป็นคำเดี่ยวได้",
+     "why_wrong": [
+      null,
+      "ต้องเกาะท้ายคำ จึงไม่อิสระ",
+      "ต้องเกาะหน้าคำ จึงไม่อิสระ",
+      "ต้องเกาะท้ายกริยา จึงไม่อิสระ"
+     ]
+    },
+    {
+     "id": "ENL231-U3-06",
+     "skill": "ENL231-U3",
+     "difficulty": 2,
+     "stem": "In 'replay,' the part 're-' is a ____.",
+     "options": [
+      "suffix",
+      "prefix",
+      "free morpheme",
+      "root"
+     ],
+     "answer": 1,
+     "explanation_th": "re- อยู่หน้าคำ จึงเป็นหน่วยเติมหน้า",
+     "why_wrong": [
+      "suffix อยู่ท้ายคำ แต่ re- อยู่หน้า",
+      null,
+      "re- อยู่เดี่ยว ๆ ไม่ได้",
+      "รากคือ play"
+     ]
+    },
+    {
+     "id": "ENL231-U3-07",
+     "skill": "ENL231-U3",
+     "difficulty": 3,
+     "stem": "Which suffix is inflectional?",
+     "options": [
+      "-er in 'teacher'",
+      "-ness in 'kindness'",
+      "-ed in 'walked'",
+      "-ful in 'helpful'"
+     ],
+     "answer": 2,
+     "explanation_th": "-ed บอกอดีต walk ยังเป็นกริยาเหมือนเดิม",
+     "why_wrong": [
+      "เปลี่ยนกริยาเป็นคำนาม จึงเป็นแบบสร้างคำ",
+      "เปลี่ยนคุณศัพท์เป็นคำนาม จึงเป็นแบบสร้างคำ",
+      null,
+      "สร้างคำคุณศัพท์ใหม่ จึงเป็นแบบสร้างคำ"
+     ]
+    },
+    {
+     "id": "ENL231-U3-08",
+     "skill": "ENL231-U3",
+     "difficulty": 3,
+     "stem": "Which suffix changes the word class (part of speech)?",
+     "options": [
+      "-ly in 'quickly'",
+      "-s in 'books'",
+      "-ed in 'played'",
+      "-est in 'tallest'"
+     ],
+     "answer": 0,
+     "explanation_th": "quick เป็นคุณศัพท์ quickly เป็นกริยาวิเศษณ์",
+     "why_wrong": [
+      null,
+      "books ยังเป็นคำนาม แค่เป็นพหูพจน์",
+      "played ยังเป็นกริยา",
+      "tallest ยังเป็นคำคุณศัพท์"
+     ]
+    },
+    {
+     "id": "ENL231-U3-09",
+     "skill": "ENL231-U3",
+     "difficulty": 2,
+     "stem": "How many morphemes are in 'elephant'?",
+     "options": [
+      "two",
+      "one",
+      "three",
+      "four"
+     ],
+     "answer": 1,
+     "explanation_th": "el, e, phant ไม่มีความหมายแยก จึงเป็น 1 หน่วยคำ",
+     "why_wrong": [
+      "ไม่มีส่วนไหนแยกออกมามีความหมายได้",
+      null,
+      "elephant มี 3 พยางค์ แต่พยางค์ไม่ใช่หน่วยคำ",
+      "ไม่มีหลักให้แยกเป็น 4 ส่วน"
+     ]
+    }
+   ],
+   "say": [
+    "Unhappiness has three morphemes.",
+    "The prefix un- means not.",
+    "The suffix -ed shows the past tense."
+   ],
+   "task_th": "หาคำภาษาอังกฤษยาว ๆ 8 คำจากบทความหรือเพลงที่ชอบ แยกแต่ละคำเป็นหน่วยคำด้วยเครื่องหมาย + เช่น un + help + ful แล้วเขียนกำกับว่าแต่ละหน่วยเป็น free หรือ bound"
+  },
+  {
+   "id": "ENL231-U4",
+   "title_th": "วากยสัมพันธ์ โครงสร้างประโยค",
+   "title_en": "Syntax: Sentence Structure",
+   "covers": "ทฤษฎีเบื้องต้น",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "วากยสัมพันธ์ (syntax)",
+     "body_th": "ศึกษากฎการเรียงคำเป็นวลีและประโยค ประโยคบอกเล่าพื้นฐานของภาษาอังกฤษเรียงแบบ ประธาน กริยา กรรม (SVO) เหมือนภาษาไทย",
+     "example": "Nida (S) likes (V) coffee (O)."
+    },
+    {
+     "title_th": "วลีและคำหลัก",
+     "body_th": "วลีมีคำหลัก (head) ที่บอกชนิดของวลี",
+     "example": "noun phrase: the old red bus / verb phrase: ate some rice / prepositional phrase: on the table"
+    },
+    {
+     "title_th": "ส่วนประกอบ (constituent)",
+     "body_th": "กลุ่มคำที่ทำงานเป็นหน่วยเดียว ทดสอบได้โดยแทนด้วยคำสรรพนาม",
+     "example": "The tall boy kicked the ball. → He kicked it."
+    },
+    {
+     "title_th": "ถูกไวยากรณ์ ไม่เท่ากับ มีความหมาย",
+     "body_th": "ประโยคดังของ Chomsky Colorless green ideas sleep furiously โครงสร้างถูกแต่ความหมายแปลก ในภาษาศาสตร์ใส่ดอกจัน * หน้าประโยคที่ผิดไวยากรณ์",
+     "example": "*Green sleep ideas furiously colorless."
+    },
+    {
+     "title_th": "ความกำกวมเชิงโครงสร้าง",
+     "body_th": "ประโยคเดียวจัดกลุ่มคำได้ 2 แบบ จึงมี 2 ความหมาย แผนภูมิต้นไม้ (tree diagram) ช่วยแสดงความต่าง ส่วนคุณศัพท์ในภาษาอังกฤษมักอยู่หน้านาม แต่ในภาษาไทยอยู่หลัง",
+     "example": "I saw the man with the telescope. / a red car = รถสีแดง"
+    }
+   ],
+   "vocab": [
+    [
+     "syntax",
+     "วากยสัมพันธ์"
+    ],
+    [
+     "word order",
+     "ลำดับคำ"
+    ],
+    [
+     "subject",
+     "ประธาน"
+    ],
+    [
+     "object",
+     "กรรม"
+    ],
+    [
+     "phrase",
+     "วลี"
+    ],
+    [
+     "head",
+     "คำหลักของวลี"
+    ],
+    [
+     "constituent",
+     "ส่วนประกอบของประโยค"
+    ],
+    [
+     "grammatical",
+     "ถูกไวยากรณ์"
+    ],
+    [
+     "ambiguous",
+     "กำกวม"
+    ],
+    [
+     "tree diagram",
+     "แผนภูมิต้นไม้"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL231-U4-01",
+     "skill": "ENL231-U4",
+     "difficulty": 1,
+     "stem": "Syntax studies ____.",
+     "options": [
+      "how speech sounds are made",
+      "the meanings of single words only",
+      "how language is used in society",
+      "how words combine into phrases and sentences"
+     ],
+     "answer": 3,
+     "explanation_th": "syntax ศึกษาการเรียงคำเป็นโครงสร้างที่ใหญ่ขึ้น",
+     "why_wrong": [
+      "นั่นคือ phonetics",
+      "นั่นคือส่วนหนึ่งของ semantics",
+      "นั่นคือ sociolinguistics",
+      null
+     ]
+    },
+    {
+     "id": "ENL231-U4-02",
+     "skill": "ENL231-U4",
+     "difficulty": 1,
+     "stem": "What is the basic word order of an English statement like 'Nida likes coffee'?",
+     "options": [
+      "SOV (subject, object, verb)",
+      "VSO (verb, subject, object)",
+      "OVS (object, verb, subject)",
+      "SVO (subject, verb, object)"
+     ],
+     "answer": 3,
+     "explanation_th": "Nida (S) likes (V) coffee (O)",
+     "why_wrong": [
+      "เป็นลำดับของบางภาษา เช่น ญี่ปุ่น ไม่ใช่อังกฤษ",
+      "ประโยคบอกเล่าภาษาอังกฤษไม่ขึ้นต้นด้วยกริยา",
+      "ถ้าเรียงแบบนี้จะได้ coffee likes Nida ความหมายเปลี่ยน",
+      null
+     ]
+    },
+    {
+     "id": "ENL231-U4-03",
+     "skill": "ENL231-U4",
+     "difficulty": 2,
+     "stem": "In the phrase 'the old red bus,' the head word is ____.",
+     "options": [
+      "the",
+      "old",
+      "bus",
+      "red"
+     ],
+     "answer": 2,
+     "explanation_th": "bus เป็นคำนามหลัก วลีนี้จึงเป็นนามวลี",
+     "why_wrong": [
+      "เป็นคำนำหน้านาม ไม่ใช่แกนของวลี",
+      "เป็นคุณศัพท์ที่ขยายคำหลัก",
+      null,
+      "เป็นคุณศัพท์ที่ขยายคำหลัก"
+     ]
+    },
+    {
+     "id": "ENL231-U4-04",
+     "skill": "ENL231-U4",
+     "difficulty": 2,
+     "stem": "Which group of words is a prepositional phrase?",
+     "options": [
+      "a big dog",
+      "under the bed",
+      "ran quickly",
+      "very happy"
+     ],
+     "answer": 1,
+     "explanation_th": "ขึ้นต้นด้วยบุพบท under ตามด้วยนามวลี",
+     "why_wrong": [
+      "เป็นนามวลี",
+      null,
+      "เป็นกริยาวลี",
+      "เป็นคุณศัพท์วลี"
+     ]
+    },
+    {
+     "id": "ENL231-U4-05",
+     "skill": "ENL231-U4",
+     "difficulty": 2,
+     "stem": "The sentence 'Colorless green ideas sleep furiously' is ____.",
+     "options": [
+      "grammatical, but its meaning is strange",
+      "ungrammatical and meaningless",
+      "a normal sentence with a clear meaning",
+      "not an English sentence at all"
+     ],
+     "answer": 0,
+     "explanation_th": "ตัวอย่างนี้แสดงว่าโครงสร้างที่ถูกแยกจากความหมายได้",
+     "why_wrong": [
+      null,
+      "โครงสร้างถูกตามไวยากรณ์ คำแต่ละคำอยู่ถูกตำแหน่ง",
+      "ความคิดไม่มีสีและนอนไม่ได้ ความหมายจึงแปลก",
+      "เป็นคำภาษาอังกฤษเรียงตามกฎภาษาอังกฤษ"
+     ]
+    },
+    {
+     "id": "ENL231-U4-06",
+     "skill": "ENL231-U4",
+     "difficulty": 3,
+     "stem": "'I saw the man with the telescope.' Why is this sentence ambiguous?",
+     "options": [
+      "It has a spelling mistake.",
+      "It has no verb.",
+      "It uses the wrong tense.",
+      "'With the telescope' can describe how I saw or which man I saw."
+     ],
+     "answer": 3,
+     "explanation_th": "วลีบุพบทเกาะได้ 2 ที่ ทำให้มี 2 ความหมาย",
+     "why_wrong": [
+      "ไม่มีคำสะกดผิด",
+      "มีกริยา saw",
+      "past simple ถูกต้องแล้ว",
+      null
+     ]
+    },
+    {
+     "id": "ENL231-U4-07",
+     "skill": "ENL231-U4",
+     "difficulty": 2,
+     "stem": "Which phrase has the correct English word order?",
+     "options": [
+      "a beautiful blue dress",
+      "a dress blue beautiful",
+      "a blue beautiful dress",
+      "dress a beautiful blue"
+     ],
+     "answer": 0,
+     "explanation_th": "a + ความเห็น + สี + คำนาม",
+     "why_wrong": [
+      null,
+      "ภาษาอังกฤษวางคุณศัพท์หน้าคำนาม ไม่ใช่หลัง",
+      "คุณศัพท์บอกความเห็น (beautiful) ต้องมาก่อนคุณศัพท์บอกสี",
+      "คำนำหน้านาม a ต้องอยู่ต้นวลี"
+     ]
+    },
+    {
+     "id": "ENL231-U4-08",
+     "skill": "ENL231-U4",
+     "difficulty": 2,
+     "stem": "In 'The tall boy kicked the ball,' which words can be replaced by 'He'?",
+     "options": [
+      "tall boy kicked",
+      "kicked the ball",
+      "The tall boy",
+      "the ball"
+     ],
+     "answer": 2,
+     "explanation_th": "นามวลีประธาน The tall boy เป็น constituent เดียว แทนด้วย He ได้",
+     "why_wrong": [
+      "ข้ามขอบเขตวลี ไม่ใช่หน่วยเดียวกัน",
+      "เป็นกริยาวลี แทนด้วย he ไม่ได้",
+      null,
+      "เป็นกรรม แทนด้วย it ไม่ใช่ he"
+     ]
+    },
+    {
+     "id": "ENL231-U4-09",
+     "skill": "ENL231-U4",
+     "difficulty": 2,
+     "stem": "In linguistics books, what does a star (*) before a sentence mean?",
+     "options": [
+      "The sentence is very important.",
+      "The sentence is ungrammatical.",
+      "The sentence is a quotation.",
+      "The sentence is in the past tense."
+     ],
+     "answer": 1,
+     "explanation_th": "นักภาษาศาสตร์ใช้ * บอกว่าเจ้าของภาษาไม่ยอมรับประโยคนี้",
+     "why_wrong": [
+      "ดอกจันในภาษาศาสตร์ไม่ได้บอกความสำคัญ",
+      null,
+      "คำพูดที่ยกมาใช้เครื่องหมายคำพูด",
+      "ดอกจันไม่ได้บอกกาล"
+     ]
+    },
+    {
+     "id": "ENL231-U4-10",
+     "skill": "ENL231-U4",
+     "difficulty": 1,
+     "stem": "In English, adjectives usually come ____ the noun, but in Thai they usually come after it.",
+     "options": [
+      "after",
+      "at the end of the sentence, far from",
+      "only in questions, not before",
+      "before"
+     ],
+     "answer": 3,
+     "explanation_th": "a red car คุณศัพท์อยู่หน้านาม",
+     "why_wrong": [
+      "นั่นคือลำดับของภาษาไทย เช่น รถสีแดง",
+      "คุณศัพท์ขยายนามมักอยู่ติดคำนาม",
+      "ลำดับนี้ใช้กับประโยคทุกแบบ ไม่ใช่เฉพาะคำถาม",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "English uses subject, verb, object order.",
+    "The head of this phrase is the noun.",
+    "This sentence is ambiguous because it has two meanings."
+   ],
+   "task_th": "เขียนประโยคภาษาอังกฤษ 5 ประโยคเกี่ยวกับวันนี้ แล้ววงประธาน ขีดเส้นใต้กริยา และใส่วงเล็บรอบวลีบุพบท จากนั้นแปลเป็นไทย 1 ประโยคแล้วดูว่าคุณศัพท์ย้ายตำแหน่งอย่างไร"
+  },
+  {
+   "id": "ENL231-U5",
+   "title_th": "อรรถศาสตร์และวัจนปฏิบัติศาสตร์",
+   "title_en": "Semantics and Pragmatics",
+   "covers": "ทฤษฎีเบื้องต้น",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "ความหมาย 2 ชั้น",
+     "body_th": "อรรถศาสตร์ (semantics) ศึกษาความหมายของคำและประโยคตามตัว วัจนปฏิบัติศาสตร์ (pragmatics) ศึกษาความหมายที่ผู้พูดตั้งใจในบริบท"
+    },
+    {
+     "title_th": "ความสัมพันธ์ของคำ",
+     "body_th": "คำพ้องความหมาย (synonym) big/large / คำตรงข้าม (antonym) hot/cold / คำลูกกลุ่ม (hyponym) rose เป็นชนิดหนึ่งของ flower / คำพ้องรูปพ้องเสียง (homonym) bank ธนาคาร กับ bank ตลิ่ง ความหมายไม่เกี่ยวกัน / คำหลายความหมาย (polysemy) head ของคนกับ head ของบริษัท ความหมายเกี่ยวกัน"
+    },
+    {
+     "title_th": "คำตรงข้าม 2 แบบ",
+     "body_th": "แบบมีระดับ (gradable) hot/cold มี warm, cool ตรงกลาง แบบเติมเต็มกัน (complementary) alive/dead ไม่มีตรงกลาง"
+    },
+    {
+     "title_th": "คำบ่งชี้ (deixis)",
+     "body_th": "คำที่ความหมายขึ้นกับว่าใครพูด ที่ไหน เมื่อไร",
+     "example": "I, you, here, there, now, tomorrow"
+    },
+    {
+     "title_th": "พูดอย่างหนึ่ง หมายอีกอย่าง",
+     "body_th": "Can you pass the salt? ไม่ได้ถามความสามารถ แต่เป็นการขอร้องอ้อม ๆ ความหมายที่ผู้ฟังอนุมานเอาเองเรียกว่า implicature",
+     "example": "A: Are you coming? B: I have an exam tomorrow. (= probably not)"
+    }
+   ],
+   "vocab": [
+    [
+     "semantics",
+     "อรรถศาสตร์"
+    ],
+    [
+     "pragmatics",
+     "วัจนปฏิบัติศาสตร์"
+    ],
+    [
+     "synonym",
+     "คำพ้องความหมาย"
+    ],
+    [
+     "antonym",
+     "คำตรงข้าม"
+    ],
+    [
+     "hyponym",
+     "คำลูกกลุ่ม"
+    ],
+    [
+     "homonym",
+     "คำพ้องรูปพ้องเสียง"
+    ],
+    [
+     "polysemy",
+     "คำหลายความหมาย"
+    ],
+    [
+     "deixis",
+     "คำบ่งชี้"
+    ],
+    [
+     "implicature",
+     "ความหมายแฝงที่อนุมานได้"
+    ],
+    [
+     "context",
+     "บริบท"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL231-U5-01",
+     "skill": "ENL231-U5",
+     "difficulty": 1,
+     "stem": "'Big' and 'large' are ____.",
+     "options": [
+      "antonyms",
+      "hyponyms",
+      "synonyms",
+      "homonyms"
+     ],
+     "answer": 2,
+     "explanation_th": "ทั้ง 2 คำแปลว่าใหญ่",
+     "why_wrong": [
+      "antonym มีความหมายตรงข้าม",
+      "hyponym คือคำที่เป็นชนิดย่อยของอีกคำ",
+      null,
+      "homonym สะกดและออกเสียงเหมือนกันแต่ความหมายไม่เกี่ยวกัน"
+     ]
+    },
+    {
+     "id": "ENL231-U5-02",
+     "skill": "ENL231-U5",
+     "difficulty": 2,
+     "stem": "A rose is a kind of flower. So 'rose' is a ____ of 'flower.'",
+     "options": [
+      "hyponym",
+      "synonym",
+      "antonym",
+      "homophone"
+     ],
+     "answer": 0,
+     "explanation_th": "rose อยู่ในกลุ่มของ flower จึงเป็นคำลูกกลุ่ม",
+     "why_wrong": [
+      null,
+      "rose กับ flower ไม่ได้ความหมายเท่ากัน ดอกไม้มีหลายชนิด",
+      "ไม่ได้มีความหมายตรงข้าม",
+      "homophone คือคำที่ออกเสียงเหมือนกัน"
+     ]
+    },
+    {
+     "id": "ENL231-U5-03",
+     "skill": "ENL231-U5",
+     "difficulty": 2,
+     "stem": "Which pair is a gradable antonym pair?",
+     "options": [
+      "alive / dead",
+      "hot / cold",
+      "big / large",
+      "pass / fail"
+     ],
+     "answer": 1,
+     "explanation_th": "มี warm, cool อยู่ระหว่าง hot กับ cold จึงมีระดับ",
+     "why_wrong": [
+      "เป็นแบบเติมเต็มกัน ไม่มีสภาพตรงกลาง",
+      null,
+      "เป็นคำพ้องความหมาย ไม่ใช่คำตรงข้าม",
+      "ในการสอบหนึ่งครั้ง ผ่านหรือตกอย่างใดอย่างหนึ่ง จึงเป็นแบบเติมเต็มกัน"
+     ]
+    },
+    {
+     "id": "ENL231-U5-04",
+     "skill": "ENL231-U5",
+     "difficulty": 2,
+     "stem": "'Bank' (a place for money) and 'bank' (the side of a river) are ____.",
+     "options": [
+      "homonyms",
+      "synonyms",
+      "hyponyms",
+      "gradable antonyms"
+     ],
+     "answer": 0,
+     "explanation_th": "รูปและเสียงเหมือนกัน แต่ความหมายไม่เกี่ยวกัน",
+     "why_wrong": [
+      null,
+      "ความหมายไม่เหมือนกัน",
+      "ไม่ได้เป็นชนิดย่อยของกันและกัน",
+      "ไม่ได้มีความหมายตรงข้าม"
+     ]
+    },
+    {
+     "id": "ENL231-U5-05",
+     "skill": "ENL231-U5",
+     "difficulty": 2,
+     "stem": "Which area studies meaning that depends on context and the speaker's intention?",
+     "options": [
+      "phonology",
+      "pragmatics",
+      "morphology",
+      "syntax"
+     ],
+     "answer": 1,
+     "explanation_th": "pragmatics ศึกษาความหมายที่ผู้พูดตั้งใจในสถานการณ์จริง",
+     "why_wrong": [
+      "ศึกษาระบบเสียง",
+      null,
+      "ศึกษาโครงสร้างคำ",
+      "ศึกษาโครงสร้างประโยค"
+     ]
+    },
+    {
+     "id": "ENL231-U5-06",
+     "skill": "ENL231-U5",
+     "difficulty": 3,
+     "stem": "At dinner, Mai asks her brother, 'Can you pass the salt?' What does she most likely mean?",
+     "options": [
+      "Are you strong enough to lift the salt?",
+      "Do you like salty food?",
+      "Please give me the salt.",
+      "Is there any salt in the kitchen?"
+     ],
+     "answer": 2,
+     "explanation_th": "เป็นการขอร้องอ้อม ๆ (indirect request)",
+     "why_wrong": [
+      "เป็นความหมายตามตัวอักษร แต่ในบริบทนี้ไม่มีใครถามแบบนั้น",
+      "ไม่ได้ถามความชอบ",
+      null,
+      "เกลืออยู่บนโต๊ะแล้ว และประโยคไม่ได้ถามเรื่องนี้"
+     ]
+    },
+    {
+     "id": "ENL231-U5-07",
+     "skill": "ENL231-U5",
+     "difficulty": 2,
+     "stem": "Which word is deictic (its meaning depends on who says it, where or when)?",
+     "options": [
+      "elephant",
+      "Thailand",
+      "water",
+      "tomorrow"
+     ],
+     "answer": 3,
+     "explanation_th": "tomorrow ของวันจันทร์กับวันศุกร์เป็นคนละวัน",
+     "why_wrong": [
+      "ความหมายคงที่ไม่ว่าใครพูด",
+      "ชื่อเฉพาะชี้ประเทศเดิมเสมอ",
+      "ความหมายคงที่ไม่ขึ้นกับเวลาที่พูด",
+      null
+     ]
+    },
+    {
+     "id": "ENL231-U5-08",
+     "skill": "ENL231-U5",
+     "difficulty": 3,
+     "stem": "A: 'Are you coming to the party tonight?' B: 'I have an exam tomorrow morning.' What does B most likely mean?",
+     "options": [
+      "B is probably not coming to the party.",
+      "B loves exams.",
+      "B is asking what time the party starts.",
+      "B will come to the party early."
+     ],
+     "answer": 0,
+     "explanation_th": "ผู้ฟังอนุมานจากบริบทว่า B ต้องอ่านหนังสือ จึงน่าจะไม่มา (implicature)",
+     "why_wrong": [
+      null,
+      "ไม่มีข้อมูลเรื่องความชอบ",
+      "B ไม่ได้ถามอะไร",
+      "การมีสอบเช้าทำให้ตีความว่าไม่มามากกว่า"
+     ]
+    },
+    {
+     "id": "ENL231-U5-09",
+     "skill": "ENL231-U5",
+     "difficulty": 2,
+     "stem": "'Head' in 'the head of a person' and 'the head of a company' has two related meanings. This is ____.",
+     "options": [
+      "antonymy",
+      "hyponymy",
+      "polysemy",
+      "synonymy"
+     ],
+     "answer": 2,
+     "explanation_th": "คำเดียวมีหลายความหมายที่เกี่ยวกัน (ส่วนบนสุด ผู้นำ)",
+     "why_wrong": [
+      "ไม่ได้มีความหมายตรงข้าม",
+      "ไม่ได้เป็นชนิดย่อยของกันและกัน",
+      null,
+      "synonymy คือ 2 คำต่างรูปที่ความหมายเหมือนกัน ไม่ใช่คำเดียวที่มีหลายความหมาย"
+     ]
+    }
+   ],
+   "say": [
+    "Big and large are synonyms.",
+    "Can you open the window? This is a polite request.",
+    "The meaning of here and now depends on context."
+   ],
+   "task_th": "จดประโยคที่คนรอบตัวพูดวันนี้ 3 ประโยคที่ความหมายจริงไม่ตรงกับตัวอักษร เช่น ร้อนจังเลย ที่แปลว่าเปิดแอร์หน่อย เขียนความหมายตามตัวและความหมายที่ตั้งใจเป็นภาษาอังกฤษ แล้วหาคู่ synonym กับ antonym อย่างละ 3 คู่"
+  },
+  {
+   "id": "ENL231-U6",
+   "title_th": "สาขาที่เกี่ยวข้องกับภาษาศาสตร์",
+   "title_en": "Related Fields of Linguistics",
+   "covers": "สาขาที่เกี่ยวข้องกับภาษาศาสตร์ภาษาอังกฤษ",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "ภาษาศาสตร์สังคม (sociolinguistics)",
+     "body_th": "ศึกษาภาษากับสังคม ภาษาต่างกันตามภูมิภาค อายุ กลุ่มคน และสถานการณ์ รวมถึงการสลับภาษา (code-switching) เช่น พูดไทยปนอังกฤษ ปี 3 จะมีวิชา ENL432 Sociolinguistics ต่อยอด"
+    },
+    {
+     "title_th": "ภาษาศาสตร์จิตวิทยา (psycholinguistics)",
+     "body_th": "ศึกษาว่าสมองและจิตใจเข้าใจ ผลิต และจำภาษาอย่างไร เช่น ทำไมเรานึกคำไม่ออกทั้งที่รู้ว่ารู้ (tip of the tongue)"
+    },
+    {
+     "title_th": "การรับภาษา (language acquisition)",
+     "body_th": "เด็กเรียนภาษาแรกเป็นขั้น ส่งเสียงอ้อแอ้ (babbling) คำเดียว แล้ว 2 คำ เด็กพูด goed หรือ foots เพราะใช้กฎเกินขอบเขต (overgeneralization) แสดงว่าเด็กสร้างกฎเอง ไม่ได้แค่เลียนแบบ การเรียนภาษาที่สองเรียกว่า second language acquisition (SLA)"
+    },
+    {
+     "title_th": "ภาษาศาสตร์ประยุกต์ (applied linguistics)",
+     "body_th": "นำความรู้ภาษาศาสตร์ไปแก้ปัญหาจริง เช่น การสอนภาษา การวัดผล การแปล และการทำพจนานุกรม"
+    },
+    {
+     "title_th": "ภาษาศาสตร์เชิงประวัติ (historical linguistics)",
+     "body_th": "ศึกษาภาษาที่เปลี่ยนตามเวลา ภาษาอังกฤษแบ่งคร่าว ๆ เป็น Old English (ราว ค.ศ. 450 ถึง 1100) Middle English (ราว 1100 ถึง 1500) และ Modern English (ราว 1500 ถึงปัจจุบัน)"
+    }
+   ],
+   "vocab": [
+    [
+     "sociolinguistics",
+     "ภาษาศาสตร์สังคม"
+    ],
+    [
+     "psycholinguistics",
+     "ภาษาศาสตร์จิตวิทยา"
+    ],
+    [
+     "language acquisition",
+     "การรับภาษา"
+    ],
+    [
+     "second language acquisition (SLA)",
+     "การรับภาษาที่สอง"
+    ],
+    [
+     "applied linguistics",
+     "ภาษาศาสตร์ประยุกต์"
+    ],
+    [
+     "historical linguistics",
+     "ภาษาศาสตร์เชิงประวัติ"
+    ],
+    [
+     "code-switching",
+     "การสลับภาษา"
+    ],
+    [
+     "overgeneralization",
+     "การใช้กฎเกินขอบเขต"
+    ],
+    [
+     "babbling",
+     "การส่งเสียงอ้อแอ้ของทารก"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL231-U6-01",
+     "skill": "ENL231-U6",
+     "difficulty": 1,
+     "stem": "Which field studies how language and society affect each other?",
+     "options": [
+      "psycholinguistics",
+      "phonetics",
+      "morphology",
+      "sociolinguistics"
+     ],
+     "answer": 3,
+     "explanation_th": "socio มาจากสังคม",
+     "why_wrong": [
+      "ศึกษาภาษากับจิตใจและสมอง",
+      "ศึกษาเสียงพูด",
+      "ศึกษาโครงสร้างคำ",
+      null
+     ]
+    },
+    {
+     "id": "ENL231-U6-02",
+     "skill": "ENL231-U6",
+     "difficulty": 1,
+     "stem": "Which field studies how the mind and brain process language?",
+     "options": [
+      "sociolinguistics",
+      "psycholinguistics",
+      "historical linguistics",
+      "semantics"
+     ],
+     "answer": 1,
+     "explanation_th": "psycho มาจากจิตใจ",
+     "why_wrong": [
+      "ศึกษาภาษากับสังคม",
+      null,
+      "ศึกษาการเปลี่ยนแปลงของภาษาตามเวลา",
+      "ศึกษาความหมาย ไม่ได้เน้นการทำงานของสมอง"
+     ]
+    },
+    {
+     "id": "ENL231-U6-03",
+     "skill": "ENL231-U6",
+     "difficulty": 2,
+     "stem": "A three-year-old says, 'I goed to the park.' This shows ____.",
+     "options": [
+      "that the child copied the word from adults",
+      "overgeneralization of the past tense rule",
+      "that the child has a hearing problem",
+      "code-switching"
+     ],
+     "answer": 1,
+     "explanation_th": "เด็กใช้กฎเติม -ed กับกริยาอปกติ แสดงว่าสร้างกฎเอง",
+     "why_wrong": [
+      "ผู้ใหญ่ไม่พูด goed เด็กจึงไม่ได้เลียนแบบ",
+      null,
+      "เป็นขั้นปกติของพัฒนาการภาษา ไม่ใช่ปัญหาการได้ยิน",
+      "ไม่ได้สลับระหว่าง 2 ภาษา"
+     ]
+    },
+    {
+     "id": "ENL231-U6-04",
+     "skill": "ENL231-U6",
+     "difficulty": 2,
+     "stem": "A Thai student says, 'พรุ่งนี้มี meeting นะ อย่าลืม present ด้วย.' This is ____.",
+     "options": [
+      "code-switching",
+      "overgeneralization",
+      "babbling",
+      "a minimal pair"
+     ],
+     "answer": 0,
+     "explanation_th": "สลับไทยกับอังกฤษในประโยคเดียว",
+     "why_wrong": [
+      null,
+      "ไม่ได้ใช้กฎผิดขอบเขต",
+      "babbling เป็นเสียงอ้อแอ้ของทารก",
+      "minimal pair คือคู่คำที่ต่างกันเสียงเดียว"
+     ]
+    },
+    {
+     "id": "ENL231-U6-05",
+     "skill": "ENL231-U6",
+     "difficulty": 2,
+     "stem": "Which field is most directly about finding better ways to teach English to Thai students?",
+     "options": [
+      "historical linguistics",
+      "semantics",
+      "morphology",
+      "applied linguistics"
+     ],
+     "answer": 3,
+     "explanation_th": "การสอนภาษาเป็นงานหลักของภาษาศาสตร์ประยุกต์",
+     "why_wrong": [
+      "ศึกษาภาษาในอดีต ไม่ได้มุ่งที่วิธีสอน",
+      "ศึกษาความหมาย ไม่ได้มุ่งแก้ปัญหาการสอน",
+      "ศึกษาโครงสร้างคำ ไม่ได้มุ่งที่วิธีสอน",
+      null
+     ]
+    },
+    {
+     "id": "ENL231-U6-06",
+     "skill": "ENL231-U6",
+     "difficulty": 2,
+     "stem": "Which field studies how English changed from Old English to Modern English?",
+     "options": [
+      "pragmatics",
+      "psycholinguistics",
+      "historical linguistics",
+      "phonetics"
+     ],
+     "answer": 2,
+     "explanation_th": "historical ศึกษาการเปลี่ยนแปลงของภาษาตามเวลา",
+     "why_wrong": [
+      "ศึกษาความหมายตามบริบท",
+      "ศึกษาภาษากับจิตใจ",
+      null,
+      "ศึกษาเสียงพูด ไม่ได้เน้นการเปลี่ยนแปลงข้ามยุค"
+     ]
+    },
+    {
+     "id": "ENL231-U6-07",
+     "skill": "ENL231-U6",
+     "difficulty": 1,
+     "stem": "Babies make sounds like 'ba-ba-ba' before their first words. This stage is called ____.",
+     "options": [
+      "the two-word stage",
+      "babbling",
+      "code-switching",
+      "overgeneralization"
+     ],
+     "answer": 1,
+     "explanation_th": "babbling เป็นเสียงอ้อแอ้ก่อนพูดเป็นคำ",
+     "why_wrong": [
+      "เกิดหลังขั้นคำเดียว เด็กพูดเป็นคำจริงแล้ว",
+      null,
+      "เป็นการสลับภาษา",
+      "เกิดตอนเด็กใช้กฎไวยากรณ์แล้ว"
+     ]
+    },
+    {
+     "id": "ENL231-U6-08",
+     "skill": "ENL231-U6",
+     "difficulty": 1,
+     "stem": "Which shows the correct order of the history of English?",
+     "options": [
+      "Modern English, Old English, Middle English",
+      "Middle English, Old English, Modern English",
+      "Old English, Middle English, Modern English",
+      "Old English, Modern English, Middle English"
+     ],
+     "answer": 2,
+     "explanation_th": "เก่า กลาง แล้วสมัยใหม่",
+     "why_wrong": [
+      "Modern English เป็นยุคล่าสุด",
+      "Old English มาก่อน Middle English",
+      null,
+      "Middle English อยู่ระหว่าง Old กับ Modern"
+     ]
+    },
+    {
+     "id": "ENL231-U6-09",
+     "skill": "ENL231-U6",
+     "difficulty": 3,
+     "stem": "A researcher records how young people in Bangkok and in Chiang Mai speak Thai differently. This study belongs mainly to ____.",
+     "options": [
+      "psycholinguistics",
+      "historical linguistics",
+      "morphology",
+      "sociolinguistics"
+     ],
+     "answer": 3,
+     "explanation_th": "ความต่างตามภูมิภาคและกลุ่มคนเป็นเรื่องของภาษาศาสตร์สังคม",
+     "why_wrong": [
+      "ไม่ได้ศึกษาการทำงานของสมอง",
+      "เทียบภาษาในปัจจุบันระหว่างพื้นที่ ไม่ได้เทียบข้ามยุค",
+      "ไม่ได้เน้นโครงสร้างคำ",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "Sociolinguistics studies language and society.",
+    "Children say goed because they learn rules.",
+    "I often code-switch between Thai and English."
+   ],
+   "task_th": "ฟังคลิปหรือคุยกับเพื่อน 10 นาที จดประโยคที่สลับไทยกับอังกฤษให้ได้ 5 ประโยค แล้วเขียนกำกับว่าแต่ละประโยคน่าจะอยู่ในสาขาไหนถ้าจะเอาไปศึกษาต่อ พร้อมเหตุผลสั้น ๆ เป็นภาษาอังกฤษ"
+  },
+  {
+   "id": "ENL231-U7",
+   "title_th": "ความแปรและการเปลี่ยนแปลงของภาษา",
+   "title_en": "Language Variation and Change",
+   "covers": "สาขาที่เกี่ยวข้องกับภาษาศาสตร์ภาษาอังกฤษ",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "ความแปร (variation)",
+     "body_th": "ภาษาเดียวต่างกันตามพื้นที่ (regional dialect) กลุ่มคน (social dialect) และสถานการณ์ (register) สำเนียง (accent) ต่างแค่การออกเสียง ภาษาถิ่น (dialect) ต่างทั้งเสียง คำ และไวยากรณ์"
+    },
+    {
+     "title_th": "ภาษาอังกฤษหลายแบบ",
+     "body_th": "อังกฤษแบบอเมริกันกับบริติชต่างกันทั้งตัวสะกดและคำ ทางภาษาศาสตร์ไม่มีภาษาถิ่นไหนผิด ทุกแบบมีกฎของตัวเอง",
+     "example": "color / colour, apartment / flat, truck / lorry"
+    },
+    {
+     "title_th": "ความหมายเปลี่ยน",
+     "body_th": "ความหมายแคบลง (narrowing) meat เคยหมายถึงอาหารทั่วไป ความหมายกว้างขึ้นหรือได้ความหมายใหม่ mouse ได้ความหมายอุปกรณ์คอมพิวเตอร์ ส่วน nice ใน Middle English เคยแปลว่าโง่"
+    },
+    {
+     "title_th": "คำใหม่มาจากไหน",
+     "body_th": "ยืม (borrowing) tsunami, karaoke จากญี่ปุ่น / ผสม (blending) brunch = breakfast + lunch / ตัด (clipping) phone จาก telephone / อักษรย่อ (acronym) NASA"
+    },
+    {
+     "title_th": "เหตุการณ์สำคัญ",
+     "body_th": "ค.ศ. 1066 ชาวนอร์มันพิชิตอังกฤษ (Norman Conquest) ทำให้คำฝรั่งเศสเข้ามามาก เช่น beef, pork, court และการเลื่อนสระครั้งใหญ่ (Great Vowel Shift) ราว ค.ศ. 1400 ถึง 1700 เปลี่ยนเสียงสระยาว เป็นเหตุผลหนึ่งที่ตัวสะกดอังกฤษไม่ตรงเสียง"
+    }
+   ],
+   "vocab": [
+    [
+     "variation",
+     "ความแปร"
+    ],
+    [
+     "dialect",
+     "ภาษาถิ่น"
+    ],
+    [
+     "accent",
+     "สำเนียง"
+    ],
+    [
+     "register",
+     "ระดับภาษาตามสถานการณ์"
+    ],
+    [
+     "borrowing",
+     "การยืมคำ"
+    ],
+    [
+     "blending",
+     "การผสมคำ"
+    ],
+    [
+     "clipping",
+     "การตัดคำ"
+    ],
+    [
+     "acronym",
+     "อักษรย่อที่อ่านเป็นคำ"
+    ],
+    [
+     "semantic change",
+     "การเปลี่ยนความหมาย"
+    ],
+    [
+     "narrowing",
+     "ความหมายแคบลง"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL231-U7-01",
+     "skill": "ENL231-U7",
+     "difficulty": 1,
+     "stem": "'Brunch' comes from 'breakfast' + 'lunch.' This way of making words is ____.",
+     "options": [
+      "blending",
+      "clipping",
+      "borrowing",
+      "acronym"
+     ],
+     "answer": 0,
+     "explanation_th": "นำส่วนของ 2 คำมาผสมกัน",
+     "why_wrong": [
+      null,
+      "clipping ตัดคำเดียวให้สั้น ไม่ได้ผสม 2 คำ",
+      "ไม่ได้ยืมมาจากภาษาอื่น",
+      "ไม่ได้เกิดจากอักษรตัวแรกของหลายคำ"
+     ]
+    },
+    {
+     "id": "ENL231-U7-02",
+     "skill": "ENL231-U7",
+     "difficulty": 1,
+     "stem": "'Phone' comes from 'telephone.' This is ____.",
+     "options": [
+      "blending",
+      "borrowing",
+      "clipping",
+      "compounding"
+     ],
+     "answer": 2,
+     "explanation_th": "ตัดส่วนหน้าของคำเดิมออก",
+     "why_wrong": [
+      "ไม่ได้ผสม 2 คำ",
+      "ไม่ได้ยืมจากภาษาอื่น",
+      null,
+      "compounding คือการรวม 2 คำเต็ม เช่น bedroom"
+     ]
+    },
+    {
+     "id": "ENL231-U7-03",
+     "skill": "ENL231-U7",
+     "difficulty": 2,
+     "stem": "English took the word 'tsunami' from Japanese. This is ____.",
+     "options": [
+      "borrowing",
+      "clipping",
+      "blending",
+      "narrowing"
+     ],
+     "answer": 0,
+     "explanation_th": "รับคำจากภาษาอื่นมาใช้ เหมือนที่ไทยยืมคำว่า คอมพิวเตอร์",
+     "why_wrong": [
+      null,
+      "ไม่ได้ตัดคำให้สั้น",
+      "ไม่ได้ผสม 2 คำ",
+      "narrowing คือความหมายแคบลง ไม่ใช่การรับคำเข้ามา"
+     ]
+    },
+    {
+     "id": "ENL231-U7-04",
+     "skill": "ENL231-U7",
+     "difficulty": 2,
+     "stem": "What is the difference between an accent and a dialect?",
+     "options": [
+      "A dialect is only about pronunciation; an accent also includes words and grammar.",
+      "An accent is only about pronunciation; a dialect also includes words and grammar.",
+      "They mean exactly the same thing.",
+      "An accent is written, but a dialect is spoken."
+     ],
+     "answer": 1,
+     "explanation_th": "สำเนียงเป็นส่วนหนึ่งของภาษาถิ่น",
+     "why_wrong": [
+      "สลับกัน dialect ครอบคลุมกว้างกว่า",
+      null,
+      "นักภาษาศาสตร์แยก 2 คำนี้",
+      "ทั้งคู่ไม่ได้แยกกันด้วยการเขียนหรือการพูด"
+     ]
+    },
+    {
+     "id": "ENL231-U7-05",
+     "skill": "ENL231-U7",
+     "difficulty": 2,
+     "stem": "'Apartment' in American English and 'flat' in British English show ____.",
+     "options": [
+      "a spelling mistake",
+      "a change in grammar over 1,000 years",
+      "code-switching",
+      "regional variation in vocabulary"
+     ],
+     "answer": 3,
+     "explanation_th": "ภาษาเดียวกันใช้คำต่างกันตามประเทศ",
+     "why_wrong": [
+      "ทั้ง 2 คำสะกดถูกในแบบของตัวเอง",
+      "เป็นความต่างระหว่างพื้นที่ในปัจจุบัน ไม่ใช่การเปลี่ยนตามยุค",
+      "ไม่ได้สลับระหว่าง 2 ภาษา",
+      null
+     ]
+    },
+    {
+     "id": "ENL231-U7-06",
+     "skill": "ENL231-U7",
+     "difficulty": 3,
+     "stem": "In Old English, 'mete' (meat) meant any kind of food. Today 'meat' means only animal flesh as food. This change is ____.",
+     "options": [
+      "broadening",
+      "borrowing",
+      "narrowing",
+      "blending"
+     ],
+     "answer": 2,
+     "explanation_th": "จากอาหารทุกชนิด เหลือแค่เนื้อสัตว์ ความหมายแคบลง",
+     "why_wrong": [
+      "broadening คือความหมายกว้างขึ้น แต่ตรงนี้แคบลง",
+      "meat เป็นคำดั้งเดิมของอังกฤษ ไม่ได้ยืมมา",
+      null,
+      "ไม่ได้ผสม 2 คำ"
+     ]
+    },
+    {
+     "id": "ENL231-U7-07",
+     "skill": "ENL231-U7",
+     "difficulty": 2,
+     "stem": "After 1066, many French words entered English, such as 'beef' and 'court.' Which event caused this?",
+     "options": [
+      "the Great Vowel Shift",
+      "the Norman Conquest",
+      "the invention of the internet",
+      "the American Revolution"
+     ],
+     "answer": 1,
+     "explanation_th": "ชาวนอร์มันที่พูดฝรั่งเศสปกครองอังกฤษหลังปี 1066",
+     "why_wrong": [
+      "เป็นการเปลี่ยนเสียงสระ ไม่ได้นำคำฝรั่งเศสเข้ามา",
+      null,
+      "เกิดหลังปี 1066 เกือบพันปี",
+      "เกิดในศตวรรษที่ 18 ไม่ใช่ปี 1066"
+     ]
+    },
+    {
+     "id": "ENL231-U7-08",
+     "skill": "ENL231-U7",
+     "difficulty": 2,
+     "stem": "Which statement fits a descriptive linguist's view of dialects?",
+     "options": [
+      "Every dialect has its own regular rules.",
+      "Only the dialect on TV news is correct.",
+      "Rural dialects have no grammar.",
+      "Dialects are mistakes that should disappear."
+     ],
+     "answer": 0,
+     "explanation_th": "แนวบรรยายมองว่าทุกภาษาถิ่นเป็นระบบที่มีกฎ",
+     "why_wrong": [
+      null,
+      "เป็นการตัดสินแบบกำหนด ไม่ใช่มุมมองแบบบรรยาย",
+      "ทุกภาษาถิ่นมีไวยากรณ์ที่เป็นระบบ",
+      "เป็นการตัดสินคุณค่า ไม่ตรงกับแนวบรรยาย"
+     ]
+    },
+    {
+     "id": "ENL231-U7-09",
+     "skill": "ENL231-U7",
+     "difficulty": 3,
+     "stem": "The Great Vowel Shift is one reason why ____.",
+     "options": [
+      "English has no tones",
+      "English uses SVO word order",
+      "English borrowed 'tsunami' from Japanese",
+      "English spelling often does not match its pronunciation"
+     ],
+     "answer": 3,
+     "explanation_th": "เสียงสระเปลี่ยนแต่ตัวสะกดหลายคำยังคงแบบเดิม",
+     "why_wrong": [
+      "การไม่มีวรรณยุกต์ไม่ได้เกิดจากการเลื่อนสระ",
+      "ลำดับคำเป็นเรื่องวากยสัมพันธ์ ไม่เกี่ยวกับการเลื่อนสระ",
+      "เป็นการยืมคำในยุคหลัง ไม่เกี่ยวกับการเลื่อนสระ",
+      null
+     ]
+    },
+    {
+     "id": "ENL231-U7-10",
+     "skill": "ENL231-U7",
+     "difficulty": 2,
+     "stem": "Which word is an acronym?",
+     "options": [
+      "smog",
+      "exam",
+      "NASA",
+      "karaoke"
+     ],
+     "answer": 2,
+     "explanation_th": "NASA มาจากอักษรตัวแรกของหลายคำแล้วอ่านเป็นคำ",
+     "why_wrong": [
+      "เป็นการผสม smoke + fog",
+      "เป็นการตัดจาก examination",
+      null,
+      "เป็นคำยืมจากภาษาญี่ปุ่น"
+     ]
+    }
+   ],
+   "say": [
+    "British people say flat, and Americans say apartment.",
+    "Brunch is a blend of breakfast and lunch.",
+    "English borrowed many words from French after 1066."
+   ],
+   "task_th": "หาคำภาษาอังกฤษใหม่ ๆ ที่คุณใช้ในโซเชียล 6 คำ แยกว่าแต่ละคำเกิดจากการยืม ผสม ตัด หรืออักษรย่อ แล้วหาคำยืมภาษาอังกฤษในภาษาไทย 4 คำ เขียนเป็นตาราง 2 ช่อง"
+  }
+ ]
+}

@@ -1,0 +1,1745 @@
+{
+  "code": "ENL232",
+  "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+  "in_class_th": [
+    "น่าจะได้เรียนสัทอักษร (IPA) และถอดเสียงคำง่าย ๆ ทั้งในแบบฝึกหัดและในข้อสอบ",
+    "น่าจะมีการฟังคู่คำที่ต่างกันเพียงเสียงเดียว (minimal pairs) แล้วเลือกว่าได้ยินคำไหน",
+    "น่าจะมีการสอบออกเสียงทีละคน เช่น อ่านคำหรือประโยคให้อาจารย์ฟัง",
+    "อาจมีการดูภาพตัดขวางของปากและลำคอ แล้วชี้ว่าแต่ละเสียงเกิดตรงไหน",
+    "อาจารย์อาจใช้ IPA แบบอังกฤษหรือแบบอเมริกันตามตำราที่เลือก ซึ่งต่างจากในแอปนี้เล็กน้อย"
+  ],
+  "units": [
+    {
+      "id": "ENL232-U1",
+      "title_th": "อวัยวะที่ใช้ออกเสียง",
+      "title_en": "The speech organs",
+      "covers": "อวัยวะที่ใช้ในการออกเสียงภาษาอังกฤษ",
+      "minutes": 12,
+      "cards": [
+        {
+          "title_th": "ทางเดินของลม",
+          "body_th": "ลมจากปอดผ่านกล่องเสียง (larynx) ซึ่งมีเส้นเสียง (vocal folds) แล้วออกทางปากหรือจมูก ลิ้น ฟัน ริมฝีปาก และเพดานเป็นตัวปั้นลมให้เป็นเสียงต่าง ๆ"
+        },
+        {
+          "title_th": "จุดที่เกิดเสียง",
+          "body_th": "ริมฝีปากสองข้าง: /p b m/ | ฟันบนกับริมฝีปากล่าง: /f v/ | ปลายลิ้นกับฟัน: /θ ð/ | ปุ่มเหงือก (alveolar ridge): /t d s z n l/ | เพดานอ่อน (soft palate): /k ɡ ŋ/"
+        },
+        {
+          "title_th": "เสียงก้องกับไม่ก้อง",
+          "body_th": "ถ้าเส้นเสียงสั่นคือเสียงก้อง (voiced) ลองแตะคอแล้วพูด sss สลับ zzz จะรู้สึกสั่นตอน zzz เท่านั้น"
+        },
+        {
+          "title_th": "เสียงนาสิก",
+          "body_th": "ตอนออกเสียง /m n ŋ/ เพดานอ่อนลดลง ลมออกทางจมูก ลองบีบจมูกแล้วพูด mmm เสียงจะหยุด"
+        }
+      ],
+      "vocab": [
+        [
+          "lips",
+          "ริมฝีปาก"
+        ],
+        [
+          "teeth",
+          "ฟัน"
+        ],
+        [
+          "tongue",
+          "ลิ้น"
+        ],
+        [
+          "alveolar ridge",
+          "ปุ่มเหงือก"
+        ],
+        [
+          "hard palate",
+          "เพดานแข็ง"
+        ],
+        [
+          "soft palate (velum)",
+          "เพดานอ่อน"
+        ],
+        [
+          "vocal folds",
+          "เส้นเสียง"
+        ],
+        [
+          "larynx",
+          "กล่องเสียง"
+        ],
+        [
+          "nasal cavity",
+          "โพรงจมูก"
+        ],
+        [
+          "voiced sound",
+          "เสียงก้อง"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "ENL232-U1-01",
+          "skill": "ENL232-U1",
+          "difficulty": 1,
+          "stem": "Which part vibrates to make voiced sounds?",
+          "options": [
+            "the vocal folds",
+            "the teeth",
+            "the hard palate",
+            "the nose"
+          ],
+          "answer": 0,
+          "explanation_th": "เสียงก้องเกิดจากเส้นเสียงสั่น",
+          "why_wrong": [
+            null,
+            "ฟันไม่สั่น เป็นแค่จุดที่ลิ้นหรือริมฝีปากไปแตะ",
+            "เพดานแข็งเป็นกระดูก ไม่สั่น",
+            "จมูกเป็นทางออกของลมในเสียงนาสิก ไม่ใช่ตัวสั่นที่ทำให้ก้อง"
+          ]
+        },
+        {
+          "id": "ENL232-U1-02",
+          "skill": "ENL232-U1",
+          "difficulty": 1,
+          "stem": "Which sounds are made with both lips?",
+          "options": [
+            "/t d n/",
+            "/k ɡ ŋ/",
+            "/f v/",
+            "/p b m/"
+          ],
+          "answer": 3,
+          "explanation_th": "/p b m/ ใช้ริมฝีปากสองข้างประกบกัน",
+          "why_wrong": [
+            "ใช้ปลายลิ้นแตะปุ่มเหงือก",
+            "ใช้โคนลิ้นแตะเพดานอ่อน",
+            "ใช้ฟันบนแตะริมฝีปากล่าง ไม่ใช่ริมฝีปากสองข้าง",
+            null
+          ]
+        },
+        {
+          "id": "ENL232-U1-03",
+          "skill": "ENL232-U1",
+          "difficulty": 1,
+          "stem": "To make /f/ and /v/, your upper teeth touch your ___.",
+          "options": [
+            "soft palate",
+            "alveolar ridge",
+            "lower lip",
+            "back of the tongue"
+          ],
+          "answer": 2,
+          "explanation_th": "/f v/ เกิดจากฟันบนแตะริมฝีปากล่าง",
+          "why_wrong": [
+            "ฟันไปแตะเพดานอ่อนไม่ได้",
+            "ปุ่มเหงือกอยู่หลังฟันบนเอง ใช้กับลิ้น ไม่ใช่ฟัน",
+            null,
+            "/f v/ ไม่ได้ใช้โคนลิ้น"
+          ]
+        },
+        {
+          "id": "ENL232-U1-04",
+          "skill": "ENL232-U1",
+          "difficulty": 2,
+          "stem": "Where is the tip of the tongue for /θ/, as in 'think'?",
+          "options": [
+            "on the soft palate",
+            "between or just behind the upper front teeth",
+            "pressed hard on the hard palate",
+            "low and still, with the lips closed"
+          ],
+          "answer": 1,
+          "explanation_th": "/θ/ ใช้ปลายลิ้นแตะหรือยื่นระหว่างฟันหน้า แล้วปล่อยลมผ่าน",
+          "why_wrong": [
+            "เพดานอ่อนใช้กับ /k ɡ ŋ/ และใช้โคนลิ้น",
+            null,
+            "ปลายลิ้นไม่ได้ไปอยู่ที่เพดานแข็งสำหรับเสียงนี้",
+            "ถ้าปิดปาก ลมออกทางลิ้นกับฟันไม่ได้"
+          ]
+        },
+        {
+          "id": "ENL232-U1-05",
+          "skill": "ENL232-U1",
+          "difficulty": 1,
+          "stem": "The bumpy area just behind your upper front teeth is the ___.",
+          "options": [
+            "soft palate",
+            "larynx",
+            "alveolar ridge",
+            "nasal cavity"
+          ],
+          "answer": 2,
+          "explanation_th": "alveolar ridge = ปุ่มเหงือก จุดเกิดเสียง /t d s z n l/",
+          "why_wrong": [
+            "เพดานอ่อนอยู่ลึกด้านหลังของปาก",
+            "กล่องเสียงอยู่ในลำคอ",
+            null,
+            "โพรงจมูกอยู่เหนือเพดาน ไม่ได้อยู่หลังฟัน"
+          ]
+        },
+        {
+          "id": "ENL232-U1-06",
+          "skill": "ENL232-U1",
+          "difficulty": 1,
+          "stem": "For /m n ŋ/, most of the air goes out through the ___.",
+          "options": [
+            "mouth only",
+            "nose",
+            "teeth only",
+            "ears"
+          ],
+          "answer": 1,
+          "explanation_th": "/m n ŋ/ เป็นเสียงนาสิก ลมออกทางจมูก",
+          "why_wrong": [
+            "ปากถูกปิดกั้นที่จุดใดจุดหนึ่ง ลมจึงออกทางปากไม่ได้",
+            null,
+            "ฟันไม่ใช่ทางออกของลมในเสียงนาสิก",
+            "ลมไม่ได้ออกทางหู"
+          ]
+        },
+        {
+          "id": "ENL232-U1-07",
+          "skill": "ENL232-U1",
+          "difficulty": 1,
+          "stem": "Put your hand on your throat. Which sound makes it vibrate?",
+          "options": [
+            "/s/",
+            "/f/",
+            "/θ/",
+            "/z/"
+          ],
+          "answer": 3,
+          "explanation_th": "/z/ เป็นเสียงก้อง เส้นเสียงสั่น",
+          "why_wrong": [
+            "/s/ ไม่ก้อง เป็นแค่ลมผ่าน",
+            "/f/ ไม่ก้อง",
+            "/θ/ ไม่ก้อง",
+            null
+          ]
+        },
+        {
+          "id": "ENL232-U1-08",
+          "skill": "ENL232-U1",
+          "difficulty": 1,
+          "stem": "/k/ and /ɡ/ are made when the back of the tongue touches the ___.",
+          "options": [
+            "soft palate",
+            "upper lip",
+            "upper teeth",
+            "alveolar ridge"
+          ],
+          "answer": 0,
+          "explanation_th": "/k ɡ/ เกิดที่เพดานอ่อน (velar)",
+          "why_wrong": [
+            null,
+            "โคนลิ้นแตะริมฝีปากไม่ได้",
+            "ใช้กับ /θ ð/ และใช้ปลายลิ้น",
+            "ใช้กับ /t d/ และใช้ปลายลิ้น"
+          ]
+        },
+        {
+          "id": "ENL232-U1-09",
+          "skill": "ENL232-U1",
+          "difficulty": 2,
+          "stem": "Which pair differs ONLY in voicing (same place, same manner)?",
+          "options": [
+            "/s/ and /ʃ/",
+            "/p/ and /m/",
+            "/s/ and /z/",
+            "/t/ and /k/"
+          ],
+          "answer": 2,
+          "explanation_th": "/s/ กับ /z/ เกิดที่จุดเดียวกันแบบเดียวกัน ต่างกันแค่ก้องหรือไม่ก้อง",
+          "why_wrong": [
+            "ทั้งคู่ไม่ก้อง แต่เกิดคนละจุด",
+            "ต่างกันที่ลักษณะ /m/ เป็นนาสิก /p/ เป็นเสียงกัก",
+            null,
+            "ทั้งคู่ไม่ก้อง แต่เกิดคนละจุด"
+          ]
+        }
+      ],
+      "say": [
+        "Sip, zip. Sue, zoo. Rice, rise.",
+        "Pin, bin. Fan, van. Tie, die."
+      ],
+      "task_th": "ส่องกระจกแล้วออกเสียง /p/, /f/, /θ/, /t/, /k/ ทีละเสียง สังเกตว่าริมฝีปาก ฟัน และลิ้นอยู่ตรงไหน เขียนชื่ออวัยวะภาษาอังกฤษกำกับแต่ละเสียง จากนั้นแตะคอแล้วพูด s กับ z สลับกัน 5 รอบ"
+    },
+    {
+      "id": "ENL232-U2",
+      "title_th": "ตัวสะกดไม่ใช่เสียง",
+      "title_en": "Spelling and sound",
+      "covers": "ความแตกต่างระหว่างการสะกดและเสียง",
+      "minutes": 12,
+      "cards": [
+        {
+          "title_th": "26 ตัวอักษร แต่เสียงมากกว่านั้น",
+          "body_th": "ภาษาอังกฤษมี 26 ตัวอักษร แต่สำเนียงอังกฤษมาตรฐานมีราว 44 เสียง ตัวอักษรจึงบอกเสียงได้ไม่ตรงเสมอ"
+        },
+        {
+          "title_th": "ตัวสะกดเดียว หลายเสียง",
+          "body_th": "'ough' อ่านต่างกันใน though /ðəʊ/, through /θruː/, tough /tʌf/, thought /θɔːt/"
+        },
+        {
+          "title_th": "หลายตัวสะกด เสียงเดียว",
+          "body_th": "เสียง /iː/ สะกดได้หลายแบบ: see, sea, me, piece, key"
+        },
+        {
+          "title_th": "ตัวอักษรเงียบ",
+          "body_th": "บางตัวเขียนแต่ไม่ออกเสียง: knife, write, walk, hour, lamb"
+        }
+      ],
+      "vocab": [
+        [
+          "spelling",
+          "การสะกด"
+        ],
+        [
+          "sound",
+          "เสียง"
+        ],
+        [
+          "letter",
+          "ตัวอักษร"
+        ],
+        [
+          "silent letter",
+          "ตัวอักษรที่ไม่ออกเสียง"
+        ],
+        [
+          "homophone",
+          "คำพ้องเสียง"
+        ],
+        [
+          "pronunciation",
+          "การออกเสียง"
+        ],
+        [
+          "vowel sound",
+          "เสียงสระ"
+        ],
+        [
+          "consonant sound",
+          "เสียงพยัญชนะ"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "ENL232-U2-01",
+          "skill": "ENL232-U2",
+          "difficulty": 1,
+          "stem": "Which word has a silent letter?",
+          "options": [
+            "cat",
+            "knife",
+            "desk",
+            "pen"
+          ],
+          "answer": 1,
+          "explanation_th": "k ใน knife ไม่ออกเสียง /naɪf/",
+          "why_wrong": [
+            "ทุกตัวออกเสียง /kæt/",
+            null,
+            "ทุกตัวออกเสียง /desk/",
+            "ทุกตัวออกเสียง /pen/"
+          ]
+        },
+        {
+          "id": "ENL232-U2-02",
+          "skill": "ENL232-U2",
+          "difficulty": 1,
+          "stem": "Which two words sound exactly the same?",
+          "options": [
+            "right / write",
+            "ride / write",
+            "light / right",
+            "rice / rise"
+          ],
+          "answer": 0,
+          "explanation_th": "ทั้งคู่ออกเสียง /raɪt/ เป็นคำพ้องเสียง",
+          "why_wrong": [
+            null,
+            "ride ลงท้าย /d/ write ลงท้าย /t/",
+            "ต่างกันที่ /l/ กับ /r/",
+            "rice ลงท้าย /s/ rise ลงท้าย /z/"
+          ]
+        },
+        {
+          "id": "ENL232-U2-03",
+          "skill": "ENL232-U2",
+          "difficulty": 2,
+          "stem": "In which word does 'gh' sound like /f/?",
+          "options": [
+            "night",
+            "though",
+            "daughter",
+            "laugh"
+          ],
+          "answer": 3,
+          "explanation_th": "laugh /lɑːf/ gh ออกเสียง /f/",
+          "why_wrong": [
+            "gh ใน night ไม่ออกเสียง",
+            "gh ใน though ไม่ออกเสียง",
+            "gh ใน daughter ไม่ออกเสียง",
+            null
+          ]
+        },
+        {
+          "id": "ENL232-U2-04",
+          "skill": "ENL232-U2",
+          "difficulty": 2,
+          "stem": "Which word begins with the sound /ʃ/?",
+          "options": [
+            "sun",
+            "chair",
+            "sure",
+            "cat"
+          ],
+          "answer": 2,
+          "explanation_th": "sure ขึ้นต้นด้วยเสียง /ʃ/ แม้สะกดด้วย 's'",
+          "why_wrong": [
+            "sun ขึ้นต้นด้วย /s/",
+            "chair ขึ้นต้นด้วย /tʃ/",
+            null,
+            "cat ขึ้นต้นด้วย /k/"
+          ]
+        },
+        {
+          "id": "ENL232-U2-05",
+          "skill": "ENL232-U2",
+          "difficulty": 1,
+          "stem": "Which word does NOT have the /iː/ sound?",
+          "options": [
+            "sea",
+            "head",
+            "meat",
+            "team"
+          ],
+          "answer": 1,
+          "explanation_th": "head ออกเสียง /hed/ แม้สะกดด้วย 'ea'",
+          "why_wrong": [
+            "sea ออกเสียง /siː/",
+            null,
+            "meat ออกเสียง /miːt/",
+            "team ออกเสียง /tiːm/"
+          ]
+        },
+        {
+          "id": "ENL232-U2-06",
+          "skill": "ENL232-U2",
+          "difficulty": 1,
+          "stem": "How many sounds are in 'ship' /ʃɪp/?",
+          "options": [
+            "4",
+            "2",
+            "5",
+            "3"
+          ],
+          "answer": 3,
+          "explanation_th": "มี 3 เสียง: /ʃ/ /ɪ/ /p/ แม้มี 4 ตัวอักษร",
+          "why_wrong": [
+            "นับตัวอักษร ไม่ได้นับเสียง sh เป็นเสียงเดียว",
+            "ขาดไป 1 เสียง",
+            "มากกว่าจำนวนตัวอักษรเสียอีก",
+            null
+          ]
+        },
+        {
+          "id": "ENL232-U2-07",
+          "skill": "ENL232-U2",
+          "difficulty": 1,
+          "stem": "In which word is the 'l' silent?",
+          "options": [
+            "walk",
+            "milk",
+            "lamp",
+            "film"
+          ],
+          "answer": 0,
+          "explanation_th": "walk ออกเสียง /wɔːk/ ไม่มีเสียง /l/",
+          "why_wrong": [
+            null,
+            "milk มีเสียง /l/",
+            "lamp ขึ้นต้นด้วยเสียง /l/",
+            "film มีเสียง /l/"
+          ]
+        },
+        {
+          "id": "ENL232-U2-08",
+          "skill": "ENL232-U2",
+          "difficulty": 2,
+          "stem": "Which word starts with a vowel SOUND, so we say 'an' before it?",
+          "options": [
+            "house",
+            "university",
+            "horse",
+            "hour"
+          ],
+          "answer": 3,
+          "explanation_th": "h ใน hour ไม่ออกเสียง จึงเริ่มด้วยเสียงสระ: an hour",
+          "why_wrong": [
+            "house ขึ้นต้นด้วยเสียง /h/ ใช้ a house",
+            "university ขึ้นต้นด้วยเสียง /j/ เป็นพยัญชนะ ใช้ a university",
+            "horse ขึ้นต้นด้วยเสียง /h/ ใช้ a horse",
+            null
+          ]
+        },
+        {
+          "id": "ENL232-U2-09",
+          "skill": "ENL232-U2",
+          "difficulty": 2,
+          "stem": "'Though', 'through' and 'tough' all have 'ough', but they ___.",
+          "options": [
+            "sound exactly the same",
+            "have different vowel sounds",
+            "are all silent words",
+            "all rhyme with 'cow'"
+          ],
+          "answer": 1,
+          "explanation_th": "ough ในสามคำนี้ออกเสียงต่างกัน: /əʊ/, /uː/, /ʌf/",
+          "why_wrong": [
+            "ฟังแล้วต่างกันชัดเจน",
+            null,
+            "ทุกคำมีเสียง",
+            "ไม่มีคำไหนสัมผัสกับ cow /kaʊ/"
+          ]
+        }
+      ],
+      "say": [
+        "Sea, see. Right, write. Know, no.",
+        "Though, through, tough, thought."
+      ],
+      "task_th": "หาคำ 10 คำจากเพลงหรือซับไตเติลที่ชอบ แยกเป็น 2 กลุ่ม: คำที่มีตัวอักษรเงียบ กับคำที่สะกดต่างกันแต่เสียงเหมือนกัน เปิดฟังเสียงในพจนานุกรมออนไลน์ทุกคำ แล้วพูดตามคำละ 2 ครั้ง"
+    },
+    {
+      "id": "ENL232-U3",
+      "title_th": "สัทอักษร (IPA)",
+      "title_en": "The phonetic alphabet (IPA)",
+      "covers": "สัทอักษร",
+      "minutes": 14,
+      "cards": [
+        {
+          "title_th": "IPA คืออะไร",
+          "body_th": "International Phonetic Alphabet ใช้ 1 สัญลักษณ์แทน 1 เสียง เขียนไว้ระหว่างเครื่องหมายทับ / /"
+        },
+        {
+          "title_th": "ระบบที่ใช้ในแอปนี้",
+          "body_th": "แอปนี้ใช้ IPA แบบอังกฤษ (British) ตามที่พจนานุกรมผู้เรียนฉบับอังกฤษนิยมใช้ แบบอเมริกันต่างบางจุด เช่น car อังกฤษ /kɑː/ อเมริกัน /kɑːr/"
+        },
+        {
+          "title_th": "สัญลักษณ์ที่ต้องจำ",
+          "body_th": "/θ/ think, /ð/ this, /ʃ/ she, /tʃ/ chair, /dʒ/ job, /ʒ/ measure, /ŋ/ sing, /j/ yes ระวัง /j/ คือเสียง ย ไม่ใช่ จ"
+        },
+        {
+          "title_th": "สระสั้น สระยาว และ schwa",
+          "body_th": "ː หมายถึงเสียงยาว: /iː/ sheep กับ /ɪ/ ship ส่วน /ə/ (schwa) เป็นสระเบา พบบ่อยในพยางค์ที่ไม่เน้น",
+          "example": "about /əˈbaʊt/"
+        }
+      ],
+      "vocab": [
+        [
+          "phonetic symbol",
+          "สัญลักษณ์สัทอักษร"
+        ],
+        [
+          "transcription",
+          "การถอดเสียง"
+        ],
+        [
+          "schwa",
+          "สระเบา /ə/"
+        ],
+        [
+          "long vowel",
+          "สระเสียงยาว"
+        ],
+        [
+          "short vowel",
+          "สระเสียงสั้น"
+        ],
+        [
+          "slash",
+          "เครื่องหมายทับ"
+        ],
+        [
+          "stress mark",
+          "เครื่องหมายเน้นเสียง"
+        ],
+        [
+          "dictionary",
+          "พจนานุกรม"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "ENL232-U3-01",
+          "skill": "ENL232-U3",
+          "difficulty": 1,
+          "stem": "Which IPA symbol is the first sound in 'this'?",
+          "options": [
+            "/ð/",
+            "/θ/",
+            "/t/",
+            "/d/"
+          ],
+          "answer": 0,
+          "explanation_th": "th ใน this เป็นเสียงก้อง /ð/",
+          "why_wrong": [
+            null,
+            "/θ/ เป็นเสียงไม่ก้อง เช่น think",
+            "/t/ ไม่ใช่เสียงของ th",
+            "/d/ เป็นเสียงที่คนไทยมักใช้แทน แต่ไม่ใช่เสียงที่ถูก"
+          ]
+        },
+        {
+          "id": "ENL232-U3-02",
+          "skill": "ENL232-U3",
+          "difficulty": 1,
+          "stem": "Which word is /θɪŋk/?",
+          "options": [
+            "sink",
+            "thing",
+            "think",
+            "thick"
+          ],
+          "answer": 2,
+          "explanation_th": "/θ/ + /ɪ/ + /ŋk/ = think",
+          "why_wrong": [
+            "sink ขึ้นต้นด้วย /s/: /sɪŋk/",
+            "thing คือ /θɪŋ/ ไม่มี /k/",
+            null,
+            "thick คือ /θɪk/ ไม่มี /ŋ/"
+          ]
+        },
+        {
+          "id": "ENL232-U3-03",
+          "skill": "ENL232-U3",
+          "difficulty": 1,
+          "stem": "/ʃiːp/ is the word ___.",
+          "options": [
+            "ship",
+            "cheap",
+            "chip",
+            "sheep"
+          ],
+          "answer": 3,
+          "explanation_th": "/ʃ/ + /iː/ ยาว + /p/ = sheep",
+          "why_wrong": [
+            "ship คือ /ʃɪp/ สระสั้น",
+            "cheap ขึ้นต้นด้วย /tʃ/",
+            "chip คือ /tʃɪp/",
+            null
+          ]
+        },
+        {
+          "id": "ENL232-U3-04",
+          "skill": "ENL232-U3",
+          "difficulty": 1,
+          "stem": "Which symbol shows the 'ng' sound at the end of 'sing'?",
+          "options": [
+            "/n/",
+            "/ɡ/",
+            "/ŋ/",
+            "/m/"
+          ],
+          "answer": 2,
+          "explanation_th": "sing = /sɪŋ/ ใช้สัญลักษณ์ /ŋ/ ตัวเดียว",
+          "why_wrong": [
+            "/n/ เกิดที่ปุ่มเหงือก ไม่ใช่เพดานอ่อน",
+            "/ɡ/ เป็นเสียงกัก ไม่ใช่เสียงนาสิก",
+            null,
+            "/m/ เกิดที่ริมฝีปาก"
+          ]
+        },
+        {
+          "id": "ENL232-U3-05",
+          "skill": "ENL232-U3",
+          "difficulty": 2,
+          "stem": "The weak vowel at the start of 'about' /əˈbaʊt/ is called ___.",
+          "options": [
+            "schwa",
+            "a diphthong",
+            "a consonant",
+            "a stress mark"
+          ],
+          "answer": 0,
+          "explanation_th": "/ə/ เรียกว่า schwa",
+          "why_wrong": [
+            null,
+            "diphthong คือสระประสม เช่น /aʊ/",
+            "/ə/ เป็นสระ",
+            "เครื่องหมายเน้นเสียงคือ ˈ"
+          ]
+        },
+        {
+          "id": "ENL232-U3-06",
+          "skill": "ENL232-U3",
+          "difficulty": 1,
+          "stem": "In IPA, the mark ː (as in /iː/) means ___.",
+          "options": [
+            "the sound is silent",
+            "the vowel is long",
+            "the syllable is stressed",
+            "the sound is nasal"
+          ],
+          "answer": 1,
+          "explanation_th": "ː บอกว่าสระนั้นยาว",
+          "why_wrong": [
+            "ไม่มีสัญลักษณ์สำหรับเสียงเงียบ เพราะ IPA เขียนเฉพาะเสียงที่ออก",
+            null,
+            "การเน้นใช้ ˈ ไม่ใช่ ː",
+            "ː ไม่ได้บอกเรื่องเสียงนาสิก"
+          ]
+        },
+        {
+          "id": "ENL232-U3-07",
+          "skill": "ENL232-U3",
+          "difficulty": 2,
+          "stem": "Which word has the sound /tʃ/?",
+          "options": [
+            "wash",
+            "watch",
+            "was",
+            "what"
+          ],
+          "answer": 1,
+          "explanation_th": "watch = /wɒtʃ/",
+          "why_wrong": [
+            "wash = /wɒʃ/ เป็น /ʃ/",
+            null,
+            "was ไม่มี /tʃ/",
+            "what ไม่มี /tʃ/"
+          ]
+        },
+        {
+          "id": "ENL232-U3-08",
+          "skill": "ENL232-U3",
+          "difficulty": 2,
+          "stem": "Which transcription matches 'very'?",
+          "options": [
+            "/ˈweri/",
+            "/ˈferi/",
+            "/ˈveri/",
+            "/ˈberi/"
+          ],
+          "answer": 2,
+          "explanation_th": "very ขึ้นต้นด้วย /v/",
+          "why_wrong": [
+            "ใช้ /w/ แทน /v/ ซึ่งเป็นข้อผิดพลาดที่คนไทยพบบ่อย",
+            "/f/ เป็นเสียงไม่ก้อง ไม่ใช่ /v/",
+            null,
+            "/b/ ใช้ริมฝีปากสองข้าง ไม่ใช่ /v/"
+          ]
+        },
+        {
+          "id": "ENL232-U3-09",
+          "skill": "ENL232-U3",
+          "difficulty": 2,
+          "stem": "In IPA, /j/ is the first sound of ___.",
+          "options": [
+            "jam",
+            "gym",
+            "jet",
+            "yes"
+          ],
+          "answer": 3,
+          "explanation_th": "/j/ คือเสียง ย เช่น yes /jes/",
+          "why_wrong": [
+            "jam ขึ้นต้นด้วย /dʒ/",
+            "gym ขึ้นต้นด้วย /dʒ/",
+            "jet ขึ้นต้นด้วย /dʒ/",
+            null
+          ]
+        }
+      ],
+      "say": [
+        "Sheep, ship. Cheap, chip.",
+        "This thing, that thing, three things."
+      ],
+      "task_th": "เปิดพจนานุกรมออนไลน์ (เช่น Cambridge Dictionary) ค้นคำ 8 คำ: think, this, ship, chair, sing, yes, about, sheep จด IPA ฉบับอังกฤษของแต่ละคำ วงสัญลักษณ์ที่ไม่มีเสียงในภาษาไทย แล้วออกเสียงตามไฟล์เสียงคำละ 3 ครั้ง"
+    },
+    {
+      "id": "ENL232-U4",
+      "title_th": "นับพยางค์",
+      "title_en": "Counting syllables",
+      "covers": "การระบุจำนวนพยางค์ในคำ",
+      "minutes": 12,
+      "lessons": [
+        "L03"
+      ],
+      "cards": [
+        {
+          "title_th": "นับจากเสียงสระ",
+          "body_th": "แต่ละพยางค์มีเสียงสระ 1 เสียง ให้นับเสียงสระ ไม่ใช่ตัวอักษรสระ make มีตัว a กับ e แต่ e ไม่ออกเสียง จึงมี 1 พยางค์"
+        },
+        {
+          "title_th": "ปรบมือนับ",
+          "body_th": "พูดช้า ๆ แล้วปรบมือทุกพยางค์: ba-na-na (3), com-pu-ter (3), u-ni-ver-si-ty (5)"
+        },
+        {
+          "title_th": "-ed ไม่ได้เพิ่มพยางค์เสมอ",
+          "body_th": "เพิ่มพยางค์เฉพาะคำที่ลงท้ายด้วยเสียง /t/ หรือ /d/: want-ed (2), need-ed (2) แต่ walked (1), played (1) ทบทวนรูปอดีตได้ในบทเรียน L03"
+        },
+        {
+          "title_th": "อย่าเติมสระในกลุ่มพยัญชนะ",
+          "body_th": "คนไทยมักเติมเสียงสระ เช่น street เป็น สะ-ตรีท แต่จริง ๆ street มีพยางค์เดียว"
+        }
+      ],
+      "vocab": [
+        [
+          "syllable",
+          "พยางค์"
+        ],
+        [
+          "vowel sound",
+          "เสียงสระ"
+        ],
+        [
+          "silent e",
+          "ตัว e ที่ไม่ออกเสียง"
+        ],
+        [
+          "clap",
+          "ปรบมือ"
+        ],
+        [
+          "ending",
+          "ส่วนท้ายคำ"
+        ],
+        [
+          "consonant cluster",
+          "กลุ่มพยัญชนะ"
+        ],
+        [
+          "count",
+          "นับ"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "ENL232-U4-01",
+          "skill": "ENL232-U4",
+          "difficulty": 1,
+          "stem": "How many syllables are in 'banana'?",
+          "options": [
+            "3",
+            "2",
+            "4",
+            "6"
+          ],
+          "answer": 0,
+          "explanation_th": "ba-na-na มี 3 เสียงสระ",
+          "why_wrong": [
+            null,
+            "ขาดไป 1 พยางค์",
+            "มากเกินไป",
+            "นับตัวอักษร ไม่ได้นับพยางค์"
+          ]
+        },
+        {
+          "id": "ENL232-U4-02",
+          "skill": "ENL232-U4",
+          "difficulty": 1,
+          "stem": "How many syllables are in 'cake'?",
+          "options": [
+            "2",
+            "3",
+            "1",
+            "4"
+          ],
+          "answer": 2,
+          "explanation_th": "cake /keɪk/ มีเสียงสระเดียว e ท้ายคำไม่ออกเสียง",
+          "why_wrong": [
+            "นับตัว e ที่ไม่ออกเสียงเป็นพยางค์",
+            "มากเกินไป",
+            null,
+            "นับตัวอักษร"
+          ]
+        },
+        {
+          "id": "ENL232-U4-03",
+          "skill": "ENL232-U4",
+          "difficulty": 2,
+          "stem": "Which word has ONE syllable?",
+          "options": [
+            "wanted",
+            "needed",
+            "visited",
+            "walked"
+          ],
+          "answer": 3,
+          "explanation_th": "walked /wɔːkt/ -ed ออกเสียง /t/ ไม่เพิ่มพยางค์",
+          "why_wrong": [
+            "ลงท้ายด้วย /t/ ก่อน -ed จึงเป็น want-ed 2 พยางค์",
+            "ลงท้ายด้วย /d/ ก่อน -ed จึงเป็น need-ed 2 พยางค์",
+            "vis-it-ed มี 3 พยางค์",
+            null
+          ]
+        },
+        {
+          "id": "ENL232-U4-04",
+          "skill": "ENL232-U4",
+          "difficulty": 2,
+          "stem": "Which word has TWO syllables?",
+          "options": [
+            "wanted",
+            "played",
+            "jumped",
+            "cleaned"
+          ],
+          "answer": 0,
+          "explanation_th": "want-ed มี 2 พยางค์ เพราะ -ed หลัง /t/ ออกเสียง /ɪd/",
+          "why_wrong": [
+            null,
+            "played มีพยางค์เดียว",
+            "jumped มีพยางค์เดียว",
+            "cleaned มีพยางค์เดียว"
+          ]
+        },
+        {
+          "id": "ENL232-U4-05",
+          "skill": "ENL232-U4",
+          "difficulty": 1,
+          "stem": "How many syllables are in 'street'?",
+          "options": [
+            "2",
+            "1",
+            "3",
+            "4"
+          ],
+          "answer": 1,
+          "explanation_th": "street /striːt/ มีเสียงสระเดียว",
+          "why_wrong": [
+            "เป็นการเติมสระแบบ สะ-ตรีท ซึ่งไม่ถูก",
+            null,
+            "มากเกินไป",
+            "มากเกินไป"
+          ]
+        },
+        {
+          "id": "ENL232-U4-06",
+          "skill": "ENL232-U4",
+          "difficulty": 2,
+          "stem": "How many syllables are in 'university'?",
+          "options": [
+            "4",
+            "5",
+            "3",
+            "6"
+          ],
+          "answer": 1,
+          "explanation_th": "u-ni-ver-si-ty มี 5 พยางค์",
+          "why_wrong": [
+            "ขาดไป 1 พยางค์",
+            null,
+            "ขาดไป 2 พยางค์",
+            "มากเกินไป"
+          ]
+        },
+        {
+          "id": "ENL232-U4-07",
+          "skill": "ENL232-U4",
+          "difficulty": 1,
+          "stem": "Which word has THREE syllables?",
+          "options": [
+            "table",
+            "window",
+            "computer",
+            "water"
+          ],
+          "answer": 2,
+          "explanation_th": "com-pu-ter มี 3 พยางค์",
+          "why_wrong": [
+            "ta-ble มี 2 พยางค์",
+            "win-dow มี 2 พยางค์",
+            null,
+            "wa-ter มี 2 พยางค์"
+          ]
+        },
+        {
+          "id": "ENL232-U4-08",
+          "skill": "ENL232-U4",
+          "difficulty": 2,
+          "stem": "Why does 'make' have only one syllable?",
+          "options": [
+            "Because it has four letters.",
+            "Because it starts with 'm'.",
+            "Because it is a verb.",
+            "The final 'e' is silent, so there is only one vowel sound."
+          ],
+          "answer": 3,
+          "explanation_th": "พยางค์นับจากเสียงสระ e ท้ายคำไม่ออกเสียง",
+          "why_wrong": [
+            "จำนวนตัวอักษรไม่ได้กำหนดจำนวนพยางค์",
+            "พยัญชนะต้นไม่ได้กำหนดจำนวนพยางค์",
+            "ชนิดของคำไม่ได้กำหนดจำนวนพยางค์",
+            null
+          ]
+        },
+        {
+          "id": "ENL232-U4-09",
+          "skill": "ENL232-U4",
+          "difficulty": 2,
+          "stem": "How many syllables are in 'buses'?",
+          "options": [
+            "2",
+            "1",
+            "3",
+            "4"
+          ],
+          "answer": 0,
+          "explanation_th": "bus-es /ˈbʌsɪz/ -es หลังเสียง /s/ เพิ่มพยางค์",
+          "why_wrong": [
+            null,
+            "-es หลัง /s/ ออกเสียง /ɪz/ จึงเพิ่มอีก 1 พยางค์",
+            "มากเกินไป",
+            "มากเกินไป"
+          ]
+        }
+      ],
+      "say": [
+        "Ba-na-na. Com-pu-ter. U-ni-ver-si-ty.",
+        "Walked, played, cleaned. Wanted, needed."
+      ],
+      "task_th": "เขียนคำภาษาอังกฤษ 10 คำที่ใช้บ่อย (เช่น ชื่อวิชา อาหาร) ปรบมือนับพยางค์ทีละคำ แล้วเช็กกับพจนานุกรมออนไลน์ที่ใช้จุดแบ่งพยางค์ใน IPA (เช่น Cambridge) จดคำที่นับผิดไว้ฝึกซ้ำ"
+    },
+    {
+      "id": "ENL232-U5",
+      "title_th": "ฟังและออกเสียงสระ",
+      "title_en": "Hearing and saying vowels",
+      "covers": "รวมทั้งฝึกออกเสียงและฟังเพื่อแยกแยะเสียงสระ",
+      "minutes": 14,
+      "cards": [
+        {
+          "title_th": "สระสั้นกับสระยาว",
+          "body_th": "/ɪ/ ship กับ /iː/ sheep, /ʊ/ full กับ /uː/ fool ความยาวช่วยได้ แต่รูปปากก็ต่าง: /iː/ ยิ้มกว้างกว่า /ɪ/ ผ่อนคลายกว่า"
+        },
+        {
+          "title_th": "/æ/ กับ /e/",
+          "body_th": "bad /bæd/ กับ bed /bed/ เสียง /æ/ อ้าปากกว้างกว่า ใกล้เสียง แอ ส่วน /e/ ใกล้เสียง เอะ"
+        },
+        {
+          "title_th": "/ʌ/ กับ /ɑː/",
+          "body_th": "cut /kʌt/ สั้น ใกล้เสียง อะ ส่วน car /kɑː/ ยาวและเปิดลำคอ ใกล้เสียง อา"
+        },
+        {
+          "title_th": "สระประสม",
+          "body_th": "/eɪ/ day, /aɪ/ my, /əʊ/ go, /aʊ/ now ลิ้นเลื่อนจากเสียงหนึ่งไปอีกเสียง อย่าตัดให้สั้นเหลือเสียงเดียว"
+        }
+      ],
+      "vocab": [
+        [
+          "vowel",
+          "สระ"
+        ],
+        [
+          "short vowel",
+          "สระเสียงสั้น"
+        ],
+        [
+          "long vowel",
+          "สระเสียงยาว"
+        ],
+        [
+          "diphthong",
+          "สระประสม"
+        ],
+        [
+          "minimal pair",
+          "คู่คำที่ต่างกันเสียงเดียว"
+        ],
+        [
+          "mouth shape",
+          "รูปปาก"
+        ],
+        [
+          "rounded lips",
+          "ริมฝีปากห่อ"
+        ],
+        [
+          "spread lips",
+          "ริมฝีปากยิ้มกว้าง"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "ENL232-U5-01",
+          "skill": "ENL232-U5",
+          "difficulty": 1,
+          "stem": "Which pair is a minimal pair for /ɪ/ and /iː/?",
+          "options": [
+            "ship / shop",
+            "sheep / sleep",
+            "ship / sheep",
+            "sheep / shape"
+          ],
+          "answer": 2,
+          "explanation_th": "ต่างกันแค่สระ /ɪ/ กับ /iː/",
+          "why_wrong": [
+            "shop ใช้สระ /ɒ/ ไม่ใช่ /iː/",
+            "ต่างกันที่พยัญชนะต้น ไม่ใช่สระ",
+            null,
+            "shape ใช้สระ /eɪ/ ไม่ใช่ /ɪ/"
+          ]
+        },
+        {
+          "id": "ENL232-U5-02",
+          "skill": "ENL232-U5",
+          "difficulty": 1,
+          "stem": "Which word has the long vowel /uː/?",
+          "options": [
+            "pool",
+            "pull",
+            "full",
+            "book"
+          ],
+          "answer": 0,
+          "explanation_th": "pool = /puːl/",
+          "why_wrong": [
+            null,
+            "pull = /pʊl/ สระสั้น",
+            "full = /fʊl/ สระสั้น",
+            "book = /bʊk/ สระสั้น"
+          ]
+        },
+        {
+          "id": "ENL232-U5-03",
+          "skill": "ENL232-U5",
+          "difficulty": 1,
+          "stem": "Which vowel is in 'bad'?",
+          "options": [
+            "/e/",
+            "/ɑː/",
+            "/ʌ/",
+            "/æ/"
+          ],
+          "answer": 3,
+          "explanation_th": "bad = /bæd/",
+          "why_wrong": [
+            "/e/ เป็นสระของ bed",
+            "/ɑː/ เป็นสระของ bard หรือ car",
+            "/ʌ/ เป็นสระของ bud",
+            null
+          ]
+        },
+        {
+          "id": "ENL232-U5-04",
+          "skill": "ENL232-U5",
+          "difficulty": 2,
+          "stem": "Which word has the same vowel as 'cut' /kʌt/?",
+          "options": [
+            "cart",
+            "cup",
+            "cat",
+            "cot"
+          ],
+          "answer": 1,
+          "explanation_th": "cup = /kʌp/ สระเดียวกัน",
+          "why_wrong": [
+            "cart = /kɑːt/ สระยาว",
+            null,
+            "cat = /kæt/",
+            "cot = /kɒt/"
+          ]
+        },
+        {
+          "id": "ENL232-U5-05",
+          "skill": "ENL232-U5",
+          "difficulty": 1,
+          "stem": "Which word has a diphthong?",
+          "options": [
+            "day",
+            "bed",
+            "sit",
+            "hot"
+          ],
+          "answer": 0,
+          "explanation_th": "day = /deɪ/ เป็นสระประสม",
+          "why_wrong": [
+            null,
+            "bed = /bed/ สระเดี่ยว",
+            "sit = /sɪt/ สระเดี่ยว",
+            "hot = /hɒt/ สระเดี่ยว"
+          ]
+        },
+        {
+          "id": "ENL232-U5-06",
+          "skill": "ENL232-U5",
+          "difficulty": 2,
+          "stem": "For /iː/ in 'sheep', your lips are ___.",
+          "options": [
+            "tightly rounded",
+            "spread, like a small smile",
+            "wide open, like a yawn",
+            "pressed together"
+          ],
+          "answer": 1,
+          "explanation_th": "/iː/ ริมฝีปากยิ้มกว้าง ลิ้นยกสูงด้านหน้า",
+          "why_wrong": [
+            "ห่อปากใช้กับ /uː/ เช่น food",
+            null,
+            "อ้ากว้างใช้กับ /ɑː/",
+            "ถ้าปิดปากจะออกเสียงสระไม่ได้"
+          ]
+        },
+        {
+          "id": "ENL232-U5-07",
+          "skill": "ENL232-U5",
+          "difficulty": 2,
+          "stem": "Which word has the vowel /ɑː/ in British English?",
+          "options": [
+            "fat",
+            "fun",
+            "father",
+            "fish"
+          ],
+          "answer": 2,
+          "explanation_th": "father = /ˈfɑːðə/",
+          "why_wrong": [
+            "fat = /fæt/",
+            "fun = /fʌn/",
+            null,
+            "fish = /fɪʃ/"
+          ]
+        },
+        {
+          "id": "ENL232-U5-08",
+          "skill": "ENL232-U5",
+          "difficulty": 2,
+          "stem": "A learner says 'leave' with a short vowel. The listener may hear ___.",
+          "options": [
+            "love",
+            "leaf",
+            "life",
+            "live"
+          ],
+          "answer": 3,
+          "explanation_th": "leave /liːv/ ถ้าสระสั้นจะกลายเป็น live /lɪv/",
+          "why_wrong": [
+            "love ใช้สระ /ʌ/ ไม่ใช่สระสั้นของ /iː/",
+            "ต่างกันที่พยัญชนะท้าย /f/ ไม่ใช่สระ",
+            "life ใช้สระประสม /aɪ/",
+            null
+          ]
+        },
+        {
+          "id": "ENL232-U5-09",
+          "skill": "ENL232-U5",
+          "difficulty": 2,
+          "stem": "Which word has a schwa /ə/ in its first syllable?",
+          "options": [
+            "apple",
+            "under",
+            "east",
+            "again"
+          ],
+          "answer": 3,
+          "explanation_th": "again ขึ้นต้นด้วย /ə/ ในพยางค์ที่ไม่เน้น",
+          "why_wrong": [
+            "apple ขึ้นต้นด้วย /æ/ ซึ่งเป็นพยางค์ที่เน้น",
+            "under ขึ้นต้นด้วย /ʌ/",
+            "east ขึ้นต้นด้วย /iː/",
+            null
+          ]
+        }
+      ],
+      "say": [
+        "Ship, sheep. Full, fool. Bad, bed.",
+        "Please don't sit in that seat; it's wet."
+      ],
+      "task_th": "อัดเสียงตัวเองอ่านคู่คำ 8 คู่: ship/sheep, sit/seat, full/fool, pull/pool, bad/bed, cat/cut, man/men, hat/hot ฟังย้อนหลังแล้วติ๊กคู่ที่ฟังแล้วแยกไม่ออก เปิดฟังคู่นั้นในพจนานุกรม แล้วอัดใหม่"
+    },
+    {
+      "id": "ENL232-U6",
+      "title_th": "พยัญชนะที่คนไทยต้องระวัง",
+      "title_en": "Consonants Thai learners find hard",
+      "covers": "การผลิตเสียงสระและพยัญชนะ",
+      "minutes": 14,
+      "cards": [
+        {
+          "title_th": "/θ/ และ /ð/",
+          "body_th": "ภาษาไทยไม่มีสองเสียงนี้ คนไทยมักใช้ /t/ /d/ หรือ /s/ แทน เช่น think กลายเป็น tink หรือ sink วางปลายลิ้นที่ฟันหน้าแล้วปล่อยลม /θ/ ไม่ก้อง /ð/ ก้อง"
+        },
+        {
+          "title_th": "/v/ ไม่ใช่ /w/",
+          "body_th": "ภาษาไทยไม่มีเสียง /v/ จึงมักออกเป็น ว เช่น very กลายเป็น wery /v/ ใช้ฟันบนแตะริมฝีปากล่างและก้อง /w/ ห่อปากโดยไม่ใช้ฟัน"
+        },
+        {
+          "title_th": "/ʃ/ กับ /tʃ/",
+          "body_th": "/ʃ/ (she) ลมไหลต่อเนื่องเหมือนตอนบอกให้เงียบว่า ชู่ว ส่วน /tʃ/ (chair) กักลมก่อนแล้วปล่อย ฝึกคู่ ship/chip, share/chair, wash/watch"
+        },
+        {
+          "title_th": "/z/",
+          "body_th": "ภาษาไทยไม่มีเสียง /z/ จึงมักออกเป็น /s/ /z/ คือ /s/ ที่เส้นเสียงสั่น เหมือนเสียงผึ้ง zzz เช่น zoo, zero, busy"
+        }
+      ],
+      "vocab": [
+        [
+          "fricative",
+          "เสียงเสียดแทรก"
+        ],
+        [
+          "affricate",
+          "เสียงกักเสียดแทรก"
+        ],
+        [
+          "voiceless",
+          "ไม่ก้อง"
+        ],
+        [
+          "voiced",
+          "ก้อง"
+        ],
+        [
+          "substitute",
+          "ใช้แทน"
+        ],
+        [
+          "airflow",
+          "กระแสลม"
+        ],
+        [
+          "buzz",
+          "เสียงหึ่ง"
+        ],
+        [
+          "contrast",
+          "ความต่าง"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "ENL232-U6-01",
+          "skill": "ENL232-U6",
+          "difficulty": 1,
+          "stem": "Many Thai learners say 'think' like 'sink'. What is happening?",
+          "options": [
+            "/s/ is replaced by /θ/",
+            "/θ/ is replaced by /s/",
+            "/ŋ/ is replaced by /n/",
+            "/k/ is replaced by /t/"
+          ],
+          "answer": 1,
+          "explanation_th": "th ใน think คือ /θ/ ถูกแทนด้วย /s/",
+          "why_wrong": [
+            "กลับทิศ think ไม่มีเสียง /s/",
+            null,
+            "ส่วนท้ายของ think กับ sink เหมือนกัน",
+            "ทั้งสองคำลงท้ายด้วย /k/"
+          ]
+        },
+        {
+          "id": "ENL232-U6-02",
+          "skill": "ENL232-U6",
+          "difficulty": 1,
+          "stem": "Which word starts with /v/?",
+          "options": [
+            "van",
+            "one",
+            "wine",
+            "when"
+          ],
+          "answer": 0,
+          "explanation_th": "van = /væn/",
+          "why_wrong": [
+            null,
+            "one ขึ้นต้นด้วยเสียง /w/: /wʌn/",
+            "wine ขึ้นต้นด้วย /w/",
+            "when ขึ้นต้นด้วย /w/"
+          ]
+        },
+        {
+          "id": "ENL232-U6-03",
+          "skill": "ENL232-U6",
+          "difficulty": 1,
+          "stem": "Which pair is a minimal pair for /v/ and /w/?",
+          "options": [
+            "vest / best",
+            "west / rest",
+            "vest / west",
+            "vet / bet"
+          ],
+          "answer": 2,
+          "explanation_th": "ต่างกันแค่ /v/ กับ /w/",
+          "why_wrong": [
+            "ต่างกันที่ /v/ กับ /b/",
+            "ต่างกันที่ /w/ กับ /r/",
+            null,
+            "ต่างกันที่ /v/ กับ /b/"
+          ]
+        },
+        {
+          "id": "ENL232-U6-04",
+          "skill": "ENL232-U6",
+          "difficulty": 2,
+          "stem": "To make /v/, you ___.",
+          "options": [
+            "round your lips without using your teeth",
+            "touch your lower lip with your upper teeth and use your voice",
+            "close both lips completely",
+            "touch the soft palate with your tongue"
+          ],
+          "answer": 1,
+          "explanation_th": "/v/ = ฟันบนแตะริมฝีปากล่าง และเส้นเสียงสั่น",
+          "why_wrong": [
+            "นี่คือวิธีออกเสียง /w/",
+            null,
+            "นี่คือวิธีออกเสียง /b/ หรือ /m/",
+            "นี่คือจุดเกิด /k ɡ/"
+          ]
+        },
+        {
+          "id": "ENL232-U6-05",
+          "skill": "ENL232-U6",
+          "difficulty": 1,
+          "stem": "Which word has /ʃ/, not /tʃ/?",
+          "options": [
+            "watch",
+            "match",
+            "wash",
+            "cheese"
+          ],
+          "answer": 2,
+          "explanation_th": "wash = /wɒʃ/",
+          "why_wrong": [
+            "watch = /wɒtʃ/",
+            "match = /mætʃ/",
+            null,
+            "cheese ขึ้นต้นด้วย /tʃ/"
+          ]
+        },
+        {
+          "id": "ENL232-U6-06",
+          "skill": "ENL232-U6",
+          "difficulty": 2,
+          "stem": "A speaker says 'Can you share this?', but the listener hears 'chair'. Which sounds were confused?",
+          "options": [
+            "/s/ and /z/",
+            "/θ/ and /ð/",
+            "/v/ and /w/",
+            "/ʃ/ and /tʃ/"
+          ],
+          "answer": 3,
+          "explanation_th": "share ขึ้นต้นด้วย /ʃ/ chair ขึ้นต้นด้วย /tʃ/",
+          "why_wrong": [
+            "ไม่มีเสียงนี้ที่ต้นคำทั้งสอง",
+            "ไม่มีเสียง th ในคำทั้งสอง",
+            "ไม่มีเสียง /v/ หรือ /w/ ในคำทั้งสอง",
+            null
+          ]
+        },
+        {
+          "id": "ENL232-U6-07",
+          "skill": "ENL232-U6",
+          "difficulty": 1,
+          "stem": "Which word ends with the sound /z/?",
+          "options": [
+            "dogs",
+            "cats",
+            "books",
+            "maps"
+          ],
+          "answer": 0,
+          "explanation_th": "dogs = /dɒɡz/ -s หลังเสียงก้องออกเสียง /z/",
+          "why_wrong": [
+            null,
+            "cats ลงท้าย /s/",
+            "books ลงท้าย /s/",
+            "maps ลงท้าย /s/"
+          ]
+        },
+        {
+          "id": "ENL232-U6-08",
+          "skill": "ENL232-U6",
+          "difficulty": 2,
+          "stem": "What is the difference between /θ/ in 'thin' and /ð/ in 'then'?",
+          "options": [
+            "/θ/ uses only the lips.",
+            "/ð/ is made at the soft palate.",
+            "There is no difference.",
+            "/ð/ is voiced, and /θ/ is voiceless."
+          ],
+          "answer": 3,
+          "explanation_th": "จุดและวิธีเกิดเสียงเหมือนกัน ต่างแค่ก้องหรือไม่ก้อง",
+          "why_wrong": [
+            "ทั้งคู่ใช้ลิ้นกับฟัน ไม่ใช่ริมฝีปาก",
+            "ทั้งคู่เกิดที่ฟัน",
+            "ต่างกันที่การสั่นของเส้นเสียง",
+            null
+          ]
+        },
+        {
+          "id": "ENL232-U6-09",
+          "skill": "ENL232-U6",
+          "difficulty": 1,
+          "stem": "Which word starts with /ð/?",
+          "options": [
+            "three",
+            "there",
+            "think",
+            "thank"
+          ],
+          "answer": 1,
+          "explanation_th": "there = /ðeə/",
+          "why_wrong": [
+            "three ขึ้นต้นด้วย /θ/",
+            null,
+            "think ขึ้นต้นด้วย /θ/",
+            "thank ขึ้นต้นด้วย /θ/"
+          ]
+        }
+      ],
+      "say": [
+        "Three thin thinkers think together.",
+        "Very wet vans went west.",
+        "Share the chair. Wash the watch."
+      ],
+      "task_th": "ฝึกคู่คำ 4 ชุดหน้ากระจก ชุดละ 5 รอบ: think/sink, vest/west, ship/chip, zoo/Sue แตะคอเช็กว่าก้องตอน /v/ และ /z/ แล้วอัดเสียง Three thin thinkers think together 3 รอบ: ช้า กลาง เร็ว"
+    },
+    {
+      "id": "ENL232-U7",
+      "title_th": "เสียงท้ายคำ กลุ่มพยัญชนะ และ -s -ed",
+      "title_en": "Final consonants, clusters, -s and -ed",
+      "covers": "และพยัญชนะภาษาอังกฤษ",
+      "minutes": 14,
+      "cards": [
+        {
+          "title_th": "เสียงท้ายต้องออก",
+          "body_th": "ภาษาไทยมีเสียงท้ายจำกัด (แม่ กก กด กบ กง กน กม เกย เกอว) เสียงท้ายอังกฤษอย่าง /s/ /z/ /l/ /f/ /v/ /tʃ/ จึงมักหายหรือเปลี่ยน เช่น rice ฟังเป็น right เพราะ ส ท้ายคำในภาษาไทยออกเสียงเป็น /t/"
+        },
+        {
+          "title_th": "กลุ่มพยัญชนะ",
+          "body_th": "ภาษาไทยมีควบกล้ำแค่กับ ร ล ว แต่อังกฤษมี /st/ /sp/ /sk/ /str/ และกลุ่มท้ายคำอย่าง desk, asked อย่าเติมสระคั่น: school ไม่ใช่ สะ-กูล"
+        },
+        {
+          "title_th": "-s มี 3 เสียง",
+          "body_th": "/s/ หลังเสียงไม่ก้อง: cats, books | /z/ หลังเสียงก้อง: dogs, plays | /ɪz/ หลัง /s z ʃ ʒ tʃ dʒ/: buses, watches, changes"
+        },
+        {
+          "title_th": "-ed มี 3 เสียง",
+          "body_th": "/t/ หลังเสียงไม่ก้อง (ยกเว้น /t/): walked, washed | /d/ หลังเสียงก้อง (ยกเว้น /d/): played, cleaned | /ɪd/ หลัง /t/ /d/: wanted, needed"
+        }
+      ],
+      "vocab": [
+        [
+          "final consonant",
+          "พยัญชนะท้าย"
+        ],
+        [
+          "consonant cluster",
+          "กลุ่มพยัญชนะ"
+        ],
+        [
+          "ending",
+          "ส่วนท้ายคำ"
+        ],
+        [
+          "past tense",
+          "อดีตกาล"
+        ],
+        [
+          "plural",
+          "พหูพจน์"
+        ],
+        [
+          "voiceless sound",
+          "เสียงไม่ก้อง"
+        ],
+        [
+          "voiced sound",
+          "เสียงก้อง"
+        ],
+        [
+          "drop",
+          "ตัดทิ้ง"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "ENL232-U7-01",
+          "skill": "ENL232-U7",
+          "difficulty": 1,
+          "stem": "How is the -ed in 'walked' pronounced?",
+          "options": [
+            "/d/",
+            "/ɪd/",
+            "/t/",
+            "/ed/"
+          ],
+          "answer": 2,
+          "explanation_th": "walk ลงท้ายด้วย /k/ ซึ่งไม่ก้อง -ed จึงเป็น /t/",
+          "why_wrong": [
+            "/d/ ใช้หลังเสียงก้อง",
+            "/ɪd/ ใช้หลัง /t/ หรือ /d/ เท่านั้น",
+            null,
+            "ไม่มีการออกเสียง -ed แบบนี้"
+          ]
+        },
+        {
+          "id": "ENL232-U7-02",
+          "skill": "ENL232-U7",
+          "difficulty": 1,
+          "stem": "How is the -ed in 'played' pronounced?",
+          "options": [
+            "/d/",
+            "/t/",
+            "/ɪd/",
+            "/ed/"
+          ],
+          "answer": 0,
+          "explanation_th": "play ลงท้ายด้วยสระซึ่งก้อง -ed จึงเป็น /d/",
+          "why_wrong": [
+            null,
+            "/t/ ใช้หลังเสียงไม่ก้อง",
+            "/ɪd/ ใช้หลัง /t/ หรือ /d/ เท่านั้น",
+            "ไม่มีการออกเสียง -ed แบบนี้"
+          ]
+        },
+        {
+          "id": "ENL232-U7-03",
+          "skill": "ENL232-U7",
+          "difficulty": 2,
+          "stem": "In which word is -ed pronounced /ɪd/?",
+          "options": [
+            "cleaned",
+            "needed",
+            "laughed",
+            "opened"
+          ],
+          "answer": 1,
+          "explanation_th": "need ลงท้ายด้วย /d/ จึงต้องเป็น /ɪd/",
+          "why_wrong": [
+            "clean ลงท้ายด้วย /n/ -ed เป็น /d/",
+            null,
+            "laugh ลงท้ายด้วย /f/ -ed เป็น /t/",
+            "open ลงท้ายด้วย /n/ -ed เป็น /d/"
+          ]
+        },
+        {
+          "id": "ENL232-U7-04",
+          "skill": "ENL232-U7",
+          "difficulty": 1,
+          "stem": "How is the -es in 'watches' pronounced?",
+          "options": [
+            "/s/",
+            "/z/",
+            "/ɪz/",
+            "It is silent."
+          ],
+          "answer": 2,
+          "explanation_th": "watch ลงท้ายด้วย /tʃ/ -es จึงเป็น /ɪz/",
+          "why_wrong": [
+            "/s/ ใช้หลังเสียงไม่ก้องที่ไม่ใช่เสียงฟ่อ เช่น cats",
+            "/z/ ใช้หลังเสียงก้องที่ไม่ใช่เสียงฟ่อ เช่น dogs",
+            null,
+            "-s ท้ายคำต้องออกเสียงเสมอ"
+          ]
+        },
+        {
+          "id": "ENL232-U7-05",
+          "skill": "ENL232-U7",
+          "difficulty": 1,
+          "stem": "Which word ends with /s/, not /z/?",
+          "options": [
+            "dogs",
+            "bags",
+            "trees",
+            "cats"
+          ],
+          "answer": 3,
+          "explanation_th": "cat ลงท้ายด้วย /t/ ซึ่งไม่ก้อง -s จึงเป็น /s/",
+          "why_wrong": [
+            "dog ลงท้ายด้วย /ɡ/ ซึ่งก้อง -s เป็น /z/",
+            "bag ลงท้ายด้วย /ɡ/ -s เป็น /z/",
+            "tree ลงท้ายด้วยสระ -s เป็น /z/",
+            null
+          ]
+        },
+        {
+          "id": "ENL232-U7-06",
+          "skill": "ENL232-U7",
+          "difficulty": 2,
+          "stem": "A Thai learner says 'rice', but the last sound comes out as /t/. Which word might the listener hear?",
+          "options": [
+            "right",
+            "rise",
+            "ride",
+            "rich"
+          ],
+          "answer": 0,
+          "explanation_th": "rice /raɪs/ ถ้าเสียงท้ายเป็น /t/ จะกลายเป็น right /raɪt/",
+          "why_wrong": [
+            null,
+            "rise ลงท้าย /z/ ไม่ใช่ /t/",
+            "ride ลงท้าย /d/ ไม่ใช่ /t/",
+            "rich ลงท้าย /tʃ/ และสระต่างกัน"
+          ]
+        },
+        {
+          "id": "ENL232-U7-07",
+          "skill": "ENL232-U7",
+          "difficulty": 1,
+          "stem": "Which word starts with a consonant cluster?",
+          "options": [
+            "sing",
+            "pin",
+            "ring",
+            "spring"
+          ],
+          "answer": 3,
+          "explanation_th": "spring ขึ้นต้นด้วย /spr/ สามเสียงติดกัน",
+          "why_wrong": [
+            "ขึ้นต้นด้วยพยัญชนะเดียว /s/",
+            "ขึ้นต้นด้วยพยัญชนะเดียว /p/",
+            "ขึ้นต้นด้วยพยัญชนะเดียว /r/",
+            null
+          ]
+        },
+        {
+          "id": "ENL232-U7-08",
+          "skill": "ENL232-U7",
+          "difficulty": 2,
+          "stem": "Many Thai speakers say 'school' like 'sa-kool'. What is the problem?",
+          "options": [
+            "An extra vowel is added inside the /sk/ cluster.",
+            "The final /l/ is too long.",
+            "The /s/ should be /z/.",
+            "The word needs two syllables."
+          ],
+          "answer": 0,
+          "explanation_th": "school ขึ้นต้นด้วย /sk/ ติดกัน ไม่มีสระคั่น",
+          "why_wrong": [
+            null,
+            "ปัญหาที่ยกมาอยู่ต้นคำ ไม่ใช่ท้ายคำ",
+            "school ขึ้นต้นด้วย /s/ ถูกแล้ว",
+            "school มีพยางค์เดียว การเติมสระทำให้กลายเป็นสองพยางค์"
+          ]
+        },
+        {
+          "id": "ENL232-U7-09",
+          "skill": "ENL232-U7",
+          "difficulty": 1,
+          "stem": "Which word ends with a consonant cluster?",
+          "options": [
+            "day",
+            "sea",
+            "desk",
+            "go"
+          ],
+          "answer": 2,
+          "explanation_th": "desk ลงท้ายด้วย /sk/",
+          "why_wrong": [
+            "ลงท้ายด้วยสระ",
+            "ลงท้ายด้วยสระ",
+            null,
+            "ลงท้ายด้วยสระ"
+          ]
+        }
+      ],
+      "say": [
+        "She walked, played, and wanted more.",
+        "Buses, watches, dogs and cats.",
+        "Six students asked for desks."
+      ],
+      "task_th": "เขียน 5 ประโยคเล่าสิ่งที่ทำเมื่อวาน ให้มีกริยา -ed อย่างน้อย 5 คำและคำนามพหูพจน์อย่างน้อย 3 คำ เขียน /t/ /d/ /ɪd/ /s/ /z/ /ɪz/ กำกับเหนือคำ แล้วอัดเสียงอ่าน ตั้งใจออกเสียงท้ายคำให้ชัดทุกคำ"
+    }
+  ]
+}
