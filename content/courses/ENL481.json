@@ -1,0 +1,1622 @@
+{
+ "code": "ENL481",
+ "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+ "in_class_th": [
+  "น่าจะได้เรียนแนวคิดพื้นฐานเรื่องวัฒนธรรม เช่น การสื่อสารแบบบริบทสูงและบริบทต่ำ แล้วนำมาวิเคราะห์สถานการณ์จริง",
+  "น่าจะมีกรณีศึกษา (case study) เรื่องความเข้าใจผิดในที่ทำงานที่มีคนจากหลายวัฒนธรรม แล้วให้วิเคราะห์ว่าเกิดจากอะไรและควรแก้อย่างไร",
+  "อาจต้องสัมภาษณ์หรือคุยกับคนจากวัฒนธรรมอื่น แล้วนำเสนอสิ่งที่พบ",
+  "อาจเชื่อมโยงกับ ENL432 Sociolinguistics ที่อยู่ในภาคฤดูร้อนเดียวกัน เพราะทั้งสองวิชาพูดถึงภาษากับสังคม"
+ ],
+ "units": [
+  {
+   "id": "ENL481-U1",
+   "title_th": "วัฒนธรรมคืออะไร",
+   "title_en": "What culture is",
+   "covers": "ทฤษฎีเบื้องต้น",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "ความหมาย",
+     "body_th": "วัฒนธรรม (culture) คือค่านิยม ความเชื่อ และพฤติกรรมที่คนในกลุ่มเรียนรู้และใช้ร่วมกัน เราไม่ได้เกิดมาพร้อมวัฒนธรรม แต่เรียนรู้จากครอบครัว โรงเรียน และสังคม"
+    },
+    {
+     "title_th": "ภูเขาน้ำแข็ง",
+     "body_th": "แนวคิดที่นิยมใช้สอนเปรียบวัฒนธรรมเป็นภูเขาน้ำแข็ง ส่วนที่เห็น เช่น อาหาร การแต่งกาย เทศกาล เป็นส่วนเล็ก ส่วนใต้น้ำ เช่น ค่านิยม ความคิดเรื่องเวลาและความสุภาพ ใหญ่กว่าและมองเห็นยาก"
+    },
+    {
+     "title_th": "คนหนึ่งคนมีหลายวัฒนธรรม",
+     "body_th": "เราอยู่ในหลายกลุ่มพร้อมกัน: ประเทศ ภาค วัย ศาสนา สาขาที่เรียน ที่ทำงาน จึงไม่มีใครเป็นตัวแทนของวัฒนธรรมทั้งหมดได้"
+    },
+    {
+     "title_th": "ใช้วัฒนธรรมตัวเองเป็นไม้บรรทัด",
+     "body_th": "การตัดสินวัฒนธรรมอื่นด้วยมาตรฐานของเราเรียกว่า ethnocentrism ทำให้เข้าใจผิดง่าย ลองถาม 'ทำไมเราทำแบบนี้' ก่อนถาม 'ทำไมเขาทำแปลก'"
+    }
+   ],
+   "vocab": [
+    [
+     "culture",
+     "วัฒนธรรม"
+    ],
+    [
+     "values",
+     "ค่านิยม"
+    ],
+    [
+     "beliefs",
+     "ความเชื่อ"
+    ],
+    [
+     "norm",
+     "บรรทัดฐานทางสังคม"
+    ],
+    [
+     "visible",
+     "มองเห็นได้"
+    ],
+    [
+     "invisible",
+     "มองไม่เห็น"
+    ],
+    [
+     "ethnocentrism",
+     "การยึดวัฒนธรรมตนเป็นศูนย์กลาง"
+    ],
+    [
+     "identity",
+     "อัตลักษณ์"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL481-U1-01",
+     "skill": "ENL481-U1",
+     "difficulty": 1,
+     "stem": "Which is the best definition of culture?",
+     "options": [
+      "the famous food, clothes and buildings that tourists see in a country",
+      "the shared values, beliefs and behaviour that a group learns",
+      "the language of a country and nothing else",
+      "the things people know from the day they are born"
+     ],
+     "answer": 1,
+     "explanation_th": "ครบทั้งค่านิยม ความเชื่อ พฤติกรรม และเป็นสิ่งที่เรียนรู้ร่วมกัน",
+     "why_wrong": [
+      "เป็นแค่ส่วนที่มองเห็นของวัฒนธรรม ยังขาดค่านิยมและความเชื่อ",
+      null,
+      "ภาษาเป็นส่วนหนึ่ง ไม่ใช่ทั้งหมด",
+      "วัฒนธรรมเรียนรู้ ไม่ได้ติดตัวมาแต่เกิด"
+     ]
+    },
+    {
+     "id": "ENL481-U1-02",
+     "skill": "ENL481-U1",
+     "difficulty": 1,
+     "stem": "In the 'iceberg' idea of culture, which part is UNDER the water and hard to see?",
+     "options": [
+      "traditional clothes",
+      "festivals",
+      "famous dishes",
+      "ideas about time and respect"
+     ],
+     "answer": 3,
+     "explanation_th": "เป็นค่านิยมและความคิด มองไม่เห็นโดยตรง",
+     "why_wrong": [
+      "มองเห็นได้ อยู่เหนือน้ำ",
+      "มองเห็นได้ อยู่เหนือน้ำ",
+      "มองเห็นได้ อยู่เหนือน้ำ",
+      null
+     ]
+    },
+    {
+     "id": "ENL481-U1-03",
+     "skill": "ENL481-U1",
+     "difficulty": 2,
+     "stem": "Culture is learned. This means ___.",
+     "options": [
+      "we get it from family, school and society as we grow up",
+      "we are born with it in our blood",
+      "only teachers have culture",
+      "it can only be learned in a classroom, from teachers and textbooks"
+     ],
+     "answer": 0,
+     "explanation_th": "เรียนรู้จากสิ่งแวดล้อมขณะเติบโต",
+     "why_wrong": [
+      null,
+      "ขัดกับความหมายของ learned",
+      "ทุกคนมีวัฒนธรรม",
+      "เรียนรู้จากครอบครัว สังคม และชีวิตประจำวันด้วย ไม่ใช่แค่ในห้องเรียน"
+     ]
+    },
+    {
+     "id": "ENL481-U1-04",
+     "skill": "ENL481-U1",
+     "difficulty": 2,
+     "stem": "'Ethnocentrism' means ___.",
+     "options": [
+      "learning many languages",
+      "travelling to many countries to learn how other people live and work",
+      "judging other cultures by the standards of your own culture",
+      "studying old buildings"
+     ],
+     "answer": 2,
+     "explanation_th": "ใช้วัฒนธรรมตนเป็นไม้บรรทัด",
+     "why_wrong": [
+      "ไม่ใช่ความหมายนี้",
+      "นั่นคือการเดินทางเรียนรู้ ไม่ใช่การตัดสินวัฒนธรรมอื่นด้วยมาตรฐานของตัวเอง",
+      null,
+      "ไม่ใช่ความหมายนี้"
+     ]
+    },
+    {
+     "id": "ENL481-U1-05",
+     "skill": "ENL481-U1",
+     "difficulty": 2,
+     "stem": "Which question shows the most open attitude?",
+     "options": [
+      "Why are they so strange?",
+      "Why can't they just do things the normal way, like we do here at home?",
+      "Who taught them such bad habits?",
+      "Why do we do it this way, and why might they do it differently?"
+     ],
+     "answer": 3,
+     "explanation_th": "มองทั้งตัวเองและผู้อื่นโดยไม่ตัดสิน",
+     "why_wrong": [
+      "ตัดสินไปแล้วว่าแปลก",
+      "ถือว่าวิธีของเราคือวิธีปกติที่ถูกเสมอ",
+      "ตัดสินว่าเป็นนิสัยไม่ดี",
+      null
+     ]
+    },
+    {
+     "id": "ENL481-U1-06",
+     "skill": "ENL481-U1",
+     "difficulty": 2,
+     "stem": "Nok is Thai, 22 years old, an engineer and a Buddhist. This shows that ___.",
+     "options": [
+      "Nok represents every Thai person",
+      "one person belongs to many cultural groups",
+      "culture is only about the country where a person was born",
+      "people can have only one identity"
+     ],
+     "answer": 1,
+     "explanation_th": "คนหนึ่งคนอยู่ในหลายกลุ่ม",
+     "why_wrong": [
+      "คนเดียวเป็นตัวแทนทั้งประเทศไม่ได้",
+      null,
+      "อายุ อาชีพ ศาสนาก็เป็นกลุ่มวัฒนธรรม ไม่ใช่แค่ประเทศที่เกิด",
+      "ตัวอย่างแสดงว่ามีหลายอัตลักษณ์"
+     ]
+    },
+    {
+     "id": "ENL481-U1-07",
+     "skill": "ENL481-U1",
+     "difficulty": 1,
+     "stem": "A 'norm' is ___.",
+     "options": [
+      "a written law that can send you to prison if you break it",
+      "a type of food",
+      "an expected way of behaving in a group",
+      "a personal secret"
+     ],
+     "answer": 2,
+     "explanation_th": "norm = บรรทัดฐาน",
+     "why_wrong": [
+      "บรรทัดฐานเป็นความคาดหวังในกลุ่ม ไม่จำเป็นต้องเป็นกฎหมาย",
+      "ไม่ใช่ความหมายนี้",
+      null,
+      "ไม่ใช่ความหมายนี้"
+     ]
+    },
+    {
+     "id": "ENL481-U1-08",
+     "skill": "ENL481-U1",
+     "difficulty": 3,
+     "stem": "A new colleague does not say 'thank you' for small things, like when you pass her a pen. What is the most careful first thought?",
+     "options": [
+      "Maybe people where she grew up don't say thanks for small things.",
+      "She is rude.",
+      "She doesn't like me, so I will stop helping her with small things from now on.",
+      "She has no culture."
+     ],
+     "answer": 0,
+     "explanation_th": "ตั้งสมมติฐานหลายทางก่อนตัดสิน",
+     "why_wrong": [
+      null,
+      "ตัดสินทันทีจากมาตรฐานของเรา",
+      "สรุปเกินหลักฐาน และตอบโต้ก่อนเข้าใจ",
+      "ทุกคนมีวัฒนธรรม"
+     ]
+    }
+   ],
+   "say": [
+    "In my culture, we usually do it this way, but I know it's different in other places.",
+    "I don't want to judge. Can you tell me more about it?"
+   ],
+   "task_th": "วาดภูเขาน้ำแข็งของวัฒนธรรมที่คุณอยู่ (ครอบครัว โรงเรียน หรือกลุ่มเพื่อนก็ได้) เขียนส่วนที่มองเห็น 3 อย่างและส่วนใต้น้ำ 3 อย่างเป็นภาษาอังกฤษ แล้วพูด 3 ประโยคว่าส่วนใต้น้ำ 1 อย่างส่งผลต่อพฤติกรรมอย่างไร"
+  },
+  {
+   "id": "ENL481-U2",
+   "title_th": "เหมารวม หรือ ข้อสังเกตทั่วไป",
+   "title_en": "Stereotypes and generalisations",
+   "covers": "รวมทั้งฝึกคิดวิเคราะห์และตีความความแตกต่างทางวัฒนธรรม",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "Stereotype",
+     "body_th": "การเหมารวมว่าทุกคนในกลุ่มเป็นแบบเดียวกัน และมักไม่ยอมเปลี่ยนความคิดแม้เจอข้อมูลใหม่ เหมารวมแง่บวกก็ยังเป็นการเหมารวม"
+    },
+    {
+     "title_th": "Generalisation",
+     "body_th": "ข้อสังเกตเรื่องแนวโน้มของกลุ่ม ที่ยอมรับว่าแต่ละคนต่างกัน ใช้คำอย่าง many, often, tend to และพร้อมเปลี่ยนเมื่อเจอคนจริง",
+     "example": "In many offices, people tend to reply to emails within a day."
+    },
+    {
+     "title_th": "เช็กตัวเอง 3 ข้อ",
+     "body_th": "1) ใช้คำว่า all / always / never ไหม 2) มาจากหลักฐานหรือแค่ได้ยินมา 3) ตอนเจอคนจริง ยอมเปลี่ยนความคิดไหม"
+    },
+    {
+     "title_th": "บอก ตีความ แล้วค่อยประเมิน",
+     "body_th": "เมื่อเจอสิ่งที่ไม่คุ้น แยก 3 ขั้น: บอกสิ่งที่เห็นจริง (describe) เดาความหมายได้หลายแบบ (interpret) แล้วค่อยตัดสิน (evaluate) ช่วยไม่ให้รีบสรุป"
+    }
+   ],
+   "vocab": [
+    [
+     "stereotype",
+     "การเหมารวม"
+    ],
+    [
+     "generalisation",
+     "ข้อสังเกตทั่วไป"
+    ],
+    [
+     "assumption",
+     "ข้อสันนิษฐาน"
+    ],
+    [
+     "tend to",
+     "มีแนวโน้มที่จะ"
+    ],
+    [
+     "bias",
+     "อคติ"
+    ],
+    [
+     "describe",
+     "บรรยายสิ่งที่เห็น"
+    ],
+    [
+     "interpret",
+     "ตีความ"
+    ],
+    [
+     "evaluate",
+     "ประเมิน ตัดสิน"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL481-U2-01",
+     "skill": "ENL481-U2",
+     "difficulty": 1,
+     "stem": "Which sentence is a stereotype?",
+     "options": [
+      "Some engineers work long hours.",
+      "All engineers are boring.",
+      "Many engineering students take maths classes.",
+      "My friend is an engineer."
+     ],
+     "answer": 1,
+     "explanation_th": "ใช้ all กับลักษณะนิสัย เหมาทุกคน",
+     "why_wrong": [
+      "ใช้ some ไม่ได้เหมาทุกคน",
+      null,
+      "เป็นข้อสังเกตที่เช็กได้ ไม่ได้เหมาทุกคน",
+      "เป็นข้อมูลเรื่องคนคนเดียว"
+     ]
+    },
+    {
+     "id": "ENL481-U2-02",
+     "skill": "ENL481-U2",
+     "difficulty": 2,
+     "stem": "Which sentence is a careful generalisation?",
+     "options": [
+      "Everyone in that company is lazy.",
+      "People from big cities never help others.",
+      "Young people in every office always use their phones during long meetings.",
+      "In many companies, people tend to reply to emails within a day."
+     ],
+     "answer": 3,
+     "explanation_th": "ใช้ many และ tend to ยอมรับว่ามีข้อยกเว้น",
+     "why_wrong": [
+      "เหมาทุกคน และเป็นการตัดสิน",
+      "ใช้ never เหมาทุกคน",
+      "ใช้ every และ always เหมาทุกคน",
+      null
+     ]
+    },
+    {
+     "id": "ENL481-U2-03",
+     "skill": "ENL481-U2",
+     "difficulty": 2,
+     "stem": "What is one main difference between a stereotype and a generalisation?",
+     "options": [
+      "A generalisation allows exceptions and changes with new information.",
+      "A stereotype is always negative.",
+      "A generalisation describes one person, while a stereotype describes a whole group.",
+      "There is no difference between them."
+     ],
+     "answer": 0,
+     "explanation_th": "generalisation ยืดหยุ่นและยอมรับความต่างของแต่ละคน",
+     "why_wrong": [
+      null,
+      "เหมารวมแง่บวกก็ยังเป็น stereotype",
+      "generalisation พูดถึงกลุ่ม ไม่ใช่คนคนเดียว",
+      "ต่างกันที่การยอมรับข้อยกเว้นและหลักฐาน"
+     ]
+    },
+    {
+     "id": "ENL481-U2-04",
+     "skill": "ENL481-U2",
+     "difficulty": 2,
+     "stem": "Which word is a warning sign of a stereotype?",
+     "options": [
+      "some",
+      "often",
+      "always",
+      "may"
+     ],
+     "answer": 2,
+     "explanation_th": "always ไม่เหลือที่ให้ข้อยกเว้น",
+     "why_wrong": [
+      "some ยอมรับว่าไม่ใช่ทุกคน",
+      "often ยอมรับว่าไม่ใช่ทุกครั้ง",
+      null,
+      "may แสดงความเป็นไปได้ ไม่ฟันธง"
+     ]
+    },
+    {
+     "id": "ENL481-U2-05",
+     "skill": "ENL481-U2",
+     "difficulty": 2,
+     "stem": "A colleague eats lunch alone at her desk every day. Which sentence is a DESCRIPTION, not an interpretation?",
+     "options": [
+      "She is unfriendly.",
+      "She doesn't like us.",
+      "She is shy.",
+      "She eats lunch alone at her desk."
+     ],
+     "answer": 3,
+     "explanation_th": "บอกสิ่งที่เห็นจริง ไม่ใส่ความหมาย",
+     "why_wrong": [
+      "เป็นการตัดสิน",
+      "เป็นการเดาใจ",
+      "เป็นการตีความ",
+      null
+     ]
+    },
+    {
+     "id": "ENL481-U2-06",
+     "skill": "ENL481-U2",
+     "difficulty": 3,
+     "stem": "Same colleague. Which is the most open INTERPRETATION?",
+     "options": [
+      "She thinks she is better than us.",
+      "Maybe she likes quiet time, or maybe she is very busy.",
+      "She is unfriendly.",
+      "She is planning to leave the company soon, so she avoids everyone."
+     ],
+     "answer": 1,
+     "explanation_th": "เสนอความเป็นไปได้หลายทาง ไม่ตัดสิน",
+     "why_wrong": [
+      "ตัดสินในแง่ลบทางเดียว",
+      null,
+      "เป็นการตัดสิน ไม่ใช่การตีความแบบเปิด",
+      "สรุปเกินหลักฐาน"
+     ]
+    },
+    {
+     "id": "ENL481-U2-07",
+     "skill": "ENL481-U2",
+     "difficulty": 1,
+     "stem": "'Bias' means ___.",
+     "options": [
+      "a fair and complete study of a person or group, based on facts",
+      "a kind of meeting",
+      "an unfair feeling for or against a person or group",
+      "a polite greeting"
+     ],
+     "answer": 2,
+     "explanation_th": "bias = อคติ",
+     "why_wrong": [
+      "ตรงข้าม bias คือความรู้สึกที่ไม่เป็นธรรม",
+      "ไม่ใช่ความหมายนี้",
+      null,
+      "ไม่ใช่ความหมายนี้"
+     ]
+    },
+    {
+     "id": "ENL481-U2-08",
+     "skill": "ENL481-U2",
+     "difficulty": 3,
+     "stem": "'Everyone from that school is smart.' This sounds positive. Why is it still a stereotype?",
+     "options": [
+      "It says a whole group is the same and ignores differences between people.",
+      "Positive sentences can never be stereotypes.",
+      "It is a stereotype only because it is about students, and students change every year.",
+      "It is too short."
+     ],
+     "answer": 0,
+     "explanation_th": "เหมาทุกคนเหมือนกัน แม้จะเป็นแง่บวก",
+     "why_wrong": [
+      null,
+      "ขัดกับคำถาม เหมารวมแง่บวกก็มี",
+      "ปัญหาไม่ใช่ว่าพูดถึงนักเรียน ปัญหาคือการเหมาว่าทุกคนในกลุ่มเหมือนกัน",
+      "ความยาวไม่เกี่ยว"
+     ]
+    }
+   ],
+   "say": [
+    "That might be true for some people, but not for everyone.",
+    "What I saw was this. One possible reason is that she was busy.",
+    "I don't want to assume. Can I ask you about it?"
+   ],
+   "task_th": "เขียนประโยคเหมารวมที่เคยได้ยิน 2 ประโยค (เรื่องกลุ่มอะไรก็ได้ เช่น วัยรุ่น หรือคนเรียนวิศวะ) แล้วแก้เป็น generalisation ที่ระวังกว่าด้วย some / many / tend to พร้อมเขียนว่าจะหาหลักฐานจากไหน"
+  },
+  {
+   "id": "ENL481-U3",
+   "title_th": "วัจนภาษาและอวัจนภาษา",
+   "title_en": "Verbal and nonverbal differences",
+   "covers": "รูปแบบการสื่อสาร",
+   "minutes": 12,
+   "interview": [
+    "I45"
+   ],
+   "cards": [
+    {
+     "title_th": "พูดตรง หรือ พูดอ้อม",
+     "body_th": "บางกลุ่มนิยมพูดตรง เช่น 'No, I can't.' บางกลุ่มนิยมพูดอ้อมเพื่อรักษาความรู้สึก เช่น 'That might be difficult.' ทั้งสองแบบสุภาพในบริบทของตัวเอง"
+    },
+    {
+     "title_th": "ท่าทางมีความหมายไม่เท่ากันทุกที่",
+     "body_th": "การพยักหน้าอาจแปลว่า 'ฉันฟังอยู่' ไม่ใช่ 'ฉันเห็นด้วย' ท่ามือบางท่าสุภาพในที่หนึ่งแต่ไม่สุภาพอีกที่ ถ้าไม่แน่ใจ อย่าเพิ่งใช้"
+    },
+    {
+     "title_th": "สายตา ระยะห่าง ความเงียบ",
+     "body_th": "ความถี่ของการสบตา ระยะที่ยืนคุย และความเงียบระหว่างบทสนทนา มีความหมายต่างกันในแต่ละกลุ่ม ความเงียบในบางที่แปลว่ากำลังคิดอย่างให้เกียรติ บางที่ทำให้อึดอัด"
+    },
+    {
+     "title_th": "ไม่แน่ใจ ให้ถาม",
+     "body_th": "ถามสั้น ๆ อย่างสุภาพดีกว่าเดา",
+     "example": "Just to check, does 'maybe' mean yes, or that you need more time?"
+    }
+   ],
+   "vocab": [
+    [
+     "verbal",
+     "ที่ใช้คำพูด"
+    ],
+    [
+     "nonverbal",
+     "อวัจนภาษา ไม่ใช้คำพูด"
+    ],
+    [
+     "gesture",
+     "ท่าทาง ท่ามือ"
+    ],
+    [
+     "direct",
+     "ตรงไปตรงมา"
+    ],
+    [
+     "indirect",
+     "อ้อม"
+    ],
+    [
+     "personal space",
+     "ระยะห่างส่วนตัว"
+    ],
+    [
+     "nod",
+     "พยักหน้า"
+    ],
+    [
+     "facial expression",
+     "สีหน้า"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL481-U3-01",
+     "skill": "ENL481-U3",
+     "difficulty": 1,
+     "stem": "Which is an example of NONVERBAL communication?",
+     "options": [
+      "an email",
+      "a smile",
+      "a phone call",
+      "a written report"
+     ],
+     "answer": 1,
+     "explanation_th": "ยิ้มเป็นการสื่อสารโดยไม่ใช้คำ",
+     "why_wrong": [
+      "ใช้คำเขียน",
+      null,
+      "ใช้คำพูด",
+      "ใช้คำเขียน"
+     ]
+    },
+    {
+     "id": "ENL481-U3-02",
+     "skill": "ENL481-U3",
+     "difficulty": 2,
+     "stem": "Which reply is the most INDIRECT way to say no?",
+     "options": [
+      "No, I can't do that.",
+      "No.",
+      "I won't do it.",
+      "That might be a little difficult this week."
+     ],
+     "answer": 3,
+     "explanation_th": "ปฏิเสธโดยไม่ใช้คำว่า no",
+     "why_wrong": [
+      "ปฏิเสธตรง",
+      "ปฏิเสธตรงที่สุด",
+      "ปฏิเสธตรงและแรง",
+      null
+     ]
+    },
+    {
+     "id": "ENL481-U3-03",
+     "skill": "ENL481-U3",
+     "difficulty": 2,
+     "stem": "In a meeting, a colleague nods while you speak. What is the safest way to understand it?",
+     "options": [
+      "It may only mean 'I'm listening', so check if you need a clear yes.",
+      "It always means full agreement, so you can move on to the next point.",
+      "It means they want you to stop talking.",
+      "It means they are bored."
+     ],
+     "answer": 0,
+     "explanation_th": "การพยักหน้าอาจหมายถึงฟังอยู่ ไม่ใช่เห็นด้วยเสมอ",
+     "why_wrong": [
+      null,
+      "ไม่เสมอไป การพยักหน้าอาจแค่แปลว่ากำลังฟัง",
+      "ไม่ใช่ความหมายทั่วไปของการพยักหน้า",
+      "สรุปเกินสิ่งที่เห็น"
+     ]
+    },
+    {
+     "id": "ENL481-U3-04",
+     "skill": "ENL481-U3",
+     "difficulty": 2,
+     "stem": "'Personal space' is ___.",
+     "options": [
+      "a private room in your home where nobody else is allowed to go in",
+      "an empty page in a notebook",
+      "the distance people like to keep from others when they talk",
+      "time alone on the weekend"
+     ],
+     "answer": 2,
+     "explanation_th": "ระยะห่างส่วนตัว",
+     "why_wrong": [
+      "เป็นความหมายตรงตัว ไม่ใช่คำนี้",
+      "ไม่ใช่ความหมายนี้",
+      null,
+      "ไม่ใช่ความหมายนี้"
+     ]
+    },
+    {
+     "id": "ENL481-U3-05",
+     "skill": "ENL481-U3",
+     "difficulty": 2,
+     "stem": "In a meeting, a colleague is silent for a few seconds before answering. What is a fair first thought?",
+     "options": [
+      "They don't understand anything.",
+      "They are angry with me.",
+      "They want the meeting to end.",
+      "They may be thinking carefully before they speak."
+     ],
+     "answer": 3,
+     "explanation_th": "ความเงียบอาจแปลว่ากำลังคิด",
+     "why_wrong": [
+      "สรุปเกินหลักฐาน",
+      "สรุปเกินหลักฐาน",
+      "สรุปเกินหลักฐาน",
+      null
+     ]
+    },
+    {
+     "id": "ENL481-U3-06",
+     "skill": "ENL481-U3",
+     "difficulty": 1,
+     "stem": "A 'gesture' is ___.",
+     "options": [
+      "a written rule",
+      "a movement of the hands or head that shows meaning",
+      "a loud voice",
+      "a type of letter"
+     ],
+     "answer": 1,
+     "explanation_th": "gesture = ท่าทาง",
+     "why_wrong": [
+      "ไม่ใช่ความหมายนี้",
+      null,
+      "ไม่ใช่ความหมายนี้",
+      "ไม่ใช่ความหมายนี้"
+     ]
+    },
+    {
+     "id": "ENL481-U3-07",
+     "skill": "ENL481-U3",
+     "difficulty": 3,
+     "stem": "You are not sure if a hand sign is polite in a new country. What is the best action?",
+     "options": [
+      "Use it often to see what happens.",
+      "Use it anyway, because it is polite in your own country and people will understand.",
+      "Avoid it for now, and ask a local friend or colleague about it.",
+      "Never use your hands again."
+     ],
+     "answer": 2,
+     "explanation_th": "เลี่ยงก่อนแล้วถามคนในพื้นที่",
+     "why_wrong": [
+      "เสี่ยงทำให้คนอื่นไม่พอใจ",
+      "ใช้มาตรฐานของตัวเองตัดสิน และเสี่ยงทำให้คนอื่นไม่พอใจ",
+      null,
+      "เกินจำเป็น"
+     ]
+    },
+    {
+     "id": "ENL481-U3-08",
+     "skill": "ENL481-U3",
+     "difficulty": 2,
+     "stem": "Which is a VERBAL sign of indirect communication?",
+     "options": [
+      "using softening words like 'maybe' and 'perhaps'",
+      "standing very close to someone",
+      "looking down",
+      "crossing your arms"
+     ],
+     "answer": 0,
+     "explanation_th": "เป็นการเลือกใช้คำ จึงเป็นวัจนภาษา",
+     "why_wrong": [
+      null,
+      "เป็นอวัจนภาษา",
+      "เป็นอวัจนภาษา",
+      "เป็นอวัจนภาษา"
+     ]
+    }
+   ],
+   "say": [
+    "Just to check, did you mean yes, or that you need more time?",
+    "In Thailand we usually wai to say hello. How do people greet each other where you're from?",
+    "Sorry, I'm not sure about the custom here. Is it OK to sit here?"
+   ],
+   "task_th": "ดูคลิปการประชุมหรือสัมภาษณ์ภาษาอังกฤษ 3 นาทีแบบปิดเสียง จดอวัจนภาษาที่เห็น 5 อย่าง (สีหน้า ท่ามือ การสบตา ระยะห่าง การพยักหน้า) พร้อมเดาความหมาย แล้วเปิดเสียงดูอีกรอบว่าเดาถูกแค่ไหน"
+  },
+  {
+   "id": "ENL481-U4",
+   "title_th": "บริบทสูงและบริบทต่ำ",
+   "title_en": "High-context and low-context communication",
+   "covers": "ทฤษฎีเบื้องต้น รูปแบบการสื่อสาร",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "แนวคิดของ Edward T. Hall",
+     "body_th": "นักมานุษยวิทยา Edward T. Hall อธิบายว่าการสื่อสารต่างกันตามว่าความหมายส่วนใหญ่อยู่ใน 'คำพูด' หรือใน 'บริบท' เช่น ความสัมพันธ์ สถานการณ์ น้ำเสียง และสิ่งที่ไม่ได้พูด"
+    },
+    {
+     "title_th": "บริบทต่ำ (low-context)",
+     "body_th": "ความหมายส่วนใหญ่อยู่ในคำ พูดชัด ตรง มีรายละเอียด และเขียนข้อตกลงลงอีเมลหรือเอกสาร ถ้าไม่ได้พูดออกมา ก็ถือว่ายังไม่ได้ตกลง"
+    },
+    {
+     "title_th": "บริบทสูง (high-context)",
+     "body_th": "ความหมายส่วนใหญ่อยู่ในบริบท คนที่รู้จักกันดีเข้าใจกันจากความสัมพันธ์และสิ่งที่ไม่ได้พูด ผู้ฟังต้องอ่านน้ำเสียงและสถานการณ์"
+    },
+    {
+     "title_th": "เป็นสเกล ไม่ใช่กล่อง",
+     "body_th": "ไม่มีกลุ่มไหนเป็นแบบเดียว 100% คนคนเดียวก็สลับได้ เช่น คุยกับเพื่อนสนิทแบบบริบทสูง แต่เขียนอีเมลงานแบบบริบทต่ำ และไม่มีแบบไหนดีกว่าอีกแบบ"
+    }
+   ],
+   "vocab": [
+    [
+     "high-context",
+     "บริบทสูง"
+    ],
+    [
+     "low-context",
+     "บริบทต่ำ"
+    ],
+    [
+     "explicit",
+     "ชัดแจ้ง"
+    ],
+    [
+     "implicit",
+     "โดยนัย"
+    ],
+    [
+     "relationship",
+     "ความสัมพันธ์"
+    ],
+    [
+     "read between the lines",
+     "อ่านความหมายแฝง"
+    ],
+    [
+     "spell out",
+     "อธิบายให้ชัดทุกรายละเอียด"
+    ],
+    [
+     "tone",
+     "น้ำเสียง"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL481-U4-01",
+     "skill": "ENL481-U4",
+     "difficulty": 1,
+     "stem": "In LOW-context communication, most of the meaning is in ___.",
+     "options": [
+      "the relationship between people",
+      "the exact words people say or write",
+      "silence",
+      "the place where people meet"
+     ],
+     "answer": 1,
+     "explanation_th": "บริบทต่ำ ความหมายอยู่ในคำ",
+     "why_wrong": [
+      "เป็นลักษณะของบริบทสูง",
+      null,
+      "เป็นลักษณะของบริบทสูงมากกว่า",
+      "สถานการณ์เป็นบริบท ใช้มากในบริบทสูง"
+     ]
+    },
+    {
+     "id": "ENL481-U4-02",
+     "skill": "ENL481-U4",
+     "difficulty": 1,
+     "stem": "In HIGH-context communication, people often ___.",
+     "options": [
+      "put every detail in writing so nobody has to guess what they mean",
+      "say everything very directly",
+      "ignore tone of voice",
+      "understand meaning from the situation and the relationship"
+     ],
+     "answer": 3,
+     "explanation_th": "บริบทสูง ความหมายอยู่ในบริบท",
+     "why_wrong": [
+      "เป็นลักษณะของบริบทต่ำ",
+      "เป็นลักษณะของบริบทต่ำ",
+      "บริบทสูงให้ความสำคัญกับน้ำเสียง",
+      null
+     ]
+    },
+    {
+     "id": "ENL481-U4-03",
+     "skill": "ENL481-U4",
+     "difficulty": 2,
+     "stem": "Manager: 'The report is due Friday at 5 p.m. Please send it as a PDF.' This message is ___.",
+     "options": [
+      "low-context: clear and explicit",
+      "high-context: the meaning is hidden",
+      "nonverbal",
+      "a stereotype"
+     ],
+     "answer": 0,
+     "explanation_th": "บอกครบทุกอย่างในคำ",
+     "why_wrong": [
+      null,
+      "ไม่มีความหมายแฝง",
+      "เป็นคำพูดหรือข้อความ",
+      "ไม่ได้พูดถึงกลุ่มคน"
+     ]
+    },
+    {
+     "id": "ENL481-U4-04",
+     "skill": "ENL481-U4",
+     "difficulty": 2,
+     "stem": "'Read between the lines' means ___.",
+     "options": [
+      "read every line twice",
+      "skip some lines",
+      "understand a meaning that is not said directly",
+      "write your own notes in the space between the lines of a book"
+     ],
+     "answer": 2,
+     "explanation_th": "เข้าใจความหมายแฝง",
+     "why_wrong": [
+      "เป็นความหมายตรงตัว ไม่ใช่สำนวนนี้",
+      "ไม่ใช่ความหมายนี้",
+      null,
+      "เป็นความหมายตรงตัว ไม่ใช่สำนวนนี้"
+     ]
+    },
+    {
+     "id": "ENL481-U4-05",
+     "skill": "ENL481-U4",
+     "difficulty": 2,
+     "stem": "Which statement about high and low context is TRUE?",
+     "options": [
+      "Everyone in a culture communicates in exactly the same way.",
+      "High-context communication is always better, because it is more polite than low-context.",
+      "Low-context speakers are always rude.",
+      "It is a scale, and people shift along it in different situations."
+     ],
+     "answer": 3,
+     "explanation_th": "เป็นสเกล และเปลี่ยนตามสถานการณ์",
+     "why_wrong": [
+      "แต่ละคนต่างกัน",
+      "ไม่มีแบบไหนดีกว่ากัน และพูดตรงไม่ได้แปลว่าไม่สุภาพ",
+      "เป็นการเหมารวม พูดตรงไม่ได้แปลว่าหยาบ",
+      null
+     ]
+    },
+    {
+     "id": "ENL481-U4-06",
+     "skill": "ENL481-U4",
+     "difficulty": 3,
+     "stem": "In a team meeting, Mai's teammate says, 'Hmm, Friday is... interesting,' and goes quiet. He looks worried. What is the best next step for Mai?",
+     "options": [
+      "Assume he agrees because he didn't say no.",
+      "Ask him privately if the Friday deadline is a problem.",
+      "Tell everyone he is lazy.",
+      "Ignore it, because he didn't say anything clear about the deadline."
+     ],
+     "answer": 1,
+     "explanation_th": "อ่านสัญญาณแล้วถามเป็นส่วนตัว ไม่ทำให้เสียหน้า",
+     "why_wrong": [
+      "มองข้ามสัญญาณที่ไม่ได้พูด",
+      null,
+      "ตัดสินและทำให้เสียหน้า",
+      "พลาดสัญญาณที่สำคัญ"
+     ]
+    },
+    {
+     "id": "ENL481-U4-07",
+     "skill": "ENL481-U4",
+     "difficulty": 2,
+     "stem": "You work with someone who prefers low-context communication. What helps most?",
+     "options": [
+      "Hint at problems gently and let them work out what you really mean.",
+      "Expect them to guess what you want.",
+      "Give clear details and write a short summary of what you agreed.",
+      "Never write anything down."
+     ],
+     "answer": 2,
+     "explanation_th": "ให้ข้อมูลชัดและเป็นลายลักษณ์อักษร",
+     "why_wrong": [
+      "เขาอาจไม่เข้าใจคำใบ้ คนที่ชอบบริบทต่ำคาดหวังคำพูดที่ชัด",
+      "ไม่ตรงกับความคาดหวังของเขา",
+      null,
+      "เขาคาดหวังข้อตกลงที่ชัด"
+     ]
+    },
+    {
+     "id": "ENL481-U4-08",
+     "skill": "ENL481-U4",
+     "difficulty": 1,
+     "stem": "'Implicit' means ___.",
+     "options": [
+      "suggested but not said directly",
+      "said very clearly",
+      "written in a contract",
+      "spoken loudly"
+     ],
+     "answer": 0,
+     "explanation_th": "implicit = โดยนัย",
+     "why_wrong": [
+      null,
+      "นั่นคือ explicit",
+      "ไม่ใช่ความหมายนี้",
+      "ไม่ใช่ความหมายนี้"
+     ]
+    }
+   ],
+   "say": [
+    "Just to be clear, can we write down what we agreed?",
+    "Let me spell it out: the report is due on Friday at 5 p.m.",
+    "I think there's more behind what she said. I'll ask her privately."
+   ],
+   "task_th": "หาข้อความแชตงานกลุ่มที่เคยส่ง 1 ข้อความ เขียนใหม่เป็นภาษาอังกฤษ 2 แบบ: แบบบริบทต่ำ (ชัด ตรง มีวันเวลา) และแบบบริบทสูงกว่า (สุภาพ อ้อม เน้นความสัมพันธ์) แล้วเขียน 2 ประโยคว่าต่างกันตรงไหน"
+  },
+  {
+   "id": "ENL481-U5",
+   "title_th": "ความสุภาพและการรักษาหน้า",
+   "title_en": "Politeness and face",
+   "covers": "แนวคิดทางภาษาและวัฒนธรรมที่แตกต่าง",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "หน้า (face)",
+     "body_th": "face คือภาพลักษณ์และศักดิ์ศรีที่คนอยากให้คนอื่นเห็น ทุกวัฒนธรรมมีเรื่องหน้า แต่ระดับและวิธีรักษาต่างกัน คนไทยคุ้นกับคำว่า 'รักษาหน้า' และ 'เสียหน้า'"
+    },
+    {
+     "title_th": "มาจากไหน",
+     "body_th": "นักสังคมวิทยา Erving Goffman เขียนเรื่อง face ไว้ และต่อมา Penelope Brown กับ Stephen Levinson นำแนวคิดนี้มาอธิบายความสุภาพในภาษา"
+    },
+    {
+     "title_th": "ภาษาช่วยรักษาหน้า",
+     "body_th": "ขอร้องแบบอ้อม ใส่คำนำก่อนขอ ชมก่อนเสนอให้แก้ และติในที่ลับ",
+     "example": "Sorry to bother you, but could you possibly check this?"
+    },
+    {
+     "title_th": "ระดับความสุภาพเปลี่ยนตามคน",
+     "body_th": "พูดกับหัวหน้า คนแปลกหน้า หรือคนอายุมากกว่า มักต้องสุภาพกว่าพูดกับเพื่อน แต่ระยะห่างนี้มากน้อยต่างกัน บางที่เรียกหัวหน้าด้วยชื่อต้นได้ บางที่ต้องใช้คำนำหน้า"
+    },
+    {
+     "title_th": "เกรงใจ",
+     "body_th": "เกรงใจ (kreng jai) คือไม่อยากรบกวนหรือทำให้คนอื่นลำบากใจ เป็นจุดแข็ง แต่ถ้าเกรงใจจนไม่ถามเรื่องสำคัญ งานอาจพลาด ถามอย่างสุภาพดีกว่าเงียบ"
+    }
+   ],
+   "vocab": [
+    [
+     "face",
+     "หน้า ศักดิ์ศรี"
+    ],
+    [
+     "lose face",
+     "เสียหน้า"
+    ],
+    [
+     "save face",
+     "รักษาหน้า"
+    ],
+    [
+     "politeness",
+     "ความสุภาพ"
+    ],
+    [
+     "request",
+     "คำขอร้อง"
+    ],
+    [
+     "criticise",
+     "วิจารณ์ ติ"
+    ],
+    [
+     "formal",
+     "เป็นทางการ"
+    ],
+    [
+     "hierarchy",
+     "ลำดับชั้น"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL481-U5-01",
+     "skill": "ENL481-U5",
+     "difficulty": 1,
+     "stem": "To 'lose face' means ___.",
+     "options": [
+      "to forget someone's face",
+      "to feel embarrassed because others see you in a bad way",
+      "to get a new haircut",
+      "to win an argument"
+     ],
+     "answer": 1,
+     "explanation_th": "เสียหน้า",
+     "why_wrong": [
+      "เป็นความหมายตรงตัว ไม่ใช่สำนวนนี้",
+      null,
+      "ไม่ใช่ความหมายนี้",
+      "ไม่ใช่ความหมายนี้"
+     ]
+    },
+    {
+     "id": "ENL481-U5-02",
+     "skill": "ENL481-U5",
+     "difficulty": 2,
+     "stem": "Which request is the most polite to a manager you don't know well?",
+     "options": [
+      "Check this report.",
+      "You need to check this report for me before the end of today, OK?",
+      "Hey, check this, OK?",
+      "Sorry to bother you, but could you possibly check this report?"
+     ],
+     "answer": 3,
+     "explanation_th": "มีคำนำและขอแบบอ้อม",
+     "why_wrong": [
+      "เป็นคำสั่ง",
+      "กดดันและเป็นคำสั่ง",
+      "ไม่เป็นทางการเกินไปสำหรับคนที่ไม่สนิท",
+      null
+     ]
+    },
+    {
+     "id": "ENL481-U5-03",
+     "skill": "ENL481-U5",
+     "difficulty": 2,
+     "stem": "Your teammate made a mistake on a slide. What is the most face-saving way to tell them?",
+     "options": [
+      "Talk to them privately and suggest a fix politely.",
+      "Point it out loudly in front of the whole team.",
+      "Post it in the group chat with a laughing emoji.",
+      "Tell the manager before you tell your teammate."
+     ],
+     "answer": 0,
+     "explanation_th": "ติในที่ลับและเสนอทางแก้",
+     "why_wrong": [
+      null,
+      "ทำให้เสียหน้าต่อหน้าคนอื่น",
+      "ทำให้อายต่อหน้าทุกคน",
+      "ข้ามหัวเพื่อนร่วมทีม ทำให้เสียหน้า"
+     ]
+    },
+    {
+     "id": "ENL481-U5-04",
+     "skill": "ENL481-U5",
+     "difficulty": 2,
+     "stem": "'Kreng jai' can cause a problem in a team when ___.",
+     "options": [
+      "you thank people for their help and show respect to more senior colleagues",
+      "you are kind to new colleagues",
+      "you avoid asking an important question so you won't disturb anyone",
+      "you listen carefully to others"
+     ],
+     "answer": 2,
+     "explanation_th": "เกรงใจจนไม่ถามเรื่องสำคัญ งานอาจพลาด",
+     "why_wrong": [
+      "เป็นเรื่องดี ไม่ได้สร้างปัญหาให้ทีม",
+      "เป็นเรื่องดี",
+      null,
+      "เป็นเรื่องดี"
+     ]
+    },
+    {
+     "id": "ENL481-U5-05",
+     "skill": "ENL481-U5",
+     "difficulty": 2,
+     "stem": "Which feedback saves the listener's face best?",
+     "options": [
+      "This is bad. Do it again.",
+      "Why did you write so much? Please try to think before you write.",
+      "Nobody will read this.",
+      "This is a good start. Could we make the second part shorter?"
+     ],
+     "answer": 3,
+     "explanation_th": "ชมก่อนแล้วเสนอแก้แบบอ้อม",
+     "why_wrong": [
+      "ติตรงและแรง",
+      "ฟังเหมือนตำหนิ และทำให้เสียหน้า",
+      "ทำให้เสียกำลังใจ",
+      null
+     ]
+    },
+    {
+     "id": "ENL481-U5-06",
+     "skill": "ENL481-U5",
+     "difficulty": 1,
+     "stem": "A 'hierarchy' at work is ___.",
+     "options": [
+      "a weekly meeting",
+      "a system of levels, from new staff to senior managers",
+      "a type of email",
+      "a lunch break"
+     ],
+     "answer": 1,
+     "explanation_th": "hierarchy = ลำดับชั้น",
+     "why_wrong": [
+      "ไม่ใช่ความหมายนี้",
+      null,
+      "ไม่ใช่ความหมายนี้",
+      "ไม่ใช่ความหมายนี้"
+     ]
+    },
+    {
+     "id": "ENL481-U5-07",
+     "skill": "ENL481-U5",
+     "difficulty": 3,
+     "stem": "In some workplaces, staff call their manager by first name. In others, they use a title like 'Khun' or 'Mr.' What is the best conclusion?",
+     "options": [
+      "Using first names is always rude.",
+      "Using titles is always old-fashioned.",
+      "How formal to be with seniors differs between workplaces and cultures.",
+      "There is one correct way, and the other workplaces should learn to follow it."
+     ],
+     "answer": 2,
+     "explanation_th": "สรุปอย่างเป็นกลาง ไม่ตัดสิน",
+     "why_wrong": [
+      "ตัดสินด้วยมาตรฐานเดียว",
+      "ตัดสินด้วยมาตรฐานเดียว",
+      null,
+      "ขัดกับตัวอย่างในคำถาม ไม่มีวิธีเดียวที่ถูก"
+     ]
+    },
+    {
+     "id": "ENL481-U5-08",
+     "skill": "ENL481-U5",
+     "difficulty": 2,
+     "stem": "Which phrase softens a request?",
+     "options": [
+      "Would you mind ...?",
+      "You must ...",
+      "Do it now.",
+      "I order you to ..."
+     ],
+     "answer": 0,
+     "explanation_th": "เป็นการขอแบบสุภาพ",
+     "why_wrong": [
+      null,
+      "เป็นคำสั่ง",
+      "เป็นคำสั่ง",
+      "เป็นคำสั่งที่แรงมาก"
+     ]
+    }
+   ],
+   "say": [
+    "Sorry to bother you, but could you check this for me?",
+    "This is a good start. Could we make the second part a bit shorter?",
+    "Could I talk to you in private for a minute?"
+   ],
+   "task_th": "เขียนคำขอร้องภาษาอังกฤษเรื่องเดียวกัน 'ขอเลื่อนส่งงาน 1 วัน' 3 ระดับ: ถึงเพื่อน ถึงรุ่นพี่ และถึงอาจารย์ แล้ววงคำที่ทำให้แต่ละระดับสุภาพขึ้น"
+  },
+  {
+   "id": "ENL481-U6",
+   "title_th": "ช็อกทางวัฒนธรรมและการปรับตัว",
+   "title_en": "Culture shock and adapting",
+   "covers": "ตีความความแตกต่างทางวัฒนธรรม",
+   "minutes": 12,
+   "interview": [
+    "I59"
+   ],
+   "cards": [
+    {
+     "title_th": "Culture shock คืออะไร",
+     "body_th": "ความเครียด สับสน หรือเหนื่อย เมื่อต้องอยู่ในวัฒนธรรมใหม่ที่สิ่งคุ้นเคยหายไป คำนี้เป็นที่รู้จักแพร่หลายจากนักมานุษยวิทยา Kalervo Oberg"
+    },
+    {
+     "title_th": "ช่วงที่มักพบ",
+     "body_th": "หลายตำราเล่าเป็นช่วง: ตื่นเต้น (honeymoon), หงุดหงิด (frustration), ค่อย ๆ ปรับ (adjustment), รู้สึกเป็นส่วนหนึ่ง (adaptation) แต่ละคนไม่จำเป็นต้องผ่านครบหรือเรียงตามนี้"
+    },
+    {
+     "title_th": "สัญญาณ",
+     "body_th": "คิดถึงบ้านมาก นอนไม่หลับ หงุดหงิดกับเรื่องเล็ก ไม่อยากออกไปไหน เป็นเรื่องปกติ ไม่ได้แปลว่าอ่อนแอ"
+    },
+    {
+     "title_th": "วิธีรับมือ",
+     "body_th": "เรียนรู้ล่วงหน้า มีเพื่อนทั้งคนในพื้นที่และคนที่มาจากที่เดียวกัน รักษากิจวัตรเดิมบางอย่าง ถามแทนตัดสิน และให้เวลาตัวเอง"
+    },
+    {
+     "title_th": "กลับบ้านก็ช็อกได้",
+     "body_th": "reverse culture shock คืออาการไม่คุ้นกับบ้านของตัวเอง หลังจากไปอยู่ที่อื่นมานาน"
+    }
+   ],
+   "vocab": [
+    [
+     "culture shock",
+     "ภาวะช็อกทางวัฒนธรรม"
+    ],
+    [
+     "homesick",
+     "คิดถึงบ้าน"
+    ],
+    [
+     "adapt",
+     "ปรับตัว"
+    ],
+    [
+     "adjustment",
+     "การปรับตัว"
+    ],
+    [
+     "frustration",
+     "ความหงุดหงิด"
+    ],
+    [
+     "routine",
+     "กิจวัตร"
+    ],
+    [
+     "reverse culture shock",
+     "ช็อกเมื่อกลับบ้าน"
+    ],
+    [
+     "cope with",
+     "รับมือกับ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL481-U6-01",
+     "skill": "ENL481-U6",
+     "difficulty": 1,
+     "stem": "'Culture shock' is ___.",
+     "options": [
+      "a fight between two countries",
+      "the stress and confusion people can feel in a new culture",
+      "a special festival",
+      "a sudden change in the weather when you travel to a new country"
+     ],
+     "answer": 1,
+     "explanation_th": "ความเครียดและสับสนในวัฒนธรรมใหม่",
+     "why_wrong": [
+      "ไม่ใช่ความหมายนี้",
+      null,
+      "ไม่ใช่ความหมายนี้",
+      "ไม่ใช่ความหมายนี้ culture shock คือความเครียดและความสับสนต่อวัฒนธรรมใหม่ ไม่ใช่อากาศ"
+     ]
+    },
+    {
+     "id": "ENL481-U6-02",
+     "skill": "ENL481-U6",
+     "difficulty": 1,
+     "stem": "'Homesick' means ___.",
+     "options": [
+      "sick because of your house",
+      "happy to be away from home",
+      "staying at home because of a cold",
+      "missing your home and family"
+     ],
+     "answer": 3,
+     "explanation_th": "homesick = คิดถึงบ้าน",
+     "why_wrong": [
+      "เป็นความหมายตรงตัว ไม่ใช่คำนี้",
+      "ตรงข้าม",
+      "ไม่ใช่ความหมายนี้",
+      null
+     ]
+    },
+    {
+     "id": "ENL481-U6-03",
+     "skill": "ENL481-U6",
+     "difficulty": 2,
+     "stem": "In the first weeks in a new country, many people feel that everything is exciting and new. This is often called the ___ stage.",
+     "options": [
+      "honeymoon",
+      "frustration",
+      "adjustment",
+      "reverse"
+     ],
+     "answer": 0,
+     "explanation_th": "ช่วงแรกที่ทุกอย่างดูสนุก",
+     "why_wrong": [
+      null,
+      "เป็นช่วงที่หงุดหงิด",
+      "เป็นช่วงที่ค่อย ๆ ปรับตัว",
+      "เป็นเรื่องตอนกลับบ้าน"
+     ]
+    },
+    {
+     "id": "ENL481-U6-04",
+     "skill": "ENL481-U6",
+     "difficulty": 2,
+     "stem": "Which is the healthiest way to cope with culture shock?",
+     "options": [
+      "Stay in your room until it is time to go home.",
+      "Decide that the new culture is wrong.",
+      "Keep some old routines, make local friends, and ask questions.",
+      "Only spend time with people from your home country, because they understand you."
+     ],
+     "answer": 2,
+     "explanation_th": "รักษาความคุ้นเคยบางส่วน และเปิดรับสิ่งใหม่",
+     "why_wrong": [
+      "แยกตัวทำให้ปรับตัวยากขึ้น",
+      "เป็นการตัดสิน ไม่ได้ช่วยปรับตัว",
+      null,
+      "มีเพื่อนจากที่เดียวกันได้ แต่ถ้าอยู่แค่กลุ่มนี้จะปรับตัวยาก"
+     ]
+    },
+    {
+     "id": "ENL481-U6-05",
+     "skill": "ENL481-U6",
+     "difficulty": 2,
+     "stem": "Arm comes back to Thailand after two years abroad. For several weeks, home feels strange to him. This is ___.",
+     "options": [
+      "the honeymoon stage",
+      "a stereotype",
+      "jet lag",
+      "reverse culture shock"
+     ],
+     "answer": 3,
+     "explanation_th": "ไม่คุ้นกับบ้านตัวเองหลังกลับมา",
+     "why_wrong": [
+      "เป็นช่วงตื่นเต้นในที่ใหม่",
+      "ไม่ได้พูดถึงการเหมารวม",
+      "jet lag หายในไม่กี่วัน และเกี่ยวกับเวลานอน ไม่ใช่ความรู้สึกต่อวัฒนธรรม",
+      null
+     ]
+    },
+    {
+     "id": "ENL481-U6-06",
+     "skill": "ENL481-U6",
+     "difficulty": 2,
+     "stem": "Which statement about the stages of culture shock is most accurate?",
+     "options": [
+      "Everyone goes through exactly the same four stages, in the same order, in four months.",
+      "They are a common pattern, but people go through them differently.",
+      "Only weak people feel culture shock.",
+      "Culture shock only happens to tourists."
+     ],
+     "answer": 1,
+     "explanation_th": "เป็นแบบแผนที่พบบ่อย ไม่ใช่กฎตายตัว",
+     "why_wrong": [
+      "ไม่มีกำหนดตายตัวแบบนี้ แต่ละคนต่างกัน",
+      null,
+      "เป็นเรื่องปกติของทุกคน",
+      "เกิดกับนักเรียน คนทำงาน และคนย้ายถิ่นด้วย"
+     ]
+    },
+    {
+     "id": "ENL481-U6-07",
+     "skill": "ENL481-U6",
+     "difficulty": 3,
+     "stem": "During an internship in another country, Fon feels angry that shops close early. Which thought helps her adapt?",
+     "options": [
+      "This country is badly organised, and the shops should open as late as they do at home.",
+      "I will complain to every shop.",
+      "This is different from home. I'll find out why and shop earlier.",
+      "I should go home right now."
+     ],
+     "answer": 2,
+     "explanation_th": "ยอมรับความต่าง หาเหตุผล และปรับพฤติกรรม",
+     "why_wrong": [
+      "ตัดสินด้วยมาตรฐานของตัวเอง",
+      "ไม่ได้ช่วยให้ปรับตัว",
+      null,
+      "หนีปัญหาแทนการปรับตัว"
+     ]
+    },
+    {
+     "id": "ENL481-U6-08",
+     "skill": "ENL481-U6",
+     "difficulty": 2,
+     "stem": "'Cope with' means ___.",
+     "options": [
+      "deal successfully with a difficult situation",
+      "copy someone",
+      "run away from",
+      "complain about"
+     ],
+     "answer": 0,
+     "explanation_th": "cope with = รับมือ",
+     "why_wrong": [
+      null,
+      "ไม่ใช่ความหมายนี้",
+      "ตรงข้าม",
+      "ไม่ใช่ความหมายนี้"
+     ]
+    }
+   ],
+   "say": [
+    "Everything is new, so I feel a bit tired, but that's normal.",
+    "Could you tell me how people usually do this here?",
+    "I miss home sometimes, so I call my family every weekend."
+   ],
+   "task_th": "นึกถึงตอนที่ต้องไปอยู่ที่ใหม่ (ค่าย โรงเรียนใหม่ หรือเที่ยวต่างจังหวัด) เขียนภาษาอังกฤษ 4 ประโยค: สิ่งที่ตื่นเต้น สิ่งที่หงุดหงิด สิ่งที่ช่วยให้ปรับตัว และสิ่งที่จะทำถ้าต้องไปทำงานในทีมที่มีคนหลายวัฒนธรรม"
+  },
+  {
+   "id": "ENL481-U7",
+   "title_th": "ทำงานในทีมหลายวัฒนธรรม",
+   "title_en": "Working in multicultural teams",
+   "covers": "โดยเฉพาะในสถานที่ทำงาน",
+   "minutes": 14,
+   "interview": [
+    "I29",
+    "I43"
+   ],
+   "cards": [
+    {
+     "title_th": "ทีมหลายวัฒนธรรม",
+     "body_th": "ข้อดีคือได้ความคิดหลากหลาย ความท้าทายคือความคาดหวังเรื่องเวลา การตัดสินใจ การให้ feedback และภาษา อาจไม่ตรงกัน"
+    },
+    {
+     "title_th": "ภาษาอังกฤษสำหรับทุกคน",
+     "body_th": "ทีมที่ใช้อังกฤษเป็นภาษากลาง: พูดช้าและชัด ใช้ประโยคสั้น เลี่ยงคำแสลง (slang) และสำนวน (idiom)",
+     "example": "'Let's touch base next week.' ใช้ 'Let's talk again next week.' จะง่ายกว่า"
+    },
+    {
+     "title_th": "ตกลงกติกาทีมตั้งแต่ต้น",
+     "body_th": "คุยให้ชัดตั้งแต่แรก: deadline หมายถึงกี่โมง ตัดสินใจแบบโหวตหรือหัวหน้าตัดสิน ติดต่อทางไหน ควรตอบข้อความภายในกี่ชั่วโมง"
+    },
+    {
+     "title_th": "ถามแทนตัดสิน",
+     "body_th": "เมื่อเพื่อนร่วมทีมทำอะไรที่เราไม่คาด ใช้ 3 ขั้น: สังเกต ถาม แล้วหาทางที่ทุกคนรับได้ร่วมกัน"
+    }
+   ],
+   "vocab": [
+    [
+     "multicultural",
+     "หลายวัฒนธรรม"
+    ],
+    [
+     "ground rules",
+     "กติกาพื้นฐานของทีม"
+    ],
+    [
+     "deadline",
+     "กำหนดส่ง"
+    ],
+    [
+     "idiom",
+     "สำนวน"
+    ],
+    [
+     "slang",
+     "คำแสลง"
+    ],
+    [
+     "decision-making",
+     "การตัดสินใจ"
+    ],
+    [
+     "time zone",
+     "เขตเวลา"
+    ],
+    [
+     "colleague",
+     "เพื่อนร่วมงาน"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL481-U7-01",
+     "skill": "ENL481-U7",
+     "difficulty": 1,
+     "stem": "In a multicultural team that uses English, which kind of English is easiest for everyone?",
+     "options": [
+      "fast speech with many idioms",
+      "short, clear sentences without slang",
+      "long sentences with rare words",
+      "local slang from your city"
+     ],
+     "answer": 1,
+     "explanation_th": "ทุกคนเข้าใจได้ไม่ว่าภาษาแม่จะเป็นอะไร",
+     "why_wrong": [
+      "สำนวนเข้าใจยากสำหรับคนที่ไม่ใช่เจ้าของภาษา",
+      null,
+      "ทำให้ตามยาก",
+      "คนนอกพื้นที่ไม่เข้าใจ"
+     ]
+    },
+    {
+     "id": "ENL481-U7-02",
+     "skill": "ENL481-U7",
+     "difficulty": 2,
+     "stem": "Your manager writes, 'Let's touch base next week.' A teammate looks confused. What is the clearest way to rephrase it?",
+     "options": [
+      "Let's touch the base next week.",
+      "Let's play baseball next week.",
+      "Let's finish the project next week.",
+      "Let's talk again next week."
+     ],
+     "answer": 3,
+     "explanation_th": "ความหมายเดิม ใช้คำง่าย",
+     "why_wrong": [
+      "แปลตรงตัว ยังงงเหมือนเดิม",
+      "ความหมายผิด",
+      "ความหมายเปลี่ยน",
+      null
+     ]
+    },
+    {
+     "id": "ENL481-U7-03",
+     "skill": "ENL481-U7",
+     "difficulty": 2,
+     "stem": "Why is it useful to agree on ground rules at the start of a project?",
+     "options": [
+      "Team members may have different expectations about time, decisions and communication.",
+      "Rules always make a project longer.",
+      "Managers want to control everyone.",
+      "Everyone in a team already has the same expectations about time, decisions and communication."
+     ],
+     "answer": 0,
+     "explanation_th": "ทำให้ความคาดหวังตรงกันตั้งแต่ต้น",
+     "why_wrong": [
+      null,
+      "กติกาที่ชัดช่วยลดความเข้าใจผิด",
+      "ไม่ใช่จุดประสงค์",
+      "ถ้าเหมือนกันอยู่แล้วก็ไม่ต้องตกลงกติกา"
+     ]
+    },
+    {
+     "id": "ENL481-U7-04",
+     "skill": "ENL481-U7",
+     "difficulty": 2,
+     "stem": "Your international team says the deadline is 'Friday'. What is the best thing to do?",
+     "options": [
+      "Guess the time.",
+      "Send it next Monday.",
+      "Check the exact time and time zone, and write it down.",
+      "Wait for someone else to ask."
+     ],
+     "answer": 2,
+     "explanation_th": "ทีมต่างเขตเวลาต้องระบุชัด",
+     "why_wrong": [
+      "เสี่ยงส่งผิดเวลา",
+      "เลยกำหนด",
+      null,
+      "ปล่อยให้ความไม่ชัดเจนอยู่ต่อ"
+     ]
+    },
+    {
+     "id": "ENL481-U7-05",
+     "skill": "ENL481-U7",
+     "difficulty": 3,
+     "stem": "In meetings, Jin rarely speaks, but he sends great ideas by email afterwards. What should the team leader do?",
+     "options": [
+      "Tell Jin he is not a good team member.",
+      "Stop inviting Jin to meetings.",
+      "Make Jin speak first at every meeting so that he learns to share his ideas out loud like everyone else.",
+      "Accept different ways to share ideas, for example by collecting ideas in writing before meetings."
+     ],
+     "answer": 3,
+     "explanation_th": "เปิดหลายช่องทางให้ทุกคนมีส่วนร่วม",
+     "why_wrong": [
+      "ตัดสินจากวิธีเดียว",
+      "ตัดคนที่มีไอเดียดีออก",
+      "กดดัน และอาจทำให้เขาพูดน้อยลง ไม่ได้ใช้จุดแข็งของเขา",
+      null
+     ]
+    },
+    {
+     "id": "ENL481-U7-06",
+     "skill": "ENL481-U7",
+     "difficulty": 2,
+     "stem": "Some teams decide by group agreement. Others let the leader decide. In a new team, you should ___.",
+     "options": [
+      "assume your way is the only way",
+      "ask how decisions are usually made",
+      "make every decision yourself",
+      "never give your opinion"
+     ],
+     "answer": 1,
+     "explanation_th": "ถามดีกว่าเดา",
+     "why_wrong": [
+      "ใช้มาตรฐานของตัวเองตัดสิน",
+      null,
+      "ไม่เคารพวิธีของทีม",
+      "ทีมเสียความคิดของคุณ"
+     ]
+    },
+    {
+     "id": "ENL481-U7-07",
+     "skill": "ENL481-U7",
+     "difficulty": 1,
+     "stem": "An 'idiom' is ___.",
+     "options": [
+      "a phrase that means exactly the same thing as the meanings of its single words",
+      "a list of rules",
+      "a phrase whose meaning is different from the meanings of its single words",
+      "a work schedule"
+     ],
+     "answer": 2,
+     "explanation_th": "idiom = สำนวน",
+     "why_wrong": [
+      "ตรงข้าม idiom มีความหมายต่างจากความหมายของคำแต่ละคำ",
+      "นั่นคือ ground rules",
+      null,
+      "ไม่ใช่ความหมายนี้"
+     ]
+    },
+    {
+     "id": "ENL481-U7-08",
+     "skill": "ENL481-U7",
+     "difficulty": 2,
+     "stem": "A teammate's work style surprises you. Which order of steps is best?",
+     "options": [
+      "notice, ask, find a solution together",
+      "judge, complain, ignore",
+      "complain, notice, leave",
+      "ignore, wait, judge"
+     ],
+     "answer": 0,
+     "explanation_th": "สังเกตก่อน ถาม แล้วแก้ด้วยกัน",
+     "why_wrong": [
+      null,
+      "ตัดสินก่อนเข้าใจ",
+      "บ่นก่อนเข้าใจ",
+      "ปล่อยปัญหาแล้วตัดสินทีหลัง"
+     ]
+    }
+   ],
+   "say": [
+    "Before we start, can we agree on some ground rules?",
+    "When we say Friday, do we mean 9 a.m. or 5 p.m.?",
+    "Let me check I understood. You'd like the draft by Thursday, right?"
+   ],
+   "task_th": "สมมติว่าคุณอยู่ในทีมฝึกงานที่มีสมาชิก 4 คนจาก 4 ประเทศ เขียน ground rules ภาษาอังกฤษ 5 ข้อ (เวลา ช่องทางติดต่อ การตัดสินใจ การให้ feedback ภาษา) แล้วอ่านออกเสียงเหมือนกำลังเสนอในการประชุมแรก"
+  }
+ ]
+}

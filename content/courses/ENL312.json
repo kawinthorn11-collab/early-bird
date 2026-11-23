@@ -1,0 +1,1630 @@
+{
+ "code": "ENL312",
+ "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+ "in_class_th": [
+  "น่าจะต้องนำเสนอหลายครั้งในเทอม และแต่ละครั้งอาจเป็นคนละรูปแบบ เช่น นำเสนอให้ข้อมูล นำเสนอเพื่อโน้มน้าว หรือ pitch สั้น ๆ",
+  "น่าจะได้ดูคลิปการนำเสนอจริง แล้ววิเคราะห์ว่าผู้พูดเปิด ปิด ใช้คำบอกทาง และใช้สไลด์อย่างไร",
+  "อาจถูกประเมินจากเสียง จังหวะ การสบตา และการตอบคำถาม ไม่ใช่แค่เนื้อหา",
+  "อาจมีการนำเสนอออนไลน์หรือใช้โปรแกรมสไลด์ ต่อยอดจากการนำเสนอเบื้องต้นใน ENL211"
+ ],
+ "units": [
+  {
+   "id": "ENL312-U1",
+   "title_th": "รู้จักผู้ฟังและเป้าหมายของการนำเสนอ",
+   "title_en": "Audience analysis and purpose",
+   "covers": "หลักการและกลยุทธ์การนำเสนอผลงานในที่สาธารณะ",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "เริ่มจากผู้ฟัง ไม่ใช่สไลด์",
+     "body_th": "ก่อนเตรียมอะไร ถามตัวเอง 3 ข้อ: ผู้ฟังเป็นใคร รู้เรื่องนี้แค่ไหน และอยากได้อะไรกลับไป"
+    },
+    {
+     "title_th": "เป้าหมายหลัก 3 แบบ",
+     "body_th": "inform (ให้ข้อมูล) / persuade (โน้มน้าวให้เชื่อหรือให้ทำ) / inspire (สร้างแรงบันดาลใจ) เป้าหมายจะกำหนดโครงและภาษาที่ใช้"
+    },
+    {
+     "title_th": "ข้อความเดียวที่อยากให้จำ",
+     "body_th": "เขียน key message ให้ได้ใน 1 ประโยค ถ้าเขียนไม่ได้ แปลว่าเรายังไม่ชัดเอง",
+     "example": "Key message: Taking the bus to campus saves both money and time."
+    },
+    {
+     "title_th": "ปรับภาษาให้ผู้ฟัง",
+     "body_th": "พูดกับนักเรียนมัธยม ใช้คำง่ายและตัวอย่างใกล้ตัว พูดกับอาจารย์ใช้ศัพท์วิชาการได้มากขึ้น ศัพท์เฉพาะ (jargon) ต้องอธิบายเสมอถ้าผู้ฟังอาจไม่รู้"
+    }
+   ],
+   "vocab": [
+    [
+     "audience",
+     "ผู้ฟัง"
+    ],
+    [
+     "purpose",
+     "จุดประสงค์"
+    ],
+    [
+     "inform",
+     "ให้ข้อมูล"
+    ],
+    [
+     "persuade",
+     "โน้มน้าว"
+    ],
+    [
+     "key message",
+     "ใจความสำคัญที่อยากให้จำ"
+    ],
+    [
+     "jargon",
+     "ศัพท์เฉพาะทาง"
+    ],
+    [
+     "background knowledge",
+     "ความรู้พื้นฐานที่มีอยู่"
+    ],
+    [
+     "tailor",
+     "ปรับให้เหมาะ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL312-U1-01",
+     "skill": "ENL312-U1",
+     "difficulty": 1,
+     "stem": "What should you think about FIRST when you plan a presentation?",
+     "options": [
+      "the color of the slides",
+      "who the audience is and what they need",
+      "the font size",
+      "what to wear"
+     ],
+     "answer": 1,
+     "explanation_th": "ทุกอย่างที่เหลือขึ้นกับผู้ฟัง",
+     "why_wrong": [
+      "เป็นรายละเอียดที่ตัดสินทีหลัง",
+      null,
+      "เป็นรายละเอียดที่ตัดสินทีหลัง",
+      "ไม่ได้กำหนดเนื้อหาและโครง"
+     ]
+    },
+    {
+     "id": "ENL312-U1-02",
+     "skill": "ENL312-U1",
+     "difficulty": 1,
+     "stem": "A talk that tries to make people change what they do has the purpose to ___.",
+     "options": [
+      "inform",
+      "apologise",
+      "introduce",
+      "persuade"
+     ],
+     "answer": 3,
+     "explanation_th": "ต้องการให้คนเปลี่ยนการกระทำ คือการโน้มน้าว",
+     "why_wrong": [
+      "ให้ข้อมูลอย่างเดียว ไม่ได้มุ่งให้เปลี่ยน",
+      "ไม่ใช่การขอโทษ",
+      "ไม่ใช่การแนะนำตัว",
+      null
+     ]
+    },
+    {
+     "id": "ENL312-U1-03",
+     "skill": "ENL312-U1",
+     "difficulty": 2,
+     "stem": "Which is the best key message?",
+     "options": [
+      "Short daily walks can improve students' mood and sleep.",
+      "Walking.",
+      "There are many things about walking that I will talk about today.",
+      "Walking, running, swimming, cycling and yoga all have a long history."
+     ],
+     "answer": 0,
+     "explanation_th": "เป็นประโยคเดียวที่บอกสาระชัด",
+     "why_wrong": [
+      null,
+      "เป็นแค่หัวข้อ ไม่ใช่ข้อความ",
+      "ไม่บอกสาระว่าอะไร",
+      "หลายเรื่องเกินไป ไม่ชัดว่าอยากให้จำอะไร"
+     ]
+    },
+    {
+     "id": "ENL312-U1-04",
+     "skill": "ENL312-U1",
+     "difficulty": 2,
+     "stem": "Your audience is first-year students who know nothing about co-op education. What should you do?",
+     "options": [
+      "Use many technical words without explaining them, so you sound expert.",
+      "Skip the basics because everyone knows them.",
+      "Explain key words simply and give examples close to their lives.",
+      "Speak faster so you can cover more."
+     ],
+     "answer": 2,
+     "explanation_th": "ผู้ฟังไม่มีพื้น ต้องอธิบายและยกตัวอย่างใกล้ตัว",
+     "why_wrong": [
+      "ผู้ฟังมือใหม่จะตามไม่ทัน",
+      "โจทย์บอกว่าผู้ฟังไม่รู้เรื่องนี้เลย",
+      null,
+      "ผู้ฟังมือใหม่ยิ่งต้องการความช้าและชัด"
+     ]
+    },
+    {
+     "id": "ENL312-U1-05",
+     "skill": "ENL312-U1",
+     "difficulty": 2,
+     "stem": "'Jargon' means ___.",
+     "options": [
+      "a short, funny story that a speaker tells to make the audience relax",
+      "a type of chart",
+      "a short pause",
+      "special words of one field that outsiders may not know"
+     ],
+     "answer": 3,
+     "explanation_th": "jargon = ศัพท์เฉพาะทาง",
+     "why_wrong": [
+      "นั่นคือ anecdote หรือมุก",
+      "ไม่ใช่กราฟ",
+      "นั่นคือ pause",
+      null
+     ]
+    },
+    {
+     "id": "ENL312-U1-06",
+     "skill": "ENL312-U1",
+     "difficulty": 2,
+     "stem": "You will present the same project to classmates, then to a company. What should change most?",
+     "options": [
+      "the facts in your data",
+      "your examples and level of language",
+      "your name",
+      "the topic of the project"
+     ],
+     "answer": 1,
+     "explanation_th": "ปรับตัวอย่างและภาษาให้เข้ากับผู้ฟัง",
+     "why_wrong": [
+      "ข้อเท็จจริงไม่ควรเปลี่ยนตามผู้ฟัง",
+      null,
+      "ไม่เกี่ยวกับผู้ฟัง",
+      "เป็นงานเดิม หัวข้อเดิม"
+     ]
+    },
+    {
+     "id": "ENL312-U1-07",
+     "skill": "ENL312-U1",
+     "difficulty": 1,
+     "stem": "A talk that explains the steps to get a library card mainly aims to ___.",
+     "options": [
+      "persuade",
+      "complain",
+      "inform",
+      "apologise"
+     ],
+     "answer": 2,
+     "explanation_th": "บอกขั้นตอน คือการให้ข้อมูล",
+     "why_wrong": [
+      "ไม่ได้พยายามเปลี่ยนความคิดใคร",
+      "ไม่ใช่การร้องเรียน",
+      null,
+      "ไม่ใช่การขอโทษ"
+     ]
+    },
+    {
+     "id": "ENL312-U1-08",
+     "skill": "ENL312-U1",
+     "difficulty": 3,
+     "stem": "At the start of your talk, you ask: 'How many of you have taken a train in Bangkok?' Why?",
+     "options": [
+      "to find out what the audience knows and to involve them",
+      "to end the talk early",
+      "to test their English",
+      "to show the audience that you have travelled more than they have"
+     ],
+     "answer": 0,
+     "explanation_th": "ได้ทั้งข้อมูลเรื่องผู้ฟังและดึงให้มีส่วนร่วม",
+     "why_wrong": [
+      null,
+      "เป็นตอนเริ่ม ไม่ใช่ตอนจบ",
+      "ไม่ได้วัดภาษา",
+      "ไม่ได้มีเจตนาอวด คำถามนี้ใช้ดึงผู้ฟังเข้ามามีส่วนร่วม"
+     ]
+    }
+   ],
+   "say": [
+    "My key message today is simple: the bus saves you money and time.",
+    "Before I start, how many of you have taken a train in Bangkok?",
+    "I'll keep this simple, because some of you may be new to this topic."
+   ],
+   "task_th": "เลือกหัวข้อที่คุณชอบ 1 เรื่อง เขียน key message 1 ประโยค แล้ววางแผนสำหรับผู้ฟัง 2 กลุ่ม (เพื่อนในห้อง และผู้ปกครอง) ว่าจะเปลี่ยนตัวอย่างและคำศัพท์อย่างไร กลุ่มละ 2 ข้อ"
+  },
+  {
+   "id": "ENL312-U2",
+   "title_th": "โครงการนำเสนอแต่ละรูปแบบ",
+   "title_en": "Structures for different kinds of talks",
+   "covers": "การฝึกฟังและพูดเพื่อนำเสนอในรูปแบบต่าง ๆ",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "โครงต่างกันตามรูปแบบ",
+     "body_th": "ให้ข้อมูล: แบ่งเป็นหัวข้อย่อย 2-3 ข้อ / โน้มน้าว: ปัญหา ทางแก้ ประโยชน์ แล้วขอให้ลงมือ (call to action) / รายงานความคืบหน้า: ทำอะไรไปแล้ว ตอนนี้อยู่ตรงไหน ต่อไปจะทำอะไร"
+    },
+    {
+     "title_th": "กฎของสาม",
+     "body_th": "ผู้ฟังจำได้ดีเมื่อเนื้อหาหลักมีประมาณ 3 ข้อ ถ้ามี 7 ข้อ ลองรวมกลุ่มให้เหลือ 3"
+    },
+    {
+     "title_th": "Pitch 1 นาที",
+     "body_th": "pitch คือการนำเสนอสั้นเพื่อขายไอเดีย: ปัญหาคืออะไร ไอเดียแก้อย่างไร ทำไมควรเชื่อ และอยากให้ผู้ฟังทำอะไร"
+    },
+    {
+     "title_th": "ฟังเป็น ก็จับโครงได้",
+     "body_th": "เวลาฟังคนอื่นนำเสนอ ลองเดาว่าเขาใช้โครงไหน จะรู้ล่วงหน้าว่าส่วนต่อไปคืออะไร และจดได้เป็นระบบ"
+    }
+   ],
+   "vocab": [
+    [
+     "structure",
+     "โครงสร้าง"
+    ],
+    [
+     "problem-solution",
+     "แบบปัญหาและทางแก้"
+    ],
+    [
+     "call to action",
+     "การขอให้ผู้ฟังลงมือทำ"
+    ],
+    [
+     "pitch",
+     "การนำเสนอสั้นเพื่อขายไอเดีย"
+    ],
+    [
+     "benefit",
+     "ประโยชน์"
+    ],
+    [
+     "progress report",
+     "รายงานความคืบหน้า"
+    ],
+    [
+     "main body",
+     "เนื้อหาส่วนหลัก"
+    ],
+    [
+     "chronological",
+     "ตามลำดับเวลา"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL312-U2-01",
+     "skill": "ENL312-U2",
+     "difficulty": 1,
+     "stem": "A persuasive talk usually ends with ___.",
+     "options": [
+      "a list of references only",
+      "a call to action",
+      "a new problem",
+      "the speaker's self-introduction"
+     ],
+     "answer": 1,
+     "explanation_th": "ปิดด้วยการขอให้ผู้ฟังลงมือ",
+     "why_wrong": [
+      "รายการอ้างอิงไม่ได้โน้มน้าว",
+      null,
+      "เปิดปัญหาใหม่ตอนท้ายทำให้งง",
+      "แนะนำตัวใช้ตอนต้น"
+     ]
+    },
+    {
+     "id": "ENL312-U2-02",
+     "skill": "ENL312-U2",
+     "difficulty": 2,
+     "stem": "Which order fits a persuasive talk best?",
+     "options": [
+      "call to action, benefits, problem, solution, thanks",
+      "solution, problem, introduction, thanks",
+      "benefits, thanks, problem, introduction",
+      "problem, solution, benefits, call to action"
+     ],
+     "answer": 3,
+     "explanation_th": "ปูปัญหาก่อน ผู้ฟังจึงเห็นค่าของทางแก้และยอมลงมือ",
+     "why_wrong": [
+      "ขอให้ทำก่อนอธิบายปัญหา ผู้ฟังยังไม่มีเหตุผลจะทำ",
+      "บทนำอยู่กลาง ลำดับสับสน",
+      "บทนำอยู่ท้าย ลำดับสับสน",
+      null
+     ]
+    },
+    {
+     "id": "ENL312-U2-03",
+     "skill": "ENL312-U2",
+     "difficulty": 1,
+     "stem": "'Please join the campus clean-up day this Saturday.' This sentence is ___.",
+     "options": [
+      "a call to action",
+      "a statistic",
+      "a definition",
+      "a question"
+     ],
+     "answer": 0,
+     "explanation_th": "ขอให้ผู้ฟังไปทำบางอย่าง",
+     "why_wrong": [
+      null,
+      "ไม่มีตัวเลข",
+      "ไม่ได้อธิบายความหมายคำ",
+      "เป็นประโยคขอร้อง ไม่ใช่คำถาม"
+     ]
+    },
+    {
+     "id": "ENL312-U2-04",
+     "skill": "ENL312-U2",
+     "difficulty": 2,
+     "stem": "A project update covers 'what we did, where we are now, and what comes next'. It uses ___.",
+     "options": [
+      "problem-solution order",
+      "cause and effect order",
+      "time order: past, present, future",
+      "advantages and disadvantages"
+     ],
+     "answer": 2,
+     "explanation_th": "เรียงตามเวลา",
+     "why_wrong": [
+      "ไม่ได้เริ่มจากปัญหาและทางแก้",
+      "ไม่ได้อธิบายเหตุและผล",
+      null,
+      "ไม่ได้ชั่งข้อดีข้อเสีย"
+     ]
+    },
+    {
+     "id": "ENL312-U2-05",
+     "skill": "ENL312-U2",
+     "difficulty": 2,
+     "stem": "Why do many speakers divide the main body into three points?",
+     "options": [
+      "Slides can only show three points.",
+      "It is a rule of English grammar.",
+      "Three points always take less than ten seconds, so the talk stays short.",
+      "Three points are easy for listeners to follow and remember."
+     ],
+     "answer": 3,
+     "explanation_th": "เป็นจำนวนที่จำง่าย",
+     "why_wrong": [
+      "สไลด์ไม่ได้จำกัดแบบนั้น",
+      "ไม่เกี่ยวกับไวยากรณ์",
+      "ความยาวขึ้นกับเนื้อหา ไม่ได้สั้นเสมอ",
+      null
+     ]
+    },
+    {
+     "id": "ENL312-U2-06",
+     "skill": "ENL312-U2",
+     "difficulty": 2,
+     "stem": "In a presentation class, a 'pitch' is ___.",
+     "options": [
+      "a long report with many tables",
+      "a short talk to sell an idea or product",
+      "a group discussion",
+      "a type of microphone"
+     ],
+     "answer": 1,
+     "explanation_th": "pitch = นำเสนอสั้นเพื่อขายไอเดีย",
+     "why_wrong": [
+      "pitch ต้องสั้น",
+      null,
+      "pitch มีผู้พูดนำเสนอ ไม่ใช่วงอภิปราย",
+      "ไม่ใช่อุปกรณ์"
+     ]
+    },
+    {
+     "id": "ENL312-U2-07",
+     "skill": "ENL312-U2",
+     "difficulty": 3,
+     "stem": "You are listening to a talk. The speaker says: 'Plastic bags are everywhere on campus. One idea is to give every student a cloth bag.' What will the speaker most likely talk about next?",
+     "options": [
+      "the speaker's favourite food",
+      "a new, unrelated problem",
+      "the benefits of the cloth bag idea",
+      "the history of the university"
+     ],
+     "answer": 2,
+     "explanation_th": "โครงปัญหาและทางแก้ ต่อไปมักเป็นประโยชน์",
+     "why_wrong": [
+      "ไม่เกี่ยวกับโครงเรื่อง",
+      "ยังไม่ได้ปิดเรื่องเดิม",
+      null,
+      "ไม่เกี่ยวกับปัญหาที่เปิดไว้"
+     ]
+    },
+    {
+     "id": "ENL312-U2-08",
+     "skill": "ENL312-U2",
+     "difficulty": 2,
+     "stem": "Which is the best main body for an informative talk called 'How to prepare for exams'?",
+     "options": [
+      "1) plan your time 2) review actively 3) rest well",
+      "1) plan your time 2) my cat at home 3) a funny video I saw",
+      "a list of 12 tips with no groups",
+      "1) why you should buy my book"
+     ],
+     "answer": 0,
+     "explanation_th": "3 ข้อ ตรงหัวข้อ และเรียงลำดับดี",
+     "why_wrong": [
+      null,
+      "มีข้อที่ไม่เกี่ยวกับการเตรียมสอบ",
+      "มากเกินไปจนจำไม่ได้",
+      "เป็นการขายของ ไม่ใช่ให้ข้อมูล"
+     ]
+    }
+   ],
+   "say": [
+    "First, I'll explain the problem. Then I'll show you our solution.",
+    "There are three things to remember.",
+    "So here is what I'd like you to do: sign up today."
+   ],
+   "task_th": "เลือกปัญหาใกล้ตัว 1 อย่าง (เช่น ขยะพลาสติกในโรงอาหาร) เขียน pitch 4 ประโยค: ปัญหา ทางแก้ ประโยชน์ call to action แล้วอัดเสียงพูดให้จบใน 1 นาที"
+  },
+  {
+   "id": "ENL312-U3",
+   "title_th": "เปิดให้ดึงดูด ปิดให้จำ",
+   "title_en": "Strong openings and closings",
+   "covers": "กลยุทธ์การนำเสนอผลงาน",
+   "minutes": 12,
+   "interview": [
+    "I02"
+   ],
+   "cards": [
+    {
+     "title_th": "30 วินาทีแรก",
+     "body_th": "ใน ENL211 เปิดด้วยทักทายและบอกหัวข้อ ตอนนี้เพิ่ม hook ก่อน: คำถาม ตัวเลขที่น่าสนใจ เรื่องเล่าสั้น หรือภาพ แล้วค่อยบอกหัวข้อและแผน"
+    },
+    {
+     "title_th": "ตัวอย่าง hook",
+     "body_th": "เลือก 1 แบบให้เข้ากับหัวข้อ",
+     "example": "Question: Have you ever missed a bus by one minute? / Story: Imagine it's 7 a.m. and the bus is full."
+    },
+    {
+     "title_th": "บอกแผน (preview)",
+     "body_th": "หลัง hook บอกสั้น ๆ ว่าจะพูดอะไรบ้าง ผู้ฟังจะตามได้ง่าย",
+     "example": "Today I'll cover three things: the problem, our idea, and the cost."
+    },
+    {
+     "title_th": "ปิดให้จำ",
+     "body_th": "สรุปประเด็น ย้ำ key message แล้วจบด้วยประโยคที่หนักแน่น หรือย้อนกลับไปหา hook อย่าจบแค่ That's all."
+    },
+    {
+     "title_th": "อย่าเปิดด้วยการขอโทษ",
+     "body_th": "'Sorry, my English is not good.' ทำให้ผู้ฟังลดความเชื่อมั่นตั้งแต่แรก เริ่มด้วย hook แทน ผู้ฟังส่วนใหญ่สนใจเนื้อหามากกว่าสำเนียง"
+    }
+   ],
+   "vocab": [
+    [
+     "hook",
+     "ตัวเปิดดึงความสนใจ"
+    ],
+    [
+     "preview",
+     "การบอกภาพรวมล่วงหน้า"
+    ],
+    [
+     "statistic",
+     "ตัวเลขสถิติ"
+    ],
+    [
+     "anecdote",
+     "เรื่องเล่าสั้น ๆ จากเหตุการณ์จริง"
+    ],
+    [
+     "recap",
+     "สรุปทวน"
+    ],
+    [
+     "memorable",
+     "น่าจดจำ"
+    ],
+    [
+     "rhetorical question",
+     "คำถามที่ไม่ได้ต้องการคำตอบ"
+    ],
+    [
+     "closing line",
+     "ประโยคปิด"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL312-U3-01",
+     "skill": "ENL312-U3",
+     "difficulty": 1,
+     "stem": "Which is a 'hook' to open a talk?",
+     "options": [
+      "That's all. Thank you.",
+      "Have you ever missed a bus by just one minute?",
+      "Next slide, please.",
+      "Any questions?"
+     ],
+     "answer": 1,
+     "explanation_th": "คำถามที่ทำให้ผู้ฟังนึกถึงตัวเอง",
+     "why_wrong": [
+      "ใช้ปิด",
+      null,
+      "เป็นคำสั่งเปลี่ยนสไลด์",
+      "ใช้ตอนท้าย"
+     ]
+    },
+    {
+     "id": "ENL312-U3-02",
+     "skill": "ENL312-U3",
+     "difficulty": 2,
+     "stem": "Which opening is the weakest?",
+     "options": [
+      "Imagine it's 7 a.m. and the bus is full.",
+      "How many of you drink coffee every day?",
+      "Here is a photo of our canteen at lunchtime on a busy Monday.",
+      "Sorry, my English is bad and I didn't prepare much."
+     ],
+     "answer": 3,
+     "explanation_th": "ขอโทษตั้งแต่ต้นทำให้ผู้ฟังลดความเชื่อมั่น",
+     "why_wrong": [
+      "เป็นเรื่องเล่าที่ดึงความสนใจได้",
+      "เป็นคำถามที่ดึงผู้ฟังเข้าเรื่อง",
+      "ใช้ภาพดึงความสนใจได้",
+      null
+     ]
+    },
+    {
+     "id": "ENL312-U3-03",
+     "skill": "ENL312-U3",
+     "difficulty": 1,
+     "stem": "'Today I'll cover three things: the problem, our idea, and the cost.' This is a ___.",
+     "options": [
+      "preview",
+      "conclusion",
+      "hook",
+      "question"
+     ],
+     "answer": 0,
+     "explanation_th": "บอกแผนล่วงหน้า",
+     "why_wrong": [
+      null,
+      "เป็นตอนต้น ไม่ใช่สรุป",
+      "ไม่ได้ดึงความสนใจด้วยคำถามหรือเรื่องเล่า แต่บอกแผน",
+      "เป็นประโยคบอกเล่า"
+     ]
+    },
+    {
+     "id": "ENL312-U3-04",
+     "skill": "ENL312-U3",
+     "difficulty": 2,
+     "stem": "Which closing is the strongest?",
+     "options": [
+      "Um, that's it, I think.",
+      "OK, I'm finished. Can I sit down?",
+      "So remember: one small change every day makes a big difference.",
+      "Oh, wait, there's one more thing I forgot to say at the beginning..."
+     ],
+     "answer": 2,
+     "explanation_th": "ย้ำ key message ชัดและจำง่าย",
+     "why_wrong": [
+      "ฟังไม่มั่นใจ ไม่มีสาระ",
+      "ไม่ได้ย้ำอะไรให้ผู้ฟังจำ",
+      null,
+      "เพิ่มข้อมูลใหม่ตอนปิด ทำให้งง"
+     ]
+    },
+    {
+     "id": "ENL312-U3-05",
+     "skill": "ENL312-U3",
+     "difficulty": 2,
+     "stem": "A 'rhetorical question' is a question that ___.",
+     "options": [
+      "the audience asks at the end",
+      "has its answer printed on the slide so the audience can read it",
+      "the teacher asks in an exam",
+      "the speaker asks to make people think, not to get an answer"
+     ],
+     "answer": 3,
+     "explanation_th": "ถามให้คิด ไม่รอคำตอบ",
+     "why_wrong": [
+      "นั่นคือคำถามในช่วงถามตอบ",
+      "ไม่ใช่ความหมายของคำนี้",
+      "เป็นคำถามที่ต้องการคำตอบ",
+      null
+     ]
+    },
+    {
+     "id": "ENL312-U3-06",
+     "skill": "ENL312-U3",
+     "difficulty": 2,
+     "stem": "A good conclusion usually ___.",
+     "options": [
+      "introduces a brand-new topic",
+      "recaps the main points and repeats the key message",
+      "apologises for the talk",
+      "shows many new numbers"
+     ],
+     "answer": 1,
+     "explanation_th": "ปิดด้วยการทวนและย้ำ",
+     "why_wrong": [
+      "ทำให้ผู้ฟังงง",
+      null,
+      "ทำให้ทั้งการนำเสนอดูอ่อนลง",
+      "ไม่ควรเพิ่มข้อมูลใหม่ตอนท้าย"
+     ]
+    },
+    {
+     "id": "ENL312-U3-07",
+     "skill": "ENL312-U3",
+     "difficulty": 3,
+     "stem": "Your talk opened with: 'Imagine the bus is full at 7 a.m.' Which closing links back to that hook?",
+     "options": [
+      "Thank you for listening.",
+      "Do you have any questions?",
+      "So next time the bus is full at 7 a.m., you'll know there is another way.",
+      "My name is Krit, I'm a second-year student, and I take the bus to campus every day."
+     ],
+     "answer": 2,
+     "explanation_th": "ย้อนกลับไปภาพเดิมตอนเปิด ทำให้จบครบวง",
+     "why_wrong": [
+      "สุภาพ แต่ไม่ได้ย้อนไปที่ hook",
+      "เป็นการเชิญถาม ไม่ได้ย้อนไปที่ hook",
+      null,
+      "เป็นการแนะนำตัว ไม่ได้ย้อนไปที่ hook"
+     ]
+    },
+    {
+     "id": "ENL312-U3-08",
+     "skill": "ENL312-U3",
+     "difficulty": 1,
+     "stem": "An 'anecdote' is ___.",
+     "options": [
+      "a short, interesting story about a real event",
+      "a long table of data",
+      "a slide title",
+      "a list of sources"
+     ],
+     "answer": 0,
+     "explanation_th": "anecdote = เรื่องเล่าสั้น",
+     "why_wrong": [
+      null,
+      "ไม่ใช่ข้อมูลตาราง",
+      "ไม่ใช่หัวสไลด์",
+      "ไม่ใช่รายการอ้างอิง"
+     ]
+    }
+   ],
+   "say": [
+    "Have you ever missed a bus by just one minute?",
+    "Today I'll cover three things: the problem, our idea, and the cost.",
+    "So remember: one small change every day makes a big difference."
+   ],
+   "task_th": "เขียนการเปิด 3 แบบสำหรับหัวข้อเดียวกัน (คำถาม ตัวเลข เรื่องเล่า) เลือกแบบที่ชอบที่สุด แล้วเขียนประโยคปิดที่ย้อนกลับไปหา hook นั้น อัดเสียงทั้งตอนเปิดและตอนปิด"
+  },
+  {
+   "id": "ENL312-U4",
+   "title_th": "คำบอกทางขั้นสูง พูดให้ตามได้ ฟังให้จับโครงได้",
+   "title_en": "Advanced signposting for speakers and listeners",
+   "covers": "การฝึกฟังและพูดเพื่อนำเสนอ",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "ป้ายบอกทางมีหลายหน้าที่",
+     "body_th": "เปลี่ยนประเด็น (Moving on to...) / เน้น (What I really want you to remember is...) / ย้อนกลับ (As I mentioned earlier...) / สรุปย่อย (So far, we've seen...) / เทียบต่าง (On the other hand...)"
+    },
+    {
+     "title_th": "สรุปย่อยก่อนไปต่อ",
+     "body_th": "การนำเสนอยาว ผู้ฟังหลงง่าย สรุปย่อยกลางทาง 1 ประโยคช่วยได้มาก",
+     "example": "So far, we've looked at the cost. Now let's turn to the time."
+    },
+    {
+     "title_th": "เน้นสิ่งสำคัญ",
+     "body_th": "บอกผู้ฟังตรง ๆ ว่าส่วนไหนสำคัญ แล้วหยุดสั้น ๆ ก่อนพูดต่อ",
+     "example": "This is the key point. (pause)"
+    },
+    {
+     "title_th": "ฟังป้ายของคนอื่น",
+     "body_th": "ตอนฟัง ป้ายบอกทางช่วยให้จดเป็นหัวข้อได้ทันที ได้ยิน Moving on หรือ Now let's turn to... ให้ขึ้นหัวข้อใหม่ในโน้ต"
+    }
+   ],
+   "vocab": [
+    [
+     "signpost",
+     "คำบอกทาง"
+    ],
+    [
+     "transition",
+     "การเปลี่ยนช่วง"
+    ],
+    [
+     "emphasise",
+     "เน้น"
+    ],
+    [
+     "refer back",
+     "อ้างย้อนกลับ"
+    ],
+    [
+     "so far",
+     "จนถึงตอนนี้"
+    ],
+    [
+     "turn to",
+     "หันไปที่ (หัวข้อใหม่)"
+    ],
+    [
+     "digress",
+     "ออกนอกเรื่อง"
+    ],
+    [
+     "on the other hand",
+     "ในทางกลับกัน"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL312-U4-01",
+     "skill": "ENL312-U4",
+     "difficulty": 1,
+     "stem": "Which signpost moves to a new point?",
+     "options": [
+      "For example, ...",
+      "Moving on to my next point, ...",
+      "As I mentioned earlier, ...",
+      "To sum up, ..."
+     ],
+     "answer": 1,
+     "explanation_th": "moving on = ไปต่อ",
+     "why_wrong": [
+      "ใช้ยกตัวอย่าง",
+      null,
+      "ใช้ย้อนกลับ",
+      "ใช้สรุป"
+     ]
+    },
+    {
+     "id": "ENL312-U4-02",
+     "skill": "ENL312-U4",
+     "difficulty": 1,
+     "stem": "Which signpost emphasises something important?",
+     "options": [
+      "Let me give you an example.",
+      "Now let's turn to the cost.",
+      "As you can see on this slide, ...",
+      "What I really want you to remember is this."
+     ],
+     "answer": 3,
+     "explanation_th": "บอกตรง ๆ ว่าส่วนนี้สำคัญ",
+     "why_wrong": [
+      "ใช้ยกตัวอย่าง",
+      "ใช้เปลี่ยนประเด็น",
+      "ใช้ชี้ภาพ",
+      null
+     ]
+    },
+    {
+     "id": "ENL312-U4-03",
+     "skill": "ENL312-U4",
+     "difficulty": 2,
+     "stem": "'So far, we've looked at the problem.' The speaker is ___.",
+     "options": [
+      "summarising the part that has just finished",
+      "starting the talk",
+      "inviting questions",
+      "giving an example"
+     ],
+     "answer": 0,
+     "explanation_th": "so far = จนถึงตอนนี้ คือสรุปย่อย",
+     "why_wrong": [
+      null,
+      "ผ่านไปส่วนหนึ่งแล้ว",
+      "ไม่ได้เชิญถาม",
+      "ไม่ได้ยกตัวอย่าง"
+     ]
+    },
+    {
+     "id": "ENL312-U4-04",
+     "skill": "ENL312-U4",
+     "difficulty": 2,
+     "stem": "'As I mentioned earlier, the bus is cheaper.' This signpost ___.",
+     "options": [
+      "introduces a brand-new idea",
+      "ends the talk",
+      "refers back to something said before",
+      "asks the audience a question"
+     ],
+     "answer": 2,
+     "explanation_th": "as I mentioned earlier = อย่างที่บอกไปแล้ว",
+     "why_wrong": [
+      "เป็นเรื่องที่พูดไปแล้ว",
+      "ไม่ได้บอกว่าจบ",
+      null,
+      "เป็นประโยคบอกเล่า"
+     ]
+    },
+    {
+     "id": "ENL312-U4-05",
+     "skill": "ENL312-U4",
+     "difficulty": 2,
+     "stem": "Choose the best signpost: 'The train is fast. ___, it is more expensive than the bus.'",
+     "options": [
+      "For example",
+      "First of all",
+      "In addition",
+      "On the other hand"
+     ],
+     "answer": 3,
+     "explanation_th": "เทียบข้อดีกับข้อเสีย",
+     "why_wrong": [
+      "ประโยคหลังไม่ใช่ตัวอย่างของความเร็ว",
+      "ใช้เริ่มรายการ",
+      "ใช้เพิ่มข้อดีแบบเดียวกัน ไม่ใช่เทียบต่าง",
+      null
+     ]
+    },
+    {
+     "id": "ENL312-U4-06",
+     "skill": "ENL312-U4",
+     "difficulty": 2,
+     "stem": "While listening to a talk, you hear 'Now let's turn to the second problem.' In your notes, you should ___.",
+     "options": [
+      "stop writing because the talk is ending",
+      "start a new heading",
+      "cross out your last note",
+      "write down a question for the speaker"
+     ],
+     "answer": 1,
+     "explanation_th": "เป็นสัญญาณเปลี่ยนหัวข้อ",
+     "why_wrong": [
+      "ยังไม่จบ เพิ่งไปหัวข้อที่สอง",
+      null,
+      "โน้ตเดิมยังใช้ได้",
+      "ไม่ได้เป็นช่วงถามตอบ"
+     ]
+    },
+    {
+     "id": "ENL312-U4-07",
+     "skill": "ENL312-U4",
+     "difficulty": 3,
+     "stem": "A speaker says, 'Before I go on, let me tell you about my dog.' She talks about her dog for two minutes, with no link to her topic. What did she do?",
+     "options": [
+      "She gave a strong conclusion.",
+      "She summarised her main points.",
+      "She digressed from her topic.",
+      "She answered a question."
+     ],
+     "answer": 2,
+     "explanation_th": "digress = ออกนอกเรื่อง",
+     "why_wrong": [
+      "ยังไม่ได้ปิด",
+      "ไม่ได้สรุปอะไร",
+      null,
+      "ไม่มีใครถาม"
+     ]
+    },
+    {
+     "id": "ENL312-U4-08",
+     "skill": "ENL312-U4",
+     "difficulty": 1,
+     "stem": "Which phrase introduces an example?",
+     "options": [
+      "Let me give you an example.",
+      "To conclude, ...",
+      "Moving on, ...",
+      "Any questions?"
+     ],
+     "answer": 0,
+     "explanation_th": "บอกตรง ๆ ว่าจะยกตัวอย่าง",
+     "why_wrong": [
+      null,
+      "ใช้ปิด",
+      "ใช้เปลี่ยนประเด็น",
+      "ใช้เชิญถาม"
+     ]
+    }
+   ],
+   "say": [
+    "So far, we've looked at the cost. Now let's turn to the time.",
+    "What I really want you to remember is this.",
+    "As I mentioned earlier, the bus is cheaper."
+   ],
+   "task_th": "หาคลิปการนำเสนอหรือบรรยายภาษาอังกฤษ 3-5 นาที ฟังแล้วจดคำบอกทางที่ได้ยินอย่างน้อย 4 อัน พร้อมเขียนว่าแต่ละอันทำหน้าที่อะไร (เปลี่ยน เน้น ย้อน สรุป เทียบต่าง)"
+  },
+  {
+   "id": "ENL312-U5",
+   "title_th": "สไลด์ กราฟ และการนำเสนอออนไลน์",
+   "title_en": "Visuals, data and online tools",
+   "covers": "รวมทั้ง การฝึกนำเสนอผลงานโดยใช้สื่อเทคโนโลยีที่เหมาะสม",
+   "minutes": 14,
+   "lessons": [
+    "L23"
+   ],
+   "cards": [
+    {
+     "title_th": "1 สไลด์ 1 ความคิด",
+     "body_th": "เขียนหัวสไลด์เป็นประโยคที่บอกข้อสรุป ผู้ฟังรู้ทันทีว่าต้องดูอะไร",
+     "example": "Bus fares doubled in five years (ดีกว่า 'Bus fares')"
+    },
+    {
+     "title_th": "พูดถึงกราฟให้เป็น",
+     "body_th": "rise / increase (ขึ้น), fall / drop (ลง), peak (จุดสูงสุด), stay the same (คงที่) ใช้ร่วมกับ sharply (ชัน) gradually (ทีละน้อย) และการเปรียบเทียบ more than, twice as high as",
+     "example": "Sales rose sharply in May and peaked in June."
+    },
+    {
+     "title_th": "เน้นด้วยสีเดียว",
+     "body_th": "ทำส่วนที่สำคัญเป็นสีเด่น ที่เหลือสีเทา ตัวอักษรใหญ่พอให้คนแถวหลังอ่านได้ และสีตัวอักษรตัดกับพื้นชัด"
+    },
+    {
+     "title_th": "นำเสนอออนไลน์",
+     "body_th": "ทดสอบแชร์จอ ไมค์ และกล้องก่อนเริ่ม ปิดการแจ้งเตือน และมองกล้องเวลาพูดประเด็นสำคัญ เพราะนั่นคือการสบตาผู้ฟัง"
+    }
+   ],
+   "vocab": [
+    [
+     "trend",
+     "แนวโน้ม"
+    ],
+    [
+     "increase",
+     "เพิ่มขึ้น"
+    ],
+    [
+     "decrease",
+     "ลดลง"
+    ],
+    [
+     "peak",
+     "จุดสูงสุด"
+    ],
+    [
+     "sharply",
+     "อย่างรวดเร็วและชัดเจน"
+    ],
+    [
+     "gradually",
+     "ทีละน้อย"
+    ],
+    [
+     "contrast",
+     "ความตัดกันของสี"
+    ],
+    [
+     "share screen",
+     "แชร์หน้าจอ"
+    ],
+    [
+     "highlight",
+     "เน้นให้เด่น"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL312-U5-01",
+     "skill": "ENL312-U5",
+     "difficulty": 1,
+     "stem": "Which slide title is best?",
+     "options": [
+      "Bus fares",
+      "Bus fares doubled in five years",
+      "Slide 4",
+      "Some information about bus fares and other things"
+     ],
+     "answer": 1,
+     "explanation_th": "บอกข้อสรุปในหัวสไลด์",
+     "why_wrong": [
+      "เป็นแค่หัวข้อ ไม่บอกข้อสรุป",
+      null,
+      "ไม่บอกอะไรเลย",
+      "ยาวและไม่บอกข้อสรุป"
+     ]
+    },
+    {
+     "id": "ENL312-U5-02",
+     "skill": "ENL312-U5",
+     "difficulty": 1,
+     "stem": "A line on a graph goes up quickly. Which description fits?",
+     "options": [
+      "It fell slightly.",
+      "It stayed the same.",
+      "It dropped gradually.",
+      "It rose sharply."
+     ],
+     "answer": 3,
+     "explanation_th": "ขึ้นเร็ว = rose sharply",
+     "why_wrong": [
+      "ลงนิดหน่อย",
+      "คงที่",
+      "ลงทีละน้อย",
+      null
+     ]
+    },
+    {
+     "id": "ENL312-U5-03",
+     "skill": "ENL312-U5",
+     "difficulty": 2,
+     "stem": "'Sales reached their highest point in June.' Which word means 'highest point'?",
+     "options": [
+      "peak",
+      "drop",
+      "trend",
+      "average"
+     ],
+     "answer": 0,
+     "explanation_th": "peak = จุดสูงสุด",
+     "why_wrong": [
+      null,
+      "drop = ลดลง",
+      "trend = แนวโน้มทั้งหมด",
+      "average = ค่าเฉลี่ย"
+     ]
+    },
+    {
+     "id": "ENL312-U5-04",
+     "skill": "ENL312-U5",
+     "difficulty": 2,
+     "stem": "Choose the correct sentence about a chart.",
+     "options": [
+      "Phone use on Sunday was twice as higher as on Monday.",
+      "Phone use on Sunday was more high than on Monday.",
+      "Phone use on Sunday was twice as high as on Monday.",
+      "Phone use on Sunday was the higher than on Monday."
+     ],
+     "answer": 2,
+     "explanation_th": "twice as + คำคุณศัพท์รูปปกติ + as",
+     "why_wrong": [
+      "ใน as...as ใช้รูปปกติ ไม่ใช้ higher",
+      "high เป็นคำสั้น ใช้ higher ไม่ใช้ more high",
+      null,
+      "ไม่ใช้ the หน้าคำเปรียบเทียบที่มี than"
+     ]
+    },
+    {
+     "id": "ENL312-U5-05",
+     "skill": "ENL312-U5",
+     "difficulty": 2,
+     "stem": "What is the best way to make one number stand out on a bar chart?",
+     "options": [
+      "Use a different bright color for every bar so the chart looks lively.",
+      "Make the labels very small.",
+      "Add many more numbers around it.",
+      "Make that bar a strong color and the other bars grey."
+     ],
+     "answer": 3,
+     "explanation_th": "สีเด่นสีเดียวดึงสายตาไปที่จุดสำคัญ",
+     "why_wrong": [
+      "ทุกสีแย่งความสนใจกัน ไม่มีแท่งไหนเด่น",
+      "อ่านยาก ไม่ได้ช่วยเน้น",
+      "ยิ่งรก ยิ่งหาจุดสำคัญยาก",
+      null
+     ]
+    },
+    {
+     "id": "ENL312-U5-06",
+     "skill": "ENL312-U5",
+     "difficulty": 2,
+     "stem": "Before an online presentation, you should ___.",
+     "options": [
+      "turn on all your notifications",
+      "test your screen sharing, microphone and camera",
+      "open many other windows",
+      "start sharing without checking"
+     ],
+     "answer": 1,
+     "explanation_th": "ตรวจอุปกรณ์ก่อน ลดปัญหาระหว่างพูด",
+     "why_wrong": [
+      "แจ้งเตือนจะเด้งขึ้นจอระหว่างแชร์",
+      null,
+      "อาจแชร์ผิดหน้าต่างและทำให้เครื่องช้า",
+      "เสี่ยงต่อปัญหาเทคนิค"
+     ]
+    },
+    {
+     "id": "ENL312-U5-07",
+     "skill": "ENL312-U5",
+     "difficulty": 3,
+     "stem": "Your slide has 120 words on it. What is the best fix?",
+     "options": [
+      "Read all 120 words to the audience.",
+      "Make the font smaller so that all 120 words fit on the slide.",
+      "Keep only the key words and say the rest aloud.",
+      "Add a second slide with 120 more words."
+     ],
+     "answer": 2,
+     "explanation_th": "สไลด์ช่วยพูด รายละเอียดอยู่ในเสียงของเรา",
+     "why_wrong": [
+      "ผู้ฟังอ่านเองได้เร็วกว่าและจะเบื่อ",
+      "อ่านไม่ออก และยังรกเหมือนเดิม",
+      null,
+      "ทำให้ปัญหาแย่ลง"
+     ]
+    },
+    {
+     "id": "ENL312-U5-08",
+     "skill": "ENL312-U5",
+     "difficulty": 2,
+     "stem": "A number changes a little each month, step by step. It changed ___.",
+     "options": [
+      "gradually",
+      "sharply",
+      "suddenly",
+      "dramatically"
+     ],
+     "answer": 0,
+     "explanation_th": "gradually = ทีละน้อย",
+     "why_wrong": [
+      null,
+      "sharply = อย่างรวดเร็ว",
+      "suddenly = ทันที",
+      "dramatically = อย่างมาก"
+     ]
+    }
+   ],
+   "say": [
+    "As you can see, the number of users rose sharply in May.",
+    "Let me share my screen. Can everyone see it?",
+    "This bar in red is the key number."
+   ],
+   "task_th": "ทำสไลด์ 1 หน้าจากข้อมูลของตัวเอง (เช่น ชั่วโมงใช้มือถือ 7 วันจากหน้า Screen Time) ตั้งหัวสไลด์เป็นประโยคข้อสรุป ใช้กราฟ 1 อัน เน้นด้วยสีเดียว แล้วอัดเสียงอธิบาย 30 วินาทีด้วยคำ rise / fall / peak"
+  },
+  {
+   "id": "ENL312-U6",
+   "title_th": "เสียง จังหวะ สายตา และท่าทาง",
+   "title_en": "Delivery: voice, pace, eye contact and body language",
+   "covers": "การนำเสนอผลงานในที่สาธารณะ",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "เสียง ดัง ชัด มีขึ้นลง",
+     "body_th": "พูดให้คนแถวหลังได้ยิน เน้นเสียงที่คำสำคัญ และเปลี่ยนระดับเสียง ไม่พูดเสียงเดียวตลอด (monotone)"
+    },
+    {
+     "title_th": "ความเร็วและการหยุด",
+     "body_th": "คนตื่นเต้นมักพูดเร็ว ตั้งใจพูดช้าลง และหยุด 1-2 วินาทีหลังประโยคสำคัญ ผู้ฟังจะคิดตามทัน"
+    },
+    {
+     "title_th": "สบตาเป็นช่วง",
+     "body_th": "มองคนละประมาณ 1 ประโยค สลับซ้าย กลาง ขวา ไม่มองแต่สไลด์หรือโน้ต ถ้าเขิน เริ่มจากมองคนที่ยิ้มหรือพยักหน้าก่อน"
+    },
+    {
+     "title_th": "ท่าทาง",
+     "body_th": "ยืนตรง เท้ามั่นคง ใช้มือประกอบคำพูด ไม่ล้วงกระเป๋าหรือเล่นปากกา และไม่หันหลังให้ผู้ฟังเพื่ออ่านสไลด์"
+    },
+    {
+     "title_th": "คำเติมช่อง",
+     "body_th": "um, uh, like มีบ้างเป็นเรื่องปกติ แต่ถ้ามากเกินไปฟังไม่มั่นใจ ลองแทนด้วยการหยุดเงียบสั้น ๆ"
+    }
+   ],
+   "vocab": [
+    [
+     "pace",
+     "ความเร็วในการพูด"
+    ],
+    [
+     "pause",
+     "การหยุดเว้นช่วง"
+    ],
+    [
+     "eye contact",
+     "การสบตา"
+    ],
+    [
+     "posture",
+     "ท่ายืน ท่าทาง"
+    ],
+    [
+     "gesture",
+     "ท่ามือประกอบ"
+    ],
+    [
+     "volume",
+     "ความดังของเสียง"
+    ],
+    [
+     "monotone",
+     "เสียงระดับเดียวตลอด"
+    ],
+    [
+     "filler word",
+     "คำเติมช่อง เช่น um"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL312-U6-01",
+     "skill": "ENL312-U6",
+     "difficulty": 1,
+     "stem": "You speak too fast when you are nervous. What helps most?",
+     "options": [
+      "Speak even faster to finish early.",
+      "Slow down on purpose and pause after key sentences.",
+      "Read your slides word for word.",
+      "Look only at the floor."
+     ],
+     "answer": 1,
+     "explanation_th": "ตั้งใจช้าและหยุด ผู้ฟังตามทัน",
+     "why_wrong": [
+      "ผู้ฟังยิ่งตามไม่ทัน",
+      null,
+      "ไม่ได้แก้เรื่องความเร็ว และน่าเบื่อ",
+      "เสียการสบตากับผู้ฟัง"
+     ]
+    },
+    {
+     "id": "ENL312-U6-02",
+     "skill": "ENL312-U6",
+     "difficulty": 1,
+     "stem": "Good eye contact during a talk means ___.",
+     "options": [
+      "looking only at the teacher",
+      "looking at your slides most of the time",
+      "staring at one friendly person in the front row for the whole talk",
+      "looking at different people around the room in turn"
+     ],
+     "answer": 3,
+     "explanation_th": "กระจายสายตาให้ทุกคนรู้สึกว่าถูกพูดด้วย",
+     "why_wrong": [
+      "ผู้ฟังคนอื่นรู้สึกถูกทิ้ง",
+      "ไม่ได้สบตาผู้ฟัง",
+      "ทำให้คนนั้นอึดอัด และคนอื่นรู้สึกถูกทิ้ง",
+      null
+     ]
+    },
+    {
+     "id": "ENL312-U6-03",
+     "skill": "ENL312-U6",
+     "difficulty": 2,
+     "stem": "A speaker uses the same flat tone for every sentence. Her voice is ___.",
+     "options": [
+      "monotone",
+      "fluent",
+      "loud",
+      "fast"
+     ],
+     "answer": 0,
+     "explanation_th": "monotone = เสียงระดับเดียว",
+     "why_wrong": [
+      null,
+      "fluent = คล่อง ไม่เกี่ยวกับระดับเสียง",
+      "loud = ดัง",
+      "fast = เร็ว ไม่เกี่ยวกับระดับเสียง"
+     ]
+    },
+    {
+     "id": "ENL312-U6-04",
+     "skill": "ENL312-U6",
+     "difficulty": 2,
+     "stem": "Which is a 'filler word'?",
+     "options": [
+      "however",
+      "first",
+      "um",
+      "important"
+     ],
+     "answer": 2,
+     "explanation_th": "um ใช้เติมช่องตอนคิด",
+     "why_wrong": [
+      "however เป็นคำเชื่อมที่มีความหมาย",
+      "first ใช้เรียงลำดับ",
+      null,
+      "important เป็นคำคุณศัพท์ที่มีความหมาย"
+     ]
+    },
+    {
+     "id": "ENL312-U6-05",
+     "skill": "ENL312-U6",
+     "difficulty": 2,
+     "stem": "Why do good speakers pause after an important sentence?",
+     "options": [
+      "because they always forget what to say",
+      "to make the talk longer",
+      "to check their phone",
+      "to give the audience time to think about it"
+     ],
+     "answer": 3,
+     "explanation_th": "การหยุดให้ผู้ฟังได้ซึมซับ",
+     "why_wrong": [
+      "หยุดอย่างตั้งใจ ไม่ใช่เพราะลืม",
+      "ไม่ใช่จุดประสงค์",
+      "ไม่เกี่ยว",
+      null
+     ]
+    },
+    {
+     "id": "ENL312-U6-06",
+     "skill": "ENL312-U6",
+     "difficulty": 2,
+     "stem": "Which body language looks the most confident?",
+     "options": [
+      "keeping your hands in your pockets",
+      "standing straight and using your hands to show points",
+      "playing with a pen",
+      "turning your back to the audience to read the slides on the screen"
+     ],
+     "answer": 1,
+     "explanation_th": "ยืนมั่นคงและใช้มือประกอบ",
+     "why_wrong": [
+      "ดูไม่ตั้งใจ",
+      null,
+      "ดูประหม่า และดึงความสนใจผู้ฟัง",
+      "เสียการสบตาและเสียงเบาลง"
+     ]
+    },
+    {
+     "id": "ENL312-U6-07",
+     "skill": "ENL312-U6",
+     "difficulty": 3,
+     "stem": "A speaker says 'We need three DAYS, not three WEEKS,' with stress on DAYS and WEEKS. Why?",
+     "options": [
+      "to show that she is angry",
+      "to ask a question",
+      "to show the contrast between the two time periods",
+      "to start a new topic"
+     ],
+     "answer": 2,
+     "explanation_th": "เน้นคำที่ต่างกันเพื่อให้เห็นความแตกต่าง",
+     "why_wrong": [
+      "การเน้นคำไม่ได้แปลว่าโกรธ",
+      "เป็นประโยคบอกเล่า",
+      null,
+      "ยังอยู่ในประเด็นเดิม"
+     ]
+    },
+    {
+     "id": "ENL312-U6-08",
+     "skill": "ENL312-U6",
+     "difficulty": 1,
+     "stem": "'Volume' in speaking means ___.",
+     "options": [
+      "how loud your voice is",
+      "how fast you speak",
+      "how many slides you have",
+      "how long the talk is"
+     ],
+     "answer": 0,
+     "explanation_th": "volume = ความดัง",
+     "why_wrong": [
+      null,
+      "นั่นคือ pace",
+      "ไม่เกี่ยวกับเสียง",
+      "นั่นคือความยาว"
+     ]
+    }
+   ],
+   "say": [
+    "Let me slow down here, because this part is important.",
+    "We need three days, not three weeks."
+   ],
+   "task_th": "อัดวิดีโอตัวเองพูด 1 นาทีเรื่องอะไรก็ได้ ดูย้อนแล้วนับ um / uh และนับว่ามองกล้องกี่ครั้ง จากนั้นอัดใหม่โดยตั้งใจหยุดแทน um และพูดช้าลง เทียบสองคลิปว่าดีขึ้นตรงไหน"
+  },
+  {
+   "id": "ENL312-U7",
+   "title_th": "รับมือคำถามยากและความตื่นเต้น",
+   "title_en": "Handling tough questions and nerves",
+   "covers": "การฝึกนำเสนอผลงาน",
+   "minutes": 12,
+   "interview": [
+    "I59"
+   ],
+   "cards": [
+    {
+     "title_th": "เดาคำถามล่วงหน้า",
+     "body_th": "เขียนคำถามที่น่าจะโดนถาม 5 ข้อ แล้วเตรียมคำตอบสั้น ๆ คำถามยากมักเกี่ยวกับตัวเลข ที่มาของข้อมูล และข้อจำกัดของไอเดีย"
+    },
+    {
+     "title_th": "ทวนคำถาม",
+     "body_th": "ในห้องใหญ่ คนแถวหลังอาจไม่ได้ยินคำถาม ทวนสั้น ๆ ก่อนตอบ ได้เวลาคิดด้วย",
+     "example": "The question is: how much will it cost?"
+    },
+    {
+     "title_th": "คำถามนอกเรื่องหรือคำถามแย้ง",
+     "body_th": "ตอบสั้น ยอมรับข้อกังวล แล้วโยงกลับไปที่ key message ถ้าออกนอกเรื่องมาก เสนอคุยต่อหลังจบ",
+     "example": "That's a fair concern. ... / Could we talk about it after the session?"
+    },
+    {
+     "title_th": "ตื่นเต้นเป็นเรื่องปกติ",
+     "body_th": "ซ้อมพูดออกเสียงจริงหลายรอบ ท่อง 2 ประโยคแรกให้คล่องที่สุด และก่อนขึ้นพูดลองหายใจเข้าออกช้า ๆ สัก 3 รอบ"
+    }
+   ],
+   "vocab": [
+    [
+     "anticipate",
+     "คาดการณ์ล่วงหน้า"
+    ],
+    [
+     "rehearse",
+     "ซ้อม"
+    ],
+    [
+     "nervous",
+     "ตื่นเต้น ประหม่า"
+    ],
+    [
+     "off-topic",
+     "นอกเรื่อง"
+    ],
+    [
+     "follow-up question",
+     "คำถามต่อเนื่อง"
+    ],
+    [
+     "limitation",
+     "ข้อจำกัด"
+    ],
+    [
+     "concern",
+     "ข้อกังวล"
+    ],
+    [
+     "take a deep breath",
+     "หายใจลึก ๆ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL312-U7-01",
+     "skill": "ENL312-U7",
+     "difficulty": 1,
+     "stem": "Why do speakers repeat a question before answering it in a big room?",
+     "options": [
+      "to show the audience politely that the question was not a good one",
+      "so everyone can hear it, and the speaker gets time to think",
+      "to avoid answering it",
+      "to make the talk end sooner"
+     ],
+     "answer": 1,
+     "explanation_th": "ทุกคนได้ยิน และได้เวลาคิด",
+     "why_wrong": [
+      "การทวนไม่ได้แปลว่าคำถามไม่ดี",
+      null,
+      "ทวนแล้วยังต้องตอบ",
+      "ทำให้ช่วงถามตอบยาวขึ้นเล็กน้อยด้วยซ้ำ"
+     ]
+    },
+    {
+     "id": "ENL312-U7-02",
+     "skill": "ENL312-U7",
+     "difficulty": 2,
+     "stem": "Someone asks a question that is far from your topic. What is the best response?",
+     "options": [
+      "That's a silly question.",
+      "I don't want to answer that.",
+      "Let me answer that in detail now, even if it takes twenty minutes.",
+      "That's a bit off today's topic. Can we talk after the session?"
+     ],
+     "answer": 3,
+     "explanation_th": "สุภาพและรักษาเวลาของทุกคน",
+     "why_wrong": [
+      "ดูถูกผู้ถาม",
+      "ปฏิเสธห้วน ๆ",
+      "ใช้เวลาของผู้ฟังคนอื่น",
+      null
+     ]
+    },
+    {
+     "id": "ENL312-U7-03",
+     "skill": "ENL312-U7",
+     "difficulty": 1,
+     "stem": "To 'anticipate' questions means to ___.",
+     "options": [
+      "guess them before they are asked",
+      "ignore them",
+      "answer them with a joke",
+      "write them on the board"
+     ],
+     "answer": 0,
+     "explanation_th": "anticipate = คาดการณ์ล่วงหน้า",
+     "why_wrong": [
+      null,
+      "ตรงข้ามกับการเตรียมตัว",
+      "ไม่ใช่ความหมายนี้",
+      "ไม่ใช่ความหมายนี้"
+     ]
+    },
+    {
+     "id": "ENL312-U7-04",
+     "skill": "ENL312-U7",
+     "difficulty": 2,
+     "stem": "What is the best way to prepare for Q&A?",
+     "options": [
+      "Hope that nobody asks anything.",
+      "Memorise a long, perfect answer for every possible question in advance.",
+      "List likely questions and practise short answers aloud.",
+      "Plan to say 'No questions, please.'"
+     ],
+     "answer": 2,
+     "explanation_th": "เตรียมคำถามและซ้อมตอบออกเสียง",
+     "why_wrong": [
+      "ไม่ได้เตรียมอะไร",
+      "เป็นไปไม่ได้ และฟังเหมือนท่องจำ",
+      null,
+      "ปิดโอกาสถาม ไม่สุภาพ"
+     ]
+    },
+    {
+     "id": "ENL312-U7-05",
+     "skill": "ENL312-U7",
+     "difficulty": 2,
+     "stem": "You don't have the exact number someone asks for. You say: ___",
+     "options": [
+      "It's about a million, I think, but I'm not really sure about that.",
+      "Why do you need that number?",
+      "Numbers are not important.",
+      "I don't have it with me, but I'll check and email it to you."
+     ],
+     "answer": 3,
+     "explanation_th": "ซื่อสัตย์และเสนอติดตามผล",
+     "why_wrong": [
+      "เดาตัวเลข อาจให้ข้อมูลผิด",
+      "ฟังเหมือนตำหนิผู้ถาม",
+      "ปัดคำถามทิ้ง",
+      null
+     ]
+    },
+    {
+     "id": "ENL312-U7-06",
+     "skill": "ENL312-U7",
+     "difficulty": 2,
+     "stem": "Which helps most with nerves before a talk?",
+     "options": [
+      "not preparing so that you stay relaxed",
+      "practising aloud several times and taking slow breaths",
+      "staying up all night before the talk to make the slides perfect",
+      "reading the whole talk from paper"
+     ],
+     "answer": 1,
+     "explanation_th": "ซ้อมจริงทำให้มั่นใจ หายใจช้าช่วยให้ใจเย็นลง",
+     "why_wrong": [
+      "ไม่ซ้อมยิ่งทำให้กังวลตอนพูด",
+      null,
+      "นอนน้อยทำให้เหนื่อยและตื่นเต้นง่ายขึ้น",
+      "ไม่ได้ลดความตื่นเต้น และเสียการสบตา"
+     ]
+    },
+    {
+     "id": "ENL312-U7-07",
+     "skill": "ENL312-U7",
+     "difficulty": 3,
+     "stem": "Audience: 'Your idea sounds expensive.' Which answer is polite and links back to the key message?",
+     "options": [
+      "You didn't listen to my talk.",
+      "Everything is expensive these days, so the cost is not something we can worry about right now.",
+      "Fair concern. It costs more at first, but saves money after a year, which is my main point.",
+      "Next question, please."
+     ],
+     "answer": 2,
+     "explanation_th": "ยอมรับข้อกังวล ตอบด้วยข้อมูล และโยงกลับไปที่ key message",
+     "why_wrong": [
+      "โทษผู้ฟัง",
+      "ไม่ได้ตอบข้อกังวล และปัดเรื่องค่าใช้จ่ายทิ้ง",
+      null,
+      "ข้ามคำถามไปเฉย ๆ"
+     ]
+    },
+    {
+     "id": "ENL312-U7-08",
+     "skill": "ENL312-U7",
+     "difficulty": 2,
+     "stem": "A 'follow-up question' is ___.",
+     "options": [
+      "a second question that asks more about the first answer",
+      "the first question of the day",
+      "a question you ask yourself",
+      "a question printed on the last slide for the audience to answer"
+     ],
+     "answer": 0,
+     "explanation_th": "ถามต่อจากคำตอบเดิม",
+     "why_wrong": [
+      null,
+      "follow-up มาทีหลัง",
+      "ไม่ใช่ความหมายนี้",
+      "ไม่ใช่ความหมายนี้"
+     ]
+    }
+   ],
+   "say": [
+    "The question is how much it will cost. That's a fair question.",
+    "That's a bit outside today's topic. Could we talk about it after the session?",
+    "I don't have that number with me, but I'll email it to you."
+   ],
+   "task_th": "เขียนคำถามที่อาจโดนถามจากสไลด์ที่ทำในหน่วยที่ 5 จำนวน 5 ข้อ เลือก 2 ข้อที่ยากที่สุด ฝึกตอบโดยทวนคำถามก่อนทุกครั้ง ก่อนเริ่มหายใจช้า ๆ 3 รอบ แล้วอัดเสียงคำตอบ"
+  }
+ ]
+}

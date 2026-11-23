@@ -1,0 +1,1760 @@
+{
+ "code": "ENL351",
+ "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+ "in_class_th": [
+  "น่าจะได้ฝึกแปลคำและประโยคสั้นทั้งสองทิศ (อังกฤษเป็นไทย และไทยเป็นอังกฤษ) แทบทุกสัปดาห์ แล้วเทียบคำแปลกับเพื่อน ข้อนี้คาดจากคำอธิบายรายวิชาที่เขียนไว้ตรง ๆ",
+  "อาจได้เปรียบเทียบการแปลตรงตัวกับการแปลเอาความ และถกกันว่าแบบไหนเหมาะกับงานแบบไหน เป็นการคาดจากหัวข้อหลักการแปลเบื้องต้น",
+  "น่าจะเจอโจทย์คำที่มีหลายความหมาย สำนวน และคำทางวัฒนธรรม ซึ่งเป็นปัญหาในการแปลที่พบบ่อย ข้อนี้เป็นการเดา",
+  "อาจมีกิจกรรมให้ลองใช้เครื่องแปลอัตโนมัติ แล้วตรวจแก้คำแปลให้ถูกและลื่น ขึ้นกับอาจารย์ผู้สอน"
+ ],
+ "units": [
+  {
+   "id": "ENL351-U1",
+   "title_th": "การแปลคืออะไร และแปลเป็นขั้นตอน",
+   "title_en": "What translation is and the translation process",
+   "covers": "หลักการแปลเบื้องต้น",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "แปลคือย้ายความหมาย ไม่ใช่ย้ายคำ",
+     "body_th": "การแปลคือการเอาความหมายจากต้นฉบับ (source text) ในภาษาต้นทาง (source language) ไปเขียนใหม่เป็นภาษาปลายทาง (target language) ให้ผู้อ่านเข้าใจเหมือนผู้อ่านต้นฉบับ",
+     "example": "English email (ภาษาต้นทาง) → อีเมลภาษาไทย (ภาษาปลายทาง)"
+    },
+    {
+     "title_th": "4 ขั้นตอนง่าย ๆ",
+     "body_th": "1) อ่านต้นฉบับทั้งหมดให้เข้าใจก่อน 2) หาความหมายของคำและประโยคจากบริบท 3) ร่างคำแปล (draft) 4) ตรวจแก้ (revise) อย่าเริ่มแปลตั้งแต่คำแรกโดยยังไม่อ่านจบ"
+    },
+    {
+     "title_th": "ตรวจแก้สองรอบ",
+     "body_th": "รอบแรกอ่านคำแปลอย่างเดียว ดูว่าลื่นเหมือนคนไทยเขียนไหม รอบสองเทียบกับต้นฉบับทีละประโยค ดูว่าความหมายครบ ไม่ขาดไม่เกิน"
+    },
+    {
+     "title_th": "คิดถึงผู้อ่าน",
+     "body_th": "ถามตัวเองเสมอว่าใครจะอ่าน เด็ก ผู้สูงอายุ ลูกค้า หรืออาจารย์ แล้วเลือกระดับภาษาให้เหมาะ"
+    },
+    {
+     "title_th": "คำแปลที่ดีมี 3 อย่าง",
+     "body_th": "ถูกต้องตรงความ (accurate) อ่านเป็นธรรมชาติ (natural) และครบ (complete) ไม่ต้องมีจำนวนคำเท่าต้นฉบับ"
+    }
+   ],
+   "vocab": [
+    [
+     "translation",
+     "การแปล"
+    ],
+    [
+     "translator",
+     "ผู้แปล นักแปล"
+    ],
+    [
+     "source text",
+     "ต้นฉบับ"
+    ],
+    [
+     "target text",
+     "บทแปล"
+    ],
+    [
+     "source language",
+     "ภาษาต้นทาง"
+    ],
+    [
+     "target language",
+     "ภาษาปลายทาง"
+    ],
+    [
+     "draft",
+     "ร่าง ฉบับร่าง"
+    ],
+    [
+     "revise",
+     "ตรวจแก้"
+    ],
+    [
+     "accurate",
+     "ถูกต้องตรงความ"
+    ],
+    [
+     "natural",
+     "เป็นธรรมชาติ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL351-U1-01",
+     "skill": "ENL351-U1",
+     "difficulty": 1,
+     "stem": "In translation, what is the 'source text'?",
+     "options": [
+      "the original text that you translate from",
+      "the finished translation",
+      "the dictionary that you use",
+      "the language that the reader speaks"
+     ],
+     "answer": 0,
+     "explanation_th": "source text คือข้อความต้นฉบับที่เราแปลออกมา ส่วนผลงานที่ได้คือ target text",
+     "why_wrong": [
+      null,
+      "งานแปลที่เสร็จแล้วคือ target text (บทแปล) ไม่ใช่ต้นฉบับ",
+      "พจนานุกรมเป็นเครื่องมือช่วยแปล ไม่ใช่ตัวงานที่ถูกแปล",
+      "ภาษาของผู้อ่านคือ target language ไม่ใช่ข้อความต้นฉบับ"
+     ]
+    },
+    {
+     "id": "ENL351-U1-02",
+     "skill": "ENL351-U1",
+     "difficulty": 1,
+     "stem": "Pete translates an English email into Thai. In this job, Thai is the ___.",
+     "options": [
+      "source language",
+      "source text",
+      "target language",
+      "foreign language"
+     ],
+     "answer": 2,
+     "explanation_th": "แปลจากอังกฤษเป็นไทย ภาษาไทยคือภาษาที่เราแปลไปหา จึงเป็น target language",
+     "why_wrong": [
+      "ภาษาต้นทางในงานนี้คือภาษาอังกฤษ เพราะอีเมลเดิมเป็นภาษาอังกฤษ",
+      "source text คือตัวข้อความต้นฉบับ ไม่ใช่ชื่อเรียกภาษา",
+      null,
+      "ภาษาไทยเป็นภาษาของผู้อ่านปลายทาง ไม่ใช่ภาษาต่างประเทศสำหรับเขา"
+     ]
+    },
+    {
+     "id": "ENL351-U1-03",
+     "skill": "ENL351-U1",
+     "difficulty": 1,
+     "stem": "What should a translator do FIRST?",
+     "options": [
+      "Start translating the first word immediately.",
+      "Read the whole source text to understand it.",
+      "Check the spelling of the Thai translation.",
+      "Send the translation to the client."
+     ],
+     "answer": 1,
+     "explanation_th": "ขั้นแรกคืออ่านต้นฉบับทั้งหมดให้เข้าใจภาพรวม แล้วจึงเริ่มแปล",
+     "why_wrong": [
+      "ยังไม่รู้บริบทของทั้งเรื่อง จึงอาจเลือกความหมายผิดตั้งแต่ต้น",
+      null,
+      "ยังไม่มีคำแปลให้ตรวจ การตรวจเป็นขั้นสุดท้าย",
+      "ยังไม่ได้แปลเลย การส่งงานเป็นขั้นหลังตรวจแก้เสร็จ"
+     ]
+    },
+    {
+     "id": "ENL351-U1-04",
+     "skill": "ENL351-U1",
+     "difficulty": 2,
+     "stem": "Which is the best way to revise your draft?",
+     "options": [
+      "Only check the spelling.",
+      "Read only the source text again.",
+      "Count the words so both texts have the same number.",
+      "Read the translation alone to check that it sounds natural, then compare it with the source line by line."
+     ],
+     "answer": 3,
+     "explanation_th": "ตรวจแก้ที่ดีมีสองรอบ อ่านบทแปลเดี่ยว ๆ ให้ลื่น แล้วเทียบต้นฉบับให้ครบความ",
+     "why_wrong": [
+      "การสะกดถูกไม่ได้แปลว่าความหมายครบและถูก ต้องเทียบกับต้นฉบับด้วย",
+      "ไม่ได้ดูบทแปลเลย จึงหาจุดผิดในบทแปลไม่เจอ",
+      "จำนวนคำของสองภาษาไม่จำเป็นต้องเท่ากัน ไม่ใช่เกณฑ์ของคำแปลที่ดี",
+      null
+     ]
+    },
+    {
+     "id": "ENL351-U1-05",
+     "skill": "ENL351-U1",
+     "difficulty": 2,
+     "stem": "Which of these is a sign of a GOOD translation?",
+     "options": [
+      "It has exactly the same number of words as the original.",
+      "It adds the translator's own opinions to make it more interesting.",
+      "It keeps the full meaning and reads naturally in the target language.",
+      "It keeps the English word order exactly."
+     ],
+     "answer": 2,
+     "explanation_th": "คำแปลที่ดีต้องถูกต้อง ครบ และเป็นธรรมชาติในภาษาปลายทาง",
+     "why_wrong": [
+      "สองภาษามีโครงสร้างต่างกัน จำนวนคำจึงไม่ต้องเท่ากัน",
+      "การเพิ่มความเห็นของผู้แปลทำให้ความหมายไม่ตรงต้นฉบับ",
+      null,
+      "ลำดับคำแบบอังกฤษมักทำให้ภาษาไทยแข็งและอ่านยาก"
+     ]
+    },
+    {
+     "id": "ENL351-U1-06",
+     "skill": "ENL351-U1",
+     "difficulty": 2,
+     "stem": "You translate a medicine label for elderly Thai readers. What matters most?",
+     "options": [
+      "Beautiful, poetic Thai",
+      "Clear, simple Thai that they can follow safely",
+      "Keeping all the English medical words untranslated",
+      "A short summary that leaves out the dosage"
+     ],
+     "answer": 1,
+     "explanation_th": "ผู้อ่านและจุดประสงค์กำหนดวิธีแปล ฉลากยาสำหรับผู้สูงอายุต้องชัด ง่าย และครบ",
+     "why_wrong": [
+      "ภาษาสวยหรูอาจทำให้ผู้สูงอายุเข้าใจวิธีใช้ยาผิด ฉลากยาต้องชัดก่อน",
+      null,
+      "ผู้อ่านสูงอายุส่วนใหญ่อาจอ่านคำอังกฤษไม่เข้าใจ",
+      "ตัดขนาดยาออกเป็นอันตราย ข้อมูลสำคัญต้องครบ"
+     ]
+    },
+    {
+     "id": "ENL351-U1-07",
+     "skill": "ENL351-U1",
+     "difficulty": 1,
+     "stem": "Complete the sentence: 'Translation means moving ___ from one language to another.'",
+     "options": [
+      "meaning",
+      "letters",
+      "word order",
+      "handwriting"
+     ],
+     "answer": 0,
+     "explanation_th": "สิ่งที่ต้องย้ายข้ามภาษาคือความหมาย ส่วนคำและโครงสร้างเปลี่ยนได้",
+     "why_wrong": [
+      null,
+      "การย้ายตัวอักษรตามเสียงคือการทับศัพท์ ไม่ใช่การแปลทั้งหมด",
+      "ลำดับคำมักต้องเปลี่ยน เพราะแต่ละภาษาเรียงคำต่างกัน",
+      "ลายมือไม่เกี่ยวกับการแปลความหมาย"
+     ]
+    },
+    {
+     "id": "ENL351-U1-08",
+     "skill": "ENL351-U1",
+     "difficulty": 1,
+     "stem": "Which activity is 'revising'?",
+     "options": [
+      "Reading the source text for the first time",
+      "Choosing which text to translate",
+      "Typing the first version of the translation",
+      "Reading your draft again and fixing errors and awkward phrases"
+     ],
+     "answer": 3,
+     "explanation_th": "revise คือกลับไปอ่านร่างแล้วแก้จุดผิดและจุดที่อ่านไม่ลื่น",
+     "why_wrong": [
+      "นั่นคือขั้นทำความเข้าใจต้นฉบับ ยังไม่มีร่างให้แก้",
+      "การเลือกงานเกิดก่อนการแปล ไม่ใช่การตรวจแก้",
+      "การพิมพ์ฉบับแรกคือการร่าง (drafting)",
+      null
+     ]
+    },
+    {
+     "id": "ENL351-U1-09",
+     "skill": "ENL351-U1",
+     "difficulty": 3,
+     "stem": "A translator meets one sentence that she does not understand. What is the most professional action?",
+     "options": [
+      "Skip it and say nothing.",
+      "Translate it word by word and hope it makes sense.",
+      "Research it or ask the client, and not guess silently.",
+      "Write a new sentence of her own that sounds good."
+     ],
+     "answer": 2,
+     "explanation_th": "นักแปลมืออาชีพหาข้อมูลเพิ่มหรือถามผู้ว่าจ้าง ไม่เดาและไม่ตัดทิ้ง",
+     "why_wrong": [
+      "การตัดทิ้งเงียบ ๆ ทำให้บทแปลไม่ครบ และลูกค้าไม่รู้ว่าขาดอะไร",
+      "แปลทีละคำโดยไม่เข้าใจมักได้ความหมายผิด",
+      null,
+      "การแต่งประโยคใหม่เองคือการเพิ่มความที่ต้นฉบับไม่มี"
+     ]
+    }
+   ],
+   "say": [
+    "I read the whole text before I translate.",
+    "A good translation is accurate and natural.",
+    "I always revise my draft."
+   ],
+   "task_th": "หาประโยคภาษาอังกฤษสั้น ๆ 3 ประโยคจากป้ายหรือโพสต์ที่เห็นในชีวิตจริง แปลเป็นไทยตาม 4 ขั้นตอน (อ่าน หาความหมาย ร่าง ตรวจแก้) แล้วจดว่าตอนตรวจแก้ เปลี่ยนอะไรไปจากร่างแรกบ้าง"
+  },
+  {
+   "id": "ENL351-U2",
+   "title_th": "แปลตรงตัว แปลเอาความ และความเท่าเทียม",
+   "title_en": "Literal vs free translation and equivalence",
+   "covers": "หลักการแปลเบื้องต้น",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "แปลตรงตัว (literal translation)",
+     "body_th": "แปลตามคำและโครงสร้างเดิม ใช้ได้เมื่อสองภาษาตรงกันอยู่แล้ว แต่ถ้าเจอสำนวน มักได้ความหมายผิด",
+     "example": "It's raining cats and dogs. → ฝนตกเป็นแมวและหมา (ผิดความ)"
+    },
+    {
+     "title_th": "แปลเอาความ (free translation)",
+     "body_th": "ยึดความหมาย แล้วเลือกคำและโครงสร้างที่เป็นธรรมชาติในภาษาปลายทาง",
+     "example": "It's raining cats and dogs. → ฝนตกหนักมาก"
+    },
+    {
+     "title_th": "ความเท่าเทียม (equivalence)",
+     "body_th": "นักทฤษฎีการแปล Eugene Nida แบ่งไว้ 2 แบบ formal equivalence เน้นรักษารูปแบบต้นฉบับ dynamic equivalence เน้นให้ผู้อ่านปลายทางเข้าใจและรู้สึกแบบเดียวกับผู้อ่านต้นฉบับ"
+    },
+    {
+     "title_th": "เลือกตามประเภทงาน",
+     "body_th": "สัญญาและเอกสารกฎหมายต้องอยู่ใกล้ต้นฉบับมาก ส่วนโฆษณา มุกตลก และเพลง มักต้องแปลเอาความและความรู้สึก"
+    },
+    {
+     "title_th": "เอาความ ไม่เท่ากับ แต่งเอง",
+     "body_th": "แปลเอาความเปลี่ยนคำได้ แต่ห้ามเพิ่มหรือตัดความหมายของต้นฉบับ"
+    }
+   ],
+   "vocab": [
+    [
+     "literal translation",
+     "การแปลตรงตัว"
+    ],
+    [
+     "free translation",
+     "การแปลเอาความ"
+    ],
+    [
+     "word-for-word",
+     "คำต่อคำ"
+    ],
+    [
+     "equivalence",
+     "ความเท่าเทียม ความสมมูล"
+    ],
+    [
+     "formal equivalence",
+     "ความสมมูลเชิงรูปแบบ"
+    ],
+    [
+     "dynamic equivalence",
+     "ความสมมูลเชิงพลวัต"
+    ],
+    [
+     "effect",
+     "ผลต่อผู้อ่าน"
+    ],
+    [
+     "faithful",
+     "ซื่อตรงต่อต้นฉบับ"
+    ],
+    [
+     "idiom",
+     "สำนวน"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL351-U2-01",
+     "skill": "ENL351-U2",
+     "difficulty": 2,
+     "stem": "An actor is about to go on stage. His friend says, 'Break a leg!' Which Thai translation keeps the meaning?",
+     "options": [
+      "ขาหักเลย!",
+      "ระวังขาหักนะ!",
+      "เต้นให้สุดขาไปเลย!",
+      "ขอให้แสดงออกมาดีนะ โชคดี!"
+     ],
+     "answer": 3,
+     "explanation_th": "Break a leg! เป็นสำนวนอวยพรนักแสดงให้โชคดี ต้องแปลเอาความ",
+     "why_wrong": [
+      "แปลตรงตัว ผู้อ่านไทยจะเข้าใจว่าแช่งให้ขาหัก แต่ความจริงเป็นการอวยพร",
+      "เปลี่ยนคำอวยพรเป็นคำเตือนเรื่องอุบัติเหตุ ความหมายผิด",
+      "เพิ่มเรื่องการเต้นที่ต้นฉบับไม่มี และนักแสดงอาจไม่ได้เต้น",
+      null
+     ]
+    },
+    {
+     "id": "ENL351-U2-02",
+     "skill": "ENL351-U2",
+     "difficulty": 1,
+     "stem": "Which is an example of LITERAL (word-for-word) translation?",
+     "options": [
+      "'I'm feeling blue.' → 'ฉันรู้สึกสีฟ้า'",
+      "'I'm feeling blue.' → 'ฉันรู้สึกเศร้า'",
+      "'Help yourself.' → 'เชิญตามสบายเลย'",
+      "'No way!' → 'ไม่จริงน่า!'"
+     ],
+     "answer": 0,
+     "explanation_th": "ฉันรู้สึกสีฟ้า แปลทีละคำตามรูป จึงเป็นการแปลตรงตัว และผิดความด้วย",
+     "why_wrong": [
+      null,
+      "ข้อนี้แปลเอาความ เพราะ feeling blue แปลว่าเศร้า",
+      "ข้อนี้แปลเอาความ ไม่ได้แปลว่า ช่วยตัวเอง",
+      "ข้อนี้แปลเอาความ ไม่ได้แปลว่า ไม่มีทาง ทีละคำ"
+     ]
+    },
+    {
+     "id": "ENL351-U2-03",
+     "skill": "ENL351-U2",
+     "difficulty": 2,
+     "stem": "Dynamic equivalence focuses on ___.",
+     "options": [
+      "keeping the same word order as the original",
+      "giving target readers the same understanding and effect that the original readers had",
+      "keeping the same number of sentences",
+      "using as many English loanwords as possible"
+     ],
+     "answer": 1,
+     "explanation_th": "dynamic equivalence เน้นผลต่อผู้อ่านปลายทางให้เหมือนผู้อ่านต้นฉบับ",
+     "why_wrong": [
+      "การรักษารูปแบบและลำดับคำคือแนวคิด formal equivalence",
+      null,
+      "จำนวนประโยคไม่ใช่หัวใจของ dynamic equivalence",
+      "การใช้คำทับศัพท์มาก ๆ ไม่ได้ช่วยให้ผู้อ่านเข้าใจเสมอไป"
+     ]
+    },
+    {
+     "id": "ENL351-U2-04",
+     "skill": "ENL351-U2",
+     "difficulty": 2,
+     "stem": "For which text should the translator stay CLOSEST to the original wording?",
+     "options": [
+      "a fast-food advertising slogan",
+      "a joke in a comedy show",
+      "a song for small children",
+      "a legal contract"
+     ],
+     "answer": 3,
+     "explanation_th": "สัญญามีผลทางกฎหมาย ทุกคำมีความหมาย จึงต้องแปลให้ใกล้ต้นฉบับที่สุด",
+     "why_wrong": [
+      "คำขวัญโฆษณาต้องการความติดหู มักต้องแปลเอาความ",
+      "มุกตลกมักแปลตรงตัวแล้วไม่ขำ ต้องปรับให้ตลกในภาษาไทย",
+      "เพลงเด็กต้องมีจังหวะและคำง่าย มักต้องปรับคำ",
+      null
+     ]
+    },
+    {
+     "id": "ENL351-U2-05",
+     "skill": "ENL351-U2",
+     "difficulty": 2,
+     "stem": "Business email: 'We have sent our offer. The ball is in your court.' Which Thai translation keeps the meaning?",
+     "options": [
+      "เราส่งข้อเสนอไปแล้ว ลูกบอลอยู่ในสนามของคุณ",
+      "เราส่งข้อเสนอไปแล้ว คุณต้องไปเล่นเทนนิส",
+      "เราส่งข้อเสนอไปแล้ว ตอนนี้ขึ้นอยู่กับคุณว่าจะตัดสินใจอย่างไร",
+      "เราส่งข้อเสนอไปแล้ว เรื่องนี้จบแล้ว ไม่ต้องทำอะไรต่อ"
+     ],
+     "answer": 2,
+     "explanation_th": "The ball is in your court หมายถึงถึงตาอีกฝ่ายต้องตัดสินใจหรือทำอะไรต่อ",
+     "why_wrong": [
+      "แปลตรงตัว ผู้อ่านไทยจะงงว่าลูกบอลเกี่ยวอะไรกับข้อเสนอ",
+      "เข้าใจผิดว่าเป็นเรื่องกีฬาจริง",
+      null,
+      "กลับความ สำนวนนี้หมายถึงอีกฝ่ายต้องตัดสินใจต่อ"
+     ]
+    },
+    {
+     "id": "ENL351-U2-06",
+     "skill": "ENL351-U2",
+     "difficulty": 2,
+     "stem": "Which statement about free translation is TRUE?",
+     "options": [
+      "It may change words and structure, but it must keep the meaning.",
+      "It lets the translator add new ideas.",
+      "It is always better than literal translation.",
+      "It keeps every English word in the same position."
+     ],
+     "answer": 0,
+     "explanation_th": "แปลเอาความเปลี่ยนรูปได้ แต่ความหมายต้องเท่าเดิม",
+     "why_wrong": [
+      null,
+      "แปลเอาความไม่อนุญาตให้เพิ่มความคิดใหม่ ต้องซื่อตรงต่อความหมาย",
+      "ไม่เสมอไป งานกฎหมายหรือเอกสารเทคนิคต้องใกล้ต้นฉบับ",
+      "นั่นคือลักษณะของการแปลตรงตัว ไม่ใช่แปลเอาความ"
+     ]
+    },
+    {
+     "id": "ENL351-U2-07",
+     "skill": "ENL351-U2",
+     "difficulty": 1,
+     "stem": "Sign above a low door: 'Mind your head.' Which Thai translation is correct?",
+     "options": [
+      "คิดถึงหัวของคุณ",
+      "ระวังศีรษะ",
+      "ใช้หัวคิดหน่อย",
+      "ดูแลสุขภาพจิตด้วย"
+     ],
+     "answer": 1,
+     "explanation_th": "Mind your head บนป้ายหน้าประตูเตี้ย คือเตือนให้ระวังหัวชน",
+     "why_wrong": [
+      "แปล mind ว่าคิดถึง ซึ่งผิด ในป้ายนี้ mind แปลว่าระวัง",
+      null,
+      "เข้าใจว่าบอกให้คิด แต่ป้ายเตือนเรื่องประตูเตี้ย",
+      "แปล mind ว่าจิตใจ ไม่เกี่ยวกับการชนหัว"
+     ]
+    },
+    {
+     "id": "ENL351-U2-08",
+     "skill": "ENL351-U2",
+     "difficulty": 3,
+     "stem": "A translator keeps the English sentence structure even though the Thai sounds a little stiff, because she wants to stay close to the original form. Which approach is this?",
+     "options": [
+      "dynamic equivalence",
+      "free translation",
+      "adaptation",
+      "formal equivalence"
+     ],
+     "answer": 3,
+     "explanation_th": "การยึดรูปแบบต้นฉบับเป็นหลักคือ formal equivalence",
+     "why_wrong": [
+      "dynamic equivalence ยอมเปลี่ยนรูปเพื่อให้ผู้อ่านเข้าใจและรู้สึกเป็นธรรมชาติ",
+      "แปลเอาความจะเปลี่ยนโครงสร้างให้ลื่น ไม่ยึดรูปเดิม",
+      "adaptation คือดัดแปลงเนื้อหาให้เข้ากับวัฒนธรรมใหม่ ซึ่งเปลี่ยนมากกว่าเดิม",
+      null
+     ]
+    },
+    {
+     "id": "ENL351-U2-09",
+     "skill": "ENL351-U2",
+     "difficulty": 2,
+     "stem": "Friendly chat. A: 'This weather is terrible.' B: 'You can say that again!' Which Thai translation of B's reply keeps the meaning?",
+     "options": [
+      "คุณพูดซ้ำได้นะ",
+      "พูดใหม่อีกทีสิ ไม่ได้ยิน",
+      "ใช่เลย เห็นด้วยสุด ๆ",
+      "อย่าพูดแบบนี้อีกนะ"
+     ],
+     "answer": 2,
+     "explanation_th": "You can say that again! แปลว่าเห็นด้วยอย่างยิ่ง",
+     "why_wrong": [
+      "แปลตรงตัว คนไทยจะคิดว่าอนุญาตให้พูดอีกครั้ง",
+      "เข้าใจผิดว่าขอให้พูดซ้ำเพราะไม่ได้ยิน",
+      null,
+      "กลับความ สำนวนนี้แสดงว่าเห็นด้วยมาก"
+     ]
+    }
+   ],
+   "say": [
+    "Literal translation follows the words.",
+    "Free translation follows the meaning.",
+    "I choose my method for each text."
+   ],
+   "task_th": "เลือกสำนวนอังกฤษ 3 สำนวน (เช่น break a leg, feeling blue, piece of cake) แปลแต่ละสำนวน 2 แบบ แบบตรงตัวและแบบเอาความ แล้วเขียน 1 บรรทัดว่าทำไมแบบตรงตัวใช้ไม่ได้"
+  },
+  {
+   "id": "ENL351-U3",
+   "title_th": "ความหมายตามบริบท",
+   "title_en": "Meaning in context",
+   "covers": "ปัญหาในการแปล",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "คำเดียวหลายความหมาย",
+     "body_th": "คำอังกฤษหลายคำมีหลายความหมาย (polysemy) ต้องดูบริบทก่อนเลือกคำไทย",
+     "example": "run a café = บริหารร้าน, run fast = วิ่งเร็ว, my nose is running = น้ำมูกไหล"
+    },
+    {
+     "title_th": "คำที่มักมาคู่กัน (collocation)",
+     "body_th": "คำบางคู่มีความหมายเฉพาะ แปลแยกคำไม่ได้",
+     "example": "strong coffee = กาแฟเข้ม, heavy rain = ฝนตกหนัก, heavy cold = เป็นหวัดหนัก"
+    },
+    {
+     "title_th": "คำยืมที่ความหมายเปลี่ยน",
+     "body_th": "บางคำคนไทยยืมไปใช้แล้วความหมายเปลี่ยน เช่น แฟน ในภาษาไทยมักแปลว่าคนรัก แต่ fan ในภาษาอังกฤษแปลว่าคนที่ชื่นชอบ ระวังอย่าแปลกลับแบบตรงตัว"
+    },
+    {
+     "title_th": "บริบทช่วยตัดสิน",
+     "body_th": "ถ้าประโยคกำกวม ให้อ่านประโยครอบ ๆ หรือทั้งย่อหน้า แล้วเลือกความหมายที่เข้ากับเรื่อง",
+     "example": "bank of the river = ฝั่งแม่น้ำ, bank account = บัญชีธนาคาร"
+    }
+   ],
+   "vocab": [
+    [
+     "context",
+     "บริบท"
+    ],
+    [
+     "polysemy",
+     "การที่คำหนึ่งมีหลายความหมาย"
+    ],
+    [
+     "collocation",
+     "คำที่มักใช้คู่กัน"
+    ],
+    [
+     "false friend",
+     "คำลวง คำที่หน้าตาคล้ายแต่ความหมายต่าง"
+    ],
+    [
+     "ambiguity",
+     "ความกำกวม"
+    ],
+    [
+     "sense",
+     "ความหมายหนึ่งของคำ"
+    ],
+    [
+     "connotation",
+     "ความหมายแฝง"
+    ],
+    [
+     "interpret",
+     "ตีความ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL351-U3-01",
+     "skill": "ENL351-U3",
+     "difficulty": 1,
+     "stem": "'She runs a small café near the university.' What does 'runs' mean here?",
+     "options": [
+      "เปิดและดูแลกิจการ (บริหาร)",
+      "วิ่ง",
+      "หนีออกจาก",
+      "ไหล"
+     ],
+     "answer": 0,
+     "explanation_th": "run + ธุรกิจ แปลว่าบริหารหรือเปิดกิจการ",
+     "why_wrong": [
+      null,
+      "ไม่มีใครวิ่งในประโยคนี้ run + ร้าน แปลว่าบริหารร้าน",
+      "run away from จึงจะแปลว่าหนี และประโยคไม่มี away",
+      "run ที่แปลว่าไหลใช้กับน้ำหรือของเหลว ไม่ใช้กับร้านกาแฟ"
+     ]
+    },
+    {
+     "id": "ENL351-U3-02",
+     "skill": "ENL351-U3",
+     "difficulty": 1,
+     "stem": "'We sat on the bank of the river and ate lunch.' Which Thai translation is correct?",
+     "options": [
+      "เรานั่งกินข้าวเที่ยงกันที่ธนาคารริมแม่น้ำ",
+      "เรานั่งกินข้าวเที่ยงกันที่ริมฝั่งแม่น้ำ",
+      "เรานั่งกินข้าวเที่ยงกันบนสะพาน",
+      "เรานั่งกินข้าวเที่ยงกันในเรือกลางแม่น้ำ"
+     ],
+     "answer": 1,
+     "explanation_th": "บริบท of the river บอกว่า bank คือฝั่งแม่น้ำ",
+     "why_wrong": [
+      "bank of the river คือฝั่งแม่น้ำ ไม่ใช่ธนาคาร",
+      null,
+      "ต้นฉบับไม่ได้พูดถึงสะพาน",
+      "ต้นฉบับบอกว่านั่งที่ฝั่ง ไม่ได้อยู่ในเรือ"
+     ]
+    },
+    {
+     "id": "ENL351-U3-03",
+     "skill": "ENL351-U3",
+     "difficulty": 1,
+     "stem": "What is the correct Thai for 'strong coffee'?",
+     "options": [
+      "กาแฟแข็งแรง",
+      "กาแฟเข้ม",
+      "กาแฟร้อนจัด",
+      "กาแฟแก้วใหญ่"
+     ],
+     "answer": 1,
+     "explanation_th": "strong coffee เป็นคำคู่ แปลว่ากาแฟรสเข้ม",
+     "why_wrong": [
+      "strong กับกาแฟหมายถึงรสเข้ม ไม่ใช่แข็งแรงแบบร่างกาย",
+      null,
+      "strong ไม่ได้บอกอุณหภูมิ",
+      "strong ไม่ได้บอกขนาดแก้ว"
+     ]
+    },
+    {
+     "id": "ENL351-U3-04",
+     "skill": "ENL351-U3",
+     "difficulty": 1,
+     "stem": "'My nose is running.' Which Thai translation is correct?",
+     "options": [
+      "ฉันน้ำมูกไหล",
+      "จมูกของฉันกำลังวิ่ง",
+      "ฉันวิ่งจนหายใจไม่ทัน",
+      "จมูกของฉันเลือดไหล"
+     ],
+     "answer": 0,
+     "explanation_th": "nose is running เป็นสำนวนปกติ แปลว่าน้ำมูกไหล",
+     "why_wrong": [
+      null,
+      "แปลตรงตัว ภาษาไทยไม่พูดแบบนี้และไม่มีความหมาย",
+      "ไม่มีการวิ่งในต้นฉบับ",
+      "ต้นฉบับหมายถึงน้ำมูก ไม่ใช่เลือด"
+     ]
+    },
+    {
+     "id": "ENL351-U3-05",
+     "skill": "ENL351-U3",
+     "difficulty": 2,
+     "stem": "A singer says 'She is my fan.' Pete translates it as 'เธอเป็นแฟนของฉัน'. What is the main problem?",
+     "options": [
+      "The verb tense is wrong.",
+      "'Fan' has no Thai translation at all.",
+      "The Thai sentence is too formal.",
+      "Thai readers may think she is his girlfriend."
+     ],
+     "answer": 3,
+     "explanation_th": "แฟน ที่อยู่โดด ๆ ในภาษาไทยมักแปลว่าคนรัก ควรแปลว่า เธอเป็นแฟนคลับของฉัน หรือ เธอชื่นชอบผลงานของฉัน",
+     "why_wrong": [
+      "ต้นฉบับเป็น present ธรรมดา และภาษาไทยไม่มีปัญหาเรื่อง tense ในประโยคนี้",
+      "แปลได้ เช่น แฟนคลับ หรือ คนที่ชื่นชอบ",
+      "ประโยคนี้ไม่ได้ทางการเกินไป ปัญหาอยู่ที่ความหมาย",
+      null
+     ]
+    },
+    {
+     "id": "ENL351-U3-06",
+     "skill": "ENL351-U3",
+     "difficulty": 2,
+     "stem": "'He stayed home because he had a heavy cold.' Which Thai translation is correct?",
+     "options": [
+      "เขาอยู่บ้านเพราะมีความหนาวที่หนัก",
+      "เขาอยู่บ้านเพราะน้ำหนักมากและรู้สึกหนาว",
+      "เขาอยู่บ้านเพราะเป็นหวัดหนัก",
+      "เขาอยู่บ้านเพราะเป็นหวัดนิดหน่อย"
+     ],
+     "answer": 2,
+     "explanation_th": "heavy cold เป็นคำคู่ แปลว่าเป็นหวัดหนัก",
+     "why_wrong": [
+      "แปลตรงตัว cold ในที่นี้คือหวัด ไม่ใช่ความหนาว",
+      "heavy ในคำคู่นี้แปลว่ารุนแรง ไม่ใช่น้ำหนัก",
+      null,
+      "heavy แปลว่าหนัก ไม่ใช่นิดหน่อย กลับความ"
+     ]
+    },
+    {
+     "id": "ENL351-U3-07",
+     "skill": "ENL351-U3",
+     "difficulty": 1,
+     "stem": "Teenager talking about a phone: 'The new phone is really cool!' Which Thai translation fits best?",
+     "options": [
+      "มือถือรุ่นใหม่เย็นมาก!",
+      "มือถือรุ่นใหม่เงียบมาก!",
+      "มือถือรุ่นใหม่เจ๋งมาก!",
+      "มือถือรุ่นใหม่ราคาถูกมาก!"
+     ],
+     "answer": 2,
+     "explanation_th": "cool ในภาษาพูดใช้ชมว่าดีหรือเท่ แปลว่าเจ๋ง",
+     "why_wrong": [
+      "cool ในบริบทนี้คือชม ไม่ได้พูดเรื่องอุณหภูมิ",
+      "cool ไม่มีความหมายว่าเงียบ",
+      null,
+      "cool ไม่ได้พูดเรื่องราคา"
+     ]
+    },
+    {
+     "id": "ENL351-U3-08",
+     "skill": "ENL351-U3",
+     "difficulty": 3,
+     "stem": "Why is 'The chicken is ready to eat.' difficult to translate without context?",
+     "options": [
+      "It can mean the cooked chicken is ready for us to eat, or a live chicken is ready to eat its food.",
+      "Because 'chicken' has no Thai word.",
+      "Because the sentence is in the passive voice.",
+      "Because 'ready' is a verb that Thai does not have."
+     ],
+     "answer": 0,
+     "explanation_th": "ประโยคกำกวม ต้องดูบริบทว่าไก่เป็นอาหารหรือเป็นสัตว์ที่กำลังจะกินอาหาร",
+     "why_wrong": [
+      null,
+      "chicken แปลว่าไก่ได้ตามปกติ ปัญหาไม่ได้อยู่ที่คำศัพท์",
+      "ประโยคนี้ไม่ใช่ passive ไม่มี be + V3",
+      "ready เป็นคำคุณศัพท์ และแปลว่าพร้อมได้"
+     ]
+    },
+    {
+     "id": "ENL351-U3-09",
+     "skill": "ENL351-U3",
+     "difficulty": 2,
+     "stem": "'Can you take a picture of us?' Which Thai translation is correct?",
+     "options": [
+      "ช่วยเอารูปของเราไปได้ไหม",
+      "ช่วยหยิบรูปของเราให้หน่อยได้ไหม",
+      "ช่วยวาดรูปเราหน่อยได้ไหม",
+      "ช่วยถ่ายรูปให้เราหน่อยได้ไหม"
+     ],
+     "answer": 3,
+     "explanation_th": "take a picture เป็นคำคู่ แปลว่าถ่ายรูป",
+     "why_wrong": [
+      "take a picture แปลว่าถ่ายรูป ไม่ใช่เอาไป",
+      "take ในคำคู่นี้ไม่ได้แปลว่าหยิบ",
+      "take a picture คือถ่ายด้วยกล้อง ไม่ใช่วาด",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "The meaning depends on the context.",
+    "Strong coffee means coffee with a lot of flavor.",
+    "I read the whole sentence before I choose a word."
+   ],
+   "task_th": "เลือกคำ 3 คำ (run, heavy, take) เขียนประโยคอังกฤษสั้นของตัวเองคำละ 2 ประโยคที่ความหมายต่างกัน แล้วแปลเป็นไทยทั้ง 6 ประโยค"
+  },
+  {
+   "id": "ENL351-U4",
+   "title_th": "ปัญหาทางวัฒนธรรมในการแปล",
+   "title_en": "Cultural problems in translation",
+   "covers": "ปัญหาในการแปล",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "คำทางวัฒนธรรม",
+     "body_th": "บางคำไม่มีคำตรงในอีกภาษา เพราะเป็นของหรือความคิดเฉพาะวัฒนธรรม เช่น เกรงใจ กระทง Thanksgiving"
+    },
+    {
+     "title_th": "3 วิธีแก้",
+     "body_th": "1) ใช้คำเดิมหรือทับศัพท์ แล้วอธิบายสั้น ๆ 2) ใช้คำที่กว้างขึ้น 3) อธิบายความหมายแทนคำ เลือกวิธีที่ผู้อ่านเข้าใจและข้อเท็จจริงไม่เปลี่ยน",
+     "example": "กระทง → krathong, a small floating basket made of banana leaves"
+    },
+    {
+     "title_th": "หน่วยวัด วันที่ และปี",
+     "body_th": "สหรัฐฯ ใช้องศาฟาเรนไฮต์ ไมล์ และเขียนวันที่แบบ เดือน/วัน/ปี ส่วนไทยใช้เซลเซียส กิโลเมตร วัน/เดือน/ปี และ พ.ศ. ซึ่งเท่ากับ ค.ศ. + 543",
+     "example": "04/07/2026 (แบบอเมริกัน) = 7 เมษายน 2026"
+    },
+    {
+     "title_th": "คำทักทายและมารยาท",
+     "body_th": "คำทักทายแปลตามหน้าที่ ไม่ใช่ตามคำ เช่น กินข้าวหรือยัง ที่ใช้ทักทายเฉย ๆ อาจแปลว่า Hi, how are you?"
+    },
+    {
+     "title_th": "เงินและข้อเท็จจริงห้ามเปลี่ยน",
+     "body_th": "ราคา 5 ดอลลาร์ ต้องแปลว่า 5 ดอลลาร์ ไม่เปลี่ยนเป็นบาท เพราะการแปลไม่ใช่การแก้ข้อเท็จจริง"
+    }
+   ],
+   "vocab": [
+    [
+     "culture-specific item",
+     "คำเฉพาะทางวัฒนธรรม"
+    ],
+    [
+     "cultural gap",
+     "ช่องว่างทางวัฒนธรรม"
+    ],
+    [
+     "borrowing",
+     "การยืมคำ"
+    ],
+    [
+     "explanation",
+     "การอธิบายเพิ่ม"
+    ],
+    [
+     "Buddhist Era (B.E.)",
+     "พุทธศักราช (พ.ศ.)"
+    ],
+    [
+     "Common Era (C.E.)",
+     "คริสต์ศักราช (ค.ศ.)"
+    ],
+    [
+     "unit of measurement",
+     "หน่วยวัด"
+    ],
+    [
+     "greeting",
+     "คำทักทาย"
+    ],
+    [
+     "currency",
+     "สกุลเงิน"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL351-U4-01",
+     "skill": "ENL351-U4",
+     "difficulty": 2,
+     "stem": "Translate into English: 'ผมเกรงใจเขา เลยไม่กล้าขอ'",
+     "options": [
+      "I was afraid of him, so I didn't ask.",
+      "I didn't want to bother him, so I didn't ask.",
+      "I respected him, so I asked him politely.",
+      "I was shy because I didn't know him, so I didn't ask."
+     ],
+     "answer": 1,
+     "explanation_th": "เกรงใจไม่มีคำอังกฤษตรงตัว แปลเอาความว่า didn't want to bother",
+     "why_wrong": [
+      "เกรงใจไม่ได้แปลว่ากลัว แต่คือไม่อยากรบกวน",
+      null,
+      "กลับความ ต้นฉบับบอกว่าไม่ได้ขอ",
+      "เพิ่มเรื่องไม่รู้จักเขา ซึ่งต้นฉบับไม่มี"
+     ]
+    },
+    {
+     "id": "ENL351-U4-02",
+     "skill": "ENL351-U4",
+     "difficulty": 2,
+     "stem": "Two friends meet in the morning. One says 'กินข้าวหรือยัง' only as a friendly greeting, not a real question about food. Which English translation fits?",
+     "options": [
+      "Have you eaten rice yet?",
+      "Let's go and eat rice.",
+      "Are you hungry? I'll pay.",
+      "Hey! How's it going?"
+     ],
+     "answer": 3,
+     "explanation_th": "เมื่อเป็นแค่คำทักทาย ให้แปลตามหน้าที่ คือคำทักทายแบบอังกฤษ",
+     "why_wrong": [
+      "แปลตรงตัว ผู้อ่านฝรั่งจะคิดว่าถามเรื่องอาหารจริง และ rice ทำให้แปลกขึ้น",
+      "เปลี่ยนคำทักทายเป็นการชวนไปกินข้าว",
+      "เพิ่มการเลี้ยงข้าวที่ต้นฉบับไม่มี",
+      null
+     ]
+    },
+    {
+     "id": "ENL351-U4-03",
+     "skill": "ENL351-U4",
+     "difficulty": 2,
+     "stem": "An American blog says, 'It was 95°F today.' Which Thai translation is accurate and clear for Thai readers?",
+     "options": [
+      "วันนี้อุณหภูมิ 95 องศาเซลเซียส",
+      "วันนี้อุณหภูมิ 95 องศาฟาเรนไฮต์ (ประมาณ 35 องศาเซลเซียส)",
+      "วันนี้อากาศเย็นสบาย",
+      "วันนี้อุณหภูมิ 95"
+     ],
+     "answer": 1,
+     "explanation_th": "95°F เท่ากับ 35°C การบอกหน่วยเดิมและเทียบเซลเซียสช่วยผู้อ่านไทย",
+     "why_wrong": [
+      "เปลี่ยนหน่วยผิด 95 องศาเซลเซียสร้อนเกือบเท่าน้ำเดือด",
+      null,
+      "95 องศาฟาเรนไฮต์คือร้อนมาก ไม่ใช่เย็นสบาย",
+      "ไม่บอกหน่วย ผู้อ่านไทยจะคิดว่าเป็นเซลเซียส"
+     ]
+    },
+    {
+     "id": "ENL351-U4-04",
+     "skill": "ENL351-U4",
+     "difficulty": 1,
+     "stem": "The year 2025 C.E. is which year in the Thai Buddhist Era (B.E.)?",
+     "options": [
+      "2568",
+      "2567",
+      "2569",
+      "1482"
+     ],
+     "answer": 0,
+     "explanation_th": "พ.ศ. = ค.ศ. + 543 ดังนั้น 2025 + 543 = 2568",
+     "why_wrong": [
+      null,
+      "บวก 542 ซึ่งผิด ต้องบวก 543",
+      "บวก 544 ซึ่งผิด ต้องบวก 543",
+      "ลบ 543 แทนที่จะบวก"
+     ]
+    },
+    {
+     "id": "ENL351-U4-05",
+     "skill": "ENL351-U4",
+     "difficulty": 3,
+     "stem": "An American letter is dated 04/07/2026 (month/day/year). Which Thai date is correct?",
+     "options": [
+      "4 กรกฎาคม พ.ศ. 2569",
+      "7 เมษายน พ.ศ. 2026",
+      "7 เมษายน พ.ศ. 2569",
+      "4 กรกฎาคม พ.ศ. 2026"
+     ],
+     "answer": 2,
+     "explanation_th": "04/07 แบบอเมริกันคือ เดือน 4 วันที่ 7 = 7 เมษายน และ 2026 + 543 = 2569",
+     "why_wrong": [
+      "อ่านแบบวันก่อนเดือน แต่แบบอเมริกันขึ้นต้นด้วยเดือน",
+      "ใส่ พ.ศ. หน้าเลขปี ค.ศ. ต้องเป็น พ.ศ. 2569",
+      null,
+      "ผิดทั้งวันเดือน และผิดทั้งการใช้ พ.ศ."
+     ]
+    },
+    {
+     "id": "ENL351-U4-06",
+     "skill": "ENL351-U4",
+     "difficulty": 2,
+     "stem": "Source: 'We had turkey for Thanksgiving.' Many Thai readers do not know Thanksgiving. What is the best solution?",
+     "options": [
+      "Use the Thai name วันขอบคุณพระเจ้า and add a short note that it is an American holiday.",
+      "Replace Thanksgiving with Songkran.",
+      "Delete the word Thanksgiving.",
+      "Write only the English word with no Thai at all."
+     ],
+     "answer": 0,
+     "explanation_th": "ใช้ชื่อที่มีอยู่แล้วและอธิบายสั้น ๆ ข้อมูลครบและผู้อ่านเข้าใจ",
+     "why_wrong": [
+      null,
+      "เปลี่ยนข้อเท็จจริง สงกรานต์เป็นคนละเทศกาลกัน",
+      "ข้อมูลหายไป ผู้อ่านไม่รู้ว่ากินไก่งวงเพราะอะไร",
+      "ผู้อ่านที่ไม่รู้จักยังคงไม่เข้าใจ"
+     ]
+    },
+    {
+     "id": "ENL351-U4-07",
+     "skill": "ENL351-U4",
+     "difficulty": 1,
+     "stem": "'He paid 5 dollars for the ticket.' How should you translate '5 dollars'?",
+     "options": [
+      "5 บาท",
+      "5 ดอลลาร์ (keep the original currency)",
+      "ราคาตั๋วในไทย",
+      "เงินจำนวนหนึ่ง"
+     ],
+     "answer": 1,
+     "explanation_th": "การแปลไม่ใช่การแก้ข้อเท็จจริง เงินต้องคงสกุลเดิม",
+     "why_wrong": [
+      "เปลี่ยนสกุลเงินแต่เลขเดิม ข้อเท็จจริงผิดทันที",
+      null,
+      "ตัดตัวเลขทิ้งและเปลี่ยนความหมาย",
+      "ตัดตัวเลขออก ข้อมูลไม่ครบ"
+     ]
+    },
+    {
+     "id": "ENL351-U4-08",
+     "skill": "ENL351-U4",
+     "difficulty": 1,
+     "stem": "Which Thai word is MOST likely to need a short explanation when translated for foreign readers?",
+     "options": [
+      "โต๊ะ",
+      "ประตู",
+      "รถเมล์",
+      "กระทง (ในวันลอยกระทง)"
+     ],
+     "answer": 3,
+     "explanation_th": "กระทงเป็นของเฉพาะวัฒนธรรมไทย ผู้อ่านต่างชาติอาจไม่รู้จัก",
+     "why_wrong": [
+      "มีคำอังกฤษตรงตัวคือ table",
+      "มีคำอังกฤษตรงตัวคือ door",
+      "มีคำอังกฤษตรงตัวคือ bus",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "Some words belong to one culture.",
+    "I keep the facts and explain the culture.",
+    "The year 2025 is 2568 in Thailand."
+   ],
+   "task_th": "เลือกคำไทยเฉพาะวัฒนธรรม 3 คำ (เช่น เกรงใจ ไหว้ ส้มตำ) เขียนคำอธิบายภาษาอังกฤษให้ชาวต่างชาติ คำละ 1 ประโยค แล้วลองแปลงปี ค.ศ. 3 ปีเป็น พ.ศ."
+  },
+  {
+   "id": "ENL351-U5",
+   "title_th": "ฝึกแปลคำและประโยค อังกฤษเป็นไทย",
+   "title_en": "Translating words and sentences: English to Thai",
+   "covers": "การฝึกแปลคำและประโยคทั้งอังกฤษเป็นไทย",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "หาแกนประโยคก่อน",
+     "body_th": "ถามว่า ใคร ทำอะไร หาประธานและกริยาหลักให้เจอ แล้วค่อยเติมส่วนขยาย"
+    },
+    {
+     "title_th": "คำขยายย้ายไปข้างหลัง",
+     "body_th": "ภาษาอังกฤษวางคำขยายไว้หน้าคำนาม ภาษาไทยวางไว้หลัง",
+     "example": "a beautiful old house → บ้านเก่าที่สวย"
+    },
+    {
+     "title_th": "กริยาวลีแปลเป็นก้อน",
+     "body_th": "phrasal verb มีความหมายใหม่ ห้ามแปลแยกคำ",
+     "example": "look after = ดูแล, give up = เลิก, turn down = ปฏิเสธ"
+    },
+    {
+     "title_th": "it กับ there ไม่ต้องแปลเสมอ",
+     "body_th": "ประธานหุ่นอย่าง it และ there แปลแล้วภาษาไทยจะแข็ง",
+     "example": "It is raining. → ฝนกำลังตก, There are three students. → มีนักเรียนสามคน"
+    }
+   ],
+   "vocab": [
+    [
+     "subject",
+     "ประธาน"
+    ],
+    [
+     "main verb",
+     "กริยาหลัก"
+    ],
+    [
+     "modifier",
+     "คำขยาย"
+    ],
+    [
+     "phrasal verb",
+     "กริยาวลี"
+    ],
+    [
+     "dummy subject",
+     "ประธานหุ่น (it, there)"
+    ],
+    [
+     "word order",
+     "ลำดับคำ"
+    ],
+    [
+     "sentence",
+     "ประโยค"
+    ],
+    [
+     "classifier",
+     "ลักษณนาม"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL351-U5-01",
+     "skill": "ENL351-U5",
+     "difficulty": 1,
+     "stem": "Which Thai translation of 'a beautiful old house' is correct?",
+     "options": [
+      "สวยเก่าบ้าน",
+      "บ้านใหม่ที่สวย",
+      "บ้านเก่าที่สวย",
+      "บ้านที่สวยกว่าบ้านเก่า"
+     ],
+     "answer": 2,
+     "explanation_th": "ภาษาไทยวางคำนามก่อน แล้วตามด้วยคำขยาย",
+     "why_wrong": [
+      "เรียงตามลำดับอังกฤษ ภาษาไทยต้องวางคำนามก่อนคำขยาย",
+      "old แปลว่าเก่า ไม่ใช่ใหม่",
+      null,
+      "เพิ่มการเปรียบเทียบที่ต้นฉบับไม่มี"
+     ]
+    },
+    {
+     "id": "ENL351-U5-02",
+     "skill": "ENL351-U5",
+     "difficulty": 1,
+     "stem": "'It is raining again.' Which Thai translation is correct and natural?",
+     "options": [
+      "มันกำลังฝนตกอีก",
+      "ฝนหยุดแล้ว",
+      "ฝนตกอีกแล้ว",
+      "มันเป็นฝนอีกครั้ง"
+     ],
+     "answer": 2,
+     "explanation_th": "it ในเรื่องอากาศเป็นประธานหุ่น ไม่ต้องแปล",
+     "why_wrong": [
+      "แปล it ซึ่งเป็นประธานหุ่น ภาษาไทยไม่ต้องมี มัน",
+      "กลับความ ต้นฉบับบอกว่าฝนตก",
+      null,
+      "แปลทีละคำ ไม่ใช่ภาษาไทยที่คนพูด"
+     ]
+    },
+    {
+     "id": "ENL351-U5-03",
+     "skill": "ENL351-U5",
+     "difficulty": 2,
+     "stem": "'Please look after my cat while I'm away.' Which Thai translation is correct?",
+     "options": [
+      "ช่วยดูแลแมวของฉันระหว่างที่ฉันไม่อยู่ด้วยนะ",
+      "ช่วยมองตามแมวของฉันระหว่างที่ฉันไม่อยู่ด้วยนะ",
+      "ช่วยตามหาแมวของฉันระหว่างที่ฉันไม่อยู่ด้วยนะ",
+      "ช่วยดูแลแมวของฉันหลังจากฉันกลับมาด้วยนะ"
+     ],
+     "answer": 0,
+     "explanation_th": "look after เป็นกริยาวลี แปลว่าดูแล",
+     "why_wrong": [
+      null,
+      "แปล look after แยกคำว่ามองตาม แต่ความหมายคือดูแล",
+      "ตามหาคือ look for ไม่ใช่ look after",
+      "while I'm away คือระหว่างไม่อยู่ ไม่ใช่หลังกลับมา"
+     ]
+    },
+    {
+     "id": "ENL351-U5-04",
+     "skill": "ENL351-U5",
+     "difficulty": 2,
+     "stem": "'She gave up smoking last year.' Which Thai translation is correct?",
+     "options": [
+      "เธอให้การสูบบุหรี่ขึ้นไปเมื่อปีที่แล้ว",
+      "เธอเลิกสูบบุหรี่ตั้งแต่ปีที่แล้ว",
+      "เธอเริ่มสูบบุหรี่เมื่อปีที่แล้ว",
+      "เธอจะเลิกสูบบุหรี่ปีหน้า"
+     ],
+     "answer": 1,
+     "explanation_th": "give up + V-ing แปลว่าเลิกทำสิ่งนั้น",
+     "why_wrong": [
+      "แปล give up แยกคำ ไม่มีความหมายในภาษาไทย",
+      null,
+      "กลับความ give up แปลว่าเลิก",
+      "เปลี่ยนเวลาเป็นอนาคต ต้นฉบับคือปีที่แล้ว"
+     ]
+    },
+    {
+     "id": "ENL351-U5-05",
+     "skill": "ENL351-U5",
+     "difficulty": 1,
+     "stem": "'There are three students in the room.' Which Thai translation is correct and natural?",
+     "options": [
+      "ที่นั่นเป็นนักเรียนสามคนในห้อง",
+      "มีนักเรียนสามคนอยู่นอกห้อง",
+      "ในห้องมีนักเรียนสาม",
+      "ในห้องมีนักเรียนสามคน"
+     ],
+     "answer": 3,
+     "explanation_th": "there is / there are แปลว่า มี และภาษาไทยต้องมีลักษณนามหลังตัวเลข",
+     "why_wrong": [
+      "แปล there ว่าที่นั่น ซึ่งผิด there are แปลว่า มี",
+      "in the room คือในห้อง ไม่ใช่นอกห้อง",
+      "ขาดลักษณนาม คน ภาษาไทยต้องมีเมื่อบอกจำนวน",
+      null
+     ]
+    },
+    {
+     "id": "ENL351-U5-06",
+     "skill": "ENL351-U5",
+     "difficulty": 2,
+     "stem": "'I'm looking forward to seeing you.' Which Thai translation keeps the meaning?",
+     "options": [
+      "ฉันกำลังมองไปข้างหน้าเพื่อเห็นคุณ",
+      "ฉันเห็นคุณอยู่ข้างหน้าแล้ว",
+      "ฉันไม่อยากเจอคุณ",
+      "ฉันตั้งตารอที่จะได้เจอคุณ"
+     ],
+     "answer": 3,
+     "explanation_th": "look forward to + V-ing แปลว่าตั้งตารอ",
+     "why_wrong": [
+      "แปลแยกคำ look forward to แปลว่าตั้งตารอ",
+      "เปลี่ยนเป็นเห็นตัวคุณตอนนี้ ซึ่งผิดความ",
+      "กลับความ ต้นฉบับบอกว่าอยากเจอมาก",
+      null
+     ]
+    },
+    {
+     "id": "ENL351-U5-07",
+     "skill": "ENL351-U5",
+     "difficulty": 2,
+     "stem": "'He turned down the job offer.' Which Thai translation is correct?",
+     "options": [
+      "เขาปฏิเสธข้อเสนองานนั้น",
+      "เขาหมุนข้อเสนองานลง",
+      "เขาลดเงินเดือนในข้อเสนองาน",
+      "เขารับข้อเสนองานนั้น"
+     ],
+     "answer": 0,
+     "explanation_th": "turn down + ข้อเสนอ แปลว่าปฏิเสธ",
+     "why_wrong": [
+      null,
+      "แปล turn down แยกคำ ไม่มีความหมาย",
+      "turn down แปลว่าหรี่หรือลดได้กับเสียง แต่กับ offer แปลว่าปฏิเสธ",
+      "กลับความ turn down คือไม่รับ"
+     ]
+    },
+    {
+     "id": "ENL351-U5-08",
+     "skill": "ENL351-U5",
+     "difficulty": 2,
+     "stem": "'The book on the table is mine.' Which Thai translation is correct?",
+     "options": [
+      "บนโต๊ะหนังสือเป็นของฉัน",
+      "หนังสือเป็นของฉันบนโต๊ะ",
+      "หนังสือที่อยู่บนโต๊ะเป็นของฉัน",
+      "โต๊ะที่มีหนังสือเป็นของฉัน"
+     ],
+     "answer": 2,
+     "explanation_th": "on the table ขยายหนังสือ ภาษาไทยวางไว้หลังคำนามด้วย ที่อยู่",
+     "why_wrong": [
+      "ลำดับคำทำให้อ่านเป็น บนโต๊ะหนังสือ ความหมายเพี้ยน",
+      "วางคำขยาย บนโต๊ะ ผิดที่ ประโยคไม่เป็นธรรมชาติ",
+      null,
+      "เปลี่ยนสิ่งที่เป็นของฉันจากหนังสือเป็นโต๊ะ"
+     ]
+    },
+    {
+     "id": "ENL351-U5-09",
+     "skill": "ENL351-U5",
+     "difficulty": 3,
+     "stem": "An English sentence is long and has many parts. Which step helps MOST?",
+     "options": [
+      "Translate each word from left to right.",
+      "Find the main subject and verb first, then add the other parts.",
+      "Cut the sentence in half at the middle word.",
+      "Translate only the nouns."
+     ],
+     "answer": 1,
+     "explanation_th": "หาแกนประโยค ใคร ทำอะไร ก่อนเสมอ",
+     "why_wrong": [
+      "แปลตามลำดับคำอังกฤษจะได้ภาษาไทยที่อ่านไม่รู้เรื่อง",
+      null,
+      "การตัดที่กลางประโยคไม่สนใจโครงสร้าง อาจแยกประธานกับกริยาออกจากกัน",
+      "ไม่มีกริยา ผู้อ่านไม่รู้ว่าใครทำอะไร"
+     ]
+    }
+   ],
+   "say": [
+    "First, I find the subject and the verb.",
+    "Look after means take care of.",
+    "In Thai, the adjective comes after the noun."
+   ],
+   "task_th": "เขียนประโยคอังกฤษ 5 ประโยคที่มี phrasal verb (look after, give up, turn down, look forward to, find out) แปลเป็นไทย แล้วขีดเส้นใต้ประธานและกริยาหลักในต้นฉบับทุกประโยค"
+  },
+  {
+   "id": "ENL351-U6",
+   "title_th": "ฝึกแปลคำและประโยค ไทยเป็นอังกฤษ",
+   "title_en": "Translating words and sentences: Thai to English",
+   "covers": "และไทยเป็นอังกฤษ",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "ภาษาอังกฤษต้องมีประธาน",
+     "body_th": "ภาษาไทยละประธานได้ แต่ภาษาอังกฤษต้องมีเกือบทุกประโยค ดูบริบทว่าใครทำ",
+     "example": "กินแล้ว → I've already eaten."
+    },
+    {
+     "title_th": "เลือก tense จากคำบอกเวลา",
+     "body_th": "กริยาไทยไม่เปลี่ยนรูป ใช้คำอย่าง เมื่อวาน กำลัง เคย จะ แล้ว ช่วยเลือก tense",
+     "example": "เมื่อวานไปตลาด → I went to the market yesterday."
+    },
+    {
+     "title_th": "a/an/the และ -s",
+     "body_th": "ภาษาไทยไม่มีคำนำหน้านามและไม่เติม -s ผู้แปลต้องเติมเอง",
+     "example": "ซื้อหนังสือสามเล่ม → bought three books"
+    },
+    {
+     "title_th": "ลักษณนามไม่ต้องแปล",
+     "body_th": "ตัว เล่ม คัน อัน ไม่ต้องใส่ในภาษาอังกฤษ",
+     "example": "หมาสองตัว → two dogs"
+    },
+    {
+     "title_th": "คำลงท้ายแปลเป็นความสุภาพ",
+     "body_th": "ครับ ค่ะ นะ หน่อย ไม่แปลเป็นคำ แต่แปลเป็นน้ำเสียง เช่น please, could you"
+    }
+   ],
+   "vocab": [
+    [
+     "tense",
+     "กาล"
+    ],
+    [
+     "article",
+     "คำนำหน้านาม (a, an, the)"
+    ],
+    [
+     "plural",
+     "พหูพจน์"
+    ],
+    [
+     "singular",
+     "เอกพจน์"
+    ],
+    [
+     "particle",
+     "คำลงท้าย (ครับ ค่ะ นะ)"
+    ],
+    [
+     "time expression",
+     "คำบอกเวลา"
+    ],
+    [
+     "politeness",
+     "ความสุภาพ"
+    ],
+    [
+     "subject-verb agreement",
+     "ความสอดคล้องของประธานกับกริยา"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL351-U6-01",
+     "skill": "ENL351-U6",
+     "difficulty": 1,
+     "stem": "Translate into English: 'เมื่อวานฉันไปตลาด'",
+     "options": [
+      "Yesterday I go to market.",
+      "I will go to the market tomorrow.",
+      "I am going to the market yesterday.",
+      "I went to the market yesterday."
+     ],
+     "answer": 3,
+     "explanation_th": "เมื่อวาน บอกอดีต จึงใช้ past simple: went",
+     "why_wrong": [
+      "ใช้ present กับเมื่อวาน และขาด the",
+      "เปลี่ยนเวลาเป็นพรุ่งนี้",
+      "ใช้ present continuous กับเมื่อวาน ขัดกัน",
+      null
+     ]
+    },
+    {
+     "id": "ENL351-U6-02",
+     "skill": "ENL351-U6",
+     "difficulty": 2,
+     "stem": "Translate into English: 'หมาสองตัวกำลังนอนอยู่ใต้ต้นไม้'",
+     "options": [
+      "Two dogs are sleeping under the tree.",
+      "Two body dog is sleeping under the tree.",
+      "A dog is sleeping under two trees.",
+      "Two dogs slept on the tree."
+     ],
+     "answer": 0,
+     "explanation_th": "กำลัง...อยู่ = present continuous, ไม่แปลลักษณนาม และเติม -s ที่ dogs",
+     "why_wrong": [
+      null,
+      "แปลลักษณนาม ตัว เป็น body และไม่เติม -s",
+      "สลับจำนวน หมามีสองตัว ต้นไม้มีต้นเดียว",
+      "เปลี่ยนเป็นอดีต และ ใต้ ไม่ใช่ on"
+     ]
+    },
+    {
+     "id": "ENL351-U6-03",
+     "skill": "ENL351-U6",
+     "difficulty": 2,
+     "stem": "Translate into English: 'ฝนตกหนักมาก ฉันเลยไปไม่ได้'",
+     "options": [
+      "Rain fall heavy very, go not can.",
+      "It rained a little, so I went.",
+      "It's raining very hard, so I can't go.",
+      "Raining very hard, can't going."
+     ],
+     "answer": 2,
+     "explanation_th": "ภาษาอังกฤษต้องมีประธาน (It, I) และใช้ so เชื่อมเหตุกับผล",
+     "why_wrong": [
+      "เรียงคำตามภาษาไทย ไวยากรณ์อังกฤษผิดทั้งประโยค",
+      "เปลี่ยนความหมาย ทั้งฝนน้อยและได้ไป",
+      null,
+      "ไม่มีประธาน และ can't going ผิดไวยากรณ์"
+     ]
+    },
+    {
+     "id": "ENL351-U6-04",
+     "skill": "ENL351-U6",
+     "difficulty": 1,
+     "stem": "Translate into English: 'เขาซื้อหนังสือสามเล่ม'",
+     "options": [
+      "He bought three book.",
+      "He bought three books.",
+      "He buys three books every day.",
+      "He bought three volume books."
+     ],
+     "answer": 1,
+     "explanation_th": "ไม่แปลลักษณนาม และนามนับได้หลังเลขมากกว่าหนึ่งต้องเติม -s",
+     "why_wrong": [
+      "ลืมเติม -s หลังจำนวนมากกว่าหนึ่ง",
+      null,
+      "เพิ่ม every day ที่ต้นฉบับไม่มี",
+      "แปลลักษณนาม เล่ม ซึ่งภาษาอังกฤษไม่ต้องมี"
+     ]
+    },
+    {
+     "id": "ENL351-U6-05",
+     "skill": "ENL351-U6",
+     "difficulty": 2,
+     "stem": "Translate into English: 'ช่วยปิดประตูหน่อยนะคะ'",
+     "options": [
+      "Help close door a little na ka.",
+      "Could you please close the door?",
+      "Close the door now!",
+      "Could you please open the door?"
+     ],
+     "answer": 1,
+     "explanation_th": "หน่อยนะคะ แปลเป็นความสุภาพด้วย Could you please",
+     "why_wrong": [
+      "แปลทีละคำ รวมคำลงท้าย ไม่ใช่ภาษาอังกฤษ",
+      null,
+      "เป็นคำสั่งห้วน ๆ เสียความสุภาพของ หน่อยนะคะ",
+      "กลับความ ต้นฉบับขอให้ปิด"
+     ]
+    },
+    {
+     "id": "ENL351-U6-06",
+     "skill": "ENL351-U6",
+     "difficulty": 2,
+     "stem": "Translate into English: 'ฉันเรียนภาษาอังกฤษมาสามปีแล้ว'",
+     "options": [
+      "I studied English three years ago.",
+      "I study English for three years.",
+      "I have studied English for three years.",
+      "I will study English for three years."
+     ],
+     "answer": 2,
+     "explanation_th": "มา...แล้ว บอกว่าเริ่มในอดีตและยังต่อเนื่อง ใช้ present perfect กับ for",
+     "why_wrong": [
+      "เปลี่ยนเป็นเรียนเมื่อสามปีก่อน ต้นฉบับบอกว่าเรียนต่อเนื่องมาสามปี",
+      "present simple ไม่บอกว่าเริ่มในอดีตและยังต่อเนื่อง",
+      null,
+      "เปลี่ยนเป็นอนาคต"
+     ]
+    },
+    {
+     "id": "ENL351-U6-07",
+     "skill": "ENL351-U6",
+     "difficulty": 1,
+     "stem": "In 'หมาสามตัว', which Thai word does NOT need to be translated into English?",
+     "options": [
+      "หมา",
+      "สาม",
+      "All three words must be translated.",
+      "ตัว"
+     ],
+     "answer": 3,
+     "explanation_th": "ตัว เป็นลักษณนาม ภาษาอังกฤษไม่มีลักษณนามแบบนี้",
+     "why_wrong": [
+      "หมาต้องแปลเป็น dog",
+      "จำนวนต้องแปลเป็น three",
+      "ลักษณนาม ตัว ไม่ต้องแปล ภาษาอังกฤษใช้ three dogs",
+      null
+     ]
+    },
+    {
+     "id": "ENL351-U6-08",
+     "skill": "ENL351-U6",
+     "difficulty": 2,
+     "stem": "Translate into English: 'แม่กำลังทำกับข้าวอยู่ในครัว'",
+     "options": [
+      "My mother is cooking in the kitchen.",
+      "Mother make food stay in kitchen.",
+      "My mother cooked in the kitchen last week.",
+      "My mother is eating in the kitchen."
+     ],
+     "answer": 0,
+     "explanation_th": "กำลัง...อยู่ บอกว่ากำลังทำตอนนี้ ใช้ present continuous",
+     "why_wrong": [
+      null,
+      "แปลทีละคำ ไม่มี tense และ อยู่ ไม่ได้แปลว่า stay",
+      "เพิ่ม last week และเปลี่ยนเป็นอดีต",
+      "ทำกับข้าวคือ cook ไม่ใช่ eat"
+     ]
+    },
+    {
+     "id": "ENL351-U6-09",
+     "skill": "ENL351-U6",
+     "difficulty": 2,
+     "stem": "Translate into English: 'คุณเคยไปเชียงใหม่ไหม'",
+     "options": [
+      "Do you ever go Chiang Mai?",
+      "Have you ever been to Chiang Mai?",
+      "Did you went to Chiang Mai?",
+      "Are you going to Chiang Mai?"
+     ],
+     "answer": 1,
+     "explanation_th": "เคย ถามประสบการณ์ ใช้ Have you ever been to",
+     "why_wrong": [
+      "ขาด to และไม่ได้ถามเรื่องประสบการณ์",
+      null,
+      "did ต้องตามด้วยกริยาช่องหนึ่ง go ไม่ใช่ went",
+      "ถามแผนในอนาคต ไม่ใช่ประสบการณ์"
+     ]
+    }
+   ],
+   "say": [
+    "English sentences need a subject.",
+    "I add the -s for plural nouns.",
+    "Could you please close the door?"
+   ],
+   "task_th": "เขียนประโยคภาษาไทยเกี่ยวกับวันนี้ของตัวเอง 5 ประโยค (มีคำบอกเวลา เช่น เมื่อเช้า กำลัง จะ) แปลเป็นอังกฤษ แล้วเช็กทีละข้อว่ามีประธาน tense ถูก และเติม -s ครบ"
+  },
+  {
+   "id": "ENL351-U7",
+   "title_th": "เครื่องมือและจรรยาบรรณของนักแปล",
+   "title_en": "Translator tools and ethics",
+   "covers": "หลักการแปลเบื้องต้น",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "พจนานุกรมสองแบบ",
+     "body_th": "พจนานุกรมสองภาษา (bilingual) ให้คำไทยเร็ว พจนานุกรมภาษาเดียว (monolingual, อังกฤษอังกฤษ) ให้คำนิยามและประโยคตัวอย่าง ช่วยเช็กว่าความหมายใช้ในบริบทไหน"
+    },
+    {
+     "title_th": "เครื่องแปลอัตโนมัติ",
+     "body_th": "machine translation เร็ว แต่ผิดได้ โดยเฉพาะคำปฏิเสธ ตัวเลข ชื่อ และสำนวน ต้องตรวจแก้ทุกครั้ง (post-editing)"
+    },
+    {
+     "title_th": "คลังคำแปลและอภิธานศัพท์",
+     "body_th": "translation memory เก็บประโยคต้นฉบับคู่กับคำแปลเก่าให้ใช้ซ้ำ glossary คือรายการคำสำคัญพร้อมคำแปลที่ตกลงกันไว้ ช่วยให้แปลคำเดิมเหมือนเดิมทั้งงาน"
+    },
+    {
+     "title_th": "จรรยาบรรณ",
+     "body_th": "แปลให้ถูกต้องครบถ้วน ไม่เพิ่มไม่ตัด เก็บความลับของลูกค้า รับเฉพาะงานที่ทำได้ดีและทันเวลา ถ้าไม่แน่ใจให้ถาม"
+    },
+    {
+     "title_th": "ความลับกับเครื่องมือออนไลน์",
+     "body_th": "เอกสารลับไม่ควรใส่ในเว็บแปลหรือโพสต์ถามคนอื่น ถ้าลูกค้ายังไม่อนุญาต"
+    }
+   ],
+   "vocab": [
+    [
+     "bilingual dictionary",
+     "พจนานุกรมสองภาษา"
+    ],
+    [
+     "monolingual dictionary",
+     "พจนานุกรมภาษาเดียว"
+    ],
+    [
+     "machine translation",
+     "การแปลด้วยเครื่อง"
+    ],
+    [
+     "post-editing",
+     "การตรวจแก้งานแปลจากเครื่อง"
+    ],
+    [
+     "translation memory",
+     "คลังคำแปล"
+    ],
+    [
+     "glossary",
+     "อภิธานศัพท์"
+    ],
+    [
+     "confidentiality",
+     "การรักษาความลับ"
+    ],
+    [
+     "ethics",
+     "จรรยาบรรณ"
+    ],
+    [
+     "client",
+     "ลูกค้า ผู้ว่าจ้าง"
+    ],
+    [
+     "deadline",
+     "กำหนดส่ง"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL351-U7-01",
+     "skill": "ENL351-U7",
+     "difficulty": 2,
+     "stem": "What is the main advantage of a monolingual (English-English) dictionary for a translator?",
+     "options": [
+      "It gives the Thai word immediately.",
+      "It translates whole paragraphs automatically.",
+      "It gives definitions and example sentences, so you can see how a word is really used.",
+      "Each word in it has only one meaning."
+     ],
+     "answer": 2,
+     "explanation_th": "พจนานุกรมภาษาเดียวช่วยเข้าใจความหมายและการใช้คำในบริบทจริง",
+     "why_wrong": [
+      "นั่นคือจุดเด่นของพจนานุกรมสองภาษา",
+      "นั่นคือเครื่องแปลอัตโนมัติ ไม่ใช่พจนานุกรม",
+      null,
+      "ไม่จริง พจนานุกรมให้หลายความหมายต่อคำ"
+     ]
+    },
+    {
+     "id": "ENL351-U7-02",
+     "skill": "ENL351-U7",
+     "difficulty": 1,
+     "stem": "What should you ALWAYS do with machine translation output?",
+     "options": [
+      "Use it directly because machines do not make mistakes.",
+      "Check only the spelling.",
+      "Delete all the names and numbers.",
+      "Check it against the source and edit it before you use it."
+     ],
+     "answer": 3,
+     "explanation_th": "ผลจากเครื่องต้องตรวจแก้ (post-edit) เทียบกับต้นฉบับทุกครั้ง",
+     "why_wrong": [
+      "เครื่องแปลผิดได้ โดยเฉพาะคำปฏิเสธ ตัวเลข และสำนวน",
+      "สะกดถูกแต่ความหมายผิดได้",
+      "ชื่อและตัวเลขเป็นข้อมูลสำคัญ ห้ามตัด",
+      null
+     ]
+    },
+    {
+     "id": "ENL351-U7-03",
+     "skill": "ENL351-U7",
+     "difficulty": 2,
+     "stem": "A client sends a private medical report to translate. Which action BREAKS translation ethics?",
+     "options": [
+      "Posting parts of the report on social media to ask friends for help",
+      "Asking the client about an unclear word",
+      "Keeping the file safe and deleting it after the job, as agreed",
+      "Telling the client before accepting that the deadline is too short"
+     ],
+     "answer": 0,
+     "explanation_th": "รายงานทางการแพทย์เป็นข้อมูลลับ การโพสต์ต่อสาธารณะผิดจรรยาบรรณ",
+     "why_wrong": [
+      null,
+      "การถามผู้ว่าจ้างเป็นสิ่งที่ควรทำ ไม่ผิดจรรยาบรรณ",
+      "เป็นการรักษาความลับที่ถูกต้อง",
+      "ความซื่อตรงเรื่องเวลาเป็นจรรยาบรรณที่ดี"
+     ]
+    },
+    {
+     "id": "ENL351-U7-04",
+     "skill": "ENL351-U7",
+     "difficulty": 2,
+     "stem": "What does a translation memory (TM) do?",
+     "options": [
+      "It stores source sentences with their past translations so you can reuse them.",
+      "It remembers the client's payment details.",
+      "It translates speech in real time.",
+      "It checks Thai spelling only."
+     ],
+     "answer": 0,
+     "explanation_th": "translation memory คือคลังประโยคที่เคยแปลไว้ ให้ใช้ซ้ำและสม่ำเสมอ",
+     "why_wrong": [
+      null,
+      "TM เก็บคู่ประโยคต้นฉบับกับคำแปล ไม่ได้เก็บข้อมูลการเงิน",
+      "นั่นคือการแปลเสียงพูด ไม่ใช่ TM",
+      "นั่นคือโปรแกรมตรวจคำ ไม่ใช่ TM"
+     ]
+    },
+    {
+     "id": "ENL351-U7-05",
+     "skill": "ENL351-U7",
+     "difficulty": 2,
+     "stem": "Why do translators keep a glossary for a long project?",
+     "options": [
+      "To make the translation longer",
+      "So they do not need to read the source text",
+      "To change key terms often so the text is not boring",
+      "To translate each key term the same way every time"
+     ],
+     "answer": 3,
+     "explanation_th": "glossary ทำให้คำสำคัญแปลเหมือนกันตลอดงาน",
+     "why_wrong": [
+      "ความยาวไม่ใช่เป้าหมาย glossary ช่วยเรื่องความสม่ำเสมอ",
+      "ยังต้องอ่านต้นฉบับทุกครั้ง glossary แค่ช่วยเรื่องคำศัพท์",
+      "การเปลี่ยนคำสำคัญไปมาทำให้ผู้อ่านสับสน",
+      null
+     ]
+    },
+    {
+     "id": "ENL351-U7-06",
+     "skill": "ENL351-U7",
+     "difficulty": 2,
+     "stem": "You are not sure whether 'make a decision' or 'do a decision' is correct English. What is the best check?",
+     "options": [
+      "Choose the one that matches the Thai words ทำการตัดสินใจ.",
+      "Look it up in a good English dictionary, or compare how often each phrase appears in real English texts.",
+      "Pick the shorter phrase.",
+      "Translate both phrases into Thai with a machine and compare the Thai."
+     ],
+     "answer": 1,
+     "explanation_th": "ตรวจคำคู่ด้วยพจนานุกรมหรือดูการใช้จริง คำตอบคือ make a decision",
+     "why_wrong": [
+      "การเทียบกับคำไทยไม่บอกว่าภาษาอังกฤษใช้คำไหนจริง",
+      null,
+      "ความสั้นไม่ใช่เกณฑ์ความถูกต้อง",
+      "ภาษาไทยที่ได้อาจเหมือนกัน ไม่ช่วยบอกว่าภาษาอังกฤษแบบไหนถูก"
+     ]
+    },
+    {
+     "id": "ENL351-U7-07",
+     "skill": "ENL351-U7",
+     "difficulty": 3,
+     "stem": "You are offered a legal contract to translate. You have never studied legal language, and the deadline is tomorrow. What is the most ethical choice?",
+     "options": [
+      "Accept, use machine translation, and tell nobody.",
+      "Accept and leave out the difficult parts.",
+      "Tell the client honestly, and decline or suggest someone more suitable.",
+      "Accept and replace hard sentences with simpler ideas of your own."
+     ],
+     "answer": 2,
+     "explanation_th": "นักแปลควรรับเฉพาะงานที่ทำได้ดีและบอกข้อจำกัดอย่างตรงไปตรงมา",
+     "why_wrong": [
+      "ไม่ซื่อตรงกับลูกค้า และงานกฎหมายผิดพลาดได้ร้ายแรง",
+      "การตัดส่วนที่ยากทำให้สัญญาไม่ครบ ผิดจรรยาบรรณ",
+      null,
+      "เปลี่ยนเนื้อหาสัญญาเอง ผิดทั้งความถูกต้องและจรรยาบรรณ"
+     ]
+    },
+    {
+     "id": "ENL351-U7-08",
+     "skill": "ENL351-U7",
+     "difficulty": 2,
+     "stem": "A machine translates 'I don't think it will rain.' as 'ฉันคิดว่าฝนจะตก'. What is the error?",
+     "options": [
+      "The tense is wrong.",
+      "The negative meaning was lost.",
+      "'ฝน' is the wrong word for rain.",
+      "The Thai is too formal."
+     ],
+     "answer": 1,
+     "explanation_th": "ต้นฉบับแปลว่า ฉันคิดว่าฝนคงไม่ตก เครื่องทำคำปฏิเสธหาย ความหมายกลับ",
+     "why_wrong": [
+      "จะ แสดงอนาคตได้ถูกต้องแล้ว",
+      null,
+      "ฝน แปลว่า rain ถูกต้อง",
+      "ประโยคนี้ไม่ได้ทางการเกิน ปัญหาคือความหมายกลับ"
+     ]
+    }
+   ],
+   "say": [
+    "I always check machine translation.",
+    "A glossary keeps my key terms the same.",
+    "A translator keeps client documents private."
+   ],
+   "task_th": "เลือกย่อหน้าภาษาอังกฤษสั้น ๆ 1 ย่อหน้า (ประมาณ 50 คำ) ใส่เครื่องแปลอัตโนมัติ แล้วตรวจแก้ผลแปล จดจุดที่แก้ไว้อย่างน้อย 3 จุด และบอกว่าแต่ละจุดผิดเพราะอะไร (คำปฏิเสธ ตัวเลข สำนวน หรือความลื่น)"
+  }
+ ]
+}

@@ -1,0 +1,1795 @@
+{
+  "code": "ENL432",
+  "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+  "in_class_th": [
+    "น่าจะได้รู้จักแนวคิดหลักทีละเรื่อง เช่น ภาษาถิ่น ระดับภาษา เพศ อายุ ชนชั้น และความสุภาพ พร้อมงานวิจัยคลาสสิกของแต่ละเรื่อง",
+    "อาจได้เก็บข้อมูลภาษาจริงเล็ก ๆ เช่น บทสนทนาหรือโพสต์ในโซเชียลมีเดีย แล้ววิเคราะห์ว่าปัจจัยทางสังคมอะไรมีผลต่อการเลือกใช้ภาษา",
+    "คาดว่าจะมีการเทียบภาษาไทยกับภาษาอังกฤษ เช่น คำลงท้าย คำเรียกขาน ระดับภาษา และการพูดไทยสลับอังกฤษ",
+    "น่าจะได้ฟังภาษาอังกฤษหลายสำเนียงและคุยเรื่อง World Englishes ว่าภาษาอังกฤษไม่ได้มีแบบเดียว",
+    "วิชานี้อยู่ภาคฤดูร้อนเดียวกับ ENL481 Intercultural Communication เรื่องความสุภาพและทัศนคติต่อภาษาน่าจะเชื่อมกับวิชานั้น"
+  ],
+  "units": [
+    {
+      "id": "ENL432-U1",
+      "title_th": "ภาษากับสังคม",
+      "title_en": "Language and Society",
+      "covers": "ความสัมพันธ์ระหว่างภาษาและสังคม",
+      "minutes": 13,
+      "cards": [
+        {
+          "title_th": "ภาษาศาสตร์สังคมคืออะไร",
+          "body_th": "ศึกษาว่าภาษาและสังคมส่งผลต่อกันอย่างไร ใครพูดอะไร กับใคร ที่ไหน และทำไม ต่อยอดจากหน่วยความแปรของภาษา (variation) ใน ENL231"
+        },
+        {
+          "title_th": "ชุมชนภาษา (speech community)",
+          "body_th": "กลุ่มคนที่ใช้ภาษาร่วมกันและเข้าใจกติกาการใช้ภาษาเดียวกัน เช่น นักศึกษาสาขาเดียวกันที่มีศัพท์และมุกเฉพาะกลุ่ม"
+        },
+        {
+          "title_th": "ภาษาบอกตัวตน",
+          "body_th": "สำเนียง คำ และสำนวนบอกว่าเรามาจากไหนและอยู่กลุ่มไหน ทฤษฎีการปรับตัวในการสื่อสาร (Communication Accommodation Theory) ของ Giles อธิบายว่าคนปรับวิธีพูดให้ใกล้ผู้ฟัง (convergence) หรือให้ห่าง (divergence)",
+          "example": "คุยกับเพื่อนจากจังหวัดเดียวกัน อาจใช้คำถิ่นมากขึ้น"
+        },
+        {
+          "title_th": "บรรยาย ไม่ตัดสิน",
+          "body_th": "นักภาษาศาสตร์สังคมมองแบบบรรยาย (descriptive) คือบันทึกว่าคนใช้ภาษาจริงอย่างไร ไม่ใช่แบบกำหนด (prescriptive) ที่บอกว่าควรพูดอย่างไร ภาษามาตรฐานมีบทบาทในโรงเรียนและงานราชการ แต่ไม่ได้ดีกว่าในทางภาษาศาสตร์"
+        },
+        {
+          "title_th": "ภาวะภาษาสองระดับ (diglossia)",
+          "body_th": "ชุมชนใช้ภาษาเดียวกันสองแบบในหน้าที่ต่างกัน แบบสูง (High) ในงานทางการ แบบต่ำ (Low) ในชีวิตประจำวัน Ferguson เสนอแนวคิดนี้ในปี 1959 ตัวอย่างที่รู้จักกันดีคือภาษาอาหรับมาตรฐานกับภาษาอาหรับท้องถิ่น"
+        }
+      ],
+      "vocab": [
+        [
+          "sociolinguistics",
+          "ภาษาศาสตร์สังคม"
+        ],
+        [
+          "speech community",
+          "ชุมชนภาษา"
+        ],
+        [
+          "variety",
+          "วิธภาษา"
+        ],
+        [
+          "identity",
+          "อัตลักษณ์"
+        ],
+        [
+          "standard variety",
+          "ภาษามาตรฐาน"
+        ],
+        [
+          "descriptive",
+          "เชิงบรรยาย"
+        ],
+        [
+          "prescriptive",
+          "เชิงกำหนด"
+        ],
+        [
+          "diglossia",
+          "ภาวะภาษาสองระดับ"
+        ],
+        [
+          "accommodation",
+          "การปรับภาษาเข้าหาผู้ฟัง"
+        ]
+      ],
+      "say": [
+        "Sociolinguistics looks at language and society together.",
+        "I speak differently with my family and my teachers.",
+        "No dialect is linguistically better than another."
+      ],
+      "task_th": "นึกย้อนเมื่อวาน แล้วเขียน 3 สถานการณ์ที่คุณพูดไม่เหมือนกัน เช่น กับพ่อแม่ เพื่อน อาจารย์ จดคำ คำลงท้าย หรือคำเรียกตัวเองที่เปลี่ยนไป แล้วเขียนเหตุผล 1 บรรทัดว่าทำไมเปลี่ยน",
+      "questions": [
+        {
+          "id": "ENL432-U1-01",
+          "skill": "ENL432-U1",
+          "difficulty": 1,
+          "stem": "Sociolinguistics studies ____.",
+          "options": [
+            "how language and society affect each other",
+            "only the sounds of a language",
+            "only the history of English words and where they came from",
+            "how the brain stores grammar"
+          ],
+          "answer": 0,
+          "explanation_th": "เป็นนิยามของภาษาศาสตร์สังคม",
+          "why_wrong": [
+            null,
+            "นั่นคือสัทศาสตร์และสัทวิทยา",
+            "นั่นคือประวัติคำ (etymology)",
+            "ใกล้กับจิตภาษาศาสตร์ (psycholinguistics)"
+          ]
+        },
+        {
+          "id": "ENL432-U1-02",
+          "skill": "ENL432-U1",
+          "difficulty": 1,
+          "stem": "A speech community is ____.",
+          "options": [
+            "a room where students meet to practise speaking a foreign language together",
+            "a radio station",
+            "a group of people who share a language and rules for using it",
+            "a dictionary of slang"
+          ],
+          "answer": 2,
+          "explanation_th": "ใช้ภาษาร่วมกันและเข้าใจกติกาเดียวกัน",
+          "why_wrong": [
+            "เป็นความหมายตามตัวอักษร ไม่ใช่ศัพท์เฉพาะ",
+            "ไม่เกี่ยวกับนิยามนี้",
+            null,
+            "พจนานุกรมไม่ใช่กลุ่มคน"
+          ]
+        },
+        {
+          "id": "ENL432-U1-03",
+          "skill": "ENL432-U1",
+          "difficulty": 2,
+          "stem": "A sociolinguist hears a new slang word on campus. What is she most likely to do?",
+          "options": [
+            "tell students that the word is wrong",
+            "ignore it because slang is not real language",
+            "ask the government to ban it",
+            "describe who uses it, when and why"
+          ],
+          "answer": 3,
+          "explanation_th": "มองแบบบรรยาย ศึกษาการใช้จริง",
+          "why_wrong": [
+            "เป็นมุมมองแบบกำหนด ไม่ใช่งานของนักภาษาศาสตร์สังคม",
+            "สแลงเป็นส่วนหนึ่งของภาษาจริงและน่าศึกษา",
+            "การห้ามใช้คำไม่ใช่งานวิจัย",
+            null
+          ]
+        },
+        {
+          "id": "ENL432-U1-04",
+          "skill": "ENL432-U1",
+          "difficulty": 2,
+          "stem": "Which statement fits a sociolinguist's view of a standard variety?",
+          "options": [
+            "It is the only correct way to speak, and other dialects are just full of grammar mistakes.",
+            "It is used in official settings but is not linguistically better than other varieties.",
+            "Other dialects have no grammar rules.",
+            "It never changes over time."
+          ],
+          "answer": 1,
+          "explanation_th": "บทบาททางสังคมสูง แต่ไม่ได้ดีกว่าทางภาษาศาสตร์",
+          "why_wrong": [
+            "เป็นมุมมองแบบกำหนด ภาษาถิ่นอื่นก็มีกฎของตัวเอง",
+            null,
+            "ทุกภาษาถิ่นมีกฎของตัวเอง",
+            "ภาษามาตรฐานก็เปลี่ยนได้"
+          ]
+        },
+        {
+          "id": "ENL432-U1-05",
+          "skill": "ENL432-U1",
+          "difficulty": 2,
+          "stem": "In diglossia, a community ____.",
+          "options": [
+            "speaks no language at home",
+            "uses one formal variety for every situation",
+            "mixes words from two different languages inside one sentence or conversation",
+            "uses two varieties of one language for different functions"
+          ],
+          "answer": 3,
+          "explanation_th": "แบบสูงใช้งานทางการ แบบต่ำใช้ในชีวิตประจำวัน",
+          "why_wrong": [
+            "ไม่เกี่ยวกับนิยาม",
+            "diglossia ต้องมีสองแบบ",
+            "นั่นคือการสลับภาษา (code-switching)",
+            null
+          ]
+        },
+        {
+          "id": "ENL432-U1-06",
+          "skill": "ENL432-U1",
+          "difficulty": 2,
+          "stem": "Which example shows language marking identity?",
+          "options": [
+            "A student reads a dictionary entry aloud.",
+            "A student uses her hometown dialect with friends from the same province.",
+            "A student copies a grammar rule from the textbook into her notebook before class.",
+            "A student counts the syllables in a word."
+          ],
+          "answer": 1,
+          "explanation_th": "ใช้ภาษาถิ่นแสดงความเป็นคนบ้านเดียวกัน",
+          "why_wrong": [
+            "เป็นการอ่าน ไม่ได้แสดงตัวตน",
+            null,
+            "เป็นการจด ไม่ได้แสดงตัวตน",
+            "เป็นการวิเคราะห์เสียง ไม่ได้แสดงตัวตน"
+          ]
+        },
+        {
+          "id": "ENL432-U1-07",
+          "skill": "ENL432-U1",
+          "difficulty": 3,
+          "stem": "How do 'prescriptive' and 'descriptive' differ?",
+          "options": [
+            "Prescriptive tells people how they should speak; descriptive records how people actually speak.",
+            "Prescriptive always records how people actually speak; descriptive tells people how they should speak.",
+            "They mean the same thing.",
+            "Descriptive is only used for written language."
+          ],
+          "answer": 0,
+          "explanation_th": "กำหนดกับบรรยายต่างกันตรงนี้",
+          "why_wrong": [
+            null,
+            "สลับความหมายกัน",
+            "สองคำนี้ตรงข้ามกัน",
+            "บรรยายได้ทั้งภาษาพูดและภาษาเขียน"
+          ]
+        },
+        {
+          "id": "ENL432-U1-08",
+          "skill": "ENL432-U1",
+          "difficulty": 2,
+          "stem": "Which is a prescriptive statement?",
+          "options": [
+            "Many speakers end sentences with prepositions in casual speech.",
+            "Younger speakers in the survey used 'gonna' more often.",
+            "You must never end a sentence with a preposition.",
+            "Some speakers pronounce the 't' in 'often'."
+          ],
+          "answer": 2,
+          "explanation_th": "บอกว่าควรหรือห้ามพูดอย่างไร",
+          "why_wrong": [
+            "บรรยายการใช้จริง",
+            "รายงานผลการสำรวจ",
+            null,
+            "บรรยายการออกเสียงที่พบจริง"
+          ]
+        },
+        {
+          "id": "ENL432-U1-09",
+          "skill": "ENL432-U1",
+          "difficulty": 2,
+          "stem": "A student speaks more like her listener to make the listener feel close. In accommodation theory, this is called ____.",
+          "options": [
+            "divergence",
+            "diglossia",
+            "prescription",
+            "convergence"
+          ],
+          "answer": 3,
+          "explanation_th": "ปรับวิธีพูดเข้าหาผู้ฟัง",
+          "why_wrong": [
+            "divergence คือปรับให้ต่างจากผู้ฟัง",
+            "diglossia คือภาษาสองระดับในชุมชน",
+            "การกำหนดกฎภาษา ไม่ใช่การปรับเข้าหาผู้ฟัง",
+            null
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ENL432-U2",
+      "title_th": "ภาษาถิ่น ภาษามาตรฐาน และทัศนคติต่อภาษา",
+      "title_en": "Dialects, Standard Varieties and Language Attitudes",
+      "covers": "ปัจจัยทางสังคมที่มีอิทธิพลต่อการใช้ภาษา",
+      "minutes": 14,
+      "cards": [
+        {
+          "title_th": "ภาษาถิ่นตามพื้นที่",
+          "body_th": "ภาษาอังกฤษในสกอตแลนด์ เท็กซัส และออสเตรเลียต่างกันทั้งเสียง คำ และบางครั้งไวยากรณ์ ภาษาไทยในแต่ละภาคก็ต่างกัน ENL231 สอนแล้วว่าสำเนียงต่างแค่เสียง ภาษาถิ่นต่างได้มากกว่านั้น"
+        },
+        {
+          "title_th": "ภาษาถิ่นทางสังคม (social dialect)",
+          "body_th": "ต่างตามกลุ่มสังคม เช่น ชนชั้น อาชีพ ชาติพันธุ์ ตัวอย่างที่มีงานศึกษามากคือ African American English ซึ่งมีกฎไวยากรณ์เป็นระบบของตัวเอง"
+        },
+        {
+          "title_th": "ทัศนคติต่อภาษา (language attitudes)",
+          "body_th": "ความรู้สึกที่คนมีต่อสำเนียงหรือภาษา เช่น ฟังดูฉลาด เป็นมิตร หรือทันสมัย ทัศนคติเหล่านี้มาจากมุมมองต่อกลุ่มผู้พูด ไม่ได้มาจากตัวเสียง และอาจนำไปสู่การเลือกปฏิบัติ เช่น ตอนสมัครงาน"
+        },
+        {
+          "title_th": "วิธีวัดแบบ matched-guise",
+          "body_th": "ให้คนคนเดียวอ่านข้อความเดียวกันด้วยสำเนียงหรือภาษาต่างกัน ผู้ฟังไม่รู้ว่าเป็นคนเดียวกัน แล้วให้คะแนนบุคลิกผู้พูด คะแนนที่ต่างกันจึงสะท้อนทัศนคติต่อสำเนียง Lambert และคณะใช้วิธีนี้ศึกษาภาษาอังกฤษกับฝรั่งเศสในแคนาดาเมื่อราวปี 1960"
+        },
+        {
+          "title_th": "ศักดิ์ศรีทางภาษา (prestige)",
+          "body_th": "overt prestige คือความน่ายกย่องที่สังคมยอมรับเปิดเผย เช่น ภาษามาตรฐานในที่ทำงาน covert prestige คือคุณค่าแฝงของภาษาถิ่นหรือภาษากลุ่ม เพราะแสดงความเป็นพวกเดียวกัน"
+        }
+      ],
+      "vocab": [
+        [
+          "regional dialect",
+          "ภาษาถิ่นตามพื้นที่"
+        ],
+        [
+          "social dialect",
+          "ภาษาถิ่นทางสังคม"
+        ],
+        [
+          "accent",
+          "สำเนียง"
+        ],
+        [
+          "language attitude",
+          "ทัศนคติต่อภาษา"
+        ],
+        [
+          "stereotype",
+          "ภาพเหมารวม"
+        ],
+        [
+          "overt prestige",
+          "ศักดิ์ศรีทางภาษาแบบเปิดเผย"
+        ],
+        [
+          "covert prestige",
+          "ศักดิ์ศรีทางภาษาแบบแฝง"
+        ],
+        [
+          "matched-guise technique",
+          "วิธีให้คนเดียวพูดหลายสำเนียงเพื่อวัดทัศนคติ"
+        ],
+        [
+          "discrimination",
+          "การเลือกปฏิบัติ"
+        ]
+      ],
+      "say": [
+        "Every dialect has its own rules.",
+        "People judge accents because of social attitudes.",
+        "I use different words with friends from my hometown."
+      ],
+      "task_th": "ฟังคลิปภาษาอังกฤษ 2 สำเนียง (เช่น สก็อต กับ อินเดีย) คลิปละ 1 นาที จดคำคุณศัพท์ 3 คำที่คุณรู้สึกต่อผู้พูดแต่ละคน แล้วเขียน 2 บรรทัดว่าความรู้สึกนั้นมาจากเสียงจริง หรือจากภาพที่คุณมีต่อกลุ่มคน",
+      "questions": [
+        {
+          "id": "ENL432-U2-01",
+          "skill": "ENL432-U2",
+          "difficulty": 1,
+          "stem": "English in Scotland and English in Texas differ in words, grammar and pronunciation. These are ____.",
+          "options": [
+            "regional dialects",
+            "accents only",
+            "registers",
+            "pidgins"
+          ],
+          "answer": 0,
+          "explanation_th": "ต่างตามพื้นที่ ทั้งคำ ไวยากรณ์ และเสียง",
+          "why_wrong": [
+            null,
+            "สำเนียงต่างแค่เสียง แต่ตัวอย่างนี้ต่างทั้งคำและไวยากรณ์",
+            "register ต่างตามสถานการณ์ ไม่ใช่พื้นที่",
+            "pidgin เกิดจากคนต่างภาษาที่ต้องติดต่อกัน ไม่ใช่ภาษาถิ่นตามพื้นที่"
+          ]
+        },
+        {
+          "id": "ENL432-U2-02",
+          "skill": "ENL432-U2",
+          "difficulty": 2,
+          "stem": "A social dialect is linked mainly to ____.",
+          "options": [
+            "a geographic region only",
+            "a social group, such as a class or an ethnic group",
+            "the time of day",
+            "the topic of the conversation"
+          ],
+          "answer": 1,
+          "explanation_th": "ต่างตามกลุ่มทางสังคม",
+          "why_wrong": [
+            "นั่นคือภาษาถิ่นตามพื้นที่",
+            null,
+            "เวลาไม่ใช่ปัจจัยกำหนดภาษาถิ่น",
+            "หัวข้อเกี่ยวกับ register มากกว่า"
+          ]
+        },
+        {
+          "id": "ENL432-U2-03",
+          "skill": "ENL432-U2",
+          "difficulty": 1,
+          "stem": "Language attitudes are ____.",
+          "options": [
+            "the rules in a grammar book",
+            "the sounds of a language",
+            "people's feelings and beliefs about languages and accents",
+            "the number of speakers of a language"
+          ],
+          "answer": 2,
+          "explanation_th": "เป็นนิยามของทัศนคติต่อภาษา",
+          "why_wrong": [
+            "เป็นกฎไวยากรณ์ ไม่ใช่ความรู้สึก",
+            "เป็นระบบเสียง ไม่ใช่ความเชื่อ",
+            null,
+            "เป็นข้อมูลประชากร ไม่ใช่ทัศนคติ"
+          ]
+        },
+        {
+          "id": "ENL432-U2-04",
+          "skill": "ENL432-U2",
+          "difficulty": 3,
+          "stem": "In a matched-guise test, one speaker reads the same text in two accents. Why use the same speaker?",
+          "options": [
+            "so rating differences come from the accent, not the person's voice",
+            "to save money on recording",
+            "because listeners already know that speaker and trust his or her voice",
+            "to test the speaker's memory"
+          ],
+          "answer": 0,
+          "explanation_th": "ควบคุมตัวแปรอื่นให้เหลือแค่สำเนียง",
+          "why_wrong": [
+            null,
+            "ไม่ใช่เหตุผลทางวิธีวิจัย",
+            "ผู้ฟังต้องไม่รู้ว่าเป็นคนเดียวกัน",
+            "งานนี้วัดทัศนคติของผู้ฟัง ไม่ใช่ความจำผู้พูด"
+          ]
+        },
+        {
+          "id": "ENL432-U2-05",
+          "skill": "ENL432-U2",
+          "difficulty": 2,
+          "stem": "A teenager uses his local dialect with friends because it shows that he belongs to the group. This is an example of ____.",
+          "options": [
+            "overt prestige",
+            "diglossia",
+            "hedging",
+            "covert prestige"
+          ],
+          "answer": 3,
+          "explanation_th": "คุณค่าแฝงของภาษาถิ่นในการแสดงความเป็นพวกเดียวกัน",
+          "why_wrong": [
+            "overt prestige ผูกกับภาษามาตรฐานที่สังคมยกย่องเปิดเผย",
+            "diglossia คือภาษาสองระดับในชุมชน",
+            "hedging คือการพูดอย่างระมัดระวัง",
+            null
+          ]
+        },
+        {
+          "id": "ENL432-U2-06",
+          "skill": "ENL432-U2",
+          "difficulty": 2,
+          "stem": "Which statement is linguistically accurate?",
+          "options": [
+            "Non-standard dialects have no grammar.",
+            "Only the standard variety can express complex ideas.",
+            "Every dialect has its own system of rules.",
+            "Dialects are mistakes made by lazy speakers."
+          ],
+          "answer": 2,
+          "explanation_th": "ภาษาถิ่นทุกแบบมีระบบกฎของตัวเอง",
+          "why_wrong": [
+            "ภาษาถิ่นที่ไม่ใช่มาตรฐานก็มีไวยากรณ์",
+            "ทุกวิธภาษาสื่อความคิดซับซ้อนได้",
+            null,
+            "เป็นภาพเหมารวม ไม่ใช่ข้อเท็จจริงทางภาษาศาสตร์"
+          ]
+        },
+        {
+          "id": "ENL432-U2-07",
+          "skill": "ENL432-U2",
+          "difficulty": 2,
+          "stem": "An employer rejects a candidate only because of her regional accent, although she communicates clearly. This shows ____.",
+          "options": [
+            "good hedging",
+            "language-based discrimination",
+            "code-switching",
+            "a research gap"
+          ],
+          "answer": 1,
+          "explanation_th": "ตัดสินคนจากสำเนียงแทนความสามารถ",
+          "why_wrong": [
+            "ไม่เกี่ยวกับการพูดอย่างระมัดระวัง",
+            null,
+            "ไม่มีการสลับภาษา",
+            "เป็นศัพท์การเขียนวิจัย"
+          ]
+        },
+        {
+          "id": "ENL432-U2-08",
+          "skill": "ENL432-U2",
+          "difficulty": 2,
+          "stem": "Why do people often judge one accent as 'nicer' than another?",
+          "options": [
+            "because some accents have no vowels",
+            "because the nicer accent has more grammar rules",
+            "because science has proved that some accents are better and clearer than others",
+            "because of social attitudes to the speakers, not the sounds themselves"
+          ],
+          "answer": 3,
+          "explanation_th": "ความรู้สึกมาจากมุมมองต่อกลุ่มคน",
+          "why_wrong": [
+            "ทุกสำเนียงมีสระ",
+            "สำเนียงเป็นเรื่องเสียง ไม่ใช่จำนวนกฎ",
+            "ไม่มีหลักฐานแบบนั้น",
+            null
+          ]
+        },
+        {
+          "id": "ENL432-U2-09",
+          "skill": "ENL432-U2",
+          "difficulty": 1,
+          "stem": "Using the standard variety at a job interview to sound professional is an example of seeking ____.",
+          "options": [
+            "covert prestige",
+            "overt prestige",
+            "divergence",
+            "diglossia"
+          ],
+          "answer": 1,
+          "explanation_th": "ใช้ภาษาที่สังคมยกย่องอย่างเปิดเผย",
+          "why_wrong": [
+            "covert prestige คือคุณค่าแฝงของภาษากลุ่ม",
+            null,
+            "divergence คือการพูดให้ต่างจากผู้ฟัง",
+            "diglossia เป็นลักษณะของชุมชน ไม่ใช่การเลือกของคนคนเดียว"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ENL432-U3",
+      "title_th": "ชนชั้น เพศ และอายุ กับการใช้ภาษา",
+      "title_en": "Social Class, Gender and Age",
+      "covers": "ปัจจัยทางสังคมที่มีอิทธิพลต่อการใช้ภาษา",
+      "minutes": 14,
+      "cards": [
+        {
+          "title_th": "ชนชั้นทางสังคม",
+          "body_th": "ในทศวรรษ 1960 Labov ถามพนักงานในห้างสามแห่งในนิวยอร์กจนได้คำตอบ fourth floor พบว่าพนักงานห้างที่ลูกค้าฐานะสูงกว่าออกเสียง /r/ หลังสระมากกว่า แสดงว่าการออกเสียงสัมพันธ์กับชนชั้นทางสังคม"
+        },
+        {
+          "title_th": "เพศสภาพ",
+          "body_th": "ภาษาไทยมีคำลงท้ายตามเพศ เช่น ครับ ค่ะ งานวิจัยหลายชิ้นพบว่าในชนชั้นเดียวกัน ผู้หญิงมักใช้รูปแบบมาตรฐานมากกว่าผู้ชาย แต่นี่คือแนวโน้มของกลุ่ม ไม่ใช่กฎของทุกคน และคนใช้ภาษาแสดงตัวตนทางเพศได้หลากหลาย"
+        },
+        {
+          "title_th": "อายุ",
+          "body_th": "คนรุ่นใหม่มักสร้างสแลงใหม่ บางคนเลิกใช้เมื่อโตขึ้น เรียกว่า age grading การเทียบคนต่างวัยในช่วงเวลาเดียวกันเพื่อดูว่าภาษากำลังเปลี่ยนเรียกว่า apparent time"
+        },
+        {
+          "title_th": "ปัจจัยอื่น",
+          "body_th": "ชาติพันธุ์ การศึกษา อาชีพ และเครือข่ายสังคม (social network) คนในเครือข่ายที่แน่น รู้จักกันหลายทาง มักรักษาลักษณะภาษาท้องถิ่นไว้ได้ดี"
+        },
+        {
+          "title_th": "ระวังภาพเหมารวม",
+          "body_th": "ข้อค้นพบเป็นแนวโน้มทางสถิติของกลุ่ม ใช้ทำนายคนคนเดียวไม่ได้ เวลาเขียนวิเคราะห์ให้ใช้ in this study หรือ tend to ไม่ใช่ all women หรือ all old people"
+        }
+      ],
+      "vocab": [
+        [
+          "social class",
+          "ชนชั้นทางสังคม"
+        ],
+        [
+          "social variable",
+          "ตัวแปรทางสังคม"
+        ],
+        [
+          "gender",
+          "เพศสภาพ"
+        ],
+        [
+          "sentence-final particle",
+          "คำลงท้าย"
+        ],
+        [
+          "slang",
+          "คำสแลง"
+        ],
+        [
+          "age grading",
+          "การใช้ภาษาที่เปลี่ยนตามช่วงวัย"
+        ],
+        [
+          "apparent time",
+          "การศึกษาการเปลี่ยนแปลงจากคนต่างวัยในเวลาเดียวกัน"
+        ],
+        [
+          "social network",
+          "เครือข่ายสังคม"
+        ],
+        [
+          "tendency",
+          "แนวโน้ม"
+        ]
+      ],
+      "say": [
+        "In this study, younger speakers tended to use more slang.",
+        "Thai uses different polite particles for male and female speakers.",
+        "A finding about a group cannot describe every person."
+      ],
+      "task_th": "ฟังหรือนึกถึงคน 3 วัย เช่น ตัวคุณ พ่อแม่ ปู่ย่าตายาย เขียนคำหรือสำนวน 2 คำที่แต่ละวัยใช้ต่างกันเพื่อพูดเรื่องเดียวกัน เช่น คำชม แล้วเขียน 1 ประโยคภาษาอังกฤษแบบไม่เหมารวม โดยใช้ tend to",
+      "questions": [
+        {
+          "id": "ENL432-U3-01",
+          "skill": "ENL432-U3",
+          "difficulty": 2,
+          "stem": "In Labov's New York department store study, what did workers' pronunciation of 'fourth floor' show?",
+          "options": [
+            "The use of /r/ was linked to the social status of the store.",
+            "All workers spoke in exactly the same way.",
+            "Only tourists pronounced /r/.",
+            "The /r/ sound had disappeared from New York completely."
+          ],
+          "answer": 0,
+          "explanation_th": "ห้างที่ลูกค้าฐานะสูงกว่า พนักงานออกเสียง /r/ มากกว่า",
+          "why_wrong": [
+            null,
+            "ผลพบความต่างชัดเจนระหว่างห้าง",
+            "ศึกษาพนักงาน ไม่ใช่นักท่องเที่ยว",
+            "ยังพบเสียง /r/ โดยเฉพาะในห้างระดับสูง"
+          ]
+        },
+        {
+          "id": "ENL432-U3-02",
+          "skill": "ENL432-U3",
+          "difficulty": 1,
+          "stem": "Which Thai words show the speaker's gender in polite speech?",
+          "options": [
+            "กิน and ดื่ม",
+            "หนึ่ง and สอง",
+            "ครับ and ค่ะ",
+            "บ้าน and รถ"
+          ],
+          "answer": 2,
+          "explanation_th": "คำลงท้ายสุภาพที่แบ่งตามเพศผู้พูด",
+          "why_wrong": [
+            "เป็นกริยาทั่วไป ไม่บอกเพศ",
+            "เป็นตัวเลข",
+            null,
+            "เป็นคำนามทั่วไป"
+          ]
+        },
+        {
+          "id": "ENL432-U3-03",
+          "skill": "ENL432-U3",
+          "difficulty": 2,
+          "stem": "Many studies found that, within the same social class, women ____ than men.",
+          "options": [
+            "often use more standard forms",
+            "never use any slang",
+            "always speak more quietly",
+            "use no regional words at all"
+          ],
+          "answer": 0,
+          "explanation_th": "เป็นแนวโน้มที่พบซ้ำในหลายงาน",
+          "why_wrong": [
+            null,
+            "never เหมารวมเกินจริง",
+            "ไม่ใช่ข้อค้นพบทางภาษาศาสตร์สังคม",
+            "เหมารวมเกินจริง"
+          ]
+        },
+        {
+          "id": "ENL432-U3-04",
+          "skill": "ENL432-U3",
+          "difficulty": 2,
+          "stem": "A teenager uses a lot of slang but stops using it as an adult. This pattern is called ____.",
+          "options": [
+            "diglossia",
+            "age grading",
+            "code-switching",
+            "synthesis"
+          ],
+          "answer": 1,
+          "explanation_th": "การใช้ภาษาที่เปลี่ยนตามช่วงวัยของคนคนเดียว",
+          "why_wrong": [
+            "diglossia คือภาษาสองระดับในชุมชน",
+            null,
+            "ไม่ได้สลับภาษา",
+            "เป็นศัพท์การเขียนวิจัย"
+          ]
+        },
+        {
+          "id": "ENL432-U3-05",
+          "skill": "ENL432-U3",
+          "difficulty": 3,
+          "stem": "Researchers record speakers aged 20, 40 and 70 in the same year to see how the language is changing. This method is called ____.",
+          "options": [
+            "real time",
+            "matched guise",
+            "apparent time",
+            "peer review"
+          ],
+          "answer": 2,
+          "explanation_th": "เทียบคนต่างวัยในเวลาเดียวกัน",
+          "why_wrong": [
+            "real time คือกลับไปเก็บข้อมูลซ้ำหลายปีจริง",
+            "เป็นวิธีวัดทัศนคติ",
+            null,
+            "เป็นการตรวจงานวิชาการ"
+          ]
+        },
+        {
+          "id": "ENL432-U3-06",
+          "skill": "ENL432-U3",
+          "difficulty": 2,
+          "stem": "People in a close-knit social network ____.",
+          "options": [
+            "always switch to the standard variety",
+            "use no slang at all",
+            "stop speaking their first language",
+            "often keep local language features"
+          ],
+          "answer": 3,
+          "explanation_th": "เครือข่ายแน่นช่วยรักษาลักษณะภาษาท้องถิ่น",
+          "why_wrong": [
+            "มักเป็นตรงกันข้าม",
+            "เหมารวมเกินจริง",
+            "ไม่ใช่ผลของเครือข่ายแน่น",
+            null
+          ]
+        },
+        {
+          "id": "ENL432-U3-07",
+          "skill": "ENL432-U3",
+          "difficulty": 2,
+          "stem": "Which sentence avoids a stereotype?",
+          "options": [
+            "All young people ruin the language.",
+            "Old people never learn new words.",
+            "Every woman speaks more politely than every man, as many studies have shown.",
+            "In this study, younger participants tended to use more English loanwords."
+          ],
+          "answer": 3,
+          "explanation_th": "จำกัดที่งานนี้และใช้ tended to",
+          "why_wrong": [
+            "เหมารวมและตัดสิน",
+            "never เหมารวมเกินจริง",
+            "every เหมารวมทั้งสองกลุ่ม งานวิจัยพบแค่แนวโน้ม ไม่ใช่ทุกคน",
+            null
+          ]
+        },
+        {
+          "id": "ENL432-U3-08",
+          "skill": "ENL432-U3",
+          "difficulty": 1,
+          "stem": "Which is a social variable in sociolinguistics?",
+          "options": [
+            "age",
+            "the colour of the paper",
+            "the font size",
+            "the weather"
+          ],
+          "answer": 0,
+          "explanation_th": "อายุเป็นปัจจัยทางสังคมที่ศึกษาบ่อย",
+          "why_wrong": [
+            null,
+            "ไม่ใช่ปัจจัยทางสังคม",
+            "ไม่ใช่ปัจจัยทางสังคม",
+            "ไม่ใช่ปัจจัยทางสังคม"
+          ]
+        },
+        {
+          "id": "ENL432-U3-09",
+          "skill": "ENL432-U3",
+          "difficulty": 2,
+          "stem": "Why can't a group finding predict one person's speech exactly?",
+          "options": [
+            "because individuals never speak",
+            "because group findings are always false",
+            "because findings show tendencies of groups, and individuals vary",
+            "because each person speaks in only one style for the whole of their life"
+          ],
+          "answer": 2,
+          "explanation_th": "กลุ่มมีแนวโน้ม แต่แต่ละคนต่างกัน",
+          "why_wrong": [
+            "ทุกคนพูด",
+            "ข้อค้นพบระดับกลุ่มเชื่อถือได้ในฐานะแนวโน้ม",
+            null,
+            "คนหนึ่งเปลี่ยนลีลาภาษาได้หลายแบบ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ENL432-U4",
+      "title_th": "ระดับภาษา ลีลา และบริบท",
+      "title_en": "Register, Style and Context",
+      "covers": "และฝึกวิเคราะห์ภาษาที่ใช้ในบริบทต่าง ๆ",
+      "minutes": 13,
+      "cards": [
+        {
+          "title_th": "Register คืออะไร",
+          "body_th": "ภาษาที่เปลี่ยนตามสถานการณ์และจุดประสงค์ เช่น ภาษากฎหมาย ภาษาข่าว ภาษาแชต แต่ละแบบมีคำและโครงสร้างที่ใช้บ่อยต่างกัน"
+        },
+        {
+          "title_th": "สามมิติของบริบท",
+          "body_th": "Halliday แบ่งบริบทเป็น field คือเรื่องที่พูด / tenor คือความสัมพันธ์ระหว่างผู้สื่อสาร / mode คือช่องทาง เช่น พูด เขียน หรือแชต"
+        },
+        {
+          "title_th": "เปลี่ยนลีลา (style shifting)",
+          "body_th": "คนเดียวกันเลื่อนจากแบบกันเองไปแบบทางการตามผู้ฟังและสถานที่",
+          "example": "Hey, can I come in? / Excuse me, may I come in?"
+        },
+        {
+          "title_th": "ศัพท์เฉพาะกลุ่ม",
+          "body_th": "jargon คือศัพท์เฉพาะวงการอาชีพ เช่น หมอ นักบัญชี โปรแกรมเมอร์ slang คือคำไม่เป็นทางการของกลุ่ม มักเปลี่ยนเร็ว"
+        },
+        {
+          "title_th": "ระดับภาษาในภาษาไทย",
+          "body_th": "ภาษาไทยมีระดับภาษาชัด เช่น กิน ทาน รับประทาน และมีราชาศัพท์ใช้กับพระมหากษัตริย์และพระบรมวงศานุวงศ์ เช่น เสวย"
+        }
+      ],
+      "vocab": [
+        [
+          "register",
+          "ภาษาตามสถานการณ์การใช้"
+        ],
+        [
+          "style",
+          "ลีลาภาษา"
+        ],
+        [
+          "formality",
+          "ความเป็นทางการ"
+        ],
+        [
+          "field",
+          "เรื่องที่สื่อสาร"
+        ],
+        [
+          "tenor",
+          "ความสัมพันธ์ระหว่างผู้สื่อสาร"
+        ],
+        [
+          "mode",
+          "ช่องทางการสื่อสาร"
+        ],
+        [
+          "jargon",
+          "ศัพท์เฉพาะวงการ"
+        ],
+        [
+          "style shifting",
+          "การเปลี่ยนลีลาภาษา"
+        ],
+        [
+          "context",
+          "บริบท"
+        ]
+      ],
+      "say": [
+        "I write emails to my lecturer in a formal register.",
+        "Field, tenor and mode describe the context.",
+        "I change my style when I talk to different people."
+      ],
+      "task_th": "เขียนข้อความเรื่องเดียวกัน คือขอเลื่อนนัดทำงานกลุ่ม 3 แบบ แบบแชตกับเพื่อน แบบอีเมลถึงอาจารย์ และแบบประกาศทางการ แล้ววงคำที่เปลี่ยนไป และระบุ field, tenor, mode ของแต่ละแบบสั้น ๆ",
+      "questions": [
+        {
+          "id": "ENL432-U4-01",
+          "skill": "ENL432-U4",
+          "difficulty": 1,
+          "stem": "In sociolinguistics, register means ____.",
+          "options": [
+            "language variation according to the region where a speaker grew up",
+            "language variation according to the situation and purpose",
+            "an official list of student names",
+            "how loud a voice is"
+          ],
+          "answer": 1,
+          "explanation_th": "เปลี่ยนตามสถานการณ์การใช้",
+          "why_wrong": [
+            "นั่นคือภาษาถิ่นตามพื้นที่",
+            null,
+            "เป็นความหมายทั่วไปของคำ register",
+            "ไม่ใช่ความหมายทางภาษาศาสตร์สังคม"
+          ]
+        },
+        {
+          "id": "ENL432-U4-02",
+          "skill": "ENL432-U4",
+          "difficulty": 2,
+          "stem": "In Halliday's model, 'tenor' is about ____.",
+          "options": [
+            "the topic or subject matter that the communication is about",
+            "the relationship between the people communicating",
+            "whether it is spoken or written",
+            "the number of words used"
+          ],
+          "answer": 1,
+          "explanation_th": "tenor คือความสัมพันธ์ เช่น นักศึกษากับอาจารย์",
+          "why_wrong": [
+            "นั่นคือ field",
+            null,
+            "นั่นคือ mode",
+            "ไม่ใช่มิติในแบบของ Halliday"
+          ]
+        },
+        {
+          "id": "ENL432-U4-03",
+          "skill": "ENL432-U4",
+          "difficulty": 2,
+          "stem": "In Halliday's model, 'mode' refers to ____.",
+          "options": [
+            "the channel, such as speech, writing or online chat",
+            "the topic",
+            "the relationship between speakers",
+            "the grammar rules of the language"
+          ],
+          "answer": 0,
+          "explanation_th": "mode คือช่องทางการสื่อสาร",
+          "why_wrong": [
+            null,
+            "นั่นคือ field",
+            "นั่นคือ tenor",
+            "ไม่ใช่มิติของบริบท"
+          ]
+        },
+        {
+          "id": "ENL432-U4-04",
+          "skill": "ENL432-U4",
+          "difficulty": 1,
+          "stem": "Which request is most appropriate in an email to a lecturer?",
+          "options": [
+            "Yo, when's the report due?",
+            "Tell me the deadline now.",
+            "deadline??",
+            "Could you please tell me the deadline for the report?"
+          ],
+          "answer": 3,
+          "explanation_th": "สุภาพและเป็นทางการพอดีกับความสัมพันธ์",
+          "why_wrong": [
+            "yo เป็นภาษากันเองเกินไป",
+            "เป็นคำสั่ง ไม่เหมาะกับอาจารย์",
+            "สั้นและห้วนเกินไปสำหรับอีเมลทางการ",
+            null
+          ]
+        },
+        {
+          "id": "ENL432-U4-05",
+          "skill": "ENL432-U4",
+          "difficulty": 2,
+          "stem": "'Diagnosis', 'prescription' and 'symptom' are words that doctors use at work. These words are ____.",
+          "options": [
+            "slang",
+            "a regional dialect",
+            "jargon",
+            "a pidgin"
+          ],
+          "answer": 2,
+          "explanation_th": "ศัพท์เฉพาะวงการแพทย์",
+          "why_wrong": [
+            "สแลงเป็นคำไม่เป็นทางการ แต่คำเหล่านี้เป็นศัพท์วิชาชีพ",
+            "ไม่ได้ผูกกับพื้นที่",
+            null,
+            "pidgin เป็นภาษาติดต่อ ไม่ใช่ศัพท์อาชีพ"
+          ]
+        },
+        {
+          "id": "ENL432-U4-06",
+          "skill": "ENL432-U4",
+          "difficulty": 2,
+          "stem": "A student says 'Hey!' to friends but 'Good morning, ajarn' to a teacher. This is ____.",
+          "options": [
+            "borrowing",
+            "a regional dialect",
+            "diglossia",
+            "style shifting"
+          ],
+          "answer": 3,
+          "explanation_th": "คนเดียวเปลี่ยนลีลาตามผู้ฟัง",
+          "why_wrong": [
+            "ไม่ได้เป็นเรื่องการยืมคำเข้าภาษา",
+            "ไม่ได้เปลี่ยนตามพื้นที่",
+            "diglossia คือสองวิธภาษาที่ชุมชนแบ่งหน้าที่ใช้ ไม่ใช่การปรับระดับของคนหนึ่งกับผู้ฟังต่างกัน",
+            null
+          ]
+        },
+        {
+          "id": "ENL432-U4-07",
+          "skill": "ENL432-U4",
+          "difficulty": 2,
+          "stem": "Which Thai word is the most formal way to say 'eat' when talking about ordinary people?",
+          "options": [
+            "กิน",
+            "รับประทาน",
+            "ซัด",
+            "เสวย"
+          ],
+          "answer": 1,
+          "explanation_th": "ระดับทางการสำหรับบุคคลทั่วไป",
+          "why_wrong": [
+            "เป็นระดับกันเองหรือทั่วไป",
+            null,
+            "เป็นภาษาพูดแบบสแลง",
+            "เป็นราชาศัพท์ ไม่ใช้กับบุคคลทั่วไป"
+          ]
+        },
+        {
+          "id": "ENL432-U4-08",
+          "skill": "ENL432-U4",
+          "difficulty": 3,
+          "stem": "A news report, a chat message and a legal contract about the same topic use different words and grammar. This is mainly because of differences in ____.",
+          "options": [
+            "register",
+            "regional dialect",
+            "the age of the writers",
+            "social class"
+          ],
+          "answer": 0,
+          "explanation_th": "สถานการณ์และจุดประสงค์ต่างกัน",
+          "why_wrong": [
+            null,
+            "ไม่ได้ต่างที่พื้นที่",
+            "ตัวอย่างบอกความต่างของประเภทข้อความ ไม่ใช่อายุ",
+            "ตัวอย่างบอกความต่างของสถานการณ์ ไม่ใช่ชนชั้น"
+          ]
+        },
+        {
+          "id": "ENL432-U4-09",
+          "skill": "ENL432-U4",
+          "difficulty": 2,
+          "stem": "Which sentence is from the most formal register?",
+          "options": [
+            "Meeting's off for now, guys. I'll let you know when it's back on.",
+            "No meeting lol.",
+            "The meeting has been postponed until further notice.",
+            "We ain't meeting today."
+          ],
+          "answer": 2,
+          "explanation_th": "ใช้ passive และสำนวนทางการ",
+          "why_wrong": [
+            "คำย่อและ guys เป็นภาษากันเอง",
+            "lol เป็นภาษาแชต",
+            null,
+            "ain't ใช้ในบริบทไม่เป็นทางการ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ENL432-U5",
+      "title_th": "ความสุภาพและหน้า",
+      "title_en": "Politeness and Face",
+      "covers": "และฝึกวิเคราะห์ภาษาที่ใช้ในบริบทต่าง ๆ",
+      "minutes": 13,
+      "cards": [
+        {
+          "title_th": "หน้า (face)",
+          "body_th": "Brown และ Levinson (1987) เสนอว่าทุกคนมี face คือภาพลักษณ์ทางสังคมที่อยากให้คนอื่นเคารพ คล้ายคำว่า รักษาหน้า หรือ เสียหน้า ในภาษาไทย"
+        },
+        {
+          "title_th": "สองด้านของหน้า",
+          "body_th": "positive face คือความต้องการให้คนอื่นยอมรับและชอบเรา negative face คือความต้องการมีอิสระ ไม่ถูกบังคับหรือรบกวน"
+        },
+        {
+          "title_th": "การกระทำที่คุกคามหน้า",
+          "body_th": "ขอร้อง สั่ง วิจารณ์ หรือปฏิเสธ เสี่ยงทำให้อีกฝ่ายเสียหน้า (face-threatening act) จึงต้องใช้กลยุทธ์ความสุภาพ",
+          "example": "Close the window. → Would you mind closing the window?"
+        },
+        {
+          "title_th": "ความสุภาพสองแบบ",
+          "body_th": "positive politeness เน้นความสนิทและความเป็นพวกเดียวกัน เช่น ชม เรียกแบบเพื่อน negative politeness เน้นไม่รบกวน เช่น ขอโทษก่อน ใช้ could หรือ would ใช้คำถามแทนคำสั่ง"
+        },
+        {
+          "title_th": "ไทยกับอังกฤษ",
+          "body_th": "ภาษาไทยใช้คำเรียกญาติกับคนที่ไม่ใช่ญาติ เช่น พี่ น้อง ป้า และใช้คำลงท้ายสุภาพ ภาษาอังกฤษพึ่ง please, could, would และการขออ้อม ๆ แต่ละวัฒนธรรมมีวิธีสุภาพของตัวเอง ไม่มีภาษาไหนสุภาพกว่าโดยธรรมชาติ"
+        }
+      ],
+      "vocab": [
+        [
+          "politeness",
+          "ความสุภาพ"
+        ],
+        [
+          "face",
+          "หน้า ภาพลักษณ์ทางสังคม"
+        ],
+        [
+          "positive face",
+          "ความต้องการให้คนอื่นยอมรับ"
+        ],
+        [
+          "negative face",
+          "ความต้องการไม่ถูกรบกวน"
+        ],
+        [
+          "face-threatening act",
+          "การกระทำที่คุกคามหน้า"
+        ],
+        [
+          "indirect request",
+          "การขอร้องแบบอ้อม"
+        ],
+        [
+          "kinship term",
+          "คำเรียกญาติ"
+        ],
+        [
+          "address term",
+          "คำเรียกขาน"
+        ]
+      ],
+      "say": [
+        "Would you mind helping me with this?",
+        "I'm sorry to bother you, but could I ask a question?",
+        "Every culture has its own way to be polite."
+      ],
+      "task_th": "เขียนคำขอ 1 เรื่อง เช่น ขอยืมโน้ต เป็นภาษาอังกฤษ 3 แบบ แบบตรง แบบ positive politeness และแบบ negative politeness แล้วเขียนภาษาไทย 1 แบบที่คุณใช้จริง ระบุว่าใช้คำเรียกขานหรือคำลงท้ายอะไรช่วยให้สุภาพ",
+      "questions": [
+        {
+          "id": "ENL432-U5-01",
+          "skill": "ENL432-U5",
+          "difficulty": 2,
+          "stem": "In Brown and Levinson's politeness theory, 'negative face' is the wish ____.",
+          "options": [
+            "to be liked and approved of",
+            "to say negative things about others",
+            "to be free and not be imposed on",
+            "to hide your face from others"
+          ],
+          "answer": 2,
+          "explanation_th": "อยากมีอิสระ ไม่ถูกรบกวน",
+          "why_wrong": [
+            "นั่นคือ positive face",
+            "negative ในที่นี้ไม่ได้แปลว่าพูดร้าย",
+            null,
+            "face ในที่นี้เป็นภาพลักษณ์ ไม่ใช่ใบหน้าจริง"
+          ]
+        },
+        {
+          "id": "ENL432-U5-02",
+          "skill": "ENL432-U5",
+          "difficulty": 2,
+          "stem": "In politeness theory, 'positive face' is the wish ____.",
+          "options": [
+            "to be left alone",
+            "to be liked and accepted by others",
+            "to always win an argument",
+            "to speak only in positive sentences"
+          ],
+          "answer": 1,
+          "explanation_th": "อยากให้คนอื่นยอมรับและชอบ",
+          "why_wrong": [
+            "นั่นคือ negative face",
+            null,
+            "ไม่ใช่นิยามของ face",
+            "positive ไม่ได้หมายถึงชนิดประโยค"
+          ]
+        },
+        {
+          "id": "ENL432-U5-03",
+          "skill": "ENL432-U5",
+          "difficulty": 1,
+          "stem": "Which request is the most indirect and polite in English?",
+          "options": [
+            "Would you mind closing the window?",
+            "Close the window.",
+            "Window. Now.",
+            "You close the window."
+          ],
+          "answer": 0,
+          "explanation_th": "ใช้คำถามและ would ลดแรงกดดัน",
+          "why_wrong": [
+            null,
+            "เป็นคำสั่งตรง",
+            "ห้วนและเป็นคำสั่ง",
+            "ยังเป็นคำสั่ง"
+          ]
+        },
+        {
+          "id": "ENL432-U5-04",
+          "skill": "ENL432-U5",
+          "difficulty": 2,
+          "stem": "Which act is most likely to threaten the listener's face?",
+          "options": [
+            "thanking them for their help",
+            "agreeing with their idea",
+            "greeting them warmly",
+            "criticising their work in front of the class"
+          ],
+          "answer": 3,
+          "explanation_th": "วิจารณ์ต่อหน้าคนอื่นเสี่ยงทำให้เสียหน้า",
+          "why_wrong": [
+            "การขอบคุณช่วยเสริมหน้า",
+            "การเห็นด้วยช่วยเสริมหน้า",
+            "การทักทายอบอุ่นช่วยเสริมหน้า",
+            null
+          ]
+        },
+        {
+          "id": "ENL432-U5-05",
+          "skill": "ENL432-U5",
+          "difficulty": 2,
+          "stem": "'You're so good at design! Can you help me with my slides?' Which strategy does the compliment show?",
+          "options": [
+            "negative politeness",
+            "a bald on-record command",
+            "positive politeness",
+            "divergence"
+          ],
+          "answer": 2,
+          "explanation_th": "ชมก่อนขอ เน้นความชอบและความใกล้ชิด",
+          "why_wrong": [
+            "negative politeness เน้นขอโทษหรือไม่รบกวน ไม่ใช่การชม",
+            "ประโยคเป็นคำถามและมีคำชม ไม่ใช่คำสั่งห้วน",
+            null,
+            "ไม่ได้พยายามทำให้ห่างจากผู้ฟัง"
+          ]
+        },
+        {
+          "id": "ENL432-U5-06",
+          "skill": "ENL432-U5",
+          "difficulty": 2,
+          "stem": "'I'm sorry to bother you, but could I borrow your notes?' This mainly uses ____.",
+          "options": [
+            "positive politeness",
+            "negative politeness",
+            "a direct, bald on-record order",
+            "covert prestige"
+          ],
+          "answer": 1,
+          "explanation_th": "ขอโทษที่รบกวนและใช้ could เคารพอิสระของผู้ฟัง",
+          "why_wrong": [
+            "ไม่มีการชมหรือเน้นความสนิท",
+            null,
+            "เป็นคำถาม ไม่ใช่คำสั่ง",
+            "เป็นศัพท์เรื่องภาษาถิ่น ไม่ใช่ความสุภาพ"
+          ]
+        },
+        {
+          "id": "ENL432-U5-07",
+          "skill": "ENL432-U5",
+          "difficulty": 3,
+          "stem": "A teacher says, 'It's a bit cold in here,' and a student closes the window. The teacher's sentence works as ____.",
+          "options": [
+            "a direct order",
+            "only a weather report",
+            "a compliment",
+            "an indirect request"
+          ],
+          "answer": 3,
+          "explanation_th": "บอกข้อเท็จจริงแต่ทำหน้าที่ขอร้อง",
+          "why_wrong": [
+            "ไม่มีคำสั่งตรง ๆ",
+            "นักศึกษาเข้าใจว่าเป็นคำขอ จึงไม่ใช่แค่บอกอากาศ",
+            "ไม่ได้ชมใคร",
+            null
+          ]
+        },
+        {
+          "id": "ENL432-U5-08",
+          "skill": "ENL432-U5",
+          "difficulty": 1,
+          "stem": "In Thai, calling an older stranger 'พี่' or 'ป้า' is an example of ____.",
+          "options": [
+            "using kinship terms to show respect and closeness",
+            "a grammar mistake",
+            "code-switching to English",
+            "a face-threatening act"
+          ],
+          "answer": 0,
+          "explanation_th": "ใช้คำเรียกญาติกับคนแปลกหน้าเพื่อสุภาพและใกล้ชิด",
+          "why_wrong": [
+            null,
+            "เป็นการใช้ที่ปกติในภาษาไทย",
+            "ไม่มีคำภาษาอังกฤษ",
+            "ช่วยรักษาหน้า ไม่ได้คุกคาม"
+          ]
+        },
+        {
+          "id": "ENL432-U5-09",
+          "skill": "ENL432-U5",
+          "difficulty": 2,
+          "stem": "Which statement about politeness across cultures is the most accurate?",
+          "options": [
+            "English is more polite than Thai.",
+            "Thai is more polite than English.",
+            "Each culture has its own ways to be polite, so the same words can feel polite or rude.",
+            "Politeness works the same way in every culture, so polite English words are polite everywhere."
+          ],
+          "answer": 2,
+          "explanation_th": "ความสุภาพผูกกับวัฒนธรรม",
+          "why_wrong": [
+            "ไม่มีภาษาไหนสุภาพกว่าโดยธรรมชาติ",
+            "ไม่มีภาษาไหนสุภาพกว่าโดยธรรมชาติ",
+            null,
+            "แต่ละวัฒนธรรมมีกติกาต่างกัน"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ENL432-U6",
+      "title_th": "การสลับภาษาไทยกับอังกฤษ",
+      "title_en": "Code-switching and Bilingual Talk",
+      "covers": "ความสัมพันธ์ระหว่างภาษาและสังคม",
+      "minutes": 13,
+      "cards": [
+        {
+          "title_th": "Code-switching คืออะไร",
+          "body_th": "การสลับใช้สองภาษาหรือมากกว่าในบทสนทนาเดียว เป็นทักษะปกติของผู้ใช้สองภาษา ไม่ใช่สัญญาณว่าพูดภาษาใดไม่เก่ง",
+          "example": "พรุ่งนี้มี presentation ต้องไป prepare slides ก่อน"
+        },
+        {
+          "title_th": "สลับตรงไหน",
+          "body_th": "ระหว่างประโยค (inter-sentential) เช่น เดี๋ยวไปก่อนนะ See you tomorrow! / ภายในประโยค (intra-sentential) เช่น วันนี้ต้องส่ง essay ก่อนเที่ยง"
+        },
+        {
+          "title_th": "ยืมคำ หรือ สลับภาษา",
+          "body_th": "คำยืม (loanword) กลายเป็นส่วนหนึ่งของภาษาไทยแล้ว ออกเสียงแบบไทย คนที่ไม่รู้ภาษาอังกฤษก็ใช้ เช่น คอมพิวเตอร์ ฟุตบอล ส่วนการสลับภาษาเป็นการเลือกของผู้ที่รู้ทั้งสองภาษา"
+        },
+        {
+          "title_th": "ทำไมถึงสลับ",
+          "body_th": "คำอังกฤษสั้นกว่าหรือคุ้นกว่าในเรื่องเรียนและงาน / แสดงตัวตนหรือความเป็นกลุ่ม / ยกคำพูดของคนอื่น / เน้นหรือเปลี่ยนหัวข้อ"
+        },
+        {
+          "title_th": "ขึ้นกับผู้ฟังและบริบท",
+          "body_th": "คนมักสลับภาษากับคนที่รู้ทั้งสองภาษา และพูดภาษาเดียวกับคนที่ไม่รู้อีกภาษา นักภาษาศาสตร์สังคมวิเคราะห์ว่าการสลับทำหน้าที่อะไร ไม่ตัดสินว่าดีหรือไม่ดี"
+        }
+      ],
+      "vocab": [
+        [
+          "code-switching",
+          "การสลับภาษา"
+        ],
+        [
+          "bilingual",
+          "ผู้ใช้สองภาษา"
+        ],
+        [
+          "loanword",
+          "คำยืม"
+        ],
+        [
+          "borrowing",
+          "การยืมคำ"
+        ],
+        [
+          "inter-sentential",
+          "ระหว่างประโยค"
+        ],
+        [
+          "intra-sentential",
+          "ภายในประโยค"
+        ],
+        [
+          "function",
+          "หน้าที่"
+        ],
+        [
+          "monolingual",
+          "ผู้ใช้ภาษาเดียว"
+        ]
+      ],
+      "say": [
+        "Code-switching is a normal bilingual skill.",
+        "I use English words for some study topics.",
+        "I speak only Thai with people who do not know English."
+      ],
+      "task_th": "เปิดแชตกลุ่มเพื่อนหรือแชตกลุ่มเรียนของคุณ หา 5 ข้อความที่มีภาษาอังกฤษปน จดลง แล้วระบุแต่ละข้อว่าเป็นคำยืม การสลับภายในประโยค หรือระหว่างประโยค และเดาหน้าที่ เช่น ศัพท์เรียน ยกคำพูด หรือแสดงความเป็นกลุ่ม (ไม่ต้องจดชื่อคนส่ง)",
+      "questions": [
+        {
+          "id": "ENL432-U6-01",
+          "skill": "ENL432-U6",
+          "difficulty": 1,
+          "stem": "Code-switching is ____.",
+          "options": [
+            "using two or more languages in one conversation",
+            "changing your phone number",
+            "speaking only one language",
+            "a pronunciation mistake"
+          ],
+          "answer": 0,
+          "explanation_th": "เป็นนิยามของการสลับภาษา",
+          "why_wrong": [
+            null,
+            "เป็นความหมายตามตัวอักษร ไม่เกี่ยวกับภาษา",
+            "ตรงข้ามกับการสลับภาษา",
+            "เป็นการเลือกใช้ภาษา ไม่ใช่ความผิดพลาดของเสียง"
+          ]
+        },
+        {
+          "id": "ENL432-U6-02",
+          "skill": "ENL432-U6",
+          "difficulty": 2,
+          "stem": "'เดี๋ยวไปก่อนนะ See you tomorrow!' The switch happens between two sentences. This is ____.",
+          "options": [
+            "intra-sentential code-switching",
+            "a loanword that has become part of Thai",
+            "diglossia",
+            "inter-sentential code-switching"
+          ],
+          "answer": 3,
+          "explanation_th": "สลับที่รอยต่อระหว่างประโยค",
+          "why_wrong": [
+            "intra คือสลับภายในประโยคเดียว",
+            "See you tomorrow ไม่ได้กลายเป็นคำไทย",
+            "diglossia คือสองระดับของภาษาเดียว",
+            null
+          ]
+        },
+        {
+          "id": "ENL432-U6-03",
+          "skill": "ENL432-U6",
+          "difficulty": 2,
+          "stem": "'วันนี้ต้องส่ง essay ก่อนเที่ยง' The bilingual speaker puts an English word inside a Thai sentence. This is ____.",
+          "options": [
+            "inter-sentential code-switching",
+            "intra-sentential code-switching",
+            "a translation error by the speaker",
+            "diglossia"
+          ],
+          "answer": 1,
+          "explanation_th": "สลับภายในประโยคเดียว",
+          "why_wrong": [
+            "inter คือสลับระหว่างประโยค",
+            null,
+            "ผู้พูดเลือกใช้เอง ไม่ใช่การแปลผิด",
+            "diglossia ไม่ได้หมายถึงการผสมสองภาษาในประโยค"
+          ]
+        },
+        {
+          "id": "ENL432-U6-04",
+          "skill": "ENL432-U6",
+          "difficulty": 2,
+          "stem": "Which is a loanword that is now part of everyday Thai, even for people who do not speak English?",
+          "options": [
+            "synthesis",
+            "คอมพิวเตอร์",
+            "methodology",
+            "hedging"
+          ],
+          "answer": 1,
+          "explanation_th": "ออกเสียงแบบไทยและคนทั่วไปใช้",
+          "why_wrong": [
+            "เป็นศัพท์อังกฤษที่ใช้เฉพาะผู้รู้ภาษาอังกฤษ",
+            null,
+            "เป็นศัพท์อังกฤษเฉพาะทาง",
+            "เป็นศัพท์อังกฤษเฉพาะทาง"
+          ]
+        },
+        {
+          "id": "ENL432-U6-05",
+          "skill": "ENL432-U6",
+          "difficulty": 2,
+          "stem": "Which is a common reason for Thai-English code-switching among university students?",
+          "options": [
+            "They have forgotten all their Thai.",
+            "Thai has no grammar.",
+            "A law requires them to mix languages.",
+            "Some study terms are shorter or more familiar in English."
+          ],
+          "answer": 3,
+          "explanation_th": "เป็นหน้าที่ที่พบบ่อยในบริบทการเรียน",
+          "why_wrong": [
+            "ยังพูดไทยได้ตามปกติ",
+            "ภาษาไทยมีไวยากรณ์ครบ",
+            "ไม่มีกฎหมายแบบนั้น",
+            null
+          ]
+        },
+        {
+          "id": "ENL432-U6-06",
+          "skill": "ENL432-U6",
+          "difficulty": 3,
+          "stem": "A student code-switches with classmates but speaks only Thai with her grandmother, who does not know English. This shows that code-switching ____.",
+          "options": [
+            "depends on the listener and the context",
+            "happens randomly",
+            "means she cannot speak Thai well",
+            "is always impolite"
+          ],
+          "answer": 0,
+          "explanation_th": "เลือกตามผู้ฟัง",
+          "why_wrong": [
+            null,
+            "ตัวอย่างนี้แสดงการเลือกอย่างมีเหตุผล",
+            "เธอพูดไทยกับคุณยายได้ตามปกติ",
+            "กับเพื่อนที่รู้สองภาษาไม่ได้ไม่สุภาพ"
+          ]
+        },
+        {
+          "id": "ENL432-U6-07",
+          "skill": "ENL432-U6",
+          "difficulty": 2,
+          "stem": "Which view fits sociolinguistics?",
+          "options": [
+            "Code-switching shows that the speaker is too lazy to find the right Thai word.",
+            "Code-switching always means low proficiency.",
+            "Code-switching is a normal bilingual skill with social functions.",
+            "Code-switching has no patterns or rules."
+          ],
+          "answer": 2,
+          "explanation_th": "มองแบบบรรยายและเห็นหน้าที่",
+          "why_wrong": [
+            "เป็นการตัดสิน ไม่ใช่การวิเคราะห์",
+            "ผู้ใช้สองภาษาที่เก่งก็สลับภาษา",
+            null,
+            "งานวิจัยพบว่ามีแบบแผน"
+          ]
+        },
+        {
+          "id": "ENL432-U6-08",
+          "skill": "ENL432-U6",
+          "difficulty": 2,
+          "stem": "A speaker switches to English to repeat a foreign teacher's words: 'อาจารย์บอกว่า Don't be late!' The function here is ____.",
+          "options": [
+            "filling a gap because Thai has no word for 'late'",
+            "changing to a formal register",
+            "quoting someone's words",
+            "using a loanword"
+          ],
+          "answer": 2,
+          "explanation_th": "ยกคำพูดของอาจารย์ตามภาษาเดิม",
+          "why_wrong": [
+            "ภาษาไทยมีคำว่า สาย",
+            "Don't be late! ไม่ได้ทางการขึ้น",
+            null,
+            "ประโยคนี้ไม่ได้เป็นคำยืมในภาษาไทย"
+          ]
+        },
+        {
+          "id": "ENL432-U6-09",
+          "skill": "ENL432-U6",
+          "difficulty": 1,
+          "stem": "A person who uses two languages regularly is ____.",
+          "options": [
+            "bilingual",
+            "monolingual",
+            "prescriptive",
+            "a dialect"
+          ],
+          "answer": 0,
+          "explanation_th": "ใช้สองภาษาเป็นประจำ",
+          "why_wrong": [
+            null,
+            "ใช้ภาษาเดียว",
+            "เป็นมุมมองต่อภาษา ไม่ใช่ตัวผู้พูด",
+            "เป็นวิธภาษา ไม่ใช่คน"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ENL432-U7",
+      "title_th": "นานาภาษาอังกฤษโลกและภาษาอังกฤษในฐานะภาษากลาง",
+      "title_en": "World Englishes and English as a Lingua Franca",
+      "covers": "รวมถึงนานาภาษาอังกฤษโลก",
+      "minutes": 14,
+      "cards": [
+        {
+          "title_th": "นานาภาษาอังกฤษโลก (World Englishes)",
+          "body_th": "ภาษาอังกฤษไม่ได้มีแค่แบบบริติชกับอเมริกัน ยังมีอังกฤษแบบอินเดีย สิงคโปร์ ไนจีเรีย ฟิลิปปินส์ และอีกมาก แต่ละแบบมีลักษณะเสียง คำ และไวยากรณ์ของตัวเอง คำว่า Englishes เป็นพหูพจน์เพราะเหตุนี้"
+        },
+        {
+          "title_th": "วงกลม 3 วงของ Kachru",
+          "body_th": "วงใน (Inner Circle) ใช้เป็นภาษาแม่ เช่น สหราชอาณาจักร สหรัฐฯ ออสเตรเลีย นิวซีแลนด์ / วงนอก (Outer Circle) ใช้เป็นภาษาทางการหรือภาษาที่สองจากประวัติอาณานิคม เช่น อินเดีย สิงคโปร์ ไนจีเรีย / วงขยาย (Expanding Circle) เรียนเป็นภาษาต่างประเทศ เช่น ไทย ญี่ปุ่น จีน"
+        },
+        {
+          "title_th": "ภาษากลาง (ELF)",
+          "body_th": "English as a lingua franca คือภาษาอังกฤษที่คนต่างภาษาแม่ใช้คุยกัน เช่น คนไทยคุยกับคนเวียดนาม ปัจจุบันผู้ใช้ภาษาอังกฤษเป็นภาษาที่สองหรือภาษาต่างประเทศมีมากกว่าเจ้าของภาษา สิ่งสำคัญคือเข้าใจกันได้ (intelligibility) มากกว่าสำเนียงเหมือนเจ้าของภาษา"
+        },
+        {
+          "title_th": "ตัวอย่างลักษณะเฉพาะ",
+          "body_th": "อังกฤษแบบสิงคโปร์ (Singlish) มีคำลงท้ายอย่าง lah ภาษาอังกฤษของคนไทยมีสำนวนที่รู้จักกันดีอย่าง same same นักภาษาศาสตร์มองว่าเป็นลักษณะของวิธภาษา ไม่ใช่ความผิด แต่ในงานสอบหรืองานเขียนทางการ คุณยังต้องใช้แบบมาตรฐานได้ด้วย",
+          "example": "Can lah, no problem."
+        },
+        {
+          "title_th": "ใครเป็นเจ้าของภาษาอังกฤษ",
+          "body_th": "แนวคิด World Englishes มองว่าภาษาอังกฤษเป็นของผู้ใช้ทุกคน ผู้สื่อสารที่ดีฟังสำเนียงหลากหลายได้และปรับภาษาให้ผู้ฟังเข้าใจ ไม่ได้พยายามเลียนสำเนียงเดียว"
+        }
+      ],
+      "vocab": [
+        [
+          "World Englishes",
+          "นานาภาษาอังกฤษโลก"
+        ],
+        [
+          "Inner Circle",
+          "วงใน"
+        ],
+        [
+          "Outer Circle",
+          "วงนอก"
+        ],
+        [
+          "Expanding Circle",
+          "วงขยาย"
+        ],
+        [
+          "lingua franca",
+          "ภาษากลางในการสื่อสาร"
+        ],
+        [
+          "intelligibility",
+          "ความเข้าใจได้"
+        ],
+        [
+          "native speaker",
+          "เจ้าของภาษา"
+        ],
+        [
+          "Singlish",
+          "ภาษาอังกฤษแบบสิงคโปร์"
+        ],
+        [
+          "first language",
+          "ภาษาแม่"
+        ]
+      ],
+      "say": [
+        "Thailand is in the Expanding Circle.",
+        "In English as a lingua franca, being understood is what matters most.",
+        "There are many kinds of English around the world."
+      ],
+      "task_th": "ฟังคลิปภาษาอังกฤษจากผู้พูด 2 คนที่มาจากคนละวง เช่น อินเดีย (วงนอก) กับ ญี่ปุ่น (วงขยาย) คลิปละ 1 ถึง 2 นาที จดสิ่งที่ฟังเข้าใจ 2 ข้อ และลักษณะเสียงหรือคำที่ต่างจากที่คุณคุ้น 1 ข้อ โดยเขียนแบบบรรยาย ไม่ตัดสิน",
+      "questions": [
+        {
+          "id": "ENL432-U7-01",
+          "skill": "ENL432-U7",
+          "difficulty": 1,
+          "stem": "In Kachru's model, Thailand is in the ____.",
+          "options": [
+            "Inner Circle",
+            "Expanding Circle",
+            "Outer Circle",
+            "Central Circle"
+          ],
+          "answer": 1,
+          "explanation_th": "ไทยเรียนภาษาอังกฤษเป็นภาษาต่างประเทศ",
+          "why_wrong": [
+            "วงในคือประเทศที่ใช้อังกฤษเป็นภาษาแม่",
+            null,
+            "วงนอกคือประเทศที่ใช้อังกฤษเป็นภาษาทางการจากประวัติอาณานิคม",
+            "ไม่มีวงนี้ในแบบจำลองของ Kachru"
+          ]
+        },
+        {
+          "id": "ENL432-U7-02",
+          "skill": "ENL432-U7",
+          "difficulty": 2,
+          "stem": "Which country is in Kachru's Outer Circle?",
+          "options": [
+            "Australia",
+            "Japan",
+            "Thailand",
+            "India"
+          ],
+          "answer": 3,
+          "explanation_th": "ใช้อังกฤษเป็นภาษาทางการร่วมจากประวัติอาณานิคม",
+          "why_wrong": [
+            "อยู่วงใน",
+            "อยู่วงขยาย",
+            "อยู่วงขยาย",
+            null
+          ]
+        },
+        {
+          "id": "ENL432-U7-03",
+          "skill": "ENL432-U7",
+          "difficulty": 2,
+          "stem": "Which country is in Kachru's Inner Circle?",
+          "options": [
+            "Singapore",
+            "China",
+            "New Zealand",
+            "Vietnam"
+          ],
+          "answer": 2,
+          "explanation_th": "คนส่วนใหญ่ใช้อังกฤษเป็นภาษาแม่",
+          "why_wrong": [
+            "อยู่วงนอก",
+            "อยู่วงขยาย",
+            null,
+            "อยู่วงขยาย"
+          ]
+        },
+        {
+          "id": "ENL432-U7-04",
+          "skill": "ENL432-U7",
+          "difficulty": 1,
+          "stem": "English as a lingua franca (ELF) means ____.",
+          "options": [
+            "English used only by native speakers when they talk to each other",
+            "the English of 1,000 years ago",
+            "English used only in British schools",
+            "English used between people with different first languages"
+          ],
+          "answer": 3,
+          "explanation_th": "ภาษากลางของคนต่างภาษาแม่",
+          "why_wrong": [
+            "ELF ส่วนใหญ่เป็นผู้ที่ไม่ใช่เจ้าของภาษา",
+            "นั่นคือ Old English",
+            "ไม่ใช่นิยามของ ELF",
+            null
+          ]
+        },
+        {
+          "id": "ENL432-U7-05",
+          "skill": "ENL432-U7",
+          "difficulty": 2,
+          "stem": "In ELF communication, what matters most?",
+          "options": [
+            "being understood by the listener (intelligibility)",
+            "sounding exactly like a British speaker",
+            "using as many idioms as possible",
+            "never making any small mistake"
+          ],
+          "answer": 0,
+          "explanation_th": "จุดหมายคือสื่อสารให้เข้าใจกัน",
+          "why_wrong": [
+            null,
+            "สำเนียงเจ้าของภาษาไม่ใช่เป้าหมายหลัก",
+            "สำนวนเยอะอาจทำให้ผู้ฟังต่างชาติเข้าใจยากขึ้น",
+            "ข้อผิดเล็ก ๆ ที่ไม่กระทบความเข้าใจไม่ใช่ประเด็นหลัก"
+          ]
+        },
+        {
+          "id": "ENL432-U7-06",
+          "skill": "ENL432-U7",
+          "difficulty": 2,
+          "stem": "Why is the term 'World Englishes' plural?",
+          "options": [
+            "because English has many dictionaries",
+            "because there are many varieties of English around the world",
+            "because English nouns usually add -s to show that there is more than one",
+            "because only a few countries use English"
+          ],
+          "answer": 1,
+          "explanation_th": "ภาษาอังกฤษมีหลายวิธภาษา",
+          "why_wrong": [
+            "จำนวนพจนานุกรมไม่ใช่เหตุผล",
+            null,
+            "ไม่เกี่ยวกับไวยากรณ์พหูพจน์",
+            "ตรงข้าม ใช้กันหลายประเทศ"
+          ]
+        },
+        {
+          "id": "ENL432-U7-07",
+          "skill": "ENL432-U7",
+          "difficulty": 2,
+          "stem": "A Singaporean speaker says, 'Can lah, no problem.' A sociolinguist would describe this as ____.",
+          "options": [
+            "a feature of Singapore English",
+            "a random mistake",
+            "a sign that the speaker is not intelligent",
+            "a feature of British English"
+          ],
+          "answer": 0,
+          "explanation_th": "lah เป็นลักษณะที่รู้จักกันดีของอังกฤษแบบสิงคโปร์",
+          "why_wrong": [
+            null,
+            "เป็นลักษณะที่มีแบบแผน ไม่ใช่การพลาดแบบสุ่ม",
+            "เป็นการตัดสินผู้พูด ไม่ใช่การวิเคราะห์",
+            "lah ไม่ใช่ลักษณะของอังกฤษแบบบริติช"
+          ]
+        },
+        {
+          "id": "ENL432-U7-08",
+          "skill": "ENL432-U7",
+          "difficulty": 3,
+          "stem": "Which statement about Thai speakers of English is the most sociolinguistically accurate?",
+          "options": [
+            "A Thai accent means the speaker cannot speak English well enough for international work.",
+            "Only a native-speaker accent is correct English.",
+            "A Thai accent is a normal feature of a variety; what matters is being understood.",
+            "Thai speakers should never use English at work."
+          ],
+          "answer": 2,
+          "explanation_th": "มองแบบไม่ตัดสินและเน้นความเข้าใจได้",
+          "why_wrong": [
+            "สำเนียงไม่ได้วัดความสามารถในการสื่อสาร",
+            "ขัดกับแนวคิด World Englishes",
+            null,
+            "ไม่มีเหตุผลรองรับ"
+          ]
+        },
+        {
+          "id": "ENL432-U7-09",
+          "skill": "ENL432-U7",
+          "difficulty": 2,
+          "stem": "Today, who makes up the majority of English users in the world?",
+          "options": [
+            "native speakers in the UK",
+            "people who use English as a second or foreign language",
+            "native speakers in the USA",
+            "native speakers in Australia"
+          ],
+          "answer": 1,
+          "explanation_th": "มีจำนวนมากกว่าเจ้าของภาษา",
+          "why_wrong": [
+            "เป็นส่วนน้อยของผู้ใช้ทั้งหมด",
+            null,
+            "มีจำนวนมาก แต่ยังน้อยกว่าผู้ใช้ที่ไม่ใช่เจ้าของภาษาทั้งหมด",
+            "เป็นส่วนน้อยของผู้ใช้ทั้งหมด"
+          ]
+        }
+      ]
+    }
+  ]
+}

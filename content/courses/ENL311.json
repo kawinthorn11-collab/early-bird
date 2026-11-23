@@ -1,0 +1,1630 @@
+{
+ "code": "ENL311",
+ "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+ "in_class_th": [
+  "น่าจะได้อภิปรายกลุ่มเล็กในหัวข้อที่คนเห็นต่างกันได้ เช่น ควรให้ใช้ AI ช่วยทำงานส่งไหม แล้วแต่ละคนต้องบอกจุดยืนพร้อมเหตุผล",
+  "น่าจะได้ฟังคลิปหรือบทสนทนาที่คนเห็นต่างกัน แล้วตอบว่าแต่ละคนมีประเด็นหลักอะไร",
+  "อาจต้องผลัดกันเป็นประธานวง (chair) ที่คุมเวลา เชิญเพื่อนพูด และสรุปตอนท้าย",
+  "อาจถูกให้คะแนนจากการมีส่วนร่วมในวง ไม่ใช่แค่ความถูกต้องของภาษา ต่อยอดจากการแสดงความเห็นใน ENL211"
+ ],
+ "units": [
+  {
+   "id": "ENL311-U1",
+   "title_th": "ผลัดกันพูดในวงอภิปราย",
+   "title_en": "Discussion basics and turn-taking",
+   "covers": "หลักการและลักษณะภาษาที่ใช้โต้ตอบ",
+   "minutes": 12,
+   "interview": [
+    "I29"
+   ],
+   "cards": [
+    {
+     "title_th": "อภิปรายไม่ใช่เถียงให้ชนะ",
+     "body_th": "เป้าหมายของการอภิปราย (discussion) คือช่วยกันคิดให้ลึกขึ้น ไม่ใช่ทำให้อีกฝ่ายแพ้ คนที่ได้คะแนนดีมักฟังเก่ง ถามดี และต่อยอดความคิดของคนอื่น"
+    },
+    {
+     "title_th": "ขอเข้าวง",
+     "body_th": "ถ้าอยากพูด รอจังหวะที่อีกคนหยุดหรือพูดจบประเด็น แล้วใช้ประโยคสั้น ๆ ขอเข้า",
+     "example": "Can I add something here? / Sorry to interrupt, but..."
+    },
+    {
+     "title_th": "ขอพูดให้จบ",
+     "body_th": "ถ้ามีคนแทรกตอนเรายังพูดไม่จบ บอกอย่างสุภาพว่าขอจบประเด็นก่อน",
+     "example": "Just a moment, let me finish this point."
+    },
+    {
+     "title_th": "ส่งไม้ต่อ",
+     "body_th": "พูดจบแล้วถามคนอื่น วงจะไม่เงียบ คนขี้อายใช้วิธีนี้ได้ดี พูดสั้น ๆ หนึ่งประเด็นแล้วส่งต่อ",
+     "example": "That's my view. What do you think, Ploy?"
+    }
+   ],
+   "vocab": [
+    [
+     "turn-taking",
+     "การผลัดกันพูด"
+    ],
+    [
+     "interrupt",
+     "พูดแทรก"
+    ],
+    [
+     "contribute",
+     "ร่วมแสดงความเห็น"
+    ],
+    [
+     "participant",
+     "ผู้ร่วมอภิปราย"
+    ],
+    [
+     "pause",
+     "การหยุดเว้นช่วง"
+    ],
+    [
+     "build on",
+     "ต่อยอดจาก"
+    ],
+    [
+     "hand over",
+     "ส่งต่อให้คนอื่นพูด"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL311-U1-01",
+     "skill": "ENL311-U1",
+     "difficulty": 1,
+     "stem": "You want to join a discussion politely. What do you say?",
+     "options": [
+      "Be quiet, it's my turn.",
+      "Can I add something here?",
+      "I'm leaving now.",
+      "You are wrong, listen to me."
+     ],
+     "answer": 1,
+     "explanation_th": "ถามขออนุญาตสั้น ๆ เป็นวิธีขอเข้าวงที่สุภาพ",
+     "why_wrong": [
+      "สั่งให้คนอื่นเงียบ ไม่สุภาพ",
+      null,
+      "เป็นการออกจากวง ไม่ใช่ขอพูด",
+      "ตัดสินว่าอีกฝ่ายผิดทันที แรงเกินไป"
+     ]
+    },
+    {
+     "id": "ENL311-U1-02",
+     "skill": "ENL311-U1",
+     "difficulty": 1,
+     "stem": "Someone starts talking while you are still speaking. You say: ___",
+     "options": [
+      "Thank you for your question.",
+      "Nice to meet you.",
+      "Could you speak louder? I can't hear you very well.",
+      "Sorry, let me just finish this point."
+     ],
+     "answer": 3,
+     "explanation_th": "ขอพูดให้จบอย่างสุภาพ",
+     "why_wrong": [
+      "ใช้ตอบคำถามหลังนำเสนอ ไม่ใช่ตอนโดนแทรก",
+      "ใช้ทักทายตอนเจอกันครั้งแรก",
+      "ใช้เมื่อได้ยินไม่ชัด ไม่ได้ช่วยรักษาตาพูดของเรา",
+      null
+     ]
+    },
+    {
+     "id": "ENL311-U1-03",
+     "skill": "ENL311-U1",
+     "difficulty": 1,
+     "stem": "Which phrase hands the turn to another person?",
+     "options": [
+      "What's your view on this, Ken?",
+      "Let me finish first.",
+      "Can I come in here?",
+      "Hold on a second."
+     ],
+     "answer": 0,
+     "explanation_th": "ถามความเห็นคนอื่นคือการส่งไม้ต่อ",
+     "why_wrong": [
+      null,
+      "เป็นการเก็บตาพูดไว้กับตัวเอง",
+      "เป็นการขอพูดเอง",
+      "ขอให้คนอื่นรอ ไม่ได้ให้คนอื่นพูด"
+     ]
+    },
+    {
+     "id": "ENL311-U1-04",
+     "skill": "ENL311-U1",
+     "difficulty": 2,
+     "stem": "Anna: I think online classes save time.\nBen: Can I come in here? They save time, but some students feel lonely.\nWhat is Ben doing?",
+     "options": [
+      "ending the discussion",
+      "asking Anna to repeat",
+      "joining the discussion and adding a different point",
+      "agreeing with everything Anna said and giving one more reason"
+     ],
+     "answer": 2,
+     "explanation_th": "Ben ขอเข้าวง แล้วเพิ่มอีกมุมหนึ่งด้วยคำว่า but",
+     "why_wrong": [
+      "เขายังคุยต่อในหัวข้อเดิม",
+      "เขาไม่ได้ขอให้พูดซ้ำ",
+      null,
+      "คำว่า but แสดงว่าเขาเพิ่มมุมที่ต่าง ไม่ได้เห็นด้วยทั้งหมด"
+     ]
+    },
+    {
+     "id": "ENL311-U1-05",
+     "skill": "ENL311-U1",
+     "difficulty": 1,
+     "stem": "In a good group discussion, the main goal is to ___.",
+     "options": [
+      "win by talking the most",
+      "agree with the first speaker quickly so that everyone stays friendly",
+      "read a prepared speech",
+      "think about the topic together and share ideas"
+     ],
+     "answer": 3,
+     "explanation_th": "การอภิปรายคือการช่วยกันคิด",
+     "why_wrong": [
+      "พูดมากที่สุดไม่ได้ทำให้การอภิปรายดีขึ้น",
+      "ถ้าเห็นด้วยทันทีก็ไม่ได้ช่วยกันคิด",
+      "การอ่านบทพูดคือการนำเสนอ ไม่ใช่การโต้ตอบ",
+      null
+     ]
+    },
+    {
+     "id": "ENL311-U1-06",
+     "skill": "ENL311-U1",
+     "difficulty": 2,
+     "stem": "What does 'build on' mean in 'I'd like to build on Mina's idea'?",
+     "options": [
+      "say that an idea is wrong",
+      "add more to an idea someone already gave",
+      "make a building",
+      "repeat an idea word for word"
+     ],
+     "answer": 1,
+     "explanation_th": "build on = ต่อยอดความคิดที่มีอยู่",
+     "why_wrong": [
+      "ความหมายตรงข้าม",
+      null,
+      "เป็นความหมายตรงตัว ไม่ใช่ในบริบทนี้",
+      "build on คือเพิ่ม ไม่ใช่พูดซ้ำ"
+     ]
+    },
+    {
+     "id": "ENL311-U1-07",
+     "skill": "ENL311-U1",
+     "difficulty": 2,
+     "stem": "You are shy and do not want to talk for long. What is a good way to take part?",
+     "options": [
+      "Stay silent for the whole discussion.",
+      "Talk over other people so that you can say everything quickly and finish.",
+      "Say one short point, then ask another person a question.",
+      "Only nod and say 'yes' to everything."
+     ],
+     "answer": 2,
+     "explanation_th": "พูดสั้นแล้วส่งต่อ ช่วยให้มีส่วนร่วมโดยไม่ต้องพูดนาน",
+     "why_wrong": [
+      "ไม่ได้มีส่วนร่วมเลย",
+      "พูดทับคนอื่นไม่สุภาพ",
+      null,
+      "ไม่ได้ให้ความเห็นของตัวเอง"
+     ]
+    },
+    {
+     "id": "ENL311-U1-08",
+     "skill": "ENL311-U1",
+     "difficulty": 2,
+     "stem": "When is the best moment to join a discussion?",
+     "options": [
+      "when the speaker pauses or finishes a point",
+      "in the middle of the speaker's sentence",
+      "after the discussion has ended",
+      "only when the teacher points at you"
+     ],
+     "answer": 0,
+     "explanation_th": "รอจังหวะที่คนพูดหยุด จะไม่ตัดความคิดเขา",
+     "why_wrong": [
+      null,
+      "ตัดกลางประโยคทำให้คนพูดเสียจังหวะ",
+      "สายเกินไป วงจบแล้ว",
+      "รอแต่ครูเรียกทำให้เสียโอกาสมีส่วนร่วม"
+     ]
+    }
+   ],
+   "say": [
+    "Sorry to interrupt, but can I add something here?",
+    "Just a moment, let me finish this point.",
+    "That's my view. What do you think, Ploy?"
+   ],
+   "task_th": "เลือกหัวข้อ 'Should university students wear uniforms?' เขียนประโยคขอเข้าวง 2 แบบ ขอพูดให้จบ 1 แบบ และส่งไม้ต่อ 1 แบบ แล้วอัดเสียงพูดทั้ง 4 ประโยคให้ฟังเป็นธรรมชาติ"
+  },
+  {
+   "id": "ENL311-U2",
+   "title_th": "เห็นด้วยและแย้งอย่างนุ่มนวลในเรื่องที่คนเห็นต่าง",
+   "title_en": "Agreeing and disagreeing on controversial topics",
+   "covers": "ลักษณะภาษาที่ใช้โต้ตอบในหัวข้อเชิงโต้แย้ง",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "หัวข้อเชิงโต้แย้งคืออะไร",
+     "body_th": "controversial topic คือเรื่องที่คนมีเหตุผลดีได้ทั้งสองฝั่ง เช่น ควรห้ามใช้มือถือในห้องเรียนไหม ไม่มีคำตอบเดียวที่ถูก ภาษาจึงต้องนุ่มนวล"
+    },
+    {
+     "title_th": "แย้งที่ความคิด ไม่ใช่ที่คน",
+     "body_th": "พูดถึงเหตุผลของเขา ไม่พูดถึงตัวเขา",
+     "example": "I see it differently. (ดี) / You're wrong. (แรงเกินไป)"
+    },
+    {
+     "title_th": "คำลดความแรง (softeners)",
+     "body_th": "เติม I think, maybe, might, a bit, not always ทำให้ประโยคแย้งฟังนุ่มขึ้นแต่ยังชัด",
+     "example": "I'm not sure that's always true."
+    },
+    {
+     "title_th": "เห็นด้วยบางส่วน",
+     "body_th": "ยอมรับส่วนที่จริงก่อน แล้วค่อยแย้ง ใน ENL211 ใช้ That's true, but... ตอนนี้เพิ่ม I agree up to a point, but...",
+     "example": "I agree up to a point, but what about students who live far away?"
+    },
+    {
+     "title_th": "ระดับความเห็นด้วย",
+     "body_th": "Absolutely. (เห็นด้วยมาก) / I suppose so. (เห็นด้วยแบบไม่เต็มที่) / I'm not so sure. (เริ่มไม่เห็นด้วย) / I really can't agree. (ไม่เห็นด้วยชัดเจน)"
+    }
+   ],
+   "vocab": [
+    [
+     "controversial",
+     "ที่เป็นข้อถกเถียง"
+    ],
+    [
+     "stance",
+     "จุดยืน"
+    ],
+    [
+     "disagree",
+     "ไม่เห็นด้วย"
+    ],
+    [
+     "partly",
+     "บางส่วน"
+    ],
+    [
+     "respectful",
+     "ที่ให้เกียรติ"
+    ],
+    [
+     "soften",
+     "ทำให้นุ่มนวลลง"
+    ],
+    [
+     "point of view",
+     "มุมมอง"
+    ],
+    [
+     "counter-argument",
+     "ข้อโต้แย้งกลับ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL311-U2-01",
+     "skill": "ENL311-U2",
+     "difficulty": 1,
+     "stem": "Which sentence disagrees politely?",
+     "options": [
+      "That's a stupid idea.",
+      "I see your point, but I'm not sure it's always true.",
+      "You never think before you speak, so your idea doesn't make sense.",
+      "No. Next topic."
+     ],
+     "answer": 1,
+     "explanation_th": "ยอมรับก่อนแล้วแย้งด้วยคำลดความแรง",
+     "why_wrong": [
+      "ดูถูกความคิด หยาบคาย",
+      null,
+      "โจมตีตัวบุคคล ไม่ใช่ความคิด",
+      "ตัดบทโดยไม่ให้เหตุผล"
+     ]
+    },
+    {
+     "id": "ENL311-U2-02",
+     "skill": "ENL311-U2",
+     "difficulty": 1,
+     "stem": "Which topic is the most controversial?",
+     "options": [
+      "What time does the university library open on Saturdays and Sundays?",
+      "How many days are there in a week?",
+      "What is the capital of Thailand?",
+      "Should the government ban fast food adverts for children?"
+     ],
+     "answer": 3,
+     "explanation_th": "คนมีเหตุผลได้ทั้งสองฝั่ง จึงเป็นข้อถกเถียง",
+     "why_wrong": [
+      "เป็นข้อเท็จจริงที่เช็กได้ ไม่มีให้เถียง",
+      "มีคำตอบเดียว",
+      "มีคำตอบเดียวที่ทุกคนรู้",
+      null
+     ]
+    },
+    {
+     "id": "ENL311-U2-03",
+     "skill": "ENL311-U2",
+     "difficulty": 2,
+     "stem": "'I agree up to a point.' This means the speaker ___.",
+     "options": [
+      "agrees with part of the idea but not all of it",
+      "agrees completely",
+      "does not agree at all",
+      "wants to change the topic"
+     ],
+     "answer": 0,
+     "explanation_th": "up to a point = ถึงระดับหนึ่ง คือเห็นด้วยบางส่วน",
+     "why_wrong": [
+      null,
+      "ถ้าเห็นด้วยทั้งหมดจะไม่พูดว่า up to a point",
+      "ยังเห็นด้วยบางส่วนอยู่",
+      "ไม่เกี่ยวกับการเปลี่ยนเรื่อง"
+     ]
+    },
+    {
+     "id": "ENL311-U2-04",
+     "skill": "ENL311-U2",
+     "difficulty": 2,
+     "stem": "Which word makes this sentence softer? 'That ___ not work for every student.'",
+     "options": [
+      "will",
+      "must",
+      "might",
+      "does"
+     ],
+     "answer": 2,
+     "explanation_th": "might แสดงความเป็นไปได้ ฟังไม่ฟันธง",
+     "why_wrong": [
+      "will ฟังมั่นใจ แรงกว่า",
+      "must ฟังเด็ดขาด",
+      null,
+      "does not บอกเหมือนเป็นข้อเท็จจริงแน่นอน ไม่ได้ลดความแรง"
+     ]
+    },
+    {
+     "id": "ENL311-U2-05",
+     "skill": "ENL311-U2",
+     "difficulty": 2,
+     "stem": "Nat: Homework should be banned.\nJoy: That's true for young children, but university students need practice.\nWhat does Joy do?",
+     "options": [
+      "She agrees completely.",
+      "She attacks Nat as a person.",
+      "She asks Nat to explain again what he means by 'banned'.",
+      "She agrees partly, then gives a different view."
+     ],
+     "answer": 3,
+     "explanation_th": "That's true... but คือเห็นด้วยบางส่วนแล้วแย้ง",
+     "why_wrong": [
+      "มี but ตามด้วยความเห็นต่าง",
+      "เธอพูดถึงความคิด ไม่ได้พูดถึงตัว Nat",
+      "เธอไม่ได้ถามอะไร",
+      null
+     ]
+    },
+    {
+     "id": "ENL311-U2-06",
+     "skill": "ENL311-U2",
+     "difficulty": 1,
+     "stem": "Which phrase shows strong agreement?",
+     "options": [
+      "I suppose so.",
+      "Absolutely, I couldn't agree more.",
+      "I'm not so sure.",
+      "I see it differently."
+     ],
+     "answer": 1,
+     "explanation_th": "couldn't agree more = เห็นด้วยที่สุด",
+     "why_wrong": [
+      "เห็นด้วยแบบไม่เต็มใจ",
+      null,
+      "เริ่มไม่เห็นด้วย",
+      "เป็นการแย้ง"
+     ]
+    },
+    {
+     "id": "ENL311-U2-07",
+     "skill": "ENL311-U2",
+     "difficulty": 2,
+     "stem": "Why is 'You're wrong' a poor choice in a discussion on a controversial topic?",
+     "options": [
+      "It is grammatically incorrect, because 'You're' should be 'Your' here.",
+      "It is too long.",
+      "It sounds like an attack, and the topic has no single right answer.",
+      "It is too formal for students."
+     ],
+     "answer": 2,
+     "explanation_th": "เรื่องที่มีหลายมุม การบอกว่าผิดเลยฟังแรงและปิดวง",
+     "why_wrong": [
+      "ไวยากรณ์ถูก You're ย่อมาจาก You are ปัญหาอยู่ที่ความสุภาพ",
+      "ประโยคสั้นมาก",
+      null,
+      "ไม่ได้เป็นทางการ แต่แรงเกินไป"
+     ]
+    },
+    {
+     "id": "ENL311-U2-08",
+     "skill": "ENL311-U2",
+     "difficulty": 3,
+     "stem": "A classmate gives a good reason that changes your mind. What is the best response?",
+     "options": [
+      "That's a fair point. I hadn't thought of that.",
+      "I still think I'm right, whatever you say.",
+      "Let's not talk about this.",
+      "Who told you that?"
+     ],
+     "answer": 0,
+     "explanation_th": "ยอมรับอย่างเปิดใจเมื่อเจอเหตุผลที่ดี",
+     "why_wrong": [
+      null,
+      "ไม่ฟังเหตุผลของอีกฝ่าย",
+      "ตัดบททั้งที่ได้เหตุผลดี",
+      "ฟังเหมือนท้าทายผู้พูด ไม่ได้ตอบที่เหตุผล"
+     ]
+    }
+   ],
+   "say": [
+    "I see your point, but I see it a bit differently.",
+    "I agree up to a point, but what about students who live far away?",
+    "That's a fair point. I hadn't thought of that."
+   ],
+   "task_th": "เลือกหัวข้อ 'Phones should be banned in class.' เขียนประโยคเห็นด้วย 1 ประโยค เห็นด้วยบางส่วน 1 ประโยค และแย้งอย่างนุ่มนวล 1 ประโยค ใส่คำลดความแรงอย่างน้อย 1 คำในประโยคแย้ง แล้วอัดเสียงอ่าน"
+  },
+  {
+   "id": "ENL311-U3",
+   "title_th": "ขอคำอธิบายและเช็กว่าเข้าใจตรงกัน",
+   "title_en": "Asking for clarification and checking understanding",
+   "covers": "ภาษาที่ใช้โต้ตอบ",
+   "minutes": 10,
+   "interview": [
+    "I47"
+   ],
+   "cards": [
+    {
+     "title_th": "ไม่เข้าใจ ถามได้",
+     "body_th": "ในวงอภิปราย การถามเมื่อไม่เข้าใจเป็นเรื่องดี ทำให้ทั้งวงคุยเรื่องเดียวกัน ไม่ใช่การยอมแพ้",
+     "example": "Sorry, what exactly do you mean by 'fair'?"
+    },
+    {
+     "title_th": "ขอตัวอย่าง หรือขอให้เจาะจง",
+     "body_th": "ถ้าความคิดกว้างเกินไป ขอตัวอย่างหรือถามว่าหมายถึงอะไรแน่",
+     "example": "Could you give an example? / What kind of transport do you mean?"
+    },
+    {
+     "title_th": "ทวนด้วยคำของเรา",
+     "body_th": "พูดสิ่งที่ได้ยินด้วยคำของเราเอง (paraphrase) แล้วถามว่าถูกไหม",
+     "example": "So you're saying that rent is the biggest problem. Is that right?"
+    },
+    {
+     "title_th": "เมื่อคนอื่นไม่เข้าใจเรา",
+     "body_th": "อธิบายใหม่ด้วยคำที่ง่ายกว่า แล้วเช็กว่าเข้าใจไหม",
+     "example": "Let me put it another way. ... Does that make sense?"
+    }
+   ],
+   "vocab": [
+    [
+     "clarify",
+     "ทำให้ชัดเจน"
+    ],
+    [
+     "clarification",
+     "คำอธิบายเพิ่มเติม"
+    ],
+    [
+     "paraphrase",
+     "ถอดความด้วยคำของตัวเอง"
+    ],
+    [
+     "misunderstand",
+     "เข้าใจผิด"
+    ],
+    [
+     "confirm",
+     "ยืนยัน"
+    ],
+    [
+     "specific",
+     "เฉพาะเจาะจง"
+    ],
+    [
+     "put it another way",
+     "พูดอีกแบบหนึ่ง"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL311-U3-01",
+     "skill": "ENL311-U3",
+     "difficulty": 1,
+     "stem": "You don't understand a word your classmate used. Which question is best?",
+     "options": [
+      "Why are you talking?",
+      "Sorry, what do you mean by 'sustainable'?",
+      "Can we stop now?",
+      "Are you sure you're a student?"
+     ],
+     "answer": 1,
+     "explanation_th": "ถามเจาะคำที่ไม่เข้าใจอย่างสุภาพ",
+     "why_wrong": [
+      "ฟังเหมือนตำหนิ",
+      null,
+      "ไม่ได้ขอคำอธิบาย",
+      "ดูถูกผู้พูด"
+     ]
+    },
+    {
+     "id": "ENL311-U3-02",
+     "skill": "ENL311-U3",
+     "difficulty": 1,
+     "stem": "Which question asks for an example?",
+     "options": [
+      "Could you speak a bit more slowly, please?",
+      "Could you say that again?",
+      "Could you sit down, please?",
+      "Could you give me an example of that?"
+     ],
+     "answer": 3,
+     "explanation_th": "ขอตัวอย่างตรง ๆ",
+     "why_wrong": [
+      "ขอให้พูดช้าลง ไม่ใช่ขอตัวอย่าง",
+      "ขอให้พูดซ้ำ ไม่ใช่ขอตัวอย่าง",
+      "ไม่เกี่ยวกับเนื้อหา",
+      null
+     ]
+    },
+    {
+     "id": "ENL311-U3-03",
+     "skill": "ENL311-U3",
+     "difficulty": 2,
+     "stem": "Mai: Living in the city is stressful.\nTom: So you're saying city life makes people tired and worried. Is that right?\nWhat is Tom doing?",
+     "options": [
+      "checking his understanding by paraphrasing",
+      "disagreeing with Mai",
+      "changing the topic",
+      "giving his own opinion"
+     ],
+     "answer": 0,
+     "explanation_th": "Tom ทวนความคิดของ Mai ด้วยคำของตัวเองแล้วถามว่าถูกไหม",
+     "why_wrong": [
+      null,
+      "เขาไม่ได้แย้ง",
+      "ยังอยู่ในเรื่องเดิม",
+      "เขาทวนความคิดของ Mai ไม่ใช่ของตัวเอง"
+     ]
+    },
+    {
+     "id": "ENL311-U3-04",
+     "skill": "ENL311-U3",
+     "difficulty": 2,
+     "stem": "Your group looks confused after you speak. What can you say?",
+     "options": [
+      "You should listen more carefully.",
+      "That's all I want to say.",
+      "Let me put it another way.",
+      "Never mind, it's not important."
+     ],
+     "answer": 2,
+     "explanation_th": "บอกว่าจะอธิบายใหม่ด้วยคำอื่น",
+     "why_wrong": [
+      "โทษผู้ฟัง",
+      "ปล่อยให้ทุกคนงงต่อไป",
+      null,
+      "ทิ้งความคิดตัวเองทั้งที่ยังอธิบายไม่ชัด"
+     ]
+    },
+    {
+     "id": "ENL311-U3-05",
+     "skill": "ENL311-U3",
+     "difficulty": 1,
+     "stem": "'Paraphrase' means ___.",
+     "options": [
+      "say the same words again",
+      "translate into Thai",
+      "write a long essay",
+      "say the same idea in your own words"
+     ],
+     "answer": 3,
+     "explanation_th": "paraphrase = ถอดความด้วยคำของตัวเอง",
+     "why_wrong": [
+      "นั่นคือ repeat",
+      "ไม่จำเป็นต้องแปล",
+      "ไม่เกี่ยวกับความหมายนี้",
+      null
+     ]
+    },
+    {
+     "id": "ENL311-U3-06",
+     "skill": "ENL311-U3",
+     "difficulty": 2,
+     "stem": "Which question checks that the other person understood YOU?",
+     "options": [
+      "What do you mean?",
+      "Does that make sense?",
+      "Could you repeat that?",
+      "Can I add something?"
+     ],
+     "answer": 1,
+     "explanation_th": "ถามว่าสิ่งที่เราพูดเข้าใจไหม",
+     "why_wrong": [
+      "ใช้เมื่อเราไม่เข้าใจเขา",
+      null,
+      "ใช้เมื่อเราได้ยินไม่ชัด",
+      "เป็นการขอพูดเพิ่ม"
+     ]
+    },
+    {
+     "id": "ENL311-U3-07",
+     "skill": "ENL311-U3",
+     "difficulty": 2,
+     "stem": "Ken: We need better transport.\nWhich question asks Ken to be more specific?",
+     "options": [
+      "Do you like transport?",
+      "Is transport important?",
+      "What kind of transport do you mean, buses or trains?",
+      "Why do you always talk about transport in every single meeting?"
+     ],
+     "answer": 2,
+     "explanation_th": "ถามให้เจาะจงว่าหมายถึงอะไร",
+     "why_wrong": [
+      "เป็นคำถามใช่ไม่ใช่ ไม่ได้ทำให้ชัดขึ้น",
+      "Ken บอกแล้วว่าต้องการ ไม่ได้ทำให้เจาะจงขึ้น",
+      null,
+      "ฟังเหมือนตำหนิ"
+     ]
+    },
+    {
+     "id": "ENL311-U3-08",
+     "skill": "ENL311-U3",
+     "difficulty": 3,
+     "stem": "Which response clears up a misunderstanding best?",
+     "options": [
+      "Sorry, I wasn't clear. I mean rent is too high, not food.",
+      "You misunderstood me again. Please listen more carefully next time.",
+      "Forget it.",
+      "Yes, yes, whatever you think."
+     ],
+     "answer": 0,
+     "explanation_th": "ยอมรับว่าตัวเองพูดไม่ชัด แล้วบอกความหมายที่ถูก",
+     "why_wrong": [
+      null,
+      "โทษผู้ฟัง และไม่ได้อธิบายว่าหมายถึงอะไร",
+      "ไม่ได้แก้ความเข้าใจผิด",
+      "ปล่อยให้เข้าใจผิดต่อ"
+     ]
+    }
+   ],
+   "say": [
+    "Sorry, what exactly do you mean by 'fair'?",
+    "So you're saying that rent is too high. Is that right?",
+    "Let me put it another way."
+   ],
+   "task_th": "ดูคลิปภาษาอังกฤษสั้น ๆ 1-2 นาทีที่มีคนแสดงความเห็น หยุดคลิป 2 ครั้ง แล้วพูดทวนด้วย So you're saying that... ด้วยคำของตัวเอง จากนั้นเขียนคำถามขอตัวอย่าง 1 ข้อ"
+  },
+  {
+   "id": "ENL311-U4",
+   "title_th": "จับประเด็นหลักของแต่ละคนในวง",
+   "title_en": "Catching each speaker's main point",
+   "covers": "การจับประเด็นหลัก",
+   "minutes": 12,
+   "lessons": [
+    "L28"
+   ],
+   "cards": [
+    {
+     "title_th": "ประเด็นหลักของแต่ละคน",
+     "body_th": "ในวงอภิปราย แต่ละคนมีจุดยืน (stance) และเหตุผลหลัก ฟังให้ได้ว่า 'เขาอยู่ฝั่งไหน เพราะอะไร' ไม่ต้องจำทุกคำ"
+    },
+    {
+     "title_th": "คำสัญญาณประเด็นหลัก",
+     "body_th": "ฟังคำอย่าง My main point is..., The key thing is..., What I'm really saying is... คำที่ตามมามักเป็นประเด็นหลัก"
+    },
+    {
+     "title_th": "รายละเอียดไม่ใช่ประเด็น",
+     "body_th": "ตัวอย่าง ตัวเลข และเรื่องเล่าเป็นตัวสนับสนุน ถามตัวเองว่า 'ตัวอย่างนี้สนับสนุนความคิดอะไร'"
+    },
+    {
+     "title_th": "จดแบบสั้น",
+     "body_th": "จดชื่อคน + ฝั่ง (+ หรือ -) + เหตุผล 2-3 คำ",
+     "example": "Mai: - , too expensive / Jay: + , saves time"
+    }
+   ],
+   "vocab": [
+    [
+     "main point",
+     "ประเด็นหลัก"
+    ],
+    [
+     "stance",
+     "จุดยืน"
+    ],
+    [
+     "supporting detail",
+     "รายละเอียดสนับสนุน"
+    ],
+    [
+     "key",
+     "สำคัญที่สุด"
+    ],
+    [
+     "take notes",
+     "จดบันทึก"
+    ],
+    [
+     "in short",
+     "พูดสั้น ๆ คือ"
+    ],
+    [
+     "position",
+     "ฝ่ายหรือจุดยืน"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL311-U4-01",
+     "skill": "ENL311-U4",
+     "difficulty": 1,
+     "stem": "Lek: I don't think we should have exams. They only test memory. Last year I forgot everything a week after the test.\nWhat is Lek's main point?",
+     "options": [
+      "Lek forgot everything last year.",
+      "Exams only test memory, so we should not have them.",
+      "Exams are always in the morning.",
+      "Lek likes studying for exams."
+     ],
+     "answer": 1,
+     "explanation_th": "จุดยืนคือไม่ควรมีสอบ เหตุผลคือวัดแค่ความจำ",
+     "why_wrong": [
+      "เป็นตัวอย่างสนับสนุน ไม่ใช่ประเด็นหลัก",
+      null,
+      "Lek ไม่ได้พูดถึง",
+      "ขัดกับที่ Lek พูด"
+     ]
+    },
+    {
+     "id": "ENL311-U4-02",
+     "skill": "ENL311-U4",
+     "difficulty": 1,
+     "stem": "Which phrase often comes right before a speaker's main point?",
+     "options": [
+      "For example...",
+      "By the way...",
+      "Sorry, could you repeat that?",
+      "The key thing is..."
+     ],
+     "answer": 3,
+     "explanation_th": "เป็นคำสัญญาณบอกประเด็นสำคัญ",
+     "why_wrong": [
+      "ตามด้วยตัวอย่าง",
+      "พาไปเรื่องข้างเคียง",
+      "เป็นการขอให้พูดซ้ำ",
+      null
+     ]
+    },
+    {
+     "id": "ENL311-U4-03",
+     "skill": "ENL311-U4",
+     "difficulty": 2,
+     "stem": "Pim: A four-day school week is a good idea. Students would have more time to rest.\nJay: Maybe, but parents who work five days would have problems with childcare.\nWhat is Jay's stance?",
+     "options": [
+      "He has doubts because of problems for working parents.",
+      "He fully supports a four-day week because students need more rest.",
+      "He thinks students need more rest.",
+      "He has no opinion."
+     ],
+     "answer": 0,
+     "explanation_th": "Maybe, but... แสดงว่ามีข้อกังวล เหตุผลคือเรื่องพ่อแม่ที่ทำงาน",
+     "why_wrong": [
+      null,
+      "Maybe, but แสดงว่าไม่ได้สนับสนุนเต็มที่",
+      "นั่นเป็นเหตุผลของ Pim",
+      "เขาให้เหตุผลชัดเจน"
+     ]
+    },
+    {
+     "id": "ENL311-U4-04",
+     "skill": "ENL311-U4",
+     "difficulty": 2,
+     "stem": "'For example, my cousin pays 8,000 baht a month for a small room.' In a discussion, this sentence is most likely ___.",
+     "options": [
+      "the main point",
+      "a question",
+      "a supporting detail",
+      "a summary of the discussion"
+     ],
+     "answer": 2,
+     "explanation_th": "เป็นตัวอย่างเดียว ใช้สนับสนุนความคิดหลัก",
+     "why_wrong": [
+      "ประเด็นหลักน่าจะเป็นเรื่องค่าเช่าแพง ประโยคนี้เป็นแค่ตัวอย่าง",
+      "เป็นประโยคบอกเล่า",
+      null,
+      "พูดถึงคนคนเดียว ไม่ได้สรุปทั้งวง"
+     ]
+    },
+    {
+     "id": "ENL311-U4-05",
+     "skill": "ENL311-U4",
+     "difficulty": 2,
+     "stem": "Which is the best short note for this opinion? 'I really believe public transport should be free, because it would reduce traffic.'",
+     "options": [
+      "transport, believe, really, because",
+      "traffic is bad",
+      "free transport: - , expensive",
+      "free transport: + , less traffic"
+     ],
+     "answer": 3,
+     "explanation_th": "จดจุดยืน (+) และเหตุผลสั้น ๆ",
+     "why_wrong": [
+      "จดคำที่ไม่สำคัญ ไม่ได้บอกจุดยืน",
+      "ขาดจุดยืนเรื่องรถฟรี",
+      "จดฝั่งผิด และเหตุผลไม่ใช่ของผู้พูด",
+      null
+     ]
+    },
+    {
+     "id": "ENL311-U4-06",
+     "skill": "ENL311-U4",
+     "difficulty": 1,
+     "stem": "When you listen to a discussion, you do NOT need to ___.",
+     "options": [
+      "know which side each person is on",
+      "remember every word each person says",
+      "notice each person's main reason",
+      "listen for key phrases"
+     ],
+     "answer": 1,
+     "explanation_th": "ไม่ต้องจำทุกคำ จับแค่จุดยืนและเหตุผล",
+     "why_wrong": [
+      "ต้องรู้ ถึงจะจับประเด็นได้",
+      null,
+      "ต้องจับเหตุผลหลัก",
+      "ควรฟังคำสัญญาณ"
+     ]
+    },
+    {
+     "id": "ENL311-U4-07",
+     "skill": "ENL311-U4",
+     "difficulty": 3,
+     "stem": "Aom: Online shopping is convenient.\nBen: True, but small local shops are closing because of it.\nAom: I see. So maybe we should support local shops sometimes.\nHow does Aom's view change?",
+     "options": [
+      "She now thinks online shopping should be banned to protect local shops.",
+      "She does not change her view at all.",
+      "She still likes online shopping but now sees value in local shops.",
+      "She thinks Ben is wrong."
+     ],
+     "answer": 2,
+     "explanation_th": "I see และ maybe we should support... แสดงว่าเธอขยับความคิด",
+     "why_wrong": [
+      "เธอไม่ได้พูดถึงการห้าม แค่บอกว่าควรสนับสนุนร้านท้องถิ่นบ้าง",
+      "เธอเสนอให้สนับสนุนร้านท้องถิ่น แสดงว่าเปลี่ยนบ้าง",
+      null,
+      "I see แสดงว่าเธอยอมรับเหตุผลของ Ben"
+     ]
+    },
+    {
+     "id": "ENL311-U4-08",
+     "skill": "ENL311-U4",
+     "difficulty": 2,
+     "stem": "Which question checks a speaker's main point?",
+     "options": [
+      "So your main point is that the fee is too high, right?",
+      "How old are you?",
+      "Can I go next?",
+      "Did you say 'fee' or 'free'? I didn't hear that word clearly."
+     ],
+     "answer": 0,
+     "explanation_th": "ทวนประเด็นหลักแล้วถามยืนยัน",
+     "why_wrong": [
+      null,
+      "ไม่เกี่ยวกับประเด็น",
+      "เป็นการขอพูด",
+      "เช็กคำเดียว ไม่ใช่ประเด็นหลัก"
+     ]
+    }
+   ],
+   "say": [
+    "So your main point is that the fee is too high, right?",
+    "In short, Mai is against it because it costs too much."
+   ],
+   "task_th": "ฟังพอดแคสต์หรือรายการภาษาอังกฤษที่มีคน 2 คนเห็นต่างกัน 3-5 นาที จดแบบสั้น ชื่อ + ฝั่ง + เหตุผล แล้วพูดสรุปคนละ 1 ประโยคด้วย In short, ... thinks ... because ..."
+  },
+  {
+   "id": "ENL311-U5",
+   "title_th": "แสดงความเห็นพร้อมเหตุผลและหลักฐาน",
+   "title_en": "Giving opinions with reasons and evidence",
+   "covers": "การแสดงความคิดเห็น",
+   "minutes": 12,
+   "lessons": [
+    "L09"
+   ],
+   "interview": [
+    "I17"
+   ],
+   "cards": [
+    {
+     "title_th": "ความเห็น + เหตุผล + หลักฐาน",
+     "body_th": "โครงง่าย ๆ: Opinion (คิดว่าอะไร) + Reason (เพราะอะไร) + Evidence/Example (ข้อมูลหรือตัวอย่าง) ความเห็นที่มีหลักฐานจะมีน้ำหนักกว่า",
+     "example": "I think the library should open later, because many students study at night. For example, ..."
+    },
+    {
+     "title_th": "หลักฐานมีหลายแบบ",
+     "body_th": "ตัวเลขหรือผลสำรวจ ตัวอย่างจริง ความเห็นผู้เชี่ยวชาญ ประสบการณ์ตรง ตัวเลขจากแหล่งที่เชื่อถือได้มักหนักแน่นกว่าเรื่องเล่าของคนคนเดียว"
+    },
+    {
+     "title_th": "ระดับความมั่นใจ",
+     "body_th": "I'm convinced that... (มั่นใจมาก) / In my opinion... (ปกติ) / I tend to think... (มั่นใจน้อยกว่า) เลือกให้ตรงกับหลักฐานที่มี"
+    },
+    {
+     "title_th": "ระวังเหตุผลวน",
+     "body_th": "'It's good because it's good' ไม่ใช่เหตุผล เหตุผลต้องบอกผลหรือข้อมูลใหม่"
+    }
+   ],
+   "vocab": [
+    [
+     "evidence",
+     "หลักฐาน"
+    ],
+    [
+     "reason",
+     "เหตุผล"
+    ],
+    [
+     "claim",
+     "ข้อกล่าวอ้าง"
+    ],
+    [
+     "source",
+     "แหล่งที่มา"
+    ],
+    [
+     "survey",
+     "การสำรวจ"
+    ],
+    [
+     "convinced",
+     "มั่นใจ เชื่อแน่"
+    ],
+    [
+     "support",
+     "สนับสนุน"
+    ],
+    [
+     "reliable",
+     "เชื่อถือได้"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL311-U5-01",
+     "skill": "ENL311-U5",
+     "difficulty": 1,
+     "stem": "Which sentence gives an opinion AND a reason?",
+     "options": [
+      "Bikes are popular.",
+      "I think bikes are better in the city because they don't cause traffic jams.",
+      "I think bikes are much better than cars, and everyone in the city should ride one.",
+      "Do you ride a bike?"
+     ],
+     "answer": 1,
+     "explanation_th": "มีทั้ง I think และ because",
+     "why_wrong": [
+      "บอกข้อมูล ไม่มีเหตุผล",
+      null,
+      "มีแต่ความเห็นสองข้อ ไม่มีเหตุผลสนับสนุน",
+      "เป็นคำถาม"
+     ]
+    },
+    {
+     "id": "ENL311-U5-02",
+     "skill": "ENL311-U5",
+     "difficulty": 2,
+     "stem": "Which is the strongest evidence for 'Many students don't get enough sleep'?",
+     "options": [
+      "My friend looks tired.",
+      "Everyone knows that students stay up late playing games and are always tired.",
+      "Sleep is nice.",
+      "A 2,000-student health survey found most slept under six hours."
+     ],
+     "answer": 3,
+     "explanation_th": "ข้อมูลจากการสำรวจคนจำนวนมาก หนักแน่นที่สุด",
+     "why_wrong": [
+      "เป็นคนเดียว น้ำหนักน้อย",
+      "เป็นการเหมารวม ไม่มีข้อมูลรองรับ ไม่ใช่หลักฐาน",
+      "เป็นความรู้สึก ไม่ใช่หลักฐาน",
+      null
+     ]
+    },
+    {
+     "id": "ENL311-U5-03",
+     "skill": "ENL311-U5",
+     "difficulty": 2,
+     "stem": "'Online classes are better because they are better.' What is the problem?",
+     "options": [
+      "The reason just repeats the opinion.",
+      "It has a grammar mistake.",
+      "It is too long.",
+      "It uses 'because'."
+     ],
+     "answer": 0,
+     "explanation_th": "เหตุผลวน ไม่ได้ให้ข้อมูลใหม่",
+     "why_wrong": [
+      null,
+      "ไวยากรณ์ถูก",
+      "ประโยคสั้นมาก",
+      "การใช้ because ไม่ผิด ปัญหาคือเนื้อหาของเหตุผล"
+     ]
+    },
+    {
+     "id": "ENL311-U5-04",
+     "skill": "ENL311-U5",
+     "difficulty": 1,
+     "stem": "Choose the best word: 'I want to save money, ___ I cook at home.'",
+     "options": [
+      "because",
+      "although",
+      "so",
+      "but"
+     ],
+     "answer": 2,
+     "explanation_th": "so บอกผล: อยากประหยัด จึงทำอาหารเอง",
+     "why_wrong": [
+      "because บอกเหตุ ความหมายจะกลับกันและไม่สมเหตุผล",
+      "although ใช้กับสิ่งที่ขัดกัน",
+      null,
+      "สองส่วนไม่ได้ขัดกัน"
+     ]
+    },
+    {
+     "id": "ENL311-U5-05",
+     "skill": "ENL311-U5",
+     "difficulty": 2,
+     "stem": "Which opening sounds the MOST certain?",
+     "options": [
+      "I tend to think...",
+      "I'm not sure, but maybe...",
+      "It might be that...",
+      "I'm convinced that..."
+     ],
+     "answer": 3,
+     "explanation_th": "convinced = เชื่อแน่",
+     "why_wrong": [
+      "มั่นใจน้อยกว่า",
+      "ลังเล",
+      "ลังเล",
+      null
+     ]
+    },
+    {
+     "id": "ENL311-U5-06",
+     "skill": "ENL311-U5",
+     "difficulty": 2,
+     "stem": "'According to the city's report, the number of bus users went up by 20% last year.' This sentence gives ___.",
+     "options": [
+      "a personal feeling",
+      "evidence from a source",
+      "a question",
+      "a joke"
+     ],
+     "answer": 1,
+     "explanation_th": "อ้างตัวเลขจากรายงาน",
+     "why_wrong": [
+      "เป็นตัวเลขจากรายงาน ไม่ใช่ความรู้สึก",
+      null,
+      "เป็นประโยคบอกเล่า",
+      "ไม่มีอะไรตลก"
+     ]
+    },
+    {
+     "id": "ENL311-U5-07",
+     "skill": "ENL311-U5",
+     "difficulty": 2,
+     "stem": "Choose the best word: '___ online classes are flexible, many students miss talking to friends face to face.'",
+     "options": [
+      "Because",
+      "So",
+      "Although",
+      "However"
+     ],
+     "answer": 2,
+     "explanation_th": "although เชื่อมสองความคิดที่ขัดกันในประโยคเดียว",
+     "why_wrong": [
+      "ส่วนแรกไม่ใช่สาเหตุของส่วนหลัง",
+      "so ไม่ขึ้นต้นประโยคแบบนี้ และไม่ใช่ผล",
+      null,
+      "however ไม่ใช้เชื่อมแบบนี้ ต้องอยู่อีกประโยคตามด้วยจุลภาค"
+     ]
+    },
+    {
+     "id": "ENL311-U5-08",
+     "skill": "ENL311-U5",
+     "difficulty": 3,
+     "stem": "Your partner says, 'Free university for everyone is a bad idea.' Which follow-up question best asks for their evidence?",
+     "options": [
+      "What makes you say that? Do you have any numbers or examples?",
+      "Why are you so negative?",
+      "Do you like university?",
+      "Can we talk about something else instead, like sports or music?"
+     ],
+     "answer": 0,
+     "explanation_th": "ขอเหตุผลและหลักฐานอย่างสุภาพ",
+     "why_wrong": [
+      null,
+      "ฟังเหมือนตำหนิ",
+      "ไม่ได้ถามหลักฐาน",
+      "เปลี่ยนเรื่อง ไม่ได้ถามหลักฐาน"
+     ]
+    }
+   ],
+   "say": [
+    "In my opinion, the library should stay open later, because many students study at night.",
+    "One reason is cost. Another reason is time.",
+    "Let me give you an example."
+   ],
+   "task_th": "เลือกหัวข้อ 'Should university classes start at 10 a.m.?' เขียนความเห็น 1 ประโยค เหตุผล 2 ข้อ และตัวอย่างหรือหลักฐาน 1 อย่าง แล้วพูดจับเวลาให้ได้ 45 วินาที"
+  },
+  {
+   "id": "ENL311-U6",
+   "title_th": "สรุปการอภิปราย",
+   "title_en": "Summarising a discussion",
+   "covers": "รวมทั้งฝึกฟังและอภิปราย",
+   "minutes": 12,
+   "lessons": [
+    "L27"
+   ],
+   "cards": [
+    {
+     "title_th": "ทำไมต้องสรุป",
+     "body_th": "ตอนท้ายวงหรือก่อนเปลี่ยนหัวข้อ การสรุปช่วยให้ทุกคนเห็นภาพเดียวกัน ในห้องเรียน อาจารย์มักให้แต่ละกลุ่มสรุปให้ทั้งห้องฟัง"
+    },
+    {
+     "title_th": "สูตรสรุป",
+     "body_th": "ฝั่งที่เห็นด้วย + เหตุผล / ฝั่งที่ไม่เห็นด้วย + เหตุผล / จุดที่ตกลงกันได้",
+     "example": "Some of us felt..., while others thought... We all agreed that..."
+    },
+    {
+     "title_th": "รายงานคำพูดคนอื่น",
+     "body_th": "ใช้ said / pointed out / argued / suggested + that และระวัง tense แบบ reported speech",
+     "example": "Mina pointed out that rent was too high."
+    },
+    {
+     "title_th": "สรุปไม่ใช่เพิ่ม",
+     "body_th": "ตอนสรุป ไม่ใส่ความเห็นใหม่ของเรา และไม่เล่าทุกคำ เลือกแค่ประเด็นหลักของทุกฝั่งอย่างเป็นกลาง"
+    }
+   ],
+   "vocab": [
+    [
+     "summarise",
+     "สรุป"
+    ],
+    [
+     "point out",
+     "ชี้ให้เห็น"
+    ],
+    [
+     "argue",
+     "ให้เหตุผลสนับสนุนความเห็น"
+    ],
+    [
+     "suggest",
+     "เสนอแนะ"
+    ],
+    [
+     "overall",
+     "โดยรวม"
+    ],
+    [
+     "consensus",
+     "ความเห็นพ้องของกลุ่ม"
+    ],
+    [
+     "while",
+     "ในขณะที่ (ใช้เทียบความต่าง)"
+    ],
+    [
+     "neutral",
+     "เป็นกลาง"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL311-U6-01",
+     "skill": "ENL311-U6",
+     "difficulty": 1,
+     "stem": "Which phrase starts a summary?",
+     "options": [
+      "For example, ...",
+      "So, to sum up, ...",
+      "Can I add something?",
+      "First of all, ..."
+     ],
+     "answer": 1,
+     "explanation_th": "to sum up = สรุป",
+     "why_wrong": [
+      "ใช้เริ่มตัวอย่าง",
+      null,
+      "ใช้ขอเข้าวง",
+      "ใช้เริ่มประเด็นแรก ไม่ใช่สรุป"
+     ]
+    },
+    {
+     "id": "ENL311-U6-02",
+     "skill": "ENL311-U6",
+     "difficulty": 2,
+     "stem": "A: We should plant more trees on campus. They give shade.\nB: Yes, and they make the air cleaner.\nC: I agree, but we need money to look after them.\nWhich is the best summary?",
+     "options": [
+      "Nobody wants more trees.",
+      "C thinks trees are bad for the air, and A and B disagree with her about it.",
+      "A and B want to cut down trees.",
+      "Everyone supports more trees, but C notes they cost money to look after."
+     ],
+     "answer": 3,
+     "explanation_th": "ครบทุกฝั่งและตรงกับที่แต่ละคนพูด",
+     "why_wrong": [
+      "ทุกคนเห็นด้วย",
+      "C ไม่ได้พูดเรื่องอากาศ C เห็นด้วยแต่ห่วงเรื่องเงิน",
+      "ตรงข้ามกับที่พูด",
+      null
+     ]
+    },
+    {
+     "id": "ENL311-U6-03",
+     "skill": "ENL311-U6",
+     "difficulty": 2,
+     "stem": "Ploy said, 'The canteen is too crowded.' Report it: Ploy said that the canteen ___ too crowded.",
+     "options": [
+      "was",
+      "were",
+      "be",
+      "been"
+     ],
+     "answer": 0,
+     "explanation_th": "รายงานด้วย said ถอย tense จาก is เป็น was",
+     "why_wrong": [
+      null,
+      "canteen เป็นเอกพจน์",
+      "ต้องผันกริยาตามประธาน",
+      "been ต้องมี has หรือ had นำหน้า"
+     ]
+    },
+    {
+     "id": "ENL311-U6-04",
+     "skill": "ENL311-U6",
+     "difficulty": 2,
+     "stem": "A good summary of a discussion should ___.",
+     "options": [
+      "include every word that people said, in the same order as they said it",
+      "add a new opinion of your own",
+      "include the main views and what the group agreed on",
+      "only include the views you liked"
+     ],
+     "answer": 2,
+     "explanation_th": "สรุปที่ดีครบทุกฝั่งและบอกจุดที่ตกลงกัน",
+     "why_wrong": [
+      "ยาวเกินไป ไม่ใช่การสรุป",
+      "สรุปต้องไม่เพิ่มความเห็นใหม่",
+      null,
+      "สรุปต้องเป็นกลาง ครบทุกฝั่ง"
+     ]
+    },
+    {
+     "id": "ENL311-U6-05",
+     "skill": "ENL311-U6",
+     "difficulty": 2,
+     "stem": "Choose the best word: 'Some students prefer online classes, ___ others prefer meeting face to face.'",
+     "options": [
+      "because",
+      "so",
+      "for example",
+      "while"
+     ],
+     "answer": 3,
+     "explanation_th": "while ใช้เทียบสองกลุ่มที่ต่างกัน",
+     "why_wrong": [
+      "ส่วนหลังไม่ใช่เหตุผลของส่วนแรก",
+      "ส่วนหลังไม่ใช่ผลของส่วนแรก",
+      "ส่วนหลังไม่ใช่ตัวอย่าง",
+      null
+     ]
+    },
+    {
+     "id": "ENL311-U6-06",
+     "skill": "ENL311-U6",
+     "difficulty": 1,
+     "stem": "Which verb means 'to show people a fact that they may not have noticed'?",
+     "options": [
+      "turn down",
+      "point out",
+      "give up",
+      "look after"
+     ],
+     "answer": 1,
+     "explanation_th": "point out = ชี้ให้เห็น",
+     "why_wrong": [
+      "turn down = ปฏิเสธ",
+      null,
+      "give up = ยอมแพ้",
+      "look after = ดูแล"
+     ]
+    },
+    {
+     "id": "ENL311-U6-07",
+     "skill": "ENL311-U6",
+     "difficulty": 2,
+     "stem": "Ken asked, 'Do we have enough time?' Which report is correct?",
+     "options": [
+      "Ken asked do we have enough time.",
+      "Ken asked that did we have enough time.",
+      "Ken asked if we had enough time.",
+      "Ken said if we had enough time?"
+     ],
+     "answer": 2,
+     "explanation_th": "รายงานคำถาม yes/no ใช้ if + ลำดับคำแบบบอกเล่า",
+     "why_wrong": [
+      "รายงานคำถามต้องไม่ใช้ลำดับคำแบบคำถาม",
+      "ผิดทั้ง that และ did",
+      null,
+      "ต้องใช้ asked และไม่มีเครื่องหมายคำถาม"
+     ]
+    },
+    {
+     "id": "ENL311-U6-08",
+     "skill": "ENL311-U6",
+     "difficulty": 3,
+     "stem": "'Overall, the group reached a consensus.' This means ___.",
+     "options": [
+      "in the end, the group generally agreed",
+      "the group could not agree on anything",
+      "one person decided for everyone",
+      "the group did not discuss the topic"
+     ],
+     "answer": 0,
+     "explanation_th": "consensus = ความเห็นพ้องของกลุ่ม",
+     "why_wrong": [
+      null,
+      "ความหมายตรงข้าม",
+      "consensus คือความเห็นร่วม ไม่ใช่คนเดียวตัดสิน",
+      "ต้องอภิปรายก่อนจึงเห็นพ้องได้"
+     ]
+    }
+   ],
+   "say": [
+    "So, to sum up, most of us think buses are better, but Ken disagrees because of the time.",
+    "Mina pointed out that rent is a big problem.",
+    "We all agreed that more buses would help."
+   ],
+   "task_th": "อ่านคอมเมนต์ภาษาอังกฤษใต้ข่าว 1 ข่าว 4-5 คอมเมนต์ เขียนสรุป 3 ประโยคตามสูตร ฝั่งเห็นด้วย ฝั่งไม่เห็นด้วย และจุดที่ตรงกัน ใช้ pointed out หรือ argued อย่างน้อย 1 ครั้ง แล้วอ่านออกเสียง"
+  },
+  {
+   "id": "ENL311-U7",
+   "title_th": "เป็นประธานวงอภิปราย",
+   "title_en": "Chairing a group discussion",
+   "covers": "ฝึกฟังและอภิปราย",
+   "minutes": 12,
+   "interview": [
+    "I30"
+   ],
+   "cards": [
+    {
+     "title_th": "หน้าที่ของประธานวง",
+     "body_th": "chair เปิดวง บอกหัวข้อและเวลา เชิญทุกคนพูด ดึงกลับเมื่อออกนอกเรื่อง คุมเวลา และสรุปปิด chair ไม่จำเป็นต้องพูดเยอะที่สุด"
+    },
+    {
+     "title_th": "เปิดวง",
+     "body_th": "บอกหัวข้อ เวลา และสิ่งที่ต้องได้ตอนจบ",
+     "example": "Let's get started. Today we're discussing the library hours. We have ten minutes."
+    },
+    {
+     "title_th": "ดึงคนเงียบ หยุดคนพูดยาว",
+     "body_th": "เชิญคนที่ยังไม่พูดด้วยชื่อ และหยุดคนพูดยาวโดยขอบคุณก่อน",
+     "example": "Thanks, Ben. Let's hear from someone else. Mai, what do you think?"
+    },
+    {
+     "title_th": "ดึงกลับและคุมเวลา",
+     "body_th": "เมื่อวงออกนอกเรื่องหรือใกล้หมดเวลา บอกอย่างเป็นมิตร",
+     "example": "That's interesting, but let's get back to the main question. / We have two minutes left, so let's wrap up."
+    }
+   ],
+   "vocab": [
+    [
+     "chair",
+     "ประธานวงหรือประธานการประชุม"
+    ],
+    [
+     "agenda",
+     "วาระ หัวข้อที่จะคุย"
+    ],
+    [
+     "keep to time",
+     "คุมให้ตรงเวลา"
+    ],
+    [
+     "off topic",
+     "นอกเรื่อง"
+    ],
+    [
+     "invite",
+     "เชิญ"
+    ],
+    [
+     "wrap up",
+     "ปิดและสรุป"
+    ],
+    [
+     "move on",
+     "ไปเรื่องต่อไป"
+    ],
+    [
+     "decision",
+     "การตัดสินใจ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL311-U7-01",
+     "skill": "ENL311-U7",
+     "difficulty": 1,
+     "stem": "Which sentence opens a discussion as the chair?",
+     "options": [
+      "Thank you, everyone, that's the end of our discussion about the library.",
+      "Let's get started. Today we're talking about the new library hours.",
+      "Sorry, could you repeat that?",
+      "I'm not sure I agree."
+     ],
+     "answer": 1,
+     "explanation_th": "บอกว่าเริ่มแล้วและบอกหัวข้อ",
+     "why_wrong": [
+      "ใช้ปิดวง ไม่ใช่เปิดวง",
+      null,
+      "เป็นการขอให้พูดซ้ำ",
+      "เป็นการแย้ง"
+     ]
+    },
+    {
+     "id": "ENL311-U7-02",
+     "skill": "ENL311-U7",
+     "difficulty": 1,
+     "stem": "One person has not spoken yet. What should the chair say?",
+     "options": [
+      "Mai, why are you so quiet?",
+      "Let's just ignore Mai.",
+      "Everyone, look at Mai.",
+      "Mai, we haven't heard from you yet. What do you think?"
+     ],
+     "answer": 3,
+     "explanation_th": "เชิญด้วยชื่ออย่างเป็นมิตร",
+     "why_wrong": [
+      "ฟังเหมือนตำหนิ ทำให้คนขี้อายอาย",
+      "ทิ้งสมาชิกในวง",
+      "กดดันให้อาย",
+      null
+     ]
+    },
+    {
+     "id": "ENL311-U7-03",
+     "skill": "ENL311-U7",
+     "difficulty": 2,
+     "stem": "The group starts talking about a football match, not the topic. The chair says: ___",
+     "options": [
+      "That's interesting, but let's get back to our main question.",
+      "Great, let's talk about football for the rest of the meeting time.",
+      "Stop talking, all of you.",
+      "Who won the match?"
+     ],
+     "answer": 0,
+     "explanation_th": "ดึงกลับเข้าเรื่องอย่างสุภาพ",
+     "why_wrong": [
+      null,
+      "ปล่อยให้ออกนอกเรื่อง",
+      "หยาบและไม่บอกว่าจะไปทางไหน",
+      "พาออกนอกเรื่องมากขึ้น"
+     ]
+    },
+    {
+     "id": "ENL311-U7-04",
+     "skill": "ENL311-U7",
+     "difficulty": 2,
+     "stem": "Which is NOT usually the chair's job?",
+     "options": [
+      "keeping to time",
+      "inviting everyone to speak",
+      "giving the longest opinion in the group",
+      "summarising at the end"
+     ],
+     "answer": 2,
+     "explanation_th": "chair คุมวง ไม่ใช่คนที่พูดมากที่สุด",
+     "why_wrong": [
+      "เป็นหน้าที่ของ chair",
+      "เป็นหน้าที่ของ chair",
+      null,
+      "เป็นหน้าที่ของ chair"
+     ]
+    },
+    {
+     "id": "ENL311-U7-05",
+     "skill": "ENL311-U7",
+     "difficulty": 2,
+     "stem": "Ben has talked for three minutes. What is the most polite way for the chair to move on?",
+     "options": [
+      "Ben, you talk too much.",
+      "Ben, please stop now. Nobody is listening to you anymore, so be quiet.",
+      "Let's all leave.",
+      "Thanks, Ben, that's useful. Let's hear from someone else now."
+     ],
+     "answer": 3,
+     "explanation_th": "ขอบคุณก่อนแล้วส่งต่อ",
+     "why_wrong": [
+      "ตำหนิตรง ๆ ทำให้เสียหน้า",
+      "หยาบและทำให้อาย",
+      "ไม่ได้แก้ปัญหา",
+      null
+     ]
+    },
+    {
+     "id": "ENL311-U7-06",
+     "skill": "ENL311-U7",
+     "difficulty": 1,
+     "stem": "'We have two minutes left, so let's wrap up.' Here, 'wrap up' means ___.",
+     "options": [
+      "start a new topic",
+      "finish and summarise",
+      "take a break",
+      "give a present"
+     ],
+     "answer": 1,
+     "explanation_th": "wrap up = ปิดและสรุป",
+     "why_wrong": [
+      "ความหมายตรงข้าม",
+      null,
+      "ไม่ใช่การพัก",
+      "เป็นความหมายตรงตัวเรื่องห่อของขวัญ ไม่ใช่ในบริบทนี้"
+     ]
+    },
+    {
+     "id": "ENL311-U7-07",
+     "skill": "ENL311-U7",
+     "difficulty": 3,
+     "stem": "Chair: So, we have two ideas: more buses or cheaper bike rental. Which one should we suggest to the class?\nWhat is the chair doing?",
+     "options": [
+      "giving her own opinion",
+      "asking what a word means",
+      "helping the group make a decision",
+      "opening the discussion"
+     ],
+     "answer": 2,
+     "explanation_th": "สรุปทางเลือกแล้วถามให้กลุ่มเลือก",
+     "why_wrong": [
+      "เธอไม่ได้บอกว่าชอบแบบไหน",
+      "ไม่ได้ถามความหมายคำ",
+      null,
+      "เกิดหลังมีความเห็นแล้ว ไม่ใช่ตอนเปิด"
+     ]
+    },
+    {
+     "id": "ENL311-U7-08",
+     "skill": "ENL311-U7",
+     "difficulty": 2,
+     "stem": "An 'agenda' for a discussion is ___.",
+     "options": [
+      "a list of topics to talk about",
+      "the person who leads it",
+      "the final decision",
+      "the room where it happens"
+     ],
+     "answer": 0,
+     "explanation_th": "agenda = วาระ",
+     "why_wrong": [
+      null,
+      "นั่นคือ chair",
+      "เกิดตอนจบ ไม่ใช่ agenda",
+      "ไม่ใช่สถานที่"
+     ]
+    }
+   ],
+   "say": [
+    "Let's get started. Today we're discussing the library hours, and we have ten minutes.",
+    "Thanks, Ben. Let's hear from someone who hasn't spoken yet.",
+    "We're running out of time, so let's wrap up."
+   ],
+   "task_th": "สมมติว่าคุณเป็น chair ของวง 4 คนเรื่อง 'Should our class have a group chat with the teacher?' เขียนบทของ chair 4 ประโยค: เปิดวง เชิญคนเงียบ ดึงกลับเข้าเรื่อง ปิดวง แล้วอัดเสียงพูดต่อกันให้จบใน 1 นาที"
+  }
+ ]
+}

@@ -1,0 +1,1776 @@
+{
+ "code": "ENL331",
+ "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+ "in_class_th": [
+  "น่าจะต่อยอดจาก ENL232 โดยตรง จากเสียงเดี่ยว ๆ ไปเป็นเสียงในคำยาว ในประโยค และในข้อความต่อเนื่อง",
+  "น่าจะมีการฟังแล้วทำเครื่องหมายพยางค์ที่เน้น (stress) และทิศทางเสียงขึ้นลง (intonation) บนบทพูด",
+  "น่าจะมีการสอบอ่านออกเสียงบทสนทนาหรือย่อหน้า โดยดูการเน้นคำ จังหวะ และการเชื่อมเสียง",
+  "อาจได้ถอดเสียงประโยคสั้น ๆ ด้วย IPA รวมถึงรูปเสียงเบา (weak forms) ของคำเล็ก ๆ",
+  "อาจารย์อาจใช้สัญลักษณ์ intonation หรือ IPA แบบอเมริกัน ซึ่งต่างจากแอปนี้ที่ใช้ IPA แบบอังกฤษเหมือน ENL232"
+ ],
+ "units": [
+  {
+   "id": "ENL331-U1",
+   "title_th": "การเน้นพยางค์ในคำ",
+   "title_en": "Word stress basics",
+   "covers": "หลักการออกเสียงคำ",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "IPA แบบเดียวกับ ENL232",
+     "body_th": "หน่วยนี้และทั้งวิชาในแอปใช้ IPA แบบอังกฤษ (British) เหมือน ENL232 เครื่องหมาย ˈ วางไว้หน้าพยางค์ที่เน้นหลัก และ ˌ วางไว้หน้าพยางค์ที่เน้นรอง",
+     "example": "teacher /ˈtiːtʃə/, about /əˈbaʊt/, Japanese /ˌdʒæpəˈniːz/"
+    },
+    {
+     "title_th": "พยางค์ที่เน้นฟังเป็นอย่างไร",
+     "body_th": "พยางค์ที่เน้น (stressed syllable) ยาวกว่า ดังกว่า และระดับเสียงมักต่างจากพยางค์รอบ ๆ สระชัดเต็มเสียง ส่วนพยางค์ที่ไม่เน้นสั้นและเบา สระมักกลายเป็น schwa /ə/",
+     "example": "banana /bəˈnɑːnə/ ฟังเป็น ba-NA-na"
+    },
+    {
+     "title_th": "เน้นผิด คนฟังอาจจำคำไม่ได้",
+     "body_th": "ภาษาไทยใช้วรรณยุกต์แยกความหมายของคำ ภาษาอังกฤษใช้ตำแหน่งเน้นช่วยให้คนฟังจำคำได้ ถ้าเน้นผิดพยางค์ คนฟังอาจงง แม้ทุกเสียงจะถูก",
+     "example": "hotel /həʊˈtel/ เน้นพยางค์หลัง ไม่ใช่ HO-tel"
+    },
+    {
+     "title_th": "คู่คำนามกับกริยา",
+     "body_th": "คำ 2 พยางค์หลายคู่สะกดเหมือนกัน ถ้าเป็นคำนามเน้นพยางค์แรก ถ้าเป็นกริยาเน้นพยางค์ที่สอง",
+     "example": "a ˈrecord / to reˈcord, a ˈpresent / to preˈsent, an ˈexport / to exˈport"
+    },
+    {
+     "title_th": "แนวโน้มของคำ 2 พยางค์",
+     "body_th": "คำนามและคำคุณศัพท์ 2 พยางค์ส่วนใหญ่เน้นพยางค์แรก เช่น ˈteacher, ˈhappy ส่วนกริยา 2 พยางค์จำนวนมากเน้นพยางค์ที่สอง เช่น beˈgin, deˈcide เป็นแนวโน้ม ไม่ใช่กฎตายตัว จึงควรเช็กพจนานุกรมเสมอ"
+    }
+   ],
+   "vocab": [
+    [
+     "word stress",
+     "การเน้นพยางค์ในคำ"
+    ],
+    [
+     "stressed syllable",
+     "พยางค์ที่เน้น"
+    ],
+    [
+     "unstressed syllable",
+     "พยางค์ที่ไม่เน้น"
+    ],
+    [
+     "primary stress",
+     "การเน้นหลัก"
+    ],
+    [
+     "secondary stress",
+     "การเน้นรอง"
+    ],
+    [
+     "stress mark",
+     "เครื่องหมายเน้นเสียง"
+    ],
+    [
+     "schwa",
+     "สระเบา /ə/"
+    ],
+    [
+     "pitch",
+     "ระดับเสียงสูงต่ำ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL331-U1-01",
+     "skill": "ENL331-U1",
+     "difficulty": 1,
+     "stem": "In British IPA, where is the stress mark ˈ placed?",
+     "options": [
+      "just before the stressed syllable",
+      "just after the stressed syllable",
+      "at the end of the word",
+      "under the first letter of the word"
+     ],
+     "answer": 0,
+     "explanation_th": "IPA วาง ˈ ไว้หน้าพยางค์ที่เน้น เช่น about /əˈbaʊt/",
+     "why_wrong": [
+      null,
+      "ˈ ไม่ได้วางหลังพยางค์ แต่วางหน้า",
+      "ถ้าวางท้ายคำจะไม่บอกว่าพยางค์ไหนเน้น",
+      "ˈ ไม่ได้ผูกกับตัวอักษรแรก แต่วางหน้าพยางค์ที่เน้นไม่ว่าจะอยู่ตรงไหน"
+     ]
+    },
+    {
+     "id": "ENL331-U1-02",
+     "skill": "ENL331-U1",
+     "difficulty": 1,
+     "stem": "Which syllable is stressed in 'banana' /bəˈnɑːnə/?",
+     "options": [
+      "the first: BA-na-na",
+      "the third: ba-na-NA",
+      "the second: ba-NA-na",
+      "none of the syllables"
+     ],
+     "answer": 2,
+     "explanation_th": "ˈ อยู่หน้า nɑː จึงเน้นพยางค์ที่สอง และสระยาว /ɑː/ ก็อยู่ในพยางค์นี้",
+     "why_wrong": [
+      "พยางค์แรกมีสระเบา /ə/ ซึ่งไม่เน้น",
+      "พยางค์สุดท้ายมีสระเบา /ə/ ซึ่งไม่เน้น",
+      null,
+      "คำที่มีหลายพยางค์ต้องมีพยางค์ที่เน้นหลักหนึ่งพยางค์"
+     ]
+    },
+    {
+     "id": "ENL331-U1-03",
+     "skill": "ENL331-U1",
+     "difficulty": 1,
+     "stem": "Compared with an unstressed syllable, a stressed syllable is usually ___.",
+     "options": [
+      "shorter and quieter",
+      "longer and louder",
+      "always whispered",
+      "said with the weak vowel /ə/"
+     ],
+     "answer": 1,
+     "explanation_th": "พยางค์ที่เน้นยาวกว่า ดังกว่า และสระชัดกว่า",
+     "why_wrong": [
+      "นี่คือลักษณะของพยางค์ที่ไม่เน้น",
+      null,
+      "พยางค์ที่เน้นไม่ได้กระซิบ แต่ชัดและดังขึ้น",
+      "/ə/ เป็นสระของพยางค์ที่ไม่เน้น"
+     ]
+    },
+    {
+     "id": "ENL331-U1-04",
+     "skill": "ENL331-U1",
+     "difficulty": 1,
+     "stem": "Which word is stressed on the SECOND syllable?",
+     "options": [
+      "teacher",
+      "happy",
+      "window",
+      "hotel"
+     ],
+     "answer": 3,
+     "explanation_th": "hotel /həʊˈtel/ เน้นพยางค์ที่สอง",
+     "why_wrong": [
+      "teacher /ˈtiːtʃə/ เน้นพยางค์แรก",
+      "happy /ˈhæpi/ เน้นพยางค์แรก",
+      "window /ˈwɪndəʊ/ เน้นพยางค์แรก",
+      null
+     ]
+    },
+    {
+     "id": "ENL331-U1-05",
+     "skill": "ENL331-U1",
+     "difficulty": 2,
+     "stem": "In 'Please record the meeting', how is 'record' stressed?",
+     "options": [
+      "RE-cord /ˈrekɔːd/",
+      "re-CORD /rɪˈkɔːd/",
+      "both syllables equally",
+      "it depends only on the speaker"
+     ],
+     "answer": 1,
+     "explanation_th": "ในประโยคนี้ record เป็นกริยา จึงเน้นพยางค์ที่สอง",
+     "why_wrong": [
+      "RE-cord เป็นรูปคำนาม เช่น a world record",
+      null,
+      "ภาษาอังกฤษไม่เน้นสองพยางค์เท่ากันในคำนี้",
+      "การเน้นของคู่นี้ขึ้นกับชนิดคำ ไม่ใช่ความชอบของผู้พูด"
+     ]
+    },
+    {
+     "id": "ENL331-U1-06",
+     "skill": "ENL331-U1",
+     "difficulty": 2,
+     "stem": "In which sentence is 'present' a noun, stressed PRE-sent?",
+     "options": [
+      "She gave me a present for my birthday.",
+      "They will present their project tomorrow.",
+      "Can you present the results to the class?",
+      "I want to present a new idea."
+     ],
+     "answer": 0,
+     "explanation_th": "a present (ของขวัญ) เป็นคำนาม จึงเน้นพยางค์แรก /ˈpreznt/",
+     "why_wrong": [
+      null,
+      "present ตรงนี้เป็นกริยา (นำเสนอ) เน้น pre-SENT",
+      "present หลัง can you เป็นกริยา เน้น pre-SENT",
+      "present หลัง to เป็นกริยา เน้น pre-SENT"
+     ]
+    },
+    {
+     "id": "ENL331-U1-07",
+     "skill": "ENL331-U1",
+     "difficulty": 2,
+     "stem": "Which vowel is most common in unstressed syllables?",
+     "options": [
+      "/iː/",
+      "/ɔː/",
+      "/ə/",
+      "/aɪ/"
+     ],
+     "answer": 2,
+     "explanation_th": "schwa /ə/ เป็นสระเบาที่พบบ่อยที่สุดในพยางค์ที่ไม่เน้น",
+     "why_wrong": [
+      "/iː/ เป็นสระยาว มักอยู่ในพยางค์ที่เน้น",
+      "/ɔː/ เป็นสระยาว มักอยู่ในพยางค์ที่เน้น",
+      null,
+      "/aɪ/ เป็นสระประสม มักอยู่ในพยางค์ที่เน้น"
+     ]
+    },
+    {
+     "id": "ENL331-U1-08",
+     "skill": "ENL331-U1",
+     "difficulty": 2,
+     "stem": "Most two-syllable NOUNS and ADJECTIVES in English are stressed on ___.",
+     "options": [
+      "the second syllable",
+      "both syllables equally",
+      "the last letter",
+      "the first syllable"
+     ],
+     "answer": 3,
+     "explanation_th": "แนวโน้มทั่วไปคือคำนามและคุณศัพท์ 2 พยางค์เน้นพยางค์แรก เช่น ˈteacher, ˈhappy",
+     "why_wrong": [
+      "พยางค์ที่สองเป็นแนวโน้มของกริยา 2 พยางค์มากกว่า",
+      "คำ 2 พยางค์มีพยางค์เน้นหลักพยางค์เดียว",
+      "การเน้นอยู่ที่พยางค์ ไม่ใช่ตัวอักษร",
+      null
+     ]
+    },
+    {
+     "id": "ENL331-U1-09",
+     "skill": "ENL331-U1",
+     "difficulty": 3,
+     "stem": "Which pair shows a noun and a verb with DIFFERENT stress?",
+     "options": [
+      "a VIS-it / to VIS-it",
+      "an EX-port / to ex-PORT",
+      "a PIC-ture / to PIC-ture",
+      "a re-PLY / to re-PLY"
+     ],
+     "answer": 1,
+     "explanation_th": "export คำนามเน้นหน้า /ˈekspɔːt/ กริยาเน้นหลัง /ɪkˈspɔːt/",
+     "why_wrong": [
+      "visit เน้นพยางค์แรกทั้งคำนามและกริยา",
+      null,
+      "picture เน้นพยางค์แรกทั้งคำนามและกริยา",
+      "reply เน้นพยางค์ที่สองทั้งคำนามและกริยา"
+     ]
+    }
+   ],
+   "say": [
+    "This is a record. Please record it.",
+    "Here is your present. Let me present it to you.",
+    "Hotel, banana, teacher, happy."
+   ],
+   "task_th": "เลือกคู่คำนามกับกริยา 5 คู่ (record, present, export, object, suspect) เปิดพจนานุกรมผู้เรียนฉบับอังกฤษ ฟังทั้งสองแบบ แล้วเขียนประโยคของตัวเองคู่ละ 2 ประโยค (นาม 1 กริยา 1) ขีดเส้นใต้พยางค์ที่เน้น อัดเสียงอ่านทั้ง 10 ประโยค แล้วฟังย้อนว่าเน้นถูกไหม"
+  },
+  {
+   "id": "ENL331-U2",
+   "title_th": "การเน้นในคำยาว คำประสม และกริยาวลี",
+   "title_en": "Stress in longer words and compounds",
+   "covers": "ออกเสียงในระดับคำ",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "คำต่อท้ายที่ดึงเสียงเน้น",
+     "body_th": "คำที่ลงท้ายด้วย -tion, -sion, -ic, -ical, -ity, -ian มักเน้นพยางค์ที่อยู่ก่อนคำต่อท้ายพอดี",
+     "example": "eduˈcation, deˈcision, eˈlectric, ˌelecˈtricity, muˈsician"
+    },
+    {
+     "title_th": "ครอบครัวคำ เน้นย้ายที่",
+     "body_th": "คำในครอบครัวเดียวกันอาจเน้นคนละพยางค์ สระของพยางค์ที่ไม่เน้นจึงเปลี่ยนตามไปด้วย",
+     "example": "ˈphotograph, phoˈtographer, ˌphotoˈgraphic | ˈpolitics, poˈlitical, ˌpoliˈtician"
+    },
+    {
+     "title_th": "คำต่อท้ายที่ไม่ย้ายเสียงเน้น",
+     "body_th": "-ness, -ment, -ful, -less, -er, -ly มักไม่ย้ายตำแหน่งเน้นของคำเดิม",
+     "example": "ˈhappy → ˈhappiness, eˈmploy → eˈmployment, ˈcare → ˈcareful"
+    },
+    {
+     "title_th": "คำต่อท้ายที่รับเสียงเน้นเอง",
+     "body_th": "-eer, -ese และ -ee ในหลายคำ รับเสียงเน้นหลักไว้ที่ตัวเอง",
+     "example": "ˌengiˈneer, ˌvolunˈteer, ˌJapaˈnese, ˌrefuˈgee"
+    },
+    {
+     "title_th": "คำประสมและกริยาวลี",
+     "body_th": "คำนามประสม (compound noun) ส่วนใหญ่เน้นคำแรก: ˈbedroom, ˈbus stop, ˈswimming pool | คุณศัพท์ + นามธรรมดาเน้นคำหลัง: a black ˈbird (นกสีดำตัวไหนก็ได้) ต่างจาก a ˈblackbird (นกชนิดหนึ่ง) | กริยาวลี (phrasal verb) เน้นคำหลัง: give ˈup, turn ˈoff"
+    }
+   ],
+   "vocab": [
+    [
+     "suffix",
+     "คำต่อท้าย"
+    ],
+    [
+     "prefix",
+     "คำเติมหน้า"
+    ],
+    [
+     "word family",
+     "ครอบครัวคำ"
+    ],
+    [
+     "compound noun",
+     "คำนามประสม"
+    ],
+    [
+     "phrasal verb",
+     "กริยาวลี"
+    ],
+    [
+     "stress shift",
+     "การย้ายตำแหน่งเน้น"
+    ],
+    [
+     "stress-neutral suffix",
+     "คำต่อท้ายที่ไม่ย้ายเสียงเน้น"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL331-U2-01",
+     "skill": "ENL331-U2",
+     "difficulty": 1,
+     "stem": "Where is the main stress in 'information'?",
+     "options": [
+      "'ma', the third syllable",
+      "'in', the first syllable",
+      "'for', the second syllable",
+      "'tion', the last syllable"
+     ],
+     "answer": 0,
+     "explanation_th": "-tion ทำให้พยางค์ก่อนหน้าเป็นพยางค์เน้นหลัก: /ˌɪnfəˈmeɪʃn/",
+     "why_wrong": [
+      null,
+      "พยางค์แรกมีแค่การเน้นรอง",
+      "for ในคำนี้เป็นสระเบา /ə/",
+      "-tion เองไม่รับเสียงเน้น"
+     ]
+    },
+    {
+     "id": "ENL331-U2-02",
+     "skill": "ENL331-U2",
+     "difficulty": 1,
+     "stem": "Where is the main stress in 'decision'?",
+     "options": [
+      "'de', the first syllable",
+      "'sion', the last syllable",
+      "all three syllables equally",
+      "'ci', the second syllable"
+     ],
+     "answer": 3,
+     "explanation_th": "-sion ทำให้พยางค์ก่อนหน้าเป็นพยางค์เน้น: /dɪˈsɪʒn/",
+     "why_wrong": [
+      "de- ในคำนี้ไม่เน้น สระเป็น /ɪ/ สั้น",
+      "-sion ไม่รับเสียงเน้น",
+      "คำนี้มีพยางค์เน้นหลักพยางค์เดียว",
+      null
+     ]
+    },
+    {
+     "id": "ENL331-U2-03",
+     "skill": "ENL331-U2",
+     "difficulty": 2,
+     "stem": "'Photograph' is PHO-to-graph. Where is the stress in 'photographer'?",
+     "options": [
+      "'pho', the first syllable",
+      "'gra', the third syllable",
+      "'to', the second syllable",
+      "'pher', the last syllable"
+     ],
+     "answer": 2,
+     "explanation_th": "photographer /fəˈtɒɡrəfə/ เน้นย้ายมาที่พยางค์ที่สอง",
+     "why_wrong": [
+      "นี่คือตำแหน่งเน้นของ photograph ไม่ใช่ photographer",
+      "GRA เน้นในคำ photographic ไม่ใช่ photographer",
+      null,
+      "-er ไม่รับเสียงเน้น"
+     ]
+    },
+    {
+     "id": "ENL331-U2-04",
+     "skill": "ENL331-U2",
+     "difficulty": 2,
+     "stem": "Where is the main stress in 'photographic'?",
+     "options": [
+      "'pho', the first syllable",
+      "'gra', the third syllable",
+      "'to', the second syllable",
+      "'phic', the last syllable"
+     ],
+     "answer": 1,
+     "explanation_th": "-ic ทำให้พยางค์ก่อนหน้า (gra) เป็นพยางค์เน้นหลัก",
+     "why_wrong": [
+      "PHO มีแค่การเน้นรองในคำนี้",
+      null,
+      "TO เป็นพยางค์เน้นของ photographer",
+      "-ic ไม่รับเสียงเน้นเอง แต่ดึงเน้นไปไว้ข้างหน้า"
+     ]
+    },
+    {
+     "id": "ENL331-U2-05",
+     "skill": "ENL331-U2",
+     "difficulty": 2,
+     "stem": "The suffix -ness does not move stress. Where is the stress in 'happiness'?",
+     "options": [
+      "'pi', the second syllable",
+      "'ness', the last syllable",
+      "there is no stress in this word",
+      "'hap', the first syllable"
+     ],
+     "answer": 3,
+     "explanation_th": "happy เน้นพยางค์แรก เติม -ness แล้วก็ยังเน้นพยางค์แรก",
+     "why_wrong": [
+      "พยางค์กลางไม่เน้น เพราะ -ness ไม่ย้ายเสียงเน้น",
+      "-ness ไม่รับเสียงเน้น",
+      "คำที่มีหลายพยางค์ต้องมีพยางค์เน้นหลัก",
+      null
+     ]
+    },
+    {
+     "id": "ENL331-U2-06",
+     "skill": "ENL331-U2",
+     "difficulty": 2,
+     "stem": "Which word has its main stress on the LAST syllable?",
+     "options": [
+      "engineer",
+      "engine",
+      "beautiful",
+      "careful"
+     ],
+     "answer": 0,
+     "explanation_th": "engineer /ˌendʒɪˈnɪə/ คำต่อท้าย -eer รับเสียงเน้นเอง",
+     "why_wrong": [
+      null,
+      "engine /ˈendʒɪn/ เน้นพยางค์แรก",
+      "beautiful เน้นพยางค์แรก",
+      "careful เน้นพยางค์แรก -ful ไม่ย้ายเสียงเน้น"
+     ]
+    },
+    {
+     "id": "ENL331-U2-07",
+     "skill": "ENL331-U2",
+     "difficulty": 2,
+     "stem": "In the compound noun 'swimming pool', where is the main stress?",
+     "options": [
+      "on 'pool'",
+      "equally on both words",
+      "on 'swimming'",
+      "on '-ing'"
+     ],
+     "answer": 2,
+     "explanation_th": "คำนามประสมส่วนใหญ่เน้นคำแรก: ˈswimming pool",
+     "why_wrong": [
+      "การเน้นคำหลังเป็นแบบคุณศัพท์ + นาม ไม่ใช่คำนามประสม",
+      "คำนามประสมมีจุดเน้นหลักที่คำแรก",
+      null,
+      "-ing ไม่ใช่พยางค์เน้นของคำว่า swimming"
+     ]
+    },
+    {
+     "id": "ENL331-U2-08",
+     "skill": "ENL331-U2",
+     "difficulty": 3,
+     "stem": "What is the difference between 'a BLACKbird' and 'a black BIRD'?",
+     "options": [
+      "They mean exactly the same thing.",
+      "The first is any black bird; the second is a type of bird.",
+      "The first is a type of bird; the second is any bird that is black.",
+      "The first is plural; the second is singular."
+     ],
+     "answer": 2,
+     "explanation_th": "เน้นคำแรกทำให้เป็นคำนามประสม (ชื่อชนิดนก) เน้นคำหลังเป็นคุณศัพท์ + นามธรรมดา",
+     "why_wrong": [
+      "ตำแหน่งเน้นต่างกันทำให้ความหมายต่างกัน",
+      "สลับกัน คำนามประสมคือแบบที่เน้นคำแรก",
+      null,
+      "ทั้งสองแบบเป็นเอกพจน์ มี a นำหน้า"
+     ]
+    },
+    {
+     "id": "ENL331-U2-09",
+     "skill": "ENL331-U2",
+     "difficulty": 2,
+     "stem": "In the phrasal verb 'turn off', which part usually carries the main stress?",
+     "options": [
+      "turn",
+      "both parts are unstressed",
+      "neither; the stress goes on 'the'",
+      "off"
+     ],
+     "answer": 3,
+     "explanation_th": "กริยาวลีมักเน้นคำหลัง: turn ˈoff, give ˈup",
+     "why_wrong": [
+      "turn ได้การเน้นรอง แต่จุดเน้นหลักอยู่ที่ off",
+      "กริยาวลีเป็นคำเนื้อหา ต้องมีการเน้น",
+      "the เป็นคำไวยากรณ์ ปกติไม่เน้น",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "Photograph, photographer, photographic.",
+    "Politics, political, politician.",
+    "I'm an engineer, and I volunteer on weekends."
+   ],
+   "task_th": "เลือกครอบครัวคำ 3 ชุด เช่น economy/economic, history/historical, possible/possibility เปิดพจนานุกรมฉบับอังกฤษ จด IPA ของทุกคำ วงพยางค์ที่เน้น แล้วเขียนว่าคำต่อท้ายตัวไหนทำให้เน้นย้าย อ่านออกเสียงแต่ละชุดต่อกัน 3 รอบ"
+  },
+  {
+   "id": "ENL331-U3",
+   "title_th": "การเน้นคำในประโยค",
+   "title_en": "Sentence stress and focus",
+   "covers": "ประโยค",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "คำเนื้อหากับคำไวยากรณ์",
+     "body_th": "ในประโยค คำเนื้อหา (content words) เช่น คำนาม กริยาหลัก คุณศัพท์ กริยาวิเศษณ์ คำปฏิเสธ และคำถาม wh- มักถูกเน้น ส่วนคำไวยากรณ์ (function words) เช่น a, the, to, of, and คำสรรพนาม และกริยาช่วย มักไม่เน้น",
+     "example": "I ˈbought a ˈnew ˈphone at the ˈmall."
+    },
+    {
+     "title_th": "คำปฏิเสธมักเน้น",
+     "body_th": "กริยาช่วยรูปปฏิเสธอย่าง can't, don't, isn't มักถูกเน้น เพราะเปลี่ยนความหมายทั้งประโยค",
+     "example": "I ˈcan't ˈcome toˈmorrow."
+    },
+    {
+     "title_th": "ข้อมูลใหม่ได้เน้นหนักสุด",
+     "body_th": "จุดเน้นหลักของกลุ่มคำ (nucleus) มักตกที่คำเนื้อหาคำสุดท้ายที่เป็นข้อมูลใหม่ คำที่พูดถึงไปแล้วจะเบาลง",
+     "example": "A: I bought a car. B: What ˈkind of car? A: A ˈred car."
+    },
+    {
+     "title_th": "เน้นเพื่อแย้งหรือเทียบ",
+     "body_th": "ถ้าจะแย้งหรือเปรียบเทียบ ย้ายจุดเน้นไปที่คำนั้นได้ แม้จะเป็นคำไวยากรณ์อย่างคำสรรพนาม",
+     "example": "It's ˈmy bag, not ˈyours."
+    }
+   ],
+   "vocab": [
+    [
+     "content word",
+     "คำเนื้อหา"
+    ],
+    [
+     "function word",
+     "คำไวยากรณ์"
+    ],
+    [
+     "sentence stress",
+     "การเน้นคำในประโยค"
+    ],
+    [
+     "contrastive stress",
+     "การเน้นเพื่อเปรียบเทียบหรือแย้ง"
+    ],
+    [
+     "focus",
+     "จุดเน้น"
+    ],
+    [
+     "new information",
+     "ข้อมูลใหม่"
+    ],
+    [
+     "given information",
+     "ข้อมูลที่รู้กันแล้ว"
+    ],
+    [
+     "nucleus",
+     "พยางค์ที่เน้นหลักของกลุ่มคำ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL331-U3-01",
+     "skill": "ENL331-U3",
+     "difficulty": 1,
+     "stem": "Which words are usually stressed in an English sentence?",
+     "options": [
+      "content words, like nouns and main verbs",
+      "function words, like 'a' and 'the'",
+      "only the first word",
+      "every word equally"
+     ],
+     "answer": 0,
+     "explanation_th": "คำเนื้อหาบรรจุความหมายหลัก จึงมักถูกเน้น",
+     "why_wrong": [
+      null,
+      "คำไวยากรณ์มักไม่เน้นและใช้รูปเสียงเบา",
+      "การเน้นไม่ได้ขึ้นกับตำแหน่งแรกของประโยค",
+      "ภาษาอังกฤษเน้นไม่เท่ากัน คำเนื้อหาเด่นกว่าคำไวยากรณ์"
+     ]
+    },
+    {
+     "id": "ENL331-U3-02",
+     "skill": "ENL331-U3",
+     "difficulty": 1,
+     "stem": "In 'I bought a new phone at the mall', which words are usually stressed?",
+     "options": [
+      "I, a, at, the",
+      "bought, new, phone, mall",
+      "a, new, the, mall",
+      "I, bought, at, the"
+     ],
+     "answer": 1,
+     "explanation_th": "bought (กริยา) new (คุณศัพท์) phone และ mall (คำนาม) เป็นคำเนื้อหา",
+     "why_wrong": [
+      "ทั้งสี่คำเป็นคำไวยากรณ์ ปกติไม่เน้น",
+      null,
+      "a และ the เป็นคำนำหน้านาม ไม่เน้น",
+      "I, at, the เป็นคำไวยากรณ์ ไม่เน้น"
+     ]
+    },
+    {
+     "id": "ENL331-U3-03",
+     "skill": "ENL331-U3",
+     "difficulty": 1,
+     "stem": "Which of these is a function word?",
+     "options": [
+      "the",
+      "quickly",
+      "teacher",
+      "beautiful"
+     ],
+     "answer": 0,
+     "explanation_th": "the เป็นคำนำหน้านาม ทำหน้าที่ทางไวยากรณ์",
+     "why_wrong": [
+      null,
+      "quickly เป็นกริยาวิเศษณ์ เป็นคำเนื้อหา",
+      "teacher เป็นคำนาม เป็นคำเนื้อหา",
+      "beautiful เป็นคุณศัพท์ เป็นคำเนื้อหา"
+     ]
+    },
+    {
+     "id": "ENL331-U3-04",
+     "skill": "ENL331-U3",
+     "difficulty": 2,
+     "stem": "'I can't come tomorrow.' Which word is an auxiliary verb but is still usually stressed here?",
+     "options": [
+      "I",
+      "come",
+      "tomorrow",
+      "can't"
+     ],
+     "answer": 3,
+     "explanation_th": "can't เป็นกริยาช่วยรูปปฏิเสธ ซึ่งมักถูกเน้นเพราะเปลี่ยนความหมาย",
+     "why_wrong": [
+      "I เป็นคำสรรพนาม ไม่ใช่กริยาช่วย",
+      "come เป็นกริยาหลัก ไม่ใช่กริยาช่วย",
+      "tomorrow เป็นกริยาวิเศษณ์ ไม่ใช่กริยาช่วย",
+      null
+     ]
+    },
+    {
+     "id": "ENL331-U3-05",
+     "skill": "ENL331-U3",
+     "difficulty": 2,
+     "stem": "'I didn't say SHE took it.' With the stress on 'she', what does the speaker mean?",
+     "options": [
+      "I wrote it; I did not say it aloud.",
+      "Someone else took it, not her.",
+      "She gave it back later.",
+      "She took something different."
+     ],
+     "answer": 1,
+     "explanation_th": "เน้น she เพื่อแย้งว่าเป็นคนอื่น ไม่ใช่เธอ",
+     "why_wrong": [
+      "ความหมายนี้ต้องเน้นคำว่า say",
+      null,
+      "ประโยคไม่ได้พูดถึงการคืนของ",
+      "ความหมายนี้ต้องเน้นคำว่า it"
+     ]
+    },
+    {
+     "id": "ENL331-U3-06",
+     "skill": "ENL331-U3",
+     "difficulty": 2,
+     "stem": "A: 'Do you want the blue shirt?' B: 'No, I want the GREEN one.' Why is 'green' stressed?",
+     "options": [
+      "It is a function word.",
+      "It is the first word in the sentence.",
+      "It contrasts with 'blue'.",
+      "Colour words are always stressed more than nouns."
+     ],
+     "answer": 2,
+     "explanation_th": "B เน้น green เพื่อเทียบกับ blue ที่ A พูด",
+     "why_wrong": [
+      "green เป็นคุณศัพท์ ซึ่งเป็นคำเนื้อหา",
+      "green ไม่ใช่คำแรกของประโยค",
+      null,
+      "คำบอกสีไม่ได้ถูกเน้นมากกว่าคำนามเสมอ ที่นี่เน้นเพราะเทียบกัน"
+     ]
+    },
+    {
+     "id": "ENL331-U3-07",
+     "skill": "ENL331-U3",
+     "difficulty": 2,
+     "stem": "A: 'I bought a car.' B: 'What kind of car?' In B's question, which word gets the main stress?",
+     "options": [
+      "car",
+      "what",
+      "of",
+      "kind"
+     ],
+     "answer": 3,
+     "explanation_th": "car เป็นข้อมูลที่รู้แล้ว ข้อมูลใหม่ที่ B อยากรู้คือ kind",
+     "why_wrong": [
+      "car ถูกพูดไปแล้ว จึงเบาลง",
+      "what มีการเน้นได้บ้าง แต่จุดเน้นหลักอยู่ที่ข้อมูลใหม่ kind",
+      "of เป็นคำบุพบท ปกติไม่เน้น",
+      null
+     ]
+    },
+    {
+     "id": "ENL331-U3-08",
+     "skill": "ENL331-U3",
+     "difficulty": 3,
+     "stem": "Someone asks 'Who broke the window?' You answer 'Tom broke it.' Where should the main stress go?",
+     "options": [
+      "stress on 'Tom'",
+      "stress on 'broke'",
+      "stress on 'it'",
+      "stress on an added 'yesterday'"
+     ],
+     "answer": 0,
+     "explanation_th": "คำถามถามว่าใคร ข้อมูลใหม่คือ Tom จึงเน้น Tom",
+     "why_wrong": [
+      null,
+      "broke เป็นข้อมูลที่รู้อยู่แล้วจากคำถาม",
+      "it หมายถึงหน้าต่างที่รู้อยู่แล้ว",
+      "คำถามไม่ได้ถามเวลา yesterday จึงไม่ใช่จุดเน้นที่เหมาะ"
+     ]
+    },
+    {
+     "id": "ENL331-U3-09",
+     "skill": "ENL331-U3",
+     "difficulty": 3,
+     "stem": "Why is 'him' stressed in 'I gave the book to HIM, not to her'?",
+     "options": [
+      "because pronouns are always stressed",
+      "because it is the last word",
+      "to show a contrast between two people",
+      "because it is a content word"
+     ],
+     "answer": 2,
+     "explanation_th": "คำสรรพนามปกติไม่เน้น แต่ที่นี่เน้นเพื่อเทียบ him กับ her",
+     "why_wrong": [
+      "คำสรรพนามปกติไม่เน้น",
+      "him ไม่ใช่คำสุดท้ายของประโยค",
+      null,
+      "him เป็นคำสรรพนาม ซึ่งเป็นคำไวยากรณ์"
+     ]
+    }
+   ],
+   "say": [
+    "I bought a new phone at the mall.",
+    "It's my bag, not yours.",
+    "What kind of car? A red car."
+   ],
+   "task_th": "เขียนประโยค 'Mai gave Tom a red pen.' 4 ครั้ง แต่ละครั้งเน้นคำต่างกัน (Mai, Tom, red, pen) แล้วเขียนคำถามนำที่ทำให้ต้องเน้นคำนั้น เช่น Who gave Tom a red pen? อัดเสียงอ่านคู่คำถามและคำตอบทั้ง 4 คู่ แล้วฟังว่าเน้นชัดไหม"
+  },
+  {
+   "id": "ENL331-U4",
+   "title_th": "รูปเสียงเบาและจังหวะ",
+   "title_en": "Weak forms and rhythm",
+   "covers": "ประโยค และข้อความภาษาอังกฤษ",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "รูปเสียงเบา (weak forms)",
+     "body_th": "คำไวยากรณ์หลายคำมีสองรูป คือ รูปเต็ม (strong form) กับรูปเบา (weak form) ในการพูดปกติใช้รูปเบา ซึ่งสระมักเป็น /ə/",
+     "example": "to /tə/, of /əv/, for /fə/, and /ən/, at /ət/, can /kən/, was /wəz/, from /frəm/"
+    },
+    {
+     "title_th": "เมื่อไหร่ใช้รูปเต็ม",
+     "body_th": "ใช้รูปเต็มเมื่อคำนั้นอยู่ท้ายประโยค หรือเมื่อถูกเน้นเพื่อแย้ง",
+     "example": "Where are you from? /frɒm/ | Yes, I can. /kæn/"
+    },
+    {
+     "title_th": "can กับ can't",
+     "body_th": "ในภาษาอังกฤษแบบอังกฤษ can ในประโยคบอกเล่ามักเป็น /kən/ สั้นและเบา ส่วน can't เป็น /kɑːnt/ ยาวและเน้น คนฟังแยกสองคำนี้จากความยาว สระ และการเน้น มากกว่าจากเสียง t ท้ายคำ",
+     "example": "I can swim. /aɪ kən ˈswɪm/ | I can't swim. /aɪ ˈkɑːnt ˈswɪm/"
+    },
+    {
+     "title_th": "จังหวะตามพยางค์ที่เน้น",
+     "body_th": "ภาษาอังกฤษมีแนวโน้มให้พยางค์ที่เน้นมาเป็นจังหวะค่อนข้างสม่ำเสมอ (stress-timed rhythm) พยางค์ไม่เน้นที่อยู่ระหว่างกลางจึงถูกพูดเร็วและเบาลง",
+     "example": "ˈKIDS ˈLIKE ˈGAMES. / The ˈKIDS will ˈLIKE the ˈGAMES. ทั้งสองประโยคมีจังหวะเน้น 3 ครั้ง ประโยคที่สองจึงต้องพูดคำเล็ก ๆ ให้เร็วขึ้น"
+    },
+    {
+     "title_th": "อย่าพูดทุกพยางค์เท่ากัน",
+     "body_th": "ผู้เรียนหลายคนออกเสียงทุกพยางค์ชัดและยาวเท่ากัน ทำให้ฟังเป็นจังหวะกระแทกทีละคำ ลองลดคำไวยากรณ์ให้เบาและสั้น แล้วยืดพยางค์ที่เน้น"
+    }
+   ],
+   "vocab": [
+    [
+     "weak form",
+     "รูปเสียงเบา"
+    ],
+    [
+     "strong form",
+     "รูปเสียงเต็ม"
+    ],
+    [
+     "rhythm",
+     "จังหวะ"
+    ],
+    [
+     "stress-timed",
+     "จังหวะตามพยางค์ที่เน้น"
+    ],
+    [
+     "contraction",
+     "รูปย่อ"
+    ],
+    [
+     "reduce",
+     "ลดเสียงให้เบาลง"
+    ],
+    [
+     "beat",
+     "จังหวะเคาะ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL331-U4-01",
+     "skill": "ENL331-U4",
+     "difficulty": 1,
+     "stem": "In normal speech, how is 'to' usually pronounced in 'I want to go'?",
+     "options": [
+      "/tuː/",
+      "/tə/",
+      "/təʊ/",
+      "/tʌ/"
+     ],
+     "answer": 1,
+     "explanation_th": "to ไม่เน้นและอยู่หน้าพยัญชนะ จึงใช้รูปเบา /tə/",
+     "why_wrong": [
+      "/tuː/ เป็นรูปเต็ม ใช้เมื่อเน้นหรืออยู่ท้ายประโยค",
+      null,
+      "/təʊ/ ไม่ใช่การออกเสียงของ to",
+      "/ʌ/ เป็นสระเต็ม ไม่ใช่สระของรูปเบา"
+     ]
+    },
+    {
+     "id": "ENL331-U4-02",
+     "skill": "ENL331-U4",
+     "difficulty": 1,
+     "stem": "Which vowel appears in most weak forms?",
+     "options": [
+      "/iː/",
+      "/ɔː/",
+      "/ə/",
+      "/aɪ/"
+     ],
+     "answer": 2,
+     "explanation_th": "รูปเบาส่วนใหญ่ใช้ schwa /ə/ เช่น /tə/, /əv/, /fə/",
+     "why_wrong": [
+      "/iː/ เป็นสระยาว ไม่ใช่สระของรูปเบา",
+      "/ɔː/ เป็นสระยาว เช่นในรูปเต็มของ for /fɔː/",
+      null,
+      "/aɪ/ เป็นสระประสม ไม่ใช่สระของรูปเบา"
+     ]
+    },
+    {
+     "id": "ENL331-U4-03",
+     "skill": "ENL331-U4",
+     "difficulty": 2,
+     "stem": "In which sentence is 'from' most likely said with its strong form /frɒm/?",
+     "options": [
+      "I'm from Bangkok.",
+      "This is a letter from my friend.",
+      "She walked from the station.",
+      "Where are you from?"
+     ],
+     "answer": 3,
+     "explanation_th": "from อยู่ท้ายประโยค จึงใช้รูปเต็ม",
+     "why_wrong": [
+      "from อยู่กลางประโยค ใช้รูปเบา /frəm/",
+      "from อยู่กลางประโยค ใช้รูปเบา /frəm/",
+      "from อยู่กลางประโยค ใช้รูปเบา /frəm/",
+      null
+     ]
+    },
+    {
+     "id": "ENL331-U4-04",
+     "skill": "ENL331-U4",
+     "difficulty": 2,
+     "stem": "How can a listener usually tell 'I can go' from 'I can't go' in British English?",
+     "options": [
+      "Only by hearing a strong /t/ at the end of 'can't'.",
+      "'can't' is long and stressed, with /ɑː/; 'can' is short and weak, often /kən/.",
+      "'can' is always louder than 'can't'.",
+      "There is no difference in sound at all."
+     ],
+     "answer": 1,
+     "explanation_th": "ความต่างหลักคือความยาว สระ และการเน้น /t/ ท้าย can't มักเบามาก",
+     "why_wrong": [
+      "/t/ ท้าย can't มักแทบไม่ได้ยินในการพูดเร็ว จึงพึ่ง /t/ อย่างเดียวไม่ได้",
+      null,
+      "สลับกัน can ในประโยคบอกเล่ามักเบากว่า can't",
+      "สองคำนี้ต่างกันทั้งสระและการเน้น"
+     ]
+    },
+    {
+     "id": "ENL331-U4-05",
+     "skill": "ENL331-U4",
+     "difficulty": 2,
+     "stem": "'Yes, I can.' How is 'can' pronounced here?",
+     "options": [
+      "/kæn/, the strong form",
+      "/kən/, the weak form",
+      "/kɑːnt/",
+      "/kæŋ/"
+     ],
+     "answer": 0,
+     "explanation_th": "can อยู่ท้ายประโยคและไม่มีกริยาตามหลัง จึงใช้รูปเต็ม /kæn/",
+     "why_wrong": [
+      null,
+      "รูปเบาใช้เมื่อมีกริยาหลักตามหลัง เช่น I can swim",
+      "/kɑːnt/ คือ can't ซึ่งความหมายตรงข้าม",
+      "can ไม่ได้ลงท้ายด้วยเสียง /ŋ/"
+     ]
+    },
+    {
+     "id": "ENL331-U4-06",
+     "skill": "ENL331-U4",
+     "difficulty": 2,
+     "stem": "In 'a cup of tea', how is 'of' usually pronounced?",
+     "options": [
+      "/ɒv/",
+      "/əv/",
+      "/ɔːf/",
+      "/ʌf/"
+     ],
+     "answer": 1,
+     "explanation_th": "of ไม่เน้น จึงใช้รูปเบา /əv/ (พูดเร็วอาจเหลือแค่ /ə/)",
+     "why_wrong": [
+      "/ɒv/ เป็นรูปเต็ม ใช้เมื่อเน้น",
+      null,
+      "/ɔːf/ ไม่ใช่การออกเสียงของ of",
+      "/ʌf/ ไม่ใช่การออกเสียงของ of และ of ลงท้ายด้วย /v/"
+     ]
+    },
+    {
+     "id": "ENL331-U4-07",
+     "skill": "ENL331-U4",
+     "difficulty": 2,
+     "stem": "English rhythm is often called 'stress-timed'. What does this mean?",
+     "options": [
+      "Every syllable takes exactly the same time.",
+      "Only the first word of each sentence is stressed.",
+      "Speakers pause after every word.",
+      "Stressed syllables tend to come at fairly regular times, and unstressed ones are squeezed between them."
+     ],
+     "answer": 3,
+     "explanation_th": "จังหวะผูกกับพยางค์ที่เน้น พยางค์ไม่เน้นถูกบีบให้สั้นลง",
+     "why_wrong": [
+      "นี่ไม่ใช่ลักษณะของภาษาอังกฤษ พยางค์ไม่เน้นสั้นกว่าพยางค์ที่เน้น",
+      "ประโยคมีจุดเน้นหลายจุดตามคำเนื้อหา",
+      "ภาษาอังกฤษพูดเชื่อมกัน ไม่หยุดทุกคำ",
+      null
+     ]
+    },
+    {
+     "id": "ENL331-U4-08",
+     "skill": "ENL331-U4",
+     "difficulty": 3,
+     "stem": "In 'I was at home', which two words are usually said with the weak vowel /ə/?",
+     "options": [
+      "I, home",
+      "was, home",
+      "was, at",
+      "I, was"
+     ],
+     "answer": 2,
+     "explanation_th": "was /wəz/ และ at /ət/ เป็นรูปเบา",
+     "why_wrong": [
+      "I เป็น /aɪ/ และ home เป็นคำเนื้อหาที่เน้น",
+      "home เป็นคำเนื้อหาที่เน้น สระ /əʊ/",
+      null,
+      "I ออกเสียง /aɪ/ ไม่มี /ə/"
+     ]
+    },
+    {
+     "id": "ENL331-U4-09",
+     "skill": "ENL331-U4",
+     "difficulty": 3,
+     "stem": "'The kids will like the games' has three stressed words. Which are they?",
+     "options": [
+      "kids, like, games",
+      "the, will, the",
+      "kids, will, the",
+      "will, like, games"
+     ],
+     "answer": 0,
+     "explanation_th": "kids, like, games เป็นคำเนื้อหา จังหวะเคาะ 3 ครั้งตกที่คำเหล่านี้",
+     "why_wrong": [
+      null,
+      "ทั้งหมดเป็นคำไวยากรณ์ที่ไม่เน้น",
+      "will และ the ไม่เน้นในประโยคปกติ",
+      "will เป็นกริยาช่วย ปกติไม่เน้น"
+     ]
+    }
+   ],
+   "say": [
+    "I want to go to the shop.",
+    "I can swim, but I can't dive.",
+    "The kids will like the games."
+   ],
+   "task_th": "อ่าน 5 ประโยคนี้ช้า ๆ แล้วเร็วขึ้น โดยใช้รูปเสียงเบา: I want to go. / A cup of tea. / I was at home. / Fish and chips. / Where are you from? เคาะโต๊ะทุกพยางค์ที่เน้น อัดเสียง แล้วฟังเทียบกับเสียงจากพจนานุกรมหรือคลิปที่ผู้พูดสำเนียงอังกฤษพูดประโยคคล้ายกัน"
+  },
+  {
+   "id": "ENL331-U5",
+   "title_th": "เสียงในการพูดต่อเนื่อง",
+   "title_en": "Connected speech: linking, elision, assimilation",
+   "covers": "ข้อความภาษาอังกฤษ",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "การเชื่อมเสียง (linking)",
+     "body_th": "พยัญชนะท้ายคำเชื่อมกับสระต้นคำถัดไป จนฟังเหมือนเป็นคำเดียว",
+     "example": "pick it up → pi-ki-tup | an apple → a-napple"
+    },
+    {
+     "title_th": "linking r แบบอังกฤษ",
+     "body_th": "ในสำเนียงอังกฤษมาตรฐาน r ท้ายคำไม่ออกเสียง แต่ถ้าคำถัดไปขึ้นต้นด้วยสระ จะได้ยิน /r/",
+     "example": "far /fɑː/ แต่ far away /fɑːr əˈweɪ/ | four /fɔː/ แต่ four eggs /fɔːr eɡz/"
+    },
+    {
+     "title_th": "เสียงเชื่อม /j/ และ /w/",
+     "body_th": "ระหว่างสระกับสระ มีเสียง /j/ หรือ /w/ แทรกเบา ๆ หลังสระแบบ i ได้ /j/ หลังสระแบบ u ได้ /w/",
+     "example": "I agree /aɪ jəˈɡriː/ | go out /ɡəʊ waʊt/"
+    },
+    {
+     "title_th": "การตัดเสียง (elision)",
+     "body_th": "/t/ และ /d/ ที่อยู่ระหว่างพยัญชนะสองตัวมักหายไปในการพูดเร็ว และสระเบาในบางคำก็หายไป",
+     "example": "next week /neks wiːk/, last night /lɑːs naɪt/, different /ˈdɪfrənt/"
+    },
+    {
+     "title_th": "การกลมกลืนเสียง (assimilation)",
+     "body_th": "เสียงท้ายคำเปลี่ยนให้คล้ายเสียงถัดไป /n/ → /m/ ก่อน /p b m/ | /t/ + /j/ → /tʃ/ | /d/ + /j/ → /dʒ/ ทั้งหมดนี้เกิดในการพูดเร็ว การพูดช้าและชัดไม่ผิด แต่ต้องฟังรูปเร็วให้ออก",
+     "example": "ten pens /tem penz/, don't you /ˈdəʊntʃuː/, did you /ˈdɪdʒuː/"
+    }
+   ],
+   "vocab": [
+    [
+     "connected speech",
+     "เสียงในการพูดต่อเนื่อง"
+    ],
+    [
+     "linking",
+     "การเชื่อมเสียง"
+    ],
+    [
+     "linking r",
+     "เสียง r เชื่อม"
+    ],
+    [
+     "elision",
+     "การตัดเสียง"
+    ],
+    [
+     "assimilation",
+     "การกลมกลืนเสียง"
+    ],
+    [
+     "glide",
+     "เสียงเลื่อน /j/ /w/"
+    ],
+    [
+     "fast speech",
+     "การพูดเร็ว"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL331-U5-01",
+     "skill": "ENL331-U5",
+     "difficulty": 1,
+     "stem": "In fast speech, 'pick it up' often sounds like ___.",
+     "options": [
+      "pick. it. up. (with long pauses)",
+      "pick-up-it",
+      "pi-tup",
+      "pi-ki-tup"
+     ],
+     "answer": 3,
+     "explanation_th": "พยัญชนะท้าย /k/ และ /t/ เชื่อมกับสระของคำถัดไป",
+     "why_wrong": [
+      "การพูดต่อเนื่องไม่หยุดยาวระหว่างคำ",
+      "ลำดับคำไม่ได้เปลี่ยน",
+      "เสียง /k/ ไม่ได้หาย แต่ไปเชื่อมกับ it",
+      null
+     ]
+    },
+    {
+     "id": "ENL331-U5-02",
+     "skill": "ENL331-U5",
+     "difficulty": 1,
+     "stem": "What is 'linking' in connected speech?",
+     "options": [
+      "joining the end of one word to the start of the next",
+      "stopping clearly between every word",
+      "adding a new word to a sentence",
+      "changing the meaning of a word"
+     ],
+     "answer": 0,
+     "explanation_th": "linking คือการเชื่อมเสียงท้ายคำกับเสียงต้นคำถัดไป",
+     "why_wrong": [
+      null,
+      "นี่ตรงข้ามกับ linking",
+      "linking ไม่ได้เพิ่มคำ",
+      "linking เปลี่ยนเสียง ไม่เปลี่ยนความหมาย"
+     ]
+    },
+    {
+     "id": "ENL331-U5-03",
+     "skill": "ENL331-U5",
+     "difficulty": 2,
+     "stem": "In British English, 'far' alone is /fɑː/ with no /r/. When do you hear /r/ in 'far'?",
+     "options": [
+      "before a consonant, as in 'far behind'",
+      "always, in every position",
+      "before a vowel, as in 'far away'",
+      "never, not even before a vowel"
+     ],
+     "answer": 2,
+     "explanation_th": "linking r เกิดเมื่อคำถัดไปขึ้นต้นด้วยสระ",
+     "why_wrong": [
+      "หน้าพยัญชนะ r ไม่ออกเสียงในสำเนียงอังกฤษมาตรฐาน",
+      "ถ้าออกเสียงทุกที่จะเป็นแบบสำเนียงอเมริกัน",
+      null,
+      "หน้าสระจะได้ยิน /r/ เชื่อม"
+     ]
+    },
+    {
+     "id": "ENL331-U5-04",
+     "skill": "ENL331-U5",
+     "difficulty": 2,
+     "stem": "Which sound links the words in 'go out' /ɡəʊ waʊt/?",
+     "options": [
+      "/j/",
+      "/w/",
+      "/r/",
+      "/h/"
+     ],
+     "answer": 1,
+     "explanation_th": "หลังสระ /əʊ/ ซึ่งจบแบบ u จะแทรก /w/",
+     "why_wrong": [
+      "/j/ แทรกหลังสระแบบ i เช่น I agree",
+      null,
+      "go ไม่มีตัว r จึงไม่มี linking r",
+      "/h/ ไม่ใช่เสียงเชื่อมระหว่างสระ"
+     ]
+    },
+    {
+     "id": "ENL331-U5-05",
+     "skill": "ENL331-U5",
+     "difficulty": 2,
+     "stem": "Which sound links the words in 'I agree' /aɪ jəˈɡriː/?",
+     "options": [
+      "/w/",
+      "/r/",
+      "/t/",
+      "/j/"
+     ],
+     "answer": 3,
+     "explanation_th": "หลังสระ /aɪ/ ซึ่งจบแบบ i จะแทรก /j/",
+     "why_wrong": [
+      "/w/ แทรกหลังสระแบบ u เช่น go out",
+      "I ไม่มีตัว r จึงไม่มี linking r",
+      "/t/ ไม่ใช่เสียงเชื่อมระหว่างสระ",
+      null
+     ]
+    },
+    {
+     "id": "ENL331-U5-06",
+     "skill": "ENL331-U5",
+     "difficulty": 2,
+     "stem": "In fast speech, 'next week' often sounds like /neks wiːk/. Which sound is lost?",
+     "options": [
+      "/k/",
+      "/s/",
+      "/t/",
+      "/w/"
+     ],
+     "answer": 2,
+     "explanation_th": "/t/ อยู่ระหว่าง /ks/ กับ /w/ จึงหายไป นี่คือ elision",
+     "why_wrong": [
+      "/k/ ยังอยู่ใน /neks/",
+      "/s/ ยังอยู่ใน /neks/",
+      null,
+      "/w/ ยังอยู่ใน /wiːk/"
+     ]
+    },
+    {
+     "id": "ENL331-U5-07",
+     "skill": "ENL331-U5",
+     "difficulty": 2,
+     "stem": "'Ten pens' can sound like /tem penz/. What happened to /n/?",
+     "options": [
+      "It was deleted completely.",
+      "It changed to /m/ before /p/.",
+      "It changed to /ŋ/ before /p/.",
+      "It moved to the end of 'pens'."
+     ],
+     "answer": 1,
+     "explanation_th": "/n/ กลมกลืนเป็น /m/ เพราะ /p/ ใช้ริมฝีปากสองข้าง",
+     "why_wrong": [
+      "เสียงไม่ได้หาย แต่เปลี่ยนเป็น /m/",
+      null,
+      "/ŋ/ เกิดก่อน /k ɡ/ ไม่ใช่ก่อน /p/",
+      "เสียงไม่ได้ย้ายตำแหน่ง"
+     ]
+    },
+    {
+     "id": "ENL331-U5-08",
+     "skill": "ENL331-U5",
+     "difficulty": 3,
+     "stem": "In fast speech, 'did you' often sounds like /ˈdɪdʒuː/. What happened?",
+     "options": [
+      "/d/ and /j/ joined to make /dʒ/.",
+      "/d/ was deleted.",
+      "A linking /r/ was added.",
+      "The vowel in \"you\" became /ə/ and nothing else changed."
+     ],
+     "answer": 0,
+     "explanation_th": "/d/ + /j/ รวมเป็น /dʒ/ เป็นการกลมกลืนเสียงแบบหนึ่ง",
+     "why_wrong": [
+      null,
+      "/d/ ไม่ได้หาย แต่รวมกับ /j/",
+      "ไม่มีตัว r จึงไม่มี linking r",
+      "ในรูปนี้สระของ you ยังเป็น /uː/ และมีการเปลี่ยน /d/ + /j/ เกิดขึ้นจริง"
+     ]
+    },
+    {
+     "id": "ENL331-U5-09",
+     "skill": "ENL331-U5",
+     "difficulty": 3,
+     "stem": "Which word is usually said with FEWER syllables than its spelling suggests, because a weak vowel drops out?",
+     "options": [
+      "different",
+      "hotel",
+      "teacher",
+      "happy"
+     ],
+     "answer": 0,
+     "explanation_th": "different มักออกเสียง /ˈdɪfrənt/ 2 พยางค์ สระเบาตรงกลางหายไป",
+     "why_wrong": [
+      null,
+      "hotel ออกเสียง 2 พยางค์ตามตัวสะกด",
+      "teacher ออกเสียง 2 พยางค์ตามตัวสะกด",
+      "happy ออกเสียง 2 พยางค์ตามตัวสะกด"
+     ]
+    }
+   ],
+   "say": [
+    "Pick it up and put it on.",
+    "I agree. Far away. Go out.",
+    "Did you see the next bus?"
+   ],
+   "task_th": "หาคลิปสั้นสำเนียงอังกฤษ (ข่าวหรือ vlog) ที่มีซับไตเติล ฟัง 30 วินาที จดจุดที่ได้ยินการเชื่อมเสียงอย่างน้อย 5 จุด เขียนว่าเป็นแบบไหน (linking, linking r, elision, assimilation) แล้วพูดตามประโยคเหล่านั้นทันที (shadowing) 3 รอบ"
+  },
+  {
+   "id": "ENL331-U6",
+   "title_th": "ทำนองเสียงขึ้นลง",
+   "title_en": "Intonation",
+   "covers": "และข้อความภาษาอังกฤษ",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "วรรณยุกต์ไทยกับทำนองเสียงอังกฤษ",
+     "body_th": "ภาษาไทยใช้ระดับเสียงแยกความหมายของคำ (tone) ภาษาอังกฤษใช้เสียงขึ้นลงทั้งกลุ่มคำ (intonation) เพื่อบอกชนิดประโยคและความรู้สึก คำว่า yes จะขึ้นหรือลงก็ยังแปลว่า yes แต่ทัศนคติเปลี่ยน"
+    },
+    {
+     "title_th": "เสียงลง ↘ (fall)",
+     "body_th": "ใช้กับประโยคบอกเล่า คำสั่ง และคำถาม wh- แบบปกติ ฟังแล้วจบ มั่นใจ",
+     "example": "I live in ↘Bangkok. | Where do you ↘live?"
+    },
+    {
+     "title_th": "เสียงขึ้น ↗ (rise)",
+     "body_th": "ใช้กับคำถาม yes/no แบบปกติ การทวนถามด้วยความแปลกใจ และรายการที่ยังพูดไม่จบ",
+     "example": "Are you ↗ready? | ↗Really? | apples ↗, oranges ↗, and ↘bananas"
+    },
+    {
+     "title_th": "ลงแล้วขึ้น ↘↗ (fall-rise)",
+     "body_th": "บอกว่ายังมีอะไรค้างอยู่ ไม่แน่ใจ หรืออยากพูดอย่างสุภาพ มักแฝงความหมายว่า แต่...",
+     "example": "The food was ↘↗nice... (แต่บางอย่างไม่ค่อยดี)"
+    },
+    {
+     "title_th": "question tag",
+     "body_th": "tag เสียงลง: ผู้พูดค่อนข้างแน่ใจ แค่อยากให้อีกฝ่ายเห็นด้วย | tag เสียงขึ้น: ถามจริงเพราะไม่แน่ใจ",
+     "example": "It's hot today, ↘isn't it? | You're coming, ↗aren't you?"
+    }
+   ],
+   "vocab": [
+    [
+     "intonation",
+     "ทำนองเสียงขึ้นลง"
+    ],
+    [
+     "tone",
+     "วรรณยุกต์ (ในภาษาไทย)"
+    ],
+    [
+     "fall",
+     "เสียงลง"
+    ],
+    [
+     "rise",
+     "เสียงขึ้น"
+    ],
+    [
+     "fall-rise",
+     "เสียงลงแล้วขึ้น"
+    ],
+    [
+     "question tag",
+     "คำถามท้ายประโยค"
+    ],
+    [
+     "attitude",
+     "ทัศนคติ"
+    ],
+    [
+     "tone unit",
+     "กลุ่มทำนองเสียง"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL331-U6-01",
+     "skill": "ENL331-U6",
+     "difficulty": 1,
+     "stem": "Which intonation is most usual for a neutral statement like 'I live in Bangkok'?",
+     "options": [
+      "rising",
+      "fall-rise",
+      "falling",
+      "rising on every word"
+     ],
+     "answer": 2,
+     "explanation_th": "ประโยคบอกเล่าแบบปกติใช้เสียงลง ฟังจบและมั่นใจ",
+     "why_wrong": [
+      "เสียงขึ้นจะทำให้ฟังเหมือนถามหรือยังไม่จบ",
+      "fall-rise แฝงความหมายว่ายังมีอะไรค้าง",
+      null,
+      "ภาษาอังกฤษไม่ได้ขึ้นเสียงทุกคำ"
+     ]
+    },
+    {
+     "id": "ENL331-U6-02",
+     "skill": "ENL331-U6",
+     "difficulty": 1,
+     "stem": "Which intonation is most usual for a neutral yes/no question like 'Are you ready?'",
+     "options": [
+      "falling",
+      "flat with no change",
+      "fall-rise",
+      "rising"
+     ],
+     "answer": 3,
+     "explanation_th": "คำถาม yes/no แบบปกติมักใช้เสียงขึ้น",
+     "why_wrong": [
+      "เสียงลงเป็นแบบปกติของคำถาม wh- มากกว่า",
+      "ภาษาอังกฤษใช้เสียงขึ้นลงบอกชนิดประโยค ไม่ราบเรียบ",
+      "fall-rise ใช้แสดงความลังเลหรือมีอะไรค้าง",
+      null
+     ]
+    },
+    {
+     "id": "ENL331-U6-03",
+     "skill": "ENL331-U6",
+     "difficulty": 1,
+     "stem": "Which intonation is most usual for a neutral wh-question like 'Where do you live?'",
+     "options": [
+      "rising",
+      "falling",
+      "fall-rise",
+      "rising, then flat"
+     ],
+     "answer": 1,
+     "explanation_th": "คำถาม wh- แบบปกติใช้เสียงลง",
+     "why_wrong": [
+      "เสียงขึ้นกับคำถาม wh- มักใช้ตอนทวนถาม ไม่ใช่แบบปกติ",
+      null,
+      "fall-rise แฝงความลังเล ไม่ใช่คำถามปกติ",
+      "ไม่ใช่รูปแบบปกติของคำถาม wh-"
+     ]
+    },
+    {
+     "id": "ENL331-U6-04",
+     "skill": "ENL331-U6",
+     "difficulty": 2,
+     "stem": "'It's hot today, isn't it?' The tag has a FALLING tone. What does the speaker want?",
+     "options": [
+      "real information, because the speaker has no idea",
+      "to change the topic",
+      "to show anger",
+      "agreement, because the speaker is fairly sure"
+     ],
+     "answer": 3,
+     "explanation_th": "tag เสียงลงแสดงว่าผู้พูดแน่ใจ แค่ชวนให้เห็นด้วย",
+     "why_wrong": [
+      "ถ้าถามจริงเพราะไม่รู้ tag มักเป็นเสียงขึ้น",
+      "tag นี้ยังพูดเรื่องเดิมคืออากาศ",
+      "เสียงลงใน tag ไม่ได้แปลว่าโกรธ",
+      null
+     ]
+    },
+    {
+     "id": "ENL331-U6-05",
+     "skill": "ENL331-U6",
+     "difficulty": 2,
+     "stem": "In a list like 'apples, oranges and bananas', which pattern is usual?",
+     "options": [
+      "fall on every item",
+      "rise on every item",
+      "rise on apples and oranges, fall on bananas",
+      "fall on apples, rise on bananas"
+     ],
+     "answer": 2,
+     "explanation_th": "รายการที่ยังไม่จบใช้เสียงขึ้น ตัวสุดท้ายใช้เสียงลงเพื่อบอกว่าจบ",
+     "why_wrong": [
+      "ถ้าลงทุกตัวจะฟังเหมือนจบหลายครั้ง",
+      "ถ้าขึ้นทุกตัว คนฟังจะรอว่ายังมีอีก",
+      null,
+      "สลับกัน ตัวสุดท้ายควรลง"
+     ]
+    },
+    {
+     "id": "ENL331-U6-06",
+     "skill": "ENL331-U6",
+     "difficulty": 2,
+     "stem": "A: 'Did you like the film?' B: 'The music was good...' (fall-rise). What does B suggest?",
+     "options": [
+      "B did not like some other parts of the film.",
+      "B loved everything about the film.",
+      "B did not see the film.",
+      "B is asking A a question."
+     ],
+     "answer": 0,
+     "explanation_th": "fall-rise แฝงความหมายว่า แต่... ส่วนอื่นอาจไม่ดี",
+     "why_wrong": [
+      null,
+      "ถ้าชอบทั้งหมดจะไม่ชมแค่ดนตรีด้วยเสียงค้างแบบนี้",
+      "B พูดถึงดนตรีในหนัง แปลว่าได้ดู",
+      "ประโยคของ B เป็นประโยคบอกเล่า ไม่ใช่คำถาม"
+     ]
+    },
+    {
+     "id": "ENL331-U6-07",
+     "skill": "ENL331-U6",
+     "difficulty": 2,
+     "stem": "How is English intonation different from Thai tones?",
+     "options": [
+      "They are exactly the same system.",
+      "Thai tones change word meaning; English intonation mainly shows sentence type and attitude.",
+      "English uses tones to tell words apart, and Thai does not.",
+      "English sentences have no pitch changes."
+     ],
+     "answer": 1,
+     "explanation_th": "ในภาษาไทยระดับเสียงแยกคำ ในภาษาอังกฤษเสียงขึ้นลงบอกชนิดประโยคและทัศนคติ",
+     "why_wrong": [
+      "สองระบบทำงานต่างกัน",
+      null,
+      "สลับกัน ภาษาไทยใช้วรรณยุกต์แยกคำ",
+      "ภาษาอังกฤษมีเสียงขึ้นลงตลอด"
+     ]
+    },
+    {
+     "id": "ENL331-U6-08",
+     "skill": "ENL331-U6",
+     "difficulty": 3,
+     "stem": "'You're a student?' said with a RISING tone is most likely ___.",
+     "options": [
+      "a firm statement of fact",
+      "a question that checks or shows surprise",
+      "an order",
+      "a way to say goodbye"
+     ],
+     "answer": 1,
+     "explanation_th": "โครงสร้างเป็นประโยคบอกเล่า แต่เสียงขึ้นทำให้เป็นคำถามทวนหรือแสดงความแปลกใจ",
+     "why_wrong": [
+      "ถ้าเป็นข้อเท็จจริงหนักแน่นจะใช้เสียงลง",
+      null,
+      "ประโยคนี้ไม่ใช่คำสั่ง",
+      "ประโยคนี้ไม่ได้ใช้บอกลา"
+     ]
+    },
+    {
+     "id": "ENL331-U6-09",
+     "skill": "ENL331-U6",
+     "difficulty": 3,
+     "stem": "'Would you like tea or coffee?' If the voice rises on 'tea' and falls on 'coffee', what does the speaker mean?",
+     "options": [
+      "Choose one of these two drinks.",
+      "Would you like any drink at all?",
+      "You must have both drinks.",
+      "There is no tea today."
+     ],
+     "answer": 0,
+     "explanation_th": "ขึ้นแล้วลงที่ตัวสุดท้ายบอกว่าตัวเลือกมีแค่สองอย่างนี้ ให้เลือกหนึ่ง",
+     "why_wrong": [
+      null,
+      "ความหมายนี้มักใช้เสียงขึ้นที่ coffee เป็นคำถาม yes/no",
+      "or หมายถึงเลือกอย่างใดอย่างหนึ่ง ไม่ใช่ทั้งสอง",
+      "ประโยคนี้เสนอชาเป็นตัวเลือก จึงมีชา"
+     ]
+    }
+   ],
+   "say": [
+    "Are you ready? Yes, I'm ready.",
+    "It's hot today, isn't it?",
+    "I'd like apples, oranges, and bananas."
+   ],
+   "task_th": "อัดเสียงตัวเองพูด Really? Yes. Sorry. คำละ 3 แบบ คือ เสียงลง เสียงขึ้น และลงแล้วขึ้น เขียนข้างแต่ละแบบว่าให้ความรู้สึกอย่างไร (แน่ใจ แปลกใจ ลังเล) จากนั้นพูด question tag 2 ประโยค ทั้งแบบ tag ลงและ tag ขึ้น แล้วฟังว่าความหมายต่างกันชัดไหม"
+  },
+  {
+   "id": "ENL331-U7",
+   "title_th": "ฝึกฟังและพูดระดับคำและประโยค",
+   "title_en": "Listening and speaking at word and sentence level",
+   "covers": "รวมทั้งฝึกฟังและออกเสียงในระดับคำ และประโยค",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "ฟังคำที่เน้นก่อน",
+     "body_th": "เวลาฟังการพูดเร็ว คำที่ได้ยินชัดคือคำเนื้อหาที่เน้น จับคำเหล่านี้ให้ได้ก่อน แล้วเดาคำเล็ก ๆ จากไวยากรณ์ จะเข้าใจใจความได้แม้ฟังไม่ครบทุกคำ"
+    },
+    {
+     "title_th": "13 กับ 30",
+     "body_th": "thirteen /ˌθɜːˈtiːn/ เมื่อพูดเดี่ยว ๆ เน้นพยางค์หลัง สระ /iː/ ยาว และมี /n/ ท้าย | thirty /ˈθɜːti/ เน้นพยางค์แรก ลงท้ายด้วย /i/ สั้น ระวังว่าถ้ามีคำนามตามหลัง เช่น thirteen people เน้นของ thirteen อาจย้ายมาข้างหน้า ให้ฟังสระและ /n/ ท้ายประกอบ"
+    },
+    {
+     "title_th": "รูปย่อที่ต้องฟังให้ออก",
+     "body_th": "'s = is หรือ has | 'd = would หรือ had | 'll = will ดูคำที่ตามมาช่วยตัดสิน",
+     "example": "He's tired (is) / He's gone (has) | I'd like (would) / I'd finished (had)"
+    },
+    {
+     "title_th": "shadowing",
+     "body_th": "เปิดคลิปสั้น ฟังทีละประโยค แล้วพูดตามทันทีให้ใกล้เคียงทั้งการเน้น จังหวะ และทำนองเสียง ไม่ต้องพูดทุกเสียงให้ชัด ให้เลียนแบบดนตรีของประโยค"
+    },
+    {
+     "title_th": "เขียนตามคำบอก (dictation)",
+     "body_th": "ฟังประโยคแล้วเขียน จุดที่เขียนตกมักเป็นรูปเสียงเบาหรือการเชื่อมเสียง ใช้จุดนั้นเป็นรายการฝึกของตัวเอง"
+    }
+   ],
+   "vocab": [
+    [
+     "shadowing",
+     "การพูดตามเสียงทันที"
+    ],
+    [
+     "dictation",
+     "การเขียนตามคำบอก"
+    ],
+    [
+     "key word",
+     "คำสำคัญ"
+    ],
+    [
+     "contraction",
+     "รูปย่อ"
+    ],
+    [
+     "listen for gist",
+     "ฟังจับใจความ"
+    ],
+    [
+     "clarify",
+     "ขอให้ชี้แจงให้ชัด"
+    ],
+    [
+     "minimal pair",
+     "คู่คำที่ต่างกันเสียงเดียว"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL331-U7-01",
+     "skill": "ENL331-U7",
+     "difficulty": 1,
+     "stem": "When you listen to fast English, which words are usually easiest to catch?",
+     "options": [
+      "articles like 'a' and 'the'",
+      "weak forms like /tə/ and /əv/",
+      "every word is equally easy",
+      "stressed content words"
+     ],
+     "answer": 3,
+     "explanation_th": "คำเนื้อหาที่เน้นยาวกว่าและชัดกว่า จึงฟังง่ายที่สุด",
+     "why_wrong": [
+      "คำนำหน้านามสั้นและเบา ฟังยาก",
+      "รูปเสียงเบาสั้นและไม่เน้น ฟังยาก",
+      "ในภาษาอังกฤษคำแต่ละคำชัดไม่เท่ากัน",
+      null
+     ]
+    },
+    {
+     "id": "ENL331-U7-02",
+     "skill": "ENL331-U7",
+     "difficulty": 1,
+     "stem": "Said alone, which number is stressed on its SECOND syllable?",
+     "options": [
+      "thirty",
+      "forty",
+      "thirteen",
+      "fifty"
+     ],
+     "answer": 2,
+     "explanation_th": "thirteen /ˌθɜːˈtiːn/ เมื่อพูดเดี่ยว ๆ เน้น -teen",
+     "why_wrong": [
+      "thirty เน้นพยางค์แรก",
+      "forty เน้นพยางค์แรก",
+      null,
+      "fifty เน้นพยางค์แรก"
+     ]
+    },
+    {
+     "id": "ENL331-U7-03",
+     "skill": "ENL331-U7",
+     "difficulty": 2,
+     "stem": "You hear 'He's gone home.' What does 'He's' mean here?",
+     "options": [
+      "He is",
+      "He was",
+      "He has",
+      "He does"
+     ],
+     "answer": 2,
+     "explanation_th": "gone เป็นกริยาช่อง 3 ใน present perfect จึงเป็น has",
+     "why_wrong": [
+      "'s แปลว่า is ได้ แต่ he is + gone ไม่ใช่รูป present perfect ปกติ",
+      "'s ไม่ใช่รูปย่อของ was",
+      null,
+      "'s ไม่ใช่รูปย่อของ does"
+     ]
+    },
+    {
+     "id": "ENL331-U7-04",
+     "skill": "ENL331-U7",
+     "difficulty": 2,
+     "stem": "You hear 'I'd like a coffee.' What does 'I'd' mean here?",
+     "options": [
+      "I would",
+      "I had",
+      "I did",
+      "I could"
+     ],
+     "answer": 0,
+     "explanation_th": "I would like เป็นสำนวนขอสิ่งของอย่างสุภาพ",
+     "why_wrong": [
+      null,
+      "'d แปลว่า had ได้ แต่ต้องตามด้วยกริยาช่อง 3 ไม่ใช่ like",
+      "'d ไม่ใช่รูปย่อของ did",
+      "'d ไม่ใช่รูปย่อของ could"
+     ]
+    },
+    {
+     "id": "ENL331-U7-05",
+     "skill": "ENL331-U7",
+     "difficulty": 2,
+     "stem": "You hear 'She'd already left when I arrived.' What does 'She'd' mean here?",
+     "options": [
+      "She would",
+      "She had",
+      "She did",
+      "She should"
+     ],
+     "answer": 1,
+     "explanation_th": "left เป็นกริยาช่อง 3 และมี already จึงเป็น past perfect: she had left",
+     "why_wrong": [
+      "would ต้องตามด้วยกริยาช่อง 1 เช่น would leave",
+      null,
+      "'d ไม่ใช่รูปย่อของ did",
+      "'d ไม่ใช่รูปย่อของ should"
+     ]
+    },
+    {
+     "id": "ENL331-U7-06",
+     "skill": "ENL331-U7",
+     "difficulty": 2,
+     "stem": "What is 'shadowing'?",
+     "options": [
+      "reading silently without making any sound",
+      "writing down every word you hear",
+      "translating each sentence into Thai",
+      "listening to a short clip and repeating it at once, copying stress, rhythm and intonation"
+     ],
+     "answer": 3,
+     "explanation_th": "shadowing คือพูดตามทันที เลียนแบบดนตรีของประโยค",
+     "why_wrong": [
+      "shadowing ต้องพูดออกเสียง",
+      "การเขียนสิ่งที่ได้ยินคือ dictation",
+      "shadowing ไม่ได้แปล แต่พูดตามเป็นภาษาอังกฤษ",
+      null
+     ]
+    },
+    {
+     "id": "ENL331-U7-07",
+     "skill": "ENL331-U7",
+     "difficulty": 2,
+     "stem": "You are not sure if someone said '13' or '30'. What is the most useful thing to say?",
+     "options": [
+      "Yes, OK.",
+      "Please speak Thai.",
+      "I don't like numbers.",
+      "Sorry, is that one-three or three-zero?"
+     ],
+     "answer": 3,
+     "explanation_th": "ถามกลับโดยแยกตัวเลขทีละหลัก ทำให้ได้คำตอบชัดที่สุด",
+     "why_wrong": [
+      "ตอบรับโดยไม่แน่ใจอาจทำให้ข้อมูลผิด",
+      "คู่สนทนาอาจพูดภาษาไทยไม่ได้ และไม่ได้ฝึกฟัง",
+      "ประโยคนี้ไม่ได้ช่วยให้รู้ว่าเลขอะไร",
+      null
+     ]
+    },
+    {
+     "id": "ENL331-U7-08",
+     "skill": "ENL331-U7",
+     "difficulty": 3,
+     "stem": "You hear /aɪ kən ˈkʌm/. Which sentence did you hear?",
+     "options": [
+      "I can't come.",
+      "I can come.",
+      "I came.",
+      "I'll come."
+     ],
+     "answer": 1,
+     "explanation_th": "/kən/ เป็นรูปเบาของ can",
+     "why_wrong": [
+      "can't จะเป็น /kɑːnt/ สระยาวและเน้น",
+      null,
+      "came เป็น /keɪm/ ไม่มี /kən/",
+      "I'll come ไม่มีเสียง /kən/"
+     ]
+    },
+    {
+     "id": "ENL331-U7-09",
+     "skill": "ENL331-U7",
+     "difficulty": 3,
+     "stem": "In a dictation, you miss the small words in 'a cup of tea'. Why is this common?",
+     "options": [
+      "'a' and 'of' are weak forms, short and unstressed.",
+      "'cup' and 'tea' are silent.",
+      "British speakers never say 'of'.",
+      "Small words are always dropped in writing."
+     ],
+     "answer": 0,
+     "explanation_th": "a /ə/ และ of /əv/ เป็นรูปเบา สั้นและเบา จึงฟังยาก",
+     "why_wrong": [
+      null,
+      "cup และ tea เป็นคำที่เน้น ได้ยินชัด",
+      "of ยังออกเสียงอยู่ แค่เป็นรูปเบา",
+      "ในการเขียนต้องเขียนคำเล็ก ๆ ครบ"
+     ]
+    }
+   ],
+   "say": [
+    "Sorry, could you say that again?",
+    "Is that thirteen or thirty?",
+    "I'd like a cup of tea, please."
+   ],
+   "task_th": "เลือกคลิปสำเนียงอังกฤษยาว 20-30 วินาทีที่มีซับไตเติล ปิดซับแล้วเขียนตามคำบอกทีละประโยค จากนั้นเปิดซับเทียบ วงคำที่เขียนตก แล้วเขียนว่าตกเพราะเป็นรูปเสียงเบา การเชื่อมเสียง หรือคำศัพท์ที่ไม่รู้ สุดท้าย shadowing ทั้งคลิป 2 รอบ"
+  }
+ ]
+}

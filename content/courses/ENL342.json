@@ -1,0 +1,1821 @@
+{
+ "code": "ENL342",
+ "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+ "in_class_th": [
+  "น่าจะเรียนเรียงตามยุค ตั้งแต่ยุคกลางของอังกฤษไปจนถึงศตวรรษที่ 20 ทั้งฝั่งอังกฤษและอเมริกา",
+  "น่าจะได้อ่านบางตอนจากงานคลาสสิก เช่น บทละครหรือซอนเน็ตของเชกสเปียร์ กวีโรแมนติก และนวนิยายยุควิกตอเรีย",
+  "น่าจะต้องอธิบายว่าสภาพสังคมในแต่ละยุค เช่น การปฏิวัติอุตสาหกรรมหรือสงคราม ส่งผลต่อเนื้อหาของงานอย่างไร",
+  "อาจมีข้อสอบจับคู่ผู้แต่ง ผลงาน และยุค จึงควรจำชื่อหลัก ๆ ไว้ก่อน",
+  "ต่อยอดจาก ENL341 โดยตรง น่าจะต้องใช้ศัพท์ plot, theme, symbol, irony ในการวิเคราะห์งาน"
+ ],
+ "units": [
+  {
+   "id": "ENL342-U1",
+   "title_th": "แผนที่ยุคของวรรณกรรม",
+   "title_en": "A map of the periods",
+   "covers": "ในสมัยต่าง ๆ",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "ทำไมเรียนตามยุค",
+     "body_th": "งานเขียนสะท้อนความคิด ความเชื่อ และปัญหาของสังคมในเวลานั้น รู้ยุคช่วยให้เข้าใจว่าทำไมนักเขียนสนใจเรื่องบางเรื่อง และทำไมภาษาหน้าตาเป็นแบบนั้น"
+    },
+    {
+     "title_th": "ยุคหลักฝั่งอังกฤษ",
+     "body_th": "Old English (ก่อนการพิชิตของชาวนอร์มันปี 1066) → Middle English (Chaucer) → Renaissance (Shakespeare) → ศตวรรษที่ 18 (นวนิยายเริ่มแพร่หลาย) → Romantic (ปลายศตวรรษที่ 18 ถึงต้นศตวรรษที่ 19) → Victorian (1837-1901 รัชสมัยพระราชินีวิกตอเรีย) → Modernism (ต้นศตวรรษที่ 20)"
+    },
+    {
+     "title_th": "ยุคหลักฝั่งอเมริกา",
+     "body_th": "งานยุคอาณานิคมและพวกพิวริตัน (Puritan) → American Romanticism และ Transcendentalism (กลางศตวรรษที่ 19) → Realism (เติบโตหลังสงครามกลางเมือง 1861-1865) → Modernism (ต้นศตวรรษที่ 20 โดยเฉพาะหลังสงครามโลกครั้งที่ 1)"
+    },
+    {
+     "title_th": "ภาษาเปลี่ยนตามยุค",
+     "body_th": "Old English คนปัจจุบันอ่านแทบไม่ออก Middle English พอเดาได้ ส่วนภาษาของเชกสเปียร์เป็น Early Modern English ซึ่งยังมีคำอย่าง thee, thou, art",
+     "example": "'Thou art more lovely and more temperate' (Shakespeare, Sonnet 18)"
+    }
+   ],
+   "vocab": [
+    [
+     "period",
+     "ยุค"
+    ],
+    [
+     "Old English",
+     "ภาษาอังกฤษเก่า"
+    ],
+    [
+     "Middle English",
+     "ภาษาอังกฤษสมัยกลาง"
+    ],
+    [
+     "Renaissance",
+     "ยุคฟื้นฟูศิลปวิทยา"
+    ],
+    [
+     "Romanticism",
+     "จินตนิยม"
+    ],
+    [
+     "Victorian",
+     "สมัยวิกตอเรีย"
+    ],
+    [
+     "Modernism",
+     "สมัยใหม่นิยม"
+    ],
+    [
+     "Puritan",
+     "พวกพิวริตัน"
+    ],
+    [
+     "social background",
+     "ภูมิหลังทางสังคม"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL342-U1-01",
+     "skill": "ENL342-U1",
+     "difficulty": 1,
+     "stem": "Which list puts these British periods in order, from oldest to newest?",
+     "options": [
+      "Victorian, Romantic, Renaissance, Middle English",
+      "Middle English, Renaissance, Romantic, Victorian",
+      "Renaissance, Middle English, Victorian, Romantic",
+      "Romantic, Victorian, Middle English, Renaissance"
+     ],
+     "answer": 1,
+     "explanation_th": "Chaucer (Middle English) → Shakespeare (Renaissance) → Romantic → Victorian",
+     "why_wrong": [
+      "เรียงจากใหม่ไปเก่า กลับด้าน",
+      null,
+      "Middle English มาก่อน Renaissance และ Romantic มาก่อน Victorian",
+      "Middle English และ Renaissance เก่ากว่า Romantic"
+     ]
+    },
+    {
+     "id": "ENL342-U1-02",
+     "skill": "ENL342-U1",
+     "difficulty": 1,
+     "stem": "The Victorian period is named after ___.",
+     "options": [
+      "Queen Victoria",
+      "a famous novel",
+      "a city in America",
+      "a poet called Victor"
+     ],
+     "answer": 0,
+     "explanation_th": "ยุควิกตอเรียตรงกับรัชสมัยพระราชินีวิกตอเรีย 1837-1901",
+     "why_wrong": [
+      null,
+      "ชื่อยุคไม่ได้มาจากนวนิยาย",
+      "ชื่อยุคไม่ได้มาจากเมืองในอเมริกา",
+      "ไม่มีกวีชื่อนี้ที่เป็นที่มาของชื่อยุค"
+     ]
+    },
+    {
+     "id": "ENL342-U1-03",
+     "skill": "ENL342-U1",
+     "difficulty": 1,
+     "stem": "Which stage of English did Shakespeare write in?",
+     "options": [
+      "Old English",
+      "Middle English",
+      "Modern American English",
+      "Early Modern English"
+     ],
+     "answer": 3,
+     "explanation_th": "เชกสเปียร์ (1564-1616) ใช้ภาษาอังกฤษสมัยใหม่ตอนต้น",
+     "why_wrong": [
+      "Old English เก่ากว่ามาก เช่น ภาษาของ Beowulf",
+      "Middle English เป็นภาษาของ Chaucer",
+      "เชกสเปียร์เป็นชาวอังกฤษ และอยู่ก่อนภาษาอเมริกันสมัยใหม่",
+      null
+     ]
+    },
+    {
+     "id": "ENL342-U1-04",
+     "skill": "ENL342-U1",
+     "difficulty": 2,
+     "stem": "Why do literature courses often study works by period?",
+     "options": [
+      "All writers in one period wrote the same story.",
+      "Older works are always better.",
+      "Works reflect the ideas and society of their time.",
+      "Dates are more important than the texts."
+     ],
+     "answer": 2,
+     "explanation_th": "งานเขียนสะท้อนความคิดและสังคมของยุค จึงเข้าใจได้ดีขึ้นเมื่อรู้บริบท",
+     "why_wrong": [
+      "นักเขียนยุคเดียวกันเขียนเรื่องต่างกันมาก",
+      "ไม่มีหลักว่างานเก่าดีกว่าเสมอ",
+      null,
+      "ตัวงานสำคัญที่สุด ยุคเป็นแค่บริบท"
+     ]
+    },
+    {
+     "id": "ENL342-U1-05",
+     "skill": "ENL342-U1",
+     "difficulty": 2,
+     "stem": "Which event is usually used to mark the end of the Old English period?",
+     "options": [
+      "the death of Shakespeare",
+      "the American Civil War",
+      "the Norman Conquest of 1066",
+      "the First World War"
+     ],
+     "answer": 2,
+     "explanation_th": "การพิชิตของชาวนอร์มันปี 1066 นำภาษาฝรั่งเศสเข้ามาและเปลี่ยนภาษาอังกฤษมาก",
+     "why_wrong": [
+      "เชกสเปียร์อยู่หลังยุค Old English หลายร้อยปี",
+      "สงครามกลางเมืองอเมริกาเกิดในศตวรรษที่ 19",
+      null,
+      "สงครามโลกครั้งที่ 1 เกิดในศตวรรษที่ 20"
+     ]
+    },
+    {
+     "id": "ENL342-U1-06",
+     "skill": "ENL342-U1",
+     "difficulty": 2,
+     "stem": "Which of these came FIRST in American literature?",
+     "options": [
+      "Puritan and colonial writing",
+      "Realism",
+      "Modernism",
+      "the Harlem Renaissance"
+     ],
+     "answer": 0,
+     "explanation_th": "งานยุคอาณานิคมของพวกพิวริตันเป็นจุดเริ่มต้น",
+     "why_wrong": [
+      null,
+      "Realism เติบโตหลังสงครามกลางเมือง",
+      "Modernism อยู่ในศตวรรษที่ 20",
+      "Harlem Renaissance อยู่ในทศวรรษ 1920"
+     ]
+    },
+    {
+     "id": "ENL342-U1-07",
+     "skill": "ENL342-U1",
+     "difficulty": 2,
+     "stem": "'Thou art more lovely' uses 'thou' and 'art'. What do they mean in modern English?",
+     "options": [
+      "they were",
+      "you are",
+      "I am",
+      "we have"
+     ],
+     "answer": 1,
+     "explanation_th": "thou = you และ art = are ในภาษาสมัยเชกสเปียร์",
+     "why_wrong": [
+      "thou ไม่ได้แปลว่า they",
+      null,
+      "thou ไม่ได้แปลว่า I",
+      "art ไม่ได้แปลว่า have"
+     ]
+    },
+    {
+     "id": "ENL342-U1-08",
+     "skill": "ENL342-U1",
+     "difficulty": 2,
+     "stem": "Which of these writers is American?",
+     "options": [
+      "Charles Dickens",
+      "Jane Austen",
+      "Geoffrey Chaucer",
+      "Mark Twain"
+     ],
+     "answer": 3,
+     "explanation_th": "Mark Twain เป็นนักเขียนอเมริกัน ผู้เขียน Adventures of Huckleberry Finn",
+     "why_wrong": [
+      "Dickens เป็นนักเขียนอังกฤษยุควิกตอเรีย",
+      "Austen เป็นนักเขียนอังกฤษ",
+      "Chaucer เป็นกวีอังกฤษยุคกลาง",
+      null
+     ]
+    },
+    {
+     "id": "ENL342-U1-09",
+     "skill": "ENL342-U1",
+     "difficulty": 3,
+     "stem": "Which American movement grew strongly after the Civil War (1861 to 1865)?",
+     "options": [
+      "Realism",
+      "Puritan writing",
+      "Old English poetry",
+      "Transcendentalism"
+     ],
+     "answer": 0,
+     "explanation_th": "หลังสงคราม นักเขียนหันมาเล่าชีวิตจริงของคนธรรมดา เช่น Mark Twain",
+     "why_wrong": [
+      null,
+      "งานพิวริตันอยู่ในยุคอาณานิคม ก่อนหน้านั้นมาก",
+      "Old English เป็นของอังกฤษยุคก่อน 1066",
+      "Transcendentalism เด่นช่วงก่อนสงคราม"
+     ]
+    }
+   ],
+   "say": [
+    "I think the Victorian period is the most interesting.",
+    "Old English looks like a different language to me.",
+    "Literature changes when society changes."
+   ],
+   "task_th": "วาดเส้นเวลาบนกระดาษ 1 แผ่น แบ่งสองแถว (Britain / America) ใส่ยุคหลักจากการ์ด และใส่เหตุการณ์ 3 อย่าง: 1066, สงครามกลางเมืองอเมริกา 1861-1865, สงครามโลกครั้งที่ 1 1914-1918 เก็บไว้เติมชื่อผู้แต่งในหน่วยต่อ ๆ ไป"
+  },
+  {
+   "id": "ENL342-U2",
+   "title_th": "จุดเริ่มต้น: ภาษาอังกฤษเก่าและสมัยกลาง",
+   "title_en": "Beginnings: Old and Middle English",
+   "covers": "ลักษณะ",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "Beowulf",
+     "body_th": "มหากาพย์ (epic) ภาษาอังกฤษเก่าที่มีชื่อที่สุด ไม่ทราบชื่อผู้แต่ง วีรบุรุษ Beowulf ต่อสู้กับอสูร Grendel แม่ของ Grendel และมังกร เรื่องสะท้อนค่านิยมนักรบ เช่น ความกล้าหาญ ความภักดีต่อผู้นำ และชื่อเสียง"
+    },
+    {
+     "title_th": "เล่าด้วยเสียง",
+     "body_th": "กวีนิพนธ์ภาษาอังกฤษเก่ามีรากจากการท่องและเล่าด้วยปากเปล่า (oral tradition) และใช้การซ้ำเสียงพยัญชนะต้น (alliteration) เป็นโครงของบรรทัด ซึ่งช่วยให้จำและแสดงได้ง่าย"
+    },
+    {
+     "title_th": "Chaucer กับ The Canterbury Tales",
+     "body_th": "Geoffrey Chaucer เขียนเป็นภาษาอังกฤษสมัยกลางในปลายศตวรรษที่ 14 ในเรื่อง ผู้แสวงบุญกลุ่มหนึ่งเดินทางไปเมือง Canterbury และเล่านิทานแข่งกันระหว่างทาง",
+     "example": "'Whan that Aprille with his shoures soote' (บรรทัดแรก ภาษาอังกฤษสมัยกลาง)"
+    },
+    {
+     "title_th": "ภาพของสังคมยุคกลาง",
+     "body_th": "ผู้แสวงบุญของ Chaucer มาจากหลายชนชั้นและอาชีพ เช่น อัศวิน นักบวช พ่อค้า และคนทำงานฝีมือ จึงเห็นภาพสังคมอังกฤษยุคกลางหลายด้าน Chaucer ยังเสียดสีความโลภและความหน้าไหว้หลังหลอกของบางคน รวมทั้งคนในศาสนา"
+    },
+    {
+     "title_th": "อัศวินและศาสนา",
+     "body_th": "ในยุคกลาง คริสตจักรเป็นศูนย์กลางของชีวิต และเรื่องอัศวินผจญภัย (romance) เป็นที่นิยม Sir Gawain and the Green Knight เป็นเรื่องอัศวินภาษาอังกฤษสมัยกลางที่ไม่ทราบชื่อผู้แต่ง"
+    }
+   ],
+   "vocab": [
+    [
+     "epic",
+     "มหากาพย์"
+    ],
+    [
+     "hero",
+     "วีรบุรุษ"
+    ],
+    [
+     "anonymous",
+     "ไม่ทราบชื่อผู้แต่ง"
+    ],
+    [
+     "oral tradition",
+     "การเล่าสืบต่อด้วยปากเปล่า"
+    ],
+    [
+     "pilgrim",
+     "ผู้แสวงบุญ"
+    ],
+    [
+     "knight",
+     "อัศวิน"
+    ],
+    [
+     "satire",
+     "การเสียดสี"
+    ],
+    [
+     "romance (medieval)",
+     "เรื่องอัศวินผจญภัย"
+    ],
+    [
+     "manuscript",
+     "ต้นฉบับเขียนมือ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL342-U2-01",
+     "skill": "ENL342-U2",
+     "difficulty": 1,
+     "stem": "Beowulf is a famous ___ in Old English.",
+     "options": [
+      "novel",
+      "stage comedy",
+      "sonnet",
+      "epic poem"
+     ],
+     "answer": 3,
+     "explanation_th": "Beowulf เป็นมหากาพย์ เล่าเรื่องวีรบุรุษด้วยกวีนิพนธ์",
+     "why_wrong": [
+      "นวนิยายยังไม่เกิดในยุคนั้น และ Beowulf เป็นกวี",
+      "Beowulf ไม่ใช่บทละครตลก",
+      "sonnet มี 14 บรรทัด แต่ Beowulf ยาวมาก",
+      null
+     ]
+    },
+    {
+     "id": "ENL342-U2-02",
+     "skill": "ENL342-U2",
+     "difficulty": 1,
+     "stem": "Who wrote The Canterbury Tales?",
+     "options": [
+      "William Shakespeare",
+      "Charles Dickens",
+      "Geoffrey Chaucer",
+      "John Milton"
+     ],
+     "answer": 2,
+     "explanation_th": "Chaucer เขียน The Canterbury Tales เป็นภาษาอังกฤษสมัยกลาง",
+     "why_wrong": [
+      "Shakespeare เกิดหลัง Chaucer เกือบสองร้อยปี",
+      "Dickens เป็นนักเขียนยุควิกตอเรีย",
+      null,
+      "Milton เขียน Paradise Lost ในศตวรรษที่ 17"
+     ]
+    },
+    {
+     "id": "ENL342-U2-03",
+     "skill": "ENL342-U2",
+     "difficulty": 1,
+     "stem": "In The Canterbury Tales, the characters are ___.",
+     "options": [
+      "soldiers fighting a dragon",
+      "pilgrims travelling to Canterbury who tell stories",
+      "students at a university",
+      "sailors hunting a whale"
+     ],
+     "answer": 1,
+     "explanation_th": "ผู้แสวงบุญเล่านิทานแข่งกันระหว่างเดินทาง",
+     "why_wrong": [
+      "การสู้มังกรอยู่ใน Beowulf",
+      null,
+      "ตัวละครไม่ใช่นักศึกษา",
+      "การล่าวาฬอยู่ใน Moby-Dick"
+     ]
+    },
+    {
+     "id": "ENL342-U2-04",
+     "skill": "ENL342-U2",
+     "difficulty": 2,
+     "stem": "Who wrote Beowulf?",
+     "options": [
+      "Geoffrey Chaucer",
+      "No one knows; the poet is anonymous.",
+      "William Shakespeare",
+      "Beowulf himself"
+     ],
+     "answer": 1,
+     "explanation_th": "ไม่ทราบชื่อผู้แต่ง Beowulf",
+     "why_wrong": [
+      "Chaucer เขียนเป็นภาษาอังกฤษสมัยกลาง ไม่ใช่ Beowulf",
+      null,
+      "Shakespeare อยู่หลังยุคนี้หลายร้อยปี",
+      "Beowulf เป็นตัวละครในเรื่อง ไม่ใช่ผู้แต่ง"
+     ]
+    },
+    {
+     "id": "ENL342-U2-05",
+     "skill": "ENL342-U2",
+     "difficulty": 2,
+     "stem": "Which values are strongest in Beowulf?",
+     "options": [
+      "courage, loyalty to one's leader, and fame",
+      "romantic love and marriage",
+      "city life and money",
+      "science and technology"
+     ],
+     "answer": 0,
+     "explanation_th": "เรื่องยกย่องค่านิยมของนักรบ",
+     "why_wrong": [
+      null,
+      "ความรักและการแต่งงานไม่ใช่แกนของเรื่อง",
+      "เรื่องไม่ได้เกิดในเมืองสมัยใหม่",
+      "ยุคนั้นยังไม่มีเรื่องวิทยาศาสตร์และเทคโนโลยีแบบนี้"
+     ]
+    },
+    {
+     "id": "ENL342-U2-06",
+     "skill": "ENL342-U2",
+     "difficulty": 2,
+     "stem": "Why did Old English poetry use so much alliteration?",
+     "options": [
+      "Writers wanted to save paper.",
+      "The king made a law about it.",
+      "It made every poem shorter.",
+      "Repeated sounds built the lines and helped poets remember and perform them."
+     ],
+     "answer": 3,
+     "explanation_th": "การซ้ำเสียงต้นเป็นโครงของบรรทัด และช่วยการท่องจำในการเล่าปากเปล่า",
+     "why_wrong": [
+      "การซ้ำเสียงไม่ได้ช่วยประหยัดกระดาษ",
+      "ไม่มีกฎหมายเรื่องนี้",
+      "การซ้ำเสียงไม่ได้ทำให้บทกวีสั้นลง",
+      null
+     ]
+    },
+    {
+     "id": "ENL342-U2-07",
+     "skill": "ENL342-U2",
+     "difficulty": 2,
+     "stem": "'Whan that Aprille with his shoures soote' is an example of ___.",
+     "options": [
+      "Old English",
+      "Modern American English",
+      "Middle English",
+      "a stage direction"
+     ],
+     "answer": 2,
+     "explanation_th": "เป็นบรรทัดแรกของ The Canterbury Tales ของ Chaucer",
+     "why_wrong": [
+      "Old English เก่ากว่าและอ่านยากกว่านี้มาก",
+      "ตัวสะกดไม่ใช่ภาษาอังกฤษปัจจุบัน",
+      null,
+      "เป็นบรรทัดกวี ไม่ใช่คำกำกับการแสดง"
+     ]
+    },
+    {
+     "id": "ENL342-U2-08",
+     "skill": "ENL342-U2",
+     "difficulty": 2,
+     "stem": "Why are Chaucer's pilgrims useful for understanding medieval society?",
+     "options": [
+      "They are all kings, so they show royal life only.",
+      "They all come from one family.",
+      "They come from many classes and jobs, so together they show a wide picture of society.",
+      "They live in a modern city."
+     ],
+     "answer": 2,
+     "explanation_th": "ผู้แสวงบุญหลายชนชั้นทำให้เห็นสังคมกว้าง",
+     "why_wrong": [
+      "ตัวละครไม่ได้เป็นกษัตริย์ทั้งหมด",
+      "ตัวละครมาจากหลายครอบครัวและอาชีพ",
+      null,
+      "เรื่องอยู่ในยุคกลาง ไม่ใช่เมืองสมัยใหม่"
+     ]
+    },
+    {
+     "id": "ENL342-U2-09",
+     "skill": "ENL342-U2",
+     "difficulty": 3,
+     "stem": "Chaucer shows some religious characters as greedy in a funny, critical way. This is an example of ___.",
+     "options": [
+      "an epic",
+      "a soliloquy",
+      "a sonnet",
+      "satire"
+     ],
+     "answer": 3,
+     "explanation_th": "satire คือการเสียดสีเพื่อวิจารณ์ความบกพร่องของคนหรือสังคม",
+     "why_wrong": [
+      "epic คือเรื่องวีรบุรุษขนาดยาว",
+      "soliloquy คือการพูดคนเดียวในบทละคร",
+      "sonnet คือรูปแบบกวี 14 บรรทัด",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "Beowulf is brave, but I think he also wants fame.",
+    "Chaucer's pilgrims feel like real people.",
+    "Middle English is hard to read, but I can guess some words."
+   ],
+   "task_th": "อ่านบรรทัดแรกของ The Canterbury Tales ในการ์ด แล้วเดาคำปัจจุบันของ Whan, Aprille, shoures (เฉลย: when, April, showers) จากนั้นเขียนภาษาอังกฤษ 3 ประโยค: ถ้าวันนี้มีคนกลุ่มหนึ่งเดินทางไกลด้วยกันแบบ Canterbury Tales จะมีอาชีพอะไรบ้าง และแต่ละคนจะเล่าเรื่องแบบไหน"
+  },
+  {
+   "id": "ENL342-U3",
+   "title_th": "ยุคฟื้นฟูศิลปวิทยา: เชกสเปียร์และยุคของเขา",
+   "title_en": "The Renaissance: Shakespeare and his time",
+   "covers": "วัฒนธรรม",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "ยุคฟื้นฟูศิลปวิทยา",
+     "body_th": "ความสนใจในงานกรีกและโรมันโบราณกลับมา มนุษย์และความสามารถของมนุษย์เป็นศูนย์กลาง (humanism) และแท่นพิมพ์ทำให้หนังสือแพร่หลายขึ้นมาก"
+    },
+    {
+     "title_th": "Shakespeare (1564-1616)",
+     "body_th": "นักเขียนบทละครและกวีที่มีชื่อเสียงที่สุดของอังกฤษ ละครหลายเรื่องแสดงที่โรงละคร Globe ในลอนดอน เขาเขียนซอนเน็ต 154 บท และบทละครหลายสิบเรื่อง"
+    },
+    {
+     "title_th": "บทละครที่ควรรู้",
+     "body_th": "Romeo and Juliet: ความรักของหนุ่มสาวท่ามกลางความบาดหมางของสองตระกูล | Hamlet: การแก้แค้นและความลังเลหลังพ่อตาย | Macbeth: ความทะเยอทะยานที่ทำลายตัวเอง | A Midsummer Night's Dream: ความรักวุ่นวายในป่าที่มีภูต"
+    },
+    {
+     "title_th": "โรงละครของทุกชนชั้น",
+     "body_th": "ผู้ชมมีทั้งคนมีเงินที่นั่งที่แพงและคนธรรมดาที่ยืนดูหน้าเวที บทละครจึงมีทั้งบทกวีงดงามและมุกตลกหยาบ ๆ"
+    },
+    {
+     "title_th": "Milton",
+     "body_th": "ต่อมาในศตวรรษที่ 17 John Milton เขียน Paradise Lost มหากาพย์เกี่ยวกับซาตาน และการที่อาดัมกับเอวาถูกขับออกจากสวนเอเดน"
+    }
+   ],
+   "vocab": [
+    [
+     "Renaissance",
+     "ยุคฟื้นฟูศิลปวิทยา"
+    ],
+    [
+     "humanism",
+     "มนุษยนิยม"
+    ],
+    [
+     "playwright",
+     "นักเขียนบทละคร"
+    ],
+    [
+     "the Globe Theatre",
+     "โรงละครโกลบ"
+    ],
+    [
+     "sonnet",
+     "ซอนเน็ต"
+    ],
+    [
+     "revenge",
+     "การแก้แค้น"
+    ],
+    [
+     "ambition",
+     "ความทะเยอทะยาน"
+    ],
+    [
+     "feud",
+     "ความบาดหมางระหว่างตระกูล"
+    ],
+    [
+     "printing press",
+     "แท่นพิมพ์"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL342-U3-01",
+     "skill": "ENL342-U3",
+     "difficulty": 1,
+     "stem": "Which play is about two young lovers from families who hate each other?",
+     "options": [
+      "Romeo and Juliet",
+      "Macbeth",
+      "Hamlet",
+      "Paradise Lost"
+     ],
+     "answer": 0,
+     "explanation_th": "Romeo and Juliet มาจากสองตระกูลที่บาดหมางกัน",
+     "why_wrong": [
+      null,
+      "Macbeth เกี่ยวกับความทะเยอทะยาน",
+      "Hamlet เกี่ยวกับการแก้แค้น",
+      "Paradise Lost เป็นมหากาพย์ของ Milton ไม่ใช่บทละคร"
+     ]
+    },
+    {
+     "id": "ENL342-U3-02",
+     "skill": "ENL342-U3",
+     "difficulty": 1,
+     "stem": "Where were many of Shakespeare's plays performed in London?",
+     "options": [
+      "Canterbury Cathedral",
+      "the Globe Theatre",
+      "Walden Pond",
+      "the White House"
+     ],
+     "answer": 1,
+     "explanation_th": "โรงละคร Globe เป็นที่แสดงละครของเชกสเปียร์หลายเรื่อง",
+     "why_wrong": [
+      "Canterbury เป็นจุดหมายของผู้แสวงบุญใน Chaucer",
+      null,
+      "Walden Pond อยู่ในอเมริกา เกี่ยวกับ Thoreau",
+      "ทำเนียบขาวอยู่ในอเมริกา ไม่เกี่ยวกับโรงละคร"
+     ]
+    },
+    {
+     "id": "ENL342-U3-03",
+     "skill": "ENL342-U3",
+     "difficulty": 1,
+     "stem": "Shakespeare wrote 154 ___.",
+     "options": [
+      "novels",
+      "sonnets",
+      "epic poems",
+      "short stories"
+     ],
+     "answer": 1,
+     "explanation_th": "เชกสเปียร์เขียนซอนเน็ต 154 บท",
+     "why_wrong": [
+      "เชกสเปียร์ไม่ได้เขียนนวนิยาย",
+      null,
+      "เขาไม่ได้เขียนมหากาพย์ 154 เรื่อง",
+      "เขาไม่ได้เขียนเรื่องสั้น"
+     ]
+    },
+    {
+     "id": "ENL342-U3-04",
+     "skill": "ENL342-U3",
+     "difficulty": 2,
+     "stem": "Which Shakespeare play shows how ambition can destroy a man?",
+     "options": [
+      "Macbeth",
+      "A Midsummer Night's Dream",
+      "Romeo and Juliet",
+      "The Canterbury Tales"
+     ],
+     "answer": 0,
+     "explanation_th": "Macbeth ฆ่าเพื่อเป็นกษัตริย์ แล้วชีวิตพังลง",
+     "why_wrong": [
+      null,
+      "เป็นละครตลกเรื่องความรักในป่า",
+      "แกนของเรื่องคือความรักและความบาดหมาง",
+      "เป็นงานของ Chaucer ไม่ใช่ Shakespeare"
+     ]
+    },
+    {
+     "id": "ENL342-U3-05",
+     "skill": "ENL342-U3",
+     "difficulty": 2,
+     "stem": "Hamlet is mainly about ___.",
+     "options": [
+      "a long sea journey to hunt a whale",
+      "a comic love story in a forest",
+      "pilgrims telling stories on a journey",
+      "revenge and doubt after his father's death"
+     ],
+     "answer": 3,
+     "explanation_th": "Hamlet ลังเลเรื่องการแก้แค้นให้พ่อ",
+     "why_wrong": [
+      "การล่าวาฬคือ Moby-Dick",
+      "ความรักในป่าคือ A Midsummer Night's Dream",
+      "ผู้แสวงบุญคือ The Canterbury Tales",
+      null
+     ]
+    },
+    {
+     "id": "ENL342-U3-06",
+     "skill": "ENL342-U3",
+     "difficulty": 2,
+     "stem": "What did Renaissance 'humanism' focus on?",
+     "options": [
+      "only life after death",
+      "machines and factories",
+      "human ability and learning, inspired by ancient Greek and Roman texts",
+      "the American frontier"
+     ],
+     "answer": 2,
+     "explanation_th": "humanism ให้ความสำคัญกับมนุษย์และความรู้ จากงานกรีกและโรมัน",
+     "why_wrong": [
+      "humanism หันมาสนใจชีวิตมนุษย์ในโลกนี้มากขึ้น",
+      "โรงงานมาในยุคอุตสาหกรรม ซึ่งหลังจากนี้มาก",
+      null,
+      "ดินแดนชายแดนอเมริกาเป็นเรื่องของอเมริกาในยุคหลัง"
+     ]
+    },
+    {
+     "id": "ENL342-U3-07",
+     "skill": "ENL342-U3",
+     "difficulty": 2,
+     "stem": "Why do Shakespeare's plays mix beautiful poetry with rough jokes?",
+     "options": [
+      "Only kings were allowed to watch plays.",
+      "His audiences included both wealthy people and ordinary people.",
+      "He wrote only for children.",
+      "His plays were never performed."
+     ],
+     "answer": 1,
+     "explanation_th": "ผู้ชมหลากหลายชนชั้น บทละครจึงมีทั้งภาษางดงามและมุกตลกชาวบ้าน",
+     "why_wrong": [
+      "คนธรรมดาก็ดูละครได้ โดยยืนดูหน้าเวที",
+      null,
+      "ผู้ชมเป็นผู้ใหญ่ทั่วไป ไม่ใช่เด็ก",
+      "ละครของเขาแสดงจริงในยุคนั้น เช่น ที่ Globe"
+     ]
+    },
+    {
+     "id": "ENL342-U3-08",
+     "skill": "ENL342-U3",
+     "difficulty": 2,
+     "stem": "Which work is an epic poem by John Milton?",
+     "options": [
+      "Paradise Lost",
+      "Hamlet",
+      "Beowulf",
+      "Pride and Prejudice"
+     ],
+     "answer": 0,
+     "explanation_th": "Paradise Lost เป็นมหากาพย์ของ Milton",
+     "why_wrong": [
+      null,
+      "Hamlet เป็นบทละครของ Shakespeare",
+      "Beowulf เป็นมหากาพย์ที่ไม่ทราบชื่อผู้แต่ง",
+      "Pride and Prejudice เป็นนวนิยายของ Jane Austen"
+     ]
+    },
+    {
+     "id": "ENL342-U3-09",
+     "skill": "ENL342-U3",
+     "difficulty": 3,
+     "stem": "Which invention helped books spread much more widely in the Renaissance?",
+     "options": [
+      "the steam engine",
+      "the radio",
+      "the telephone",
+      "the printing press"
+     ],
+     "answer": 3,
+     "explanation_th": "แท่นพิมพ์ทำให้ผลิตหนังสือได้มากและถูกลง",
+     "why_wrong": [
+      "เครื่องจักรไอน้ำมาในยุคอุตสาหกรรม",
+      "วิทยุมาในศตวรรษที่ 20",
+      "โทรศัพท์มาในศตวรรษที่ 19",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "I think Macbeth is more frightening than Hamlet.",
+    "Romeo and Juliet is sad, but the language is beautiful.",
+    "Some of Shakespeare's jokes are still funny today."
+   ],
+   "task_th": "เลือกบทละครของเชกสเปียร์ 1 เรื่องจากการ์ด อ่านสรุปเรื่องภาษาอังกฤษแบบสั้น (เช่น จากหนังสือฉบับย่อหรือเว็บไซต์ห้องสมุด) แล้วเขียนภาษาอังกฤษ 4 ประโยค: ใครคือ protagonist, ความขัดแย้งหลัก, theme 1 ประโยค และฉากที่อยากดูบนเวทีมากที่สุด"
+  },
+  {
+   "id": "ENL342-U4",
+   "title_th": "ยุคเหตุผลและยุคโรแมนติก",
+   "title_en": "Reason, then Romanticism",
+   "covers": "แนวคิด",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "ศตวรรษที่ 18: ยุคแห่งเหตุผล",
+     "body_th": "ยุคเรืองปัญญา (Enlightenment) ให้ค่ากับเหตุผล นวนิยายเริ่มเป็นที่นิยม เช่น Robinson Crusoe ของ Daniel Defoe (ชายติดเกาะที่ต้องเอาตัวรอด) และงานเสียดสี Gulliver's Travels ของ Jonathan Swift"
+    },
+    {
+     "title_th": "Romanticism: อารมณ์และธรรมชาติ",
+     "body_th": "ช่วงปลายศตวรรษที่ 18 ถึงต้นศตวรรษที่ 19 กวีโรแมนติกให้ค่ากับอารมณ์ จินตนาการ ธรรมชาติ และชีวิตคนธรรมดา ส่วนหนึ่งเป็นการตอบโต้การเน้นเหตุผลอย่างเดียว และเมืองอุตสาหกรรมที่กำลังเติบโต"
+    },
+    {
+     "title_th": "กวีที่ควรรู้",
+     "body_th": "William Wordsworth กับ Samuel Taylor Coleridge พิมพ์ Lyrical Ballads ร่วมกันในปี 1798 | William Blake | John Keats (บทกวีแบบ ode) | Percy Bysshe Shelley | Lord Byron",
+     "example": "'Tyger Tyger, burning bright, / In the forests of the night' (Blake, The Tyger)"
+    },
+    {
+     "title_th": "Frankenstein",
+     "body_th": "Mary Shelley เขียน Frankenstein (1818) นักวิทยาศาสตร์สร้างชีวิตขึ้นมาแล้วทอดทิ้งสิ่งที่ตัวเองสร้าง เรื่องตั้งคำถามเรื่องความรับผิดชอบของผู้สร้าง และความโดดเดี่ยว"
+    },
+    {
+     "title_th": "Jane Austen",
+     "body_th": "Pride and Prejudice (1813) เขียนในช่วงเดียวกัน แต่เล่าชีวิตครอบครัวชนชั้นกลางในชนบท เรื่องการแต่งงาน เงิน และฐานะทางสังคม ด้วยน้ำเสียงเสียดสีขบขัน",
+     "example": "'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.'"
+    }
+   ],
+   "vocab": [
+    [
+     "Enlightenment",
+     "ยุคเรืองปัญญา"
+    ],
+    [
+     "reason",
+     "เหตุผล"
+    ],
+    [
+     "satire",
+     "การเสียดสี"
+    ],
+    [
+     "Romanticism",
+     "จินตนิยม"
+    ],
+    [
+     "imagination",
+     "จินตนาการ"
+    ],
+    [
+     "nature",
+     "ธรรมชาติ"
+    ],
+    [
+     "ode",
+     "บทกวีสดุดี"
+    ],
+    [
+     "Gothic",
+     "แนวกอทิก (ลึกลับสยองขวัญ)"
+    ],
+    [
+     "social class",
+     "ชนชั้นทางสังคม"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL342-U4-01",
+     "skill": "ENL342-U4",
+     "difficulty": 1,
+     "stem": "Which ideas did Romantic poets value most?",
+     "options": [
+      "factories, money and machines",
+      "strict rules and reason only",
+      "emotion, imagination and nature",
+      "war and empire"
+     ],
+     "answer": 2,
+     "explanation_th": "กวีโรแมนติกให้ค่ากับอารมณ์ จินตนาการ และธรรมชาติ",
+     "why_wrong": [
+      "กวีโรแมนติกหลายคนวิจารณ์เมืองอุตสาหกรรม",
+      "นี่คือสิ่งที่กวีโรแมนติกตอบโต้",
+      null,
+      "สงครามและจักรวรรดิไม่ใช่ค่านิยมหลักของกลุ่มนี้"
+     ]
+    },
+    {
+     "id": "ENL342-U4-02",
+     "skill": "ENL342-U4",
+     "difficulty": 1,
+     "stem": "Who wrote Frankenstein?",
+     "options": [
+      "Jane Austen",
+      "Mary Shelley",
+      "Charlotte Brontë",
+      "Emily Dickinson"
+     ],
+     "answer": 1,
+     "explanation_th": "Mary Shelley เขียน Frankenstein (1818)",
+     "why_wrong": [
+      "Austen เขียน Pride and Prejudice",
+      null,
+      "Charlotte Brontë เขียน Jane Eyre",
+      "Dickinson เป็นกวีอเมริกัน"
+     ]
+    },
+    {
+     "id": "ENL342-U4-03",
+     "skill": "ENL342-U4",
+     "difficulty": 1,
+     "stem": "Which two poets published Lyrical Ballads together in 1798?",
+     "options": [
+      "Wordsworth and Coleridge",
+      "Keats and Dickens",
+      "Shakespeare and Milton",
+      "Whitman and Poe"
+     ],
+     "answer": 0,
+     "explanation_th": "Lyrical Ballads เป็นงานร่วมของ Wordsworth และ Coleridge",
+     "why_wrong": [
+      null,
+      "Dickens เป็นนักเขียนนวนิยายยุคหลัง",
+      "Shakespeare และ Milton อยู่คนละยุคกับงานนี้",
+      "Whitman และ Poe เป็นนักเขียนอเมริกัน"
+     ]
+    },
+    {
+     "id": "ENL342-U4-04",
+     "skill": "ENL342-U4",
+     "difficulty": 2,
+     "stem": "Robinson Crusoe by Daniel Defoe is about ___.",
+     "options": [
+      "a scientist who creates a living creature",
+      "a young woman choosing a husband",
+      "a man who survives alone on an island",
+      "pilgrims on the road to Canterbury"
+     ],
+     "answer": 2,
+     "explanation_th": "Crusoe ติดเกาะและต้องเอาตัวรอด",
+     "why_wrong": [
+      "นี่คือ Frankenstein",
+      "นี่ใกล้กับ Pride and Prejudice",
+      null,
+      "นี่คือ The Canterbury Tales"
+     ]
+    },
+    {
+     "id": "ENL342-U4-05",
+     "skill": "ENL342-U4",
+     "difficulty": 2,
+     "stem": "Pride and Prejudice by Jane Austen mainly deals with ___.",
+     "options": [
+      "war at sea",
+      "life in a factory town",
+      "a hunt for a white whale",
+      "marriage, money and social class"
+     ],
+     "answer": 3,
+     "explanation_th": "เรื่องหมุนรอบการแต่งงาน เงิน และฐานะในสังคม",
+     "why_wrong": [
+      "เรื่องไม่ได้เกี่ยวกับสงครามทางทะเล",
+      "เรื่องเกิดในชนบท ไม่ใช่เมืองโรงงาน",
+      "การล่าวาฬขาวคือ Moby-Dick",
+      null
+     ]
+    },
+    {
+     "id": "ENL342-U4-06",
+     "skill": "ENL342-U4",
+     "difficulty": 2,
+     "stem": "Frankenstein raises the question of ___.",
+     "options": [
+      "how to win a war",
+      "a creator's responsibility for what he creates",
+      "how to become king",
+      "how to sail around the world"
+     ],
+     "answer": 1,
+     "explanation_th": "Victor Frankenstein สร้างชีวิตแล้วทอดทิ้ง เรื่องจึงถามถึงความรับผิดชอบ",
+     "why_wrong": [
+      "เรื่องไม่ได้เกี่ยวกับการทำสงคราม",
+      null,
+      "การอยากเป็นกษัตริย์คือ Macbeth",
+      "เรื่องไม่ได้เกี่ยวกับการเดินเรือรอบโลก"
+     ]
+    },
+    {
+     "id": "ENL342-U4-07",
+     "skill": "ENL342-U4",
+     "difficulty": 2,
+     "stem": "'Tyger Tyger, burning bright' is the opening of a poem by ___.",
+     "options": [
+      "Geoffrey Chaucer",
+      "Walt Whitman",
+      "Charles Dickens",
+      "William Blake"
+     ],
+     "answer": 3,
+     "explanation_th": "เป็นบรรทัดแรกของ The Tyger ของ Blake",
+     "why_wrong": [
+      "Chaucer เขียนเป็นภาษาอังกฤษสมัยกลาง",
+      "Whitman เป็นกวีอเมริกันที่เขียนกลอนเปล่า",
+      "Dickens เป็นนักเขียนนวนิยาย",
+      null
+     ]
+    },
+    {
+     "id": "ENL342-U4-08",
+     "skill": "ENL342-U4",
+     "difficulty": 2,
+     "stem": "Gulliver's Travels by Jonathan Swift is best known as a work of ___.",
+     "options": [
+      "satire",
+      "tragedy",
+      "Romantic nature poetry",
+      "free verse"
+     ],
+     "answer": 0,
+     "explanation_th": "Swift ใช้การเดินทางสู่ดินแดนแปลก ๆ เพื่อเสียดสีสังคมและมนุษย์",
+     "why_wrong": [
+      null,
+      "เป็นร้อยแก้วเสียดสี ไม่ใช่บทละครโศกนาฏกรรม",
+      "เป็นร้อยแก้ว ไม่ใช่บทกวีธรรมชาติ",
+      "เป็นร้อยแก้ว ไม่ใช่กลอนเปล่า"
+     ]
+    },
+    {
+     "id": "ENL342-U4-09",
+     "skill": "ENL342-U4",
+     "difficulty": 3,
+     "stem": "Why did many Romantic writers turn to nature?",
+     "options": [
+      "They had never seen a city.",
+      "Nature was the only topic the king allowed.",
+      "They reacted against growing industrial cities and a focus on reason alone.",
+      "They wanted to write scientific reports."
+     ],
+     "answer": 2,
+     "explanation_th": "ธรรมชาติเป็นทางเลือกต่อเมืองอุตสาหกรรมและการเน้นเหตุผลอย่างเดียว",
+     "why_wrong": [
+      "กวีหลายคนเคยอยู่ในเมืองใหญ่",
+      "ไม่มีกฎห้ามเขียนเรื่องอื่น",
+      null,
+      "กวีเน้นอารมณ์และจินตนาการ ไม่ใช่รายงานวิทยาศาสตร์"
+     ]
+    }
+   ],
+   "say": [
+    "I think Frankenstein is about loneliness more than science.",
+    "Austen's first sentence is funny because it is not really true.",
+    "Romantic poets make nature feel alive."
+   ],
+   "task_th": "อ่านประโยคแรกของ Pride and Prejudice ในการ์ด แล้วเขียนภาษาอังกฤษ 2-3 ประโยค: ประโยคนี้พูดจริงจังหรือเสียดสี (ironic) เพราะอะไร จากนั้นเขียนประโยคแรกของนิยายของตัวเองโดยเลียนน้ำเสียงนี้ เกี่ยวกับชีวิตนักศึกษา"
+  },
+  {
+   "id": "ENL342-U5",
+   "title_th": "ยุควิกตอเรีย: เมือง ชนชั้น และความเปลี่ยนแปลง",
+   "title_en": "The Victorians: cities, class and change",
+   "covers": "วัฒนธรรมและสภาพสังคม",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "ยุควิกตอเรีย (1837-1901)",
+     "body_th": "อังกฤษเป็นมหาอำนาจ การปฏิวัติอุตสาหกรรมสร้างเมืองใหญ่และโรงงาน แต่คนจนจำนวนมากทำงานหนัก มีแรงงานเด็ก และอยู่อย่างแออัด นวนิยายจึงพูดถึงชนชั้นและความยากจนบ่อย"
+    },
+    {
+     "title_th": "Charles Dickens",
+     "body_th": "นักเขียนนวนิยายที่วิจารณ์ความยากจนและความอยุติธรรม เช่น Oliver Twist (เด็กกำพร้าในลอนดอน) | A Christmas Carol (Scrooge คนตระหนี่ที่กลับใจ) | Great Expectations (Pip กับความฝันจะเป็นสุภาพบุรุษ)",
+     "example": "'It was the best of times, it was the worst of times' (A Tale of Two Cities)"
+    },
+    {
+     "title_th": "พี่น้องบรอนเต",
+     "body_th": "Charlotte Brontë เขียน Jane Eyre ครูพี่เลี้ยงหญิงที่ยืนหยัดในความเป็นตัวเอง | Emily Brontë เขียน Wuthering Heights ความรักที่รุนแรงบนทุ่งร้างในยอร์กเชียร์"
+    },
+    {
+     "title_th": "นักเขียนหญิงกับนามปากกา",
+     "body_th": "George Eliot คือนามปากกาของ Mary Ann Evans ผู้เขียน Middlemarch พี่น้องบรอนเตก็เคยพิมพ์งานด้วยชื่อแบบผู้ชาย นักเขียนหญิงหลายคนทำแบบนี้เพื่อให้งานถูกอ่านอย่างจริงจัง"
+    },
+    {
+     "title_th": "ศรัทธากับความสงสัย",
+     "body_th": "On the Origin of Species ของ Darwin (1859) ทำให้หลายคนเริ่มตั้งคำถามกับความเชื่อเดิม กวีอย่าง Alfred Tennyson เขียนถึงความโศกเศร้าและความลังเลในศรัทธา"
+    }
+   ],
+   "vocab": [
+    [
+     "Industrial Revolution",
+     "การปฏิวัติอุตสาหกรรม"
+    ],
+    [
+     "poverty",
+     "ความยากจน"
+    ],
+    [
+     "child labour",
+     "แรงงานเด็ก"
+    ],
+    [
+     "orphan",
+     "เด็กกำพร้า"
+    ],
+    [
+     "governess",
+     "ครูพี่เลี้ยง"
+    ],
+    [
+     "pen name",
+     "นามปากกา"
+    ],
+    [
+     "social criticism",
+     "การวิพากษ์สังคม"
+    ],
+    [
+     "realism",
+     "สัจนิยม"
+    ],
+    [
+     "moor",
+     "ทุ่งร้าง"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL342-U5-01",
+     "skill": "ENL342-U5",
+     "difficulty": 1,
+     "stem": "The Victorian period, from 1837 to 1901, matches the years of ___.",
+     "options": [
+      "the First World War",
+      "Queen Victoria's reign",
+      "Shakespeare's life",
+      "the American Civil War"
+     ],
+     "answer": 1,
+     "explanation_th": "ช่วงเวลานี้คือรัชสมัยพระราชินีวิกตอเรีย",
+     "why_wrong": [
+      "สงครามโลกครั้งที่ 1 คือ 1914-1918",
+      null,
+      "Shakespeare มีชีวิต 1564-1616",
+      "สงครามกลางเมืองอเมริกาคือ 1861-1865 ซึ่งสั้นกว่ามาก"
+     ]
+    },
+    {
+     "id": "ENL342-U5-02",
+     "skill": "ENL342-U5",
+     "difficulty": 1,
+     "stem": "Who wrote Oliver Twist and A Christmas Carol?",
+     "options": [
+      "Thomas Hardy",
+      "Jane Austen",
+      "Charles Dickens",
+      "Mark Twain"
+     ],
+     "answer": 2,
+     "explanation_th": "ทั้งสองเรื่องเป็นของ Dickens",
+     "why_wrong": [
+      "Hardy เป็นนักเขียนวิกตอเรียอีกคน แต่ไม่ได้เขียนสองเรื่องนี้",
+      "Austen เขียน Pride and Prejudice",
+      null,
+      "Twain เป็นนักเขียนอเมริกัน"
+     ]
+    },
+    {
+     "id": "ENL342-U5-03",
+     "skill": "ENL342-U5",
+     "difficulty": 1,
+     "stem": "Who wrote Jane Eyre?",
+     "options": [
+      "Charlotte Brontë",
+      "Emily Brontë",
+      "Mary Shelley",
+      "George Eliot"
+     ],
+     "answer": 0,
+     "explanation_th": "Jane Eyre เป็นของ Charlotte Brontë",
+     "why_wrong": [
+      null,
+      "Emily Brontë เขียน Wuthering Heights",
+      "Mary Shelley เขียน Frankenstein",
+      "George Eliot เขียน Middlemarch"
+     ]
+    },
+    {
+     "id": "ENL342-U5-04",
+     "skill": "ENL342-U5",
+     "difficulty": 2,
+     "stem": "Which social problem appears most often in Dickens's novels?",
+     "options": [
+      "life on the American frontier",
+      "fights against dragons",
+      "life inside a royal palace",
+      "poverty and the poor treatment of children"
+     ],
+     "answer": 3,
+     "explanation_th": "Dickens เขียนถึงเด็กยากจนและความอยุติธรรมในเมือง",
+     "why_wrong": [
+      "ดินแดนชายแดนเป็นเรื่องของอเมริกา",
+      "การสู้มังกรอยู่ใน Beowulf",
+      "ตัวละครของเขาส่วนใหญ่เป็นคนธรรมดา ไม่ใช่ราชวงศ์",
+      null
+     ]
+    },
+    {
+     "id": "ENL342-U5-05",
+     "skill": "ENL342-U5",
+     "difficulty": 2,
+     "stem": "'George Eliot' was the pen name of ___.",
+     "options": [
+      "Charles Dickens",
+      "Mary Ann Evans, a woman writer",
+      "a group of poets",
+      "Queen Victoria"
+     ],
+     "answer": 1,
+     "explanation_th": "George Eliot คือนามปากกาของ Mary Ann Evans",
+     "why_wrong": [
+      "Dickens ใช้ชื่อจริงของตัวเอง",
+      null,
+      "นามปากกานี้เป็นของนักเขียนคนเดียว",
+      "พระราชินีไม่ได้เขียนนวนิยายด้วยชื่อนี้"
+     ]
+    },
+    {
+     "id": "ENL342-U5-06",
+     "skill": "ENL342-U5",
+     "difficulty": 2,
+     "stem": "Why did some Victorian women writers publish under male-sounding names?",
+     "options": [
+      "because women were not allowed to read",
+      "because male names were shorter",
+      "because the queen ordered it",
+      "so that their work would be taken more seriously"
+     ],
+     "answer": 3,
+     "explanation_th": "ในยุคนั้นงานของผู้หญิงมักถูกตัดสินต่างออกไป ชื่อผู้ชายจึงช่วยให้ถูกอ่านอย่างจริงจัง",
+     "why_wrong": [
+      "ผู้หญิงในยุคนั้นอ่านหนังสือได้ และหลายคนเป็นนักอ่าน",
+      "ความยาวของชื่อไม่ใช่เหตุผล",
+      "ไม่มีคำสั่งแบบนี้จากพระราชินี",
+      null
+     ]
+    },
+    {
+     "id": "ENL342-U5-07",
+     "skill": "ENL342-U5",
+     "difficulty": 2,
+     "stem": "In A Christmas Carol, how does Scrooge change?",
+     "options": [
+      "He goes from mean and selfish to kind and generous.",
+      "He goes from rich to poor and stays unhappy.",
+      "He becomes a sailor.",
+      "He does not change at all."
+     ],
+     "answer": 0,
+     "explanation_th": "Scrooge กลับใจเป็นคนใจกว้างตอนจบ",
+     "why_wrong": [
+      null,
+      "เรื่องเน้นการเปลี่ยนนิสัย ไม่ใช่การจนลง",
+      "Scrooge ไม่ได้ไปเป็นกะลาสี",
+      "การเปลี่ยนแปลงของ Scrooge คือแกนของเรื่อง"
+     ]
+    },
+    {
+     "id": "ENL342-U5-08",
+     "skill": "ENL342-U5",
+     "difficulty": 2,
+     "stem": "Which change in society shaped many Victorian novels?",
+     "options": [
+      "the Norman Conquest",
+      "the invention of the internet",
+      "the Industrial Revolution and the growth of crowded cities",
+      "the end of the Roman Empire"
+     ],
+     "answer": 2,
+     "explanation_th": "เมืองอุตสาหกรรมสร้างปัญหาชนชั้นและความยากจนที่นักเขียนพูดถึง",
+     "why_wrong": [
+      "การพิชิตของนอร์มันเกิดในปี 1066 นานก่อนหน้านั้น",
+      "อินเทอร์เน็ตมาในศตวรรษที่ 20",
+      null,
+      "จักรวรรดิโรมันล่มนานก่อนยุคนี้มาก"
+     ]
+    },
+    {
+     "id": "ENL342-U5-09",
+     "skill": "ENL342-U5",
+     "difficulty": 3,
+     "stem": "Wuthering Heights by Emily Brontë is best known for ___.",
+     "options": [
+      "a comedy about a dinner party in London",
+      "a wild, intense love story set on the Yorkshire moors",
+      "a sea voyage to find a whale",
+      "a soldier's diary from the First World War"
+     ],
+     "answer": 1,
+     "explanation_th": "เรื่องเล่าความรักรุนแรงบนทุ่งร้างในยอร์กเชียร์",
+     "why_wrong": [
+      "เรื่องไม่ใช่ละครตลกในลอนดอน",
+      null,
+      "การตามล่าวาฬคือ Moby-Dick",
+      "เรื่องเขียนในศตวรรษที่ 19 ก่อนสงครามโลก"
+     ]
+    }
+   ],
+   "say": [
+    "Dickens makes me feel angry about poverty.",
+    "I think Jane Eyre is a strong character.",
+    "Victorian cities sound noisy and crowded."
+   ],
+   "task_th": "เลือก 1 เรื่อง (Oliver Twist, A Christmas Carol หรือ Jane Eyre) อ่านสรุปเรื่องภาษาอังกฤษแบบสั้น จดปัญหาสังคม 2 อย่างที่ปรากฏในเรื่อง แล้วเขียนภาษาอังกฤษ 3 ประโยค เทียบกับปัญหาคล้ายกันในสังคมปัจจุบัน"
+  },
+  {
+   "id": "ENL342-U6",
+   "title_th": "เสียงของอเมริกาในศตวรรษที่ 19",
+   "title_en": "American voices in the 1800s",
+   "covers": "ที่ปรากฏในวรรณกรรมอังกฤษและอเมริกัน",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "รากจากพวกพิวริตัน",
+     "body_th": "ผู้อพยพพิวริตันจากอังกฤษตั้งถิ่นฐานในนิวอิงแลนด์ เคร่งศาสนา ความรู้สึกผิดและบาปจึงเป็นหัวข้อสำคัญ Nathaniel Hawthorne เขียน The Scarlet Letter (1850) เรื่อง Hester Prynne ที่ถูกบังคับให้ติดตัวอักษร A สีแดงในสังคมพิวริตัน"
+    },
+    {
+     "title_th": "Transcendentalism",
+     "body_th": "Ralph Waldo Emerson และ Henry David Thoreau เชื่อในการพึ่งตนเอง (self-reliance) และความจริงที่พบได้ในธรรมชาติ Thoreau ไปใช้ชีวิตเรียบง่ายริมบึง Walden แล้วเขียนหนังสือ Walden"
+    },
+    {
+     "title_th": "ด้านมืด",
+     "body_th": "Edgar Allan Poe เขียนเรื่องสั้นสยองขวัญและบทกวี The Raven | Herman Melville เขียน Moby-Dick เรื่องกัปตัน Ahab ที่หมกมุ่นกับการล่าวาฬขาว",
+     "example": "'Quoth the Raven, Nevermore.' (Poe) | 'Call me Ishmael.' (Melville, Moby-Dick)"
+    },
+    {
+     "title_th": "เสียงใหม่ของกวี",
+     "body_th": "Walt Whitman เขียน Leaves of Grass ด้วยกลอนเปล่า ยกย่องประชาธิปไตย คนธรรมดา และตัวตน | Emily Dickinson เขียนบทกวีสั้น ใช้ขีดคั่นมาก และตีพิมพ์น้อยมากตอนมีชีวิต",
+     "example": "'I celebrate myself, and sing myself' (Whitman)"
+    },
+    {
+     "title_th": "ระบบทาสและสัจนิยม",
+     "body_th": "Uncle Tom's Cabin ของ Harriet Beecher Stowe ต่อต้านระบบทาส | Mark Twain เขียน Adventures of Huckleberry Finn เด็กชาย Huck ล่องแพบนแม่น้ำมิสซิสซิปปีกับ Jim ชายที่หนีจากการเป็นทาส เรื่องใช้ภาษาพูดท้องถิ่น และวิจารณ์การเหยียดเชื้อชาติ"
+    }
+   ],
+   "vocab": [
+    [
+     "Puritan",
+     "พวกพิวริตัน"
+    ],
+    [
+     "guilt",
+     "ความรู้สึกผิด"
+    ],
+    [
+     "self-reliance",
+     "การพึ่งตนเอง"
+    ],
+    [
+     "Transcendentalism",
+     "ปรัชญาอุตรภาพนิยม"
+    ],
+    [
+     "obsession",
+     "ความหมกมุ่น"
+    ],
+    [
+     "slavery",
+     "ระบบทาส"
+    ],
+    [
+     "dialect",
+     "ภาษาถิ่น"
+    ],
+    [
+     "free verse",
+     "กลอนเปล่า"
+    ],
+    [
+     "democracy",
+     "ประชาธิปไตย"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL342-U6-01",
+     "skill": "ENL342-U6",
+     "difficulty": 1,
+     "stem": "Who wrote Adventures of Huckleberry Finn?",
+     "options": [
+      "Mark Twain",
+      "Herman Melville",
+      "Edgar Allan Poe",
+      "Charles Dickens"
+     ],
+     "answer": 0,
+     "explanation_th": "Huckleberry Finn เป็นของ Mark Twain",
+     "why_wrong": [
+      null,
+      "Melville เขียน Moby-Dick",
+      "Poe เขียนเรื่องสยองและ The Raven",
+      "Dickens เป็นนักเขียนอังกฤษ"
+     ]
+    },
+    {
+     "id": "ENL342-U6-02",
+     "skill": "ENL342-U6",
+     "difficulty": 1,
+     "stem": "Moby-Dick is about ___.",
+     "options": [
+      "a woman forced to wear a red letter",
+      "a man living simply by a pond",
+      "a boy on a raft on the Mississippi",
+      "Captain Ahab's obsessive hunt for a white whale"
+     ],
+     "answer": 3,
+     "explanation_th": "Ahab หมกมุ่นกับการล่าวาฬขาว Moby Dick",
+     "why_wrong": [
+      "นี่คือ The Scarlet Letter",
+      "นี่คือ Walden ของ Thoreau",
+      "นี่คือ Huckleberry Finn",
+      null
+     ]
+    },
+    {
+     "id": "ENL342-U6-03",
+     "skill": "ENL342-U6",
+     "difficulty": 1,
+     "stem": "'Quoth the Raven, Nevermore.' comes from a poem by ___.",
+     "options": [
+      "Walt Whitman",
+      "Emily Dickinson",
+      "Edgar Allan Poe",
+      "William Wordsworth"
+     ],
+     "answer": 2,
+     "explanation_th": "เป็นบรรทัดจาก The Raven ของ Poe",
+     "why_wrong": [
+      "Whitman เขียนกลอนเปล่าเรื่องประชาธิปไตย",
+      "Dickinson เขียนบทกวีสั้นที่มีขีดคั่นมาก",
+      null,
+      "Wordsworth เป็นกวีโรแมนติกอังกฤษ"
+     ]
+    },
+    {
+     "id": "ENL342-U6-04",
+     "skill": "ENL342-U6",
+     "difficulty": 2,
+     "stem": "In The Scarlet Letter, the red letter A shows ___.",
+     "options": [
+      "that Hester is the best student in town",
+      "the name of a ship",
+      "how Puritan society publicly shames Hester for her sin",
+      "a prize given by the king"
+     ],
+     "answer": 2,
+     "explanation_th": "ตัวอักษรเป็นเครื่องหมายประจานบาปของ Hester ต่อหน้าสังคม",
+     "why_wrong": [
+      "ตัวอักษรไม่ใช่รางวัลการเรียน",
+      "ตัวอักษรไม่ใช่ชื่อเรือ",
+      null,
+      "ตัวอักษรเป็นการลงโทษ ไม่ใช่รางวัล"
+     ]
+    },
+    {
+     "id": "ENL342-U6-05",
+     "skill": "ENL342-U6",
+     "difficulty": 2,
+     "stem": "Which idea is central to Emerson and Thoreau?",
+     "options": [
+      "self-reliance and finding truth in nature",
+      "the joys of working in city factories",
+      "obeying society without question",
+      "the glory of war"
+     ],
+     "answer": 0,
+     "explanation_th": "Transcendentalism เน้นการพึ่งตนเองและธรรมชาติ",
+     "why_wrong": [
+      null,
+      "พวกเขาหันไปหาธรรมชาติ ไม่ใช่โรงงาน",
+      "Thoreau เน้นการคิดเอง แม้จะขัดกับสังคม",
+      "สงครามไม่ใช่สิ่งที่พวกเขายกย่อง"
+     ]
+    },
+    {
+     "id": "ENL342-U6-06",
+     "skill": "ENL342-U6",
+     "difficulty": 2,
+     "stem": "How is Walt Whitman's poetry in Leaves of Grass usually described?",
+     "options": [
+      "short rhyming sonnets about kings",
+      "Old English alliterative verse",
+      "comic plays for the stage",
+      "long free-verse lines celebrating democracy and ordinary people"
+     ],
+     "answer": 3,
+     "explanation_th": "Whitman ใช้กลอนเปล่าบรรทัดยาว ยกย่องคนธรรมดา",
+     "why_wrong": [
+      "เขาไม่ได้เขียนซอนเน็ตสัมผัสเกี่ยวกับกษัตริย์",
+      "Old English เป็นภาษาก่อนปี 1066",
+      "Leaves of Grass เป็นบทกวี ไม่ใช่บทละคร",
+      null
+     ]
+    },
+    {
+     "id": "ENL342-U6-07",
+     "skill": "ENL342-U6",
+     "difficulty": 2,
+     "stem": "Which writer wrote short poems with many dashes and published very few in her lifetime?",
+     "options": [
+      "Harriet Beecher Stowe",
+      "Emily Dickinson",
+      "Mary Shelley",
+      "Jane Austen"
+     ],
+     "answer": 1,
+     "explanation_th": "Dickinson เขียนบทกวีสั้นจำนวนมาก แต่ตีพิมพ์น้อยมากตอนมีชีวิต",
+     "why_wrong": [
+      "Stowe เขียนนวนิยาย Uncle Tom's Cabin",
+      null,
+      "Mary Shelley เป็นนักเขียนนวนิยายอังกฤษ",
+      "Austen เป็นนักเขียนนวนิยายอังกฤษ"
+     ]
+    },
+    {
+     "id": "ENL342-U6-08",
+     "skill": "ENL342-U6",
+     "difficulty": 2,
+     "stem": "Uncle Tom's Cabin by Harriet Beecher Stowe is famous for its message against ___.",
+     "options": [
+      "slavery",
+      "the Industrial Revolution in England",
+      "the Norman Conquest",
+      "the rules of the sonnet"
+     ],
+     "answer": 0,
+     "explanation_th": "นวนิยายเรื่องนี้ต่อต้านระบบทาสในอเมริกา",
+     "why_wrong": [
+      null,
+      "เรื่องอยู่ในอเมริกา ไม่ใช่โรงงานในอังกฤษ",
+      "การพิชิตของนอร์มันเกิดในปี 1066 ในอังกฤษ",
+      "เป็นนวนิยาย ไม่ได้พูดเรื่องรูปแบบกวี"
+     ]
+    },
+    {
+     "id": "ENL342-U6-09",
+     "skill": "ENL342-U6",
+     "difficulty": 3,
+     "stem": "In Huckleberry Finn, why is Jim on the raft with Huck?",
+     "options": [
+      "Jim is Huck's teacher on a school trip.",
+      "Jim is hunting a white whale.",
+      "Jim is escaping from slavery.",
+      "Jim is a Puritan minister."
+     ],
+     "answer": 2,
+     "explanation_th": "Jim หนีจากการเป็นทาส และเดินทางไปกับ Huck",
+     "why_wrong": [
+      "Jim ไม่ใช่ครู และไม่มีทัศนศึกษา",
+      "การล่าวาฬคือ Moby-Dick",
+      null,
+      "Jim ไม่ใช่นักบวชพิวริตัน"
+     ]
+    }
+   ],
+   "say": [
+    "I think Ahab is brave, but he is also dangerous.",
+    "Thoreau's simple life sounds peaceful to me.",
+    "Huck learns that Jim is a true friend."
+   ],
+   "task_th": "ทำตารางสองช่อง British กับ American (ศตวรรษที่ 19) ใส่ผู้แต่งฝั่งละ 3 คนพร้อมผลงานคนละ 1 เรื่อง แล้วเขียนภาษาอังกฤษ 2 ประโยค ว่าปัญหาสังคมที่นักเขียนสองฝั่งเขียนถึงต่างกันอย่างไร (เช่น ความยากจนในเมือง กับ ระบบทาส)"
+  },
+  {
+   "id": "ENL342-U7",
+   "title_th": "สงคราม ความเปลี่ยนแปลง และ Modernism",
+   "title_en": "War, change and Modernism",
+   "covers": "สภาพสังคมที่ปรากฏในวรรณกรรมอังกฤษและอเมริกัน",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "หลังสงครามโลกครั้งที่ 1",
+     "body_th": "สงคราม 1914-1918 สั่นคลอนความเชื่อเดิมเรื่องความก้าวหน้าและเกียรติยศ นักเขียนหลายคนรู้สึกว่าโลกแตกเป็นชิ้น ๆ จึงทดลองรูปแบบใหม่ เรียกรวมว่า Modernism"
+    },
+    {
+     "title_th": "เทคนิคใหม่",
+     "body_th": "stream of consciousness เล่าความคิดที่ไหลต่อเนื่องในหัวตัวละคร | เรื่องไม่เรียงตามเวลา | ตอนจบเปิด | Virginia Woolf (Mrs Dalloway) | T. S. Eliot (The Waste Land 1922 บทกวีที่สะท้อนโลกแตกสลายหลังสงคราม)"
+    },
+    {
+     "title_th": "อเมริกา: Jazz Age และ American Dream",
+     "body_th": "F. Scott Fitzgerald เขียน The Great Gatsby (1925) เรื่องความร่ำรวย งานปาร์ตี้ และด้านที่ว่างเปล่าของความฝันแบบอเมริกัน | Ernest Hemingway เขียนประโยคสั้น เรียบง่าย ความหมายซ่อนใต้ผิว เช่น The Old Man and the Sea"
+    },
+    {
+     "title_th": "Harlem Renaissance และยุคเศรษฐกิจตกต่ำ",
+     "body_th": "ทศวรรษ 1920 นักเขียนและศิลปินผิวดำในย่าน Harlem นิวยอร์ก เช่น Langston Hughes สร้างงานเกี่ยวกับชีวิตและอัตลักษณ์คนผิวดำ | John Steinbeck เขียน The Grapes of Wrath (1939) ครอบครัวชาวนายากจนที่ต้องอพยพในยุคเศรษฐกิจตกต่ำครั้งใหญ่"
+    },
+    {
+     "title_th": "คำเตือนเรื่องอำนาจและความฝัน",
+     "body_th": "George Orwell นักเขียนอังกฤษ เขียน Animal Farm และ Nineteen Eighty-Four (1949) เตือนถึงรัฐที่ควบคุมความคิดของประชาชน | Arthur Miller เขียนบทละคร Death of a Salesman (1949) เรื่องพนักงานขายที่ล้มเหลวกับ American Dream"
+    }
+   ],
+   "vocab": [
+    [
+     "Modernism",
+     "สมัยใหม่นิยม"
+    ],
+    [
+     "stream of consciousness",
+     "กระแสสำนึก"
+    ],
+    [
+     "fragmentation",
+     "ความแตกเป็นชิ้นเป็นส่วน"
+    ],
+    [
+     "the American Dream",
+     "ความฝันแบบอเมริกัน"
+    ],
+    [
+     "Jazz Age",
+     "ยุคแจ๊ส"
+    ],
+    [
+     "Great Depression",
+     "ภาวะเศรษฐกิจตกต่ำครั้งใหญ่"
+    ],
+    [
+     "totalitarian",
+     "เผด็จการเบ็ดเสร็จ"
+    ],
+    [
+     "identity",
+     "อัตลักษณ์"
+    ],
+    [
+     "experiment",
+     "การทดลอง"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL342-U7-01",
+     "skill": "ENL342-U7",
+     "difficulty": 1,
+     "stem": "Who wrote The Great Gatsby?",
+     "options": [
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "John Steinbeck",
+      "George Orwell"
+     ],
+     "answer": 1,
+     "explanation_th": "The Great Gatsby (1925) เป็นของ Fitzgerald",
+     "why_wrong": [
+      "Hemingway เขียน The Old Man and the Sea",
+      null,
+      "Steinbeck เขียน The Grapes of Wrath",
+      "Orwell เขียน Nineteen Eighty-Four"
+     ]
+    },
+    {
+     "id": "ENL342-U7-02",
+     "skill": "ENL342-U7",
+     "difficulty": 1,
+     "stem": "Which British writer wrote Nineteen Eighty-Four?",
+     "options": [
+      "Virginia Woolf",
+      "Charles Dickens",
+      "Mary Shelley",
+      "George Orwell"
+     ],
+     "answer": 3,
+     "explanation_th": "Nineteen Eighty-Four (1949) เป็นของ Orwell",
+     "why_wrong": [
+      "Woolf เขียน Mrs Dalloway",
+      "Dickens เป็นนักเขียนยุควิกตอเรีย",
+      "Mary Shelley เขียน Frankenstein",
+      null
+     ]
+    },
+    {
+     "id": "ENL342-U7-03",
+     "skill": "ENL342-U7",
+     "difficulty": 1,
+     "stem": "Which event strongly shaped early Modernist writing?",
+     "options": [
+      "the Norman Conquest",
+      "the printing of The Canterbury Tales",
+      "the First World War",
+      "the reign of Queen Victoria"
+     ],
+     "answer": 2,
+     "explanation_th": "ความเสียหายของสงครามโลกครั้งที่ 1 ทำให้นักเขียนตั้งคำถามกับความเชื่อเดิม",
+     "why_wrong": [
+      "เกิดในปี 1066 ก่อน Modernism เกือบพันปี",
+      "Chaucer อยู่ในยุคกลาง",
+      null,
+      "ยุควิกตอเรียคือยุคที่ Modernism ตอบโต้ ไม่ใช่เหตุการณ์ที่หล่อหลอม"
+     ]
+    },
+    {
+     "id": "ENL342-U7-04",
+     "skill": "ENL342-U7",
+     "difficulty": 2,
+     "stem": "'Stream of consciousness' is a technique that ___.",
+     "options": [
+      "shows a character's thoughts flowing freely, as they happen",
+      "tells events strictly in time order with no thoughts",
+      "uses only dialogue, like a play",
+      "makes every two lines rhyme"
+     ],
+     "answer": 0,
+     "explanation_th": "เทคนิคนี้ให้ผู้อ่านเข้าไปอยู่ในกระแสความคิดของตัวละคร",
+     "why_wrong": [
+      null,
+      "ตรงข้าม เทคนิคนี้เน้นความคิดและมักไม่เรียงเวลา",
+      "เทคนิคนี้เน้นความคิดในใจ ไม่ใช่บทสนทนา",
+      "เป็นเทคนิคร้อยแก้ว ไม่ใช่แผนสัมผัส"
+     ]
+    },
+    {
+     "id": "ENL342-U7-05",
+     "skill": "ENL342-U7",
+     "difficulty": 2,
+     "stem": "The Great Gatsby is often read as a story about ___.",
+     "options": [
+      "a farm family moving west in the Great Depression",
+      "wealth and the empty side of the American Dream",
+      "an old fisherman's fight with a huge fish",
+      "animals who take over a farm"
+     ],
+     "answer": 1,
+     "explanation_th": "Gatsby รวยและจัดงานใหญ่ แต่ความฝันของเขากลวงและจบไม่ดี",
+     "why_wrong": [
+      "นี่คือ The Grapes of Wrath",
+      null,
+      "นี่คือ The Old Man and the Sea",
+      "นี่คือ Animal Farm"
+     ]
+    },
+    {
+     "id": "ENL342-U7-06",
+     "skill": "ENL342-U7",
+     "difficulty": 2,
+     "stem": "Which description best fits Ernest Hemingway's style?",
+     "options": [
+      "very long sentences full of old words like 'thou'",
+      "rhyming sonnets about nature",
+      "Old English verse with heavy alliteration",
+      "short, simple sentences with deeper meaning under the surface"
+     ],
+     "answer": 3,
+     "explanation_th": "Hemingway เขียนเรียบง่าย แต่ทิ้งความหมายไว้ให้ผู้อ่านคิด",
+     "why_wrong": [
+      "thou เป็นภาษาสมัยเชกสเปียร์",
+      "Hemingway เขียนร้อยแก้วเป็นหลัก",
+      "Old English เป็นภาษาก่อนปี 1066",
+      null
+     ]
+    },
+    {
+     "id": "ENL342-U7-07",
+     "skill": "ENL342-U7",
+     "difficulty": 2,
+     "stem": "The Grapes of Wrath by John Steinbeck shows ___.",
+     "options": [
+      "poor farm families during the Great Depression",
+      "rich parties on Long Island",
+      "life in a Victorian London workhouse",
+      "a prince seeking revenge in Denmark"
+     ],
+     "answer": 0,
+     "explanation_th": "เรื่องติดตามครอบครัวชาวนาที่ต้องอพยพในยุคเศรษฐกิจตกต่ำ",
+     "why_wrong": [
+      null,
+      "งานปาร์ตี้ของคนรวยคือ The Great Gatsby",
+      "สถานสงเคราะห์ในลอนดอนเป็นฉากแบบ Oliver Twist",
+      "เจ้าชายแก้แค้นในเดนมาร์กคือ Hamlet"
+     ]
+    },
+    {
+     "id": "ENL342-U7-08",
+     "skill": "ENL342-U7",
+     "difficulty": 2,
+     "stem": "Langston Hughes is closely linked with ___.",
+     "options": [
+      "the Victorian period",
+      "the Harlem Renaissance",
+      "Old English poetry",
+      "British Romanticism"
+     ],
+     "answer": 1,
+     "explanation_th": "Hughes เป็นนักเขียนคนสำคัญของ Harlem Renaissance ในนิวยอร์ก",
+     "why_wrong": [
+      "ยุควิกตอเรียเป็นของอังกฤษในศตวรรษที่ 19",
+      null,
+      "Old English เป็นภาษาก่อนปี 1066",
+      "Romanticism ของอังกฤษอยู่ต้นศตวรรษที่ 19"
+     ]
+    },
+    {
+     "id": "ENL342-U7-09",
+     "skill": "ENL342-U7",
+     "difficulty": 3,
+     "stem": "Animal Farm and Nineteen Eighty-Four both warn about ___.",
+     "options": [
+      "the dangers of wild nature",
+      "the problems of Victorian marriage",
+      "governments that control people and even their thoughts",
+      "ghosts in old houses"
+     ],
+     "answer": 2,
+     "explanation_th": "Orwell เตือนเรื่องอำนาจเผด็จการ",
+     "why_wrong": [
+      "ธรรมชาติไม่ใช่ศัตรูในสองเรื่องนี้",
+      "เรื่องการแต่งงานไม่ใช่ประเด็น",
+      null,
+      "ไม่ใช่เรื่องผี"
+     ]
+    },
+    {
+     "id": "ENL342-U7-10",
+     "skill": "ENL342-U7",
+     "difficulty": 3,
+     "stem": "Why did many Modernist writers break old forms, such as clear time order and neat endings?",
+     "options": [
+      "They did not know the old rules.",
+      "Publishers paid more for shorter books.",
+      "A law banned traditional novels.",
+      "They felt the world after the war was broken and uncertain, so old forms felt false."
+     ],
+     "answer": 3,
+     "explanation_th": "รูปแบบที่แตกเป็นชิ้นสะท้อนโลกหลังสงครามที่ไม่แน่นอน",
+     "why_wrong": [
+      "นักเขียนกลุ่มนี้รู้จักรูปแบบเดิมดี และตั้งใจทำต่างไป",
+      "นี่ไม่ใช่เหตุผลทางวรรณกรรม",
+      "ไม่มีกฎหมายแบบนี้",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "I think Gatsby is lonely, not happy.",
+    "Hemingway's short sentences feel strong to me.",
+    "Orwell's warning still feels important today."
+   ],
+   "task_th": "เลือก 1 คำถาม: The American Dream คืออะไรในวรรณกรรม หรือ สงครามเปลี่ยนวรรณกรรมอย่างไร เขียนย่อหน้าภาษาอังกฤษ 4 ประโยค ใช้ชื่อผู้แต่งและผลงานอย่างน้อย 2 เรื่องจากการ์ด และปิดด้วยความเห็นของตัวเอง I think ..."
+  }
+ ]
+}

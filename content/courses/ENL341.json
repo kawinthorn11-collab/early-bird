@@ -1,0 +1,1835 @@
+{
+ "code": "ENL341",
+ "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+ "in_class_th": [
+  "น่าจะได้อ่านงานจริงทั้งสามประเภท คือ ร้อยแก้ว (เรื่องสั้นหรือนวนิยายบางตอน) กวีนิพนธ์ และบทละคร แล้วอภิปรายในห้อง",
+  "น่าจะต้องใช้ศัพท์วรรณคดี เช่น plot, character, setting, theme, metaphor ในการตอบคำถามและการเขียน",
+  "อาจต้องเขียนย่อหน้าตอบว่าเรื่องสื่อแก่นเรื่อง (theme) อะไร พร้อมยกข้อความจากเรื่องเป็นหลักฐาน",
+  "อาจได้อ่านบางตอนจากบทละครของเชกสเปียร์หรือบทกวีภาษาอังกฤษสมัยเก่า ซึ่งคำศัพท์ต่างจากภาษาปัจจุบัน",
+  "รายชื่อเรื่องที่อ่านจริงขึ้นกับอาจารย์ แอปนี้ใช้ตัวอย่างสั้น ๆ ที่เขียนขึ้นเอง หรือจากงานที่หมดลิขสิทธิ์แล้ว"
+ ],
+ "units": [
+  {
+   "id": "ENL341-U1",
+   "title_th": "วรรณกรรมคืออะไร และสามประเภทหลัก",
+   "title_en": "What literature is: the main genres",
+   "covers": "ลักษณะทั่วไปของวรรณกรรมภาษาอังกฤษ",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "สามประเภทหลัก",
+     "body_th": "วรรณกรรมแบ่งกว้าง ๆ เป็น ร้อยแก้ว (prose) เขียนเป็นประโยคและย่อหน้า | กวีนิพนธ์ (poetry) เขียนเป็นบรรทัดและบท ใช้เสียงและจังหวะ | บทละคร (drama) เขียนเป็นบทพูดให้นักแสดงเล่นบนเวที"
+    },
+    {
+     "title_th": "บันเทิงคดีกับสารคดี",
+     "body_th": "fiction คือเรื่องที่แต่งขึ้น เช่น นวนิยาย (novel) และเรื่องสั้น (short story) | nonfiction คือเรื่องจริง เช่น ชีวประวัติ (biography) และความเรียง (essay) วิชานี้เน้นบันเทิงคดี กวีนิพนธ์ และบทละคร"
+    },
+    {
+     "title_th": "นวนิยาย เรื่องสั้น และนวนิยายขนาดสั้น",
+     "body_th": "novel ยาว ตัวละครมาก มีเรื่องรองได้ | short story สั้น อ่านจบได้ในครั้งเดียว มักมีเหตุการณ์หลักเรื่องเดียว | novella ยาวกลาง ๆ ระหว่างสองแบบ"
+    },
+    {
+     "title_th": "อ่านวรรณกรรมต่างจากอ่านข่าว",
+     "body_th": "ข่าวบอกข้อเท็จจริงตรง ๆ วรรณกรรมมักแสดง (show) มากกว่าบอก (tell) ผู้อ่านต้องตีความจากรายละเอียด ภาษา และสัญลักษณ์ จึงตีความได้หลายแบบ แต่ทุกแบบต้องมีหลักฐานจากตัวบท",
+     "example": "Tell: Mai was sad. | Show: Mai looked at the empty chair and did not touch her food."
+    }
+   ],
+   "vocab": [
+    [
+     "literature",
+     "วรรณกรรม"
+    ],
+    [
+     "genre",
+     "ประเภทวรรณกรรม"
+    ],
+    [
+     "prose",
+     "ร้อยแก้ว"
+    ],
+    [
+     "poetry",
+     "กวีนิพนธ์"
+    ],
+    [
+     "drama",
+     "บทละคร"
+    ],
+    [
+     "fiction",
+     "บันเทิงคดี"
+    ],
+    [
+     "nonfiction",
+     "สารคดี"
+    ],
+    [
+     "novel",
+     "นวนิยาย"
+    ],
+    [
+     "short story",
+     "เรื่องสั้น"
+    ],
+    [
+     "text",
+     "ตัวบท"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL341-U1-01",
+     "skill": "ENL341-U1",
+     "difficulty": 1,
+     "stem": "Which genre is usually written in lines and stanzas?",
+     "options": [
+      "a novel",
+      "a short story",
+      "a biography",
+      "poetry"
+     ],
+     "answer": 3,
+     "explanation_th": "กวีนิพนธ์เขียนเป็นบรรทัดและบท",
+     "why_wrong": [
+      "นวนิยายเขียนเป็นย่อหน้า",
+      "เรื่องสั้นเขียนเป็นย่อหน้า",
+      "ชีวประวัติเป็นร้อยแก้ว เขียนเป็นย่อหน้า",
+      null
+     ]
+    },
+    {
+     "id": "ENL341-U1-02",
+     "skill": "ENL341-U1",
+     "difficulty": 1,
+     "stem": "Which genre is written mainly as dialogue for actors on a stage?",
+     "options": [
+      "poetry",
+      "an essay",
+      "drama",
+      "a novel"
+     ],
+     "answer": 2,
+     "explanation_th": "บทละครเขียนเป็นบทพูดให้นักแสดง",
+     "why_wrong": [
+      "กวีนิพนธ์ไม่ได้เขียนเพื่อให้นักแสดงเล่นเป็นหลัก",
+      "ความเรียงเป็นสารคดีที่เขียนเป็นย่อหน้า",
+      null,
+      "นวนิยายมีบทสนทนาได้ แต่เขียนให้อ่าน ไม่ใช่ให้แสดง"
+     ]
+    },
+    {
+     "id": "ENL341-U1-03",
+     "skill": "ENL341-U1",
+     "difficulty": 1,
+     "stem": "A long made-up story with many characters, published as a book, is a ___.",
+     "options": [
+      "novel",
+      "poem",
+      "biography",
+      "stage direction"
+     ],
+     "answer": 0,
+     "explanation_th": "นวนิยายคือบันเทิงคดีร้อยแก้วขนาดยาว",
+     "why_wrong": [
+      null,
+      "บทกวีเขียนเป็นบรรทัด ไม่ใช่เรื่องยาวแบบนี้",
+      "ชีวประวัติเป็นเรื่องจริง ไม่ได้แต่งขึ้น",
+      "stage direction เป็นส่วนหนึ่งของบทละคร"
+     ]
+    },
+    {
+     "id": "ENL341-U1-04",
+     "skill": "ENL341-U1",
+     "difficulty": 1,
+     "stem": "Which of these is nonfiction?",
+     "options": [
+      "a short story about a talking cat",
+      "a biography of a real scientist",
+      "a novel about a future city",
+      "a play about a made-up king"
+     ],
+     "answer": 1,
+     "explanation_th": "ชีวประวัติของคนจริงเป็นสารคดี",
+     "why_wrong": [
+      "แมวพูดได้เป็นเรื่องแต่ง",
+      null,
+      "เมืองในอนาคตเป็นเรื่องแต่ง",
+      "กษัตริย์ที่แต่งขึ้นเป็นเรื่องแต่ง"
+     ]
+    },
+    {
+     "id": "ENL341-U1-05",
+     "skill": "ENL341-U1",
+     "difficulty": 2,
+     "stem": "Which sentence SHOWS a feeling instead of TELLING it?",
+     "options": [
+      "Tom was nervous.",
+      "Tom's hands shook as he opened the letter.",
+      "Tom felt very scared.",
+      "Tom was a nervous person."
+     ],
+     "answer": 1,
+     "explanation_th": "มือสั่นให้ผู้อ่านเดาเองว่า Tom กังวล",
+     "why_wrong": [
+      "บอกความรู้สึกตรง ๆ ด้วยคำว่า nervous",
+      null,
+      "บอกความรู้สึกตรง ๆ ด้วยคำว่า scared",
+      "บอกนิสัยตรง ๆ ด้วยคำว่า nervous"
+     ]
+    },
+    {
+     "id": "ENL341-U1-06",
+     "skill": "ENL341-U1",
+     "difficulty": 2,
+     "stem": "What is the main difference between prose and poetry?",
+     "options": [
+      "Prose is always true; poetry is always made up.",
+      "Prose is always longer than poetry.",
+      "Poetry never tells a story.",
+      "Prose uses sentences and paragraphs; poetry uses lines and often sound patterns."
+     ],
+     "answer": 3,
+     "explanation_th": "ความต่างหลักอยู่ที่รูปแบบการเขียน",
+     "why_wrong": [
+      "ร้อยแก้วเป็นเรื่องแต่งได้ เช่น นวนิยาย",
+      "บทกวีบางเรื่องยาวมาก เช่น มหากาพย์",
+      "บทกวีหลายเรื่องเล่าเรื่อง เช่น ballad และมหากาพย์",
+      null
+     ]
+    },
+    {
+     "id": "ENL341-U1-07",
+     "skill": "ENL341-U1",
+     "difficulty": 2,
+     "stem": "A story you can read in one sitting, usually with one main event, is a ___.",
+     "options": [
+      "novel",
+      "play",
+      "short story",
+      "biography"
+     ],
+     "answer": 2,
+     "explanation_th": "เรื่องสั้นอ่านจบในครั้งเดียว มีเหตุการณ์หลักเรื่องเดียว",
+     "why_wrong": [
+      "นวนิยายยาว มักอ่านหลายครั้งกว่าจะจบ",
+      "บทละครเขียนเพื่อแสดง ไม่ใช่เรื่องเล่าร้อยแก้ว",
+      null,
+      "ชีวประวัติเป็นเรื่องจริงของคน ไม่ใช่เรื่องแต่ง"
+     ]
+    },
+    {
+     "id": "ENL341-U1-08",
+     "skill": "ENL341-U1",
+     "difficulty": 2,
+     "stem": "Why can two readers give different interpretations of the same story?",
+     "options": [
+      "Literature often shows meaning through details, so readers must interpret, using evidence from the text.",
+      "Any answer is correct, even with no evidence.",
+      "Writers always hide the ending.",
+      "Literature has no meaning at all."
+     ],
+     "answer": 0,
+     "explanation_th": "วรรณกรรมให้ผู้อ่านตีความ แต่ต้องมีหลักฐานจากตัวบท",
+     "why_wrong": [
+      null,
+      "การตีความต้องมีหลักฐานจากเรื่อง",
+      "ผู้เขียนไม่ได้ซ่อนตอนจบเสมอ",
+      "วรรณกรรมมีความหมาย แค่ตีความได้หลายแบบ"
+     ]
+    },
+    {
+     "id": "ENL341-U1-09",
+     "skill": "ENL341-U1",
+     "difficulty": 3,
+     "stem": "A writer tells a made-up story in short rhyming lines. Which labels fit best?",
+     "options": [
+      "nonfiction and prose",
+      "nonfiction and drama",
+      "fiction and prose",
+      "fiction and poetry"
+     ],
+     "answer": 3,
+     "explanation_th": "แต่งขึ้นจึงเป็น fiction และเขียนเป็นบรรทัดมีสัมผัสจึงเป็น poetry",
+     "why_wrong": [
+      "เรื่องแต่งไม่ใช่ nonfiction และบรรทัดสัมผัสไม่ใช่ prose",
+      "เรื่องแต่งไม่ใช่ nonfiction และไม่ได้เขียนเป็นบทละคร",
+      "ถูกว่าเป็น fiction แต่บรรทัดสัมผัสเป็นกวี ไม่ใช่ prose",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "I think this story is more interesting than the poem.",
+    "This text is a short story, not a novel.",
+    "I prefer drama because I like dialogue."
+   ],
+   "task_th": "เลือกเรื่องที่เคยอ่านหรือดู 3 เรื่อง (ไทยหรืออังกฤษก็ได้) ทำตาราง: ชื่อเรื่อง / fiction หรือ nonfiction / prose, poetry หรือ drama / เหตุผล 1 ประโยค แล้วเขียนประโยค Tell กับ Show อย่างละ 1 ประโยคเกี่ยวกับตัวละครที่ชอบ"
+  },
+  {
+   "id": "ENL341-U2",
+   "title_th": "โครงเรื่องและความขัดแย้ง",
+   "title_en": "Plot and conflict",
+   "covers": "องค์ประกอบพื้นฐาน",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "plot คืออะไร",
+     "body_th": "plot คือลำดับเหตุการณ์ที่เชื่อมกันด้วยเหตุและผล ไม่ใช่แค่ แล้วก็... แล้วก็...",
+     "example": "Ben lost his job, so he moved back to his home town."
+    },
+    {
+     "title_th": "5 ขั้นของโครงเรื่อง",
+     "body_th": "exposition (ปูเรื่อง ตัวละคร สถานที่) → rising action (ปัญหาเพิ่มขึ้น) → climax (จุดสูงสุด ตัดสินใจหรือเผชิญหน้า) → falling action (ผลที่ตามมา) → resolution (ปมคลี่คลาย)"
+    },
+    {
+     "title_th": "ความขัดแย้ง (conflict)",
+     "body_th": "เรื่องเดินได้เพราะมีความขัดแย้ง: character vs character (คนกับคน) | character vs self (ในใจตัวเอง) | character vs society (คนกับกฎหรือสังคม) | character vs nature (คนกับธรรมชาติ)"
+    },
+    {
+     "title_th": "เทคนิคการเล่า",
+     "body_th": "flashback ย้อนไปเหตุการณ์ในอดีต | foreshadowing บอกใบ้สิ่งที่จะเกิดภายหลัง | suspense ความลุ้นว่าจะเกิดอะไรต่อ"
+    },
+    {
+     "title_th": "เรื่องตัวอย่าง: Nok",
+     "body_th": "Nok lives in a small fishing village. She wants to study in Bangkok, but her father needs her help on the boat. One night a storm destroys the boat. Nok must choose: leave for university, or stay and help rebuild. She stays for one year, then goes to Bangkok with her father's blessing."
+    }
+   ],
+   "vocab": [
+    [
+     "plot",
+     "โครงเรื่อง"
+    ],
+    [
+     "exposition",
+     "การปูเรื่อง"
+    ],
+    [
+     "rising action",
+     "ช่วงเรื่องเข้มข้นขึ้น"
+    ],
+    [
+     "climax",
+     "จุดสูงสุดของเรื่อง"
+    ],
+    [
+     "falling action",
+     "ช่วงเรื่องคลายลง"
+    ],
+    [
+     "resolution",
+     "การคลี่คลายปม"
+    ],
+    [
+     "conflict",
+     "ความขัดแย้ง"
+    ],
+    [
+     "flashback",
+     "การย้อนอดีต"
+    ],
+    [
+     "foreshadowing",
+     "การบอกเหตุล่วงหน้า"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL341-U2-01",
+     "skill": "ENL341-U2",
+     "difficulty": 1,
+     "stem": "Which part of a plot introduces the characters and the setting?",
+     "options": [
+      "climax",
+      "exposition",
+      "falling action",
+      "resolution"
+     ],
+     "answer": 1,
+     "explanation_th": "exposition เป็นช่วงปูเรื่อง แนะนำตัวละครและฉาก",
+     "why_wrong": [
+      "climax คือจุดสูงสุดของเรื่อง",
+      null,
+      "falling action คือผลหลัง climax",
+      "resolution คือตอนปมคลี่คลาย"
+     ]
+    },
+    {
+     "id": "ENL341-U2-02",
+     "skill": "ENL341-U2",
+     "difficulty": 1,
+     "stem": "The moment of greatest tension, or the biggest decision, in a story is the ___.",
+     "options": [
+      "climax",
+      "exposition",
+      "resolution",
+      "setting"
+     ],
+     "answer": 0,
+     "explanation_th": "climax คือจุดที่ตึงเครียดที่สุด",
+     "why_wrong": [
+      null,
+      "exposition เป็นช่วงต้นเรื่อง ยังไม่ตึงเครียด",
+      "resolution เป็นช่วงท้ายที่คลี่คลายแล้ว",
+      "setting คือเวลาและสถานที่ ไม่ใช่ช่วงของโครงเรื่อง"
+     ]
+    },
+    {
+     "id": "ENL341-U2-03",
+     "skill": "ENL341-U2",
+     "difficulty": 2,
+     "stem": "Passage: \"Nok lives in a small fishing village. She wants to study in Bangkok, but her father needs her help on the boat. One night a storm destroys the boat. Nok must choose: leave for university, or stay and help rebuild. She stays for one year, then goes to Bangkok with her father's blessing.\" **In this story about Nok, which event is the climax?**",
+     "options": [
+      "Nok lives in a small fishing village.",
+      "Nok goes to Bangkok one year later.",
+      "Nok chooses between leaving for university and staying to rebuild.",
+      "Nok's father needs help on the boat."
+     ],
+     "answer": 2,
+     "explanation_th": "การตัดสินใจครั้งใหญ่ของ Nok คือจุดสูงสุด",
+     "why_wrong": [
+      "นี่คือ exposition แนะนำฉาก",
+      "นี่คือ resolution ตอนจบ",
+      null,
+      "นี่คือการปูปัญหาช่วงต้น ยังไม่ใช่จุดสูงสุด"
+     ]
+    },
+    {
+     "id": "ENL341-U2-04",
+     "skill": "ENL341-U2",
+     "difficulty": 2,
+     "stem": "A man in a small boat fights a strong storm to stay alive. What type of conflict is this?",
+     "options": [
+      "character vs self",
+      "character vs society",
+      "character vs nature",
+      "character vs character"
+     ],
+     "answer": 2,
+     "explanation_th": "คู่ขัดแย้งคือพายุ ซึ่งเป็นธรรมชาติ",
+     "why_wrong": [
+      "ไม่ได้เป็นการต่อสู้ในใจตัวเอง",
+      "ไม่ได้เป็นการต่อสู้กับกฎหรือสังคม",
+      null,
+      "ไม่มีคนอื่นเป็นคู่ขัดแย้ง"
+     ]
+    },
+    {
+     "id": "ENL341-U2-05",
+     "skill": "ENL341-U2",
+     "difficulty": 2,
+     "stem": "A girl cannot decide whether to tell the truth, and she feels guilty for days. What type of conflict is this?",
+     "options": [
+      "character vs self",
+      "character vs nature",
+      "character vs society",
+      "character vs character"
+     ],
+     "answer": 0,
+     "explanation_th": "ความขัดแย้งอยู่ในใจของเธอเอง",
+     "why_wrong": [
+      null,
+      "ไม่มีธรรมชาติเป็นคู่ขัดแย้ง",
+      "เรื่องนี้เน้นความรู้สึกในใจ ไม่ใช่การสู้กับกฎสังคม",
+      "ไม่มีคนอื่นเป็นคู่ขัดแย้งโดยตรง"
+     ]
+    },
+    {
+     "id": "ENL341-U2-06",
+     "skill": "ENL341-U2",
+     "difficulty": 2,
+     "stem": "A student fights a school rule that she believes is unfair. What type of conflict is this?",
+     "options": [
+      "character vs nature",
+      "character vs society",
+      "character vs self",
+      "character vs technology"
+     ],
+     "answer": 1,
+     "explanation_th": "กฎของโรงเรียนเป็นกฎของสังคม",
+     "why_wrong": [
+      "กฎไม่ใช่ธรรมชาติ",
+      null,
+      "ความขัดแย้งอยู่ภายนอก ไม่ใช่ในใจ",
+      "เรื่องนี้ไม่มีเทคโนโลยีเป็นคู่ขัดแย้ง"
+     ]
+    },
+    {
+     "id": "ENL341-U2-07",
+     "skill": "ENL341-U2",
+     "difficulty": 2,
+     "stem": "A story suddenly goes back in time to show the hero as a child. This technique is a ___.",
+     "options": [
+      "foreshadowing",
+      "climax",
+      "resolution",
+      "flashback"
+     ],
+     "answer": 3,
+     "explanation_th": "flashback คือการย้อนไปเหตุการณ์ในอดีต",
+     "why_wrong": [
+      "foreshadowing บอกใบ้อนาคต ไม่ใช่ย้อนอดีต",
+      "climax คือจุดสูงสุด ไม่ใช่เทคนิคย้อนเวลา",
+      "resolution คือการคลี่คลายตอนจบ",
+      null
+     ]
+    },
+    {
+     "id": "ENL341-U2-08",
+     "skill": "ENL341-U2",
+     "difficulty": 3,
+     "stem": "Early in a story, the writer says the old bridge 'shook a little in the wind'. Later, the bridge falls. The early detail is an example of ___.",
+     "options": [
+      "flashback",
+      "foreshadowing",
+      "resolution",
+      "hyperbole"
+     ],
+     "answer": 1,
+     "explanation_th": "รายละเอียดช่วงต้นบอกใบ้เหตุการณ์ที่จะเกิด",
+     "why_wrong": [
+      "flashback ย้อนอดีต แต่ที่นี่บอกใบ้อนาคต",
+      null,
+      "resolution คือตอนจบที่ปมคลี่คลาย",
+      "สะพานสั่นเล็กน้อยไม่ใช่การพูดเกินจริง"
+     ]
+    },
+    {
+     "id": "ENL341-U2-09",
+     "skill": "ENL341-U2",
+     "difficulty": 3,
+     "stem": "Which sentence shows cause and effect, the heart of a plot?",
+     "options": [
+      "Ben lost his job, so he moved back to his home town.",
+      "Ben lives in a city. He has a dog.",
+      "Ben is tall and has black hair.",
+      "It was Monday, and it was raining."
+     ],
+     "answer": 0,
+     "explanation_th": "มีเหตุ (ตกงาน) และผล (ย้ายกลับบ้าน) เชื่อมด้วย so",
+     "why_wrong": [
+      null,
+      "เป็นข้อมูลสองข้อที่ไม่เป็นเหตุและผลกัน",
+      "เป็นการบรรยายรูปร่าง ไม่มีเหตุการณ์",
+      "บอกเวลาและอากาศ ไม่มีเหตุและผล"
+     ]
+    }
+   ],
+   "say": [
+    "I think the climax is when Nok makes her choice.",
+    "The main conflict is inside Nok herself.",
+    "The ending is happy, but it is not easy."
+   ],
+   "task_th": "เลือกหนังหรือละครที่ชอบ 1 เรื่อง เขียนโครงเรื่องเป็นภาษาอังกฤษ 5 บรรทัด ตาม exposition, rising action, climax, falling action, resolution บรรทัดละ 1 ประโยค แล้วระบุว่าความขัดแย้งหลักเป็นแบบไหน พร้อมเหตุผล 1 ประโยค"
+  },
+  {
+   "id": "ENL341-U3",
+   "title_th": "ตัวละคร ฉาก และมุมมองการเล่า",
+   "title_en": "Character, setting and point of view",
+   "covers": "องค์ประกอบพื้นฐานและลักษณะทั่วไป",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "ตัวเอกกับฝ่ายตรงข้าม",
+     "body_th": "protagonist คือตัวละครหลักที่เรื่องติดตาม | antagonist คือตัวละครหรือแรงที่ขัดขวางตัวเอก อาจเป็นคน กลุ่มคน หรือแรงอื่นก็ได้ และไม่จำเป็นต้องเป็นคนเลว"
+    },
+    {
+     "title_th": "ตัวละครแบบต่าง ๆ",
+     "body_th": "round ซับซ้อน มีหลายด้าน | flat มีลักษณะเดียว | dynamic เปลี่ยนแปลงเมื่อเรื่องจบ | static เหมือนเดิมตลอดเรื่อง"
+    },
+    {
+     "title_th": "รู้จักตัวละครจากอะไร",
+     "body_th": "characterization มีสองแบบ: direct ผู้เขียนบอกตรง ๆ | indirect ให้ผู้อ่านดูจากคำพูด การกระทำ ความคิด และสิ่งที่คนอื่นพูดถึง",
+     "example": "Direct: Pim was kind. | Indirect: Pim gave her umbrella to a stranger."
+    },
+    {
+     "title_th": "ฉาก (setting)",
+     "body_th": "เวลาและสถานที่ รวมถึงบรรยากาศ ฉากสร้างอารมณ์ได้ และบางครั้งเป็นต้นเหตุของความขัดแย้ง เช่น พายุหิมะ หรือเมืองที่มีกฎเข้มงวด"
+    },
+    {
+     "title_th": "มุมมองการเล่า (point of view)",
+     "body_th": "first person: ผู้เล่าคือ I ในเรื่อง | third person limited: ใช้ he/she รู้ใจตัวละครเดียว | third person omniscient: ผู้เล่ารู้ใจทุกตัวละคร"
+    }
+   ],
+   "vocab": [
+    [
+     "protagonist",
+     "ตัวเอก"
+    ],
+    [
+     "antagonist",
+     "ฝ่ายตรงข้ามของตัวเอก"
+    ],
+    [
+     "round character",
+     "ตัวละครหลายมิติ"
+    ],
+    [
+     "flat character",
+     "ตัวละครมิติเดียว"
+    ],
+    [
+     "dynamic character",
+     "ตัวละครที่เปลี่ยนแปลง"
+    ],
+    [
+     "characterization",
+     "การสร้างตัวละคร"
+    ],
+    [
+     "setting",
+     "ฉาก"
+    ],
+    [
+     "narrator",
+     "ผู้เล่าเรื่อง"
+    ],
+    [
+     "point of view",
+     "มุมมองการเล่าเรื่อง"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL341-U3-01",
+     "skill": "ENL341-U3",
+     "difficulty": 1,
+     "stem": "The main character that a story follows is the ___.",
+     "options": [
+      "antagonist",
+      "setting",
+      "theme",
+      "protagonist"
+     ],
+     "answer": 3,
+     "explanation_th": "protagonist คือตัวละครหลักของเรื่อง",
+     "why_wrong": [
+      "antagonist คือฝ่ายที่ขัดขวางตัวเอก",
+      "setting คือเวลาและสถานที่",
+      "theme คือแก่นเรื่อง ไม่ใช่ตัวละคร",
+      null
+     ]
+    },
+    {
+     "id": "ENL341-U3-02",
+     "skill": "ENL341-U3",
+     "difficulty": 1,
+     "stem": "'I opened the door slowly. I did not want to see what was inside.' What point of view is this?",
+     "options": [
+      "third person limited",
+      "third person omniscient",
+      "first person",
+      "second person"
+     ],
+     "answer": 2,
+     "explanation_th": "ผู้เล่าใช้ I และเป็นคนในเรื่อง",
+     "why_wrong": [
+      "third person ใช้ he หรือ she",
+      "third person ใช้ he หรือ she และรู้ใจหลายคน",
+      null,
+      "second person ใช้ you"
+     ]
+    },
+    {
+     "id": "ENL341-U3-03",
+     "skill": "ENL341-U3",
+     "difficulty": 2,
+     "stem": "A narrator says: 'Ana was afraid, Ben was secretly happy, and their teacher was thinking about lunch.' What point of view is this?",
+     "options": [
+      "first person",
+      "third person limited",
+      "third person omniscient",
+      "second person"
+     ],
+     "answer": 2,
+     "explanation_th": "ผู้เล่ารู้ใจทั้งสามคน จึงเป็นแบบรู้ทุกอย่าง",
+     "why_wrong": [
+      "ไม่มีผู้เล่าที่ใช้ I",
+      "limited รู้ใจตัวละครเดียว แต่ที่นี่รู้ใจสามคน",
+      null,
+      "ไม่ได้ใช้ you"
+     ]
+    },
+    {
+     "id": "ENL341-U3-04",
+     "skill": "ENL341-U3",
+     "difficulty": 2,
+     "stem": "At the start, Lek is selfish. By the end, he gives his savings to help his sister. Lek is a ___ character.",
+     "options": [
+      "static",
+      "flat",
+      "background",
+      "dynamic"
+     ],
+     "answer": 3,
+     "explanation_th": "Lek เปลี่ยนนิสัยจากเห็นแก่ตัวเป็นใจกว้าง",
+     "why_wrong": [
+      "static ไม่เปลี่ยน แต่ Lek เปลี่ยน",
+      "flat มีลักษณะเดียว แต่ Lek มีสองด้าน",
+      "Lek เป็นตัวละครที่เรื่องเล่าถึงการเปลี่ยนแปลง ไม่ใช่ตัวประกอบฉากหลัง",
+      null
+     ]
+    },
+    {
+     "id": "ENL341-U3-05",
+     "skill": "ENL341-U3",
+     "difficulty": 2,
+     "stem": "Which is an example of INDIRECT characterization?",
+     "options": [
+      "Pim was kind.",
+      "Pim gave her umbrella to a stranger and walked home in the rain.",
+      "Pim was a generous girl.",
+      "The narrator tells us that Pim is kind."
+     ],
+     "answer": 1,
+     "explanation_th": "ผู้อ่านรู้ว่า Pim ใจดีจากการกระทำ",
+     "why_wrong": [
+      "บอกนิสัยตรง ๆ เป็น direct",
+      null,
+      "บอกนิสัยตรง ๆ ด้วย generous เป็น direct",
+      "ผู้เล่าบอกตรง ๆ เป็น direct"
+     ]
+    },
+    {
+     "id": "ENL341-U3-06",
+     "skill": "ENL341-U3",
+     "difficulty": 2,
+     "stem": "Which is part of a story's setting?",
+     "options": [
+      "a rainy night in an old train station",
+      "the hero's biggest fear",
+      "the main lesson of the story",
+      "the moment of greatest tension"
+     ],
+     "answer": 0,
+     "explanation_th": "เวลา (กลางคืน ฝนตก) และสถานที่ (สถานีรถไฟ) คือฉาก",
+     "why_wrong": [
+      null,
+      "ความกลัวเป็นเรื่องของตัวละคร",
+      "บทเรียนหลักคือแก่นเรื่อง",
+      "จุดตึงเครียดที่สุดคือ climax"
+     ]
+    },
+    {
+     "id": "ENL341-U3-07",
+     "skill": "ENL341-U3",
+     "difficulty": 2,
+     "stem": "In a story, a mountain snowstorm stops the heroes from reaching home. Here, the setting ___.",
+     "options": [
+      "is the narrator",
+      "is the theme",
+      "creates the conflict",
+      "has no effect on the plot"
+     ],
+     "answer": 2,
+     "explanation_th": "พายุหิมะขวางทางตัวละคร ฉากจึงสร้างความขัดแย้ง",
+     "why_wrong": [
+      "ฉากไม่ใช่ผู้เล่าเรื่อง",
+      "ฉากไม่ใช่แก่นเรื่อง",
+      null,
+      "พายุขวางทางกลับบ้าน จึงมีผลต่อเรื่องชัดเจน"
+     ]
+    },
+    {
+     "id": "ENL341-U3-08",
+     "skill": "ENL341-U3",
+     "difficulty": 3,
+     "stem": "A character who has only one trait and never surprises the reader is ___.",
+     "options": [
+      "flat",
+      "round",
+      "dynamic",
+      "complex"
+     ],
+     "answer": 0,
+     "explanation_th": "flat character มีลักษณะเดียว",
+     "why_wrong": [
+      null,
+      "round มีหลายด้าน",
+      "dynamic เปลี่ยนแปลงในเรื่อง",
+      "complex หมายถึงซับซ้อน ตรงข้ามกับคำอธิบาย"
+     ]
+    },
+    {
+     "id": "ENL341-U3-09",
+     "skill": "ENL341-U3",
+     "difficulty": 3,
+     "stem": "Which statement about the antagonist is true?",
+     "options": [
+      "It is always an evil person.",
+      "It opposes the protagonist and can be a person, a group, or even a force.",
+      "It is always the narrator.",
+      "It always wins at the end."
+     ],
+     "answer": 1,
+     "explanation_th": "antagonist คือฝ่ายที่ขัดขวางตัวเอก ไม่จำกัดว่าต้องเป็นคนเลว",
+     "why_wrong": [
+      "antagonist อาจเป็นคนดีที่แค่ต้องการสิ่งตรงข้าม หรือเป็นธรรมชาติ",
+      null,
+      "ผู้เล่าเรื่องมักเป็นคนอื่น",
+      "หลายเรื่องตัวเอกชนะ"
+     ]
+    }
+   ],
+   "say": [
+    "The protagonist changes a lot by the end.",
+    "I think the setting makes the story feel lonely.",
+    "The narrator only knows Ana's thoughts."
+   ],
+   "task_th": "สร้างตัวละครของตัวเอง 1 ตัว เขียนภาษาอังกฤษ 4 ประโยคแบบ indirect characterization (ห้ามใช้คำคุณศัพท์บอกนิสัยตรง ๆ ให้ใช้การกระทำและคำพูด) เขียนฉาก 2 ประโยค แล้วเขียนประโยคเดียวกันสองแบบ คือ first person และ third person"
+  },
+  {
+   "id": "ENL341-U4",
+   "title_th": "ภาษาภาพพจน์และการเสียดสี",
+   "title_en": "Figurative language and irony",
+   "covers": "วรรณกรรมภาษาอังกฤษ",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "simile กับ metaphor",
+     "body_th": "simile เปรียบด้วย like หรือ as | metaphor บอกว่าสิ่งหนึ่งเป็นอีกสิ่งหนึ่งเลย",
+     "example": "Simile: 'my love is like a red, red rose' (Robert Burns) | Metaphor: 'Juliet is the sun' (Shakespeare, Romeo and Juliet)"
+    },
+    {
+     "title_th": "personification กับ hyperbole",
+     "body_th": "personification ให้สิ่งที่ไม่ใช่คนทำหรือรู้สึกอย่างคน | hyperbole พูดเกินจริงเพื่อเน้น",
+     "example": "The wind whispered. | I've told you a million times."
+    },
+    {
+     "title_th": "symbol สัญลักษณ์",
+     "body_th": "symbol คือสิ่งของในเรื่องที่ยังแทนความคิดอื่นด้วย เช่น นกในกรงอาจแทนการไม่มีอิสระ ความหมายมาจากบริบทของเรื่อง"
+    },
+    {
+     "title_th": "irony 3 แบบ",
+     "body_th": "verbal: พูดตรงข้ามกับที่หมาย | situational: สิ่งที่เกิดตรงข้ามกับที่คาด | dramatic: ผู้ชมหรือผู้อ่านรู้สิ่งที่ตัวละครยังไม่รู้",
+     "example": "Verbal: 'What lovely weather!' ตอนฝนตกหนัก"
+    },
+    {
+     "title_th": "imagery จินตภาพ",
+     "body_th": "ภาษาที่กระตุ้นประสาทสัมผัส ทั้งตา หู จมูก ลิ้น และผิวกาย ทำให้ผู้อ่านเห็นภาพ",
+     "example": "the sharp smell of burning sugar"
+    }
+   ],
+   "vocab": [
+    [
+     "figurative language",
+     "ภาษาภาพพจน์"
+    ],
+    [
+     "literal",
+     "ตามตัวอักษร"
+    ],
+    [
+     "simile",
+     "อุปมา"
+    ],
+    [
+     "metaphor",
+     "อุปลักษณ์"
+    ],
+    [
+     "personification",
+     "บุคคลวัต"
+    ],
+    [
+     "hyperbole",
+     "อติพจน์"
+    ],
+    [
+     "symbol",
+     "สัญลักษณ์"
+    ],
+    [
+     "irony",
+     "การเสียดสีหรือความย้อนแย้ง"
+    ],
+    [
+     "imagery",
+     "จินตภาพ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL341-U4-01",
+     "skill": "ENL341-U4",
+     "difficulty": 1,
+     "stem": "'Her voice was as soft as rain.' This is a ___.",
+     "options": [
+      "metaphor",
+      "personification",
+      "hyperbole",
+      "simile"
+     ],
+     "answer": 3,
+     "explanation_th": "เปรียบด้วย as ... as จึงเป็น simile",
+     "why_wrong": [
+      "metaphor ไม่ใช้ like หรือ as",
+      "ไม่ได้ให้สิ่งที่ไม่ใช่คนทำอย่างคน",
+      "ไม่ได้พูดเกินจริงอย่างเห็นได้ชัด",
+      null
+     ]
+    },
+    {
+     "id": "ENL341-U4-02",
+     "skill": "ENL341-U4",
+     "difficulty": 1,
+     "stem": "'The new phone was a brick in my pocket.' This is a ___.",
+     "options": [
+      "simile",
+      "metaphor",
+      "onomatopoeia",
+      "personification"
+     ],
+     "answer": 1,
+     "explanation_th": "บอกว่าโทรศัพท์เป็นอิฐเลย โดยไม่ใช้ like หรือ as",
+     "why_wrong": [
+      "simile ต้องมี like หรือ as",
+      null,
+      "ไม่มีคำเลียนเสียง",
+      "อิฐไม่ได้ทำอะไรอย่างคน"
+     ]
+    },
+    {
+     "id": "ENL341-U4-03",
+     "skill": "ENL341-U4",
+     "difficulty": 1,
+     "stem": "'The old door complained loudly when I opened it.' This is ___.",
+     "options": [
+      "simile",
+      "hyperbole",
+      "a symbol",
+      "personification"
+     ],
+     "answer": 3,
+     "explanation_th": "ประตูบ่นได้เหมือนคน",
+     "why_wrong": [
+      "ไม่มี like หรือ as",
+      "ไม่ได้พูดเกินจริงแบบตัวเลขหรือขนาด",
+      "ประตูไม่ได้แทนความคิดอื่นในประโยคนี้",
+      null
+     ]
+    },
+    {
+     "id": "ENL341-U4-04",
+     "skill": "ENL341-U4",
+     "difficulty": 2,
+     "stem": "'This bag weighs a ton!' This is ___.",
+     "options": [
+      "metaphor",
+      "simile",
+      "hyperbole",
+      "dramatic irony"
+     ],
+     "answer": 2,
+     "explanation_th": "กระเป๋าไม่ได้หนักหนึ่งตันจริง เป็นการพูดเกินจริง",
+     "why_wrong": [
+      "ไม่ได้บอกว่ากระเป๋าเป็นอีกสิ่งหนึ่ง",
+      "ไม่มี like หรือ as",
+      null,
+      "ไม่ได้มีผู้ชมที่รู้มากกว่าตัวละคร"
+     ]
+    },
+    {
+     "id": "ENL341-U4-05",
+     "skill": "ENL341-U4",
+     "difficulty": 2,
+     "stem": "In Romeo and Juliet, Romeo says 'Juliet is the sun.' Why is this a metaphor and not a simile?",
+     "options": [
+      "It says Juliet IS the sun, without 'like' or 'as'.",
+      "It uses 'like' to compare.",
+      "It gives the sun human feelings.",
+      "It exaggerates a number."
+     ],
+     "answer": 0,
+     "explanation_th": "metaphor บอกว่าเป็นเลย ไม่ใช้คำเปรียบ",
+     "why_wrong": [
+      null,
+      "ประโยคไม่มี like",
+      "ประโยคไม่ได้ให้ดวงอาทิตย์มีความรู้สึก",
+      "ประโยคไม่มีตัวเลข"
+     ]
+    },
+    {
+     "id": "ENL341-U4-06",
+     "skill": "ENL341-U4",
+     "difficulty": 2,
+     "stem": "It is raining hard, and Mali says, 'What perfect weather for a picnic!' This is ___.",
+     "options": [
+      "dramatic irony",
+      "situational irony",
+      "a simile",
+      "verbal irony"
+     ],
+     "answer": 3,
+     "explanation_th": "Mali พูดตรงข้ามกับที่คิด",
+     "why_wrong": [
+      "dramatic irony ต้องมีผู้ชมที่รู้มากกว่าตัวละคร",
+      "situational irony คือเหตุการณ์ตรงข้ามกับที่คาด ไม่ใช่คำพูด",
+      "ไม่มี like หรือ as",
+      null
+     ]
+    },
+    {
+     "id": "ENL341-U4-07",
+     "skill": "ENL341-U4",
+     "difficulty": 2,
+     "stem": "A fire station burns down. This is an example of ___.",
+     "options": [
+      "verbal irony",
+      "dramatic irony",
+      "situational irony",
+      "personification"
+     ],
+     "answer": 2,
+     "explanation_th": "สถานีดับเพลิงควรดับไฟ แต่กลับถูกไฟไหม้เอง ตรงข้ามกับที่คาด",
+     "why_wrong": [
+      "ไม่มีใครพูดตรงข้ามกับที่คิด",
+      "ไม่ได้มีผู้ชมที่รู้มากกว่าตัวละคร",
+      null,
+      "ไม่มีสิ่งของที่ทำอย่างคน"
+     ]
+    },
+    {
+     "id": "ENL341-U4-08",
+     "skill": "ENL341-U4",
+     "difficulty": 2,
+     "stem": "In a play, the audience knows the cake is poisoned, but the character happily eats it. This is ___.",
+     "options": [
+      "verbal irony",
+      "dramatic irony",
+      "situational irony",
+      "hyperbole"
+     ],
+     "answer": 1,
+     "explanation_th": "ผู้ชมรู้ความจริงที่ตัวละครไม่รู้",
+     "why_wrong": [
+      "ไม่มีใครพูดตรงข้ามกับที่คิด",
+      null,
+      "ประเด็นอยู่ที่ผู้ชมรู้มากกว่า ไม่ใช่เหตุการณ์ผิดคาด",
+      "ไม่มีการพูดเกินจริง"
+     ]
+    },
+    {
+     "id": "ENL341-U4-09",
+     "skill": "ENL341-U4",
+     "difficulty": 3,
+     "stem": "In a story, a girl keeps a bird in a cage. When she finally leaves her strict home, she opens the cage. The bird most likely symbolises ___.",
+     "options": [
+      "freedom, or her wish to be free",
+      "the weather",
+      "her favourite food",
+      "the time of day"
+     ],
+     "answer": 0,
+     "explanation_th": "การเปิดกรงเกิดพร้อมกับการออกจากบ้านที่เข้มงวด นกจึงแทนอิสรภาพ",
+     "why_wrong": [
+      null,
+      "เรื่องไม่ได้เชื่อมนกกับอากาศ",
+      "เรื่องไม่ได้พูดถึงอาหาร",
+      "เรื่องไม่ได้เชื่อมนกกับเวลา"
+     ]
+    }
+   ],
+   "say": [
+    "I think the bird is a symbol of freedom.",
+    "This metaphor makes the character sound powerful.",
+    "The irony in this scene made me laugh."
+   ],
+   "task_th": "หาภาพพจน์จากหนังหรือนิยายที่ชอบ 3 ตัวอย่าง (จดแค่วลีสั้น ๆ) จัดว่าเป็น simile, metaphor, personification หรือ hyperbole แล้วเขียนประโยคภาษาอังกฤษของตัวเองแบบละ 1 ประโยคเกี่ยวกับการเดินทางไปเรียน"
+  },
+  {
+   "id": "ENL341-U5",
+   "title_th": "อ่านร้อยแก้ว: แก่นเรื่อง น้ำเสียง และบรรยากาศ",
+   "title_en": "Reading prose: theme, tone and mood",
+   "covers": "รวมทั้งการฝึกอ่านงานประพันธ์ประเภทร้อยแก้ว",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "เรื่องตัวอย่าง: The Second Cup",
+     "body_th": "Every evening, Grandpa Somchai waited at the bus stop with two cups of tea. He drank one and left the other on the bench. The young bus driver thought he was strange. One cold night, the driver stopped the bus, sat down, and drank the second cup. Grandpa smiled. 'My son drove this bus for twenty years,' he said. After that, the driver stopped every night."
+    },
+    {
+     "title_th": "หัวข้อกับแก่นเรื่อง",
+     "body_th": "topic คือหัวข้อ เป็นคำหรือวลีสั้น เช่น loneliness | theme คือข้อคิดเกี่ยวกับชีวิตที่เรื่องสื่อ เขียนเป็นประโยคเต็ม",
+     "example": "Topic: loneliness | Theme: Small acts of kindness can ease loneliness."
+    },
+    {
+     "title_th": "หาแก่นเรื่องอย่างไร",
+     "body_th": "ดูว่าตัวละครเปลี่ยนไปอย่างไร ได้เรียนรู้อะไร ชื่อเรื่องและสัญลักษณ์บอกอะไร แล้วถามว่าผู้เขียนอยากให้เราคิดอะไรเกี่ยวกับชีวิต แก่นเรื่องไม่ควรเขียนเป็นคำสั่ง เช่น You should..."
+    },
+    {
+     "title_th": "น้ำเสียงกับบรรยากาศ",
+     "body_th": "tone คือทัศนคติของผู้เขียนต่อเรื่อง เช่น warm, bitter, humorous | mood คือความรู้สึกที่ผู้อ่านได้รับ เช่น calm, tense, sad"
+    },
+    {
+     "title_th": "ใช้หลักฐานจากตัวบท",
+     "body_th": "ทุกการตีความต้องมีหลักฐาน เขียนตามแบบ: I think ... because the text says ..."
+    }
+   ],
+   "vocab": [
+    [
+     "theme",
+     "แก่นเรื่อง"
+    ],
+    [
+     "topic",
+     "หัวข้อ"
+    ],
+    [
+     "tone",
+     "น้ำเสียงของผู้เขียน"
+    ],
+    [
+     "mood",
+     "บรรยากาศหรืออารมณ์ที่ผู้อ่านรู้สึก"
+    ],
+    [
+     "evidence",
+     "หลักฐาน"
+    ],
+    [
+     "interpret",
+     "ตีความ"
+    ],
+    [
+     "passage",
+     "ข้อความที่ยกมา"
+    ],
+    [
+     "moral",
+     "ข้อคิดสอนใจ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL341-U5-01",
+     "skill": "ENL341-U5",
+     "difficulty": 1,
+     "stem": "Which of these is a THEME, not just a topic?",
+     "options": [
+      "Small acts of kindness can ease loneliness.",
+      "loneliness",
+      "a bus stop",
+      "Grandpa Somchai"
+     ],
+     "answer": 0,
+     "explanation_th": "theme เป็นประโยคที่บอกข้อคิดเกี่ยวกับชีวิต",
+     "why_wrong": [
+      null,
+      "loneliness เป็นแค่หัวข้อ",
+      "ป้ายรถเมล์คือฉาก",
+      "Grandpa Somchai คือตัวละคร"
+     ]
+    },
+    {
+     "id": "ENL341-U5-02",
+     "skill": "ENL341-U5",
+     "difficulty": 1,
+     "stem": "Passage: \"Every evening, Grandpa Somchai waited at the bus stop with two cups of tea. He drank one and left the other on the bench. The young bus driver thought he was strange. One cold night, the driver stopped the bus, sat down, and drank the second cup. Grandpa smiled. 'My son drove this bus for twenty years,' he said. After that, the driver stopped every night.\" **Where does this story, 'The Second Cup', mainly take place?**",
+     "options": [
+      "in a school",
+      "on a fishing boat",
+      "in a hospital",
+      "at a bus stop"
+     ],
+     "answer": 3,
+     "explanation_th": "เรื่องเกิดที่ป้ายรถเมล์ทุกเย็น",
+     "why_wrong": [
+      "เรื่องไม่ได้พูดถึงโรงเรียน",
+      "ในเรื่องนี้ไม่มีเรือประมงเลย",
+      "เรื่องไม่ได้พูดถึงโรงพยาบาล",
+      null
+     ]
+    },
+    {
+     "id": "ENL341-U5-03",
+     "skill": "ENL341-U5",
+     "difficulty": 2,
+     "stem": "Passage: \"Every evening, Grandpa Somchai waited at the bus stop with two cups of tea. He drank one and left the other on the bench. The young bus driver thought he was strange. One cold night, the driver stopped the bus, sat down, and drank the second cup. Grandpa smiled. 'My son drove this bus for twenty years,' he said. After that, the driver stopped every night.\" **In 'The Second Cup', why does Grandpa most likely leave a second cup of tea?**",
+     "options": [
+      "He wants to sell the tea.",
+      "He does not like tea.",
+      "He is remembering his son, who drove this bus.",
+      "He forgets to drink it every day."
+     ],
+     "answer": 2,
+     "explanation_th": "ประโยค 'My son drove this bus for twenty years' บอกใบ้ว่าชาแก้วที่สองเกี่ยวกับลูกชาย",
+     "why_wrong": [
+      "เรื่องไม่ได้พูดถึงการขาย",
+      "เขาดื่มชาแก้วหนึ่งทุกวัน",
+      null,
+      "เขาทำแบบนี้ทุกวันอย่างตั้งใจ ไม่ใช่ลืม"
+     ]
+    },
+    {
+     "id": "ENL341-U5-04",
+     "skill": "ENL341-U5",
+     "difficulty": 2,
+     "stem": "Passage: \"Every evening, Grandpa Somchai waited at the bus stop with two cups of tea. He drank one and left the other on the bench. The young bus driver thought he was strange. One cold night, the driver stopped the bus, sat down, and drank the second cup. Grandpa smiled. 'My son drove this bus for twenty years,' he said. After that, the driver stopped every night.\" **How does the driver change in 'The Second Cup'?**",
+     "options": [
+      "He becomes a passenger on the bus.",
+      "He first thinks Grandpa is strange, then he starts stopping to sit with him.",
+      "He stops driving the bus.",
+      "He does not change at all."
+     ],
+     "answer": 1,
+     "explanation_th": "คนขับเปลี่ยนจากมองว่าแปลก เป็นแวะนั่งด้วยทุกคืน",
+     "why_wrong": [
+      "เขายังเป็นคนขับ",
+      null,
+      "เรื่องบอกว่าเขาหยุดรถทุกคืน ไม่ได้เลิกขับ",
+      "ความคิดและการกระทำของเขาเปลี่ยนชัดเจน"
+     ]
+    },
+    {
+     "id": "ENL341-U5-05",
+     "skill": "ENL341-U5",
+     "difficulty": 2,
+     "stem": "Passage: \"Every evening, Grandpa Somchai waited at the bus stop with two cups of tea. He drank one and left the other on the bench. The young bus driver thought he was strange. One cold night, the driver stopped the bus, sat down, and drank the second cup. Grandpa smiled. 'My son drove this bus for twenty years,' he said. After that, the driver stopped every night.\" **Which word best describes the TONE of 'The Second Cup'?**",
+     "options": [
+      "angry",
+      "sarcastic",
+      "warm",
+      "frightening"
+     ],
+     "answer": 2,
+     "explanation_th": "ผู้เขียนเล่าอย่างอ่อนโยนและเห็นใจตัวละคร",
+     "why_wrong": [
+      "ไม่มีความโกรธในน้ำเสียง",
+      "ผู้เขียนไม่ได้เยาะเย้ยตัวละคร",
+      null,
+      "ไม่มีเรื่องน่ากลัว"
+     ]
+    },
+    {
+     "id": "ENL341-U5-06",
+     "skill": "ENL341-U5",
+     "difficulty": 2,
+     "stem": "What is the difference between tone and mood?",
+     "options": [
+      "Tone is the setting; mood is the plot.",
+      "Tone is the writer's attitude; mood is the feeling the reader gets.",
+      "They mean exactly the same thing.",
+      "Tone is the reader's feeling; mood is the writer's attitude."
+     ],
+     "answer": 1,
+     "explanation_th": "tone เป็นของผู้เขียน mood เป็นของผู้อ่าน",
+     "why_wrong": [
+      "ทั้งสองไม่ใช่ฉากหรือโครงเรื่อง",
+      null,
+      "สองคำนี้ต่างกัน",
+      "สลับกัน"
+     ]
+    },
+    {
+     "id": "ENL341-U5-07",
+     "skill": "ENL341-U5",
+     "difficulty": 2,
+     "stem": "Which is the best way to write a theme?",
+     "options": [
+      "You should always drink tea.",
+      "Grief.",
+      "The story is about a man and a bus.",
+      "Grief can become easier to carry when it is shared."
+     ],
+     "answer": 3,
+     "explanation_th": "เป็นประโยคเต็มที่บอกข้อคิดเกี่ยวกับชีวิต",
+     "why_wrong": [
+      "theme ไม่ควรเป็นคำสั่ง",
+      "คำเดียวเป็นหัวข้อ ไม่ใช่ theme",
+      "เป็นการสรุปเนื้อเรื่อง ไม่ใช่ข้อคิด",
+      null
+     ]
+    },
+    {
+     "id": "ENL341-U5-08",
+     "skill": "ENL341-U5",
+     "difficulty": 3,
+     "stem": "Passage: \"Every evening, Grandpa Somchai waited at the bus stop with two cups of tea. He drank one and left the other on the bench. The young bus driver thought he was strange. One cold night, the driver stopped the bus, sat down, and drank the second cup. Grandpa smiled. 'My son drove this bus for twenty years,' he said. After that, the driver stopped every night.\" **Which quotation from the story best supports the theme that kindness can ease loneliness?**",
+     "options": [
+      "'After that, the driver stopped every night.'",
+      "'He drank one and left the other on the bench.'",
+      "'The young bus driver thought he was strange.'",
+      "'One cold night...'"
+     ],
+     "answer": 0,
+     "explanation_th": "ประโยคนี้แสดงว่าความใจดีของคนขับกลายเป็นนิสัย และ Grandpa ไม่ต้องอยู่คนเดียวอีก",
+     "why_wrong": [
+      null,
+      "แสดงความเหงาของ Grandpa แต่ยังไม่มีความใจดีของใคร",
+      "แสดงความคิดช่วงแรกของคนขับ ก่อนเขาจะใจดี",
+      "บอกเวลา ไม่ใช่หลักฐานเรื่องความใจดี"
+     ]
+    },
+    {
+     "id": "ENL341-U5-09",
+     "skill": "ENL341-U5",
+     "difficulty": 3,
+     "stem": "Passage: \"Every evening, Grandpa Somchai waited at the bus stop with two cups of tea. He drank one and left the other on the bench. The young bus driver thought he was strange. One cold night, the driver stopped the bus, sat down, and drank the second cup. Grandpa smiled. 'My son drove this bus for twenty years,' he said. After that, the driver stopped every night.\" **A student writes about this story: 'The theme is that old people are strange.' What is the main problem?**",
+     "options": [
+      "It is too long to be a theme.",
+      "A theme must mention the bus.",
+      "A theme can never be about people.",
+      "The story does not support it; the driver's first view changes by the end."
+     ],
+     "answer": 3,
+     "explanation_th": "ความคิดว่าแปลกเป็นของคนขับช่วงแรก ซึ่งเรื่องแสดงว่าเปลี่ยนไป",
+     "why_wrong": [
+      "ความยาวไม่ใช่ปัญหา",
+      "theme ไม่จำเป็นต้องพูดถึงสิ่งของในเรื่อง",
+      "theme พูดถึงคนและชีวิตได้",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "I think the theme is that kindness helps lonely people.",
+    "The tone is warm, and the ending made me feel calm.",
+    "For me, the second cup is the most important detail."
+   ],
+   "task_th": "อ่าน 'The Second Cup' ในการ์ดอีกครั้ง เขียนภาษาอังกฤษ 3 ประโยค: 1) The topic is ... 2) The theme is that ... 3) I think so because the text says '...' แล้วเขียนตอนจบใหม่ 2 ประโยคที่ทำให้แก่นเรื่องเปลี่ยนไป"
+  },
+  {
+   "id": "ENL341-U6",
+   "title_th": "อ่านกวีนิพนธ์",
+   "title_en": "Reading poetry",
+   "covers": "กวีนิพนธ์",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "ส่วนประกอบของบทกวี",
+     "body_th": "line คือบรรทัด | stanza คือบท (กลุ่มบรรทัด) | speaker คือเสียงผู้พูดในบทกวี ซึ่งไม่จำเป็นต้องเป็นตัวกวีเอง"
+    },
+    {
+     "title_th": "สัมผัสและแผนสัมผัส",
+     "body_th": "คำท้ายบรรทัดที่สัมผัสกันใช้ตัวอักษรเดียวกัน ถ้าบรรทัด 1 กับ 3 สัมผัสกัน และ 2 กับ 4 สัมผัสกัน แผนสัมผัสคือ ABAB",
+     "example": "The rain came down (A) / upon the hill (B) / and soaked the town (A) / then all was still (B)"
+    },
+    {
+     "title_th": "เสียงในบทกวี",
+     "body_th": "alliteration คือเสียงพยัญชนะต้นซ้ำ | assonance คือเสียงสระซ้ำ | onomatopoeia คือคำเลียนเสียง เช่น buzz, bang, splash",
+     "example": "'He clasps the crag with crooked hands' (Tennyson, The Eagle)"
+    },
+    {
+     "title_th": "จังหวะ (meter)",
+     "body_th": "iamb คือพยางค์เบาตามด้วยพยางค์หนัก da-DUM | iambic pentameter คือ da-DUM 5 ครั้งต่อบรรทัด เชกสเปียร์ใช้บ่อย | free verse คือกลอนที่ไม่มีสัมผัสหรือจังหวะตายตัว เชื่อมกับเรื่อง stress ในวิชาสัทศาสตร์"
+    },
+    {
+     "title_th": "รูปแบบที่ควรรู้",
+     "body_th": "sonnet มี 14 บรรทัด แบบเชกสเปียร์ใช้แผนสัมผัส ABAB CDCD EFEF GG | haiku มี 3 บรรทัด 5-7-5 พยางค์ มาจากญี่ปุ่น | ballad เป็นกวีเล่าเรื่องที่ร้องได้",
+     "example": "'Shall I compare thee to a summer's day?' (Shakespeare, Sonnet 18) | 'I wandered lonely as a cloud' (Wordsworth)"
+    }
+   ],
+   "vocab": [
+    [
+     "line",
+     "บรรทัด"
+    ],
+    [
+     "stanza",
+     "บท"
+    ],
+    [
+     "speaker",
+     "ผู้พูดในบทกวี"
+    ],
+    [
+     "rhyme",
+     "สัมผัส"
+    ],
+    [
+     "rhyme scheme",
+     "แผนสัมผัส"
+    ],
+    [
+     "alliteration",
+     "การซ้ำเสียงพยัญชนะต้น"
+    ],
+    [
+     "meter",
+     "จังหวะของบทกวี"
+    ],
+    [
+     "free verse",
+     "กลอนเปล่า"
+    ],
+    [
+     "sonnet",
+     "ซอนเน็ต (บทกวี 14 บรรทัด)"
+    ],
+    [
+     "onomatopoeia",
+     "คำเลียนเสียง"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL341-U6-01",
+     "skill": "ENL341-U6",
+     "difficulty": 1,
+     "stem": "A group of lines in a poem, like a paragraph in prose, is a ___.",
+     "options": [
+      "chapter",
+      "stanza",
+      "scene",
+      "plot"
+     ],
+     "answer": 1,
+     "explanation_th": "stanza คือกลุ่มบรรทัดในบทกวี",
+     "why_wrong": [
+      "chapter คือบทในนวนิยาย",
+      null,
+      "scene คือฉากในบทละคร",
+      "plot คือโครงเรื่อง"
+     ]
+    },
+    {
+     "id": "ENL341-U6-02",
+     "skill": "ENL341-U6",
+     "difficulty": 1,
+     "stem": "How many lines does a sonnet have?",
+     "options": [
+      "14",
+      "3",
+      "10",
+      "20"
+     ],
+     "answer": 0,
+     "explanation_th": "sonnet มี 14 บรรทัด",
+     "why_wrong": [
+      null,
+      "3 บรรทัดคือ haiku",
+      "sonnet ไม่ได้มี 10 บรรทัด",
+      "sonnet ไม่ได้มี 20 บรรทัด"
+     ]
+    },
+    {
+     "id": "ENL341-U6-03",
+     "skill": "ENL341-U6",
+     "difficulty": 1,
+     "stem": "'Buzz', 'bang' and 'splash' are examples of ___.",
+     "options": [
+      "alliteration",
+      "metaphor",
+      "onomatopoeia",
+      "a rhyme scheme"
+     ],
+     "answer": 2,
+     "explanation_th": "เป็นคำที่เลียนเสียงจริง",
+     "why_wrong": [
+      "alliteration คือพยัญชนะต้นซ้ำ แต่สามคำนี้ขึ้นต้นต่างกัน",
+      "ไม่มีการเปรียบเทียบ",
+      null,
+      "rhyme scheme คือแบบแผนสัมผัสท้ายบรรทัด"
+     ]
+    },
+    {
+     "id": "ENL341-U6-04",
+     "skill": "ENL341-U6",
+     "difficulty": 2,
+     "stem": "'He clasps the crag with crooked hands' (Tennyson). Which sound device is clearest here?",
+     "options": [
+      "onomatopoeia",
+      "simile",
+      "alliteration",
+      "free verse"
+     ],
+     "answer": 2,
+     "explanation_th": "เสียง /k/ ซ้ำใน clasps, crag, crooked",
+     "why_wrong": [
+      "ไม่มีคำเลียนเสียง",
+      "ไม่มี like หรือ as",
+      null,
+      "free verse คือรูปแบบบทกวีทั้งบท ไม่ใช่อุปกรณ์เสียง"
+     ]
+    },
+    {
+     "id": "ENL341-U6-05",
+     "skill": "ENL341-U6",
+     "difficulty": 2,
+     "stem": "'I wandered lonely as a cloud' (Wordsworth). The speaker compares himself to a cloud using 'as'. This is a ___.",
+     "options": [
+      "metaphor",
+      "simile",
+      "onomatopoeia",
+      "rhyme"
+     ],
+     "answer": 1,
+     "explanation_th": "เปรียบด้วย as จึงเป็น simile",
+     "why_wrong": [
+      "metaphor ไม่ใช้ like หรือ as",
+      null,
+      "ไม่มีคำเลียนเสียง",
+      "rhyme คือเสียงสัมผัสท้ายคำ ไม่ใช่การเปรียบ"
+     ]
+    },
+    {
+     "id": "ENL341-U6-06",
+     "skill": "ENL341-U6",
+     "difficulty": 2,
+     "stem": "In a four-line stanza, lines 1 and 3 rhyme, and lines 2 and 4 rhyme. What is the rhyme scheme?",
+     "options": [
+      "AABB",
+      "ABBA",
+      "ABCD",
+      "ABAB"
+     ],
+     "answer": 3,
+     "explanation_th": "บรรทัด 1 และ 3 เป็น A บรรทัด 2 และ 4 เป็น B",
+     "why_wrong": [
+      "AABB คือบรรทัด 1-2 และ 3-4 สัมผัสกัน",
+      "ABBA คือบรรทัด 1-4 และ 2-3 สัมผัสกัน",
+      "ABCD คือไม่มีบรรทัดใดสัมผัสกัน",
+      null
+     ]
+    },
+    {
+     "id": "ENL341-U6-07",
+     "skill": "ENL341-U6",
+     "difficulty": 2,
+     "stem": "A poem with no regular rhyme and no regular meter is written in ___.",
+     "options": [
+      "free verse",
+      "a sonnet",
+      "iambic pentameter",
+      "a haiku"
+     ],
+     "answer": 0,
+     "explanation_th": "free verse ไม่มีสัมผัสหรือจังหวะตายตัว",
+     "why_wrong": [
+      null,
+      "sonnet มีแผนสัมผัสและจังหวะชัดเจน",
+      "iambic pentameter คือจังหวะที่ตายตัว",
+      "haiku มีจำนวนพยางค์ตายตัว 5-7-5"
+     ]
+    },
+    {
+     "id": "ENL341-U6-08",
+     "skill": "ENL341-U6",
+     "difficulty": 2,
+     "stem": "In iambic meter, each foot sounds like ___.",
+     "options": [
+      "da-DUM (unstressed, then stressed)",
+      "DUM-da (stressed, then unstressed)",
+      "da-da-da (no stress)",
+      "DUM-DUM (two stressed beats)"
+     ],
+     "answer": 0,
+     "explanation_th": "iamb คือพยางค์เบาตามด้วยพยางค์หนัก",
+     "why_wrong": [
+      null,
+      "DUM-da คือ trochee ไม่ใช่ iamb",
+      "meter ต้องมีพยางค์ที่เน้น",
+      "iamb มีพยางค์หนักแค่หนึ่ง"
+     ]
+    },
+    {
+     "id": "ENL341-U6-09",
+     "skill": "ENL341-U6",
+     "difficulty": 3,
+     "stem": "Who is the 'speaker' of a poem?",
+     "options": [
+      "always the poet in real life",
+      "the person who reads the poem aloud in class",
+      "the first character named in the title",
+      "the voice talking in the poem, which may not be the poet"
+     ],
+     "answer": 3,
+     "explanation_th": "speaker คือเสียงในบทกวี กวีอาจสร้างผู้พูดที่ไม่ใช่ตัวเอง",
+     "why_wrong": [
+      "ผู้พูดอาจเป็นตัวละครที่กวีสร้างขึ้น",
+      "คนอ่านออกเสียงไม่ใช่ speaker ของบทกวี",
+      "ชื่อในชื่อบทกวีไม่จำเป็นต้องเป็นผู้พูด",
+      null
+     ]
+    },
+    {
+     "id": "ENL341-U6-10",
+     "skill": "ENL341-U6",
+     "difficulty": 3,
+     "stem": "'Shall I compare thee to a summer's day?' (Shakespeare, Sonnet 18). What does 'thee' mean in modern English?",
+     "options": [
+      "they",
+      "the",
+      "you",
+      "me"
+     ],
+     "answer": 2,
+     "explanation_th": "thee เป็นคำเก่าของ you (กรรม)",
+     "why_wrong": [
+      "they ในภาษาเก่าไม่ได้เขียนเป็น thee",
+      "the เป็นคำนำหน้านาม ไม่ใช่สรรพนาม",
+      null,
+      "me ไม่ใช่ความหมายของ thee"
+     ]
+    }
+   ],
+   "say": [
+    "I like this poem because the sounds are beautiful.",
+    "The speaker seems lonely, like the cloud.",
+    "This line has a strong rhythm."
+   ],
+   "task_th": "เขียนบทกวีภาษาอังกฤษของตัวเอง 1 บท 4 บรรทัด ใช้แผนสัมผัส ABAB เกี่ยวกับเช้าวันใดวันหนึ่งที่ชอบ ใส่ alliteration อย่างน้อย 1 จุด และ simile 1 จุด จากนั้นอ่านออกเสียงและเคาะพยางค์ที่เน้นในแต่ละบรรทัด"
+  },
+  {
+   "id": "ENL341-U7",
+   "title_th": "อ่านบทละคร",
+   "title_en": "Reading drama",
+   "covers": "หรือบทละคร",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "ส่วนประกอบของบทละคร",
+     "body_th": "act คือองก์ ซึ่งแบ่งเป็น scene (ฉาก) | dialogue คือบทพูดระหว่างตัวละคร | stage directions คือคำกำกับการแสดง มักอยู่ในวงเล็บหรือพิมพ์ตัวเอียง",
+     "example": "(She opens the window.)"
+    },
+    {
+     "title_th": "การพูดคนเดียว",
+     "body_th": "monologue คือตัวละครพูดยาวต่อหน้าคนอื่น | soliloquy คือพูดคนเดียวเพื่อเผยความคิดในใจให้ผู้ชมรู้ | aside คือพูดสั้น ๆ ให้ผู้ชมได้ยิน โดยตัวละครอื่นบนเวทีถือว่าไม่ได้ยิน",
+     "example": "'To be, or not to be: that is the question' (Hamlet)"
+    },
+    {
+     "title_th": "โศกนาฏกรรมกับสุขนาฏกรรม",
+     "body_th": "tragedy: ตัวเอกพบจุดจบเศร้า มักเพราะข้อบกพร่องของตัวเอง (tragic flaw) เช่น Macbeth ที่ทะเยอทะยานเกินไป | comedy: เรื่องเบาสนุก มักจบด้วยความสุขหรืองานแต่งงาน เช่น A Midsummer Night's Dream"
+    },
+    {
+     "title_th": "ฉากสั้นตัวอย่าง (เขียนขึ้นเอง)",
+     "body_th": "MAY: (looking at her phone) He said he'd be here at six. / JON: (aside) I told him to come at seven. / MAY: Is something wrong? / JON: No, nothing at all."
+    },
+    {
+     "title_th": "อ่านบทละครให้ได้ความ",
+     "body_th": "บทละครเขียนให้แสดง ลองอ่านออกเสียงกับเพื่อน ดูว่าแต่ละบรรทัดพูดด้วยอารมณ์แบบไหน และ stage direction บอกอะไรที่บทพูดไม่ได้บอก"
+    }
+   ],
+   "vocab": [
+    [
+     "act",
+     "องก์"
+    ],
+    [
+     "scene",
+     "ฉาก"
+    ],
+    [
+     "dialogue",
+     "บทสนทนา"
+    ],
+    [
+     "stage directions",
+     "คำกำกับการแสดง"
+    ],
+    [
+     "soliloquy",
+     "การรำพึงคนเดียว"
+    ],
+    [
+     "aside",
+     "การพูดกับผู้ชม"
+    ],
+    [
+     "tragedy",
+     "โศกนาฏกรรม"
+    ],
+    [
+     "comedy",
+     "สุขนาฏกรรม"
+    ],
+    [
+     "playwright",
+     "นักเขียนบทละคร"
+    ],
+    [
+     "tragic flaw",
+     "ข้อบกพร่องของตัวเอกในโศกนาฏกรรม"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL341-U7-01",
+     "skill": "ENL341-U7",
+     "difficulty": 1,
+     "stem": "In a play script, '(She opens the window.)' is a ___.",
+     "options": [
+      "soliloquy",
+      "stage direction",
+      "aside",
+      "stanza"
+     ],
+     "answer": 1,
+     "explanation_th": "เป็นคำบอกการกระทำบนเวที ไม่ใช่บทพูด",
+     "why_wrong": [
+      "soliloquy เป็นบทพูดยาวคนเดียว",
+      null,
+      "aside เป็นบทพูดสั้นถึงผู้ชม",
+      "stanza เป็นบทของกวีนิพนธ์"
+     ]
+    },
+    {
+     "id": "ENL341-U7-02",
+     "skill": "ENL341-U7",
+     "difficulty": 1,
+     "stem": "A person who writes plays is a ___.",
+     "options": [
+      "playwright",
+      "novelist",
+      "narrator",
+      "speaker"
+     ],
+     "answer": 0,
+     "explanation_th": "playwright คือนักเขียนบทละคร",
+     "why_wrong": [
+      null,
+      "novelist เขียนนวนิยาย",
+      "narrator คือผู้เล่าเรื่องในงานร้อยแก้ว",
+      "speaker คือเสียงในบทกวี"
+     ]
+    },
+    {
+     "id": "ENL341-U7-03",
+     "skill": "ENL341-U7",
+     "difficulty": 2,
+     "stem": "A character alone on stage speaks his private thoughts aloud. This is a ___.",
+     "options": [
+      "aside",
+      "dialogue",
+      "stage direction",
+      "soliloquy"
+     ],
+     "answer": 3,
+     "explanation_th": "soliloquy คือพูดคนเดียวเผยความคิดในใจ",
+     "why_wrong": [
+      "aside เป็นคำพูดสั้น ๆ ขณะมีตัวละครอื่นอยู่บนเวที",
+      "dialogue ต้องมีตัวละครอย่างน้อยสองตัวพูดกัน",
+      "stage direction ไม่ใช่สิ่งที่ตัวละครพูด",
+      null
+     ]
+    },
+    {
+     "id": "ENL341-U7-04",
+     "skill": "ENL341-U7",
+     "difficulty": 2,
+     "stem": "In the short scene, Jon says '(aside) I told him to come at seven.' Who is supposed to hear this?",
+     "options": [
+      "May",
+      "everyone on stage",
+      "the audience only",
+      "nobody, not even the audience"
+     ],
+     "answer": 2,
+     "explanation_th": "aside พูดให้ผู้ชมได้ยิน ตัวละครอื่นถือว่าไม่ได้ยิน",
+     "why_wrong": [
+      "May ถือว่าไม่ได้ยิน จึงถามว่ามีอะไรผิดปกติ",
+      "ตัวละครบนเวทีถือว่าไม่ได้ยิน aside",
+      null,
+      "aside ตั้งใจให้ผู้ชมได้ยิน"
+     ]
+    },
+    {
+     "id": "ENL341-U7-05",
+     "skill": "ENL341-U7",
+     "difficulty": 2,
+     "stem": "In the same scene, the audience knows the real meeting time, but May does not. This is ___.",
+     "options": [
+      "verbal irony",
+      "dramatic irony",
+      "a soliloquy",
+      "a stage direction"
+     ],
+     "answer": 1,
+     "explanation_th": "ผู้ชมรู้สิ่งที่ตัวละครไม่รู้",
+     "why_wrong": [
+      "คำถามนี้ถามเรื่องที่ผู้ชมรู้มากกว่า May ไม่ได้ถามถึงคำพูดที่ตรงข้ามกับใจ",
+      null,
+      "ฉากนี้มีสองคนพูดกัน ไม่ใช่การพูดคนเดียว",
+      "stage direction เป็นคำกำกับ ไม่ใช่สถานการณ์นี้"
+     ]
+    },
+    {
+     "id": "ENL341-U7-06",
+     "skill": "ENL341-U7",
+     "difficulty": 2,
+     "stem": "A play in which the hero falls because of a weakness, such as too much ambition, is usually a ___.",
+     "options": [
+      "comedy",
+      "tragedy",
+      "haiku",
+      "novella"
+     ],
+     "answer": 1,
+     "explanation_th": "tragedy มีตัวเอกที่ล่มสลายเพราะข้อบกพร่องของตัวเอง",
+     "why_wrong": [
+      "comedy มักจบอย่างมีความสุข",
+      null,
+      "haiku เป็นบทกวีสามบรรทัด",
+      "novella เป็นร้อยแก้ว ไม่ใช่บทละคร"
+     ]
+    },
+    {
+     "id": "ENL341-U7-07",
+     "skill": "ENL341-U7",
+     "difficulty": 2,
+     "stem": "'All the world's a stage' (Shakespeare, As You Like It) compares the world to a stage without 'like' or 'as'. It is a ___.",
+     "options": [
+      "simile",
+      "onomatopoeia",
+      "metaphor",
+      "stage direction"
+     ],
+     "answer": 2,
+     "explanation_th": "บอกว่าโลกเป็นเวทีเลย จึงเป็น metaphor",
+     "why_wrong": [
+      "simile ต้องใช้ like หรือ as",
+      "ไม่มีคำเลียนเสียง",
+      null,
+      "เป็นบทพูดของตัวละคร ไม่ใช่คำกำกับการแสดง"
+     ]
+    },
+    {
+     "id": "ENL341-U7-08",
+     "skill": "ENL341-U7",
+     "difficulty": 3,
+     "stem": "Hamlet's 'To be, or not to be: that is the question' mainly shares his inner thoughts. What kind of speech is it?",
+     "options": [
+      "an aside to another character",
+      "a stage direction",
+      "a dialogue between two friends",
+      "a soliloquy"
+     ],
+     "answer": 3,
+     "explanation_th": "เป็นการพูดคนเดียวที่เผยความคิดในใจ",
+     "why_wrong": [
+      "aside เป็นคำพูดสั้นถึงผู้ชม ไม่ได้พูดถึงตัวละครอื่น",
+      "เป็นบทพูด ไม่ใช่คำกำกับการแสดง",
+      "Hamlet ไม่ได้พูดโต้ตอบกับเพื่อนในบทนี้",
+      null
+     ]
+    },
+    {
+     "id": "ENL341-U7-09",
+     "skill": "ENL341-U7",
+     "difficulty": 3,
+     "stem": "Why is reading a play aloud often more useful than reading it silently?",
+     "options": [
+      "Plays are written to be performed, so voice and emotion help show the meaning.",
+      "Plays have no meaning on paper.",
+      "Stage directions must be read aloud to the audience.",
+      "Silent reading of plays is not allowed."
+     ],
+     "answer": 0,
+     "explanation_th": "บทละครเขียนเพื่อการแสดง เสียงและอารมณ์ช่วยให้เข้าใจ",
+     "why_wrong": [
+      null,
+      "บทละครมีความหมายบนกระดาษ แต่การอ่านออกเสียงช่วยเพิ่ม",
+      "stage direction เป็นคำแนะนำ ไม่ต้องอ่านให้ผู้ชมฟัง",
+      "ไม่มีกฎห้ามอ่านเงียบ"
+     ]
+    }
+   ],
+   "say": [
+    "I think Jon is hiding something from May.",
+    "The aside makes the scene funny.",
+    "I prefer comedy, but tragedy makes me think more."
+   ],
+   "task_th": "เขียนฉากละครสั้นภาษาอังกฤษของตัวเอง 6-8 บรรทัด มีตัวละคร 2 ตัว ใส่ stage direction อย่างน้อย 2 จุด และ aside 1 จุดที่ทำให้เกิด dramatic irony แล้วอ่านออกเสียงโดยเปลี่ยนเสียงตามตัวละคร"
+  }
+ ]
+}

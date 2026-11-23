@@ -1,0 +1,1882 @@
+{
+  "code": "ENL421",
+  "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+  "in_class_th": [
+    "น่าจะได้ฝึกเขียนรายงานวิจัยขนาดเล็กหรือโครงร่างงานวิจัย (research proposal) ทีละส่วน เช่น บทนำ วิธีวิจัย ผล และอภิปรายผล",
+    "อาจต้องหาบทความวิชาการจากฐานข้อมูล แล้วเขียนทบทวนวรรณกรรม (literature review) สั้น ๆ ที่สังเคราะห์หลายแหล่ง",
+    "คาดว่าจะตรวจการอ้างอิงและรายการอ้างอิงละเอียดกว่า ENL224 รูปแบบที่ใช้น่าจะเป็น APA แต่อาจารย์อาจกำหนดแบบอื่น",
+    "อาจได้เก็บข้อมูลเล็ก ๆ เช่น แบบสอบถามเพื่อนร่วมชั้น แล้วนำเสนอผลเป็นตารางหรือกราฟ",
+    "น่าจะมีกติกาเข้มเรื่องการลอกเลียนผลงานและการใช้เครื่องมือ AI และอาจมีการตรวจงานด้วยโปรแกรมตรวจการคัดลอก"
+  ],
+  "units": [
+    {
+      "id": "ENL421-U1",
+      "title_th": "คำถามวิจัยและโครงสร้างรายงานวิจัย",
+      "title_en": "Research Questions and the Research Report",
+      "covers": "หลักการเขียนงานเชิงวิชาการ",
+      "minutes": 14,
+      "cards": [
+        {
+          "title_th": "จากเรียงความสู่งานวิจัย",
+          "body_th": "ใน ENL224 คุณเขียนเรียงความเพื่อเสนอความคิดที่มีเหตุผล งานวิจัยต่างออกไป เริ่มจากคำถาม แล้วเก็บข้อมูลหรืออ่านงานอื่นเพื่อหาคำตอบ รายงานวิจัยจึงเล่าว่าทำอะไรและพบอะไร ไม่ใช่แค่ความเห็น"
+        },
+        {
+          "title_th": "คำถามวิจัยที่ดี",
+          "body_th": "ชัด แคบพอ ตอบได้ด้วยข้อมูลที่หาได้จริง และไม่ตั้งคำตอบไว้ก่อนในคำถาม คำถามแบบตอบแค่ yes หรือ no มักบางเกินไปสำหรับงานวิจัย",
+          "example": "Too broad: Is social media good? / Better: How do first-year English majors use TikTok to practise listening?"
+        },
+        {
+          "title_th": "โครง IMRaD",
+          "body_th": "Introduction ทำไมเรื่องนี้สำคัญและคำถามวิจัย / Methods ใคร ใช้เครื่องมืออะไร ทำอย่างไร / Results พบอะไร มักมีตารางหรือกราฟ / Discussion ผลหมายความว่าอะไร เทียบกับงานก่อน และข้อจำกัด ส่วนใหญ่มี Abstract อยู่หน้าและ References อยู่ท้าย"
+        },
+        {
+          "title_th": "ช่องว่างงานวิจัย (research gap)",
+          "body_th": "สิ่งที่งานก่อนหน้ายังไม่ได้ศึกษา เช่น เคยศึกษาแต่นักเรียนมัธยม ยังไม่มีใครศึกษานักศึกษามหาวิทยาลัย บทนำมักเล่าพื้นหลัง ชี้ช่องว่าง แล้วจบด้วยคำถามวิจัย"
+        },
+        {
+          "title_th": "Tense ในแต่ละส่วน",
+          "body_th": "Methods และ Results มักใช้ past simple เพราะเล่าสิ่งที่ทำและพบไปแล้ว ข้อเท็จจริงทั่วไปในบทนำมักใช้ present simple",
+          "example": "Forty students completed a questionnaire. / Most students preferred short videos."
+        }
+      ],
+      "vocab": [
+        [
+          "research question",
+          "คำถามวิจัย"
+        ],
+        [
+          "research gap",
+          "ช่องว่างงานวิจัย"
+        ],
+        [
+          "abstract",
+          "บทคัดย่อ"
+        ],
+        [
+          "methods",
+          "วิธีดำเนินการวิจัย"
+        ],
+        [
+          "results",
+          "ผลการวิจัย"
+        ],
+        [
+          "discussion",
+          "การอภิปรายผล"
+        ],
+        [
+          "participants",
+          "ผู้เข้าร่วมการวิจัย"
+        ],
+        [
+          "questionnaire",
+          "แบบสอบถาม"
+        ],
+        [
+          "limitation",
+          "ข้อจำกัด"
+        ]
+      ],
+      "say": [
+        "My research question is clear and narrow.",
+        "The Methods section explains what I did.",
+        "The Discussion explains what the results mean."
+      ],
+      "task_th": "เลือกเรื่องที่สนใจ 1 เรื่อง เช่น การฝึกฟังภาษาอังกฤษจาก TikTok เขียนคำถามวิจัยแบบกว้าง 1 ข้อ แล้วปรับให้แคบลง 2 รอบจนระบุได้ว่าศึกษาใคร ที่ไหน และวัดอะไร จากนั้นเขียน 1 บรรทัดว่าจะเก็บข้อมูลด้วยวิธีอะไร",
+      "questions": [
+        {
+          "id": "ENL421-U1-01",
+          "skill": "ENL421-U1",
+          "difficulty": 1,
+          "stem": "Which is the best research question for a small student project?",
+          "options": [
+            "Is English important?",
+            "What is everything about learning languages?",
+            "How often do first-year English majors at one university read English news online?",
+            "Why are all Thai students bad at English?"
+          ],
+          "answer": 2,
+          "explanation_th": "ระบุกลุ่มคน ขอบเขต และสิ่งที่วัดได้ชัด เก็บข้อมูลตอบได้จริง",
+          "why_wrong": [
+            "กว้างมากและตอบได้แค่ใช่หรือไม่ใช่ ไม่บอกว่าจะศึกษาใครหรือวัดอะไร",
+            "ไม่มีขอบเขต งานเล็กตอบไม่ได้",
+            null,
+            "ตั้งคำตอบไว้ก่อนว่าไม่เก่ง และเหมารวมทุกคน คำถามวิจัยต้องเป็นกลาง"
+          ]
+        },
+        {
+          "id": "ENL421-U1-02",
+          "skill": "ENL421-U1",
+          "difficulty": 1,
+          "stem": "In which section do you describe the participants and the questionnaire in detail?",
+          "options": [
+            "Methods",
+            "Introduction",
+            "Results",
+            "References"
+          ],
+          "answer": 0,
+          "explanation_th": "Methods บอกว่าใครเข้าร่วม ใช้เครื่องมืออะไร และเก็บข้อมูลอย่างไร",
+          "why_wrong": [
+            null,
+            "บทนำบอกพื้นหลังและคำถามวิจัย ไม่ได้อธิบายขั้นตอนละเอียด",
+            "Results รายงานสิ่งที่พบ ไม่ใช่วิธีเก็บข้อมูล",
+            "เป็นรายการแหล่งที่อ้าง ไม่ได้บรรยายผู้เข้าร่วม"
+          ]
+        },
+        {
+          "id": "ENL421-U1-03",
+          "skill": "ENL421-U1",
+          "difficulty": 2,
+          "stem": "Which section explains what the results mean and compares them with earlier studies?",
+          "options": [
+            "Methods",
+            "Abstract",
+            "References",
+            "Discussion"
+          ],
+          "answer": 3,
+          "explanation_th": "Discussion ตีความผลและเทียบกับงานวิจัยก่อนหน้า",
+          "why_wrong": [
+            "Methods บอกวิธีทำ ยังไม่มีผลให้ตีความ",
+            "บทคัดย่อสรุปทั้งงานสั้น ๆ ไม่ได้อภิปรายเทียบงานอื่นอย่างละเอียด",
+            "เป็นรายการแหล่ง ไม่มีการตีความ",
+            null
+          ]
+        },
+        {
+          "id": "ENL421-U1-04",
+          "skill": "ENL421-U1",
+          "difficulty": 1,
+          "stem": "IMRaD stands for Introduction, Methods, Results and ____.",
+          "options": [
+            "Data",
+            "Discussion",
+            "Definition",
+            "Description"
+          ],
+          "answer": 1,
+          "explanation_th": "ตัว D คือ Discussion",
+          "why_wrong": [
+            "ข้อมูลอยู่ใน Results ไม่ได้เป็นชื่อส่วนสุดท้าย",
+            null,
+            "ไม่ใช่ชื่อส่วนในโครง IMRaD",
+            "ไม่ใช่ชื่อส่วนในโครง IMRaD"
+          ]
+        },
+        {
+          "id": "ENL421-U1-05",
+          "skill": "ENL421-U1",
+          "difficulty": 2,
+          "stem": "A research gap is ____.",
+          "options": [
+            "a grammar mistake in your report",
+            "the empty space between two paragraphs",
+            "the time between two surveys",
+            "a topic or question that earlier studies have not yet studied"
+          ],
+          "answer": 3,
+          "explanation_th": "ช่องว่างคือสิ่งที่งานก่อนยังไม่ได้ตอบ งานของเราจะมาเติม",
+          "why_wrong": [
+            "เป็นความหมายทั่วไปของคำว่าผิดพลาด ไม่ใช่ศัพท์วิจัยนี้",
+            "เป็นช่องว่างทางหน้ากระดาษ ไม่ใช่ทางความรู้",
+            "เป็นระยะเวลา ไม่ใช่สิ่งที่ยังไม่มีใครศึกษา",
+            null
+          ]
+        },
+        {
+          "id": "ENL421-U1-06",
+          "skill": "ENL421-U1",
+          "difficulty": 2,
+          "stem": "Which sentence belongs in the Results section?",
+          "options": [
+            "Sixty-two percent of the students said they used English apps every day.",
+            "This study aims to find out how students use English apps.",
+            "These findings suggest that apps may support self-study.",
+            "Forty students answered a ten-item questionnaire in March."
+          ],
+          "answer": 0,
+          "explanation_th": "รายงานตัวเลขที่พบโดยยังไม่ตีความ",
+          "why_wrong": [
+            null,
+            "บอกจุดประสงค์ อยู่ในบทนำ",
+            "เป็นการตีความ อยู่ใน Discussion",
+            "บอกวิธีเก็บข้อมูล อยู่ใน Methods"
+          ]
+        },
+        {
+          "id": "ENL421-U1-07",
+          "skill": "ENL421-U1",
+          "difficulty": 2,
+          "stem": "In a finished research report, which tense is usually used to describe what the researcher did in the Methods section?",
+          "options": [
+            "future simple",
+            "present continuous",
+            "past simple",
+            "past perfect continuous"
+          ],
+          "answer": 2,
+          "explanation_th": "เล่าสิ่งที่ทำเสร็จแล้ว เช่น The researcher interviewed ten students.",
+          "why_wrong": [
+            "will ใช้ในโครงร่างก่อนทำวิจัย ไม่ใช่รายงานที่ทำเสร็จแล้ว",
+            "สื่อว่ากำลังทำอยู่ตอนนี้ ไม่เหมาะกับงานที่จบแล้ว",
+            null,
+            "ซับซ้อนเกินจำเป็นและไม่ใช่รูปที่ใช้เล่าขั้นตอนตามปกติ"
+          ]
+        },
+        {
+          "id": "ENL421-U1-08",
+          "skill": "ENL421-U1",
+          "difficulty": 3,
+          "stem": "Which is the best order of ideas in a research introduction?",
+          "options": [
+            "research question, results, background",
+            "background, research gap, research question",
+            "results, limitations, background",
+            "limitations, background, results"
+          ],
+          "answer": 1,
+          "explanation_th": "เล่าพื้นหลัง ชี้ว่ายังขาดอะไร แล้วจึงบอกคำถามที่จะตอบ",
+          "why_wrong": [
+            "ผลไม่อยู่ในบทนำ และพื้นหลังควรมาก่อน",
+            null,
+            "ผลและข้อจำกัดอยู่ส่วนหลังของรายงาน",
+            "ข้อจำกัดและผลไม่ใช่เนื้อหาของบทนำ"
+          ]
+        },
+        {
+          "id": "ENL421-U1-09",
+          "skill": "ENL421-U1",
+          "difficulty": 2,
+          "stem": "What is an abstract?",
+          "options": [
+            "a short summary of the whole study at the beginning of the paper",
+            "a list of sources at the end of the paper",
+            "the first rough draft of the report",
+            "a table that shows the results"
+          ],
+          "answer": 0,
+          "explanation_th": "บทคัดย่อสรุปจุดประสงค์ วิธี ผล และข้อสรุปสั้น ๆ",
+          "why_wrong": [
+            null,
+            "นั่นคือ References",
+            "นั่นคือฉบับร่าง (draft)",
+            "ตารางอยู่ใน Results ไม่ใช่บทคัดย่อ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ENL421-U2",
+      "title_th": "หาและประเมินแหล่งข้อมูล และทำรายการอ้างอิง",
+      "title_en": "Finding and Evaluating Sources, and the Reference List",
+      "covers": "การทำบรรณานุกรม",
+      "minutes": 14,
+      "cards": [
+        {
+          "title_th": "หาแหล่งที่ไหน",
+          "body_th": "ฐานข้อมูลวิชาการ (database) และ Google Scholar มีบทความในวารสารที่ผ่านการประเมินโดยผู้ทรงคุณวุฒิ (peer-reviewed) เว็บทั่วไปหรือ Wikipedia ช่วยให้เข้าใจเรื่องเบื้องต้น แต่อาจารย์ส่วนมากไม่ให้ใช้เป็นแหล่งหลักในงานวิจัย"
+        },
+        {
+          "title_th": "ค้นให้ฉลาด",
+          "body_th": "AND ทำให้ผลแคบลงเพราะต้องมีทุกคำ OR ทำให้ผลกว้างขึ้นเพราะมีคำไหนก็ได้ ใส่เครื่องหมายคำพูดเพื่อค้นวลีตรงตัว",
+          "example": "podcast AND vocabulary / podcast OR audiobook / \"English majors\""
+        },
+        {
+          "title_th": "ประเมินด้วย CRAAP",
+          "body_th": "Currency ใหม่พอไหม / Relevance ตรงกับคำถามไหม / Authority ผู้เขียนเป็นใคร มีความรู้ด้านนี้ไหม / Accuracy มีหลักฐานและอ้างอิงไหม / Purpose เขียนเพื่อให้ข้อมูลหรือเพื่อขายของ"
+        },
+        {
+          "title_th": "References ใน APA 7",
+          "body_th": "ขึ้นหน้าใหม่ หัวข้อ References ตัวหนาจัดกลาง เรียงตามนามสกุลผู้แต่งคนแรก ใช้ย่อหน้าแขวน (hanging indent) ใส่เฉพาะแหล่งที่อ้างในงานจริง ต่างจากบรรณานุกรม (bibliography) ที่อาจรวมแหล่งที่อ่านประกอบด้วย"
+        },
+        {
+          "title_th": "รูปแบบพื้นฐาน (ตัวอย่างสมมติ)",
+          "body_th": "บทความวารสาร: นามสกุล, อักษรย่อชื่อ. (ปี). ชื่อบทความ. ชื่อวารสาร, เล่ม(ฉบับ), หน้า. DOI / หนังสือ: นามสกุล, อักษรย่อชื่อ. (ปี). ชื่อหนังสือ. สำนักพิมพ์. APA 7 ไม่ใส่เมืองที่พิมพ์แล้ว ชื่อวารสารและชื่อหนังสือเป็นตัวเอียง",
+          "example": "Tan, A., & Lee, B. (2021). Podcasts and listening skills. Journal of Language Study, 12(3), 45–60. https://doi.org/10.xxxx"
+        }
+      ],
+      "vocab": [
+        [
+          "database",
+          "ฐานข้อมูล"
+        ],
+        [
+          "peer-reviewed",
+          "ผ่านการประเมินโดยผู้ทรงคุณวุฒิ"
+        ],
+        [
+          "keyword",
+          "คำค้น"
+        ],
+        [
+          "credible",
+          "น่าเชื่อถือ"
+        ],
+        [
+          "primary source",
+          "แหล่งข้อมูลปฐมภูมิ"
+        ],
+        [
+          "secondary source",
+          "แหล่งข้อมูลทุติยภูมิ"
+        ],
+        [
+          "reference list",
+          "รายการอ้างอิง"
+        ],
+        [
+          "bibliography",
+          "บรรณานุกรม"
+        ],
+        [
+          "hanging indent",
+          "ย่อหน้าแขวน"
+        ]
+      ],
+      "say": [
+        "I found this article in an academic database.",
+        "Is the author an expert on this topic?",
+        "My reference list is in alphabetical order."
+      ],
+      "task_th": "ค้นใน Google Scholar ด้วยคำค้นที่มี AND เช่น \"English majors\" AND podcast หรือหัวข้อของคุณเอง เลือกบทความ 1 ชิ้น ตอบคำถาม CRAAP ครบ 5 ข้อแบบสั้น แล้วเขียน reference แบบ APA 7 ของบทความนั้น 1 รายการ",
+      "questions": [
+        {
+          "id": "ENL421-U2-01",
+          "skill": "ENL421-U2",
+          "difficulty": 1,
+          "stem": "Which source is usually the most reliable for a research report?",
+          "options": [
+            "an anonymous comment on a forum",
+            "an advertisement for a language app",
+            "a peer-reviewed journal article",
+            "a friend's post on social media"
+          ],
+          "answer": 2,
+          "explanation_th": "ผ่านการตรวจโดยผู้เชี่ยวชาญก่อนตีพิมพ์",
+          "why_wrong": [
+            "ไม่รู้ว่าใครเขียน ตรวจสอบความรู้ผู้เขียนไม่ได้",
+            "เขียนเพื่อขายของ จุดประสงค์ไม่เป็นกลาง",
+            null,
+            "เป็นความเห็นส่วนตัว ไม่ผ่านการตรวจสอบ"
+          ]
+        },
+        {
+          "id": "ENL421-U2-02",
+          "skill": "ENL421-U2",
+          "difficulty": 2,
+          "stem": "You search 'podcast AND vocabulary'. Compared with searching 'podcast' alone, you will usually get ____.",
+          "options": [
+            "more results",
+            "fewer, more focused results",
+            "results without the word 'podcast'",
+            "only results from this year"
+          ],
+          "answer": 1,
+          "explanation_th": "AND บังคับให้มีทั้งสองคำ ผลจึงแคบลง",
+          "why_wrong": [
+            "การเพิ่มเงื่อนไขด้วย AND ไม่ทำให้ผลมากขึ้น",
+            null,
+            "AND ยังต้องมีคำว่า podcast อยู่",
+            "AND ไม่ได้กรองตามปี"
+          ]
+        },
+        {
+          "id": "ENL421-U2-03",
+          "skill": "ENL421-U2",
+          "difficulty": 2,
+          "stem": "Which search finds sources that contain either word?",
+          "options": [
+            "podcast AND audiobook",
+            "\"podcast audiobook\"",
+            "podcast NOT audiobook",
+            "podcast OR audiobook"
+          ],
+          "answer": 3,
+          "explanation_th": "OR หมายถึงมีคำไหนก็ได้",
+          "why_wrong": [
+            "AND ต้องมีทั้งสองคำ",
+            "เครื่องหมายคำพูดค้นวลีที่ติดกันตรงตัว",
+            "NOT ตัดแหล่งที่มีคำว่า audiobook ออก",
+            null
+          ]
+        },
+        {
+          "id": "ENL421-U2-04",
+          "skill": "ENL421-U2",
+          "difficulty": 2,
+          "stem": "In the CRAAP test, 'Authority' asks ____.",
+          "options": [
+            "how new the source is",
+            "who wrote the source and whether they are qualified",
+            "whether the source fits your research question",
+            "why the source was written"
+          ],
+          "answer": 1,
+          "explanation_th": "Authority ดูความน่าเชื่อถือของผู้เขียน",
+          "why_wrong": [
+            "นั่นคือ Currency",
+            null,
+            "นั่นคือ Relevance",
+            "นั่นคือ Purpose"
+          ]
+        },
+        {
+          "id": "ENL421-U2-05",
+          "skill": "ENL421-U2",
+          "difficulty": 1,
+          "stem": "In APA 7, how is the reference list ordered?",
+          "options": [
+            "alphabetically by the first author's surname",
+            "by year, newest first",
+            "in the order the sources first appear in the paper",
+            "by the length of each title"
+          ],
+          "answer": 0,
+          "explanation_th": "เรียงตามตัวอักษรของนามสกุลผู้แต่งคนแรก",
+          "why_wrong": [
+            null,
+            "APA ไม่ได้เรียงตามปี",
+            "เป็นวิธีของระบบอ้างอิงแบบตัวเลข ไม่ใช่ APA",
+            "ความยาวชื่อเรื่องไม่ใช่เกณฑ์เรียง"
+          ]
+        },
+        {
+          "id": "ENL421-U2-06",
+          "skill": "ENL421-U2",
+          "difficulty": 2,
+          "stem": "In APA 7, what is the heading at the top of the reference list?",
+          "options": [
+            "Bibliography",
+            "Works Cited",
+            "References",
+            "Sources Used"
+          ],
+          "answer": 2,
+          "explanation_th": "APA ใช้คำว่า References ตัวหนาจัดกลาง",
+          "why_wrong": [
+            "APA ไม่ได้ใช้ชื่อนี้สำหรับรายการแหล่งที่อ้าง",
+            "เป็นหัวข้อของรูปแบบ MLA",
+            null,
+            "ไม่ใช่หัวข้อมาตรฐานของรูปแบบใด"
+          ]
+        },
+        {
+          "id": "ENL421-U2-07",
+          "skill": "ENL421-U2",
+          "difficulty": 3,
+          "stem": "Which APA 7 book reference is correct? (Ignore italics.)",
+          "options": [
+            "John Smith. Writing Research In English. 2020. Academic Press.",
+            "Smith, J. (2020). Writing research in English. New York: Academic Press.",
+            "Smith, John, 2020, Writing research in English, Academic Press.",
+            "Smith, J. (2020). Writing research in English. Academic Press."
+          ],
+          "answer": 3,
+          "explanation_th": "นามสกุล อักษรย่อ ปีในวงเล็บ ชื่อหนังสือแบบ sentence case และสำนักพิมพ์",
+          "why_wrong": [
+            "ชื่อเต็มนำหน้า ปีอยู่ผิดที่ และใช้ตัวใหญ่ทุกคำ",
+            "ใส่เมืองที่พิมพ์ซึ่งเป็นแบบ APA 6 APA 7 เลิกใส่แล้ว",
+            "ใช้ชื่อเต็มและไม่มีวงเล็บล้อมปี",
+            null
+          ]
+        },
+        {
+          "id": "ENL421-U2-08",
+          "skill": "ENL421-U2",
+          "difficulty": 2,
+          "stem": "What is the main difference between a reference list and a bibliography?",
+          "options": [
+            "A reference list is only for books.",
+            "A bibliography never includes books.",
+            "A reference list has only the sources you cited, but a bibliography may also include background reading.",
+            "They must always have exactly the same sources."
+          ],
+          "answer": 2,
+          "explanation_th": "References ต้องตรงกับที่อ้างในเนื้อหาเท่านั้น",
+          "why_wrong": [
+            "ใส่ได้ทั้งบทความ เว็บไซต์ และแหล่งอื่น",
+            "บรรณานุกรมใส่หนังสือได้",
+            null,
+            "บรรณานุกรมอาจมีแหล่งที่อ่านแต่ไม่ได้อ้าง"
+          ]
+        },
+        {
+          "id": "ENL421-U2-09",
+          "skill": "ENL421-U2",
+          "difficulty": 2,
+          "stem": "You are studying Thai students' attitudes to English. Which is a primary source?",
+          "options": [
+            "the survey answers you collected from the students",
+            "a textbook chapter that summarises earlier studies",
+            "a news article that reports on a study",
+            "a published literature review on the topic"
+          ],
+          "answer": 0,
+          "explanation_th": "เป็นข้อมูลดิบที่คุณเก็บเอง",
+          "why_wrong": [
+            null,
+            "สรุปงานของคนอื่น จึงเป็นแหล่งทุติยภูมิ",
+            "เล่าต่องานวิจัย จึงเป็นแหล่งทุติยภูมิ",
+            "รวบรวมงานอื่น จึงเป็นแหล่งทุติยภูมิ"
+          ]
+        },
+        {
+          "id": "ENL421-U2-10",
+          "skill": "ENL421-U2",
+          "difficulty": 1,
+          "stem": "Each entry in an APA 7 reference list uses a hanging indent. This means ____.",
+          "options": [
+            "the first line is indented and the other lines start at the margin",
+            "the first line starts at the margin and the other lines are indented",
+            "every line is centred",
+            "each entry is written in bold"
+          ],
+          "answer": 1,
+          "explanation_th": "บรรทัดแรกชิดซ้าย บรรทัดต่อไปย่อเข้า",
+          "why_wrong": [
+            "นั่นคือย่อหน้าปกติ กลับด้านกับย่อหน้าแขวน",
+            null,
+            "จัดกลางใช้กับหัวข้อ References ไม่ใช่รายการ",
+            "รายการไม่ได้เป็นตัวหนา"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ENL421-U3",
+      "title_th": "ภาษาเชิงวิชาการ คำศัพท์ และการพูดอย่างระมัดระวัง",
+      "title_en": "Academic Style, Vocabulary and Hedging",
+      "covers": "รูปแบบของภาษา คำศัพท์และสำนวน",
+      "minutes": 13,
+      "cards": [
+        {
+          "title_th": "เป็นทางการและชัด",
+          "body_th": "ไม่ใช้คำย่อ (contraction) ไม่ใช้สแลงหรือคำพูดกันเอง เลือกคำที่แม่นกว่า",
+          "example": "don't → do not / a lot of → many / kids → children / get data → collect data"
+        },
+        {
+          "title_th": "กริยารายงาน (reporting verbs)",
+          "body_th": "บอกว่าเจ้าของแหล่งพูดอะไรและมั่นใจแค่ไหน found, showed ใช้กับผลการวิจัย argued, claimed ใช้กับความเห็นที่คนอื่นอาจเถียง suggested ใช้เมื่อเสนออย่างระมัดระวัง"
+        },
+        {
+          "title_th": "Hedging คืออะไร",
+          "body_th": "ภาษาที่ไม่อ้างเกินหลักฐาน ใช้ may, might, could, appear to, seem to, tend to, likely, possibly หรือจำกัดกลุ่มด้วย some, many",
+          "example": "Podcasts cure listening problems. → Podcasts may help some students improve their listening."
+        },
+        {
+          "title_th": "ระวังคำที่หนักเกินไป",
+          "body_th": "คำอย่าง prove, always, never, all, clearly ทำให้ประโยคฟันธง ถ้าหลักฐานมาจากนักศึกษา 30 คน ไม่ควรสรุปว่า all students การสรุปเกินหลักฐานเรียกว่า overgeneralisation"
+        },
+        {
+          "title_th": "คำเชื่อมเชิงวิชาการ",
+          "body_th": "เพิ่มเติม furthermore, in addition / ขัดแย้ง however, in contrast, nevertheless / ผลลัพธ์ therefore, as a result / ยกตัวอย่าง for example, for instance"
+        }
+      ],
+      "vocab": [
+        [
+          "formal",
+          "เป็นทางการ"
+        ],
+        [
+          "contraction",
+          "คำย่อแบบรวมคำ เช่น don't"
+        ],
+        [
+          "reporting verb",
+          "กริยารายงาน"
+        ],
+        [
+          "hedging",
+          "การใช้ภาษาอย่างระมัดระวัง"
+        ],
+        [
+          "tentative",
+          "ไม่ฟันธง"
+        ],
+        [
+          "overgeneralisation",
+          "การสรุปเหมารวมเกินหลักฐาน"
+        ],
+        [
+          "furthermore",
+          "นอกจากนี้"
+        ],
+        [
+          "nevertheless",
+          "อย่างไรก็ตาม"
+        ],
+        [
+          "approximately",
+          "ประมาณ"
+        ]
+      ],
+      "say": [
+        "The results suggest that this method may help.",
+        "In academic writing, I write 'do not', not 'don't'.",
+        "The author argues that grammar should be taught early."
+      ],
+      "task_th": "เขียนประโยคแสดงความเห็นแบบฟันธงของตัวเอง 3 ประโยค เช่น Online classes are boring. แล้วแก้ทุกประโยคให้เป็นทางการและมี hedging (may, tend to, some) อ่านออกเสียงทั้งแบบเดิมและแบบใหม่เพื่อฟังความต่าง",
+      "questions": [
+        {
+          "id": "ENL421-U3-01",
+          "skill": "ENL421-U3",
+          "difficulty": 1,
+          "stem": "Which sentence is the most formal?",
+          "options": [
+            "Lots of kids didn't do the survey.",
+            "Tons of students skipped the survey, lol.",
+            "A bunch of students didn't finish it.",
+            "Many students did not complete the survey."
+          ],
+          "answer": 3,
+          "explanation_th": "ไม่มีคำย่อหรือสแลง ใช้คำแม่น",
+          "why_wrong": [
+            "มี lots of, kids และคำย่อ didn't ซึ่งไม่เป็นทางการ",
+            "ใช้สแลงและภาษาแชต",
+            "a bunch of และคำย่อเป็นภาษาพูด",
+            null
+          ]
+        },
+        {
+          "id": "ENL421-U3-02",
+          "skill": "ENL421-U3",
+          "difficulty": 1,
+          "stem": "Which word is the best academic choice to replace 'get' in 'We will get data from 100 students'?",
+          "options": [
+            "grab",
+            "snag",
+            "catch",
+            "collect"
+          ],
+          "answer": 3,
+          "explanation_th": "collect data เป็นสำนวนวิชาการที่ใช้บ่อย",
+          "why_wrong": [
+            "เป็นภาษาพูด แปลว่าคว้า",
+            "เป็นสแลง",
+            "ใช้กับสิ่งของหรือลูกบอล ไม่ใช้กับข้อมูล",
+            null
+          ]
+        },
+        {
+          "id": "ENL421-U3-03",
+          "skill": "ENL421-U3",
+          "difficulty": 2,
+          "stem": "Which sentence uses hedging?",
+          "options": [
+            "Podcasts always improve listening.",
+            "The results suggest that podcasts may help some learners.",
+            "This proves that podcasts are the best method.",
+            "Every student loves podcasts."
+          ],
+          "answer": 1,
+          "explanation_th": "มี suggest, may และ some ทำให้ไม่อ้างเกินหลักฐาน",
+          "why_wrong": [
+            "always ฟันธงเกินไป",
+            null,
+            "proves และ the best อ้างเกินหลักฐาน",
+            "every เหมารวมทุกคน"
+          ]
+        },
+        {
+          "id": "ENL421-U3-04",
+          "skill": "ENL421-U3",
+          "difficulty": 2,
+          "stem": "Which word makes a claim stronger, not more careful?",
+          "options": [
+            "clearly",
+            "may",
+            "possibly",
+            "tend to"
+          ],
+          "answer": 0,
+          "explanation_th": "clearly เป็นคำเพิ่มน้ำหนัก (booster) ไม่ใช่ hedge",
+          "why_wrong": [
+            null,
+            "may ทำให้ข้ออ้างระมัดระวังขึ้น",
+            "possibly ลดความมั่นใจลง",
+            "tend to บอกแนวโน้ม ไม่ฟันธง"
+          ]
+        },
+        {
+          "id": "ENL421-U3-05",
+          "skill": "ENL421-U3",
+          "difficulty": 2,
+          "stem": "Which reporting verb shows that an idea is the author's position, not a proven fact?",
+          "options": [
+            "proves",
+            "demonstrates",
+            "argues",
+            "confirms"
+          ],
+          "answer": 2,
+          "explanation_th": "argues บอกว่าเป็นจุดยืนที่ผู้เขียนเสนอ คนอื่นอาจไม่เห็นด้วย",
+          "why_wrong": [
+            "proves บอกว่าพิสูจน์แล้ว",
+            "demonstrates บอกว่ามีหลักฐานแสดงชัด",
+            null,
+            "confirms บอกว่ายืนยันว่าจริง"
+          ]
+        },
+        {
+          "id": "ENL421-U3-06",
+          "skill": "ENL421-U3",
+          "difficulty": 1,
+          "stem": "In academic writing, 'don't' should usually be written as ____.",
+          "options": [
+            "dont",
+            "do not",
+            "do'nt",
+            "doesnt"
+          ],
+          "answer": 1,
+          "explanation_th": "เขียนเต็มเพื่อความเป็นทางการ",
+          "why_wrong": [
+            "ตัดเครื่องหมาย apostrophe ทิ้ง ผิดตัวสะกด",
+            null,
+            "วาง apostrophe ผิดตำแหน่ง",
+            "เปลี่ยนเป็นกริยาอีกรูปและสะกดผิด"
+          ]
+        },
+        {
+          "id": "ENL421-U3-07",
+          "skill": "ENL421-U3",
+          "difficulty": 3,
+          "stem": "Original: 'All Thai students are shy in English class.' Which revision is the best academic sentence?",
+          "options": [
+            "All Thai students are definitely shy in English class.",
+            "Thai students are shy, and everybody knows that.",
+            "Thai students are super shy in English class.",
+            "Some Thai students may feel shy in English class."
+          ],
+          "answer": 3,
+          "explanation_th": "จำกัดกลุ่มด้วย some และใช้ may เป็น hedging",
+          "why_wrong": [
+            "ยังเหมารวมและยิ่งฟันธงขึ้นด้วย definitely",
+            "อ้างว่าทุกคนรู้ โดยไม่มีหลักฐาน",
+            "super เป็นภาษาพูดและยังเหมารวม",
+            null
+          ]
+        },
+        {
+          "id": "ENL421-U3-08",
+          "skill": "ENL421-U3",
+          "difficulty": 2,
+          "stem": "Which linking word shows a contrast?",
+          "options": [
+            "furthermore",
+            "therefore",
+            "however",
+            "for example"
+          ],
+          "answer": 2,
+          "explanation_th": "however บอกความขัดแย้ง",
+          "why_wrong": [
+            "furthermore เพิ่มข้อมูล",
+            "therefore บอกผลลัพธ์",
+            null,
+            "for example ยกตัวอย่าง"
+          ]
+        },
+        {
+          "id": "ENL421-U3-09",
+          "skill": "ENL421-U3",
+          "difficulty": 2,
+          "stem": "Which sentence is an overgeneralisation?",
+          "options": [
+            "Everyone learns English best by watching films.",
+            "Some learners report that films help them learn new words.",
+            "In this study, 12 of the 30 students preferred films.",
+            "Films may help some learners with listening."
+          ],
+          "answer": 0,
+          "explanation_th": "everyone และ best เหมารวมทุกคนโดยไม่มีหลักฐาน",
+          "why_wrong": [
+            null,
+            "จำกัดกลุ่มด้วย some และรายงานตามที่ผู้เรียนบอก",
+            "รายงานตัวเลขจริงของกลุ่มที่ศึกษา",
+            "ใช้ may และ some อย่างระมัดระวัง"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ENL421-U4",
+      "title_th": "สรุปความ ถอดความ และสังเคราะห์หลายแหล่ง",
+      "title_en": "Summarising, Paraphrasing and Synthesising",
+      "covers": "การถอดความและสรุปความ",
+      "minutes": 15,
+      "cards": [
+        {
+          "title_th": "ทบทวนจาก ENL224",
+          "body_th": "ยกคำพูดตรง (quote) ถอดความ (paraphrase) และสรุปความ (summary) ต้องอ้างอิงทุกแบบ วิชานี้ต่อยอดให้ใช้กับแหล่งที่ยาวขึ้นและรวมหลายแหล่งเข้าด้วยกัน"
+        },
+        {
+          "title_th": "เทคนิคถอดความ",
+          "body_th": "ใช้คำพ้องความหมาย (synonym) เปลี่ยนชนิดคำ (decide → decision) เปลี่ยนโครงประโยค (active เป็น passive หรือสลับอนุประโยค) ใช้หลายวิธีพร้อมกันแต่ความหมายต้องเท่าเดิม ศัพท์เฉพาะทาง เช่น vocabulary, phoneme ใช้คำเดิมได้",
+          "example": "Many students use mobile apps to learn vocabulary. → Mobile apps are a common tool for vocabulary learning among students."
+        },
+        {
+          "title_th": "สรุปความ",
+          "body_th": "หาใจความหลัก (main idea) ตัดตัวอย่างและรายละเอียดรอง เขียนสั้นกว่าต้นฉบับมาก และไม่ใส่ความเห็นของตัวเองปน"
+        },
+        {
+          "title_th": "การสังเคราะห์ (synthesis)",
+          "body_th": "นำหลายแหล่งมาวางเทียบในประเด็นเดียวกัน บอกว่าเห็นตรงกันหรือต่างกัน ใช้คำอย่าง Both ... and ..., Similarly, In contrast, (ตัวอย่างสมมติ)",
+          "example": "Both Tan (2019) and Lee (2021) found that podcasts helped listening, while Kim (2022) reported no clear effect."
+        },
+        {
+          "title_th": "ทบทวนวรรณกรรม (literature review)",
+          "body_th": "จัดเป็นประเด็น (theme) ข้ามหลายแหล่ง ไม่ใช่สรุปทีละเล่มเรียงต่อกัน แล้วปิดด้วยช่องว่างงานวิจัยที่งานของคุณจะมาเติม"
+        }
+      ],
+      "vocab": [
+        [
+          "paraphrase",
+          "การถอดความ"
+        ],
+        [
+          "summary",
+          "การสรุปความ"
+        ],
+        [
+          "synthesis",
+          "การสังเคราะห์"
+        ],
+        [
+          "literature review",
+          "การทบทวนวรรณกรรม"
+        ],
+        [
+          "main idea",
+          "ใจความหลัก"
+        ],
+        [
+          "synonym",
+          "คำพ้องความหมาย"
+        ],
+        [
+          "theme",
+          "ประเด็น"
+        ],
+        [
+          "original text",
+          "ต้นฉบับ"
+        ]
+      ],
+      "say": [
+        "I paraphrase in my own words, and I still cite the source.",
+        "Both studies found similar results.",
+        "In contrast, the third study found no clear effect."
+      ],
+      "task_th": "เลือกบทคัดย่อ (abstract) ภาษาอังกฤษ 1 ชิ้นจาก Google Scholar อ่าน 2 รอบ ปิดหน้าจอ แล้วเขียนสรุป 2 ประโยคพร้อมอ้างอิงแบบ (นามสกุล, ปี) จากนั้นเปิดเทียบต้นฉบับว่าความหมายตรงและไม่มีวลีที่ลอกมาตรง ๆ",
+      "questions": [
+        {
+          "id": "ENL421-U4-01",
+          "skill": "ENL421-U4",
+          "difficulty": 2,
+          "stem": "Original: 'Students who sleep well usually get better exam scores.' Which is the best paraphrase?",
+          "options": [
+            "Students who sleep well usually get better exam scores, the study says.",
+            "Students who sleep good usually get better test scores.",
+            "Good sleep is often linked to higher test results among students.",
+            "All students who sleep well get the highest exam scores."
+          ],
+          "answer": 2,
+          "explanation_th": "เปลี่ยนทั้งคำและโครงประโยค ความหมายยังเท่าเดิม",
+          "why_wrong": [
+            "ลอกประโยคเดิมทั้งหมดแล้วเติมท้าย ไม่ใช่การถอดความ",
+            "เปลี่ยนแค่คำเดียวสองคำ (patchwriting) และใช้ good ผิดหน้าที่",
+            null,
+            "ความหมายเปลี่ยนเป็น all และ the highest"
+          ]
+        },
+        {
+          "id": "ENL421-U4-02",
+          "skill": "ENL421-U4",
+          "difficulty": 1,
+          "stem": "A summary should ____.",
+          "options": [
+            "be much shorter than the original and keep only the main ideas",
+            "be longer than the original",
+            "include the writer's own opinion of the text",
+            "copy the first and last sentences"
+          ],
+          "answer": 0,
+          "explanation_th": "สรุปคือเก็บใจความหลักให้สั้น",
+          "why_wrong": [
+            null,
+            "สรุปต้องสั้นกว่า",
+            "สรุปความไม่ใส่ความเห็นตัวเอง",
+            "เป็นการลอก ไม่ใช่การสรุปด้วยคำของตัวเอง"
+          ]
+        },
+        {
+          "id": "ENL421-U4-03",
+          "skill": "ENL421-U4",
+          "difficulty": 2,
+          "stem": "Which change is a word-form change?",
+          "options": [
+            "'big' becomes 'large'",
+            "moving the 'because' clause to the front",
+            "'The teacher marked the tests' becomes 'The tests were marked by the teacher'",
+            "'decide' becomes 'decision'"
+          ],
+          "answer": 3,
+          "explanation_th": "เปลี่ยนจากกริยาเป็นนาม",
+          "why_wrong": [
+            "เป็นการใช้คำพ้องความหมาย ชนิดคำเดิม",
+            "เป็นการเปลี่ยนโครงประโยค",
+            "เป็นการเปลี่ยน active เป็น passive",
+            null
+          ]
+        },
+        {
+          "id": "ENL421-U4-04",
+          "skill": "ENL421-U4",
+          "difficulty": 2,
+          "stem": "When you paraphrase, what can you keep the same as the original?",
+          "options": [
+            "the sentence structure",
+            "technical terms such as 'phoneme'",
+            "most of the original words in the same order",
+            "the author's exact phrases without quotation marks"
+          ],
+          "answer": 1,
+          "explanation_th": "ศัพท์เฉพาะทางไม่มีคำอื่นที่แม่นเท่า จึงใช้คำเดิมได้",
+          "why_wrong": [
+            "ต้องเปลี่ยนโครงประโยค ไม่อย่างนั้นใกล้ต้นฉบับเกินไป",
+            null,
+            "นั่นคือ patchwriting นับเป็นการลอก",
+            "ถ้าใช้วลีตรงต้องใส่เครื่องหมายคำพูด"
+          ]
+        },
+        {
+          "id": "ENL421-U4-05",
+          "skill": "ENL421-U4",
+          "difficulty": 2,
+          "stem": "What is synthesis in research writing?",
+          "options": [
+            "copying one source in full",
+            "summarising only one source",
+            "writing only your own opinion without sources",
+            "combining ideas from several sources to show how they agree or differ"
+          ],
+          "answer": 3,
+          "explanation_th": "สังเคราะห์คือเทียบและเชื่อมหลายแหล่งเข้าด้วยกัน",
+          "why_wrong": [
+            "เป็นการลอก ไม่ใช่การสังเคราะห์",
+            "ใช้แหล่งเดียวยังไม่ใช่การสังเคราะห์",
+            "สังเคราะห์ต้องใช้หลายแหล่ง",
+            null
+          ]
+        },
+        {
+          "id": "ENL421-U4-06",
+          "skill": "ENL421-U4",
+          "difficulty": 3,
+          "stem": "Which sentence shows synthesis?",
+          "options": [
+            "Lee (2020) studied games.",
+            "I think games are fun.",
+            "Both Lee (2020) and Park (2022) found that games increased motivation.",
+            "Games are popular in many countries."
+          ],
+          "answer": 2,
+          "explanation_th": "เชื่อมสองแหล่งในประเด็นเดียวกัน",
+          "why_wrong": [
+            "พูดถึงแหล่งเดียว ไม่ได้เทียบ",
+            "เป็นความเห็นส่วนตัว ไม่มีแหล่ง",
+            null,
+            "เป็นข้อความทั่วไป ไม่ได้รวมงานวิจัย"
+          ]
+        },
+        {
+          "id": "ENL421-U4-07",
+          "skill": "ENL421-U4",
+          "difficulty": 2,
+          "stem": "How is a good literature review usually organised?",
+          "options": [
+            "by themes, with several sources discussed together under each theme",
+            "as separate summaries, one source after another, with no links",
+            "by the length of each source",
+            "by how much the writer likes each source"
+          ],
+          "answer": 0,
+          "explanation_th": "จัดตามประเด็นและเชื่อมแหล่งเข้าด้วยกัน",
+          "why_wrong": [
+            null,
+            "เป็นแค่รายการสรุป ยังไม่สังเคราะห์",
+            "ความยาวไม่เกี่ยวกับการจัดความคิด",
+            "ความชอบส่วนตัวไม่ใช่เกณฑ์วิชาการ"
+          ]
+        },
+        {
+          "id": "ENL421-U4-08",
+          "skill": "ENL421-U4",
+          "difficulty": 2,
+          "stem": "Which linking phrase shows that two sources disagree?",
+          "options": [
+            "Similarly,",
+            "In contrast,",
+            "In addition,",
+            "Likewise,"
+          ],
+          "answer": 1,
+          "explanation_th": "บอกความต่าง",
+          "why_wrong": [
+            "บอกความเหมือน",
+            null,
+            "เพิ่มข้อมูล",
+            "บอกความเหมือน"
+          ]
+        },
+        {
+          "id": "ENL421-U4-09",
+          "skill": "ENL421-U4",
+          "difficulty": 1,
+          "stem": "Do you need to cite a source when you summarise it in your own words?",
+          "options": [
+            "No, because you used your own words.",
+            "Only if the summary is longer than one page.",
+            "Only if the source is a book.",
+            "Yes, always."
+          ],
+          "answer": 3,
+          "explanation_th": "ความคิดยังเป็นของเจ้าของแหล่ง จึงต้องอ้างทุกครั้ง",
+          "why_wrong": [
+            "คำเป็นของเรา แต่ความคิดเป็นของคนอื่น",
+            "ความยาวไม่ได้กำหนดว่าต้องอ้างหรือไม่",
+            "ต้องอ้างทุกประเภทแหล่ง",
+            null
+          ]
+        },
+        {
+          "id": "ENL421-U4-10",
+          "skill": "ENL421-U4",
+          "difficulty": 3,
+          "stem": "Original: 'Many first-year students feel stressed because university life is very different from school.' Which is the best short summary?",
+          "options": [
+            "Big differences from school make many new university students feel stressed.",
+            "Many first-year students feel stressed because university life is very different from school.",
+            "University is great and everyone should enjoy it.",
+            "Some students like school more than university."
+          ],
+          "answer": 0,
+          "explanation_th": "เก็บใจความหลักด้วยคำและโครงของตัวเอง",
+          "why_wrong": [
+            null,
+            "ลอกต้นฉบับทั้งประโยค",
+            "เป็นความเห็นตัวเองและไม่ตรงต้นฉบับ",
+            "เป็นความคิดอื่นที่ต้นฉบับไม่ได้พูด"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ENL421-U5",
+      "title_th": "การอ้างอิงแบบ APA 7 ขั้นต่อไปและการเลี่ยงการลอกเลียน",
+      "title_en": "APA 7 Citations in Depth and Avoiding Plagiarism",
+      "covers": "รูปแบบการอ้างอิง",
+      "minutes": 14,
+      "cards": [
+        {
+          "title_th": "ทบทวนสั้น ๆ",
+          "body_th": "จาก ENL224: (Smith, 2020) / Smith (2020) found... / ผู้แต่ง 3 คนขึ้นไปใช้ et al. / ยกคำพูดตรงใส่เลขหน้า หน่วยนี้เพิ่มกรณีที่เจอบ่อยในงานวิจัย"
+        },
+        {
+          "title_th": "หลายแหล่งในวงเล็บเดียว",
+          "body_th": "เรียงตามตัวอักษรของนามสกุล คั่นด้วยเครื่องหมาย ;",
+          "example": "(Brown, 2019; Lee, 2021; Tan, 2018)"
+        },
+        {
+          "title_th": "กรณีพิเศษ",
+          "body_th": "ไม่มีปี ใช้ n.d. เช่น (Lee, n.d.) / ผู้แต่งเดียวกันปีเดียวกัน เติม a, b เช่น (Lee, 2020a) (Lee, 2020b) / องค์กรเป็นผู้แต่ง ครั้งแรก (World Health Organization [WHO], 2020) ครั้งต่อไป (WHO, 2020)"
+        },
+        {
+          "title_th": "อ้างต่อ (as cited in)",
+          "body_th": "ถ้าอ่านความคิดของ Smith จากงานของ Lee และหาต้นฉบับของ Smith ไม่ได้ ให้เขียน (Smith, 2015, as cited in Lee, 2020) และใส่เฉพาะงานของ Lee ในรายการอ้างอิง ใช้เมื่อจำเป็นจริง ๆ เท่านั้น"
+        },
+        {
+          "title_th": "คำพูดยาว เลขหน้า และการลอกตัวเอง",
+          "body_th": "ยกคำตรง 40 คำขึ้นไปทำเป็น block quotation ย่อหน้าเข้าทั้งก้อน ไม่ใส่เครื่องหมายคำพูด / ถอดความไม่บังคับใส่เลขหน้า แต่ใส่ได้ โดยเฉพาะเมื่อแหล่งยาว / ส่งงานเก่าของตัวเองซ้ำโดยไม่ขออนุญาตนับเป็นการลอก (self-plagiarism)"
+        }
+      ],
+      "vocab": [
+        [
+          "in-text citation",
+          "การอ้างอิงในเนื้อหา"
+        ],
+        [
+          "as cited in",
+          "อ้างถึงใน"
+        ],
+        [
+          "et al.",
+          "และคณะ"
+        ],
+        [
+          "n.d. (no date)",
+          "ไม่ปรากฏปีที่พิมพ์"
+        ],
+        [
+          "block quotation",
+          "การยกข้อความยาวแบบย่อหน้าเข้า"
+        ],
+        [
+          "group author",
+          "ผู้แต่งที่เป็นองค์กร"
+        ],
+        [
+          "plagiarism",
+          "การลอกเลียนผลงาน"
+        ],
+        [
+          "self-plagiarism",
+          "การลอกผลงานของตัวเอง"
+        ]
+      ],
+      "say": [
+        "I list two sources in alphabetical order.",
+        "I could not find the original, so I wrote 'as cited in'.",
+        "A long quotation goes in a block."
+      ],
+      "task_th": "เขียนประโยคภาษาอังกฤษ 1 ประโยคที่อ้าง 2 แหล่งในวงเล็บเดียวแบบ APA 7 (สมมติชื่อผู้แต่งได้) และอีก 1 ประโยคที่ใช้ as cited in แล้วตรวจกับการ์ดในหน่วยนี้ทีละจุด ทั้งลำดับตัวอักษร เครื่องหมาย ; และตำแหน่งปี",
+      "questions": [
+        {
+          "id": "ENL421-U5-01",
+          "skill": "ENL421-U5",
+          "difficulty": 2,
+          "stem": "You cite two sources in one set of parentheses. Which is correct in APA 7?",
+          "options": [
+            "(Lee, 2021; Brown, 2019)",
+            "(Brown, 2019; Lee, 2021)",
+            "(Brown, 2019, Lee, 2021)",
+            "(Brown and Lee, 2019, 2021)"
+          ],
+          "answer": 1,
+          "explanation_th": "เรียงตามตัวอักษรและคั่นด้วย ;",
+          "why_wrong": [
+            "ไม่ได้เรียงตามตัวอักษร B ต้องมาก่อน L",
+            null,
+            "ใช้ , คั่นระหว่างแหล่ง ต้องใช้ ;",
+            "ทำให้ดูเหมือนสองคนเขียนงานร่วมกัน"
+          ]
+        },
+        {
+          "id": "ENL421-U5-02",
+          "skill": "ENL421-U5",
+          "difficulty": 2,
+          "stem": "A web page by Chan has no date. How do you cite it in APA 7?",
+          "options": [
+            "(Chan, no year)",
+            "(Chan, 0000)",
+            "(Chan, n.d.)",
+            "(Chan)"
+          ],
+          "answer": 2,
+          "explanation_th": "APA ใช้ n.d. เมื่อไม่มีปี",
+          "why_wrong": [
+            "ไม่ใช่รูปแบบของ APA",
+            "ห้ามแต่งปีขึ้นมาเอง",
+            null,
+            "ต้องมีตำแหน่งของปีเสมอ ถ้าไม่มีให้ใช้ n.d."
+          ]
+        },
+        {
+          "id": "ENL421-U5-03",
+          "skill": "ENL421-U5",
+          "difficulty": 3,
+          "stem": "You read Smith's (2015) idea in a book by Lee (2020). You could not find Smith's original work. Which citation is correct?",
+          "options": [
+            "(Smith, 2015)",
+            "(Lee, 2020, as cited in Smith, 2015)",
+            "(Smith & Lee, 2015)",
+            "(Smith, 2015, as cited in Lee, 2020)"
+          ],
+          "answer": 3,
+          "explanation_th": "บอกเจ้าของความคิดและแหล่งที่คุณอ่านจริง",
+          "why_wrong": [
+            "ทำให้ผู้อ่านคิดว่าคุณอ่านต้นฉบับของ Smith เอง",
+            "สลับกัน งานของ Smith เก่ากว่าและไม่ได้อ้าง Lee",
+            "ทำให้ดูเหมือนสองคนเขียนงานเดียวกัน",
+            null
+          ]
+        },
+        {
+          "id": "ENL421-U5-04",
+          "skill": "ENL421-U5",
+          "difficulty": 2,
+          "stem": "You write '(Smith, 2015, as cited in Lee, 2020)'. Which work goes in your reference list?",
+          "options": [
+            "only Smith (2015)",
+            "only Lee (2020)",
+            "both Smith (2015) and Lee (2020)",
+            "neither of them"
+          ],
+          "answer": 1,
+          "explanation_th": "ใส่เฉพาะแหล่งที่คุณอ่านจริง",
+          "why_wrong": [
+            "คุณไม่ได้อ่านงานของ Smith เอง",
+            null,
+            "APA ให้ใส่เฉพาะแหล่งที่อ่านจริง ไม่ต้องใส่ต้นฉบับ",
+            "ต้องมีแหล่งที่อ่านจริงในรายการอ้างอิง"
+          ]
+        },
+        {
+          "id": "ENL421-U5-05",
+          "skill": "ENL421-U5",
+          "difficulty": 2,
+          "stem": "Lee published two articles in 2020. How do you show the difference in APA 7 citations?",
+          "options": [
+            "(Lee, 2020a) and (Lee, 2020b)",
+            "(Lee, 2020-1) and (Lee, 2020-2)",
+            "(Lee 1, 2020) and (Lee 2, 2020)",
+            "(Lee, first 2020) and (Lee, second 2020)"
+          ],
+          "answer": 0,
+          "explanation_th": "เติม a และ b ต่อท้ายปี",
+          "why_wrong": [
+            null,
+            "APA ไม่ใช้ตัวเลขต่อท้ายแบบนี้",
+            "ห้ามเติมตัวเลขที่ชื่อผู้แต่ง",
+            "APA ไม่ใช้คำบอกลำดับ"
+          ]
+        },
+        {
+          "id": "ENL421-U5-06",
+          "skill": "ENL421-U5",
+          "difficulty": 2,
+          "stem": "In APA 7, how should a direct quotation of 40 words or more be shown?",
+          "options": [
+            "inside quotation marks in the normal paragraph",
+            "in bold letters",
+            "as an indented block quotation without quotation marks",
+            "in a footnote at the bottom of the page"
+          ],
+          "answer": 2,
+          "explanation_th": "คำพูดยาวทำเป็น block ย่อหน้าเข้า ไม่ใส่เครื่องหมายคำพูด",
+          "why_wrong": [
+            "ใช้กับคำพูดสั้นต่ำกว่า 40 คำ",
+            "APA ไม่ใช้ตัวหนาแสดงคำพูด",
+            null,
+            "APA ไม่ใช้เชิงอรรถแทนการยกคำพูด"
+          ]
+        },
+        {
+          "id": "ENL421-U5-07",
+          "skill": "ENL421-U5",
+          "difficulty": 1,
+          "stem": "Submitting your own old assignment again for a new course without permission is called ____.",
+          "options": [
+            "paraphrasing",
+            "self-plagiarism",
+            "synthesis",
+            "peer review"
+          ],
+          "answer": 1,
+          "explanation_th": "ลอกผลงานตัวเองโดยไม่บอก",
+          "why_wrong": [
+            "การถอดความเป็นการเขียนใหม่ด้วยคำของตัวเอง",
+            null,
+            "การสังเคราะห์เป็นการรวมหลายแหล่ง",
+            "เป็นการให้เพื่อนหรือผู้เชี่ยวชาญตรวจงาน"
+          ]
+        },
+        {
+          "id": "ENL421-U5-08",
+          "skill": "ENL421-U5",
+          "difficulty": 2,
+          "stem": "The first citation is (World Health Organization [WHO], 2020). How do you cite it later in the same paper?",
+          "options": [
+            "(Organization, 2020)",
+            "(World, 2020)",
+            "(Health, 2020)",
+            "(WHO, 2020)"
+          ],
+          "answer": 3,
+          "explanation_th": "หลังจากแนะนำตัวย่อแล้ว ใช้ตัวย่อได้",
+          "why_wrong": [
+            "ตัดชื่อองค์กรแบบนี้ไม่ได้",
+            "ใช้แค่คำแรกไม่ได้",
+            "ใช้แค่คำกลางไม่ได้",
+            null
+          ]
+        },
+        {
+          "id": "ENL421-U5-09",
+          "skill": "ENL421-U5",
+          "difficulty": 2,
+          "stem": "Which action is plagiarism?",
+          "options": [
+            "using a chart from a website in your report without saying where it came from",
+            "quoting a sentence with quotation marks and a citation",
+            "paraphrasing an idea and citing the author",
+            "reporting results from the survey you ran yourself"
+          ],
+          "answer": 0,
+          "explanation_th": "ใช้งานของคนอื่นโดยไม่บอกแหล่ง แม้เป็นภาพก็นับ",
+          "why_wrong": [
+            null,
+            "ทำถูกวิธีแล้ว",
+            "ทำถูกวิธีแล้ว",
+            "เป็นข้อมูลของคุณเอง ไม่ได้เอาของคนอื่น"
+          ]
+        },
+        {
+          "id": "ENL421-U5-10",
+          "skill": "ENL421-U5",
+          "difficulty": 3,
+          "stem": "In APA 7, page numbers for a paraphrase are ____.",
+          "options": [
+            "always required",
+            "never allowed",
+            "not required, but you may add them, especially for long sources",
+            "required only for websites"
+          ],
+          "answer": 2,
+          "explanation_th": "APA 7 ไม่บังคับ แต่แนะนำเมื่อช่วยให้ผู้อ่านหาตำแหน่งได้",
+          "why_wrong": [
+            "บังคับเฉพาะคำพูดตรง ไม่ใช่การถอดความ",
+            "ใส่ได้ ไม่มีข้อห้าม",
+            null,
+            "เว็บไซต์ส่วนใหญ่ไม่มีเลขหน้าด้วยซ้ำ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ENL421-U6",
+      "title_th": "นำเสนอข้อมูลด้วยตาราง กราฟ และแผนภูมิ",
+      "title_en": "Presenting Data in Tables, Graphs and Charts",
+      "covers": "การนำเสนอข้อมูลในรูปของตาราง กราฟ แผนภูมิ",
+      "minutes": 13,
+      "cards": [
+        {
+          "title_th": "เลือกให้เหมาะ",
+          "body_th": "ตาราง (table) ตัวเลขละเอียดหลายค่า / แผนภูมิแท่ง (bar chart) เปรียบเทียบกลุ่ม / กราฟเส้น (line graph) การเปลี่ยนแปลงตามเวลา / แผนภูมิวงกลม (pie chart) ส่วนต่าง ๆ ของทั้งหมดที่รวมกันได้ 100%"
+        },
+        {
+          "title_th": "รูปแบบ APA 7",
+          "body_th": "ตารางมีเลขตัวหนาอยู่ด้านบน เช่น Table 1 บรรทัดถัดไปเป็นชื่อตัวเอียง หมายเหตุ (Note) อยู่ใต้ตาราง กราฟ แผนภูมิ และรูปภาพเรียกรวมว่า Figure ใช้รูปแบบเดียวกัน เช่น Figure 1"
+        },
+        {
+          "title_th": "อ้างถึงในเนื้อหา",
+          "body_th": "ทุกตารางและภาพต้องถูกพูดถึงในเนื้อหา บอกจุดสำคัญ ไม่ต้องอ่านทุกตัวเลขซ้ำ",
+          "example": "As shown in Table 1, most participants studied at night."
+        },
+        {
+          "title_th": "ภาษาบรรยายแนวโน้ม",
+          "body_th": "increased sharply, rose slightly, decreased, fell, remained stable, fluctuated, reached a peak",
+          "example": "Daily app use rose sharply from 20% to 65%."
+        },
+        {
+          "title_th": "สัดส่วนและการให้เครดิต",
+          "body_th": "the majority มากกว่าครึ่ง / a minority ส่วนน้อย / nearly half / approximately ถ้านำตารางหรือกราฟของคนอื่นมาใช้ ต้องบอกแหล่งในหมายเหตุใต้ภาพและใส่ในรายการอ้างอิง"
+        }
+      ],
+      "vocab": [
+        [
+          "table",
+          "ตาราง"
+        ],
+        [
+          "figure",
+          "ภาพประกอบ (รวมกราฟและแผนภูมิ)"
+        ],
+        [
+          "bar chart",
+          "แผนภูมิแท่ง"
+        ],
+        [
+          "line graph",
+          "กราฟเส้น"
+        ],
+        [
+          "pie chart",
+          "แผนภูมิวงกลม"
+        ],
+        [
+          "trend",
+          "แนวโน้ม"
+        ],
+        [
+          "fluctuate",
+          "ขึ้นลงไม่คงที่"
+        ],
+        [
+          "peak",
+          "จุดสูงสุด"
+        ],
+        [
+          "majority",
+          "ส่วนใหญ่"
+        ]
+      ],
+      "say": [
+        "As shown in Figure 1, the number of users rose sharply.",
+        "The majority of participants preferred online classes.",
+        "A line graph shows change over time."
+      ],
+      "task_th": "ถามเพื่อนหรือคนในบ้าน 5 คนว่าเรียนภาษาอังกฤษจากอะไรมากที่สุด (YouTube, แอป, หนังสือ, อื่น ๆ) ทำตารางเล็ก ๆ ตามแบบ APA (Table 1 ตัวหนา บรรทัดต่อไปเป็นชื่อตัวเอียง) แล้วเขียนบรรยาย 2 ประโยคโดยใช้ the majority หรือ most",
+      "questions": [
+        {
+          "id": "ENL421-U6-01",
+          "skill": "ENL421-U6",
+          "difficulty": 1,
+          "stem": "Which is best for showing how one number changed over ten years?",
+          "options": [
+            "a pie chart",
+            "a line graph",
+            "a list of quotations",
+            "a title page"
+          ],
+          "answer": 1,
+          "explanation_th": "กราฟเส้นแสดงการเปลี่ยนแปลงตามเวลาได้ชัด",
+          "why_wrong": [
+            "แสดงส่วนของทั้งหมด ณ จุดเวลาเดียว",
+            null,
+            "คำพูดไม่ได้แสดงตัวเลขหรือแนวโน้ม",
+            "หน้าปกไม่ได้แสดงข้อมูล"
+          ]
+        },
+        {
+          "id": "ENL421-U6-02",
+          "skill": "ENL421-U6",
+          "difficulty": 1,
+          "stem": "Which shows how 100% of the participants are divided into groups?",
+          "options": [
+            "a line graph",
+            "a reference list",
+            "a pie chart",
+            "an abstract"
+          ],
+          "answer": 2,
+          "explanation_th": "วงกลมทั้งวงคือ 100% แต่ละชิ้นคือแต่ละกลุ่ม",
+          "why_wrong": [
+            "เหมาะกับการเปลี่ยนแปลงตามเวลา",
+            "เป็นรายการแหล่ง ไม่ใช่ข้อมูล",
+            null,
+            "เป็นบทสรุปงาน ไม่ใช่ภาพข้อมูล"
+          ]
+        },
+        {
+          "id": "ENL421-U6-03",
+          "skill": "ENL421-U6",
+          "difficulty": 2,
+          "stem": "In APA 7, where does the table number (for example, Table 1) go?",
+          "options": [
+            "below the table, in italics",
+            "only in the reference list",
+            "only in the abstract",
+            "above the table, in bold"
+          ],
+          "answer": 3,
+          "explanation_th": "เลขตารางอยู่ด้านบนเป็นตัวหนา",
+          "why_wrong": [
+            "ใต้ตารางคือที่ของหมายเหตุ",
+            "รายการอ้างอิงไม่ได้ใส่เลขตาราง",
+            "บทคัดย่อไม่ได้ใช้ติดป้ายตาราง",
+            null
+          ]
+        },
+        {
+          "id": "ENL421-U6-04",
+          "skill": "ENL421-U6",
+          "difficulty": 2,
+          "stem": "In an APA 7 paper, graphs, charts and photos are all labelled as ____.",
+          "options": [
+            "Figure",
+            "Table",
+            "Chart",
+            "Picture"
+          ],
+          "answer": 0,
+          "explanation_th": "ทุกอย่างที่ไม่ใช่ตารางเรียกว่า Figure",
+          "why_wrong": [
+            null,
+            "Table ใช้กับข้อมูลแบบแถวและคอลัมน์",
+            "APA ไม่ใช้ Chart เป็นป้าย",
+            "APA ไม่ใช้ Picture เป็นป้าย"
+          ]
+        },
+        {
+          "id": "ENL421-U6-05",
+          "skill": "ENL421-U6",
+          "difficulty": 2,
+          "stem": "Which sentence refers to a table correctly in the text?",
+          "options": [
+            "See the table somewhere in the paper.",
+            "Table is below and it shows things.",
+            "Look at my nice picture.",
+            "As shown in Table 2, most students studied at night."
+          ],
+          "answer": 3,
+          "explanation_th": "ระบุเลขตารางและบอกจุดสำคัญ",
+          "why_wrong": [
+            "ไม่บอกว่าตารางไหน",
+            "ไม่ระบุเลขและไม่บอกว่าแสดงอะไร",
+            "ไม่เป็นทางการและไม่ระบุเลข",
+            null
+          ]
+        },
+        {
+          "id": "ENL421-U6-06",
+          "skill": "ENL421-U6",
+          "difficulty": 2,
+          "stem": "App use was 30%, then 31%, then 30%, then 31% over four months. Which phrase fits best?",
+          "options": [
+            "rose sharply",
+            "fell dramatically",
+            "remained fairly stable",
+            "doubled"
+          ],
+          "answer": 2,
+          "explanation_th": "ตัวเลขแทบไม่เปลี่ยน",
+          "why_wrong": [
+            "เพิ่มแค่ 1% ไม่ใช่เพิ่มมาก",
+            "ไม่ได้ลดลงมาก",
+            null,
+            "ไม่ได้เพิ่มเป็นสองเท่า"
+          ]
+        },
+        {
+          "id": "ENL421-U6-07",
+          "skill": "ENL421-U6",
+          "difficulty": 2,
+          "stem": "Scores went up and down many times during the year. Which verb fits best?",
+          "options": [
+            "remained stable",
+            "fluctuated",
+            "increased steadily",
+            "doubled"
+          ],
+          "answer": 1,
+          "explanation_th": "fluctuate คือขึ้นลงหลายครั้ง",
+          "why_wrong": [
+            "stable คือแทบไม่เปลี่ยน",
+            null,
+            "steadily คือขึ้นต่อเนื่องทางเดียว",
+            "doubled คือเพิ่มเป็นสองเท่า"
+          ]
+        },
+        {
+          "id": "ENL421-U6-08",
+          "skill": "ENL421-U6",
+          "difficulty": 3,
+          "stem": "Sixty-two percent of the participants chose online classes. Which phrase is accurate?",
+          "options": [
+            "the majority of the participants",
+            "a small minority of the participants",
+            "nearly all of the participants",
+            "exactly half of the participants"
+          ],
+          "answer": 0,
+          "explanation_th": "62% มากกว่าครึ่ง จึงเป็นส่วนใหญ่",
+          "why_wrong": [
+            null,
+            "ส่วนน้อยต้องต่ำกว่าครึ่งมาก",
+            "nearly all ควรใกล้ 100% มากกว่านี้",
+            "ครึ่งหนึ่งคือ 50%"
+          ]
+        },
+        {
+          "id": "ENL421-U6-09",
+          "skill": "ENL421-U6",
+          "difficulty": 2,
+          "stem": "You put a chart from another author's article into your report. What must you do?",
+          "options": [
+            "nothing, because charts are not words",
+            "credit the source in a note below the figure and in the reference list",
+            "change the colours so it becomes yours",
+            "remove the numbers"
+          ],
+          "answer": 1,
+          "explanation_th": "ต้องบอกแหล่งทั้งใต้ภาพและในรายการอ้างอิง",
+          "why_wrong": [
+            "ภาพก็เป็นผลงานของคนอื่น",
+            null,
+            "เปลี่ยนสีไม่ทำให้เป็นงานของเรา",
+            "ลบตัวเลขไม่ได้แก้ปัญหาการไม่อ้างอิง"
+          ]
+        },
+        {
+          "id": "ENL421-U6-10",
+          "skill": "ENL421-U6",
+          "difficulty": 2,
+          "stem": "What should the text around a table do?",
+          "options": [
+            "repeat every number in the table",
+            "never mention the table",
+            "explain the main point of the table without repeating every number",
+            "copy the whole table again in words"
+          ],
+          "answer": 2,
+          "explanation_th": "ชี้สิ่งสำคัญให้ผู้อ่าน",
+          "why_wrong": [
+            "ซ้ำซ้อนกับตาราง",
+            "ทุกตารางต้องถูกพูดถึงในเนื้อหา",
+            null,
+            "ซ้ำซ้อนและยาวเกินจำเป็น"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ENL421-U7",
+      "title_th": "แสดงความคิดเห็นและโต้แย้งเชิงวิชาการ",
+      "title_en": "Academic Opinion and Argument",
+      "covers": "การแสดงความคิดเห็นและโต้แย้งเชิงวิชาการ",
+      "minutes": 14,
+      "cards": [
+        {
+          "title_th": "ข้ออ้าง หลักฐาน เหตุผล",
+          "body_th": "claim คือสิ่งที่เสนอ evidence คือข้อมูลหรืองานวิจัยที่สนับสนุน reasoning อธิบายว่าหลักฐานสนับสนุนข้ออ้างอย่างไร ENL224 ฝึกในเรียงความแล้ว งานวิจัยใช้ข้อมูลของตัวเองและงานก่อนหน้าเป็นหลักฐาน"
+        },
+        {
+          "title_th": "แสดงความเห็นแบบวิชาการ",
+          "body_th": "แทนการเขียน I feel ใช้ This study argues that..., The findings indicate that..., It can be argued that... และใช้ hedging เมื่อหลักฐานยังไม่แน่น"
+        },
+        {
+          "title_th": "ฟังฝั่งตรงข้าม",
+          "body_th": "ยกข้อโต้แย้งฝ่ายตรงข้าม (counterargument) อย่างยุติธรรม ยอมรับส่วนที่จริง (concession) แล้วโต้กลับด้วยหลักฐาน (rebuttal) งานจะน่าเชื่อขึ้น",
+          "example": "Although some teachers argue that games waste time, the results of this study suggest that..."
+        },
+        {
+          "title_th": "ตรรกะวิบัติที่ควรเลี่ยง",
+          "body_th": "สรุปจากตัวอย่างน้อยเกินไป (hasty generalisation) / โจมตีตัวคนแทนเหตุผล (ad hominem) / อ้างว่าใคร ๆ ก็ทำ จึงถูก (bandwagon)"
+        },
+        {
+          "title_th": "ส่วน Discussion",
+          "body_th": "เป็นที่ที่แสดงความเห็นได้มากที่สุดในรายงานวิจัย ตีความผล เทียบกับงานก่อน บอกข้อจำกัด (limitations) และเสนอแนวทางวิจัยต่อไป"
+        }
+      ],
+      "vocab": [
+        [
+          "claim",
+          "ข้ออ้าง"
+        ],
+        [
+          "evidence",
+          "หลักฐาน"
+        ],
+        [
+          "reasoning",
+          "การให้เหตุผล"
+        ],
+        [
+          "counterargument",
+          "ข้อโต้แย้งฝ่ายตรงข้าม"
+        ],
+        [
+          "concession",
+          "การยอมรับบางส่วน"
+        ],
+        [
+          "rebuttal",
+          "การโต้กลับ"
+        ],
+        [
+          "logical fallacy",
+          "ตรรกะวิบัติ"
+        ],
+        [
+          "hasty generalisation",
+          "การสรุปเร็วเกินไป"
+        ],
+        [
+          "limitation",
+          "ข้อจำกัด"
+        ]
+      ],
+      "say": [
+        "The findings indicate that this method may work.",
+        "Some researchers disagree, but the evidence suggests otherwise.",
+        "One limitation of this study is the small sample."
+      ],
+      "task_th": "เลือกประเด็นที่มีคนเห็นต่าง เช่น Should university classes be online? เขียน claim 1 ประโยค evidence 1 ประโยค (สมมติจากสิ่งที่เคยเห็นได้ แต่บอกว่าเป็นตัวอย่าง) counterargument 1 ประโยค และ rebuttal 1 ประโยค ใช้ hedging อย่างน้อย 1 คำ",
+      "questions": [
+        {
+          "id": "ENL421-U7-01",
+          "skill": "ENL421-U7",
+          "difficulty": 1,
+          "stem": "In an academic argument, evidence is ____.",
+          "options": [
+            "the writer's feelings",
+            "the title of the paper",
+            "a question for the reader",
+            "data or research that supports a claim"
+          ],
+          "answer": 3,
+          "explanation_th": "หลักฐานคือข้อมูลที่ตรวจสอบได้",
+          "why_wrong": [
+            "ความรู้สึกไม่ใช่หลักฐาน",
+            "ชื่อเรื่องไม่ได้สนับสนุนข้ออ้าง",
+            "คำถามไม่ใช่หลักฐาน",
+            null
+          ]
+        },
+        {
+          "id": "ENL421-U7-02",
+          "skill": "ENL421-U7",
+          "difficulty": 2,
+          "stem": "Which sentence expresses an opinion in an academic way?",
+          "options": [
+            "The findings indicate that short daily practice may be more effective than long weekly sessions.",
+            "I feel like short practice is way better.",
+            "Everybody knows short practice is best.",
+            "Short practice is the best, no doubt."
+          ],
+          "answer": 0,
+          "explanation_th": "อิงผลการวิจัยและใช้ may อย่างระมัดระวัง",
+          "why_wrong": [
+            null,
+            "เป็นภาษาพูดและไม่มีหลักฐาน",
+            "อ้างว่าทุกคนรู้ เป็น bandwagon",
+            "ฟันธงโดยไม่มีหลักฐาน"
+          ]
+        },
+        {
+          "id": "ENL421-U7-03",
+          "skill": "ENL421-U7",
+          "difficulty": 2,
+          "stem": "A writer argues that games help learning. Which sentence presents the opposing view?",
+          "options": [
+            "In this study, games increased motivation.",
+            "Games are also popular outside the classroom.",
+            "Some researchers argue that games can distract students from the lesson.",
+            "Therefore, teachers should use more games."
+          ],
+          "answer": 2,
+          "explanation_th": "เสนอมุมที่ขัดกับข้ออ้างของผู้เขียน",
+          "why_wrong": [
+            "เป็นหลักฐานที่สนับสนุนข้ออ้าง",
+            "ไม่ได้โต้แย้งเรื่องการเรียนรู้",
+            null,
+            "เป็นข้อสรุปฝั่งเดียวกับผู้เขียน"
+          ]
+        },
+        {
+          "id": "ENL421-U7-04",
+          "skill": "ENL421-U7",
+          "difficulty": 3,
+          "stem": "'My two friends failed after using this app, so the app does not work for anyone.' What is the problem?",
+          "options": [
+            "ad hominem",
+            "hasty generalisation",
+            "bandwagon",
+            "there is no problem"
+          ],
+          "answer": 1,
+          "explanation_th": "สรุปถึงทุกคนจากตัวอย่างแค่ 2 คน",
+          "why_wrong": [
+            "ไม่ได้โจมตีตัวบุคคล",
+            null,
+            "ไม่ได้อ้างว่าคนส่วนใหญ่ทำ",
+            "ตัวอย่างน้อยเกินกว่าจะสรุปแบบนี้"
+          ]
+        },
+        {
+          "id": "ENL421-U7-05",
+          "skill": "ENL421-U7",
+          "difficulty": 2,
+          "stem": "'We should not believe Dr. Chai's study because he dresses badly.' This is ____.",
+          "options": [
+            "ad hominem",
+            "hasty generalisation",
+            "hedging",
+            "synthesis"
+          ],
+          "answer": 0,
+          "explanation_th": "โจมตีตัวคนแทนการวิจารณ์งานวิจัย",
+          "why_wrong": [
+            null,
+            "ไม่ได้สรุปจากตัวอย่างน้อย",
+            "hedging คือภาษาระมัดระวัง ไม่ใช่การโจมตี",
+            "synthesis คือการรวมหลายแหล่ง"
+          ]
+        },
+        {
+          "id": "ENL421-U7-06",
+          "skill": "ENL421-U7",
+          "difficulty": 2,
+          "stem": "Where do writers usually mention the limitations of their study?",
+          "options": [
+            "in the reference list",
+            "in the title",
+            "in the table of contents",
+            "in the Discussion section"
+          ],
+          "answer": 3,
+          "explanation_th": "Discussion บอกข้อจำกัดและแนวทางวิจัยต่อไป",
+          "why_wrong": [
+            "รายการอ้างอิงมีแค่แหล่ง",
+            "ชื่อเรื่องบอกหัวข้อ ไม่บอกข้อจำกัด",
+            "สารบัญบอกแค่หัวข้อและหน้า",
+            null
+          ]
+        },
+        {
+          "id": "ENL421-U7-07",
+          "skill": "ENL421-U7",
+          "difficulty": 2,
+          "stem": "A rebuttal is ____.",
+          "options": [
+            "the first sentence of the abstract",
+            "a list of sources",
+            "a repeat of your own claim with no reasons",
+            "a reply that shows why the opposing view is weaker"
+          ],
+          "answer": 3,
+          "explanation_th": "โต้กลับข้อโต้แย้งด้วยเหตุผลและหลักฐาน",
+          "why_wrong": [
+            "ไม่เกี่ยวกับการโต้แย้ง",
+            "นั่นคือรายการอ้างอิง",
+            "การพูดซ้ำไม่ได้ตอบฝ่ายตรงข้าม",
+            null
+          ]
+        },
+        {
+          "id": "ENL421-U7-08",
+          "skill": "ENL421-U7",
+          "difficulty": 2,
+          "stem": "Which sentence is a limitation statement?",
+          "options": [
+            "This study included only 30 students from one university, so the results may not apply to all learners.",
+            "The results were very interesting.",
+            "Future researchers are very smart.",
+            "This study used APA style."
+          ],
+          "answer": 0,
+          "explanation_th": "บอกขอบเขตที่จำกัดของงานอย่างตรงไปตรงมา",
+          "why_wrong": [
+            null,
+            "เป็นความเห็น ไม่ได้บอกข้อจำกัด",
+            "ไม่เกี่ยวกับงานวิจัยนี้",
+            "เป็นรูปแบบการเขียน ไม่ใช่ข้อจำกัด"
+          ]
+        },
+        {
+          "id": "ENL421-U7-09",
+          "skill": "ENL421-U7",
+          "difficulty": 1,
+          "stem": "'Everyone is using this app, so it must be good.' This is ____.",
+          "options": [
+            "ad hominem",
+            "bandwagon",
+            "rebuttal",
+            "concession"
+          ],
+          "answer": 1,
+          "explanation_th": "อ้างว่าคนจำนวนมากใช้ จึงต้องดี",
+          "why_wrong": [
+            "ไม่ได้โจมตีตัวบุคคล",
+            null,
+            "rebuttal คือการโต้กลับด้วยหลักฐาน",
+            "concession คือการยอมรับบางส่วนของฝ่ายตรงข้าม"
+          ]
+        }
+      ]
+    }
+  ]
+}
