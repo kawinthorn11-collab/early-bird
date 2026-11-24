@@ -82,7 +82,7 @@
           "options": [
             "at",
             "on",
-            "to",
+            "through",
             "about"
           ],
           "answer": 3,
@@ -90,7 +90,7 @@
           "why_wrong": [
             "hear at ไม่ใช่สำนวนที่ใช้กับเรื่องที่ได้ยิน",
             "hear on ใช้กับช่องทาง เช่น on the radio ไม่ใช่กับเรื่อง",
-            "hear to ผิดสำนวน",
+            "hear through ใช้บอกช่องทาง เช่น through a friend ไม่ใช้ตามด้วยเรื่องที่ได้ยิน",
             null
           ]
         },
@@ -123,7 +123,7 @@
             "online",
             "ageing",
             "urban",
-            "open"
+            "open-minded"
           ],
           "answer": 1,
           "explanation_th": "ageing society = สังคมผู้สูงอายุ",
@@ -131,7 +131,7 @@
             "online society ไม่ได้เกี่ยวกับอายุ",
             null,
             "urban แปลว่าเมือง ไม่ได้บอกอายุประชากร",
-            "open society หมายถึงสังคมเปิด ไม่เกี่ยวกับอายุ"
+            "open-minded แปลว่าใจกว้าง ไม่เกี่ยวกับอายุของประชากร"
           ]
         },
         {
@@ -141,7 +141,7 @@
           "stem": "Which question asks for someone's opinion about an issue?",
           "options": [
             "What do you think about the new rule?",
-            "When did the new rule start?",
+            "When did the new rule at school start?",
             "Where is the city hall?",
             "Who wrote the news report?"
           ],
@@ -161,7 +161,7 @@
           "stem": "In 5W1H questions, 'Why' asks about the ___.",
           "options": [
             "reason",
-            "place",
+            "location",
             "time",
             "person"
           ],
@@ -335,7 +335,7 @@
             "The main point is...",
             "For example...",
             "By the way...",
-            "Um, let me see..."
+            "Um, let me see now..."
           ],
           "answer": 0,
           "explanation_th": "The main point is... บอกตรง ๆ ว่ากำลังจะพูดประเด็นหลัก",
@@ -393,7 +393,7 @@
           "stem": "In a short talk, a speaker says 'online learning' five times. This phrase is probably ___.",
           "options": [
             "the topic of the talk",
-            "the speaker's name",
+            "the speaker's own name",
             "a mistake",
             "a joke"
           ],
@@ -452,7 +452,7 @@
           "difficulty": 1,
           "stem": "What is a good way to take notes for the main idea while listening?",
           "options": [
-            "Write every word the speaker says.",
+            "Write down every word the speaker says.",
             "Stop listening and check your phone.",
             "Write key words, not full sentences.",
             "Write only the numbers."
@@ -775,7 +775,7 @@
           "options": [
             "That's nonsense.",
             "Be quiet.",
-            "You never understand anything.",
+            "You never understand anything I say.",
             "I see what you mean, but I think..."
           ],
           "answer": 3,
@@ -815,7 +815,7 @@
           "options": [
             "What do you think, Mina?",
             "Mina, you're wrong.",
-            "Let me finish first.",
+            "Wait, let me finish my point first.",
             "I agree with myself."
           ],
           "answer": 0,
@@ -873,7 +873,7 @@
           "difficulty": 2,
           "stem": "A: 'Online classes save time.' B: 'That's true, but some students find it hard to focus at home.' B ___.",
           "options": [
-            "fully disagrees and gives no reason",
+            "fully disagrees and gives no reason at all",
             "partly agrees and adds another side",
             "changes the topic",
             "asks a question"
@@ -1025,7 +1025,7 @@
           "stem": "'Moving on to my second point...' This phrase tells the audience that ___.",
           "options": [
             "the talk is over",
-            "the speaker forgot something",
+            "the speaker forgot something important",
             "it's time for questions",
             "the speaker is starting a new point"
           ],
@@ -1126,7 +1126,7 @@
           "options": [
             "signposting",
             "eye contact",
-            "an outline",
+            "a speech outline",
             "a summary"
           ],
           "answer": 1,
@@ -1134,7 +1134,7 @@
           "why_wrong": [
             "signposting คือคำบอกทาง",
             null,
-            "outline คือโครงร่าง",
+            "outline คือโครงร่างของการพูด ไม่ใช่การมองผู้ฟัง",
             "summary คือบทสรุป"
           ]
         },
@@ -1231,7 +1231,7 @@
           "stem": "Which slide is easiest for the audience to read?",
           "options": [
             "A full page of small text",
-            "Ten pictures and five colours of text",
+            "Ten pictures and five colours of text on one slide",
             "A title and 3 short bullet points in large font",
             "White text on a light yellow background"
           ],
@@ -1331,7 +1331,7 @@
           "stem": "A good slide should ___.",
           "options": [
             "contain every word you say",
-            "be full of moving animations",
+            "be full of moving animations and sounds",
             "have no title at all",
             "support what you say with key words"
           ],
@@ -1339,7 +1339,7 @@
           "explanation_th": "สไลด์ช่วยเสริมคำพูด ไม่ใช่แทนคำพูด",
           "why_wrong": [
             "ผู้ฟังจะอ่านแทนการฟัง",
-            "แอนิเมชันมากไปดึงความสนใจออกจากเนื้อหา",
+            "แอนิเมชันและเสียงที่มากไปดึงความสนใจออกจากเนื้อหา",
             "หัวข้อช่วยบอกว่าสไลด์นี้เรื่องอะไร",
             null
           ]
@@ -1497,7 +1497,7 @@
           "stem": "'That's a good question. Let me think for a second.' Why do speakers say this?",
           "options": [
             "to end the talk",
-            "to say the question is wrong",
+            "to say the question is wrong or unclear",
             "to change the topic",
             "to get a little time to think"
           ],
@@ -1505,7 +1505,7 @@
           "explanation_th": "ซื้อเวลาเรียบเรียงคำตอบ",
           "why_wrong": [
             "ยังกำลังจะตอบอยู่",
-            "บอกว่าเป็นคำถามที่ดี ไม่ใช่ผิด",
+            "บอกว่าเป็นคำถามที่ดี ไม่ได้บอกว่าผิดหรือไม่ชัด",
             "ยังอยู่กับคำถามเดิม",
             null
           ]
@@ -1517,7 +1517,7 @@
           "stem": "After answering, you want to make sure the person is satisfied. You ask: ___",
           "options": [
             "Does that answer your question?",
-            "Do you understand English?",
+            "Do you understand English, or not?",
             "Why did you ask that?",
             "Who are you?"
           ],
@@ -1537,7 +1537,7 @@
           "stem": "Which sentence invites questions at the end?",
           "options": [
             "Please don't ask me anything.",
-            "Let's start with my first point.",
+            "Now let's start with my first main point.",
             "I'm happy to take any questions now.",
             "My name is Ben."
           ],
@@ -1556,7 +1556,7 @@
           "difficulty": 2,
           "stem": "Audience: 'How many people did you survey?' Speaker: 'Do you mean in total, or each week?' The speaker is ___.",
           "options": [
-            "refusing to answer",
+            "refusing to answer the question",
             "clarifying the question",
             "ending the talk",
             "telling a joke"
@@ -1579,7 +1579,7 @@
             "rephrase",
             "repeat",
             "reply",
-            "remove"
+            "recommend"
           ],
           "answer": 0,
           "explanation_th": "rephrase = พูดใหม่ด้วยคำอื่น",
@@ -1587,7 +1587,7 @@
             null,
             "repeat คือพูดซ้ำด้วยคำเดิม",
             "reply คือตอบกลับ",
-            "remove คือเอาออก"
+            "recommend คือแนะนำ"
           ]
         },
         {

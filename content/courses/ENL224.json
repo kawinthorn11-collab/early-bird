@@ -100,7 +100,7 @@
      "difficulty": 1,
      "stem": "In freewriting, you ____.",
      "options": [
-      "check every comma before you continue",
+      "check every comma and spelling mistake before you continue writing",
       "copy sentences from a website",
       "write nonstop for a few minutes without worrying about grammar",
       "write only the final title"
@@ -141,7 +141,7 @@
      "stem": "Which topic is narrow enough for a five-paragraph essay?",
      "options": [
       "Friendship",
-      "The history of friendship around the world",
+      "The history of friendship in different cultures around the world",
       "Everything about university life",
       "Three ways first-year students can make friends on campus"
      ],
@@ -163,7 +163,7 @@
       "to plan the order of ideas before writing the draft",
       "to check spelling at the end",
       "to make the essay longer",
-      "to list the sources in APA style"
+      "to list the sources you used in APA style at the end"
      ],
      "answer": 0,
      "explanation_th": "โครงร่างช่วยวางลำดับความคิดและเช็กว่าทุกส่วนสนับสนุน thesis",
@@ -200,7 +200,7 @@
      "difficulty": 3,
      "stem": "Outline: I. Introduction (thesis: Living in a dorm helps first-year students in three ways.) II. It saves travel time. III. ____ IV. It helps students make friends. V. Conclusion. Which point fits best in III?",
      "options": [
-      "Dorm rooms near campus can be expensive.",
+      "Dorm rooms near campus can be expensive for many families.",
       "It teaches students to manage their own money.",
       "My cousin lives in a condo.",
       "Dorms are good, so students should live there."
@@ -243,7 +243,7 @@
       "listing many ideas quickly without judging them",
       "correcting grammar mistakes",
       "writing the final copy neatly",
-      "reading the essay aloud to the class"
+      "reading the finished essay aloud to the whole class"
      ],
      "answer": 0,
      "explanation_th": "brainstorming คือจดความคิดให้มากที่สุดก่อน แล้วค่อยเลือกทีหลัง",
@@ -351,8 +351,8 @@
      "options": [
       "Part-time jobs.",
       "I have a part-time job at a cafe.",
-      "In this essay, I will write about part-time jobs.",
-      "Part-time jobs help university students learn time management, teamwork and money skills."
+      "In this essay, I will write about part-time jobs that university students do.",
+      "Part-time jobs help students learn time management, teamwork and money skills."
      ],
      "answer": 3,
      "explanation_th": "มีหัวข้อ จุดยืน และประเด็นย่อย 3 ข้อ",
@@ -392,7 +392,7 @@
       "It is too specific.",
       "It announces the topic but gives no position or main points.",
       "It uses the past tense.",
-      "It has too many main points."
+      "It has too many main points to explain in only five paragraphs."
      ],
      "answer": 1,
      "explanation_th": "ประโยคประกาศบอกแค่ว่าจะพูดอะไร ไม่บอกว่าคิดอย่างไร",
@@ -410,7 +410,7 @@
      "stem": "Thesis: 'Learning a second language helps students in their studies, their careers and their travels.' Which topic sentence fits body paragraph 2?",
      "options": [
       "A second language makes travel easier and more fun.",
-      "Learning a second language is hard for adults.",
+      "Learning a second language is hard for many adult learners.",
       "In conclusion, languages are useful.",
       "A second language can also open more job opportunities."
      ],
@@ -491,7 +491,7 @@
      "options": [
       "a first thesis that you can change while you write",
       "the final title of the essay",
-      "a sentence copied from your source",
+      "a sentence copied from your source to show you did research",
       "the last sentence of the conclusion"
      ],
      "answer": 0,
@@ -666,7 +666,7 @@
      "stem": "A good conclusion ____.",
      "options": [
       "restates the thesis in new words and gives a final thought",
-      "adds a new main point that was not in the body",
+      "adds an interesting new main point that was not discussed in the body",
       "copies the introduction word for word",
       "starts with 'I am not an expert, so this may be wrong.'"
      ],
@@ -726,7 +726,7 @@
      "stem": "Why is an introduction often called a 'funnel'?",
      "options": [
       "It moves from a general idea to a specific thesis.",
-      "It moves from the thesis to a general idea.",
+      "It moves from the thesis statement to a general idea.",
       "It lists the references from A to Z.",
       "It repeats the same sentence three times."
      ],
@@ -918,7 +918,7 @@
      "options": [
       "One major benefit of exercise is better sleep.",
       "Some gyms are expensive.",
-      "Exercise can be dangerous if you do it wrong.",
+      "Exercise can be dangerous if you do it the wrong way.",
       "My friend plays football every Sunday."
      ],
      "answer": 0,
@@ -958,7 +958,7 @@
      "options": [
       "Does every body paragraph support my thesis?",
       "Did I spell 'necessary' correctly?",
-      "Does each sentence end with a period?",
+      "Does each sentence end with a period or question mark?",
       "Did I use capital letters for names?"
      ],
      "answer": 0,
@@ -999,7 +999,7 @@
       "the teacher gives the final grade",
       "a classmate reads your draft and gives feedback",
       "you copy a classmate's essay",
-      "you read only your own essay silently"
+      "you read only your own essay silently at home before class"
      ],
      "answer": 1,
      "explanation_th": "peer แปลว่าเพื่อนร่วมชั้น review แปลว่าอ่านทบทวน",
@@ -1132,7 +1132,7 @@
      "difficulty": 2,
      "stem": "In a descriptive essay, the 'dominant impression' is ____.",
      "options": [
-      "the longest sentence in the essay",
+      "the longest and most detailed sentence in the essay",
       "the main feeling the description gives the reader",
       "the list of sources",
       "the title of the essay"
@@ -1195,7 +1195,7 @@
       "There are four steps to set up a new laptop.",
       "Getting lost on my first day in Bangkok taught me to ask for help.",
       "Students should get free bus passes.",
-      "Dogs and cats need different kinds of care."
+      "Dogs and cats need different kinds of food, exercise and daily care at home."
      ],
      "answer": 1,
      "explanation_th": "บอกเหตุการณ์และบทเรียนที่ได้ เหมาะกับเรื่องเล่า",
@@ -1368,7 +1368,7 @@
       "the first sentence of the essay",
       "a list of steps",
       "the writer's answer to the other side's argument",
-      "a story about the writer's childhood"
+      "a short story about the writer's childhood in the introduction"
      ],
      "answer": 2,
      "explanation_th": "rebuttal คือการโต้กลับข้อโต้แย้งของอีกฝ่าย",
@@ -1387,7 +1387,7 @@
      "options": [
       "Screens come in many sizes.",
       "Too much screen time at night can lead to poor sleep, low energy and lower grades.",
-      "Phones and tablets are similar in three ways.",
+      "Phones and tablets are similar in three ways: their size, their price and the apps they run.",
       "First, turn off your phone at 10 p.m."
      ],
      "answer": 1,
@@ -1426,7 +1426,7 @@
      "stem": "In the block method of a comparison essay, the writer ____.",
      "options": [
       "discusses all the points about A, then all the points about B",
-      "discusses A and B together, point by point",
+      "discusses A and B together in every paragraph, one point at a time",
       "discusses only causes",
       "tells a story in time order"
      ],
@@ -1485,7 +1485,7 @@
      "difficulty": 3,
      "stem": "Which sentence uses careful academic language (hedging)?",
      "options": [
-      "Social media always destroys every teenager's life.",
+      "Social media always destroys every teenager's life and health.",
       "Social media may increase stress for some teenagers.",
       "Everyone knows social media is terrible.",
       "Social media never helps anyone."
@@ -1506,7 +1506,7 @@
      "stem": "An essay argues that university classes should start at 10 a.m. Which sentence is a counterargument?",
      "options": [
       "Students would be more awake at 10 a.m.",
-      "In conclusion, 10 a.m. is a better start time.",
+      "In conclusion, 10 a.m. is a better start time for most university students.",
       "Some people argue that later classes would finish too late in the evening.",
       "First, many students need more sleep."
      ],
@@ -1601,7 +1601,7 @@
      "stem": "Plagiarism is ____.",
      "options": [
       "using someone else's words or ideas without giving credit",
-      "writing your own ideas in your own words",
+      "writing your own ideas in your own words and your own structure",
       "citing a source correctly",
       "asking a teacher for help"
      ],
@@ -1762,7 +1762,7 @@
      "options": [
       "changing only a few words of the original and keeping its structure",
       "writing your own ideas from the beginning",
-      "putting a quotation in quotation marks",
+      "putting the original sentence in quotation marks and citing the author",
       "making a list of references"
      ],
      "answer": 0,
@@ -1782,7 +1782,7 @@
      "options": [
       "be written in bold",
       "be written in Thai",
-      "appear only in the introduction",
+      "appear only in the introduction of the essay",
       "match an entry in the reference list"
      ],
      "answer": 3,

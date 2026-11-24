@@ -121,7 +121,7 @@
       "Mina found the cash machine easy from the first day.",
       "Mina works in the evenings.",
       "Mr. Somchai is Mina's manager.",
-      "Mina sometimes reads at work."
+      "Mina sometimes reads books at the shop during quiet hours."
      ],
      "answer": 0,
      "explanation_th": "เรื่องบอกว่าตอนแรกใช้เครื่องเก็บเงินยาก (At first, she found the cash machine difficult) จึงไม่จริง",
@@ -310,7 +310,7 @@
      "options": [
       "forget quickly",
       "share with friends",
-      "write down on paper",
+      "write down on paper in a notebook",
       "make stronger and more fixed"
      ],
      "answer": 3,
@@ -391,7 +391,7 @@
       "very clear and simple",
       "much too long",
       "having more than one possible meaning",
-      "written in another language"
+      "written in a language the class did not know"
      ],
      "answer": 2,
      "explanation_th": "คนเข้าใจคำสั่งต่างกันเป็นสองแบบ แปลว่าคำสั่งตีความได้หลายทาง",
@@ -408,7 +408,7 @@
      "difficulty": 1,
      "stem": "\"Unlike his talkative brother, Beam is taciturn and rarely speaks in class.\" What does \"taciturn\" mean?",
      "options": [
-      "funny and loud",
+      "funny, loud and full of jokes",
       "often late",
       "very clever",
       "quiet and saying little"
@@ -536,7 +536,7 @@
       "First-year students study too many hours.",
       "The way you study is more important than the number of hours you study.",
       "Flashcards are the only good way to study.",
-      "Studying with friends is always better than studying alone."
+      "Studying in a group with friends is always better than studying alone at home."
      ],
      "answer": 1,
      "explanation_th": "ประโยคที่ 2 บอกใจความ (how you study matters more than how long) และประโยคสุดท้ายสรุปซ้ำ",
@@ -574,7 +574,7 @@
      "stem": "Passage: \"Many first-year students think that good grades come from studying long hours. However, research on learning suggests that how you study matters more than how long. Short sessions spread over several days help memory more than one long session the night before a test. Testing yourself with flashcards or practice questions is more useful than simply reading your notes again. Explaining a topic to a friend also shows you quickly what you do not understand yet. In short, smart methods can save time and lead to better results.\" **What is the writer's main purpose?**",
      "options": [
       "to sell flashcards to students",
-      "to tell a story about one student",
+      "to tell a story about one student and her first year",
       "to complain about difficult tests",
       "to give advice about effective study methods"
      ],
@@ -633,7 +633,7 @@
      "difficulty": 2,
      "stem": "Passage: \"Some teachers ban phones in class, but others use them as learning tools. In one English class, students use their phones to look up new words, answer quick online quizzes and record themselves speaking. The teacher says that shy students now speak more, because they can practise privately first. Of course, phones can also distract students with games and social media. The key, the teacher says, is clear rules about when phones are used.\" **What is the main idea of the passage?**",
      "options": [
-      "Phones should be banned in all classes.",
+      "Phones should be banned in all classes because they always distract students.",
       "Shy students like to record themselves.",
       "Phones can help learning in class if there are clear rules for using them.",
       "Social media is dangerous for everyone."
@@ -675,7 +675,7 @@
      "options": [
       "Phones can distract students with games.",
       "Some teachers ban phones in class.",
-      "Social media can take attention away from lessons.",
+      "Social media can take students' attention away from their lessons.",
       "Shy students speak more after practising privately."
      ],
      "answer": 3,
@@ -696,7 +696,7 @@
       "three ways to save money, with short explanations",
       "a story about the writer's holiday",
       "a list of expensive restaurants",
-      "reasons why students should spend more"
+      "reasons why students should spend more money on fun things"
      ],
      "answer": 0,
      "explanation_th": "topic sentence บอกล่วงหน้าว่าย่อหน้าจะพูดถึงสามวิธีประหยัดเงิน",
@@ -1048,7 +1048,7 @@
      "difficulty": 2,
      "stem": "Passage: \"When Jay got home, the kitchen light was still on and two cups sat on the table, one of them still warm. His mother's car keys were not on their usual hook by the door. Jay smiled, took off his shoes and checked his phone. There was a message from his aunt: 'Thanks for the tea! Your mom is driving me to the station. Back soon.'\" **What can we infer from the passage?**",
      "options": [
-      "Jay's mother left the light on because she was angry.",
+      "Jay's mother left the light on because she was angry with Jay that evening.",
       "Jay made tea for his aunt.",
       "Jay's aunt lives in the same house as Jay.",
       "Jay's aunt visited the house a short time before Jay got home."
@@ -1071,7 +1071,7 @@
       "She had lost them somewhere.",
       "She had taken them to drive his aunt to the station.",
       "Jay had taken them earlier.",
-      "His aunt had driven the car alone."
+      "His aunt had borrowed the car and driven it to the station alone."
      ],
      "answer": 1,
      "explanation_th": "ข้อความของป้าบอกว่าแม่กำลังขับรถไปส่งที่สถานี แม่จึงเอากุญแจไป",
@@ -1109,7 +1109,7 @@
      "stem": "Passage: \"A new café opened near campus in May. On the first day, the line went out the door. By July, the owners had added ten more tables and hired two more staff. In September, they started opening at 6 a.m. instead of 8 a.m., because many students wanted coffee before their early classes. The owners are now looking for a second location.\" **What can we infer about some students near the café?**",
      "options": [
       "They do not drink coffee.",
-      "They all work at the café.",
+      "They all work at the café and get free coffee every morning.",
       "Some of them have classes that start before 8 a.m.",
       "They only visit the café in May."
      ],
@@ -1190,7 +1190,7 @@
      "options": [
       "People inside are recording and need it to be quiet.",
       "The room is empty.",
-      "Anyone can walk in at any time.",
+      "Anyone can walk in at any time without knocking on the door.",
       "The room is a restaurant."
      ],
      "answer": 0,
@@ -1330,7 +1330,7 @@
      "difficulty": 1,
      "stem": "What is a reading journal mainly for?",
      "options": [
-      "copying the whole text word for word",
+      "copying the whole text word for word into your notebook to keep it",
       "recording your understanding of and reactions to what you read",
       "correcting the writer's grammar",
       "writing a story about a different topic"
@@ -1658,8 +1658,8 @@
      "options": [
       "I love this passage so much!",
       "Plastic.",
-      "In my opinion, the writer is wrong.",
-      "The passage explains why plastic bags are a problem and how people can reduce their use."
+      "In my opinion, the writer is wrong about plastic bags and the problems they cause.",
+      "The passage explains why plastic bags are a problem and how to reduce their use."
      ],
      "answer": 3,
      "explanation_th": "ประโยคเปิดของสรุปบอกว่าเรื่องว่าด้วยอะไร ด้วยภาษากลาง ๆ",

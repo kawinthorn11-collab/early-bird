@@ -83,7 +83,7 @@
             "duties",
             "rights",
             "rules",
-            "roles"
+            "respect"
           ],
           "answer": 1,
           "explanation_th": "rights แปลว่า สิทธิ คือสิ่งที่เราได้รับความคุ้มครอง",
@@ -91,7 +91,7 @@
             "duties แปลว่า หน้าที่ สิ่งที่กฎหมายกำหนดให้ทำ",
             null,
             "rules แปลว่า กฎ ไม่ใช่สิทธิ",
-            "roles แปลว่า บทบาท ไม่ใช่สิทธิ"
+            "respect แปลว่า ความเคารพ ไม่ใช่สิทธิ"
           ]
         },
         {
@@ -102,7 +102,7 @@
           "options": [
             "การเสียภาษีตามกฎหมาย",
             "การหยุดรถเมื่อไฟแดง",
-            "การเก็บขยะหน้าบ้านทุกเช้า",
+            "การเก็บขยะหน้าบ้านทุกเช้าด้วยตัวเอง",
             "การได้รับการศึกษาขั้นพื้นฐาน"
           ],
           "answer": 3,
@@ -182,7 +182,7 @@
           "options": [
             "ถ้ามีสิทธิแล้ว ก็ไม่ต้องทำหน้าที่อะไรอีก",
             "เราใช้สิทธิของเราได้ แต่ต้องไม่ละเมิดสิทธิของผู้อื่น",
-            "หน้าที่มีไว้สำหรับผู้ใหญ่ ส่วนสิทธิมีไว้สำหรับเด็ก",
+            "หน้าที่มีไว้สำหรับผู้ใหญ่เท่านั้น ส่วนสิทธิมีไว้สำหรับเด็ก",
             "สิทธิกับหน้าที่คือสิ่งเดียวกันทุกกรณี"
           ],
           "answer": 1,
@@ -373,7 +373,7 @@
           "stem": "ประเทศไทยปกครองด้วยระบอบใด",
           "options": [
             "สมบูรณาญาสิทธิราชย์ (absolute monarchy)",
-            "สาธารณรัฐที่มีประธานาธิบดีเป็นประมุข",
+            "สาธารณรัฐที่มีประธานาธิบดีจากการเลือกตั้งเป็นประมุข",
             "ระบอบที่ไม่มีรัฐธรรมนูญ",
             "ประชาธิปไตยอันมีพระมหากษัตริย์ทรงเป็นประมุข"
           ],
@@ -412,7 +412,7 @@
           "difficulty": 2,
           "stem": "วันรัฐธรรมนูญของไทยตรงกับวันใด",
           "options": [
-            "13 เมษายน",
+            "14 กุมภาพันธ์",
             "1 พฤษภาคม",
             "10 ธันวาคม",
             "5 ธันวาคม"
@@ -420,7 +420,7 @@
           "answer": 2,
           "explanation_th": "วันที่ 10 ธันวาคมเป็นวันรัฐธรรมนูญ",
           "why_wrong": [
-            "13 เมษายนคือวันสงกรานต์",
+            "14 กุมภาพันธ์คือวันวาเลนไทน์ ไม่ใช่วันรัฐธรรมนูญ",
             "1 พฤษภาคมคือวันแรงงาน",
             null,
             "5 ธันวาคมคือวันพ่อแห่งชาติ ไม่ใช่วันรัฐธรรมนูญ"
@@ -626,7 +626,7 @@
             "Ignoring all news from other countries",
             "Using less single-use plastic because waste harms the ocean",
             "Laughing at people from other cultures",
-            "Buying more than you need because it is cheap"
+            "Buying more than you need because it is cheap and on sale today"
           ],
           "answer": 1,
           "explanation_th": "คิดถึงผลของการกระทำต่อโลกและคนอื่น คือหัวใจของพลเมืองโลก",
@@ -664,7 +664,7 @@
           "stem": "ข้อใดอธิบาย 'การพัฒนาที่ยั่งยืน' (sustainable development) ได้ดีที่สุด",
           "options": [
             "การพัฒนาที่ตอบความต้องการของคนรุ่นนี้ โดยไม่ทำให้คนรุ่นหลังเสียโอกาส",
-            "การพัฒนาที่เน้นกำไรสูงสุดในเวลาสั้นที่สุด",
+            "การพัฒนาที่เน้นกำไรสูงสุดในเวลาสั้นที่สุด แม้ทรัพยากรจะหมดไปในรุ่นของเรา",
             "การหยุดพัฒนาทุกอย่างเพื่อรักษาธรรมชาติ",
             "การพัฒนาเฉพาะในเมืองใหญ่"
           ],
@@ -815,7 +815,7 @@
           "stem": "A friend sends a post: 'Drinking hot water kills all viruses!' What should you do first?",
           "options": [
             "Share it fast so everyone is safe",
-            "Believe it because many people liked it",
+            "Believe it because many people liked it and shared it with friends",
             "Add more scary words and post it again",
             "Check the source and look for the same news on trusted sites"
           ],
@@ -857,7 +857,7 @@
             "Post mean comments back",
             "Share the comments in more groups",
             "Save the evidence, report it, and tell a trusted adult or teacher",
-            "Do nothing because it is only online"
+            "Do nothing because it is only online and not in real life at school"
           ],
           "answer": 2,
           "explanation_th": "เก็บหลักฐาน รายงาน และขอความช่วยเหลือ คือวิธีรับมือ cyberbullying ที่ปลอดภัย",
@@ -1027,7 +1027,7 @@
           "stem": "คำว่า empathy หมายถึงข้อใด",
           "options": [
             "การเห็นด้วยกับทุกคนเสมอ",
-            "ความสงสารแบบมองว่าตัวเองเหนือกว่า",
+            "ความสงสารแบบมองว่าตัวเองเหนือกว่า และโชคดีกว่าคนที่ลำบาก",
             "การแข่งขันกับผู้อื่น",
             "การเข้าใจความรู้สึกของผู้อื่น โดยลองมองจากมุมของเขา"
           ],
@@ -1047,7 +1047,7 @@
           "stem": "ข้อใดเป็นการเลือกปฏิบัติ (discrimination)",
           "options": [
             "ร้านไม่รับคนเข้าทำงานเพราะสำเนียงต่างจากคนในพื้นที่ ทั้งที่ทำงานได้ดี",
-            "คิดในใจว่าคนกลุ่มหนึ่งน่าจะไม่เก่ง แต่ไม่ได้ทำอะไร",
+            "คิดในใจว่าคนกลุ่มหนึ่งน่าจะทำงานไม่เก่ง แต่ไม่ได้พูดหรือทำอะไรกับใครเลย",
             "ถามเพื่อนต่างชาติว่าชอบอาหารเผ็ดไหม",
             "เรียนภาษาของเพื่อนต่างชาติ"
           ],
@@ -1067,7 +1067,7 @@
           "stem": "A new exchange student does not eat pork. What is the most respectful thing to do at a class party?",
           "options": [
             "Tell the student to try it just once",
-            "Serve only pork and say it is Thai culture",
+            "Serve only pork dishes and say that this is simply how Thai parties are",
             "Ask about food needs and prepare some food without pork",
             "Laugh at the student's choice"
           ],
@@ -1086,7 +1086,7 @@
           "difficulty": 2,
           "stem": "Culture shock is ___.",
           "options": [
-            "a festival in a new country",
+            "a big festival that people have when they arrive in a new country",
             "a law about tourists",
             "a type of food from Europe",
             "the confused or tired feeling people can have in a new culture"
@@ -1262,7 +1262,7 @@
           "stem": "สังคมสูงวัย (aging society) หมายถึงข้อใด",
           "options": [
             "สังคมที่สัดส่วนผู้สูงอายุในประชากรสูงขึ้นมาก",
-            "สังคมที่มีแต่ผู้สูงอายุ ไม่มีเด็กเลย",
+            "สังคมที่มีแต่ผู้สูงอายุอาศัยอยู่ ไม่มีเด็กเกิดใหม่เลย",
             "สังคมที่ทุกคนอายุเกิน 100 ปี",
             "สังคมที่ห้ามผู้สูงอายุทำงาน"
           ],
@@ -1283,7 +1283,7 @@
           "options": [
             "Avoid all technology",
             "Keep learning new skills, like using AI tools wisely and communicating well",
-            "Stop studying because AI can do everything",
+            "Stop studying completely because AI can already do every job better than people",
             "Wait until after graduation to think about it"
           ],
           "answer": 1,
@@ -1301,7 +1301,7 @@
           "difficulty": 2,
           "stem": "ข้อใดเป็นผลของสังคมสูงวัยที่อาจกระทบการทำงาน",
           "options": [
-            "จำนวนเด็กเกิดใหม่เพิ่มขึ้นอย่างมาก",
+            "จำนวนเด็กเกิดใหม่เพิ่มขึ้นอย่างมาก จนโรงเรียนไม่พอรับนักเรียน",
             "ทุกคนเกษียณเร็วขึ้นโดยอัตโนมัติ",
             "ไม่มีผลใด ๆ ต่อเศรษฐกิจ",
             "ความต้องการงานด้านการดูแลผู้สูงอายุและสุขภาพเพิ่มขึ้น"
@@ -1362,7 +1362,7 @@
           "stem": "ข้อใดตรงกับ 'การรู้เท่าทันประเด็นใหม่ในสังคม' มากที่สุด",
           "options": [
             "เชื่อทุกเทรนด์ที่เห็นในคลิปสั้น",
-            "ไม่สนใจข่าวเพราะคิดว่าไม่เกี่ยวกับตัวเรา",
+            "ไม่สนใจข่าวและเรื่องใหม่ในสังคมเลย เพราะคิดว่าเรื่องพวกนั้นไม่เกี่ยวกับชีวิตและงานของตัวเรา",
             "อ่านแค่หัวข้อข่าวแล้วแชร์ต่อทันที",
             "ติดตามเรื่องใหม่จากแหล่งที่น่าเชื่อถือ แล้วคิดว่ามันกระทบชีวิตและงานของเราอย่างไร"
           ],
@@ -1381,7 +1381,7 @@
           "difficulty": 3,
           "stem": "ข้อใดเป็นตัวอย่างของ reskill ไม่ใช่ upskill",
           "options": [
-            "ครูภาษาอังกฤษเรียนเทคนิคสอนการออกเสียงเพิ่ม",
+            "ครูภาษาอังกฤษเรียนเทคนิคใหม่ในการสอนการออกเสียง เพื่อสอนในวิชาเดิมให้ดีขึ้น",
             "พนักงานแคชเชียร์เรียนเขียนโปรแกรมเพื่อเปลี่ยนไปทำงานด้านไอที",
             "ช่างภาพฝึกแต่งภาพให้เก่งขึ้น",
             "นักแปลฝึกแปลให้เร็วขึ้น"

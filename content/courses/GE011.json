@@ -139,7 +139,7 @@
           "stem": "What is metacognition?",
           "options": [
             "Thinking about your own thinking",
-            "Remembering many facts quickly",
+            "Remembering many facts very quickly",
             "Thinking only about the future",
             "Copying a friend's ideas"
           ],
@@ -218,7 +218,7 @@
           "difficulty": 1,
           "stem": "Thinking is a skill. What does this mean?",
           "options": [
-            "Only very smart people can do it",
+            "Only very smart people can ever do it well",
             "You can get better at it with practice",
             "It cannot change after age 18",
             "It is the same as reading fast"
@@ -240,7 +240,7 @@
           "options": [
             "ทำให้ไม่ต้องอ่านหนังสือเลย",
             "เห็นภาพรวมและความเชื่อมโยงของหัวข้อย่อย",
-            "ใช้แทนการอ้างอิงแหล่งข้อมูลได้",
+            "ใช้แทนการอ้างอิงแหล่งข้อมูลในรายงานได้เลย",
             "ทำให้คำตอบถูกต้องเสมอ"
           ],
           "answer": 1,
@@ -358,7 +358,7 @@
             "A week has seven days.",
             "English is the most fun subject.",
             "There are 12 months in a year.",
-            "Thailand is in Southeast Asia."
+            "Thailand is in Southeast Asia, next to Laos."
           ],
           "answer": 1,
           "explanation_th": "most fun เป็นความรู้สึก ตรวจสอบให้ถูกผิดไม่ได้",
@@ -478,7 +478,7 @@
             "Ad hominem (โจมตีตัวบุคคล)",
             "Straw man (บิดข้อเสนอให้ดูสุดโต่ง แล้วโจมตี)",
             "Bandwagon (ทำตามคนส่วนใหญ่)",
-            "Hasty generalization (สรุปจากตัวอย่างน้อย)"
+            "Hasty generalization (สรุปเร็วเกินไปจากตัวอย่างน้อย)"
           ],
           "answer": 1,
           "explanation_th": "A แค่ขอที่จอดจักรยาน แต่ B บิดว่าให้ทุกคนเลิกขับรถ",
@@ -495,7 +495,7 @@
           "difficulty": 1,
           "stem": "You see a post: \"This tea makes you smarter!\" What is the best first question to ask?",
           "options": [
-            "How many likes does the post have?",
+            "How many likes and shares does the post have?",
             "What is the evidence, and who says it?",
             "Is the picture nice?",
             "Can I share it right now?"
@@ -503,7 +503,7 @@
           "answer": 1,
           "explanation_th": "คิดเชิงวิพากษ์เริ่มจากถามหาหลักฐานและแหล่งที่มา",
           "why_wrong": [
-            "ยอดไลก์ไม่ใช่หลักฐาน",
+            "ยอดไลก์และยอดแชร์ไม่ใช่หลักฐาน",
             null,
             "ภาพสวยไม่ได้บอกว่าข้อมูลจริง",
             "ควรตรวจก่อนแชร์ ไม่ใช่แชร์ก่อน"
@@ -589,7 +589,7 @@
             "Choose the best idea right away",
             "Let only the leader speak",
             "Write down many ideas without judging them",
-            "Delete strange ideas immediately"
+            "Delete strange ideas immediately so the list stays short"
           ],
           "answer": 2,
           "explanation_th": "ช่วงระดมความคิดเน้นจำนวน ยังไม่ตัดสิน",
@@ -729,7 +729,7 @@
             "A new idea that people use and that creates value",
             "Any idea that sounds strange",
             "Copying a product exactly",
-            "An idea that stays only in your head"
+            "An idea that stays only in your head and is never tried"
           ],
           "answer": 0,
           "explanation_th": "นวัตกรรมต้องใหม่ ใช้ได้จริง และมีคุณค่า",
@@ -819,7 +819,7 @@
           "difficulty": 1,
           "stem": "What does analysis mean?",
           "options": [
-            "Putting parts together into something new",
+            "Putting parts from many sources together into something new",
             "Breaking something into parts to understand it",
             "Guessing without any information",
             "Memorizing a text word by word"
@@ -941,7 +941,7 @@
           "options": [
             "การหารูปแบบ (finding a pattern)",
             "การระดมความคิด (brainstorming)",
-            "การโจมตีตัวบุคคล (ad hominem)",
+            "การโจมตีตัวบุคคล (ad hominem attack)",
             "การท่องจำ (memorizing)"
           ],
           "answer": 0,
@@ -1173,7 +1173,7 @@
           "options": [
             "You arrive at 9:15",
             "The teacher marks you late",
-            "You feel stressed when you walk in",
+            "You feel stressed and embarrassed when you walk in",
             "You go to bed very late on Sunday nights"
           ],
           "answer": 3,
@@ -1345,7 +1345,7 @@
             "Learning only until you graduate",
             "Studying all night every night",
             "Continuing to learn new things all through your life",
-            "Learning one skill and never changing"
+            "Learning one skill at school and never changing it later"
           ],
           "answer": 2,
           "explanation_th": "เรียนรู้ต่อเนื่องตลอดชีวิต ไม่หยุดที่ใบปริญญา",

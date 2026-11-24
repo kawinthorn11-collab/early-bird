@@ -112,7 +112,7 @@
       "Is this shirt cheap?",
       "I want this smaller.",
       "Do you have this in a large?",
-      "Where is the fitting room?"
+      "Excuse me, where is the fitting room?"
      ],
      "answer": 2,
      "explanation_th": "Do you have this in + ขนาด? ใช้ขอขนาดอื่น",
@@ -550,7 +550,7 @@
      "stem": "Have you seen this movie? It's worth ___.",
      "options": [
       "to watch",
-      "watch",
+      "to watching",
       "watched",
       "watching"
      ],
@@ -558,7 +558,7 @@
      "explanation_th": "be worth + V-ing = คุ้มค่าที่จะ...",
      "why_wrong": [
       "be worth ตามด้วย V-ing",
-      "หลัง worth ใช้กริยาช่อง 1 ไม่ได้",
+      "หลัง worth ใช้ V-ing ได้เลย ไม่ต้องมี to",
       "หลัง worth ใช้กริยาช่อง 2 ไม่ได้",
       null
      ]
@@ -632,7 +632,7 @@
       "Yes, I am into.",
       "I'm into the room.",
       "Mostly pop, but I also like jazz.",
-      "Music is good for me yesterday."
+      "Music is very good for me yesterday."
      ],
      "answer": 2,
      "explanation_th": "ตอบแนวเพลงที่ชอบ",
@@ -852,7 +852,7 @@
      "stem": "A: Did you enjoy the trip? B: The hotel was nice, but it rained every day, so we stayed inside most of the time. How did B feel about the trip?",
      "options": [
       "It was perfect.",
-      "B didn't go on the trip.",
+      "B didn't go on the trip at all.",
       "The hotel was terrible.",
       "It was a bit disappointing."
      ],
@@ -973,7 +973,7 @@
      "options": [
       "want to",
       "got to",
-      "have to",
+      "have got to",
       "going to"
      ],
      "answer": 3,
@@ -981,7 +981,7 @@
      "why_wrong": [
       "want to ย่อเป็น wanna",
       "got to ย่อเป็น gotta",
-      "have to ไม่ได้ย่อเป็น gonna",
+      "have got to ย่อเป็น gotta ไม่ใช่ gonna",
       null
      ]
     },
@@ -1033,7 +1033,7 @@
      "options": [
       "What do you want for lunch?",
       "Why do you want lunch?",
-      "Where do you want lunch?",
+      "Where do you want to have lunch?",
       "What day you want lunch?"
      ],
      "answer": 0,
@@ -1041,7 +1041,7 @@
      "why_wrong": [
       null,
       "why ออกเสียงต่างจาก what",
-      "where ออกเสียงต่างจาก what และประโยคต้องเป็น want to have lunch",
+      "where ออกเสียงต่างจาก what และผู้พูดพูดว่า for lunch ไม่ใช่ to have lunch",
       "ผิดไวยากรณ์ และ whadda ไม่ใช่ what day"
      ]
     },
@@ -1091,7 +1091,7 @@
      "difficulty": 1,
      "stem": "Which sentence is fine for a formal email?",
      "options": [
-      "I'm gonna submit the report tomorrow.",
+      "I'm gonna submit the final report tomorrow.",
       "I am going to submit the report tomorrow.",
       "I wanna submit the report tomorrow.",
       "I gotta submit the report tomorrow."
@@ -1194,7 +1194,7 @@
      "stem": "A: How was the new restaurant? B: Well, the food was OK, I guess. But it was really expensive. What is B's attitude?",
      "options": [
       "B was not very impressed.",
-      "B was very excited.",
+      "B was very excited to go back.",
       "B was angry at A.",
       "B didn't eat there."
      ],
@@ -1202,7 +1202,7 @@
      "explanation_th": "อาหารแค่พอใช้และแพง จึงไม่ค่อยประทับใจ",
      "why_wrong": [
       null,
-      "OK, I guess กับ really expensive ไม่ใช่น้ำเสียงตื่นเต้น",
+      "OK, I guess กับ really expensive ไม่ใช่น้ำเสียงตื่นเต้น และ B ไม่ได้บอกว่าอยากกลับไปอีก",
       "B ไม่ได้ไม่พอใจ A",
       "B พูดถึงรสอาหาร แสดงว่าได้กิน"
      ]
@@ -1216,7 +1216,7 @@
       "to apologize to customers",
       "to persuade people to buy",
       "to give directions",
-      "to complain about prices"
+      "to complain about high prices"
      ],
      "answer": 1,
      "explanation_th": "Don't miss... + ลดราคา + ระยะเวลาจำกัด เป็นการชักชวนให้ซื้อ",
@@ -1479,7 +1479,7 @@
      "stem": "Your friend is telling a long story. Which response shows you are listening?",
      "options": [
       "Stop, I'm bored.",
-      "Can we talk about me now?",
+      "OK, can we talk about my weekend now?",
       "Uh-huh... and then what happened?",
       "Wait, I need to check my phone."
      ],
@@ -1487,7 +1487,7 @@
      "explanation_th": "คำรับลูก + ถามต่อ แสดงว่าตั้งใจฟัง",
      "why_wrong": [
       "ตัดบทและไม่สุภาพ",
-      "เปลี่ยนเรื่องมาที่ตัวเอง",
+      "เปลี่ยนเรื่องมาที่ตัวเอง ไม่ได้ฟังเพื่อน",
       null,
       "แสดงว่าไม่ได้ตั้งใจฟัง"
      ]

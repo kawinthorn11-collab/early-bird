@@ -53,6 +53,7 @@ for (const file of files) {
   const stems = new Map();
   const qids = new Set();
   const pos = [0, 0, 0, 0];
+  let longest = 0;
   let nq = 0;
   const covered = desc ? new Array(desc.length).fill(false) : null;
 
@@ -97,7 +98,11 @@ for (const file of files) {
         if (new Set(q.options.map((o) => norm(o).toLowerCase())).size !== 4) aq('duplicate options');
       }
       if (!Number.isInteger(q.answer) || q.answer < 0 || q.answer > 3) aq('answer must be an integer 0-3');
-      else pos[q.answer]++;
+      else {
+        pos[q.answer]++;
+        const lens = Array.isArray(q.options) ? q.options.map((o) => String(o).length) : [];
+        if (lens[q.answer] === Math.max(...lens)) longest++;
+      }
       if (typeof q.explanation_th !== 'string' || !q.explanation_th.trim()) aq('explanation_th missing');
       if (!Array.isArray(q.why_wrong) || q.why_wrong.length !== 4) aq('why_wrong must have 4 entries');
       else q.why_wrong.forEach((w, i) => {
@@ -108,6 +113,8 @@ for (const file of files) {
   });
 
   const even = nq / 4;
+  // learners learn to pick the longest option when it is usually right
+  if (longest > nq / 2) err(`correct answer is the longest option in ${longest}/${nq} questions (max half)`);
   if (pos.some((p) => Math.abs(p - even) > 3)) err(`answer positions unbalanced ${JSON.stringify(pos)} (even is ${even})`);
   if (covered) {
     const missing = [...desc].map((ch, i) => (!covered[i] && /\S/.test(ch) ? ch : ' ')).join('').replace(/\s+/g, ' ').trim();

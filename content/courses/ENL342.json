@@ -139,7 +139,7 @@
      "difficulty": 2,
      "stem": "Why do literature courses often study works by period?",
      "options": [
-      "All writers in one period wrote the same story.",
+      "All writers in one period wrote the same kind of story.",
       "Older works are always better.",
       "Works reflect the ideas and society of their time.",
       "Dates are more important than the texts."
@@ -378,7 +378,7 @@
       "soldiers fighting a dragon",
       "pilgrims travelling to Canterbury who tell stories",
       "students at a university",
-      "sailors hunting a whale"
+      "sailors on a long voyage hunting a great white whale"
      ],
      "answer": 1,
      "explanation_th": "ผู้แสวงบุญเล่านิทานแข่งกันระหว่างเดินทาง",
@@ -416,7 +416,7 @@
      "stem": "Which values are strongest in Beowulf?",
      "options": [
       "courage, loyalty to one's leader, and fame",
-      "romantic love and marriage",
+      "romantic love and a happy marriage at the end",
       "city life and money",
       "science and technology"
      ],
@@ -475,9 +475,9 @@
      "difficulty": 2,
      "stem": "Why are Chaucer's pilgrims useful for understanding medieval society?",
      "options": [
-      "They are all kings, so they show royal life only.",
+      "They are all kings and nobles, so together they show only royal life at court.",
       "They all come from one family.",
-      "They come from many classes and jobs, so together they show a wide picture of society.",
+      "They come from many classes and jobs, so they show a wide picture of society.",
       "They live in a modern city."
      ],
      "answer": 2,
@@ -672,7 +672,7 @@
      "options": [
       "a long sea journey to hunt a whale",
       "a comic love story in a forest",
-      "pilgrims telling stories on a journey",
+      "pilgrims telling stories on a journey to Canterbury",
       "revenge and doubt after his father's death"
      ],
      "answer": 3,
@@ -710,7 +710,7 @@
      "difficulty": 2,
      "stem": "Why do Shakespeare's plays mix beautiful poetry with rough jokes?",
      "options": [
-      "Only kings were allowed to watch plays.",
+      "Only kings and rich nobles were allowed to watch plays in his time.",
       "His audiences included both wealthy people and ordinary people.",
       "He wrote only for children.",
       "His plays were never performed."
@@ -950,7 +950,7 @@
       "how to win a war",
       "a creator's responsibility for what he creates",
       "how to become king",
-      "how to sail around the world"
+      "how to sail around the world and find new lands"
      ],
      "answer": 1,
      "explanation_th": "Victor Frankenstein สร้างชีวิตแล้วทอดทิ้ง เรื่องจึงถามถึงความรับผิดชอบ",
@@ -1010,7 +1010,7 @@
       "They had never seen a city.",
       "Nature was the only topic the king allowed.",
       "They reacted against growing industrial cities and a focus on reason alone.",
-      "They wanted to write scientific reports."
+      "They wanted to write scientific reports about plants, animals and the weather."
      ],
      "answer": 2,
      "explanation_th": "ธรรมชาติเป็นทางเลือกต่อเมืองอุตสาหกรรมและการเน้นเหตุผลอย่างเดียว",
@@ -1165,7 +1165,7 @@
      "options": [
       "life on the American frontier",
       "fights against dragons",
-      "life inside a royal palace",
+      "life inside a royal palace and the problems of kings",
       "poverty and the poor treatment of children"
      ],
      "answer": 3,
@@ -1203,7 +1203,7 @@
      "difficulty": 2,
      "stem": "Why did some Victorian women writers publish under male-sounding names?",
      "options": [
-      "because women were not allowed to read",
+      "because women were not allowed to read or buy books",
       "because male names were shorter",
       "because the queen ordered it",
       "so that their work would be taken more seriously"
@@ -1211,7 +1211,7 @@
      "answer": 3,
      "explanation_th": "ในยุคนั้นงานของผู้หญิงมักถูกตัดสินต่างออกไป ชื่อผู้ชายจึงช่วยให้ถูกอ่านอย่างจริงจัง",
      "why_wrong": [
-      "ผู้หญิงในยุคนั้นอ่านหนังสือได้ และหลายคนเป็นนักอ่าน",
+      "ผู้หญิงในยุคนั้นอ่านและซื้อหนังสือได้ และหลายคนเป็นนักอ่าน",
       "ความยาวของชื่อไม่ใช่เหตุผล",
       "ไม่มีคำสั่งแบบนี้จากพระราชินี",
       null
@@ -1224,7 +1224,7 @@
      "stem": "In A Christmas Carol, how does Scrooge change?",
      "options": [
       "He goes from mean and selfish to kind and generous.",
-      "He goes from rich to poor and stays unhappy.",
+      "He goes from rich to poor and stays unhappy until the end.",
       "He becomes a sailor.",
       "He does not change at all."
      ],
@@ -1266,7 +1266,7 @@
       "a comedy about a dinner party in London",
       "a wild, intense love story set on the Yorkshire moors",
       "a sea voyage to find a whale",
-      "a soldier's diary from the First World War"
+      "a soldier's diary written during the First World War in France"
      ],
      "answer": 1,
      "explanation_th": "เรื่องเล่าความรักรุนแรงบนทุ่งร้างในยอร์กเชียร์",
@@ -1380,7 +1380,7 @@
      "difficulty": 1,
      "stem": "Moby-Dick is about ___.",
      "options": [
-      "a woman forced to wear a red letter",
+      "a woman in a Puritan town forced to wear a red letter",
       "a man living simply by a pond",
       "a boy on a raft on the Mississippi",
       "Captain Ahab's obsessive hunt for a white whale"
@@ -1420,7 +1420,7 @@
      "difficulty": 2,
      "stem": "In The Scarlet Letter, the red letter A shows ___.",
      "options": [
-      "that Hester is the best student in town",
+      "that Hester is the best student in her town's Puritan school",
       "the name of a ship",
       "how Puritan society publicly shames Hester for her sin",
       "a prize given by the king"
@@ -1460,7 +1460,7 @@
      "difficulty": 2,
      "stem": "How is Walt Whitman's poetry in Leaves of Grass usually described?",
      "options": [
-      "short rhyming sonnets about kings",
+      "short, neat rhyming sonnets about kings, queens and life at the royal court",
       "Old English alliterative verse",
       "comic plays for the stage",
       "long free-verse lines celebrating democracy and ordinary people"
@@ -1676,7 +1676,7 @@
      "stem": "'Stream of consciousness' is a technique that ___.",
      "options": [
       "shows a character's thoughts flowing freely, as they happen",
-      "tells events strictly in time order with no thoughts",
+      "tells events strictly in time order and never shows any thoughts",
       "uses only dialogue, like a play",
       "makes every two lines rhyme"
      ],
@@ -1715,7 +1715,7 @@
      "difficulty": 2,
      "stem": "Which description best fits Ernest Hemingway's style?",
      "options": [
-      "very long sentences full of old words like 'thou'",
+      "very long, decorated sentences full of old words like 'thou' and 'thee'",
       "rhyming sonnets about nature",
       "Old English verse with heavy alliteration",
       "short, simple sentences with deeper meaning under the surface"
@@ -1776,7 +1776,7 @@
      "stem": "Animal Farm and Nineteen Eighty-Four both warn about ___.",
      "options": [
       "the dangers of wild nature",
-      "the problems of Victorian marriage",
+      "the problems of Victorian marriage and arguments over family money",
       "governments that control people and even their thoughts",
       "ghosts in old houses"
      ],
@@ -1784,7 +1784,7 @@
      "explanation_th": "Orwell เตือนเรื่องอำนาจเผด็จการ",
      "why_wrong": [
       "ธรรมชาติไม่ใช่ศัตรูในสองเรื่องนี้",
-      "เรื่องการแต่งงานไม่ใช่ประเด็น",
+      "เรื่องการแต่งงานและเงินในครอบครัวไม่ใช่ประเด็น",
       null,
       "ไม่ใช่เรื่องผี"
      ]
@@ -1796,7 +1796,7 @@
      "stem": "Why did many Modernist writers break old forms, such as clear time order and neat endings?",
      "options": [
       "They did not know the old rules.",
-      "Publishers paid more for shorter books.",
+      "Publishers paid writers more for short books, so the writers stopped telling complete stories.",
       "A law banned traditional novels.",
       "They felt the world after the war was broken and uncertain, so old forms felt false."
      ],

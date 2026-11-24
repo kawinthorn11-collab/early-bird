@@ -85,7 +85,7 @@
             "the vocal folds",
             "the teeth",
             "the hard palate",
-            "the nose"
+            "the nasal cavity"
           ],
           "answer": 0,
           "explanation_th": "เสียงก้องเกิดจากเส้นเสียงสั่น",
@@ -93,7 +93,7 @@
             null,
             "ฟันไม่สั่น เป็นแค่จุดที่ลิ้นหรือริมฝีปากไปแตะ",
             "เพดานแข็งเป็นกระดูก ไม่สั่น",
-            "จมูกเป็นทางออกของลมในเสียงนาสิก ไม่ใช่ตัวสั่นที่ทำให้ก้อง"
+            "โพรงจมูกเป็นทางออกของลมในเสียงนาสิก ไม่ใช่ตัวสั่นที่ทำให้ก้อง"
           ]
         },
         {
@@ -102,7 +102,7 @@
           "difficulty": 1,
           "stem": "Which sounds are made with both lips?",
           "options": [
-            "/t d n/",
+            "/t d n l/",
             "/k ɡ ŋ/",
             "/f v/",
             "/p b m/"
@@ -110,7 +110,7 @@
           "answer": 3,
           "explanation_th": "/p b m/ ใช้ริมฝีปากสองข้างประกบกัน",
           "why_wrong": [
-            "ใช้ปลายลิ้นแตะปุ่มเหงือก",
+            "ใช้ปลายลิ้นแตะปุ่มเหงือก ไม่ได้ใช้ริมฝีปาก",
             "ใช้โคนลิ้นแตะเพดานอ่อน",
             "ใช้ฟันบนแตะริมฝีปากล่าง ไม่ใช่ริมฝีปากสองข้าง",
             null
@@ -145,7 +145,7 @@
             "on the soft palate",
             "between or just behind the upper front teeth",
             "pressed hard on the hard palate",
-            "low and still, with the lips closed"
+            "low in the mouth and still, with both lips closed"
           ],
           "answer": 1,
           "explanation_th": "/θ/ ใช้ปลายลิ้นแตะหรือยื่นระหว่างฟันหน้า แล้วปล่อยลมผ่าน",
@@ -203,7 +203,7 @@
           "stem": "Put your hand on your throat. Which sound makes it vibrate?",
           "options": [
             "/s/",
-            "/f/",
+            "/tʃ/",
             "/θ/",
             "/z/"
           ],
@@ -211,7 +211,7 @@
           "explanation_th": "/z/ เป็นเสียงก้อง เส้นเสียงสั่น",
           "why_wrong": [
             "/s/ ไม่ก้อง เป็นแค่ลมผ่าน",
-            "/f/ ไม่ก้อง",
+            "/tʃ/ ไม่ก้อง เส้นเสียงไม่สั่น",
             "/θ/ ไม่ก้อง",
             null
           ]
@@ -245,7 +245,7 @@
             "/s/ and /ʃ/",
             "/p/ and /m/",
             "/s/ and /z/",
-            "/t/ and /k/"
+            "/t/ and /tʃ/"
           ],
           "answer": 2,
           "explanation_th": "/s/ กับ /z/ เกิดที่จุดเดียวกันแบบเดียวกัน ต่างกันแค่ก้องหรือไม่ก้อง",
@@ -253,7 +253,7 @@
             "ทั้งคู่ไม่ก้อง แต่เกิดคนละจุด",
             "ต่างกันที่ลักษณะ /m/ เป็นนาสิก /p/ เป็นเสียงกัก",
             null,
-            "ทั้งคู่ไม่ก้อง แต่เกิดคนละจุด"
+            "ทั้งคู่ไม่ก้อง แต่ /t/ เป็นเสียงกัก ส่วน /tʃ/ เป็นเสียงกักเสียดแทรก"
           ]
         }
       ],
@@ -491,7 +491,7 @@
             "sound exactly the same",
             "have different vowel sounds",
             "are all silent words",
-            "all rhyme with 'cow'"
+            "all rhyme with 'cow' and 'now'"
           ],
           "answer": 1,
           "explanation_th": "ough ในสามคำนี้ออกเสียงต่างกัน: /əʊ/, /uː/, /ʌf/",
@@ -636,7 +636,7 @@
           "stem": "Which symbol shows the 'ng' sound at the end of 'sing'?",
           "options": [
             "/n/",
-            "/ɡ/",
+            "/nɡ/",
             "/ŋ/",
             "/m/"
           ],
@@ -644,7 +644,7 @@
           "explanation_th": "sing = /sɪŋ/ ใช้สัญลักษณ์ /ŋ/ ตัวเดียว",
           "why_wrong": [
             "/n/ เกิดที่ปุ่มเหงือก ไม่ใช่เพดานอ่อน",
-            "/ɡ/ เป็นเสียงกัก ไม่ใช่เสียงนาสิก",
+            "/nɡ/ คือสองเสียง n ตามด้วย g แต่ท้าย sing เป็นเสียงเดียวคือ /ŋ/",
             null,
             "/m/ เกิดที่ริมฝีปาก"
           ]
@@ -718,7 +718,7 @@
             "/ˈweri/",
             "/ˈferi/",
             "/ˈveri/",
-            "/ˈberi/"
+            "/ˈviːri/"
           ],
           "answer": 2,
           "explanation_th": "very ขึ้นต้นด้วย /v/",
@@ -726,7 +726,7 @@
             "ใช้ /w/ แทน /v/ ซึ่งเป็นข้อผิดพลาดที่คนไทยพบบ่อย",
             "/f/ เป็นเสียงไม่ก้อง ไม่ใช่ /v/",
             null,
-            "/b/ ใช้ริมฝีปากสองข้าง ไม่ใช่ /v/"
+            "/iː/ เป็นสระยาวแบบใน see แต่ very ใช้สระสั้น /e/"
           ]
         },
         {
@@ -737,7 +737,7 @@
           "options": [
             "jam",
             "gym",
-            "jet",
+            "juice",
             "yes"
           ],
           "answer": 3,
@@ -745,7 +745,7 @@
           "why_wrong": [
             "jam ขึ้นต้นด้วย /dʒ/",
             "gym ขึ้นต้นด้วย /dʒ/",
-            "jet ขึ้นต้นด้วย /dʒ/",
+            "juice ขึ้นต้นด้วย /dʒ/",
             null
           ]
         }
@@ -960,7 +960,7 @@
           "difficulty": 2,
           "stem": "Why does 'make' have only one syllable?",
           "options": [
-            "Because it has four letters.",
+            "Because it has only four letters, and short words have one syllable.",
             "Because it starts with 'm'.",
             "Because it is a verb.",
             "The final 'e' is silent, so there is only one vowel sound."
@@ -1089,7 +1089,7 @@
             "pool",
             "pull",
             "full",
-            "book"
+            "could"
           ],
           "answer": 0,
           "explanation_th": "pool = /puːl/",
@@ -1097,7 +1097,7 @@
             null,
             "pull = /pʊl/ สระสั้น",
             "full = /fʊl/ สระสั้น",
-            "book = /bʊk/ สระสั้น"
+            "could = /kʊd/ สระสั้น"
           ]
         },
         {
@@ -1189,7 +1189,7 @@
             "fat",
             "fun",
             "father",
-            "fish"
+            "fashion"
           ],
           "answer": 2,
           "explanation_th": "father = /ˈfɑːðə/",
@@ -1197,7 +1197,7 @@
             "fat = /fæt/",
             "fun = /fʌn/",
             null,
-            "fish = /fɪʃ/"
+            "fashion = /ˈfæʃn/ ใช้ /æ/"
           ]
         },
         {
@@ -1315,7 +1315,7 @@
             "/s/ is replaced by /θ/",
             "/θ/ is replaced by /s/",
             "/ŋ/ is replaced by /n/",
-            "/k/ is replaced by /t/"
+            "/k/ at the end is replaced by /t/"
           ],
           "answer": 1,
           "explanation_th": "th ใน think คือ /θ/ ถูกแทนด้วย /s/",
@@ -1352,7 +1352,7 @@
           "difficulty": 1,
           "stem": "Which pair is a minimal pair for /v/ and /w/?",
           "options": [
-            "vest / best",
+            "very / berry",
             "west / rest",
             "vest / west",
             "vet / bet"
@@ -1360,7 +1360,7 @@
           "answer": 2,
           "explanation_th": "ต่างกันแค่ /v/ กับ /w/",
           "why_wrong": [
-            "ต่างกันที่ /v/ กับ /b/",
+            "ต่างกันที่ /v/ กับ /b/ ไม่ใช่ /w/",
             "ต่างกันที่ /w/ กับ /r/",
             null,
             "ต่างกันที่ /v/ กับ /b/"
@@ -1372,7 +1372,7 @@
           "difficulty": 2,
           "stem": "To make /v/, you ___.",
           "options": [
-            "round your lips without using your teeth",
+            "round your lips without using your teeth, like the start of 'we'",
             "touch your lower lip with your upper teeth and use your voice",
             "close both lips completely",
             "touch the soft palate with your tongue"
@@ -1453,7 +1453,7 @@
           "stem": "What is the difference between /θ/ in 'thin' and /ð/ in 'then'?",
           "options": [
             "/θ/ uses only the lips.",
-            "/ð/ is made at the soft palate.",
+            "/ð/ is made at the soft palate, but /θ/ is not.",
             "There is no difference.",
             "/ð/ is voiced, and /θ/ is voiceless."
           ],
@@ -1475,7 +1475,7 @@
             "three",
             "there",
             "think",
-            "thank"
+            "thought"
           ],
           "answer": 1,
           "explanation_th": "there = /ðeə/",
@@ -1483,7 +1483,7 @@
             "three ขึ้นต้นด้วย /θ/",
             null,
             "think ขึ้นต้นด้วย /θ/",
-            "thank ขึ้นต้นด้วย /θ/"
+            "thought ขึ้นต้นด้วย /θ/"
           ]
         }
       ],
@@ -1679,7 +1679,7 @@
           "difficulty": 1,
           "stem": "Which word starts with a consonant cluster?",
           "options": [
-            "sing",
+            "sitting",
             "pin",
             "ring",
             "spring"
@@ -1702,7 +1702,7 @@
             "An extra vowel is added inside the /sk/ cluster.",
             "The final /l/ is too long.",
             "The /s/ should be /z/.",
-            "The word needs two syllables."
+            "The word needs two syllables, so 'sa-kool' is correct."
           ],
           "answer": 0,
           "explanation_th": "school ขึ้นต้นด้วย /sk/ ติดกัน ไม่มีสระคั่น",
@@ -1710,7 +1710,7 @@
             null,
             "ปัญหาที่ยกมาอยู่ต้นคำ ไม่ใช่ท้ายคำ",
             "school ขึ้นต้นด้วย /s/ ถูกแล้ว",
-            "school มีพยางค์เดียว การเติมสระทำให้กลายเป็นสองพยางค์"
+            "school มีพยางค์เดียว การเติมสระทำให้กลายเป็นสองพยางค์ ซึ่งผิด"
           ]
         },
         {

@@ -78,7 +78,7 @@
      "options": [
       "to persuade students to study medicine",
       "to inform students about a free vaccination service",
-      "to tell a personal story about being sick",
+      "to tell a personal story about being sick with the flu",
       "to entertain readers with a joke"
      ],
      "answer": 1,
@@ -118,7 +118,7 @@
      "options": [
       "to give practical advice so students can wait less",
       "to warn that the centre closes at noon",
-      "to suggest that vaccinations are dangerous",
+      "to suggest that vaccinations in the morning are dangerous",
       "to complain about the staff"
      ],
      "answer": 0,
@@ -139,7 +139,7 @@
       "to explain how to cook leftover food",
       "to persuade the town council to support a food-sharing app",
       "to describe the history of the town",
-      "to inform readers about restaurant prices"
+      "to inform readers about food prices at restaurants in the town"
      ],
      "answer": 1,
      "explanation_th": "ผู้เขียนเสนอไอเดียและปิดท้ายว่า Our town council should support this idea เป็นการโน้มน้าว",
@@ -198,7 +198,7 @@
      "options": [
       "to teach a recipe step by step",
       "to persuade people never to cook",
-      "to report news about a building fire",
+      "to report news about a fire in the writer's apartment building",
       "to entertain readers with a funny personal story"
      ],
      "answer": 3,
@@ -627,7 +627,7 @@
       "She was angry with Mai.",
       "She wanted to comfort Mai without disturbing her.",
       "She forgot that Mai was at home.",
-      "She wanted Mai to cook dinner."
+      "She wanted Mai to come out of her room and cook dinner."
      ],
      "answer": 1,
      "explanation_th": "วางขนมที่ลูกชอบไว้หน้าห้องโดยไม่เคาะ เป็นการปลอบใจแบบให้พื้นที่",
@@ -771,7 +771,7 @@
      "options": [
       "The sign probably helped reduce the number of missing forks.",
       "Students stole 300 forks to sell them.",
-      "Metal forks are cheaper than plastic ones.",
+      "Metal forks are much cheaper for the canteen than plastic ones.",
       "The canteen went back to plastic forks."
      ],
      "answer": 0,
@@ -792,7 +792,7 @@
       "The clinic had no patients at all.",
       "Appointments often ran late because some patients arrived late.",
       "Patients always arrived early.",
-      "The clinic was closed every afternoon."
+      "The clinic was closed every afternoon, so the mornings were busy."
      ],
      "answer": 1,
      "explanation_th": "หลังมีกฎ คลินิกเสร็จตรงเวลา แสดงว่าก่อนหน้านั้นการมาสายทำให้นัดเลื่อน",
@@ -849,7 +849,7 @@
      "difficulty": 2,
      "stem": "Passage: \"Arm checked the weather app three times before leaving the dorm. He put a raincoat in his bag, wore his old sneakers instead of his new white ones, and wrapped his laptop in a plastic bag.\" **Why did Arm most likely wear his old sneakers?**",
      "options": [
-      "His new shoes were too small.",
+      "His new shoes were too small and hurt his feet when he walked.",
       "He did not want his new white shoes to get wet and dirty.",
       "Old sneakers make him walk faster.",
       "He could not find his new shoes."
@@ -1058,7 +1058,7 @@
       "Teenagers sleep too much.",
       "Classes should start at 9 a.m. instead of 8 a.m.",
       "Parents should change their jobs.",
-      "Traffic is the biggest problem in the city."
+      "Traffic is the biggest problem in the city in the morning."
      ],
      "answer": 1,
      "explanation_th": "ประโยคแรกบอกข้อเสนอหลัก และที่เหลือเป็นเหตุผลสนับสนุน",
@@ -1075,7 +1075,7 @@
      "difficulty": 2,
      "stem": "Passage: \"Our school should start classes at 9 a.m. instead of 8 a.m. Research on teenagers shows that their bodies naturally prefer to sleep and wake later. In one study, students at schools with later start times had better attendance. Some parents worry about traffic and work schedules, but these problems could be solved with flexible drop-off times.\" **What evidence does the writer give?**",
      "options": [
-      "a personal story about being late",
+      "a personal story about the writer being late for school as a teenager",
       "the opinion of a famous singer",
       "a study that linked later start times to better attendance",
       "the cost of school buses"
@@ -1096,7 +1096,7 @@
      "stem": "Passage: \"Our school should start classes at 9 a.m. instead of 8 a.m. Research on teenagers shows that their bodies naturally prefer to sleep and wake later. In one study, students at schools with later start times had better attendance. Some parents worry about traffic and work schedules, but these problems could be solved with flexible drop-off times.\" **How does the writer deal with the opposing view?**",
      "options": [
       "ignores all opposing views",
-      "says parents are wrong but gives no reason",
+      "says parents are wrong to worry but gives no reason",
       "agrees that school should start earlier",
       "mentions parents' worries and suggests a solution"
      ],
@@ -1155,7 +1155,7 @@
      "difficulty": 2,
      "stem": "\"In a survey of 50 students in one dorm, 40 said they prefer studying at night.\" Which conclusion is best supported?",
      "options": [
-      "All students in Thailand prefer studying at night.",
+      "All students in Thailand prefer studying at night rather than in the day.",
       "Studying at night gives better grades.",
       "Most of the students surveyed in that dorm prefer studying at night.",
       "Ten students in the dorm never study."
@@ -1361,7 +1361,7 @@
      "difficulty": 2,
      "stem": "Passage: \"Electric scooters are the future. Anyone who still drives a car to work is simply lazy and selfish. Scooters are cheap, quiet and clean, and the accidents you hear about are always the riders' own fault.\" **Which statement best describes the passage?**",
      "options": [
-      "It is balanced and gives both sides fairly.",
+      "It is balanced: it gives both sides fairly and lists good points about cars too.",
       "It is one-sided: it praises scooters and attacks car drivers without evidence.",
       "It is a scientific report with data.",
       "It mainly explains how to repair scooters."

@@ -323,7 +323,7 @@
           "stem": "Living in a dorm is ___ than living at home because I don't have to travel.",
           "options": [
             "convenienter",
-            "most convenient",
+            "the most convenient",
             "as convenient",
             "more convenient"
           ],
@@ -331,7 +331,7 @@
           "explanation_th": "คุณศัพท์ยาวหลายพยางค์ใช้ more + adj + than",
           "why_wrong": [
             "คำยาวอย่าง convenient ไม่เติม -er",
-            "most ใช้กับขั้นสูงสุด และต้องมี the ไม่ใช้กับ than",
+            "the most ใช้กับขั้นสูงสุด ไม่ใช้กับ than",
             "as convenient ต้องคู่กับ as ไม่ใช่ than",
             null
           ]
@@ -599,7 +599,7 @@
           "difficulty": 1,
           "stem": "A person who works with you at the same company is your ___.",
           "options": [
-            "customer",
+            "regular customer",
             "landlord",
             "classmate",
             "colleague"
@@ -607,7 +607,7 @@
           "answer": 3,
           "explanation_th": "colleague = เพื่อนร่วมงาน",
           "why_wrong": [
-            "customer คือลูกค้า ไม่ได้ทำงานในบริษัทเดียวกับเรา",
+            "regular customer คือลูกค้าประจำ ไม่ได้ทำงานในบริษัทเดียวกับเรา",
             "landlord คือเจ้าของบ้านเช่า",
             "classmate คือเพื่อนร่วมชั้นเรียน ไม่ใช่ที่ทำงาน",
             null
@@ -659,7 +659,7 @@
           "difficulty": 1,
           "stem": "Mali works about 15 hours a week in a café while she studies. She has a ___ job.",
           "options": [
-            "full-time",
+            "full-time office",
             "overtime",
             "part-time",
             "lifetime"
@@ -667,7 +667,7 @@
           "answer": 2,
           "explanation_th": "ทำงานไม่กี่ชั่วโมงต่อสัปดาห์ระหว่างเรียน = งานพาร์ทไทม์",
           "why_wrong": [
-            "งานเต็มเวลามักราว 40 ชั่วโมงต่อสัปดาห์ ไม่ใช่ 15",
+            "งานเต็มเวลามักราว 40 ชั่วโมงต่อสัปดาห์ ไม่ใช่ 15 และเธอทำงานในคาเฟ่ ไม่ใช่ออฟฟิศ",
             "overtime คือการทำงานล่วงเวลา ไม่ใช่ประเภทงาน",
             null,
             "lifetime แปลว่าตลอดชีวิต ไม่ใช้บอกประเภทงาน"
@@ -813,7 +813,7 @@
             "solar power",
             "coal",
             "oil",
-            "natural gas"
+            "natural gas power"
           ],
           "answer": 0,
           "explanation_th": "พลังงานแสงอาทิตย์ใช้แล้วไม่หมด จึงเป็นพลังงานหมุนเวียน",
@@ -893,7 +893,7 @@
             "higher sea levels as ice melts",
             "more ice at the North Pole",
             "colder summers everywhere",
-            "less carbon dioxide in the air"
+            "less carbon dioxide in the air we breathe"
           ],
           "answer": 0,
           "explanation_th": "น้ำแข็งละลายและน้ำทะเลขยายตัวเมื่ออุ่นขึ้น ระดับน้ำทะเลจึงสูงขึ้น",
@@ -1507,7 +1507,7 @@
           "options": [
             "hi",
             "(no subject)",
-            "URGENT!!! PLEASE READ!!!",
+            "URGENT!!! PLEASE READ NOW!!!",
             "Late submission: Essay 1"
           ],
           "answer": 3,

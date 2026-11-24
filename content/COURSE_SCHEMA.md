@@ -36,6 +36,8 @@ One file per course: `content/courses/<CODE>.json` (e.g. `GE011.json`).
 Rules:
 - Exactly one defensible answer per question. `why_wrong` aligned with options, `null` at the answer, a specific Thai reason for each distractor.
 - Spread answers evenly over positions 0-3 within each course.
+- The correct option may be the longest (or tied longest) in at most half of a course's questions; make distractors as long and plausible as the answer.
+- Questions must stand alone (Quick Run shows them without the cards): a question about a passage carries it in the stem as `Passage: "..."`.
 - Thai for explanation; English for terms, `say`, and (for English-language courses) stems. GE courses may use Thai stems with English key terms in brackets, because the student is an English major and should learn the English terms.
 - Original writing only. No copying from textbooks or websites. Facts must be well-established and non-controversial; if unsure, leave it out.
 - No em-dash characters. No invented facts about the student or about BU beyond the curriculum text.

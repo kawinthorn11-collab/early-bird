@@ -103,7 +103,7 @@
           "difficulty": 1,
           "stem": "In 3(3-0-6), what does the 6 mean?",
           "options": [
-            "6 hours of lecture each week",
+            "6 hours of lecture in class each week",
             "6 credits",
             "6 hours of self-study each week",
             "6 exams in the term"
@@ -126,7 +126,7 @@
             "The course gives 0 credits",
             "There is no final exam",
             "There are no lab or practice hours",
-            "You do not need to study at home"
+            "You do not need to study at home at all"
           ],
           "answer": 2,
           "explanation_th": "ตัวกลางในวงเล็บคือชั่วโมงปฏิบัติ ซึ่งวิชานี้ไม่มี",
@@ -143,7 +143,7 @@
           "difficulty": 1,
           "stem": "ENL102 has the prerequisite ENL101. What does this mean?",
           "options": [
-            "You must take both in the same term",
+            "You must take both courses together in the same term",
             "ENL101 is optional",
             "You must study ENL102 first",
             "You must study ENL101 before you take ENL102"
@@ -246,7 +246,7 @@
             "Your student ID card",
             "A course document with topics, assignments and how you are graded",
             "A map of the university",
-            "A list of all the students in the class"
+            "A list of all the students in the class and their student ID numbers"
           ],
           "answer": 1,
           "explanation_th": "syllabus บอกหัวข้อ งาน และเกณฑ์ให้คะแนนของวิชา",
@@ -363,7 +363,7 @@
             "Excuse me, what does 'deadline' mean?",
             "Excuse me, what time is it?",
             "Excuse me, can I go home?",
-            "Excuse me, where is the deadline?"
+            "Excuse me, where is the deadline in this room?"
           ],
           "answer": 0,
           "explanation_th": "ถามความหมายของคำตรงตามที่ต้องการ",
@@ -442,7 +442,7 @@
           "options": [
             "Your home address and phone bill",
             "Your name, student ID and course",
-            "A long story about your weekend",
+            "A long story about your weekend trip",
             "Your password"
           ],
           "answer": 1,
@@ -483,7 +483,7 @@
             "Give me two more days.",
             "Would it be possible to have a two-day extension?",
             "I will send it whenever I want.",
-            "My friend says you always give extensions."
+            "My friend says you always give extensions to everyone."
           ],
           "answer": 1,
           "explanation_th": "ขอแบบสุภาพและบอกจำนวนวันชัดเจน",
@@ -502,7 +502,7 @@
           "options": [
             "Hours when the office is closed",
             "The times of the final exams",
-            "Hours you must work in an office",
+            "Hours that students must work in a university office",
             "Times when a lecturer is free to meet students"
           ],
           "answer": 3,
@@ -637,7 +637,7 @@
           "options": [
             "Yes, because the idea belongs to the author",
             "No, because the words are yours now",
-            "No, only direct quotes need citations",
+            "No, only direct quotes with quotation marks need citations",
             "Only if the book is in English"
           ],
           "answer": 0,
@@ -697,7 +697,7 @@
           "options": [
             "Use it and hide it",
             "Check the course rules or ask the lecturer",
-            "Copy its answer and submit it as your work",
+            "Copy its answer and submit it as your own work",
             "Assume every course allows any AI use"
           ],
           "answer": 1,
@@ -738,7 +738,7 @@
             "There is no problem because it is your work",
             "It is fine if you change the title",
             "It can count as self-plagiarism unless the lecturer allows it",
-            "It is fine because high school work does not count"
+            "It is fine because high school work does not count at university"
           ],
           "answer": 2,
           "explanation_th": "งานใหม่ควรเป็นงานใหม่ ถ้าจะใช้งานเก่าต้องได้รับอนุญาต",
@@ -939,7 +939,7 @@
           "stem": "Why are example sentences in a dictionary useful?",
           "options": [
             "They show how the word is used in real sentences",
-            "They give a Thai translation of every word",
+            "They give a Thai translation of every single word",
             "They show the price of the dictionary",
             "They only tell the history of the word"
           ],
@@ -1136,7 +1136,7 @@
           "difficulty": 1,
           "stem": "What does the minus sign do in 'python -snake'?",
           "options": [
-            "It searches for python and snake together",
+            "It searches for python and snake together on the same page",
             "It finds only pictures",
             "It removes results that include the word snake",
             "It searches only in Thai"
@@ -1456,7 +1456,7 @@
           "options": [
             "By the date you read each source",
             "By the length of each source",
-            "In the order the sources appear in your essay",
+            "In the order the sources first appear in your essay",
             "Alphabetically by the first author's last name"
           ],
           "answer": 3,

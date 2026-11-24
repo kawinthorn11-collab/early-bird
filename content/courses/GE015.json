@@ -74,7 +74,7 @@
           "difficulty": 1,
           "stem": "An entrepreneur is a person who ___.",
           "options": [
-            "only works for the government",
+            "only works in a government office and gets a fixed salary",
             "starts a business to solve a problem and takes some risk",
             "never takes any risk",
             "buys things only for fun"
@@ -94,7 +94,7 @@
           "difficulty": 1,
           "stem": "ข้อใดแสดง 'การคิดแบบเจ้าของ' (owner mindset) ในฐานะพนักงานร้านกาแฟ",
           "options": [
-            "ทำเฉพาะงานที่ถูกสั่ง แม้เห็นปัญหาชัดเจน",
+            "ทำเฉพาะงานที่ถูกสั่งอย่างตั้งใจ แม้เห็นปัญหาของร้านชัดเจน",
             "โทษเพื่อนร่วมงานทุกครั้งที่มีปัญหา",
             "รีบกลับเมื่อหมดกะโดยไม่เก็บร้าน",
             "เห็นลูกค้ารอคิวนาน จึงเสนอวิธีจัดคิวใหม่ให้หัวหน้า"
@@ -134,7 +134,7 @@
           "difficulty": 2,
           "stem": "ข้อใดเป็นความคิดสร้างสรรค์แบบ 'นำของเดิมมาผสมกัน'",
           "options": [
-            "เปิดร้านกาแฟให้เหมือนร้านข้าง ๆ ทุกอย่าง",
+            "เปิดร้านกาแฟให้เหมือนร้านข้าง ๆ ทุกอย่าง ทั้งเมนู ราคา และการตกแต่งร้าน",
             "ขึ้นราคาสินค้าเดิมโดยไม่เปลี่ยนอะไรเลย",
             "ร้านซักผ้าหยอดเหรียญที่มีมุมนั่งทำงานและกาแฟให้ลูกค้าระหว่างรอ",
             "หยุดขายสินค้าทุกอย่าง"
@@ -154,7 +154,7 @@
           "difficulty": 2,
           "stem": "What is a 'calculated risk'?",
           "options": [
-            "A risk you take without thinking",
+            "A risk you take quickly without thinking about what could happen",
             "A risk that is always zero",
             "A math test about money",
             "A risk you take after thinking about what could happen"
@@ -177,7 +177,7 @@
             "เป็นสัญญาณว่าห้ามลองอะไรใหม่อีก",
             "เป็นข้อมูลที่บอกว่าควรปรับอะไร แล้วลองใหม่ให้ดีขึ้น",
             "เป็นความผิดของลูกค้าทั้งหมด",
-            "เป็นเรื่องที่ต้องปิดไม่ให้ทีมรู้"
+            "เป็นเรื่องที่ต้องปิดไม่ให้ทีมรู้ เพื่อไม่ให้ทุกคนเสียกำลังใจ"
           ],
           "answer": 1,
           "explanation_th": "ความล้มเหลวช่วยให้เรียนรู้และปรับแผน",
@@ -194,7 +194,7 @@
           "difficulty": 3,
           "stem": "Pim sees students carry heavy books. She makes a cheap book bag with wheels. Which trait does this show most?",
           "options": [
-            "Copying a famous brand exactly",
+            "Copying a famous brand's bag design exactly",
             "Avoiding all customers",
             "Spotting a problem and creating a solution",
             "Spending money without a plan"
@@ -216,7 +216,7 @@
           "options": [
             "รอให้ทุกอย่างพร้อมร้อยเปอร์เซ็นต์ก่อนจึงเริ่มทำ",
             "กล้าลงมือทดลองในขนาดเล็ก",
-            "รับฟังความคิดเห็นของลูกค้า",
+            "รับฟังความคิดเห็นของลูกค้า แล้วนำมาปรับสินค้าให้ดีขึ้น",
             "มีความคิดสร้างสรรค์"
           ],
           "answer": 0,
@@ -333,7 +333,7 @@
             "นักศึกษาปี 1 ที่อยู่หอใกล้มหาวิทยาลัยและไม่มีครัว",
             "ทุกคนในประเทศ",
             "คนที่มีเงิน",
-            "ใครก็ได้ที่เดินผ่านมา"
+            "ใครก็ได้ที่เดินผ่านมาหน้าร้าน ไม่ว่าจะเป็นใครหรืออายุเท่าไร"
           ],
           "answer": 0,
           "explanation_th": "ระบุทั้งกลุ่มคน ที่อยู่ และความต้องการ จึงชัดเจนที่สุด",
@@ -370,7 +370,7 @@
           "difficulty": 2,
           "stem": "In business, what is an MVP?",
           "options": [
-            "The most valuable player in a sports game",
+            "The most valuable player of the season in a sports game or tournament",
             "A product with every feature finished",
             "A big loan from a bank",
             "A simple first version of a product to test with real customers"
@@ -393,7 +393,7 @@
             "นักศึกษาหลายคนบ่นว่าหาที่ปริ้นงานตอนดึกไม่ได้ และบอกว่ายอมจ่ายเพื่อความสะดวก",
             "เราชอบทำขนม แต่ยังไม่รู้ว่ามีใครอยากซื้อ",
             "สินค้าที่ต้นทุนถูกมาก แต่ไม่มีใครต้องการ",
-            "เปิดร้านตามเพื่อนโดยไม่ดูว่าแถวนั้นมีกี่ร้าน"
+            "เปิดร้านตามเพื่อนเพราะเห็นว่าขายดี โดยไม่ดูว่าแถวนั้นมีร้านแบบเดียวกันอยู่แล้วกี่ร้าน"
           ],
           "answer": 0,
           "explanation_th": "มีปัญหาจริง มีคนเจอหลายคน และมีคนยอมจ่าย",
@@ -411,7 +411,7 @@
           "stem": "In a Lean Canvas, 'Unique Value Proposition' means ___.",
           "options": [
             "the price of your shop's rent",
-            "the list of your workers' names",
+            "the full list of your workers' names and their working hours",
             "the clear reason customers should choose you, not others",
             "the number of shops in Thailand"
           ],
@@ -453,7 +453,7 @@
             "เพราะทางแก้ไม่สำคัญเลย",
             "เพื่อให้แน่ใจว่ากำลังแก้สิ่งที่ลูกค้าเดือดร้อนจริง ไม่ใช่สิ่งที่เราคิดไปเอง",
             "เพราะลูกค้าชอบมีปัญหา",
-            "เพื่อให้ใช้เงินลงทุนมากขึ้น"
+            "เพื่อให้ใช้เงินลงทุนมากขึ้น และทำให้สินค้าดูยิ่งใหญ่น่าเชื่อถือในสายตาของลูกค้า"
           ],
           "answer": 1,
           "explanation_th": "ถ้าไม่มีปัญหาจริง ทางแก้ที่ดีแค่ไหนก็ขายไม่ได้",
@@ -542,7 +542,7 @@
           "stem": "Which is honest business behavior?",
           "options": [
             "Hiding a broken part before selling",
-            "Saying '100% natural' when it is not",
+            "Saying '100% natural' on the label when that is not true at all",
             "Using fake reviews",
             "Telling customers the real size and price of a product"
           ],
@@ -624,7 +624,7 @@
             "เจ้าของร้านคนเดียว",
             "ลูกค้า พนักงาน ผู้ขายวัตถุดิบ และชุมชนรอบร้าน",
             "ลูกค้าเท่านั้น",
-            "เฉพาะคนที่ลงทุนในร้าน"
+            "เฉพาะคนที่ลงทุนในร้าน และครอบครัวของเจ้าของร้านเท่านั้น"
           ],
           "answer": 1,
           "explanation_th": "ทุกกลุ่มนี้ได้รับผลจากการทำงานของร้าน",
@@ -632,7 +632,7 @@
             "ไม่ครบ ยังมีคนอื่นที่ได้รับผลจากร้าน",
             null,
             "ไม่ครบ ขาดพนักงาน ผู้ขาย และชุมชน",
-            "ไม่ครบ ขาดลูกค้า พนักงาน และชุมชน"
+            "ไม่ครบ ขาดลูกค้า พนักงาน ผู้ขายวัตถุดิบ และชุมชน"
           ]
         },
         {
@@ -642,7 +642,7 @@
           "stem": "Which is an example of CSR?",
           "options": [
             "A company raises prices for no reason",
-            "A company hides its pollution reports",
+            "A company hides its pollution reports from the public",
             "A company pays its workers late",
             "A company helps clean the river near its factory"
           ],
@@ -684,7 +684,7 @@
             "ลดราคาให้ขายหมดเร็ว ๆ",
             "ขายต่อเพราะยังไม่มีใครบ่น",
             "หยุดขายล็อตนั้น แจ้งลูกค้าที่ซื้อไปแล้ว และหาสาเหตุไม่ให้เกิดซ้ำ",
-            "ทิ้งขนมที่เหลือ แต่ไม่บอกลูกค้าที่ซื้อไปแล้ว"
+            "ทิ้งขนมที่เหลือทั้งหมดทันที แต่ไม่บอกลูกค้าที่ซื้อไปแล้วเพราะกลัวเสียชื่อ"
           ],
           "answer": 2,
           "explanation_th": "ปกป้องลูกค้าทั้งคนที่ซื้อแล้วและที่จะซื้อ และแก้ที่ต้นเหตุ",
@@ -842,7 +842,7 @@
           "difficulty": 2,
           "stem": "An emergency fund is money for ___.",
           "options": [
-            "buying a new phone when a new model comes out",
+            "buying a new phone and case as soon as a new model comes out",
             "unexpected problems, like getting sick or losing a job",
             "a holiday trip",
             "lending to friends for online games"
@@ -865,7 +865,7 @@
             "เท่ากับค่าใช้จ่าย 1 วัน",
             "ไม่ต้องมี ถ้ายังเป็นนักศึกษา",
             "3 ถึง 6 เท่าของค่าใช้จ่ายต่อเดือน",
-            "เก็บเงินทุกบาทที่มีไว้ ห้ามใช้เลย"
+            "เก็บเงินทุกบาทที่มีไว้ทั้งหมด ห้ามใช้เลย"
           ],
           "answer": 2,
           "explanation_th": "เป็นแนวทางทั่วไปที่ใช้เป็นจุดเริ่มต้น แต่ละคนปรับได้ตามสถานการณ์",
@@ -904,7 +904,7 @@
           "options": [
             "หนี้หมดเร็วขึ้นเพราะจ่ายตรงเวลา",
             "ยอดที่เหลือถูกคิดดอกเบี้ย หนี้จึงลดช้าและจ่ายรวมแพงขึ้น",
-            "ไม่มีดอกเบี้ยเลยเพราะจ่ายขั้นต่ำแล้ว",
+            "ไม่มีดอกเบี้ยเลย เพราะธนาคารนับว่าจ่ายขั้นต่ำตรงเวลาครบแล้ว",
             "ธนาคารยกหนี้ส่วนที่เหลือให้"
           ],
           "answer": 1,
@@ -924,7 +924,7 @@
           "options": [
             "บอก OTP เพราะเขารู้ชื่อเราถูกต้อง",
             "กดลิงก์ที่เขาส่งมาเพื่อยืนยันตัวตน",
-            "โอนเงินไปบัญชีที่เขาบอกเพื่อความปลอดภัย",
+            "โอนเงินไปบัญชีที่เขาบอก เพื่อย้ายเงินไปเก็บไว้ให้ปลอดภัย",
             "ไม่บอก OTP วางสาย แล้วโทรหาธนาคารเองจากเบอร์ทางการ"
           ],
           "answer": 3,
@@ -1014,7 +1014,7 @@
           "difficulty": 1,
           "stem": "In investing, 'return' means ___.",
           "options": [
-            "the day you go back to school",
+            "the day you go back to school after a long holiday",
             "the money you gain or lose from an investment",
             "the bank's opening hours",
             "the tax you must pay"
@@ -1074,7 +1074,7 @@
           "difficulty": 2,
           "stem": "ถ้าเงินเฟ้อปีละ 3% แต่เงินฝากได้ดอกเบี้ยปีละ 1% ข้อใดถูกต้อง",
           "options": [
-            "เงินจำนวนนั้นซื้อของได้มากขึ้น",
+            "เงินจำนวนนั้นซื้อของได้มากขึ้น เพราะได้ดอกเบี้ยเพิ่มเข้ามาในบัญชีทุกปี",
             "ไม่มีผลอะไรเลย",
             "เงินจำนวนนั้นซื้อของได้น้อยลง เพราะราคาของขึ้นเร็วกว่าดอกเบี้ย",
             "ราคาของจะลดลง 3%"
@@ -1117,7 +1117,7 @@
             "กู้เงินมาลงทุนให้มากที่สุด",
             "มีเงินสำรองฉุกเฉิน และเข้าใจสิ่งที่จะลงทุน",
             "ลงทุนตามคลิปที่ยอดวิวสูงทันที",
-            "ใช้เงินค่าเทอมไปลงทุนเพื่อให้ได้กำไรเร็ว"
+            "ใช้เงินค่าเทอมไปลงทุนก่อน เพื่อให้ได้กำไรเร็วทันเปิดเทอม"
           ],
           "answer": 1,
           "explanation_th": "ถ้ามีเหตุฉุกเฉินจะไม่ต้องขายสิ่งที่ลงทุนตอนขาดทุน และไม่ลงทุนในสิ่งที่ไม่เข้าใจ",
@@ -1156,7 +1156,7 @@
           "options": [
             "ถ้าต้องใช้เงินเร็ว ไม่ควรเลือกสิ่งที่ราคาขึ้นลงแรง เพราะอาจต้องขายตอนขาดทุน",
             "ระยะเวลาไม่มีผลกับความเสี่ยงเลย",
-            "ยิ่งต้องใช้เงินเร็ว ยิ่งควรเสี่ยงมาก",
+            "ยิ่งต้องใช้เงินเร็ว ยิ่งควรเลือกสิ่งที่เสี่ยงมาก เพื่อให้ได้กำไรทันเวลาที่ต้องใช้เงิน",
             "ควรซื้อขายทุกวันเพื่อลดความเสี่ยง"
           ],
           "answer": 0,
@@ -1306,7 +1306,7 @@
           "stem": "Your team has a project. One member is good at design. What should a good leader do?",
           "options": [
             "Do all the design alone",
-            "Give that member only easy tasks like printing",
+            "Give that member only easy tasks like printing and buying snacks",
             "Ask everyone to do the same task",
             "Give that member the design part and check in regularly"
           ],
@@ -1326,7 +1326,7 @@
           "stem": "Which is a sustainable business choice?",
           "options": [
             "Using refill bottles to reduce plastic waste",
-            "Throwing waste into a canal to save money",
+            "Throwing waste into a canal at night to save money",
             "Paying workers less than the law requires",
             "Using more packaging than needed"
           ],
@@ -1365,7 +1365,7 @@
           "difficulty": 3,
           "stem": "In a meeting, two members disagree. What should a good team member do first?",
           "options": [
-            "Choose the side of the louder person",
+            "Choose the side of the louder, more confident person",
             "Leave the group chat",
             "Say the problem is not important",
             "Listen to both sides and look for facts"

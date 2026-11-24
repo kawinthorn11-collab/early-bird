@@ -70,7 +70,7 @@
      "difficulty": 1,
      "stem": "Would you like ___ dinner with us on Friday?",
      "options": [
-      "having",
+      "to having",
       "have",
       "to have",
       "had"
@@ -78,7 +78,7 @@
      "answer": 2,
      "explanation_th": "would like + to + V",
      "why_wrong": [
-      "would like ตามด้วย to + V",
+      "would like ตามด้วย to + กริยาช่อง 1 ไม่ใช่ to + V-ing",
       "ขาด to",
       null,
       "หลัง would like ไม่ใช้กริยาช่อง 2"
@@ -113,7 +113,7 @@
       "opening",
       "to open",
       "open",
-      "opened"
+      "to opening"
      ],
      "answer": 0,
      "explanation_th": "Would you mind + V-ing?",
@@ -121,7 +121,7 @@
       null,
       "would you mind ตามด้วย V-ing",
       "หลัง mind ใช้กริยาช่อง 1 ไม่ได้",
-      "หลัง mind ใช้กริยาช่อง 2 ไม่ได้"
+      "หลัง mind ใช้ V-ing ได้เลย ไม่ต้องมี to"
      ]
     },
     {
@@ -213,7 +213,7 @@
       "going",
       "to go",
       "go",
-      "went"
+      "to going"
      ],
      "answer": 0,
      "explanation_th": "How about + V-ing? ใช้ชวนหรือเสนอ",
@@ -221,7 +221,7 @@
       null,
       "How about ตามด้วย V-ing",
       "หลัง How about ใช้กริยาช่อง 1 ไม่ได้",
-      "หลัง How about ใช้กริยาช่อง 2 ไม่ได้"
+      "How about ตามด้วย V-ing ได้เลย ไม่ต้องมี to"
      ]
     }
    ],
@@ -356,7 +356,7 @@
      "options": [
       "It's in the office.",
       "Ms. Lee wrote it.",
-      "It's about tourism.",
+      "It's about tourism in Bangkok.",
       "It's due next Monday."
      ],
      "answer": 3,
@@ -417,7 +417,7 @@
       "When does the new schedule start?",
       "Who made the new schedule?",
       "What do you think of the new schedule?",
-      "Where can I find the new schedule?"
+      "Where can I find a copy of the new schedule?"
      ],
      "answer": 2,
      "explanation_th": "What do you think of...? ถามความคิดเห็น",
@@ -525,7 +525,7 @@
       "a bit expensive",
       "more expensiver",
       "a bit more expensive",
-      "the most expensive"
+      "the most expensive of all"
      ],
      "answer": 2,
      "explanation_th": "a bit + more + adjective ยาว + than",
@@ -564,7 +564,7 @@
      "options": [
       "because",
       "so",
-      "unless",
+      "as long as",
       "whereas"
      ],
      "answer": 3,
@@ -572,7 +572,7 @@
      "why_wrong": [
       "ประโยคหลังไม่ได้เป็นเหตุผลของประโยคแรก",
       "ประโยคหลังไม่ได้เป็นผลของประโยคแรก",
-      "unless แปลว่า เว้นแต่ ไม่เข้ากับการเทียบ",
+      "as long as แปลว่า ตราบใดที่ ใช้บอกเงื่อนไข ไม่ใช่การเทียบ",
       null
      ]
     },
@@ -585,7 +585,7 @@
       "Plan A is not as cheap as Plan B.",
       "Plan B is not as cheap as Plan A.",
       "Plan A is as expensive as Plan B.",
-      "Plan B is cheaper than Plan A."
+      "Plan B is a lot cheaper than Plan A."
      ],
      "answer": 1,
      "explanation_th": "B ไม่ถูกเท่า A แปลว่า A ถูกกว่า",
@@ -605,7 +605,7 @@
       "very",
       "much",
       "more",
-      "many"
+      "so many"
      ],
      "answer": 1,
      "explanation_th": "much + comparative บอกว่าดีกว่ามาก",
@@ -1211,7 +1211,7 @@
      "stem": "A: Sorry, can I just finish my point? B: ___",
      "options": [
       "No, it's my turn.",
-      "Yes, I am finished.",
+      "Yes, I am finished with my point.",
       "Of course, go ahead.",
       "Point is good."
      ],
@@ -1219,7 +1219,7 @@
      "explanation_th": "ให้อีกฝ่ายพูดต่อด้วย Of course, go ahead.",
      "why_wrong": [
       "ไม่ให้อีกฝ่ายพูดจบ ไม่สุภาพ",
-      "ตอบไม่ตรงคำขอ",
+      "ตอบไม่ตรงคำขอ อีกฝ่ายขอพูดต่อ ไม่ได้ถามว่าเราพูดจบหรือยัง",
       null,
       "ผิดไวยากรณ์และไม่ได้ให้พูดต่อ"
      ]
@@ -1232,7 +1232,7 @@
      "options": [
       "Let's change the topic.",
       "Let's get back to the main question.",
-      "Anyway, what did you eat today?",
+      "Anyway, what did you eat for lunch today?",
       "I have no idea."
      ],
      "answer": 1,

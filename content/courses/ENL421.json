@@ -171,7 +171,7 @@
           "stem": "A research gap is ____.",
           "options": [
             "a grammar mistake in your report",
-            "the empty space between two paragraphs",
+            "the empty space between two paragraphs on a page of your report",
             "the time between two surveys",
             "a topic or question that earlier studies have not yet studied"
           ],
@@ -251,7 +251,7 @@
           "stem": "What is an abstract?",
           "options": [
             "a short summary of the whole study at the beginning of the paper",
-            "a list of sources at the end of the paper",
+            "a list of all the sources you used, placed at the end of the paper",
             "the first rough draft of the report",
             "a table that shows the results"
           ],
@@ -409,7 +409,7 @@
           "options": [
             "how new the source is",
             "who wrote the source and whether they are qualified",
-            "whether the source fits your research question",
+            "whether the source fits your research question and your topic",
             "why the source was written"
           ],
           "answer": 1,
@@ -508,7 +508,7 @@
           "stem": "You are studying Thai students' attitudes to English. Which is a primary source?",
           "options": [
             "the survey answers you collected from the students",
-            "a textbook chapter that summarises earlier studies",
+            "a textbook chapter that summarises earlier studies on the topic",
             "a news article that reports on a study",
             "a published literature review on the topic"
           ],
@@ -625,7 +625,7 @@
           "stem": "Which sentence is the most formal?",
           "options": [
             "Lots of kids didn't do the survey.",
-            "Tons of students skipped the survey, lol.",
+            "Tons of students totally skipped the survey, lol.",
             "A bunch of students didn't finish it.",
             "Many students did not complete the survey."
           ],
@@ -666,7 +666,7 @@
           "options": [
             "Podcasts always improve listening.",
             "The results suggest that podcasts may help some learners.",
-            "This proves that podcasts are the best method.",
+            "This proves that podcasts are the best method for every learner.",
             "Every student loves podcasts."
           ],
           "answer": 1,
@@ -674,7 +674,7 @@
           "why_wrong": [
             "always ฟันธงเกินไป",
             null,
-            "proves และ the best อ้างเกินหลักฐาน",
+            "proves, the best และ every อ้างเกินหลักฐาน",
             "every เหมารวมทุกคน"
           ]
         },
@@ -899,7 +899,7 @@
           "options": [
             "be much shorter than the original and keep only the main ideas",
             "be longer than the original",
-            "include the writer's own opinion of the text",
+            "include the writer's own opinion of the text and whether it is good",
             "copy the first and last sentences"
           ],
           "answer": 0,
@@ -998,7 +998,7 @@
           "stem": "How is a good literature review usually organised?",
           "options": [
             "by themes, with several sources discussed together under each theme",
-            "as separate summaries, one source after another, with no links",
+            "as separate summaries, one source after another, with no links between them",
             "by the length of each source",
             "by how much the writer likes each source"
           ],
@@ -1249,7 +1249,7 @@
           "difficulty": 2,
           "stem": "In APA 7, how should a direct quotation of 40 words or more be shown?",
           "options": [
-            "inside quotation marks in the normal paragraph",
+            "inside quotation marks in the normal paragraph, like a short quote",
             "in bold letters",
             "as an indented block quotation without quotation marks",
             "in a footnote at the bottom of the page"
@@ -1824,7 +1824,7 @@
           "options": [
             "the first sentence of the abstract",
             "a list of sources",
-            "a repeat of your own claim with no reasons",
+            "a repeat of your own claim in stronger words, with no new reasons",
             "a reply that shows why the opposing view is weaker"
           ],
           "answer": 3,

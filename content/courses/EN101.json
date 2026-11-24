@@ -382,7 +382,7 @@
      "options": [
       "working with",
       "work with",
-      "worked with",
+      "have worked with",
       "works with"
      ],
      "answer": 0,
@@ -390,7 +390,7 @@
      "why_wrong": [
       null,
       "หลัง look forward to ต้องเป็น V-ing เพราะ to เป็นบุพบท",
-      "หลัง to ไม่ใช้กริยาช่อง 2",
+      "หลัง to ที่เป็นบุพบทต้องใช้ V-ing ไม่ใช้ have + กริยาช่อง 3",
       "หลัง to ไม่ใช้กริยาเติม -s"
      ]
     },
@@ -441,7 +441,7 @@
      "stem": "My name is Nok, ___ I'm from Chiang Rai.",
      "options": [
       "but",
-      "or",
+      "unless",
       "so",
       "and"
      ],
@@ -449,7 +449,7 @@
      "explanation_th": "เพิ่มข้อมูลต่อกันใช้ and",
      "why_wrong": [
       "ไม่มีความขัดแย้งระหว่างสองข้อมูล",
-      "or ใช้กับตัวเลือก",
+      "unless แปลว่า เว้นแต่ ใช้บอกเงื่อนไข ไม่ใช่การเพิ่มข้อมูล",
       "ชื่อไม่ใช่เหตุผลที่ทำให้มาจากเชียงราย",
       null
      ]
@@ -775,7 +775,7 @@
      "stem": "I enjoy ___ English songs.",
      "options": [
       "to listen to",
-      "listen to",
+      "have listened to",
       "listened to",
       "listening to"
      ],
@@ -783,7 +783,7 @@
      "explanation_th": "enjoy + V-ing",
      "why_wrong": [
       "enjoy ตามด้วย V-ing เท่านั้น",
-      "หลัง enjoy ใช้กริยาช่อง 1 ไม่ได้",
+      "หลัง enjoy ใช้ V-ing ไม่ใช้ have + กริยาช่อง 3",
       "หลัง enjoy ใช้กริยาช่อง 2 ไม่ได้",
       null
      ]
@@ -917,7 +917,7 @@
       "to wash",
       "wash",
       "washing",
-      "washed"
+      "have washed"
      ],
      "answer": 2,
      "explanation_th": "don't mind + V-ing",
@@ -925,7 +925,7 @@
       "don't mind ตามด้วย V-ing",
       "หลัง don't mind ใช้กริยาช่อง 1 ไม่ได้",
       null,
-      "หลัง don't mind ใช้กริยาช่อง 2 ไม่ได้"
+      "หลัง don't mind ใช้ V-ing ไม่ใช้ have + กริยาช่อง 3"
      ]
     }
    ],
@@ -1305,7 +1305,7 @@
       "The writer studies better at night.",
       "The writer likes mornings.",
       "The writer skips breakfast.",
-      "The writer has no morning classes."
+      "The writer has no classes in the morning."
      ],
      "answer": 0,
      "explanation_th": "I study best at night แปลว่าเรียนตอนกลางคืนได้ดีที่สุด",
@@ -1324,7 +1324,7 @@
      "options": [
       "I don't care.",
       "Cool! What songs are you learning?",
-      "A guitar is a musical instrument.",
+      "A guitar is a musical instrument with six strings.",
       "Yes, I started."
      ],
      "answer": 1,
@@ -1343,7 +1343,7 @@
      "stem": "You introduce your partner to the class. What do you say?",
      "options": [
       "This is Fern. I'm from Chiang Rai.",
-      "He is Fern. She from Chiang Rai.",
+      "He is my friend Fern. She from Chiang Rai.",
       "This is Fern. She's from Chiang Rai.",
       "Fern, she are from Chiang Rai."
      ],
@@ -1351,7 +1351,7 @@
      "explanation_th": "แนะนำคนอื่นใช้ This is ... แล้วตามด้วย she / he",
      "why_wrong": [
       "พูดถึงเพื่อนแต่ใช้ I ทำให้ข้อมูลกลายเป็นของตัวเอง",
-      "ใช้สรรพนามสลับกัน และขาด is",
+      "ใช้สรรพนามสลับกัน (He กับ She) และขาด is",
       null,
       "she ต้องใช้ is"
      ]
