@@ -1,0 +1,1787 @@
+{
+ "code": "ENL451",
+ "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+ "in_class_th": [
+  "น่าจะได้แปลประโยคและข้อความภาษาไทยเป็นภาษาอังกฤษ แล้วเทียบหลายสำนวนในห้องว่าแบบไหนเป็นธรรมชาติที่สุด ข้อนี้คาดจากหัวข้อหลักการและแนวทางการแก้ปัญหาในการแปล",
+  "อาจมีแบบฝึกเติมสิ่งที่ภาษาไทยไม่ได้บอก เช่น a/the พหูพจน์ tense และประธาน เป็นการเดาจากหัวข้อความแตกต่างด้านโครงสร้างของภาษา",
+  "น่าจะได้ฝึกแปลคำที่ผูกกับวัฒนธรรมไทย เช่น เกรงใจ ชื่ออาหาร และคำเรียกอย่าง คุณ พี่ ข้อนี้คาดจากคำว่า วัฒนธรรม ในคำอธิบายรายวิชา",
+  "อาจต้องแปลงานจริงหลายแบบ เช่น ป้าย เมนู อีเมล ข่าวสั้น และข้อความท่องเที่ยว เพราะคำอธิบายรายวิชาเขียนว่า งานเขียนประเภทต่าง ๆ รายละเอียดขึ้นกับอาจารย์ผู้สอน"
+ ],
+ "units": [
+  {
+   "id": "ENL451-U1",
+   "title_th": "แปลความหมาย และเติมประธานที่ไทยละไว้",
+   "title_en": "Meaning first: restoring dropped subjects",
+   "covers": "หลักการและแนวทางการแก้ปัญหาในการแปลภาษาไทยเป็นภาษาอังกฤษ",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "แปลความหมาย ไม่ใช่แปลทีละคำ",
+     "body_th": "ENL451 เป็นด้านกลับของ ENL352 คราวนี้เราเขียนภาษาอังกฤษ หลักแรกคืออ่านภาษาไทยให้เข้าใจก่อนว่าผู้พูดหมายถึงอะไร แล้วเขียนแบบที่คนพูดอังกฤษเขียน ไม่ใช่เอาคำไทยมาเรียงต่อกัน",
+     "example": "ไปไหนมา → Where have you been? (ไม่ใช่ Go where come?)"
+    },
+    {
+     "title_th": "ภาษาไทยละประธานได้ อังกฤษละไม่ได้",
+     "body_th": "ประโยคไทยมักไม่มีประธาน เช่น กินแล้ว ไปไม่ทัน แต่ประโยคอังกฤษเกือบทุกประโยคต้องมีประธาน ให้ดูบริบทว่าใครเป็นคนทำ แล้วเติม I, you, we, he, she หรือ it",
+     "example": "กินแล้ว → I've already eaten."
+    },
+    {
+     "title_th": "it ช่วยเรื่องอากาศและเวลา",
+     "body_th": "ประโยคไทยเรื่องอากาศ เวลา ระยะทาง ไม่มีประธาน แต่ภาษาอังกฤษใช้ it เป็นประธาน",
+     "example": "ฝนตก → It's raining. สามโมงแล้ว → It's three o'clock."
+    },
+    {
+     "title_th": "เช็ก 3 ข้อทุกครั้ง",
+     "body_th": "หนึ่ง ความหมายครบไหม สอง ไวยากรณ์ถูกไหม (ประธาน กริยา tense) สาม อ่านแล้วเป็นธรรมชาติไหม ลองอ่านภาษาอังกฤษออกเสียงโดยไม่ดูต้นฉบับไทย ถ้าสะดุดแปลว่ายังติดโครงสร้างไทย"
+    }
+   ],
+   "vocab": [
+    [
+     "source text",
+     "ต้นฉบับ"
+    ],
+    [
+     "target text",
+     "ฉบับแปล"
+    ],
+    [
+     "subject",
+     "ประธาน"
+    ],
+    [
+     "word for word",
+     "แปลทีละคำ"
+    ],
+    [
+     "context",
+     "บริบท"
+    ],
+    [
+     "natural",
+     "เป็นธรรมชาติ"
+    ],
+    [
+     "meaning",
+     "ความหมาย"
+    ],
+    [
+     "back-translation",
+     "การแปลย้อนกลับเพื่อตรวจ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL451-U1-01",
+     "skill": "ENL451-U1",
+     "difficulty": 2,
+     "stem": "Thai: 'ไปไหนมา' (a friend asks you). Which English version is the most natural and accurate?",
+     "options": [
+      "Where have you been?",
+      "Go where and come?",
+      "Where are you going now?",
+      "Where you go come from?"
+     ],
+     "answer": 0,
+     "explanation_th": "ไปไหนมา ถามถึงที่ที่เพิ่งไปมา ภาษาอังกฤษพูดว่า Where have you been?",
+     "why_wrong": [
+      null,
+      "แปลทีละคำ ไม่เป็นประโยคอังกฤษ",
+      "ถามว่ากำลังจะไปไหน แต่ต้นฉบับถามว่าไปไหนมา",
+      "ไม่มีกริยาช่วยและเรียงคำตามภาษาไทย"
+     ]
+    },
+    {
+     "id": "ENL451-U1-02",
+     "skill": "ENL451-U1",
+     "difficulty": 2,
+     "stem": "Thai: 'กินแล้ว' (your reply when a friend asks, 'Have you eaten?'). Which English version restores the subject correctly?",
+     "options": [
+      "Already eat rice.",
+      "I've already eaten.",
+      "You've already eaten.",
+      "Ate rice already."
+     ],
+     "answer": 1,
+     "explanation_th": "คนตอบคือเราเอง จึงเติม I และใช้ have already eaten เพราะทำเสร็จแล้ว",
+     "why_wrong": [
+      "ไม่มีประธาน และแปล ข้าว ตามรูป",
+      null,
+      "ประธานผิดคน คนตอบคือเรา ไม่ใช่เพื่อน",
+      "ไม่มีประธาน ประโยคอังกฤษไม่ครบ"
+     ]
+    },
+    {
+     "id": "ENL451-U1-03",
+     "skill": "ENL451-U1",
+     "difficulty": 2,
+     "stem": "A student texts a teacher: 'ฝนตกหนัก ไปไม่ทันค่ะ'. Which English version is the most natural and accurate?",
+     "options": [
+      "Rain falls heavy, go not in time, ka.",
+      "It's raining hard, so you won't make it on time.",
+      "It's raining hard, so I won't make it on time.",
+      "It's raining hard, so I will arrive very early."
+     ],
+     "answer": 2,
+     "explanation_th": "เติม it ให้เรื่องฝน และเติม I ให้คนที่มาไม่ทัน",
+     "why_wrong": [
+      "แปลทีละคำ ไม่มีประธาน และติดคำลงท้าย ค่ะ",
+      "เปลี่ยนประธานเป็น you ทั้งที่คนมาไม่ทันคือนักเรียน",
+      null,
+      "กลับความหมาย ต้นฉบับบอกว่าไปไม่ทัน"
+     ]
+    },
+    {
+     "id": "ENL451-U1-04",
+     "skill": "ENL451-U1",
+     "difficulty": 1,
+     "stem": "Thai often drops the subject. What should a translator do?",
+     "options": [
+      "Always write \"it\" as the subject whenever Thai has no subject.",
+      "Leave the subject out in the English sentence too, so the text stays close to the Thai.",
+      "Always use \"I\" as the subject because the writer is speaking.",
+      "Use the context to work out who does the action, then add that subject."
+     ],
+     "answer": 3,
+     "explanation_th": "ประธานที่หายไปต้องหาจากบริบท แล้วเติมให้ตรงคน",
+     "why_wrong": [
+      "it ใช้กับอากาศ เวลา สิ่งของ ไม่ใช่กับคนทุกกรณี",
+      "ประโยคอังกฤษส่วนใหญ่ต้องมีประธาน ละไม่ได้",
+      "ผู้ทำอาจเป็นคนอื่น ต้องดูบริบท",
+      null
+     ]
+    },
+    {
+     "id": "ENL451-U1-05",
+     "skill": "ENL451-U1",
+     "difficulty": 2,
+     "stem": "Thai: 'เขาเป็นคนใจดี'. Which English version is the most natural and accurate?",
+     "options": [
+      "He is a person heart good.",
+      "He is a strict person.",
+      "He is a kind person.",
+      "He is kind heart person."
+     ],
+     "answer": 2,
+     "explanation_th": "ใจดี คือ kind ประโยคธรรมชาติคือ He is a kind person.",
+     "why_wrong": [
+      "แปล ใจ และ ดี แยกทีละคำ",
+      "ความหมายผิด ใจดี คือ kind ไม่ใช่ strict",
+      null,
+      "ขาด a และ kind heart ใช้แบบนี้ไม่ได้"
+     ]
+    },
+    {
+     "id": "ENL451-U1-06",
+     "skill": "ENL451-U1",
+     "difficulty": 2,
+     "stem": "Someone says sorry for bumping into you. You say 'ไม่เป็นไร'. Which English reply fits best?",
+     "options": [
+      "That's all right.",
+      "Not become anything.",
+      "You're welcome.",
+      "It is not a thing."
+     ],
+     "answer": 0,
+     "explanation_th": "ไม่เป็นไร ตอบคำขอโทษ ใช้ That's all right. หรือ No problem. ได้",
+     "why_wrong": [
+      null,
+      "แปลทีละคำ ไม่มีความหมายในภาษาอังกฤษ",
+      "ใช้ตอบคำขอบคุณ ไม่ใช่ตอบคำขอโทษ",
+      "แปลตามรูป ฟังไม่เป็นธรรมชาติ"
+     ]
+    },
+    {
+     "id": "ENL451-U1-07",
+     "skill": "ENL451-U1",
+     "difficulty": 1,
+     "stem": "A host says to guests: 'ขอบคุณที่มานะคะ'. Which English version is correct?",
+     "options": [
+      "Thank you that you come.",
+      "Thank you for to come.",
+      "Thank you for go out.",
+      "Thank you for coming."
+     ],
+     "answer": 3,
+     "explanation_th": "โครงสร้างคือ Thank you for + V-ing",
+     "why_wrong": [
+      "หลัง thank you ใช้ for + -ing ไม่ใช่ that",
+      "for ต้องตามด้วย -ing ไม่ใช่ to",
+      "ใช้กริยาผิดคำและผิดรูป",
+      null
+     ]
+    },
+    {
+     "id": "ENL451-U1-08",
+     "skill": "ENL451-U1",
+     "difficulty": 2,
+     "stem": "Thai: 'เดี๋ยวโทรกลับนะ'. Which English version is the most natural and accurate?",
+     "options": [
+      "Wait, call back, OK?",
+      "I'll call you back soon.",
+      "Please call me back soon.",
+      "I called you back already."
+     ],
+     "answer": 1,
+     "explanation_th": "เดี๋ยว...นะ บอกอนาคตอันใกล้ ใช้ I'll ... soon",
+     "why_wrong": [
+      "แปล เดี๋ยว ว่า wait ตามรูป และไม่มีประธาน",
+      null,
+      "สลับคน กลายเป็นให้อีกฝ่ายโทรมา",
+      "เปลี่ยนเวลาเป็นอดีต ต้นฉบับบอกว่าจะโทร"
+     ]
+    },
+    {
+     "id": "ENL451-U1-09",
+     "skill": "ENL451-U1",
+     "difficulty": 1,
+     "stem": "Why do translators read their English aloud without looking at the Thai?",
+     "options": [
+      "To make sure that every single Thai word now has its own matching English word.",
+      "To check that the English has more words than the Thai text.",
+      "To keep the Thai word order the same in the English version.",
+      "To hear whether it sounds like something an English writer would say."
+     ],
+     "answer": 3,
+     "explanation_th": "อ่านออกเสียงโดยไม่ดูต้นฉบับ ช่วยจับประโยคที่ติดโครงสร้างไทย",
+     "why_wrong": [
+      "การแปลครบทุกคำคือต้นเหตุของภาษาอังกฤษที่ไม่เป็นธรรมชาติ",
+      "จำนวนคำไม่ได้บอกว่าแปลดี",
+      "การรักษาลำดับคำไทยทำให้ภาษาอังกฤษแข็ง",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "I translate the meaning, not each word.",
+    "Thai can drop the subject, but English needs one.",
+    "Who is doing this? I'll add the subject."
+   ],
+   "task_th": "เปิดแชตไทยของตัวเอง เลือก 5 ข้อความที่ไม่มีประธาน แปลเป็นภาษาอังกฤษโดยเติมประธานให้ถูกคน แล้วอ่านออกเสียงทีละประโยค"
+  },
+  {
+   "id": "ENL451-U2",
+   "title_th": "a, the และพหูพจน์ ที่ภาษาไทยไม่มี",
+   "title_en": "Adding articles and plurals",
+   "covers": "ความแตกต่างด้านโครงสร้างของภาษา",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "ไทยไม่มี a/the แต่อังกฤษต้องเลือก",
+     "body_th": "นามนับได้เอกพจน์ต้องมีตัวนำหน้า ใช้ a/an เมื่อพูดถึงครั้งแรกหรือไม่เจาะจง ใช้ the เมื่อทั้งสองฝ่ายรู้ว่าหมายถึงอันไหน",
+     "example": "ฉันเจอหมาตัวหนึ่ง หมาตัวนั้นน่ารัก → I saw a dog. The dog was cute."
+    },
+    {
+     "title_th": "ของที่มีหนึ่งเดียว ใช้ the",
+     "body_th": "สิ่งที่ทุกคนรู้ว่ามีอันเดียว เช่น the sun, the moon, the sea ใช้ the เสมอ"
+    },
+    {
+     "title_th": "ไทยไม่เติม s แต่อังกฤษต้องเติม",
+     "body_th": "นามนับได้ที่มากกว่าหนึ่งต้องเติม -s หรือเปลี่ยนรูป คำไทยอย่าง หลาย ทุก สอง ๆ (ซ้ำคำ) เป็นสัญญาณว่าต้องเป็นพหูพจน์",
+     "example": "นักเรียนหลายคน → many students"
+    },
+    {
+     "title_th": "พูดถึงทั้งประเภท ใช้พหูพจน์ไม่มี the",
+     "body_th": "ฉันชอบแมว ถ้าหมายถึงแมวทั่วไป ใช้ I like cats. ถ้าใช้ the cat จะกลายเป็นแมวตัวที่รู้กัน"
+    },
+    {
+     "title_th": "นามนับไม่ได้ ไม่เติม s",
+     "body_th": "คำอย่าง information, advice, furniture, equipment ไม่เติม s และไม่ใช้ a ถ้าอยากบอกจำนวนใช้ a piece of",
+     "example": "ข้อมูลนี้ → this information"
+    }
+   ],
+   "vocab": [
+    [
+     "article",
+     "คำนำหน้านาม (a, an, the)"
+    ],
+    [
+     "countable noun",
+     "นามนับได้"
+    ],
+    [
+     "uncountable noun",
+     "นามนับไม่ได้"
+    ],
+    [
+     "plural",
+     "พหูพจน์"
+    ],
+    [
+     "singular",
+     "เอกพจน์"
+    ],
+    [
+     "first mention",
+     "การพูดถึงครั้งแรก"
+    ],
+    [
+     "specific",
+     "เจาะจง"
+    ],
+    [
+     "in general",
+     "โดยทั่วไป"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL451-U2-01",
+     "skill": "ENL451-U2",
+     "difficulty": 1,
+     "stem": "Thai: 'ฉันซื้อหนังสือมาเล่มหนึ่ง'. Which English version is correct?",
+     "options": [
+      "I bought book.",
+      "I bought the books.",
+      "I bought a book.",
+      "I bought one of book."
+     ],
+     "answer": 2,
+     "explanation_th": "หนังสือหนึ่งเล่มที่พูดถึงครั้งแรก ใช้ a book",
+     "why_wrong": [
+      "book เป็นนามนับได้เอกพจน์ ต้องมี a",
+      "เล่มหนึ่งคือหนึ่งเล่ม และเป็นการพูดถึงครั้งแรก",
+      null,
+      "one of ต้องตามด้วยพหูพจน์และ the"
+     ]
+    },
+    {
+     "id": "ENL451-U2-02",
+     "skill": "ENL451-U2",
+     "difficulty": 2,
+     "stem": "You point at the door of your room and say 'ประตูปิดอยู่'. Which English version is correct?",
+     "options": [
+      "Door is closed.",
+      "The door is closed.",
+      "A door is closed.",
+      "The doors is closing."
+     ],
+     "answer": 1,
+     "explanation_th": "ประตูที่ทั้งสองฝ่ายรู้ว่าบานไหน ใช้ the",
+     "why_wrong": [
+      "นามนับได้เอกพจน์ขาดตัวนำหน้า",
+      null,
+      "ประตูนี้รู้กันว่าบานไหน ต้องใช้ the",
+      "พหูพจน์ไม่ตรงกับ is และ closing แปลว่ากำลังปิด"
+     ]
+    },
+    {
+     "id": "ENL451-U2-03",
+     "skill": "ENL451-U2",
+     "difficulty": 2,
+     "stem": "Thai: 'เช้านี้นักเรียนหลายคนมาสาย'. Which English version is correct?",
+     "options": [
+      "Many students were late this morning.",
+      "Many student were late this morning.",
+      "Many students was late this morning.",
+      "A student was late this morning."
+     ],
+     "answer": 0,
+     "explanation_th": "หลายคน เป็นสัญญาณพหูพจน์ จึงใช้ many students และ were",
+     "why_wrong": [
+      null,
+      "many ต้องตามด้วยนามพหูพจน์ students",
+      "ประธานพหูพจน์ต้องใช้ were",
+      "หลายคน ไม่ใช่คนเดียว"
+     ]
+    },
+    {
+     "id": "ENL451-U2-04",
+     "skill": "ENL451-U2",
+     "difficulty": 2,
+     "stem": "Thai: 'เขาให้คำแนะนำดี ๆ กับฉัน'. Which English version is correct?",
+     "options": [
+      "He gave me some good advices.",
+      "He gave me some good advice.",
+      "He gave me a good advices.",
+      "He gave me many good advice."
+     ],
+     "answer": 1,
+     "explanation_th": "advice เป็นนามนับไม่ได้ ใช้ some good advice",
+     "why_wrong": [
+      "advice นับไม่ได้ ไม่เติม s",
+      null,
+      "advice นับไม่ได้ ใช้ a ไม่ได้และไม่เติม s",
+      "many ใช้กับนามนับได้ advice ต้องใช้ some หรือ a lot of"
+     ]
+    },
+    {
+     "id": "ENL451-U2-05",
+     "skill": "ENL451-U2",
+     "difficulty": 1,
+     "stem": "Thai: 'ดวงอาทิตย์ขึ้นทางทิศตะวันออก'. Which English version is correct?",
+     "options": [
+      "Sun rises in east.",
+      "A sun rises in the east.",
+      "The sun rose in the east.",
+      "The sun rises in the east."
+     ],
+     "answer": 3,
+     "explanation_th": "สิ่งที่มีหนึ่งเดียวใช้ the และความจริงทั่วไปใช้ present simple",
+     "why_wrong": [
+      "ขาด the หน้า sun และ east",
+      "ดวงอาทิตย์มีดวงเดียว ใช้ the",
+      "ความจริงทั่วไปใช้ present simple ไม่ใช่อดีต",
+      null
+     ]
+    },
+    {
+     "id": "ENL451-U2-06",
+     "skill": "ENL451-U2",
+     "difficulty": 2,
+     "stem": "Thai: 'ฉันชอบแมว' (cats in general). Which English version is correct?",
+     "options": [
+      "I like cats.",
+      "I like the cat.",
+      "I like cat.",
+      "I like a cats."
+     ],
+     "answer": 0,
+     "explanation_th": "พูดถึงทั้งประเภท ใช้นามพหูพจน์ไม่มี the",
+     "why_wrong": [
+      null,
+      "the cat หมายถึงแมวตัวที่รู้กัน ไม่ใช่แมวทั่วไป",
+      "cat นับได้ ใช้เอกพจน์เปล่า ๆ ไม่ได้",
+      "a ใช้กับพหูพจน์ไม่ได้"
+     ]
+    },
+    {
+     "id": "ENL451-U2-07",
+     "skill": "ENL451-U2",
+     "difficulty": 1,
+     "stem": "Thai: 'ข้อมูลนี้มีประโยชน์มาก'. Which English version is correct?",
+     "options": [
+      "These informations are very useful.",
+      "This informations is very useful.",
+      "This information is very useful.",
+      "This information are very useful."
+     ],
+     "answer": 2,
+     "explanation_th": "information นับไม่ได้ ใช้ this และ is",
+     "why_wrong": [
+      "information นับไม่ได้ ไม่เติม s",
+      "เติม s ไม่ได้ และไม่ตรงกับ this",
+      null,
+      "นามนับไม่ได้ใช้กริยาเอกพจน์ is"
+     ]
+    },
+    {
+     "id": "ENL451-U2-08",
+     "skill": "ENL451-U2",
+     "difficulty": 2,
+     "stem": "Thai: 'เมื่อวานฉันเจอหมาตัวหนึ่ง หมาตัวนั้นน่ารักมาก'. Which English version is correct?",
+     "options": [
+      "Yesterday I saw a dog. The dog was very cute.",
+      "Yesterday I saw the dog. A dog was very cute.",
+      "Yesterday I saw a dog. A dog was very cute.",
+      "Yesterday I saw dog. Dog was very cute."
+     ],
+     "answer": 0,
+     "explanation_th": "พูดครั้งแรกใช้ a พูดซ้ำตัวเดิมใช้ the",
+     "why_wrong": [
+      null,
+      "สลับกัน ครั้งแรกต้อง a ครั้งที่สองต้อง the",
+      "ครั้งที่สองรู้แล้วว่าตัวไหน ต้องใช้ the",
+      "นามนับได้เอกพจน์ขาดตัวนำหน้าทั้งสองที่"
+     ]
+    },
+    {
+     "id": "ENL451-U2-09",
+     "skill": "ENL451-U2",
+     "difficulty": 1,
+     "stem": "Which Thai word is the clearest clue that the English noun needs a plural form?",
+     "options": [
+      "นี้",
+      "หลาย",
+      "ที่",
+      "ก็"
+     ],
+     "answer": 1,
+     "explanation_th": "หลาย บอกว่ามีมากกว่าหนึ่ง ภาษาอังกฤษจึงต้องเป็นพหูพจน์",
+     "why_wrong": [
+      "นี้ บอกว่าเจาะจง ไม่ได้บอกจำนวน",
+      null,
+      "ที่ เป็นคำเชื่อมหรือบอกสถานที่ ไม่บอกจำนวน",
+      "ก็ เป็นคำเชื่อม ไม่บอกจำนวน"
+     ]
+    }
+   ],
+   "say": [
+    "First time, I use \"a\". Second time, I use \"the\".",
+    "Information and advice have no \"s\".",
+    "Thai has no plural, so I check the number."
+   ],
+   "task_th": "เลือกโพสต์ภาษาไทยสั้น ๆ 1 โพสต์ แปลเป็นอังกฤษ แล้ววงทุกคำนามในฉบับแปล ถามทีละคำว่า ต้อง a, the หรือไม่มี และต้องเติม s ไหม"
+  },
+  {
+   "id": "ENL451-U3",
+   "title_th": "คำบอกเวลาไทย สู่ tense อังกฤษ",
+   "title_en": "Turning Thai time words into English tense",
+   "covers": "ความแตกต่างด้านโครงสร้างของภาษา",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "ไทยบอกเวลาด้วยคำ อังกฤษบอกด้วยกริยา",
+     "body_th": "ภาษาไทยไม่เปลี่ยนรูปกริยา แต่ใช้คำอย่าง แล้ว เคย กำลัง จะ เมื่อวาน พรุ่งนี้ ผู้แปลต้องเปลี่ยนคำเหล่านี้เป็น tense"
+    },
+    {
+     "title_th": "คำบอกเวลาที่พบบ่อย",
+     "body_th": "กำลัง...อยู่ → be + V-ing / จะ → will หรือ be going to / เคย (ประสบการณ์) → have + V3 / เมื่อวาน เมื่อก่อน → past simple",
+     "example": "เขากำลังอาบน้ำ → He is taking a shower."
+    },
+    {
+     "title_th": "แล้ว แปลได้สองแบบ",
+     "body_th": "ถ้าเพิ่งเสร็จและผลยังเกี่ยวกับตอนนี้ มักใช้ present perfect ถ้ามีเวลาในอดีตชัดเจน เช่น เมื่อวาน ใช้ past simple",
+     "example": "ทำการบ้านเสร็จแล้ว → I have finished my homework."
+    },
+    {
+     "title_th": "...มา...แล้ว บอกระยะเวลา",
+     "body_th": "อยู่มาห้าปีแล้ว และยังอยู่ ใช้ have + V3 + for",
+     "example": "ฉันอยู่กรุงเทพฯ มาห้าปีแล้ว → I have lived in Bangkok for five years."
+    },
+    {
+     "title_th": "ไม่มีคำบอกเวลา ให้ดูบริบท",
+     "body_th": "ถ้าเป็นความจริงทั่วไปหรือนิสัย ใช้ present simple ถ้าบริบทเล่าเรื่องในอดีต ใช้ past ห้ามใส่ tense เดียวกันทั้งหมดโดยไม่ดูบริบท"
+    }
+   ],
+   "vocab": [
+    [
+     "tense",
+     "กาล รูปกริยาบอกเวลา"
+    ],
+    [
+     "time marker",
+     "คำบอกเวลา"
+    ],
+    [
+     "past simple",
+     "อดีตกาลธรรมดา"
+    ],
+    [
+     "present perfect",
+     "have + V3"
+    ],
+    [
+     "continuous",
+     "รูป -ing กำลังทำ"
+    ],
+    [
+     "future",
+     "อนาคต"
+    ],
+    [
+     "habit",
+     "กิจวัตร นิสัย"
+    ],
+    [
+     "duration",
+     "ระยะเวลา"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL451-U3-01",
+     "skill": "ENL451-U3",
+     "difficulty": 1,
+     "stem": "Thai: 'เมื่อวานฉันไปตลาด'. Which English version is correct?",
+     "options": [
+      "I go to the market yesterday.",
+      "I will go to the market yesterday.",
+      "I went to the market yesterday.",
+      "I am going to the market yesterday."
+     ],
+     "answer": 2,
+     "explanation_th": "เมื่อวาน → past simple",
+     "why_wrong": [
+      "เมื่อวาน เป็นอดีต ต้องใช้ went",
+      "will คืออนาคต ขัดกับ yesterday",
+      null,
+      "รูปกำลังทำหรืออนาคต ขัดกับ yesterday"
+     ]
+    },
+    {
+     "id": "ENL451-U3-02",
+     "skill": "ENL451-U3",
+     "difficulty": 2,
+     "stem": "Thai: 'ฉันเคยไปเชียงใหม่ครั้งหนึ่ง'. Which English version is correct?",
+     "options": [
+      "I used to go to Chiang Mai once.",
+      "I am going to Chiang Mai once.",
+      "I go to Chiang Mai once.",
+      "I have been to Chiang Mai once."
+     ],
+     "answer": 3,
+     "explanation_th": "เคย...ครั้งหนึ่ง เป็นประสบการณ์ ใช้ have been to",
+     "why_wrong": [
+      "used to บอกนิสัยในอดีตที่ทำซ้ำ ขัดกับ once",
+      "เปลี่ยนเป็นอนาคต ต้นฉบับเป็นประสบการณ์",
+      "present simple ไม่บอกประสบการณ์ในอดีต",
+      null
+     ]
+    },
+    {
+     "id": "ENL451-U3-03",
+     "skill": "ENL451-U3",
+     "difficulty": 1,
+     "stem": "Thai: 'เขากำลังอาบน้ำอยู่'. Which English version is correct?",
+     "options": [
+      "He takes a shower.",
+      "He took a shower.",
+      "He is taking a shower.",
+      "He will take a shower."
+     ],
+     "answer": 2,
+     "explanation_th": "กำลัง...อยู่ → be + V-ing",
+     "why_wrong": [
+      "present simple บอกกิจวัตร ไม่ใช่สิ่งที่กำลังทำ",
+      "เป็นอดีต ไม่ใช่ตอนนี้",
+      null,
+      "เป็นอนาคต ไม่ใช่ตอนนี้"
+     ]
+    },
+    {
+     "id": "ENL451-U3-04",
+     "skill": "ENL451-U3",
+     "difficulty": 1,
+     "stem": "Thai: 'พรุ่งนี้ฉันจะส่งรายงาน'. Which English version is correct?",
+     "options": [
+      "I will send the report tomorrow.",
+      "I sent the report tomorrow.",
+      "I have sent the report tomorrow.",
+      "I was sending the report tomorrow."
+     ],
+     "answer": 0,
+     "explanation_th": "จะ + พรุ่งนี้ → will",
+     "why_wrong": [
+      null,
+      "sent เป็นอดีต ขัดกับ tomorrow",
+      "present perfect ใช้กับอนาคตไม่ได้",
+      "อดีตกำลังทำ ขัดกับ tomorrow"
+     ]
+    },
+    {
+     "id": "ENL451-U3-05",
+     "skill": "ENL451-U3",
+     "difficulty": 2,
+     "stem": "Thai: 'ฉันทำการบ้านเสร็จแล้ว' (said right now). Which English version is correct?",
+     "options": [
+      "I finish my homework.",
+      "I will finish my homework.",
+      "I am finishing my homework.",
+      "I have finished my homework."
+     ],
+     "answer": 3,
+     "explanation_th": "แล้ว ที่เพิ่งเสร็จและเกี่ยวกับตอนนี้ ใช้ present perfect",
+     "why_wrong": [
+      "present simple ไม่บอกว่าเสร็จแล้ว",
+      "จะเสร็จ ไม่ใช่เสร็จแล้ว",
+      "กำลังทำ ยังไม่เสร็จ",
+      null
+     ]
+    },
+    {
+     "id": "ENL451-U3-06",
+     "skill": "ENL451-U3",
+     "difficulty": 3,
+     "stem": "Thai: 'ตอนฉันมาถึง เขากำลังกินข้าวอยู่'. Which English version is correct?",
+     "options": [
+      "When I arrive, he is eating.",
+      "When I arrived, he was eating.",
+      "When I arrived, he ate.",
+      "When I arrived, he has eaten."
+     ],
+     "answer": 1,
+     "explanation_th": "เหตุการณ์ที่กำลังเกิดอยู่ตอนอีกเหตุการณ์แทรก ใช้ past continuous",
+     "why_wrong": [
+      "เล่าเรื่องในอดีต ต้องใช้ past",
+      null,
+      "he ate แปลว่าเริ่มกินหลังเรามาถึง ความหมายเปลี่ยน",
+      "present perfect ไม่เข้ากับเรื่องในอดีต"
+     ]
+    },
+    {
+     "id": "ENL451-U3-07",
+     "skill": "ENL451-U3",
+     "difficulty": 1,
+     "stem": "Thai: 'ทุกเช้าเขาวิ่งรอบสวน'. Which English version is correct?",
+     "options": [
+      "He run around the park every morning.",
+      "He is run around the park every morning.",
+      "He has run around the park every mornings.",
+      "He runs around the park every morning."
+     ],
+     "answer": 3,
+     "explanation_th": "ทุกเช้า บอกกิจวัตร → present simple และ he ต้องเติม s",
+     "why_wrong": [
+      "ประธาน he ต้องเติม s ที่กริยา",
+      "is + run ผิดรูป",
+      "every ตามด้วยเอกพจน์ และกิจวัตรใช้ present simple",
+      null
+     ]
+    },
+    {
+     "id": "ENL451-U3-08",
+     "skill": "ENL451-U3",
+     "difficulty": 3,
+     "stem": "Thai: 'ฉันอยู่กรุงเทพฯ มาห้าปีแล้ว' (you still live there). Which English version is correct?",
+     "options": [
+      "I live in Bangkok for five years.",
+      "I lived in Bangkok since five years.",
+      "I have lived in Bangkok for five years.",
+      "I am living in Bangkok five years ago."
+     ],
+     "answer": 2,
+     "explanation_th": "ทำมาตั้งแต่อดีตและยังทำอยู่ ใช้ have + V3 + for",
+     "why_wrong": [
+      "present simple ใช้กับระยะเวลาที่ต่อมาถึงตอนนี้ไม่ได้",
+      "lived บอกว่าจบแล้ว และ since ใช้กับจุดเวลา ไม่ใช่ระยะเวลา",
+      null,
+      "ago ใช้กับอดีต ขัดกับ am living"
+     ]
+    },
+    {
+     "id": "ENL451-U3-09",
+     "skill": "ENL451-U3",
+     "difficulty": 2,
+     "stem": "A Thai sentence has no time word: 'เขาทำงานที่ธนาคาร'. Nothing else in the text points to the past. Which English version is best?",
+     "options": [
+      "He worked at a bank.",
+      "He works at a bank.",
+      "He will work at a bank.",
+      "He is work at a bank."
+     ],
+     "answer": 1,
+     "explanation_th": "ไม่มีคำบอกเวลาและไม่มีบริบทอดีต ข้อเท็จจริงปัจจุบันใช้ present simple",
+     "why_wrong": [
+      "ไม่มีบริบทอดีต ข้อเท็จจริงตอนนี้ใช้ present simple",
+      null,
+      "ไม่มีคำว่า จะ",
+      "is + work ผิดรูป"
+     ]
+    }
+   ],
+   "say": [
+    "Thai uses time words, but English changes the verb.",
+    "\"Already\" in Thai often means \"have done\".",
+    "I check the context before I choose a tense."
+   ],
+   "task_th": "เขียนบันทึกภาษาไทย 5 ประโยคเกี่ยวกับเมื่อวาน วันนี้ และพรุ่งนี้ แปลเป็นอังกฤษ แล้วขีดเส้นใต้กริยาทุกตัวว่าใช้ tense ไหน เพราะคำบอกเวลาอะไร"
+  },
+  {
+   "id": "ENL451-U4",
+   "title_th": "กริยาเรียง หัวเรื่อง-ส่วนขยาย และลักษณนาม",
+   "title_en": "Serial verbs, topic-comment, and classifiers",
+   "covers": "ความแตกต่างด้านโครงสร้างของภาษา",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "กริยาเรียง (serial verbs)",
+     "body_th": "ภาษาไทยเอากริยามาต่อกันได้หลายตัว เช่น เดินไปซื้อมา ภาษาอังกฤษต้องเลือกกริยาหลัก แล้วเชื่อมด้วย and, to หรือ and then",
+     "example": "เขาเดินไปซื้อกาแฟมา → He went out and bought some coffee."
+    },
+    {
+     "title_th": "ไป มา ขึ้น ลง บอกทิศทาง",
+     "body_th": "คำอย่าง ไป มา ในกริยาเรียงหลายครั้งบอกทิศทางหรือว่าทำเสร็จแล้ว ภาษาอังกฤษไม่แปลเป็น go หรือ come ทุกครั้ง",
+     "example": "หยิบขึ้นมา → pick up"
+    },
+    {
+     "title_th": "หัวเรื่อง แล้วค่อยขยาย (topic-comment)",
+     "body_th": "ภาษาไทยขึ้นต้นด้วยหัวเรื่องแล้วพูดถึงมัน เช่น ร้านนี้ อาหารอร่อย ภาษาอังกฤษต้องมีประธานกับกริยาชัดเจน",
+     "example": "ร้านนี้ อาหารอร่อย → The food at this shop is tasty."
+    },
+    {
+     "title_th": "ลักษณนามส่วนใหญ่หายไป",
+     "body_th": "ตัว เล่ม คน อัน ไม่ต้องแปล ใช้ตัวเลขกับนามพหูพจน์ได้เลย",
+     "example": "หมาสามตัว → three dogs, หนังสือสองเล่ม → two books"
+    },
+    {
+     "title_th": "บางคำต้องใช้หน่วยแทน",
+     "body_th": "นามนับไม่ได้ต้องใช้คำบอกหน่วย เช่น a glass of, a cup of, a sheet of, a piece of",
+     "example": "น้ำสองแก้ว → two glasses of water"
+    }
+   ],
+   "vocab": [
+    [
+     "serial verb",
+     "กริยาเรียง"
+    ],
+    [
+     "main verb",
+     "กริยาหลัก"
+    ],
+    [
+     "topic",
+     "หัวเรื่อง"
+    ],
+    [
+     "comment",
+     "ส่วนที่พูดถึงหัวเรื่อง"
+    ],
+    [
+     "classifier",
+     "ลักษณนาม"
+    ],
+    [
+     "unit word",
+     "คำบอกหน่วย เช่น glass, sheet"
+    ],
+    [
+     "direction",
+     "ทิศทาง"
+    ],
+    [
+     "clause",
+     "อนุประโยค"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL451-U4-01",
+     "skill": "ENL451-U4",
+     "difficulty": 2,
+     "stem": "Thai: 'เขาเดินไปซื้อกาแฟมา'. Which English version is the most natural and accurate?",
+     "options": [
+      "He went out and bought some coffee.",
+      "He walked go buy coffee come back.",
+      "He went out and sold some coffee.",
+      "He will go out and buy some coffee."
+     ],
+     "answer": 0,
+     "explanation_th": "เลือกกริยาหลัก went out กับ bought แล้วเชื่อมด้วย and",
+     "why_wrong": [
+      null,
+      "เรียงกริยาตามภาษาไทยทีละคำ",
+      "ความหมายผิด ซื้อ ไม่ใช่ ขาย",
+      "มา บอกว่าทำเสร็จแล้ว ไม่ใช่อนาคต"
+     ]
+    },
+    {
+     "id": "ENL451-U4-02",
+     "skill": "ENL451-U4",
+     "difficulty": 1,
+     "stem": "Thai: 'น้ำสองแก้ว'. Which English version is correct?",
+     "options": [
+      "two waters glass",
+      "two glasses of water",
+      "two glass of waters to drink",
+      "water two glasses"
+     ],
+     "answer": 1,
+     "explanation_th": "water นับไม่ได้ ใช้หน่วย glasses of",
+     "why_wrong": [
+      "เรียงตามไทย และเติม s ผิดที่",
+      null,
+      "glass ต้องเป็นพหูพจน์ และ water ไม่เติม s",
+      "เรียงคำตามภาษาไทย"
+     ]
+    },
+    {
+     "id": "ENL451-U4-03",
+     "skill": "ENL451-U4",
+     "difficulty": 1,
+     "stem": "Thai: 'กระดาษสองแผ่น'. Which English version is correct?",
+     "options": [
+      "two papers sheet",
+      "two paper",
+      "two sheet of papers",
+      "two sheets of paper"
+     ],
+     "answer": 3,
+     "explanation_th": "กระดาษในความหมายนี้นับไม่ได้ ใช้ sheets of paper",
+     "why_wrong": [
+      "เรียงตามไทยและเติม s ผิดที่",
+      "paper (กระดาษ) นับไม่ได้ ต้องมีคำบอกหน่วย",
+      "sheet ต้องเติม s และ paper ไม่เติม",
+      null
+     ]
+    },
+    {
+     "id": "ENL451-U4-04",
+     "skill": "ENL451-U4",
+     "difficulty": 2,
+     "stem": "Thai: 'ร้านนี้ อาหารอร่อย ราคาถูก'. Which English version is the most natural and accurate?",
+     "options": [
+      "The food at this shop is tasty and cheap.",
+      "This shop, food delicious, price cheap.",
+      "This shop is tasty food and cheap price.",
+      "The food at this shop is tasty but expensive."
+     ],
+     "answer": 0,
+     "explanation_th": "เปลี่ยนหัวเรื่องเป็นประธานที่ชัด The food at this shop แล้วตามด้วยกริยา is",
+     "why_wrong": [
+      null,
+      "เรียงหัวเรื่องตามไทย ไม่มีกริยา",
+      "โครงสร้างผิด ร้านไม่ได้เป็นอาหาร",
+      "ความหมายผิด ต้นฉบับบอกว่าราคาถูก"
+     ]
+    },
+    {
+     "id": "ENL451-U4-05",
+     "skill": "ENL451-U4",
+     "difficulty": 2,
+     "stem": "Thai: 'เขาหยิบหนังสือขึ้นมาอ่าน'. Which English version is the most natural and accurate?",
+     "options": [
+      "He picked a book go up come read.",
+      "He picked up a book and wrote in it.",
+      "He picked up a book and read it.",
+      "He picks up book and then come to read it."
+     ],
+     "answer": 2,
+     "explanation_th": "ขึ้นมา รวมกับ หยิบ เป็น pick up แล้วต่อด้วย and read it",
+     "why_wrong": [
+      "แปล ขึ้น มา ทีละคำ",
+      "ความหมายผิด อ่าน ไม่ใช่ เขียน",
+      null,
+      "tense ไม่ตรงกัน ขาด a และ come ไม่จำเป็น"
+     ]
+    },
+    {
+     "id": "ENL451-U4-06",
+     "skill": "ENL451-U4",
+     "difficulty": 2,
+     "stem": "Thai: 'กินข้าวเสร็จแล้วค่อยไป' (you are talking about yourself). Which English version is the most natural and accurate?",
+     "options": [
+      "I'll go after I finish eating.",
+      "I eat rice finish then go.",
+      "I'll go before I finish eating.",
+      "I went after I finished eating."
+     ],
+     "answer": 0,
+     "explanation_th": "แยกเป็นสองอนุประโยค เชื่อมด้วย after และใช้อนาคต",
+     "why_wrong": [
+      null,
+      "เรียงกริยาตามไทย ไม่มีไวยากรณ์อังกฤษ",
+      "before กลับลำดับเหตุการณ์",
+      "ค่อยไป ยังไม่เกิด ไม่ใช่อดีต"
+     ]
+    },
+    {
+     "id": "ENL451-U4-07",
+     "skill": "ENL451-U4",
+     "difficulty": 1,
+     "stem": "What usually happens to Thai classifiers such as ตัว, เล่ม and คน in English?",
+     "options": [
+      "They become 'piece': 'two pieces of book'.",
+      "They disappear: 'หนังสือสองเล่ม' becomes 'two books'.",
+      "They stay in Thai: 'two lem of books'.",
+      "They make the noun singular: 'two book'."
+     ],
+     "answer": 1,
+     "explanation_th": "ลักษณนามส่วนใหญ่ไม่ต้องแปล ใช้ตัวเลข + นามพหูพจน์",
+     "why_wrong": [
+      "piece ใช้กับนามนับไม่ได้บางคำ ไม่ใช่ทุกลักษณนาม",
+      null,
+      "ไม่มีการเขียนลักษณนามไทยในภาษาอังกฤษ",
+      "ตัวเลขเกินหนึ่งต้องใช้นามพหูพจน์"
+     ]
+    },
+    {
+     "id": "ENL451-U4-08",
+     "skill": "ENL451-U4",
+     "difficulty": 2,
+     "stem": "Thai: 'เรื่องนี้ ฉันไม่รู้'. Which English version is the most natural and accurate?",
+     "options": [
+      "This story, I not know.",
+      "This matter doesn't know me.",
+      "I don't know about this.",
+      "I knew about this already."
+     ],
+     "answer": 2,
+     "explanation_th": "ย้ายหัวเรื่องไปไว้หลังกริยา ประโยคอังกฤษเริ่มด้วยประธาน I",
+     "why_wrong": [
+      "แปล เรื่อง ว่า story และขาดกริยาช่วย",
+      "สลับประธาน กลายเป็นเรื่องไม่รู้จักฉัน",
+      null,
+      "กลับความหมาย ต้นฉบับบอกว่าไม่รู้"
+     ]
+    },
+    {
+     "id": "ENL451-U4-09",
+     "skill": "ENL451-U4",
+     "difficulty": 1,
+     "stem": "Thai: 'นักเรียนสองคน'. Which English version is correct?",
+     "options": [
+      "two people students",
+      "two student",
+      "students two people",
+      "two students"
+     ],
+     "answer": 3,
+     "explanation_th": "คน เป็นลักษณนาม ไม่ต้องแปล",
+     "why_wrong": [
+      "แปล คน ซึ่งเป็นลักษณนามโดยไม่จำเป็น",
+      "ตัวเลขเกินหนึ่งต้องเติม s",
+      "เรียงคำตามภาษาไทย",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "English needs one main verb, then \"and\".",
+    "I drop the classifier and add an \"s\".",
+    "I start the English sentence with a clear subject."
+   ],
+   "task_th": "จดประโยคไทยที่มีกริยาเรียง 3 ประโยค (เช่น ไปเอามา เดินไปซื้อ) และวลีลักษณนาม 3 วลีจากชีวิตวันนี้ แปลเป็นอังกฤษให้ครบ 6 ข้อ แล้วอ่านออกเสียง"
+  },
+  {
+   "id": "ENL451-U5",
+   "title_th": "คำทางวัฒนธรรม คำเรียกคน ชื่อ และระดับภาษา",
+   "title_en": "Culture words, titles, names, and register",
+   "covers": "ความแตกต่างด้านโครงสร้างของภาษาและวัฒนธรรม",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "คำที่ไม่มีคำตรง เช่น เกรงใจ",
+     "body_th": "เกรงใจ ไม่มีคำเดียวในภาษาอังกฤษ ให้แปลจากสถานการณ์ เช่น I didn't want to bother you. หรือ I didn't want to trouble you."
+    },
+    {
+     "title_th": "อาหารไทย: ทับศัพท์ + อธิบาย",
+     "body_th": "ชื่ออาหารมักคงเสียงไทยไว้ แล้วอธิบายสั้น ๆ ให้คนอ่านรู้ว่าคืออะไร",
+     "example": "ข้าวต้มกุ้ง → khao tom (rice soup) with shrimp"
+    },
+    {
+     "title_th": "คุณ พี่ น้อง ในภาษาอังกฤษ",
+     "body_th": "ในแชตหรืออีเมลอังกฤษแบบสบาย ๆ มักเรียกแค่ชื่อ ไม่แปล พี่ เป็น brother หรือ sister เพราะจะเข้าใจผิดว่าเป็นญาติ ในจดหมายทางการใช้ Mr หรือ Ms กับนามสกุล",
+     "example": "พี่นกคะ → Hi Nok,"
+    },
+    {
+     "title_th": "ชื่อคนและชื่อสถานที่",
+     "body_th": "ชื่อคนให้ใช้ตัวสะกดที่เจ้าของชื่อใช้เอง เช่น ในพาสปอร์ตหรือนามบัตร ชื่อสถานที่ราชการไทยใช้ระบบถอดอักษรของราชบัณฑิตยสภา (RTGS) เป็นหลัก ไม่แปลความหมายของชื่อ",
+     "example": "เชียงใหม่ → Chiang Mai"
+    },
+    {
+     "title_th": "ระดับภาษา (register)",
+     "body_th": "อีเมลถึงลูกค้าหรือจดหมายทางการใช้ภาษาสุภาพเต็มรูป ส่วนแชตกับเพื่อนใช้ภาษาง่าย ๆ ได้ ผู้แปลต้องเลือกระดับให้ตรงกับต้นฉบับและผู้อ่าน",
+     "example": "ขอแสดงความนับถือ → Yours sincerely,"
+    }
+   ],
+   "vocab": [
+    [
+     "culture-bound term",
+     "คำที่ผูกกับวัฒนธรรม"
+    ],
+    [
+     "equivalent",
+     "คำที่เทียบกันได้"
+    ],
+    [
+     "transliteration",
+     "การทับศัพท์"
+    ],
+    [
+     "romanisation",
+     "การถอดเป็นอักษรโรมัน"
+    ],
+    [
+     "title",
+     "คำนำหน้าชื่อ คำเรียก"
+    ],
+    [
+     "register",
+     "ระดับภาษา"
+    ],
+    [
+     "formal",
+     "ทางการ"
+    ],
+    [
+     "informal",
+     "ไม่เป็นทางการ"
+    ],
+    [
+     "gloss",
+     "คำอธิบายสั้นที่ใส่ไว้ข้างคำ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL451-U5-01",
+     "skill": "ENL451-U5",
+     "difficulty": 2,
+     "stem": "Thai: 'ผมเกรงใจ ไม่อยากรบกวนพี่'. Which English version is the most natural and accurate?",
+     "options": [
+      "I was kreng jai of you.",
+      "I was afraid of you.",
+      "I didn't want to bother you.",
+      "I didn't want to help you."
+     ],
+     "answer": 2,
+     "explanation_th": "แปลเกรงใจจากสถานการณ์ คือไม่อยากรบกวน",
+     "why_wrong": [
+      "ทับศัพท์ เกรงใจ ลงในประโยค คนอ่านต่างชาติไม่เข้าใจ",
+      "ความหมายผิด เกรงใจไม่ใช่กลัว",
+      null,
+      "ความหมายผิด ต้นฉบับไม่ได้บอกว่าไม่อยากช่วย"
+     ]
+    },
+    {
+     "id": "ENL451-U5-02",
+     "skill": "ENL451-U5",
+     "difficulty": 2,
+     "stem": "A Thai menu says 'ข้าวต้มกุ้ง'. Which English menu line is best?",
+     "options": [
+      "Khao tom (rice soup) with shrimp",
+      "Boiled rice with shrimp water",
+      "Fried rice with shrimp",
+      "Rice that is boiled by shrimp"
+     ],
+     "answer": 0,
+     "explanation_th": "คงชื่อไทยไว้ แล้วอธิบายสั้น ๆ ว่าเป็นซุปข้าว",
+     "why_wrong": [
+      null,
+      "แปลตามรูปทีละคำ และ shrimp water ไม่ใช่อาหารนี้",
+      "ข้าวผัดไม่ใช่ข้าวต้ม",
+      "แปลแข็งและความหมายแปลก"
+     ]
+    },
+    {
+     "id": "ENL451-U5-03",
+     "skill": "ENL451-U5",
+     "difficulty": 2,
+     "stem": "A chat message to a coworker: 'พี่นกคะ ช่วยดูไฟล์นี้หน่อยค่ะ'. Which English version is the most natural and polite?",
+     "options": [
+      "Brother Nok, help look this file a little bit.",
+      "Older sister Nok, look at this file right now.",
+      "Hi Nok, you must check this file for me now.",
+      "Hi Nok, could you take a look at this file, please?"
+     ],
+     "answer": 3,
+     "explanation_th": "ในภาษาอังกฤษเรียกชื่อได้เลย และใช้ could you...please? ให้ตรงกับน้ำเสียงขอร้อง",
+     "why_wrong": [
+      "แปล พี่ เป็น brother และแปล หน่อย ทีละคำ",
+      "แปลคำเรียกตามรูป และน้ำเสียงเป็นคำสั่ง ไม่สุภาพ",
+      "must และ now ทำให้เป็นคำสั่ง ไม่ตรงน้ำเสียงขอร้อง",
+      null
+     ]
+    },
+    {
+     "id": "ENL451-U5-04",
+     "skill": "ENL451-U5",
+     "difficulty": 1,
+     "stem": "How should you spell a Thai person's name in English?",
+     "options": [
+      "Spell it the way it sounds to you, and it can change each time.",
+      "Use the spelling the person uses, for example on a passport or card.",
+      "Translate the meaning of the name into English words.",
+      "Always add \"Khun\" before the name in every English text."
+     ],
+     "answer": 1,
+     "explanation_th": "ชื่อคนใช้ตัวสะกดที่เจ้าของชื่อใช้เอง",
+     "why_wrong": [
+      "ตัวสะกดต้องคงที่และเป็นของเจ้าของชื่อ",
+      null,
+      "ไม่แปลความหมายชื่อคน",
+      "ไม่จำเป็นในภาษาอังกฤษทั่วไป"
+     ]
+    },
+    {
+     "id": "ENL451-U5-05",
+     "skill": "ENL451-U5",
+     "difficulty": 1,
+     "stem": "A Thai formal letter ends with 'ขอแสดงความนับถือ'. Which English closing fits?",
+     "options": [
+      "Love,",
+      "See ya,",
+      "Showing respect,",
+      "Yours sincerely,"
+     ],
+     "answer": 3,
+     "explanation_th": "คำลงท้ายจดหมายทางการภาษาอังกฤษคือ Yours sincerely,",
+     "why_wrong": [
+      "ใช้กับคนสนิท ไม่ใช่จดหมายทางการ",
+      "ภาษาพูดแบบสบาย ๆ ไม่เหมาะกับจดหมายทางการ",
+      "แปลทีละคำ ไม่ใช่คำลงท้ายจดหมายอังกฤษ",
+      null
+     ]
+    },
+    {
+     "id": "ENL451-U5-06",
+     "skill": "ENL451-U5",
+     "difficulty": 2,
+     "stem": "In a casual English chat with Thai coworkers, what usually happens to titles like พี่ and น้อง?",
+     "options": [
+      "They become 'older brother' or 'younger sister' every time.",
+      "They always become 'Mr' or 'Mrs' before the first name.",
+      "They are usually dropped, and people just use the first name.",
+      "They must stay in Thai script before every English name."
+     ],
+     "answer": 2,
+     "explanation_th": "คำเรียกแบบไทยมักตัดออก เหลือชื่อเล่นหรือชื่อจริง",
+     "why_wrong": [
+      "คนอ่านจะเข้าใจว่าเป็นญาติจริง",
+      "Mr/Mrs เป็นภาษาทางการ ไม่ใช่แชตสบาย ๆ",
+      null,
+      "ข้อความอังกฤษไม่ใส่อักษรไทยกลางประโยค"
+     ]
+    },
+    {
+     "id": "ENL451-U5-07",
+     "skill": "ENL451-U5",
+     "difficulty": 2,
+     "stem": "Tourism text: 'นักท่องเที่ยวมักมาไหว้พระที่วัดนี้'. Which English version is the most natural and accurate?",
+     "options": [
+      "Tourists often come to wai monk at this temple every time.",
+      "Visitors often come to this temple to pay respect to the Buddha image.",
+      "Tourists often come to this temple to sell Buddha images.",
+      "Tourists often came to this temple to pray to the monks."
+     ],
+     "answer": 1,
+     "explanation_th": "ไหว้พระที่วัด หมายถึงไหว้พระพุทธรูป ใช้ pay respect to the Buddha image",
+     "why_wrong": [
+      "ทับศัพท์ wai และแปล พระ ว่า monk ทั้งที่หมายถึงพระพุทธรูป",
+      null,
+      "ความหมายผิด มาไหว้ ไม่ใช่มาขาย",
+      "tense อดีตไม่ตรง และพระในบริบทนี้คือพระพุทธรูป"
+     ]
+    },
+    {
+     "id": "ENL451-U5-08",
+     "skill": "ENL451-U5",
+     "difficulty": 1,
+     "stem": "A leaflet mentions 'สงกรานต์'. Which English phrase explains it best for visitors?",
+     "options": [
+      "Songkran, the Thai New Year water festival in April",
+      "Songkran, the Thai Christmas festival in December",
+      "Songkran, a Thai rain festival in the monsoon",
+      "Songkran, the Thai Moon festival held in October"
+     ],
+     "answer": 0,
+     "explanation_th": "ทับศัพท์ชื่อเทศกาลแล้วอธิบายสั้น ๆ ว่าเป็นปีใหม่ไทยในเดือนเมษายน",
+     "why_wrong": [
+      null,
+      "ไม่ใช่คริสต์มาส และเดือนผิด",
+      "ไม่ใช่เทศกาลฝน",
+      "ไม่ใช่เทศกาลพระจันทร์ และเดือนผิด"
+     ]
+    },
+    {
+     "id": "ENL451-U5-09",
+     "skill": "ENL451-U5",
+     "difficulty": 2,
+     "stem": "An official sign names 'จังหวัดเชียงใหม่'. Which English version is best?",
+     "options": [
+      "New City Province",
+      "Chiang Mai Province",
+      "Changwat Chiang New",
+      "Province of New Town"
+     ],
+     "answer": 1,
+     "explanation_th": "ชื่อสถานที่ใช้ชื่อที่ถอดเสียงแล้วตามที่ใช้ทางการ ไม่แปลความหมาย",
+     "why_wrong": [
+      "แปลความหมายของชื่อ ทำให้หาบนแผนที่ไม่เจอ",
+      null,
+      "ผสมทับศัพท์กับแปลความ สับสน",
+      "แปลความหมายชื่อสถานที่ ไม่ใช้ชื่อที่ใช้จริง"
+     ]
+    }
+   ],
+   "say": [
+    "There is no one English word for \"kreng jai\".",
+    "I keep the Thai dish name and add a short gloss.",
+    "In English, I just call her Nok."
+   ],
+   "task_th": "เลือกคำไทย 5 คำที่ไม่มีคำตรงในอังกฤษ (เช่น เกรงใจ ข้าวต้ม พี่ ไหว้) เขียนประโยคตัวอย่างภาษาไทย 1 ประโยคต่อคำ แล้วแปลเป็นอังกฤษแบบอธิบายจากสถานการณ์"
+  },
+  {
+   "id": "ENL451-U6",
+   "title_th": "แปลป้าย เมนู และข้อความท่องเที่ยว",
+   "title_en": "Translating signs, menus, and tourism text",
+   "covers": "รวมทั้งฝึกแปลงานเขียนประเภทต่าง ๆ",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "ป้ายใช้สำนวนมาตรฐาน",
+     "body_th": "ป้ายภาษาอังกฤษมีสำนวนที่คนคุ้น เช่น No smoking, Staff only, Please remove your shoes ผู้แปลควรใช้สำนวนนี้ ไม่ต้องแต่งประโยคยาว",
+     "example": "ห้ามสูบบุหรี่ → No smoking"
+    },
+    {
+     "title_th": "เมนู: ชื่อ + คำอธิบาย",
+     "body_th": "ใส่ชื่ออาหารแบบทับศัพท์ แล้วบอกส่วนผสมหลักหรือวิธีทำ ช่วยให้คนแพ้อาหารเลือกได้",
+     "example": "ต้มยำกุ้ง → Tom yum goong (spicy and sour shrimp soup)"
+    },
+    {
+     "title_th": "ข้อความท่องเที่ยว: น่าสนใจ แต่ถูกต้อง",
+     "body_th": "ข้อความท่องเที่ยวต้องชวนให้อยากไป แต่ข้อมูล เช่น วัน เวลา สถานที่ ต้องตรงกับต้นฉบับทุกตัว"
+    },
+    {
+     "title_th": "คำศัพท์เฉพาะที่คนใช้จริง",
+     "body_th": "บางคำมีชื่อเรียกที่ใช้กันแล้ว เช่น ตลาดน้ำ → floating market ไม่ใช่ water market ให้เช็กว่าคนพูดอังกฤษเรียกสิ่งนั้นว่าอะไร"
+    }
+   ],
+   "vocab": [
+    [
+     "sign",
+     "ป้าย"
+    ],
+    [
+     "notice",
+     "ประกาศ"
+    ],
+    [
+     "menu",
+     "เมนู รายการอาหาร"
+    ],
+    [
+     "ingredient",
+     "ส่วนผสม"
+    ],
+    [
+     "brochure",
+     "แผ่นพับ"
+    ],
+    [
+     "renovation",
+     "การปรับปรุง"
+    ],
+    [
+     "floating market",
+     "ตลาดน้ำ"
+    ],
+    [
+     "staff only",
+     "เฉพาะเจ้าหน้าที่"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL451-U6-01",
+     "skill": "ENL451-U6",
+     "difficulty": 1,
+     "stem": "A sign says 'ห้ามสูบบุหรี่'. Which English sign is best?",
+     "options": [
+      "Smoking is forbid",
+      "Smoking area",
+      "Do not cigarette",
+      "No smoking"
+     ],
+     "answer": 3,
+     "explanation_th": "ป้ายภาษาอังกฤษใช้สำนวนมาตรฐาน No smoking",
+     "why_wrong": [
+      "forbid ผิดรูป ต้องเป็น forbidden และไม่ใช่สำนวนป้ายที่ใช้ทั่วไป",
+      "ความหมายกลับ กลายเป็นที่ให้สูบ",
+      "cigarette เป็นนาม ใช้เป็นกริยาไม่ได้",
+      null
+     ]
+    },
+    {
+     "id": "ENL451-U6-02",
+     "skill": "ENL451-U6",
+     "difficulty": 1,
+     "stem": "A door sign says 'เฉพาะเจ้าหน้าที่'. Which English sign is best?",
+     "options": [
+      "Staff only",
+      "Only officer",
+      "Staff welcome",
+      "Specific staff"
+     ],
+     "answer": 0,
+     "explanation_th": "สำนวนป้ายมาตรฐานคือ Staff only",
+     "why_wrong": [
+      null,
+      "แปลทีละคำ และ officer ไม่ใช่คำที่ใช้บนป้าย",
+      "ความหมายไม่บอกว่าห้ามคนอื่นเข้า",
+      "แปล เฉพาะ ตามรูป ไม่ใช่ความหมาย"
+     ]
+    },
+    {
+     "id": "ENL451-U6-03",
+     "skill": "ENL451-U6",
+     "difficulty": 2,
+     "stem": "A sign near a wet floor says 'ระวังพื้นลื่น'. Which English sign is best?",
+     "options": [
+      "Be careful floor slip",
+      "Floor is careful",
+      "Caution: slippery floor",
+      "Caution: floor closed"
+     ],
+     "answer": 2,
+     "explanation_th": "ใช้รูปแบบป้ายเตือน Caution: + ปัญหา",
+     "why_wrong": [
+      "เรียงคำตามไทย ไม่เป็นประโยค",
+      "ความหมายผิด พื้นไม่ได้ระวัง",
+      null,
+      "ความหมายผิด ป้ายเตือนว่าลื่น ไม่ใช่ปิด"
+     ]
+    },
+    {
+     "id": "ENL451-U6-04",
+     "skill": "ENL451-U6",
+     "difficulty": 1,
+     "stem": "A temple notice says 'กรุณาถอดรองเท้า'. Which English version is best?",
+     "options": [
+      "Please remove your shoes.",
+      "Please take your shoes.",
+      "Please shoes take off.",
+      "Please wear your shoes."
+     ],
+     "answer": 0,
+     "explanation_th": "remove your shoes แปลว่าถอดรองเท้า เป็นสำนวนป้ายที่ใช้ทั่วไป",
+     "why_wrong": [
+      null,
+      "take ไม่ได้แปลว่าถอด",
+      "เรียงคำผิด",
+      "ความหมายกลับ"
+     ]
+    },
+    {
+     "id": "ENL451-U6-05",
+     "skill": "ENL451-U6",
+     "difficulty": 2,
+     "stem": "A menu says 'ต้มยำกุ้ง'. Which English menu line is best?",
+     "options": [
+      "Boiled yum shrimp in a hot pot of water",
+      "Tom yum goong (spicy and sour shrimp soup)",
+      "Tom yum goong (sweet and mild shrimp soup)",
+      "Tom yum goong (spicy fried shrimp with rice)"
+     ],
+     "answer": 1,
+     "explanation_th": "ทับศัพท์ชื่อแล้วอธิบายรสและประเภทอาหารให้ถูก",
+     "why_wrong": [
+      "แปลทีละคำ คนอ่านไม่รู้ว่าเป็นอาหารอะไร",
+      null,
+      "คำอธิบายผิด ต้มยำรสเปรี้ยวเผ็ด",
+      "คำอธิบายผิด ต้มยำเป็นซุป ไม่ใช่ผัด"
+     ]
+    },
+    {
+     "id": "ENL451-U6-06",
+     "skill": "ENL451-U6",
+     "difficulty": 2,
+     "stem": "Tourism text: 'ตลาดน้ำแห่งนี้เปิดทุกวันเสาร์และอาทิตย์'. Which English version is the most natural and accurate?",
+     "options": [
+      "This water market opens every Saturday and Sunday.",
+      "This floating market is closed every Saturday and Sunday.",
+      "This floating market opens every Saturday and Sunday.",
+      "This floating market open every Saturday and Sunday."
+     ],
+     "answer": 2,
+     "explanation_th": "ใช้คำที่คนอ่านคุ้น floating market และกริยาต้องตรงกับประธาน",
+     "why_wrong": [
+      "ตลาดน้ำมีชื่อเรียกที่ใช้แล้วคือ floating market",
+      "ความหมายกลับ",
+      null,
+      "ประธานเอกพจน์ต้องใช้ opens"
+     ]
+    },
+    {
+     "id": "ENL451-U6-07",
+     "skill": "ENL451-U6",
+     "difficulty": 1,
+     "stem": "A shop notice says 'ปิดปรับปรุง'. Which English notice is best?",
+     "options": [
+      "Close to improve",
+      "Open after improve",
+      "Closed forever",
+      "Closed for renovation"
+     ],
+     "answer": 3,
+     "explanation_th": "สำนวนมาตรฐานคือ Closed for renovation",
+     "why_wrong": [
+      "แปลทีละคำ ความหมายไม่ชัด",
+      "ไวยากรณ์ผิดและไม่บอกว่าตอนนี้ปิด",
+      "ความหมายผิด ปิดชั่วคราวเพื่อปรับปรุง ไม่ใช่ถาวร",
+      null
+     ]
+    },
+    {
+     "id": "ENL451-U6-08",
+     "skill": "ENL451-U6",
+     "difficulty": 1,
+     "stem": "What is the main goal when you translate a sign?",
+     "options": [
+      "Translate every Thai word so that nothing at all gets lost.",
+      "Write long, polite sentences so that the sign sounds kind.",
+      "Use short, clear wording that English readers already know from signs.",
+      "Keep the Thai word order so the sign matches the Thai."
+     ],
+     "answer": 2,
+     "explanation_th": "ป้ายต้องสั้น ชัด และใช้สำนวนที่คนคุ้น",
+     "why_wrong": [
+      "แปลครบทุกคำทำให้ป้ายยาวและแข็ง",
+      "ป้ายต้องอ่านเร็ว ประโยคยาวไม่เหมาะ",
+      null,
+      "ลำดับคำไทยทำให้ภาษาอังกฤษผิด"
+     ]
+    },
+    {
+     "id": "ENL451-U6-09",
+     "skill": "ENL451-U6",
+     "difficulty": 2,
+     "stem": "Tourism text: 'วัดนี้สร้างขึ้นในสมัยอยุธยา'. Which English version is the most natural and accurate?",
+     "options": [
+      "This temple was built in the Ayutthaya period.",
+      "This temple built in Ayutthaya time.",
+      "This temple is built in the Ayutthaya period.",
+      "This temple was built by the Ayutthaya."
+     ],
+     "answer": 0,
+     "explanation_th": "สร้างในอดีต ใช้ passive อดีต was built และยุคใช้ period",
+     "why_wrong": [
+      null,
+      "ขาด was ทำให้ไม่ใช่ passive และ time ไม่ใช่คำที่ใช้กับยุคประวัติศาสตร์",
+      "สร้างไปแล้วในอดีต ต้องใช้ was built",
+      "Ayutthaya เป็นชื่อยุคและเมือง ไม่ใช่ผู้สร้าง"
+     ]
+    }
+   ],
+   "say": [
+    "Signs need short, standard English.",
+    "I add a short description to each dish.",
+    "Is it called a floating market in English?"
+   ],
+   "task_th": "ถ่ายรูปป้ายหรือเมนูภาษาไทย 5 อย่างแถวบ้านหรือร้านใกล้ ๆ เขียนคำแปลภาษาอังกฤษแบบป้ายจริง แล้วค้นดูว่าป้ายอังกฤษจริงใช้สำนวนเดียวกันไหม"
+  },
+  {
+   "id": "ENL451-U7",
+   "title_th": "แปลอีเมลและข่าวสั้น",
+   "title_en": "Translating emails and short news",
+   "covers": "ฝึกแปลงานเขียนประเภทต่าง ๆ",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "อีเมล: คำขึ้นต้นและลงท้าย",
+     "body_th": "เรียน → Dear / สวัสดีค่ะ (สบาย ๆ) → Hi / ขอบคุณค่ะ ตอนท้าย → Thank you หรือ Best regards ไม่แปลคำลงท้าย ค่ะ ครับ"
+    },
+    {
+     "title_th": "คำขอร้องแบบไทย",
+     "body_th": "รบกวน... ช่วย...หน่อย ในอีเมลอังกฤษใช้ Could you please...? ไม่ใช้ disturb",
+     "example": "รบกวนส่งไฟล์ภายในวันศุกร์ → Could you please send the file by Friday?"
+    },
+    {
+     "title_th": "สำนวนอีเมลที่ใช้บ่อย",
+     "body_th": "แนบไฟล์มาด้วย → Please find the file attached. / ขออภัยในความไม่สะดวก → We apologise for the inconvenience. / ขอบคุณล่วงหน้า → Thank you in advance."
+    },
+    {
+     "title_th": "พาดหัวข่าวอังกฤษ",
+     "body_th": "พาดหัวใช้ present simple กับเรื่องที่เพิ่งเกิด ใช้ to + กริยา กับเรื่องในอนาคต และมักตัด a/the",
+     "example": "นายกฯ เยือนญี่ปุ่นสัปดาห์หน้า → PM to visit Japan next week"
+    },
+    {
+     "title_th": "เนื้อข่าว: เหตุ ผล ครบ",
+     "body_th": "ประโยคข่าวไทยมักเรียงยาวด้วย ทำให้ ภาษาอังกฤษใช้กริยาอย่าง caused, led to และต้องเก็บตัวเลข วัน สถานที่ให้ครบ"
+    }
+   ],
+   "vocab": [
+    [
+     "attachment",
+     "ไฟล์แนบ"
+    ],
+    [
+     "inconvenience",
+     "ความไม่สะดวก"
+    ],
+    [
+     "in advance",
+     "ล่วงหน้า"
+    ],
+    [
+     "headline",
+     "พาดหัวข่าว"
+    ],
+    [
+     "request",
+     "คำขอ"
+    ],
+    [
+     "deadline",
+     "กำหนดส่ง"
+    ],
+    [
+     "tone",
+     "น้ำเสียง"
+    ],
+    [
+     "register",
+     "ระดับภาษา"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL451-U7-01",
+     "skill": "ENL451-U7",
+     "difficulty": 1,
+     "stem": "A formal email starts 'เรียน คุณเดวิด สมิธ'. Which English opening is best?",
+     "options": [
+      "Learn Mr David Smith,",
+      "Hey David!",
+      "To dear you David Smith,",
+      "Dear Mr Smith,"
+     ],
+     "answer": 3,
+     "explanation_th": "อีเมลทางการใช้ Dear + Mr/Ms + นามสกุล",
+     "why_wrong": [
+      "แปล เรียน ว่า learn ผิดความหมาย",
+      "สบายเกินไปสำหรับอีเมลทางการ",
+      "ไม่ใช่รูปแบบคำขึ้นต้นอีเมลอังกฤษ",
+      null
+     ]
+    },
+    {
+     "id": "ENL451-U7-02",
+     "skill": "ENL451-U7",
+     "difficulty": 2,
+     "stem": "Email: 'รบกวนส่งไฟล์ให้ภายในวันศุกร์นะคะ'. Which English version is the most natural and accurate?",
+     "options": [
+      "Disturb you to send file inside Friday, ka.",
+      "Could you please send me the file by Friday?",
+      "Could you please send me the file after Friday?",
+      "You must send me the file on Friday right now."
+     ],
+     "answer": 1,
+     "explanation_th": "รบกวน...นะคะ เป็นคำขอสุภาพ ใช้ Could you please...? และ ภายใน + วัน ใช้ by",
+     "why_wrong": [
+      "แปล รบกวน และ ภายใน ทีละคำ และติด ค่ะ",
+      null,
+      "after เปลี่ยนความหมาย ต้นฉบับคือก่อนหรือภายในวันศุกร์",
+      "เป็นคำสั่ง ไม่สุภาพ และ right now ขัดกับ on Friday"
+     ]
+    },
+    {
+     "id": "ENL451-U7-03",
+     "skill": "ENL451-U7",
+     "difficulty": 1,
+     "stem": "A notice says 'ขออภัยในความไม่สะดวก'. Which English version is best?",
+     "options": [
+      "Ask forgiveness in the not convenient.",
+      "We thank you for the inconvenience.",
+      "Sorry for convenient.",
+      "We apologise for the inconvenience."
+     ],
+     "answer": 3,
+     "explanation_th": "สำนวนประกาศมาตรฐานคือ We apologise for the inconvenience.",
+     "why_wrong": [
+      "แปลทีละคำ ไม่เป็นภาษาอังกฤษ",
+      "ขอบคุณไม่ใช่ขอโทษ",
+      "convenient เป็นคุณศัพท์และความหมายกลับ",
+      null
+     ]
+    },
+    {
+     "id": "ENL451-U7-04",
+     "skill": "ENL451-U7",
+     "difficulty": 2,
+     "stem": "Headline: 'นายกฯ เยือนญี่ปุ่นสัปดาห์หน้า'. Which English headline is best?",
+     "options": [
+      "PM visited Japan next week",
+      "PM visits to Japan last week",
+      "PM to visit Japan next week",
+      "The Prime Minister is visit Japan"
+     ],
+     "answer": 2,
+     "explanation_th": "พาดหัวเรื่องอนาคตใช้ to + กริยา",
+     "why_wrong": [
+      "อดีตขัดกับสัปดาห์หน้า",
+      "visit ไม่ต้องมี to และเวลาผิด",
+      null,
+      "is + visit ผิดรูป และไม่บอกเวลา"
+     ]
+    },
+    {
+     "id": "ENL451-U7-05",
+     "skill": "ENL451-U7",
+     "difficulty": 3,
+     "stem": "News: 'เมื่อวานนี้ฝนตกหนักในกรุงเทพฯ ทำให้รถติดหลายจุด'. Which English version is the most natural and accurate?",
+     "options": [
+      "Yesterday rain falls heavy Bangkok make car stuck many point.",
+      "Heavy rain in Bangkok caused traffic jams in many areas yesterday.",
+      "Heavy rain in Bangkok will cause traffic jams in many areas tomorrow.",
+      "Heavy rain in Bangkok stopped traffic jams in many areas yesterday."
+     ],
+     "answer": 1,
+     "explanation_th": "ทำให้ → caused ใช้อดีตเพราะเมื่อวาน และ รถติด → traffic jams",
+     "why_wrong": [
+      "แปลทีละคำ และ tense ผิด",
+      null,
+      "เปลี่ยนเวลาเป็นพรุ่งนี้",
+      "ความหมายกลับ ฝนทำให้รถติด ไม่ใช่หยุดรถติด"
+     ]
+    },
+    {
+     "id": "ENL451-U7-06",
+     "skill": "ENL451-U7",
+     "difficulty": 2,
+     "stem": "To a customer, a Thai staff member writes 'โอเค เดี๋ยวจัดให้'. Which English version fits a customer email?",
+     "options": [
+      "Certainly. I will arrange it for you.",
+      "OK, wait, I manage for you.",
+      "Sure thing, dude, no worries!",
+      "Certainly. You can arrange it yourself."
+     ],
+     "answer": 0,
+     "explanation_th": "อีเมลถึงลูกค้าใช้ระดับภาษาสุภาพ และความหมายคือเราจะจัดการให้",
+     "why_wrong": [
+      null,
+      "แปล เดี๋ยว ว่า wait และไวยากรณ์ผิด",
+      "ภาษาสบายเกินไปสำหรับลูกค้า",
+      "ความหมายกลับ ต้นฉบับบอกว่าเราจะจัดให้"
+     ]
+    },
+    {
+     "id": "ENL451-U7-07",
+     "skill": "ENL451-U7",
+     "difficulty": 1,
+     "stem": "An email ends 'ขอบคุณล่วงหน้าค่ะ'. Which English version is best?",
+     "options": [
+      "Thank you forward.",
+      "Thank you in advance.",
+      "Thank you for before.",
+      "Thank you afterwards."
+     ],
+     "answer": 1,
+     "explanation_th": "ล่วงหน้า → in advance",
+     "why_wrong": [
+      "แปล ล่วงหน้า ทีละคำ",
+      null,
+      "ความหมายเปลี่ยนเป็นขอบคุณเรื่องก่อนหน้า",
+      "ความหมายกลับ"
+     ]
+    },
+    {
+     "id": "ENL451-U7-08",
+     "skill": "ENL451-U7",
+     "difficulty": 2,
+     "stem": "Email: 'แนบไฟล์มาด้วยนะคะ' (the writer has attached the file). Which English version is best?",
+     "options": [
+      "I attach file come together, ka.",
+      "Please attach the file and send it.",
+      "The file was not attached, sorry.",
+      "Please find the file attached."
+     ],
+     "answer": 3,
+     "explanation_th": "สำนวนอีเมลมาตรฐานคือ Please find the file attached.",
+     "why_wrong": [
+      "แปลทีละคำ ไม่มี a/the และติด ค่ะ",
+      "สลับคน กลายเป็นขอให้อีกฝ่ายแนบไฟล์",
+      "ความหมายกลับ ต้นฉบับบอกว่าแนบแล้ว",
+      null
+     ]
+    },
+    {
+     "id": "ENL451-U7-09",
+     "skill": "ENL451-U7",
+     "difficulty": 1,
+     "stem": "A formal Thai memo ends 'จึงเรียนมาเพื่อโปรดทราบ'. Which English line fits best?",
+     "options": [
+      "This is for your information.",
+      "So I learn to you for please know.",
+      "Please reply to me at once.",
+      "Thank you for your order."
+     ],
+     "answer": 0,
+     "explanation_th": "จึงเรียนมาเพื่อโปรดทราบ คือแจ้งให้รู้ ใช้ This is for your information.",
+     "why_wrong": [
+      null,
+      "แปล เรียน และ ทราบ ทีละคำ",
+      "ต้นฉบับแจ้งเพื่อทราบ ไม่ได้ขอให้ตอบทันที",
+      "ไม่เกี่ยวกับความหมายของต้นฉบับ"
+     ]
+    }
+   ],
+   "say": [
+    "Could you please send me the file by Friday?",
+    "Please find the file attached.",
+    "I keep the numbers and dates exactly the same."
+   ],
+   "task_th": "เขียนอีเมลภาษาไทยสั้น ๆ 4 ประโยคถึงอาจารย์หรือลูกค้าสมมติ (มีขึ้นต้น คำขอ ไฟล์แนบ ลงท้าย) แล้วแปลเป็นอีเมลอังกฤษด้วยสำนวนในหน่วยนี้"
+  }
+ ]
+}

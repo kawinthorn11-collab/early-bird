@@ -1,0 +1,1779 @@
+{
+ "code": "EN400",
+ "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+ "in_class_th": [
+  "น่าจะได้ไปปฏิบัติงานจริงในหน่วยงานหรือบริษัทที่เกี่ยวกับภาษาอังกฤษ และสาขาต้องเห็นชอบก่อน ข้อนี้มาจากคำอธิบายรายวิชา ส่วนขั้นตอนขออนุมัติให้สอบถามสาขาหรือฝ่ายสหกิจ",
+  "น่าจะต้องใช้ภาษาอังกฤษในงานประจำวัน เช่น รับคำสั่ง อีเมล โทรศัพท์ และประชุม เป็นการคาดจากลักษณะงานที่เกี่ยวกับวิชาเอก",
+  "อาจต้องจดบันทึกงานรายวันหรือรายสัปดาห์ตลอดช่วงไม่น้อยกว่า 16 สัปดาห์ เพื่อใช้เขียนรายงาน ข้อนี้เป็นการเดา รูปแบบจริงให้สอบถามสาขาหรือฝ่ายสหกิจ",
+  "ต้องเสนอรายงานการฝึกปฏิบัติงานตามที่สาขากำหนด ซึ่งอาจมีทั้งเล่มรายงานและการนำเสนอ ข้อนี้คาดจากคำอธิบายรายวิชา รูปแบบและเกณฑ์จริงขึ้นกับสาขา"
+ ],
+ "units": [
+  {
+   "id": "EN400-U1",
+   "title_th": "สัปดาห์แรก และการแนะนำตัว",
+   "title_en": "The first week and introductions",
+   "covers": "ฝึกปฏิบัติงานในหน่วยงานหรือบริษัทที่เกี่ยวข้องกับลักษณะวิชาเอก โดยได้รับความเห็นชอบจากสาขาวิชา",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "ที่ฝึกต้องเกี่ยวกับเอก และสาขาต้องเห็นชอบ",
+     "body_th": "คำอธิบายรายวิชาบอกว่าต้องเป็นหน่วยงานหรือบริษัทที่เกี่ยวกับวิชาเอก และได้รับความเห็นชอบจากสาขาวิชา ขั้นตอนขออนุมัติ เอกสาร และกำหนดเวลา ให้สอบถามสาขาหรือฝ่ายสหกิจ"
+    },
+    {
+     "title_th": "แนะนำตัว 15 วินาที",
+     "body_th": "บอกชื่อ บอกว่าเป็นนักศึกษาสหกิจจากสาขาอะไร และจะอยู่ทีมไหน จบด้วยประโยคที่แสดงว่าพร้อมช่วย",
+     "example": "Hi, I'm Nok, a co-op student from the English program. I'll be with the guest team."
+    },
+    {
+     "title_th": "จำชื่อคน",
+     "body_th": "จดชื่อและหน้าที่ของคนที่เจอวันแรก ถ้าลืม ขอโทษแล้วถามใหม่ได้ ดีกว่าเลี่ยงไม่คุย",
+     "example": "I'm sorry, could you tell me your name again?"
+    },
+    {
+     "title_th": "สัปดาห์แรกคือสัปดาห์ถาม",
+     "body_th": "ถามว่าใครดูแลเรา ถามใครได้เมื่อติดปัญหา ใช้เครื่องมือหรือระบบอะไร และงานแรกคืออะไร จดทุกอย่างลงสมุดหรือโน้ตในเครื่อง"
+    }
+   ],
+   "vocab": [
+    [
+     "co-op student",
+     "นักศึกษาสหกิจ"
+    ],
+    [
+     "supervisor",
+     "หัวหน้า ผู้ดูแลงาน"
+    ],
+    [
+     "mentor",
+     "พี่เลี้ยง"
+    ],
+    [
+     "colleague",
+     "เพื่อนร่วมงาน"
+    ],
+    [
+     "introduce",
+     "แนะนำ"
+    ],
+    [
+     "orientation",
+     "การปฐมนิเทศ"
+    ],
+    [
+     "approval",
+     "การเห็นชอบ อนุมัติ"
+    ],
+    [
+     "related to",
+     "เกี่ยวข้องกับ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "EN400-U1-01",
+     "skill": "EN400-U1",
+     "difficulty": 1,
+     "stem": "Passage (EN400 course description): 'Practical work experience in an organization or company in the field of the students' major for a minimum of 16 weeks, with students presenting a report as required by the department.' The Thai version adds that the department must approve the placement. Where do you do it?",
+     "options": [
+      "At an organisation or company related to your major, approved by the department",
+      "At any company you like best, without asking the department for approval",
+      "Only at a government office in Bangkok, chosen by the university for you",
+      "At a company chosen by your friends, even if it is not related to English"
+     ],
+     "answer": 0,
+     "explanation_th": "คำอธิบายรายวิชาบอกว่าต้องเกี่ยวกับวิชาเอกและได้รับความเห็นชอบจากสาขา",
+     "why_wrong": [
+      null,
+      "คำอธิบายรายวิชาบอกว่าต้องได้รับความเห็นชอบจากสาขาวิชา",
+      "คำอธิบายรายวิชาไม่ได้กำหนดแบบนี้",
+      "ต้องเกี่ยวข้องกับวิชาเอก"
+     ]
+    },
+    {
+     "id": "EN400-U1-02",
+     "skill": "EN400-U1",
+     "difficulty": 2,
+     "stem": "On day one, which self-introduction is best?",
+     "options": [
+      "Hi. I'm Nok. That's it, really. I don't have much else to say about myself today.",
+      "Hi, I'm Nok, a co-op student from the English program. I'll be with the guest team.",
+      "Hello, I'm Nok. Honestly, I don't know why I'm here, haha. Maybe they sent me here.",
+      "I'm Nok, the new co-op student. Please do my training for me, because I'm very busy."
+     ],
+     "answer": 1,
+     "explanation_th": "บอกชื่อ สถานะ และทีมที่จะทำงานด้วย สั้นและชัด",
+     "why_wrong": [
+      "สั้นเกินไปและดูไม่อยากคุย",
+      null,
+      "ทำให้ดูไม่ตั้งใจ",
+      "ไม่สุภาพและไม่รับผิดชอบ"
+     ]
+    },
+    {
+     "id": "EN400-U1-03",
+     "skill": "EN400-U1",
+     "difficulty": 1,
+     "stem": "You forgot a colleague's name. What is the best thing to say?",
+     "options": [
+      "Hey you! Come here for a second, please.",
+      "(Say nothing and avoid them all week.)",
+      "I'm sorry, could you tell me your name again?",
+      "What's your name again? It's so hard to say, sorry."
+     ],
+     "answer": 2,
+     "explanation_th": "ขอโทษแล้วถามใหม่อย่างสุภาพ",
+     "why_wrong": [
+      "เรียก Hey you ไม่สุภาพ",
+      "การเลี่ยงไม่คุยทำให้ทำงานด้วยกันยาก",
+      null,
+      "บอกว่าชื่อเขายาก ฟังไม่สุภาพ"
+     ]
+    },
+    {
+     "id": "EN400-U1-04",
+     "skill": "EN400-U1",
+     "difficulty": 2,
+     "stem": "Which question is the most useful in your first week?",
+     "options": [
+      "When is the earliest time that I can go home each day?",
+      "Can I skip the training and just start working right away?",
+      "Can I use my phone for games when I have no tasks?",
+      "Who should I ask if I have questions about my tasks?"
+     ],
+     "answer": 3,
+     "explanation_th": "รู้ว่าจะถามใครเมื่อติดปัญหา ช่วยให้ทำงานได้เร็วและถูก",
+     "why_wrong": [
+      "ทำให้ดูไม่สนใจงาน",
+      "การอบรมช่วยให้ทำงานถูก ไม่ควรข้าม",
+      "ทำให้ดูไม่ตั้งใจทำงาน และไม่ช่วยให้เรียนรู้งาน",
+      null
+     ]
+    },
+    {
+     "id": "EN400-U1-05",
+     "skill": "EN400-U1",
+     "difficulty": 1,
+     "stem": "Your supervisor says, 'Let me introduce you to the team.' What do you say to the team?",
+     "options": [
+      "OK. Bye, everyone. See you later.",
+      "Nice to meet me, everyone.",
+      "Hello, everyone. Nice to meet you all.",
+      "Hello. Who are all of you, anyway?"
+     ],
+     "answer": 2,
+     "explanation_th": "ทักทายและบอกว่ายินดีที่ได้รู้จัก",
+     "why_wrong": [
+      "เป็นคำลา ไม่ใช่คำทักทายตอนพบกันครั้งแรก",
+      "สรรพนามผิด ต้องเป็น you",
+      null,
+      "ฟังห้วนและไม่สุภาพ"
+     ]
+    },
+    {
+     "id": "EN400-U1-06",
+     "skill": "EN400-U1",
+     "difficulty": 2,
+     "stem": "Why should you take notes in your first week?",
+     "options": [
+      "There is a lot of new information, and notes help you remember names, steps and tools.",
+      "Your supervisor will mark your handwriting at the end of the first week of work.",
+      "Notes let you skip listening, because you can read them again at home later.",
+      "Writing all the time makes you look busy, so nobody gives you any more tasks."
+     ],
+     "answer": 0,
+     "explanation_th": "ข้อมูลใหม่เยอะ การจดช่วยจำชื่อ ขั้นตอน และเครื่องมือ",
+     "why_wrong": [
+      null,
+      "ไม่มีอะไรบอกว่าจะมีการตรวจลายมือ",
+      "การจดไม่ได้แทนการฟัง",
+      "เหตุผลไม่ซื่อสัตย์ และไม่ใช่ประโยชน์ของการจด"
+     ]
+    },
+    {
+     "id": "EN400-U1-07",
+     "skill": "EN400-U1",
+     "difficulty": 1,
+     "stem": "A colleague says, 'Welcome aboard!' What does this mean?",
+     "options": [
+      "Please get on the boat.",
+      "Please leave the office.",
+      "You are late again today.",
+      "Welcome to the team."
+     ],
+     "answer": 3,
+     "explanation_th": "Welcome aboard เป็นสำนวนต้อนรับคนใหม่เข้าทีม",
+     "why_wrong": [
+      "เป็นสำนวน ไม่ได้หมายถึงเรือจริง",
+      "ความหมายตรงข้าม",
+      "ไม่เกี่ยวกับความหมายนี้",
+      null
+     ]
+    },
+    {
+     "id": "EN400-U1-08",
+     "skill": "EN400-U1",
+     "difficulty": 2,
+     "stem": "Which first-week habit makes a good impression?",
+     "options": [
+      "Arriving late on day one and then blaming the traffic",
+      "Arriving a little early and asking how you can help",
+      "Keeping your headphones on all day so you can focus",
+      "Telling everyone how they did things at your university"
+     ],
+     "answer": 1,
+     "explanation_th": "มาก่อนเวลาเล็กน้อยและเสนอช่วยแสดงความตั้งใจ",
+     "why_wrong": [
+      "มาสายวันแรกและโทษคนอื่นสร้างความประทับใจที่ไม่ดี",
+      null,
+      "ทำให้คนอื่นคุยด้วยยากในสัปดาห์ที่ต้องเรียนรู้",
+      "ฟังเหมือนสอนคนอื่น ไม่เหมาะกับคนใหม่"
+     ]
+    },
+    {
+     "id": "EN400-U1-09",
+     "skill": "EN400-U1",
+     "difficulty": 2,
+     "stem": "You are not sure about placement rules such as hours or forms. Who should you ask?",
+     "options": [
+      "A website about another university, because the rules are probably the same",
+      "Nobody at all, because you can just guess and fix the problems later on",
+      "Another company's HR team, because they know about co-op students in general",
+      "The faculty or the co-op office, and your supervisor for daily workplace rules"
+     ],
+     "answer": 3,
+     "explanation_th": "กฎของรายวิชาถามสาขาหรือฝ่ายสหกิจ กฎประจำวันในที่ทำงานถามหัวหน้า",
+     "why_wrong": [
+      "กฎแต่ละมหาวิทยาลัยต่างกัน",
+      "เดาเรื่องกฎอาจทำให้ผิดเงื่อนไขรายวิชา",
+      "คนนอกไม่รู้กฎของ BU และที่ทำงานของเรา",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "Hi, I'm Nok, a co-op student from the English program.",
+    "I'm sorry, could you tell me your name again?",
+    "Who should I ask if I have a question?"
+   ],
+   "task_th": "เขียนและซ้อมพูดแนะนำตัว 15 วินาทีเป็นภาษาอังกฤษสำหรับวันแรก (ชื่อ สาขา ทีม ประโยคปิด) อัดเสียง 3 รอบ แล้วเลือกรอบที่ดีที่สุด"
+  },
+  {
+   "id": "EN400-U2",
+   "title_th": "รับคำสั่งงาน และทวนให้แน่ใจ",
+   "title_en": "Taking instructions and confirming",
+   "covers": "ฝึกปฏิบัติงานในหน่วยงานหรือบริษัท",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "ฟังแล้วจดให้ครบ",
+     "body_th": "คำสั่งงานมักมี ทำอะไร เท่าไร ส่งใคร ส่งเมื่อไร จดสี่อย่างนี้ทุกครั้ง",
+     "example": "Translate menu → English → to Joy → by Thursday"
+    },
+    {
+     "title_th": "ทวนกลับ",
+     "body_th": "พูดทวนสั้น ๆ ช่วยจับความเข้าใจผิดตั้งแต่ต้น",
+     "example": "Just to confirm, you need the menu in English by Thursday, right?"
+    },
+    {
+     "title_th": "ถามเมื่อไม่เข้าใจ",
+     "body_th": "ถามคำที่ไม่รู้หรือรายละเอียดที่ขาด ดีกว่าทำผิดแล้วต้องทำใหม่",
+     "example": "Sorry, what does 'invoice' mean in this case?"
+    },
+    {
+     "title_th": "งานชนกัน ถามลำดับ",
+     "body_th": "ถ้ามีงานสองอย่างกำหนดส่งพร้อมกัน ให้ถามหัวหน้าว่าอันไหนสำคัญกว่า",
+     "example": "Which one should I do first?"
+    },
+    {
+     "title_th": "ตามด้วยข้อความ",
+     "body_th": "คำสั่งยาว ๆ ให้ส่งข้อความสรุปขั้นตอนที่เข้าใจไปให้หัวหน้าดู ช่วยทั้งเราและเขา"
+    }
+   ],
+   "vocab": [
+    [
+     "instruction",
+     "คำสั่ง คำแนะนำในการทำงาน"
+    ],
+    [
+     "confirm",
+     "ยืนยัน"
+    ],
+    [
+     "clarify",
+     "ทำให้ชัด ถามให้ชัด"
+    ],
+    [
+     "priority",
+     "ลำดับความสำคัญ"
+    ],
+    [
+     "by (Friday)",
+     "ภายใน (วันศุกร์)"
+    ],
+    [
+     "ASAP",
+     "เร็วที่สุดเท่าที่ทำได้"
+    ],
+    [
+     "follow up",
+     "ติดตามผล ส่งข้อความตามหลัง"
+    ],
+    [
+     "task",
+     "งานที่ได้รับมอบหมาย"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "EN400-U2-01",
+     "skill": "EN400-U2",
+     "difficulty": 2,
+     "stem": "Your supervisor says, 'Please translate this menu into English by Thursday.' Which reply confirms best?",
+     "options": [
+      "OK. (You say nothing more, and you don't write any of the details down.)",
+      "Thursday? Hmm, maybe I can do it by Friday or Saturday, I think.",
+      "Sure. Just to confirm, you need the menu in English by Thursday, right?",
+      "Sure. Just to confirm, you need the menu in Thai by Tuesday, right?"
+     ],
+     "answer": 2,
+     "explanation_th": "ทวนรายละเอียดหลัก งาน ภาษา และวันส่ง ให้ตรงกับคำสั่ง",
+     "why_wrong": [
+      "ไม่ทวนและไม่จด อาจลืมรายละเอียด",
+      "ต่อรองกำหนดส่งโดยไม่มีเหตุผล",
+      null,
+      "ทวนผิดทั้งภาษาและวัน"
+     ]
+    },
+    {
+     "id": "EN400-U2-02",
+     "skill": "EN400-U2",
+     "difficulty": 2,
+     "stem": "Instruction: 'Print 20 copies, double-sided, and put them in the meeting room.' Which note is complete?",
+     "options": [
+      "print some copies, put in a room",
+      "20 copies, double-sided, meeting room",
+      "20 copies, one-sided, my desk",
+      "double-sided, meeting room, soon"
+     ],
+     "answer": 1,
+     "explanation_th": "โน้ตที่ดีมีจำนวน วิธี และที่วางครบ",
+     "why_wrong": [
+      "ขาดจำนวน แบบพิมพ์ และห้องไหน",
+      null,
+      "จดผิดทั้งแบบพิมพ์และที่วาง",
+      "ขาดจำนวน"
+     ]
+    },
+    {
+     "id": "EN400-U2-03",
+     "skill": "EN400-U2",
+     "difficulty": 1,
+     "stem": "You don't understand a word in an instruction. What is the best thing to do?",
+     "options": [
+      "Ask: 'Sorry, what does \"invoice\" mean in this case?'",
+      "Nod, then guess the meaning later at your desk.",
+      "Search for it and skip the task if it is too hard.",
+      "Ask a friend at another company what it means."
+     ],
+     "answer": 0,
+     "explanation_th": "ถามคำที่ไม่เข้าใจทันทีดีกว่าเดา",
+     "why_wrong": [
+      null,
+      "การเดาอาจทำให้ทำผิด",
+      "ข้ามงานโดยไม่แจ้งไม่รับผิดชอบ",
+      "ความหมายในบริบทของที่ทำงานควรถามคนในที่ทำงาน"
+     ]
+    },
+    {
+     "id": "EN400-U2-04",
+     "skill": "EN400-U2",
+     "difficulty": 1,
+     "stem": "Which question clarifies a deadline?",
+     "options": [
+      "Do I really need to do this?",
+      "When do you need this by?",
+      "Why did you choose me?",
+      "Is this task easy or hard?"
+     ],
+     "answer": 1,
+     "explanation_th": "When do you need this by? ถามกำหนดส่งตรง ๆ",
+     "why_wrong": [
+      "ถามว่าต้องทำไหม ไม่ได้ถามกำหนดส่ง",
+      null,
+      "ไม่เกี่ยวกับกำหนดส่ง",
+      "ไม่ได้ถามเวลา"
+     ]
+    },
+    {
+     "id": "EN400-U2-05",
+     "skill": "EN400-U2",
+     "difficulty": 2,
+     "stem": "Passage: 'Supervisor: Can you check these 30 emails and reply to the easy ones? Please send the hard ones to Joy.' What should you do with a hard email?",
+     "options": [
+      "Delete it from the inbox.",
+      "Reply to it yourself anyway.",
+      "Send it back to the customer.",
+      "Forward it to Joy."
+     ],
+     "answer": 3,
+     "explanation_th": "คำสั่งบอกว่า send the hard ones to Joy",
+     "why_wrong": [
+      "ลบอีเมลทำให้ลูกค้าไม่ได้คำตอบ",
+      "หัวหน้าบอกให้ส่งอีเมลยากให้ Joy",
+      "ไม่ได้อยู่ในคำสั่ง",
+      null
+     ]
+    },
+    {
+     "id": "EN400-U2-06",
+     "skill": "EN400-U2",
+     "difficulty": 2,
+     "stem": "After a long spoken instruction, what is a good follow-up?",
+     "options": [
+      "Send a short message that lists the steps you heard.",
+      "Wait until the deadline to see if you remember.",
+      "Ask your supervisor to repeat it three more times.",
+      "Start the task and change the steps if you like."
+     ],
+     "answer": 0,
+     "explanation_th": "ข้อความสรุปช่วยให้หัวหน้าเช็กว่าเราเข้าใจถูก",
+     "why_wrong": [
+      null,
+      "เสี่ยงลืมหรือเข้าใจผิดโดยไม่มีใครรู้",
+      "ใช้เวลาหัวหน้ามากเกินไป",
+      "ไม่ทำตามคำสั่ง"
+     ]
+    },
+    {
+     "id": "EN400-U2-07",
+     "skill": "EN400-U2",
+     "difficulty": 1,
+     "stem": "What does 'ASAP' mean?",
+     "options": [
+      "As slowly as possible",
+      "Always send a photo",
+      "As soon as possible",
+      "Ask someone about prices"
+     ],
+     "answer": 2,
+     "explanation_th": "ASAP = as soon as possible",
+     "why_wrong": [
+      "ความหมายตรงข้าม",
+      "ไม่ใช่ตัวย่อนี้",
+      null,
+      "ไม่ใช่ตัวย่อนี้"
+     ]
+    },
+    {
+     "id": "EN400-U2-08",
+     "skill": "EN400-U2",
+     "difficulty": 2,
+     "stem": "You get two tasks with the same deadline. What should you do?",
+     "options": [
+      "Ask your supervisor which one is the priority.",
+      "Do the easier one and forget the other.",
+      "Do both very fast and not check them.",
+      "Wait until somebody notices the problem."
+     ],
+     "answer": 0,
+     "explanation_th": "ถามลำดับความสำคัญจากหัวหน้า",
+     "why_wrong": [
+      null,
+      "งานอีกชิ้นไม่เสร็จโดยไม่มีใครรู้",
+      "งานอาจผิดทั้งสองชิ้น",
+      "ปล่อยปัญหาไว้จนสาย"
+     ]
+    },
+    {
+     "id": "EN400-U2-09",
+     "skill": "EN400-U2",
+     "difficulty": 1,
+     "stem": "Your supervisor asks, 'Could you get back to me on this?' What does she mean?",
+     "options": [
+      "Please go back and sit at your own desk.",
+      "Please reply to me later with an answer.",
+      "Please return this item to the store.",
+      "Please don't contact me about this again."
+     ],
+     "answer": 1,
+     "explanation_th": "get back to someone คือติดต่อกลับพร้อมคำตอบ",
+     "why_wrong": [
+      "ไม่ใช่ความหมายของสำนวน",
+      null,
+      "ไม่ใช่ความหมายของสำนวน",
+      "ความหมายตรงข้าม"
+     ]
+    }
+   ],
+   "say": [
+    "Just to confirm, you need it by Thursday, right?",
+    "When do you need this by?",
+    "Which one should I do first?"
+   ],
+   "task_th": "ขอให้คนในบ้านหรือเพื่อนบอกงานสั้น ๆ 3 อย่างเป็นภาษาไทย แปลงเป็นโน้ตอังกฤษ (ทำอะไร เท่าไร ให้ใคร เมื่อไร) แล้วพูดทวนเป็นภาษาอังกฤษด้วย Just to confirm..."
+  },
+  {
+   "id": "EN400-U3",
+   "title_th": "ภาษาอังกฤษทางโทรศัพท์และอีเมลที่ทำงาน",
+   "title_en": "Phone and email English at work",
+   "covers": "ฝึกปฏิบัติงาน",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "รับโทรศัพท์",
+     "body_th": "ทักทาย + ชื่อบริษัท + ชื่อเรา + เสนอช่วย",
+     "example": "Good morning, Sun Travel. This is Nok. How may I help you?"
+    },
+    {
+     "title_th": "รับฝากข้อความ",
+     "body_th": "จด ชื่อผู้โทร เบอร์ เรื่องที่โทรมา และเวลา แล้วทวนกลับก่อนวาง",
+     "example": "I'm afraid she's not in right now. May I take a message?"
+    },
+    {
+     "title_th": "ฟังไม่ทัน ขอให้ช้าลงหรือสะกด",
+     "body_th": "ขอให้พูดช้าลงหรือสะกดชื่อเป็นเรื่องปกติในงานโทรศัพท์",
+     "example": "Could you spell that for me, please?"
+    },
+    {
+     "title_th": "อีเมลงาน: จุดประสงค์มาก่อน",
+     "body_th": "หลังคำขึ้นต้น ให้บอกจุดประสงค์ในประโยคแรก แล้วค่อยรายละเอียด",
+     "example": "I am writing to confirm the booking for 12 guests on Friday."
+    },
+    {
+     "title_th": "Reply all อย่างระวัง",
+     "body_th": "กด Reply all เฉพาะเมื่อทุกคนในอีเมลต้องรู้คำตอบ ถ้าตอบคนเดียวให้กด Reply"
+    }
+   ],
+   "vocab": [
+    [
+     "take a message",
+     "รับฝากข้อความ"
+    ],
+    [
+     "caller",
+     "ผู้โทร"
+    ],
+    [
+     "hold on",
+     "รอสักครู่ (ในสาย)"
+    ],
+    [
+     "put you through",
+     "โอนสายให้"
+    ],
+    [
+     "spell",
+     "สะกด"
+    ],
+    [
+     "reply all",
+     "ตอบกลับทุกคน"
+    ],
+    [
+     "forward",
+     "ส่งต่อ"
+    ],
+    [
+     "subject line",
+     "หัวเรื่องอีเมล"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "EN400-U3-01",
+     "skill": "EN400-U3",
+     "difficulty": 1,
+     "stem": "How should you answer the office phone?",
+     "options": [
+      "Hello? Who's this? I'm a bit busy right now, so be quick.",
+      "Yes, what do you want? This is the Sun Travel office line.",
+      "Good morning, Sun Travel. This is Nok. How may I help you?",
+      "Sun Travel. Nobody can talk right now. Please call back later."
+     ],
+     "answer": 2,
+     "explanation_th": "ทักทาย บอกชื่อบริษัท ชื่อเรา และเสนอช่วย",
+     "why_wrong": [
+      "ไม่บอกชื่อบริษัทและไม่สุภาพ",
+      "ห้วนและไม่สุภาพ",
+      null,
+      "ปฏิเสธผู้โทรโดยไม่ช่วย"
+     ]
+    },
+    {
+     "id": "EN400-U3-02",
+     "skill": "EN400-U3",
+     "difficulty": 2,
+     "stem": "The caller wants Ms Lee, but she is out. Which reply is best?",
+     "options": [
+      "She's not here, so please call another company instead.",
+      "No Lee here today. Bye. (Then you hang up the phone.)",
+      "I'm afraid she's not in. I don't know when, so just try again.",
+      "I'm afraid she's not in right now. May I take a message?"
+     ],
+     "answer": 3,
+     "explanation_th": "I'm afraid... เป็นคำบอกข่าวไม่ดีอย่างสุภาพ แล้วเสนอรับฝากข้อความ",
+     "why_wrong": [
+      "ไม่ช่วยผู้โทร และส่งลูกค้าไปที่อื่น",
+      "ห้วนและวางสายโดยไม่ช่วย",
+      "ไม่เสนอรับฝากข้อความ",
+      null
+     ]
+    },
+    {
+     "id": "EN400-U3-03",
+     "skill": "EN400-U3",
+     "difficulty": 1,
+     "stem": "When you take a phone message, which details matter most?",
+     "options": [
+      "The caller's age, hobbies and favourite food",
+      "The weather outside at the time of the call",
+      "The caller's name, number and reason for calling",
+      "Only the time of the call and nothing else at all"
+     ],
+     "answer": 2,
+     "explanation_th": "ข้อความที่ดีบอกว่าใครโทร ติดต่อกลับทางไหน และโทรเรื่องอะไร",
+     "why_wrong": [
+      "ไม่เกี่ยวกับงาน",
+      "ไม่เกี่ยวกับข้อความ",
+      null,
+      "ขาดชื่อ เบอร์ และเรื่อง"
+     ]
+    },
+    {
+     "id": "EN400-U3-04",
+     "skill": "EN400-U3",
+     "difficulty": 1,
+     "stem": "The caller speaks too fast for you. What do you say?",
+     "options": [
+      "Sorry, could you speak a little more slowly, please?",
+      "Speak slow! I cannot understand anything you say.",
+      "(Say nothing and wait until the caller hangs up.)",
+      "OK, OK, yes, yes. (Even though you did not understand.)"
+     ],
+     "answer": 0,
+     "explanation_th": "ขอให้พูดช้าลงอย่างสุภาพ",
+     "why_wrong": [
+      null,
+      "ห้วนและไม่สุภาพ",
+      "ไม่ช่วยผู้โทร",
+      "แกล้งเข้าใจทำให้รับข้อความผิด"
+     ]
+    },
+    {
+     "id": "EN400-U3-05",
+     "skill": "EN400-U3",
+     "difficulty": 2,
+     "stem": "You are writing to a client to confirm their booking for 12 guests on Friday. Which sentence is best right after the greeting?",
+     "options": [
+      "So, um, this is about that thing we talked about before, maybe.",
+      "Hi again! How was your weekend? Mine was great, thanks for asking!",
+      "I am writing to cancel the booking for 12 guests on Friday.",
+      "I am writing to confirm the booking for 12 guests on Friday."
+     ],
+     "answer": 3,
+     "explanation_th": "ประโยคแรกหลังคำขึ้นต้นบอกจุดประสงค์ชัดเจน",
+     "why_wrong": [
+      "คลุมเครือ ไม่บอกเรื่อง",
+      "เรื่องส่วนตัวมาก่อน ไม่บอกจุดประสงค์",
+      "จุดประสงค์ตรงข้ามกับที่ต้องการ (ยืนยัน ไม่ใช่ยกเลิก)",
+      null
+     ]
+    },
+    {
+     "id": "EN400-U3-06",
+     "skill": "EN400-U3",
+     "difficulty": 2,
+     "stem": "When should you NOT use 'Reply all'?",
+     "options": [
+      "When everyone on the email needs your answer",
+      "When your answer is only for the sender",
+      "When the whole team asked you the same question",
+      "When your supervisor asks you to reply to everyone"
+     ],
+     "answer": 1,
+     "explanation_th": "ถ้าคำตอบสำหรับผู้ส่งคนเดียว ใช้ Reply ไม่ใช่ Reply all",
+     "why_wrong": [
+      "กรณีนี้ใช้ Reply all ได้",
+      null,
+      "ทุกคนต้องรู้ จึงใช้ Reply all ได้",
+      "หัวหน้าสั่งให้ตอบทุกคน จึงใช้ได้"
+     ]
+    },
+    {
+     "id": "EN400-U3-07",
+     "skill": "EN400-U3",
+     "difficulty": 1,
+     "stem": "A caller gives a name you can't catch. What is best to say?",
+     "options": [
+      "Your name is too hard. I'll skip it.",
+      "Never mind, I will guess the spelling.",
+      "Can you change your name to an easy one?",
+      "Could you spell that for me, please?"
+     ],
+     "answer": 3,
+     "explanation_th": "ขอให้สะกดชื่อเป็นเรื่องปกติและสุภาพ",
+     "why_wrong": [
+      "ไม่สุภาพและข้อความจะขาดชื่อ",
+      "อาจจดชื่อผิด",
+      "ไม่สุภาพ",
+      null
+     ]
+    },
+    {
+     "id": "EN400-U3-08",
+     "skill": "EN400-U3",
+     "difficulty": 2,
+     "stem": "Passage: 'Hi Nok, The client meeting has moved from Tuesday to Wednesday at 10 a.m. Please update the calendar. Thanks, Joy' What should Nok do?",
+     "options": [
+      "Cancel the meeting in the calendar, because Tuesday is not possible.",
+      "Keep the meeting on Tuesday, and add a note about Wednesday.",
+      "Change the meeting in the calendar to Wednesday at 10 a.m.",
+      "Move the meeting in the calendar to Wednesday at 10 p.m."
+     ],
+     "answer": 2,
+     "explanation_th": "อีเมลขอให้อัปเดตปฏิทินเป็นวันพุธ 10 โมงเช้า",
+     "why_wrong": [
+      "อีเมลบอกว่าเลื่อน ไม่ใช่ยกเลิก",
+      "ไม่ได้ย้ายวันตามที่ขอ",
+      null,
+      "เวลาผิด อีเมลบอก 10 a.m."
+     ]
+    },
+    {
+     "id": "EN400-U3-09",
+     "skill": "EN400-U3",
+     "difficulty": 1,
+     "stem": "Which phrase ends a phone call politely?",
+     "options": [
+      "OK, that is all. (Then you hang up quickly.)",
+      "Thank you for calling. Have a nice day.",
+      "Bye. Please do not call this number again.",
+      "Finished? Good. I have other work to do now."
+     ],
+     "answer": 1,
+     "explanation_th": "ขอบคุณที่โทรมาและอวยพร เป็นการปิดสายที่สุภาพ",
+     "why_wrong": [
+      "วางสายห้วน ๆ",
+      null,
+      "ไม่สุภาพกับลูกค้า",
+      "ทำให้ผู้โทรรู้สึกรบกวน"
+     ]
+    }
+   ],
+   "say": [
+    "Good morning, this is Nok. How may I help you?",
+    "I'm afraid she's not in. May I take a message?",
+    "Could you spell that for me, please?"
+   ],
+   "task_th": "จับคู่กับเพื่อนหรืออัดเสียงตัวเอง เล่นบทรับโทรศัพท์ 2 รอบ รอบแรกรับสาย รอบสองรับฝากข้อความ (ชื่อ เบอร์ เรื่อง) แล้วเขียนข้อความฝากเป็นอีเมลอังกฤษสั้น ๆ"
+  },
+  {
+   "id": "EN400-U4",
+   "title_th": "ภาษาอังกฤษในการประชุม",
+   "title_en": "English in meetings",
+   "covers": "ฝึกปฏิบัติงานในหน่วยงาน",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "ก่อนประชุมอ่าน agenda",
+     "body_th": "agenda คือรายการหัวข้อประชุม อ่านก่อนเข้าห้อง แล้วเตรียมอัปเดตงานของเรา 1 ถึง 2 ประโยค"
+    },
+    {
+     "title_th": "ขอพูดอย่างสุภาพ",
+     "body_th": "รอจังหวะ แล้วใช้ประโยคขอพูด",
+     "example": "Sorry to interrupt, could I add something?"
+    },
+    {
+     "title_th": "เห็นต่างอย่างสุภาพ",
+     "body_th": "ยอมรับความคิดอีกฝ่ายก่อน แล้วเสนอทางของเรา",
+     "example": "I see your point, but we could also try..."
+    },
+    {
+     "title_th": "action items",
+     "body_th": "ท้ายประชุมมักสรุปว่าใครทำอะไร ภายในเมื่อไร จดส่วนที่เป็นของเราให้ครบ",
+     "example": "Action: Nok to send the price list to the client by Friday."
+    }
+   ],
+   "vocab": [
+    [
+     "agenda",
+     "รายการหัวข้อประชุม"
+    ],
+    [
+     "minutes",
+     "บันทึกการประชุม"
+    ],
+    [
+     "action item",
+     "งานที่ต้องทำต่อหลังประชุม"
+    ],
+    [
+     "update",
+     "ความคืบหน้า"
+    ],
+    [
+     "interrupt",
+     "พูดแทรก"
+    ],
+    [
+     "disagree",
+     "ไม่เห็นด้วย"
+    ],
+    [
+     "move on",
+     "ไปหัวข้อถัดไป"
+    ],
+    [
+     "summary",
+     "สรุป"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "EN400-U4-01",
+     "skill": "EN400-U4",
+     "difficulty": 1,
+     "stem": "What is an agenda?",
+     "options": [
+      "A list of topics for a meeting",
+      "A record of who was late to work",
+      "A plan for the company party",
+      "A note of what you ate today"
+     ],
+     "answer": 0,
+     "explanation_th": "agenda คือรายการหัวข้อที่จะคุยในการประชุม",
+     "why_wrong": [
+      null,
+      "ไม่ใช่ความหมายของ agenda",
+      "ไม่ใช่ความหมายของ agenda",
+      "ไม่ใช่ความหมายของ agenda"
+     ]
+    },
+    {
+     "id": "EN400-U4-02",
+     "skill": "EN400-U4",
+     "difficulty": 2,
+     "stem": "You want to speak in a meeting. What is the most polite way?",
+     "options": [
+      "Stop talking, everybody. It is my turn now.",
+      "Sorry to interrupt, could I add something?",
+      "(Start talking loudly over the speaker.)",
+      "I will speak now, because my idea is better."
+     ],
+     "answer": 1,
+     "explanation_th": "ขอโทษที่แทรกแล้วขออนุญาตพูด",
+     "why_wrong": [
+      "สั่งให้คนอื่นหยุด ไม่สุภาพ",
+      null,
+      "พูดทับคนอื่นไม่สุภาพ",
+      "ฟังอวดและไม่สุภาพ"
+     ]
+    },
+    {
+     "id": "EN400-U4-03",
+     "skill": "EN400-U4",
+     "difficulty": 2,
+     "stem": "Which sentence shows polite disagreement?",
+     "options": [
+      "That's wrong. Your idea will never work, and everyone knows it.",
+      "Whatever. Do what you want. I don't care about this project.",
+      "Yes, I agree completely. (Even though you really disagree.)",
+      "I see your point, but we could also try a shorter version."
+     ],
+     "answer": 3,
+     "explanation_th": "ยอมรับความคิดอีกฝ่ายก่อน แล้วเสนอทางเลือก",
+     "why_wrong": [
+      "ตำหนิตรง ๆ ไม่สุภาพ",
+      "ไม่ร่วมมือและไม่สุภาพ",
+      "ไม่บอกความเห็นจริง ทีมเสียข้อมูล",
+      null
+     ]
+    },
+    {
+     "id": "EN400-U4-04",
+     "skill": "EN400-U4",
+     "difficulty": 1,
+     "stem": "What are 'action items'?",
+     "options": [
+      "Tasks that people agree to do after the meeting",
+      "Exciting movies that the team watches together",
+      "Things the team did in last year’s meetings",
+      "Snacks and drinks that are served in the meeting room"
+     ],
+     "answer": 0,
+     "explanation_th": "action items คืองานที่ตกลงกันว่าใครทำอะไรหลังประชุม",
+     "why_wrong": [
+      null,
+      "ไม่ใช่ความหมายนี้",
+      "action items คืองานที่ต้องทำต่อ ไม่ใช่สิ่งที่ทำไปแล้ว",
+      "ไม่ใช่ความหมายนี้"
+     ]
+    },
+    {
+     "id": "EN400-U4-05",
+     "skill": "EN400-U4",
+     "difficulty": 1,
+     "stem": "You missed the last point in a meeting. Which is best?",
+     "options": [
+      "What? I missed that. Say it all again.",
+      "(Pretend you heard it, and guess later.)",
+      "Sorry, could you go over the last point again?",
+      "That point was not clear at all, sorry."
+     ],
+     "answer": 2,
+     "explanation_th": "ขอให้ทวนประเด็นอย่างสุภาพ",
+     "why_wrong": [
+      "ห้วนและสั่งให้พูดทั้งหมดใหม่",
+      "อาจทำงานผิดเพราะเดา",
+      null,
+      "โทษผู้พูด ไม่ได้ขอให้อธิบายซ้ำ"
+     ]
+    },
+    {
+     "id": "EN400-U4-06",
+     "skill": "EN400-U4",
+     "difficulty": 2,
+     "stem": "Passage (meeting minutes): 'Action: Nok to send the price list to the client by Friday.' What must Nok do?",
+     "options": [
+      "Send the price list to the client by Friday",
+      "Ask the client to send a price list by Friday",
+      "Make a new price list for the team next month",
+      "Send the price list to the team on Monday"
+     ],
+     "answer": 0,
+     "explanation_th": "action item บอกว่า Nok ส่งรายการราคาให้ลูกค้าภายในวันศุกร์",
+     "why_wrong": [
+      null,
+      "สลับคนส่ง",
+      "ผิดทั้งผู้รับและเวลา",
+      "ผิดทั้งผู้รับและวัน"
+     ]
+    },
+    {
+     "id": "EN400-U4-07",
+     "skill": "EN400-U4",
+     "difficulty": 2,
+     "stem": "In an online meeting, which habit shows you are listening?",
+     "options": [
+      "Turn off your camera and microphone, then leave for a long lunch.",
+      "Reply when someone speaks to you, and keep your camera on if asked.",
+      "Type loudly on other work while the speaker is still talking.",
+      "Keep your microphone on while you talk to friends in the room."
+     ],
+     "answer": 1,
+     "explanation_th": "ตอบเมื่อถูกถามและเปิดกล้องตามที่ขอ แสดงว่าตั้งใจฟัง",
+     "why_wrong": [
+      "ไม่อยู่ในประชุมจริง",
+      null,
+      "รบกวนและแสดงว่าไม่ฟัง",
+      "เสียงรบกวนการประชุม"
+     ]
+    },
+    {
+     "id": "EN400-U4-08",
+     "skill": "EN400-U4",
+     "difficulty": 1,
+     "stem": "The chair says, 'Let's move on to the next item.' What does this mean?",
+     "options": [
+      "Let's move to a different meeting room.",
+      "Let's end the meeting and go home now.",
+      "Let's start the next topic on the agenda.",
+      "Let's buy a new item for the office."
+     ],
+     "answer": 2,
+     "explanation_th": "item ใน agenda คือหัวข้อ move on คือไปหัวข้อถัดไป",
+     "why_wrong": [
+      "move on ในที่นี้ไม่ได้หมายถึงย้ายห้อง",
+      "ยังไม่จบประชุม แค่ไปหัวข้อถัดไป",
+      null,
+      "item ในที่นี้คือหัวข้อ ไม่ใช่สิ่งของ"
+     ]
+    },
+    {
+     "id": "EN400-U4-09",
+     "skill": "EN400-U4",
+     "difficulty": 2,
+     "stem": "The chair asks, 'Any updates from you, Nok?' Nok has finished a translation. Which reply is best?",
+     "options": [
+      "No, nothing from me today. (Even though Nok has finished the translation.)",
+      "Yes. I will finish the menu translation sometime next month, maybe.",
+      "Yes. Joy finished the menu translation, and I did nothing this week.",
+      "Yes. I finished the menu translation, and I'm checking it with Joy today."
+     ],
+     "answer": 3,
+     "explanation_th": "อัปเดตสั้น บอกสิ่งที่เสร็จแล้วและขั้นต่อไป",
+     "why_wrong": [
+      "ไม่บอกความคืบหน้าที่มีจริง",
+      "tense ผิด และไม่ตรงกับความจริงที่ทำเสร็จแล้ว",
+      "ไม่ตรงกับความจริงว่าใครทำ",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "Sorry to interrupt, could I add something?",
+    "I see your point, but we could also try this.",
+    "So my action item is to send the list by Friday."
+   ],
+   "task_th": "ดูคลิปประชุมหรือคลิปเสวนาภาษาอังกฤษ 10 นาที จดประโยคขอพูด เห็นด้วย และไม่เห็นด้วยที่ได้ยิน 3 ประโยค แล้วเขียน action items สมมติ 2 ข้อในรูปแบบ Name to do X by day"
+  },
+  {
+   "id": "EN400-U5",
+   "title_th": "บันทึกงานรายวันและรายงานรายสัปดาห์",
+   "title_en": "Daily logs and weekly reports",
+   "covers": "และต้องมีชั่วโมงปฏิบัติงานไม่น้อยกว่า 16 สัปดาห์",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "16 สัปดาห์ยาว ต้องจดทุกวัน",
+     "body_th": "คำอธิบายรายวิชาบอกว่าต้องปฏิบัติงานไม่น้อยกว่า 16 สัปดาห์ รายละเอียดเล็ก ๆ ลืมง่าย บันทึกสั้น ๆ ทุกวันจะเป็นวัตถุดิบของรายงานตอนจบ แบบฟอร์มหรือจำนวนชั่วโมงที่ต้องบันทึก ให้สอบถามสาขาหรือฝ่ายสหกิจ"
+    },
+    {
+     "title_th": "บันทึกรายวัน 3 บรรทัด",
+     "body_th": "ทำอะไร เรียนรู้อะไร ติดปัญหาอะไร ใช้ past simple กับสิ่งที่ทำแล้ว",
+     "example": "Day 12: Translated two tour emails. Learned the booking system. Need to practise spelling names."
+    },
+    {
+     "title_th": "รายงานรายสัปดาห์",
+     "body_th": "สรุปงานที่ทำ สิ่งที่เรียนรู้ ปัญหาและวิธีแก้ แผนสัปดาห์หน้า (ใช้ will)",
+     "example": "Next week, I will translate the new tour page."
+    },
+    {
+     "title_th": "เขียนปัญหาแบบมืออาชีพ",
+     "body_th": "บอกปัญหาตามจริง แล้วบอกว่าทำอะไรต่อ ไม่โทษคนอื่น",
+     "example": "I had trouble with the booking system, so I asked Joy for a short demo."
+    }
+   ],
+   "vocab": [
+    [
+     "daily log",
+     "บันทึกงานรายวัน"
+    ],
+    [
+     "weekly report",
+     "รายงานรายสัปดาห์"
+    ],
+    [
+     "task",
+     "งาน"
+    ],
+    [
+     "progress",
+     "ความคืบหน้า"
+    ],
+    [
+     "problem",
+     "ปัญหา"
+    ],
+    [
+     "solution",
+     "วิธีแก้"
+    ],
+    [
+     "next steps",
+     "ขั้นต่อไป"
+    ],
+    [
+     "at least",
+     "อย่างน้อย"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "EN400-U5-01",
+     "skill": "EN400-U5",
+     "difficulty": 1,
+     "stem": "Which tense is best for writing what you did today in a daily log?",
+     "options": [
+      "Future: 'I will translate two emails.'",
+      "Present continuous: 'I am translating.'",
+      "Past simple: 'I translated two emails.'",
+      "Base form only: 'I translate two email.'"
+     ],
+     "answer": 2,
+     "explanation_th": "สิ่งที่ทำเสร็จแล้วในวันนั้นใช้ past simple",
+     "why_wrong": [
+      "บันทึกสิ่งที่ทำไปแล้ว ไม่ใช่สิ่งที่จะทำ",
+      "บอกว่ากำลังทำ ไม่ใช่ทำเสร็จแล้ว",
+      null,
+      "ไม่บอกอดีต และ email ต้องเป็นพหูพจน์"
+     ]
+    },
+    {
+     "id": "EN400-U5-02",
+     "skill": "EN400-U5",
+     "difficulty": 2,
+     "stem": "Which daily log entry is the most useful?",
+     "options": [
+      "Day 12: Translated two tour emails. Learned the booking system. Need to practise names.",
+      "Day 12: Did some stuff at the office again today. It was a normal day, nothing much.",
+      "Day 12: Nothing much happened, I think. I can't really remember what I did today.",
+      "Day 12: Translated. Learned. Problem. (I will add the details later, if I remember.)"
+     ],
+     "answer": 0,
+     "explanation_th": "บันทึกที่ดีบอกงาน สิ่งที่เรียนรู้ และสิ่งที่ต้องพัฒนา",
+     "why_wrong": [
+      null,
+      "ไม่บอกว่าทำอะไร เรียนอะไร",
+      "ไม่มีข้อมูลให้ใช้ตอนเขียนรายงาน",
+      "ไม่มีรายละเอียด และเสี่ยงลืม"
+     ]
+    },
+    {
+     "id": "EN400-U5-03",
+     "skill": "EN400-U5",
+     "difficulty": 2,
+     "stem": "The placement lasts at least 16 weeks. Why keep a short daily log from week 1?",
+     "options": [
+      "The company will pay you more money for every page that you write in it.",
+      "Daily logs mean that you do not need to write any final report at all.",
+      "A long log is the only thing your supervisor looks at in week 16 of work.",
+      "Small details are easy to forget, and the log helps you write the final report."
+     ],
+     "answer": 3,
+     "explanation_th": "บันทึกรายวันช่วยจำรายละเอียดและเป็นข้อมูลของรายงานการฝึกปฏิบัติงาน",
+     "why_wrong": [
+      "ไม่มีอะไรบอกเรื่องจ่ายเงินตามหน้า",
+      "คำอธิบายรายวิชาบอกว่าต้องเสนอรายงาน",
+      "เดาเกณฑ์ประเมินเอง ไม่มีข้อมูลรองรับ",
+      null
+     ]
+    },
+    {
+     "id": "EN400-U5-04",
+     "skill": "EN400-U5",
+     "difficulty": 1,
+     "stem": "What usually goes in a weekly report?",
+     "options": [
+      "Only the times that you arrived and left each day",
+      "What you did, what you learned, problems, and next week's plan",
+      "Your colleagues' private problems and their salaries",
+      "A list of the snacks that you ate during the week"
+     ],
+     "answer": 1,
+     "explanation_th": "รายงานรายสัปดาห์สรุปงาน การเรียนรู้ ปัญหา และแผน",
+     "why_wrong": [
+      "ขาดเนื้อหาของงาน",
+      null,
+      "เป็นเรื่องส่วนตัวของคนอื่น ไม่ควรเขียน",
+      "ไม่เกี่ยวกับงาน"
+     ]
+    },
+    {
+     "id": "EN400-U5-05",
+     "skill": "EN400-U5",
+     "difficulty": 2,
+     "stem": "Which sentence states a problem professionally?",
+     "options": [
+      "The booking system is stupid, and whoever made it should be fired today.",
+      "I had trouble with the booking system, but that's IT's problem, not mine.",
+      "Joy never explains anything, so it was her fault that I made errors.",
+      "I had trouble with the booking system, so I asked Joy for a short demo."
+     ],
+     "answer": 3,
+     "explanation_th": "บอกปัญหาตามจริงแล้วบอกว่าแก้อย่างไร",
+     "why_wrong": [
+      "ใช้คำรุนแรงและโทษคนอื่น",
+      "ปัดความรับผิดชอบและไม่ได้แก้ปัญหา",
+      "โทษเพื่อนร่วมงาน ไม่เป็นมืออาชีพ",
+      null
+     ]
+    },
+    {
+     "id": "EN400-U5-06",
+     "skill": "EN400-U5",
+     "difficulty": 2,
+     "stem": "Which is the best 'next week' plan line?",
+     "options": [
+      "Next week, I translated the new tour page.",
+      "Next week, I have translated the tour page.",
+      "Next week, I will translate the new tour page.",
+      "Last week, I will translate the brand new tour page."
+     ],
+     "answer": 2,
+     "explanation_th": "แผนในอนาคตใช้ will + กริยาช่องหนึ่ง",
+     "why_wrong": [
+      "ใช้อดีตกับสัปดาห์หน้าไม่ได้",
+      "present perfect ใช้กับอนาคตไม่ได้",
+      null,
+      "last week ขัดกับ will"
+     ]
+    },
+    {
+     "id": "EN400-U5-07",
+     "skill": "EN400-U5",
+     "difficulty": 1,
+     "stem": "You must use a log form from the faculty, but you do not know which one. What should you do?",
+     "options": [
+      "Make up your own form and hope it is accepted later.",
+      "Ask the faculty or the co-op office which form to use.",
+      "Use a form from a friend at another university.",
+      "Stop writing logs until someone gives you a form."
+     ],
+     "answer": 1,
+     "explanation_th": "เรื่องที่สาขากำหนดให้สอบถามสาขาหรือฝ่ายสหกิจ",
+     "why_wrong": [
+      "อาจไม่ตรงกับที่สาขากำหนด",
+      null,
+      "แบบฟอร์มแต่ละที่ต่างกัน",
+      "เสียข้อมูลรายวันไปเปล่า ๆ"
+     ]
+    },
+    {
+     "id": "EN400-U5-08",
+     "skill": "EN400-U5",
+     "difficulty": 1,
+     "stem": "Choose the best word: 'I ___ 15 guest emails this week.'",
+     "options": [
+      "answered",
+      "answer",
+      "answering",
+      "will answered"
+     ],
+     "answer": 0,
+     "explanation_th": "งานที่ทำไปแล้วในรายงานใช้ past simple",
+     "why_wrong": [
+      null,
+      "ต้องใช้อดีตเพราะทำแล้วในสัปดาห์นี้",
+      "ขาดกริยาช่วย am/was",
+      "will ต้องตามด้วยกริยาช่องหนึ่ง"
+     ]
+    },
+    {
+     "id": "EN400-U5-09",
+     "skill": "EN400-U5",
+     "difficulty": 2,
+     "stem": "Passage: 'Week 3: I answered 40 guest emails and translated one brochure. I learned how to use formal openings. Problem: I was slow at first. Next week: work on speed.' What did the writer learn?",
+     "options": [
+      "How to translate a brochure faster",
+      "How to use formal openings",
+      "How to answer the phone politely",
+      "How to write a weekly plan"
+     ],
+     "answer": 1,
+     "explanation_th": "ข้อความเขียนว่า I learned how to use formal openings.",
+     "why_wrong": [
+      "แปลแผ่นพับเป็นงานที่ทำ ไม่ได้บอกว่าเรียนเรื่องความเร็ว",
+      null,
+      "ไม่มีในข้อความ",
+      "ไม่ได้บอกว่าเรียนเรื่องนี้"
+     ]
+    }
+   ],
+   "say": [
+    "Today I translated two tour emails.",
+    "I had trouble with the system, so I asked for help.",
+    "Next week, I will work on my speed."
+   ],
+   "task_th": "ลองเขียนบันทึกรายวัน 3 บรรทัดเป็นภาษาอังกฤษเกี่ยวกับวันนี้ของตัวเอง (ทำอะไร เรียนรู้อะไร ติดอะไร) ใช้ past simple ทำต่อ 3 วันติดกันเพื่อสร้างนิสัย"
+  },
+  {
+   "id": "EN400-U6",
+   "title_th": "ขอความช่วยเหลือ ขอคำติชม และรับมือเมื่อทำผิด",
+   "title_en": "Asking for help, feedback, and handling mistakes",
+   "covers": "ฝึกปฏิบัติงานในหน่วยงานหรือบริษัทที่เกี่ยวข้องกับลักษณะวิชาเอก",
+   "minutes": 13,
+   "cards": [
+    {
+     "title_th": "ลองก่อน แล้วถามให้ชัด",
+     "body_th": "ก่อนถาม ลองหาคำตอบเองสั้น ๆ แล้วบอกว่าลองอะไรแล้ว ติดตรงไหน",
+     "example": "I've tried the guide, but I'm stuck on step 3. Do you have a minute?"
+    },
+    {
+     "title_th": "ดูจังหวะ",
+     "body_th": "ถ้าอีกฝ่ายยุ่ง ถามว่ามีเวลาไหม หรือรวมคำถามไว้ถามทีเดียว"
+    },
+    {
+     "title_th": "ขอคำติชมแบบเจาะจง",
+     "body_th": "ถามเรื่องเดียวที่ชัด ได้คำตอบที่ใช้ได้จริง",
+     "example": "Could you tell me one thing I can improve in this email?"
+    },
+    {
+     "title_th": "ทำผิด: บอกเร็ว ขอโทษ เสนอทางแก้",
+     "body_th": "แจ้งหัวหน้าเร็ว ขอโทษสั้น ๆ บอกว่าแก้แล้วหรือจะแก้อย่างไร แล้วบอกวิธีกันไม่ให้เกิดซ้ำ",
+     "example": "I'm sorry, I sent the wrong date. I've sent the guest the correct one."
+    },
+    {
+     "title_th": "ขอบคุณคนที่ช่วย",
+     "body_th": "ขอบคุณให้ชัดว่าเขาช่วยอะไร คนจะอยากช่วยเราอีก",
+     "example": "Thank you for your help. It made the task much easier."
+    }
+   ],
+   "vocab": [
+    [
+     "stuck",
+     "ติด ทำต่อไม่ได้"
+    ],
+    [
+     "feedback",
+     "คำติชม"
+    ],
+    [
+     "improve",
+     "ปรับปรุง"
+    ],
+    [
+     "mistake",
+     "ความผิดพลาด"
+    ],
+    [
+     "apologise",
+     "ขอโทษ"
+    ],
+    [
+     "fix",
+     "แก้ไข"
+    ],
+    [
+     "prevent",
+     "ป้องกัน"
+    ],
+    [
+     "checklist",
+     "รายการตรวจ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "EN400-U6-01",
+     "skill": "EN400-U6",
+     "difficulty": 2,
+     "stem": "Which is the best way to ask for help?",
+     "options": [
+      "I can't do this task at all. Can you just do the whole thing for me?",
+      "This guide is useless. Why does nobody here explain things properly?",
+      "I've tried the guide, and I'm stuck. I'll wait until someone notices.",
+      "I've tried the guide, but I'm stuck on step 3. Do you have a minute?"
+     ],
+     "answer": 3,
+     "explanation_th": "บอกว่าลองอะไรแล้ว ติดตรงไหน และถามว่ามีเวลาไหม",
+     "why_wrong": [
+      "ไม่ได้ลองเองและให้คนอื่นทำแทน",
+      "บ่นและโทษคนอื่น ไม่ได้ขอความช่วยเหลือ",
+      "ไม่ขอความช่วยเหลือ งานจะช้า",
+      null
+     ]
+    },
+    {
+     "id": "EN400-U6-02",
+     "skill": "EN400-U6",
+     "difficulty": 1,
+     "stem": "Your colleague looks very busy. When is the best time to ask a question?",
+     "options": [
+      "Ask if they have a minute, or save your questions for a break.",
+      "Ask right away and keep asking until they finally stop working.",
+      "Never ask anything, and guess the answers to all your questions.",
+      "Send ten separate messages, one for each small question you have."
+     ],
+     "answer": 0,
+     "explanation_th": "ถามว่ามีเวลาไหม หรือรวมคำถามไว้ถามตอนว่าง",
+     "why_wrong": [
+      null,
+      "รบกวนงานของเขา",
+      "เดาอาจทำให้ผิด",
+      "รบกวนมากเกินไป ควรรวมคำถาม"
+     ]
+    },
+    {
+     "id": "EN400-U6-03",
+     "skill": "EN400-U6",
+     "difficulty": 1,
+     "stem": "Which question asks for specific feedback?",
+     "options": [
+      "Am I good? Just tell me yes or no, please.",
+      "Do you like me as a person? Be honest with me.",
+      "Could you tell me one thing I can improve in this email?",
+      "Is everything I do always perfect, do you think?"
+     ],
+     "answer": 2,
+     "explanation_th": "ถามเรื่องเดียวที่ชัดได้คำตอบที่นำไปใช้ได้",
+     "why_wrong": [
+      "ถามกว้างเกินไป",
+      "ไม่เกี่ยวกับงาน",
+      null,
+      "ไม่ได้ขอคำติชมที่ใช้ได้จริง"
+     ]
+    },
+    {
+     "id": "EN400-U6-04",
+     "skill": "EN400-U6",
+     "difficulty": 2,
+     "stem": "You sent a guest the wrong date. What is the best first step?",
+     "options": [
+      "Tell your supervisor quickly, say sorry, and suggest how to fix it.",
+      "Say nothing to anyone and hope that the guest never notices it.",
+      "Tell your supervisor that the booking system made the mistake.",
+      "Send the guest a new date quietly, and never tell your supervisor."
+     ],
+     "answer": 0,
+     "explanation_th": "ทำผิดให้แจ้งเร็ว ขอโทษ และเสนอทางแก้",
+     "why_wrong": [
+      null,
+      "แขกอาจมาผิดวัน ปัญหาจะใหญ่ขึ้น",
+      "โทษระบบทั้งที่เราทำผิด ไม่ซื่อสัตย์",
+      "แก้แล้วแต่ปิดบังหัวหน้า ทีมไม่รู้ว่าเกิดอะไร"
+     ]
+    },
+    {
+     "id": "EN400-U6-05",
+     "skill": "EN400-U6",
+     "difficulty": 2,
+     "stem": "Which apology is the most professional?",
+     "options": [
+      "Sorry, sorry, sorry! I'm so stupid. I always ruin everything I touch here.",
+      "I'm sorry, I made a mistake with the date. I've sent the guest the correct one.",
+      "It's not my fault. Nobody told me the right date, so I just guessed it.",
+      "Mistakes happen to everyone, so whatever. It is not a big deal at all."
+     ],
+     "answer": 1,
+     "explanation_th": "ขอโทษสั้น บอกว่าผิดอะไร และบอกว่าแก้แล้ว",
+     "why_wrong": [
+      "ตำหนิตัวเองเกินไป ไม่บอกทางแก้",
+      null,
+      "ไม่รับผิดชอบ",
+      "ไม่ขอโทษและไม่แก้"
+     ]
+    },
+    {
+     "id": "EN400-U6-06",
+     "skill": "EN400-U6",
+     "difficulty": 2,
+     "stem": "Your supervisor says, 'Your translation is accurate, but it's too formal.' Which reply is best?",
+     "options": [
+      "But formal is always better. I don't think I need to change it at all.",
+      "OK. (Then you send the same translation again without any changes.)",
+      "Thank you. Could you show me an example of the style you want?",
+      "Thank you. I will make it much more formal, then, to be safe."
+     ],
+     "answer": 2,
+     "explanation_th": "ขอบคุณและขอตัวอย่างช่วยให้ปรับได้ตรง",
+     "why_wrong": [
+      "ปฏิเสธคำติชม",
+      "ไม่นำคำติชมไปใช้",
+      null,
+      "ทำตรงข้ามกับคำติชม"
+     ]
+    },
+    {
+     "id": "EN400-U6-07",
+     "skill": "EN400-U6",
+     "difficulty": 1,
+     "stem": "A colleague asks, 'Do you have a sec?' What does this mean?",
+     "options": [
+      "Do you have a second job?",
+      "Do you have a secret?",
+      "Do you have a security card?",
+      "Do you have a short time to talk?"
+     ],
+     "answer": 3,
+     "explanation_th": "Do you have a sec? คือขอเวลาสั้น ๆ คุยด้วย",
+     "why_wrong": [
+      "sec ในที่นี้ย่อจาก second ที่แปลว่าวินาที ไม่ใช่งานที่สอง",
+      "ไม่ใช่ความหมายนี้",
+      "ไม่ใช่ความหมายนี้",
+      null
+     ]
+    },
+    {
+     "id": "EN400-U6-08",
+     "skill": "EN400-U6",
+     "difficulty": 1,
+     "stem": "After a mistake, what helps prevent it next time?",
+     "options": [
+      "Promise yourself that you will never make mistakes.",
+      "Avoid doing that type of task ever again at work.",
+      "Make a simple checklist and use it before you send.",
+      "Work faster, so that there is less time for mistakes."
+     ],
+     "answer": 2,
+     "explanation_th": "checklist เปลี่ยนวิธีทำงาน ช่วยกันผิดซ้ำ",
+     "why_wrong": [
+      "คำสัญญาไม่ได้เปลี่ยนวิธีทำงาน",
+      "หนีงาน ไม่ได้พัฒนา",
+      null,
+      "ทำเร็วขึ้นมักผิดมากขึ้น"
+     ]
+    },
+    {
+     "id": "EN400-U6-09",
+     "skill": "EN400-U6",
+     "difficulty": 1,
+     "stem": "A colleague helped you a lot with a task. What is the best thing to say?",
+     "options": [
+      "Thank you for your help. It made the task much easier.",
+      "OK. You can go back to your desk now.",
+      "Thanks, but I could do it alone anyway.",
+      "Next time, please do the whole task for me."
+     ],
+     "answer": 0,
+     "explanation_th": "ขอบคุณและบอกว่าความช่วยเหลือมีประโยชน์อย่างไร",
+     "why_wrong": [
+      null,
+      "ไม่ได้ขอบคุณ",
+      "ลดคุณค่าความช่วยเหลือ",
+      "ขอให้ทำแทน ไม่ได้ขอบคุณ"
+     ]
+    }
+   ],
+   "say": [
+    "I've tried, but I'm stuck on step three. Do you have a minute?",
+    "Could you tell me one thing I can improve?",
+    "I'm sorry, that was my mistake. I've fixed it."
+   ],
+   "task_th": "นึกถึงความผิดพลาดเล็ก ๆ ที่เคยทำ (เรียนหรืองาน) เขียนข้อความขอโทษภาษาอังกฤษ 3 ประโยค (ผิดอะไร แก้แล้วอย่างไร ครั้งหน้าจะกันอย่างไร) แล้วอ่านออกเสียง"
+  },
+  {
+   "id": "EN400-U7",
+   "title_th": "รายงานและการนำเสนอตอนจบ",
+   "title_en": "The final report and presentation",
+   "covers": "ทั้งนี้ผู้ศึกษาต้องเสนอรายงานการฝึกปฏิบัติงานตามที่สาขาวิชากำหนด",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "รูปแบบรายงานสาขาเป็นผู้กำหนด",
+     "body_th": "คำอธิบายรายวิชาบอกว่าต้องเสนอรายงานการฝึกปฏิบัติงานตามที่สาขาวิชากำหนด ความยาว หัวข้อ ภาษา กำหนดส่ง และเกณฑ์ ให้สอบถามสาขาหรือฝ่ายสหกิจ อย่าเดา"
+    },
+    {
+     "title_th": "หัวข้อที่รายงานฝึกงานทั่วไปมักมี",
+     "body_th": "แนะนำหน่วยงาน หน้าที่ของเรา งานที่ทำ สิ่งที่เรียนรู้ ปัญหาและวิธีแก้ ข้อเสนอแนะ ใช้เป็นโครงร่างคร่าว ๆ แล้วปรับตามแบบของสาขา"
+    },
+    {
+     "title_th": "ใช้บันทึกรายวันเป็นข้อมูล",
+     "body_th": "ตัวเลขและตัวอย่างจากบันทึกทำให้รายงานน่าเชื่อ",
+     "example": "Over 16 weeks, I answered more than 300 guest emails."
+    },
+    {
+     "title_th": "ระวังความลับ",
+     "body_th": "ข้อมูลลูกค้า ราคา และเอกสารภายใน ห้ามใส่ถ้าไม่ได้รับอนุญาต ให้ถามหัวหน้าว่าแชร์อะไรได้"
+    },
+    {
+     "title_th": "นำเสนอแบบเล่าเรื่อง",
+     "body_th": "เปิดด้วยโครง ทำอะไร เรียนอะไร เสนออะไร เล่าตัวอย่างจริง 1 เรื่อง ปิดด้วยขอบคุณหน่วยงานและเปิดให้ถาม",
+     "example": "Today I'll share what I did, what I learned, and one suggestion."
+    }
+   ],
+   "vocab": [
+    [
+     "placement report",
+     "รายงานการฝึกปฏิบัติงาน"
+    ],
+    [
+     "format",
+     "รูปแบบ"
+    ],
+    [
+     "suggestion",
+     "ข้อเสนอแนะ"
+    ],
+    [
+     "evidence",
+     "หลักฐาน ข้อมูลสนับสนุน"
+    ],
+    [
+     "confidential",
+     "เป็นความลับ"
+    ],
+    [
+     "overview",
+     "ภาพรวม"
+    ],
+    [
+     "reflection",
+     "การทบทวนสิ่งที่ได้เรียนรู้"
+    ],
+    [
+     "Q&A",
+     "ช่วงถามตอบ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "EN400-U7-01",
+     "skill": "EN400-U7",
+     "difficulty": 1,
+     "stem": "Passage (EN400 course description): '...with students presenting a report as required by the department.' Who decides what the placement report must look like?",
+     "options": [
+      "You, because you can choose any format you like",
+      "Your friends, by voting on the best format",
+      "The company's customers, after reading it",
+      "The department, as the course description says"
+     ],
+     "answer": 3,
+     "explanation_th": "คำอธิบายรายวิชาบอกว่ารายงานต้องเป็นไปตามที่สาขาวิชากำหนด",
+     "why_wrong": [
+      "คำอธิบายรายวิชาบอกว่าเป็นไปตามที่สาขาวิชากำหนด",
+      "ไม่ใช่ผู้กำหนด",
+      "ลูกค้าไม่ได้กำหนดรูปแบบรายงาน",
+      null
+     ]
+    },
+    {
+     "id": "EN400-U7-02",
+     "skill": "EN400-U7",
+     "difficulty": 1,
+     "stem": "Where can you quickly find details and numbers for your report?",
+     "options": [
+      "In a friend’s report from another company",
+      "In your daily logs and weekly reports",
+      "In the company's private customer files",
+      "In your memory only, at the very end"
+     ],
+     "answer": 1,
+     "explanation_th": "บันทึกรายวันและรายสัปดาห์เป็นข้อมูลจริงที่เราจดไว้เอง",
+     "why_wrong": [
+      "เป็นข้อมูลของคนอื่น ใช้ไม่ได้",
+      null,
+      "ข้อมูลลูกค้าเป็นความลับ",
+      "จำได้ไม่ครบหลังผ่านไปหลายสัปดาห์"
+     ]
+    },
+    {
+     "id": "EN400-U7-03",
+     "skill": "EN400-U7",
+     "difficulty": 1,
+     "stem": "Which is a common, useful section in a placement report?",
+     "options": [
+      "My favourite films and TV series this year",
+      "My colleagues' private lives and problems",
+      "A copy of the whole company price list",
+      "Problems I faced and how I solved them"
+     ],
+     "answer": 3,
+     "explanation_th": "ปัญหาและวิธีแก้แสดงการเรียนรู้จากงานจริง",
+     "why_wrong": [
+      "ไม่เกี่ยวกับการฝึกงาน",
+      "เรื่องส่วนตัวของคนอื่น ไม่ควรเขียน",
+      "อาจเป็นข้อมูลลับ และไม่ใช่เนื้อหารายงาน",
+      null
+     ]
+    },
+    {
+     "id": "EN400-U7-04",
+     "skill": "EN400-U7",
+     "difficulty": 2,
+     "stem": "Which sentence fits the report's 'Suggestions' section?",
+     "options": [
+      "I learned a lot of new things during my placement at the company.",
+      "The office had a very nice view of the river from the meeting room.",
+      "The company could add an English FAQ page for common guest questions.",
+      "I usually worked from nine to five, from Monday to Friday each week."
+     ],
+     "answer": 2,
+     "explanation_th": "ข้อเสนอแนะบอกสิ่งที่หน่วยงานทำได้เพื่อให้ดีขึ้น",
+     "why_wrong": [
+      "เป็นสิ่งที่เรียนรู้ ไม่ใช่ข้อเสนอแนะ",
+      "เป็นคำบรรยาย ไม่ใช่ข้อเสนอแนะ",
+      null,
+      "เป็นข้อมูลเวลางาน ไม่ใช่ข้อเสนอแนะ"
+     ]
+    },
+    {
+     "id": "EN400-U7-05",
+     "skill": "EN400-U7",
+     "difficulty": 2,
+     "stem": "Your report draft mentions a client's private prices. What should you do?",
+     "options": [
+      "Keep them in, because more details always make a report look better.",
+      "Remove the private details, and ask your supervisor what you may share.",
+      "Post the report online first, so that people can give you feedback.",
+      "Change the numbers a little so that nobody knows they are real."
+     ],
+     "answer": 1,
+     "explanation_th": "ข้อมูลลับต้องเอาออก และถามหัวหน้าว่าแชร์อะไรได้",
+     "why_wrong": [
+      "เปิดเผยข้อมูลลับของลูกค้า",
+      null,
+      "เปิดเผยข้อมูลบริษัทต่อสาธารณะ",
+      "ยังเป็นข้อมูลลับ และทำให้ข้อมูลไม่จริง"
+     ]
+    },
+    {
+     "id": "EN400-U7-06",
+     "skill": "EN400-U7",
+     "difficulty": 1,
+     "stem": "Which opening is best for your final presentation?",
+     "options": [
+      "Good morning. Today I'll share what I did, what I learned, and one idea.",
+      "Um, hi. I guess I should start. I am not really ready for this, sorry.",
+      "Hello. I will now read my whole report to you, page by page, word by word.",
+      "Good morning. This will be short, because my placement was really boring."
+     ],
+     "answer": 0,
+     "explanation_th": "เปิดด้วยการบอกโครงสามส่วน",
+     "why_wrong": [
+      null,
+      "ไม่มั่นใจและไม่บอกโครง",
+      "อ่านทั้งเล่มทำให้น่าเบื่อ",
+      "ทำให้ภาพหน่วยงานและตัวเองแย่"
+     ]
+    },
+    {
+     "id": "EN400-U7-07",
+     "skill": "EN400-U7",
+     "difficulty": 2,
+     "stem": "Someone asks a question you can't answer. What is the best reply?",
+     "options": [
+      "That question is not important, so let's just move on to the next slide.",
+      "That's a good question. I'm not sure, but I'll check and get back to you.",
+      "I don't know. You should ask someone else about that, not me.",
+      "I'm sure the answer is yes. (You make up an answer so you look smart.)"
+     ],
+     "answer": 1,
+     "explanation_th": "ยอมรับว่าไม่รู้และบอกว่าจะหาคำตอบให้",
+     "why_wrong": [
+      "ปัดคำถาม ไม่สุภาพ",
+      null,
+      "ปัดความรับผิดชอบ",
+      "แต่งคำตอบ ไม่ซื่อสัตย์"
+     ]
+    },
+    {
+     "id": "EN400-U7-08",
+     "skill": "EN400-U7",
+     "difficulty": 1,
+     "stem": "Which closing line is best?",
+     "options": [
+      "That is the end. Please do not ask me anything.",
+      "OK, finished. Can I go home now? I am very tired.",
+      "Sorry it was so bad. I know it was a boring talk.",
+      "Thank you for listening. I'm happy to take any questions."
+     ],
+     "answer": 3,
+     "explanation_th": "ขอบคุณผู้ฟังและเปิดให้ถาม",
+     "why_wrong": [
+      "ปิดการถามตอบ ไม่เป็นมืออาชีพ",
+      "ไม่สุภาพ",
+      "ลดคุณค่างานตัวเอง",
+      null
+     ]
+    },
+    {
+     "id": "EN400-U7-09",
+     "skill": "EN400-U7",
+     "difficulty": 2,
+     "stem": "Which sentence uses data from your logs well?",
+     "options": [
+      "Over 16 weeks, I answered more than 300 guest emails.",
+      "I did a lot of emails and things at the office, I think.",
+      "Everyone in the company said I was the best intern ever.",
+      "Over 16 weeks, I did many tasks and learned many things."
+     ],
+     "answer": 0,
+     "explanation_th": "ตัวเลขจากบันทึกทำให้รายงานน่าเชื่อ",
+     "why_wrong": [
+      null,
+      "ไม่มีตัวเลขและคลุมเครือ",
+      "อ้างเกินจริงโดยไม่มีหลักฐาน",
+      "ไม่มีตัวเลขหรือตัวอย่างที่ชัด"
+     ]
+    }
+   ],
+   "say": [
+    "Today I'll share what I did, what I learned, and one suggestion.",
+    "Over sixteen weeks, I answered hundreds of emails.",
+    "That's a good question. I'll check and get back to you."
+   ],
+   "task_th": "ร่างโครงรายงานภาษาอังกฤษ 6 หัวข้อ (หน่วยงาน หน้าที่ งานที่ทำ สิ่งที่เรียนรู้ ปัญหาและวิธีแก้ ข้อเสนอแนะ) ใส่ประโยคตัวอย่างหัวข้อละ 1 ประโยค แล้วจดคำถามที่ต้องถามสาขาเรื่องรูปแบบรายงาน"
+  }
+ ]
+}

@@ -1,0 +1,1760 @@
+{
+ "code": "ENL441",
+ "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+ "in_class_th": [
+  "น่าจะได้อ่านนวนิยายหรือเรื่องสั้นร่วมสมัยเป็นภาษาอังกฤษ 1 ถึง 3 เรื่อง แล้วอภิปรายในห้อง รายชื่อเรื่องขึ้นกับอาจารย์",
+  "คาดว่าจะได้เรียนเส้นเวลาจาก realism ไป modernism, postmodernism และงานร่วมสมัย พร้อมลักษณะเด่นของแต่ละช่วง",
+  "น่าจะได้ใช้ทฤษฎีวรรณกรรมหลายสำนัก เช่น feminist, Marxist, postcolonial อ่านเรื่องเดียวกันจากหลายมุม",
+  "อาจต้องเขียนบทวิจารณ์สั้นหรือรายงานที่มีข้อโต้แย้ง (claim) และยกข้อความจากเรื่องเป็นหลักฐาน",
+  "งานร่วมสมัยยังมีลิขสิทธิ์ แอปนี้จึงใช้ข้อความตัวอย่างที่เขียนขึ้นเองทั้งหมด และเอ่ยชื่องานจริงเฉพาะข้อเท็จจริงที่รู้กันทั่วไป"
+ ],
+ "units": [
+  {
+   "id": "ENL441-U1",
+   "title_th": "บันเทิงคดีร่วมสมัยคืออะไร และมาจากไหน",
+   "title_en": "What counts as contemporary fiction",
+   "covers": "แนวคิดและวิวัฒนาการของบันเทิงคดีร่วมสมัย",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "บันเทิงคดี (fiction)",
+     "body_th": "เรื่องที่ผู้เขียนแต่งขึ้นจากจินตนาการ เช่น นวนิยาย (novel) เรื่องสั้น (short story) และนวนิยายขนาดสั้น (novella) แม้จะได้แรงบันดาลใจจากเรื่องจริงก็ยังเป็นเรื่องแต่ง"
+    },
+    {
+     "title_th": "ร่วมสมัยเริ่มเมื่อไร",
+     "body_th": "ไม่มีวันเริ่มที่ตายตัว นักวิชาการหลายคนนับตั้งแต่หลังสงครามโลกครั้งที่ 2 (1945) บางคนนับแค่ไม่กี่สิบปีล่าสุด หลักจำง่าย ๆ คือ งานที่เขียนในยุคใกล้เราและพูดถึงโลกที่เราอยู่"
+    },
+    {
+     "title_th": "เส้นเวลาแบบย่อ",
+     "body_th": "realism (ศตวรรษที่ 19) เล่าชีวิตจริงอย่างละเอียด → modernism (ต้นศตวรรษที่ 20) เข้าไปในความคิดตัวละคร เช่น stream of consciousness ของ Virginia Woolf และ James Joyce → postmodernism (หลังกลางศตวรรษที่ 20) เล่นกับรูปแบบการเล่า → งานร่วมสมัยปัจจุบัน"
+    },
+    {
+     "title_th": "ประเด็นที่พบบ่อย",
+     "body_th": "อัตลักษณ์ การย้ายถิ่น ชีวิตระหว่างสองวัฒนธรรม เทคโนโลยีและโซเชียลมีเดีย ความทรงจำและบาดแผล และวิกฤตภูมิอากาศ ซึ่งเกิดเป็นกลุ่มเรียกว่า climate fiction หรือ cli-fi"
+    },
+    {
+     "title_th": "เสียงจากทั่วโลก",
+     "body_th": "บันเทิงคดีภาษาอังกฤษไม่ได้มาจากอังกฤษกับอเมริกาเท่านั้น เช่น Chinua Achebe (ไนจีเรีย) Salman Rushdie (เกิดในอินเดีย) และ Kazuo Ishiguro (เกิดในญี่ปุ่น ได้รางวัลโนเบลสาขาวรรณกรรมปี 2017)"
+    }
+   ],
+   "vocab": [
+    [
+     "fiction",
+     "บันเทิงคดี เรื่องแต่ง"
+    ],
+    [
+     "contemporary",
+     "ร่วมสมัย"
+    ],
+    [
+     "novel",
+     "นวนิยาย"
+    ],
+    [
+     "short story",
+     "เรื่องสั้น"
+    ],
+    [
+     "realism",
+     "สัจนิยม"
+    ],
+    [
+     "modernism",
+     "สมัยใหม่นิยม"
+    ],
+    [
+     "postmodernism",
+     "หลังสมัยใหม่นิยม"
+    ],
+    [
+     "stream of consciousness",
+     "กระแสสำนึก"
+    ],
+    [
+     "climate fiction (cli-fi)",
+     "บันเทิงคดีเรื่องภูมิอากาศ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL441-U1-01",
+     "skill": "ENL441-U1",
+     "difficulty": 1,
+     "stem": "'Fiction' means ____.",
+     "options": [
+      "textbooks that explain science facts",
+      "poems that must rhyme in every line",
+      "stories that a writer imagines and invents",
+      "true news reports about real events and people"
+     ],
+     "answer": 2,
+     "explanation_th": "fiction คือเรื่องแต่งจากจินตนาการของผู้เขียน",
+     "why_wrong": [
+      "ตำราวิทยาศาสตร์เป็นสารคดี",
+      "บทกวีเป็นอีกประเภท และไม่จำเป็นต้องสัมผัส",
+      null,
+      "ข่าวจริงเป็นสารคดี (non-fiction)"
+     ]
+    },
+    {
+     "id": "ENL441-U1-02",
+     "skill": "ENL441-U1",
+     "difficulty": 2,
+     "stem": "Which statement about when 'contemporary fiction' begins is most accurate?",
+     "options": [
+      "There is no fixed date; many scholars start after 1945.",
+      "It means any book that is popular today, even an old one.",
+      "It began in the 1800s with the realist novel.",
+      "It always means books published after the year 2000."
+     ],
+     "answer": 0,
+     "explanation_th": "นิยามต่างกันไป แต่จุดเริ่มที่ใช้บ่อยคือหลังสงครามโลกครั้งที่ 2",
+     "why_wrong": [
+      null,
+      "ร่วมสมัยดูจากช่วงเวลาที่เขียน ไม่ใช่ความนิยมตอนนี้",
+      "realism ศตวรรษที่ 19 เป็นช่วงก่อนหน้า ไม่ใช่ร่วมสมัย",
+      "ไม่มีกฎตายตัวว่าต้องหลังปี 2000"
+     ]
+    },
+    {
+     "id": "ENL441-U1-03",
+     "skill": "ENL441-U1",
+     "difficulty": 1,
+     "stem": "Which order is correct, from earliest to latest?",
+     "options": [
+      "postmodernism, modernism, realism",
+      "realism, modernism, postmodernism",
+      "realism, postmodernism, modernism",
+      "modernism, realism, postmodernism"
+     ],
+     "answer": 1,
+     "explanation_th": "realism ศตวรรษที่ 19 → modernism ต้นศตวรรษที่ 20 → postmodernism หลังกลางศตวรรษที่ 20",
+     "why_wrong": [
+      "เรียงจากใหม่ไปเก่า กลับด้าน",
+      null,
+      "postmodernism มาหลัง modernism ตามชื่อ post- ที่แปลว่าหลัง",
+      "realism มาก่อน modernism"
+     ]
+    },
+    {
+     "id": "ENL441-U1-04",
+     "skill": "ENL441-U1",
+     "difficulty": 2,
+     "stem": "A novel follows a character's flowing thoughts and memories as they jump from one idea to the next. Which technique, linked with modernism, is this?",
+     "options": [
+      "dramatic monologue on a stage",
+      "omniscient summary",
+      "rhyme scheme",
+      "stream of consciousness"
+     ],
+     "answer": 3,
+     "explanation_th": "การเล่าความคิดที่ไหลต่อเนื่องในหัวตัวละคร คือกระแสสำนึก",
+     "why_wrong": [
+      "monologue บนเวทีเป็นของบทละคร",
+      "omniscient summary คือผู้เล่าสรุปเหตุการณ์จากข้างนอก ไม่ได้ไหลตามความคิด",
+      "rhyme scheme เป็นเรื่องของบทกวี",
+      null
+     ]
+    },
+    {
+     "id": "ENL441-U1-05",
+     "skill": "ENL441-U1",
+     "difficulty": 2,
+     "stem": "Which list of themes is MOST typical of contemporary fiction?",
+     "options": [
+      "migration, identity, technology and climate change",
+      "gods, heroes and long wars in ancient Greek epic poems",
+      "the rules of Latin grammar and spelling",
+      "knights, dragons, courtly love and holy quests"
+     ],
+     "answer": 0,
+     "explanation_th": "ประเด็นเหล่านี้สะท้อนโลกปัจจุบันที่ผู้อ่านอยู่",
+     "why_wrong": [
+      null,
+      "เป็นมหากาพย์กรีกโบราณ",
+      "ไม่ใช่ประเด็นของบันเทิงคดี",
+      "เป็นประเด็นของนิยายรักอัศวินยุคกลาง"
+     ]
+    },
+    {
+     "id": "ENL441-U1-06",
+     "skill": "ENL441-U1",
+     "difficulty": 1,
+     "stem": "Passage: \"Mali checked her phone for the ninth time. Her mother's message from Chiang Rai sat there, unanswered, under forty new likes.\" **Which contemporary theme does this passage show most clearly?**",
+     "options": [
+      "the daily routine of a royal court",
+      "a long war between two ancient kingdoms far away",
+      "farming life in the year 1900",
+      "family life in the age of social media"
+     ],
+     "answer": 3,
+     "explanation_th": "โทรศัพท์ ยอดไลก์ และข้อความจากแม่ที่ไม่ได้ตอบ ชี้ไปที่ครอบครัวกับโซเชียลมีเดีย",
+     "why_wrong": [
+      "ไม่มีราชสำนักในข้อความ",
+      "ไม่มีสงครามในข้อความ",
+      "มีโทรศัพท์และยอดไลก์ จึงไม่ใช่ปี 1900",
+      null
+     ]
+    },
+    {
+     "id": "ENL441-U1-07",
+     "skill": "ENL441-U1",
+     "difficulty": 1,
+     "stem": "Climate fiction, or 'cli-fi', is fiction about ____.",
+     "options": [
+      "classic love stories from long ago",
+      "crime in big cities at night",
+      "climate change and its effects",
+      "climbing very high mountains"
+     ],
+     "answer": 2,
+     "explanation_th": "cli-fi ย่อมาจาก climate fiction เรื่องเกี่ยวกับวิกฤตภูมิอากาศ",
+     "why_wrong": [
+      "ไม่เกี่ยวกับเรื่องรักคลาสสิก",
+      "เรื่องอาชญากรรมคือ crime fiction",
+      null,
+      "cli- ไม่ได้มาจาก climb"
+     ]
+    },
+    {
+     "id": "ENL441-U1-08",
+     "skill": "ENL441-U1",
+     "difficulty": 2,
+     "stem": "Writers such as Chinua Achebe (Nigeria) and Salman Rushdie (born in India) show that fiction in English today ____.",
+     "options": [
+      "must always tell stories about British history and kings",
+      "comes from many countries, not only Britain and the USA",
+      "stopped changing after the nineteenth century",
+      "is written only by people who live in London"
+     ],
+     "answer": 1,
+     "explanation_th": "นักเขียนจากหลายประเทศเขียนภาษาอังกฤษ ทำให้เสียงในวรรณกรรมหลากหลาย",
+     "why_wrong": [
+      "งานของพวกเขาเล่าเรื่องสังคมของตัวเองด้วย",
+      null,
+      "ตัวอย่างนี้แสดงว่าวรรณกรรมยังเปลี่ยนต่อเนื่อง",
+      "ทั้งสองคนไม่ได้มาจากลอนดอน"
+     ]
+    },
+    {
+     "id": "ENL441-U1-09",
+     "skill": "ENL441-U1",
+     "difficulty": 3,
+     "stem": "Compared with realism, modernist fiction paid more attention to ____.",
+     "options": [
+      "exact lists of prices and furniture in a room",
+      "rhyme and regular rhythm in every line",
+      "happy endings that solve every problem",
+      "the inner thoughts and feelings of characters"
+     ],
+     "answer": 3,
+     "explanation_th": "modernism หันไปเล่าโลกภายในจิตใจตัวละคร",
+     "why_wrong": [
+      "รายละเอียดภายนอกแบบนี้เป็นจุดเด่นของ realism มากกว่า",
+      "สัมผัสและจังหวะเป็นเรื่องของบทกวี",
+      "modernism มักจบแบบเปิด ไม่ได้คลี่คลายทุกอย่าง",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "Contemporary fiction is fiction from our own time.",
+    "Modernism looks inside a character's mind.",
+    "Fiction in English comes from many countries."
+   ],
+   "task_th": "เลือกนิยาย ซีรีส์ หรือภาพยนตร์ที่สร้างหลังปี 2000 ที่คุณรู้จัก 1 เรื่อง เขียนภาษาอังกฤษ 3 ประโยคว่าเรื่องนี้พูดถึงประเด็นร่วมสมัยข้อไหน (identity, migration, technology, climate) และยกฉากหนึ่งเป็นตัวอย่าง"
+  },
+  {
+   "id": "ENL441-U2",
+   "title_th": "ลักษณะแบบหลังสมัยใหม่",
+   "title_en": "Postmodern features",
+   "covers": "วิวัฒนาการของบันเทิงคดีร่วมสมัย",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "หลังสมัยใหม่สงสัยความจริงหนึ่งเดียว",
+     "body_th": "postmodernism ตั้งคำถามว่ามีความจริงที่สมบูรณ์หนึ่งเดียวหรือไม่ จึงชอบเล่นกับรูปแบบการเล่า ทำให้ผู้อ่านรู้ตัวว่ากำลังอ่านเรื่องแต่ง"
+    },
+    {
+     "title_th": "เรื่องที่รู้ตัวว่าเป็นเรื่อง (metafiction)",
+     "body_th": "เรื่องที่ชี้ให้เห็นว่าตัวเองเป็นเรื่องแต่ง ผู้เขียนอาจคุยกับผู้อ่าน หรือเล่าว่ากำลังเลือกตอนจบ",
+     "example": "Dear reader, I could end this story two ways..."
+    },
+    {
+     "title_th": "ผู้เล่าที่เชื่อไม่ได้ (unreliable narrator)",
+     "body_th": "ผู้เล่าที่โกหก เข้าใจผิด ลำเอียง หรือรู้ไม่ครบ ผู้อ่านต้องจับความขัดแย้งระหว่างสิ่งที่เขาพูดกับสิ่งที่เกิดขึ้น The Remains of the Day ของ Kazuo Ishiguro มักถูกยกเป็นตัวอย่างในห้องเรียน"
+    },
+    {
+     "title_th": "เวลาแตกเป็นชิ้น (fragmented time)",
+     "body_th": "เรื่องไม่เรียงตามเวลา กระโดดไปมาระหว่างอดีต ปัจจุบัน อนาคต ผู้อ่านต้องต่อชิ้นส่วนเอง",
+     "example": "2031 / 1998 / 2015 / 1998"
+    },
+    {
+     "title_th": "ยืมและเล่นกับเรื่องอื่น (intertextuality)",
+     "body_th": "เรื่องหนึ่งอ้างถึง ล้อเลียน หรือเล่าใหม่จากเรื่องอื่น เช่น เล่านิทานเก่าจากมุมของตัวร้าย"
+    }
+   ],
+   "vocab": [
+    [
+     "postmodernism",
+     "หลังสมัยใหม่นิยม"
+    ],
+    [
+     "metafiction",
+     "อภินิยาย เรื่องที่รู้ตัวว่าเป็นเรื่องแต่ง"
+    ],
+    [
+     "unreliable narrator",
+     "ผู้เล่าที่เชื่อถือไม่ได้"
+    ],
+    [
+     "fragmented",
+     "แตกเป็นชิ้น"
+    ],
+    [
+     "non-linear",
+     "ไม่เรียงตามลำดับเวลา"
+    ],
+    [
+     "intertextuality",
+     "สหบท การอ้างถึงตัวบทอื่น"
+    ],
+    [
+     "parody",
+     "การล้อเลียน"
+    ],
+    [
+     "narrator",
+     "ผู้เล่าเรื่อง"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL441-U2-01",
+     "skill": "ENL441-U2",
+     "difficulty": 2,
+     "stem": "Passage: \"Dear reader, I could tell you that Ton found the money. I could also tell you that he did not. I am the writer, so I will choose: he found half of it.\" **Which postmodern feature does this passage show?**",
+     "options": [
+      "strict realism",
+      "a simple flashback",
+      "metafiction",
+      "stream of consciousness"
+     ],
+     "answer": 2,
+     "explanation_th": "ผู้เขียนคุยกับผู้อ่านและบอกว่ากำลังเลือกเหตุการณ์ จึงเป็นเรื่องที่รู้ตัวว่าเป็นเรื่องแต่ง",
+     "why_wrong": [
+      "realism พยายามให้ผู้อ่านลืมว่าเป็นเรื่องแต่ง แต่ข้อความนี้ทำตรงข้าม",
+      "ไม่ได้ย้อนกลับไปอดีต",
+      null,
+      "ไม่ได้เล่าความคิดที่ไหลในหัวตัวละคร"
+     ]
+    },
+    {
+     "id": "ENL441-U2-02",
+     "skill": "ENL441-U2",
+     "difficulty": 2,
+     "stem": "Passage: \"I am the calmest person in my office. Yesterday I only threw one stapler, and only because Bow was humming again.\" **What makes this narrator unreliable?**",
+     "options": [
+      "His action does not match his claim that he is calm.",
+      "He works in an office with other people.",
+      "He tells the whole story in the first person, using 'I'.",
+      "He mentions a coworker by her name, Bow."
+     ],
+     "answer": 0,
+     "explanation_th": "บอกว่าใจเย็นที่สุด แต่ขว้างที่เย็บกระดาษ คำพูดขัดกับการกระทำ",
+     "why_wrong": [
+      null,
+      "การทำงานในออฟฟิศไม่เกี่ยวกับความน่าเชื่อถือ",
+      "ผู้เล่าบุรุษที่ 1 ส่วนใหญ่เชื่อถือได้ ใช้ I อย่างเดียวไม่ทำให้เชื่อไม่ได้",
+      "การเอ่ยชื่อคนไม่ได้แสดงว่าผู้เล่าโกหก"
+     ]
+    },
+    {
+     "id": "ENL441-U2-03",
+     "skill": "ENL441-U2",
+     "difficulty": 2,
+     "stem": "Passage: \"2031: The house is empty. 1998: Grandma plants the mango tree. 2015: The tree falls in a storm. 1998 again: She waters it and sings.\" **Which feature does this passage show?**",
+     "options": [
+      "strict time order from start to end",
+      "non-linear, fragmented time",
+      "a rhyming poem in four lines",
+      "an omniscient narrator who explains everything"
+     ],
+     "answer": 1,
+     "explanation_th": "ปีกระโดดไปมา 2031, 1998, 2015 ไม่เรียงตามเวลา",
+     "why_wrong": [
+      "ปีไม่ได้เรียงจากเก่าไปใหม่",
+      null,
+      "ไม่มีสัมผัส และเป็นร้อยแก้ว",
+      "ผู้เล่าไม่ได้อธิบายอะไรเลย ผู้อ่านต้องต่อเอง"
+     ]
+    },
+    {
+     "id": "ENL441-U2-04",
+     "skill": "ENL441-U2",
+     "difficulty": 1,
+     "stem": "Metafiction is fiction that ____.",
+     "options": [
+      "has no characters or setting at all",
+      "is based only on true events from the writer's life",
+      "shows the reader that it is a made-up story",
+      "must be shorter than one page"
+     ],
+     "answer": 2,
+     "explanation_th": "metafiction ชี้ให้เห็นความเป็นเรื่องแต่งของตัวเอง",
+     "why_wrong": [
+      "metafiction ยังมีตัวละครและฉาก",
+      "เรื่องจากเหตุการณ์จริงเป็นอีกแบบ ไม่ใช่นิยาม",
+      null,
+      "ความยาวไม่เกี่ยวกับนิยาม"
+     ]
+    },
+    {
+     "id": "ENL441-U2-05",
+     "skill": "ENL441-U2",
+     "difficulty": 2,
+     "stem": "Why might an author choose an unreliable narrator?",
+     "options": [
+      "to remove the need for any narrator in the story",
+      "to make readers question what is true and read more closely",
+      "to make the plot follow a simple time order",
+      "to make sure readers get every fact clearly and quickly"
+     ],
+     "answer": 1,
+     "explanation_th": "ผู้อ่านต้องสงสัยและเทียบหลักฐานเอง ทำให้อ่านละเอียดขึ้น",
+     "why_wrong": [
+      "ผู้เล่าที่เชื่อไม่ได้ก็ยังเป็นผู้เล่า",
+      null,
+      "ไม่เกี่ยวกับลำดับเวลา",
+      "ผู้เล่าแบบนี้ทำให้ข้อเท็จจริงไม่ชัด ตรงข้ามกับตัวเลือกนี้"
+     ]
+    },
+    {
+     "id": "ENL441-U2-06",
+     "skill": "ENL441-U2",
+     "difficulty": 2,
+     "stem": "Kazuo Ishiguro's novel The Remains of the Day is often used in class as an example of ____.",
+     "options": [
+      "a collection of rhyming poems",
+      "a comic book with pictures",
+      "a play written for the stage",
+      "an unreliable narrator"
+     ],
+     "answer": 3,
+     "explanation_th": "ผู้เล่าของเรื่องนี้มักถูกยกเป็นตัวอย่างผู้เล่าที่เชื่อไม่ได้ทั้งหมด",
+     "why_wrong": [
+      "เป็นร้อยแก้ว ไม่ใช่บทกวี",
+      "เป็นนวนิยาย ไม่ใช่การ์ตูน",
+      "เป็นนวนิยาย ไม่ใช่บทละคร",
+      null
+     ]
+    },
+    {
+     "id": "ENL441-U2-07",
+     "skill": "ENL441-U2",
+     "difficulty": 1,
+     "stem": "Intertextuality means ____.",
+     "options": [
+      "one text refers to or borrows from other texts",
+      "one text is translated into Thai",
+      "one text has many pictures inside it",
+      "one text is read aloud and sold as an audiobook"
+     ],
+     "answer": 0,
+     "explanation_th": "สหบทคือความเชื่อมโยงระหว่างตัวบท เช่น อ้างถึงหรือเล่าใหม่",
+     "why_wrong": [
+      null,
+      "การแปลเป็นอีกเรื่อง",
+      "รูปภาพไม่ใช่นิยามของสหบท",
+      "หนังสือเสียงคือรูปแบบการนำเสนอ"
+     ]
+    },
+    {
+     "id": "ENL441-U2-08",
+     "skill": "ENL441-U2",
+     "difficulty": 2,
+     "stem": "A new story retells a famous fairy tale from the wolf's point of view, using text messages. Which feature is this?",
+     "options": [
+      "stream of consciousness in a poem",
+      "intertextuality (retelling an older text)",
+      "strict nineteenth-century realism",
+      "a simple timeline with no other texts"
+     ],
+     "answer": 1,
+     "explanation_th": "เรื่องใหม่ยืมและเล่าใหม่จากนิทานเดิม จึงเป็นสหบท (intertextuality)",
+     "why_wrong": [
+      "เป็นข้อความโทรศัพท์ ไม่ใช่บทกวีหรือกระแสสำนึก",
+      null,
+      "realism ไม่ได้เล่นกับเรื่องเก่าแบบนี้",
+      "เรื่องนี้พึ่งนิทานเดิมโดยตรง"
+     ]
+    },
+    {
+     "id": "ENL441-U2-09",
+     "skill": "ENL441-U2",
+     "difficulty": 3,
+     "stem": "Postmodern fiction often ____ the idea of one single, complete truth.",
+     "options": [
+      "requires",
+      "protects",
+      "questions",
+      "proves"
+     ],
+     "answer": 2,
+     "explanation_th": "หลังสมัยใหม่สงสัยความจริงหนึ่งเดียว จึงตั้งคำถาม",
+     "why_wrong": [
+      "ไม่ได้ต้องการความจริงหนึ่งเดียว กลับเล่นกับหลายมุม",
+      "ไม่ได้ปกป้องความคิดนี้ แต่ท้าทายมัน",
+      null,
+      "ไม่ได้พยายามพิสูจน์ความจริงหนึ่งเดียว"
+     ]
+    }
+   ],
+   "say": [
+    "This narrator says one thing but does another.",
+    "The story jumps between the past and the future.",
+    "Metafiction reminds us that we are reading a story."
+   ],
+   "task_th": "เขียนเรื่องสั้นมาก 4 ประโยคเป็นภาษาอังกฤษ เล่าวันหนึ่งของคุณแบบเวลาไม่เรียงลำดับ ใส่ปีหรือเวลาหน้าแต่ละประโยค แล้วเขียนอีก 1 ประโยคแบบ metafiction ที่คุยกับผู้อ่าน"
+  },
+  {
+   "id": "ENL441-U3",
+   "title_th": "บันเทิงคดีตามประเภทกับบันเทิงคดีเชิงวรรณศิลป์",
+   "title_en": "Genre fiction and literary fiction",
+   "covers": "บันเทิงคดีร่วมสมัย",
+   "minutes": 13,
+   "cards": [
+    {
+     "title_th": "บันเทิงคดีตามประเภท (genre fiction)",
+     "body_th": "เรื่องที่ทำตามขนบของประเภท เช่น crime/mystery, romance, science fiction, fantasy, horror, thriller ผู้อ่านรู้ล่วงหน้าว่าจะได้อะไร"
+    },
+    {
+     "title_th": "ขนบ (conventions)",
+     "body_th": "ส่วนที่ผู้อ่านคาดว่าจะเจอ เช่น เรื่องสืบสวนมีนักสืบ เบาะแส และการเฉลย นิยายรักมีเรื่องรักเป็นแกน ผู้เขียนเก่ง ๆ เล่นกับความคาดหวังนี้"
+    },
+    {
+     "title_th": "บันเทิงคดีเชิงวรรณศิลป์ (literary fiction)",
+     "body_th": "เน้นตัวละคร ภาษา และแก่นเรื่อง มากกว่าความเร็วของเหตุการณ์ ตอนจบมักเปิดให้คิด"
+    },
+    {
+     "title_th": "เส้นแบ่งไม่ตายตัว",
+     "body_th": "หลายเรื่องผสมประเภท (genre-blending) และนักเขียนวรรณศิลป์หลายคนใช้ขนบ sci-fi หรือ crime ทั้งสองแบบวิเคราะห์ได้ ไม่ควรตัดสินว่าแบบไหนดีกว่า"
+    }
+   ],
+   "vocab": [
+    [
+     "genre",
+     "ประเภทของงาน"
+    ],
+    [
+     "genre fiction",
+     "บันเทิงคดีตามประเภท"
+    ],
+    [
+     "literary fiction",
+     "บันเทิงคดีเชิงวรรณศิลป์"
+    ],
+    [
+     "convention",
+     "ขนบ"
+    ],
+    [
+     "crime fiction",
+     "นิยายอาชญากรรม"
+    ],
+    [
+     "science fiction",
+     "นิยายวิทยาศาสตร์"
+    ],
+    [
+     "fantasy",
+     "แฟนตาซี"
+    ],
+    [
+     "genre-blending",
+     "การผสมประเภท"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL441-U3-01",
+     "skill": "ENL441-U3",
+     "difficulty": 1,
+     "stem": "Which is a convention of crime fiction?",
+     "options": [
+      "a detective follows clues to solve a case",
+      "a spaceship lands on a new planet",
+      "a dragon guards a pile of gold",
+      "a ghost haunts an old family house every night"
+     ],
+     "answer": 0,
+     "explanation_th": "นักสืบ เบาะแส และการไขคดี เป็นขนบหลักของนิยายอาชญากรรม",
+     "why_wrong": [
+      null,
+      "ยานอวกาศเป็นขนบของนิยายวิทยาศาสตร์",
+      "มังกรเป็นขนบของแฟนตาซี",
+      "ผีหลอกเป็นขนบของเรื่องสยองขวัญ"
+     ]
+    },
+    {
+     "id": "ENL441-U3-02",
+     "skill": "ENL441-U3",
+     "difficulty": 1,
+     "stem": "A story is set on Mars in the year 2190, with robots and new technology. Which genre is it?",
+     "options": [
+      "historical fiction",
+      "romance",
+      "crime fiction",
+      "science fiction"
+     ],
+     "answer": 3,
+     "explanation_th": "อนาคต ดาวอังคาร หุ่นยนต์ เป็นขนบนิยายวิทยาศาสตร์",
+     "why_wrong": [
+      "นิยายอิงประวัติศาสตร์อยู่ในอดีต ไม่ใช่ปี 2190",
+      "ไม่ได้บอกว่าเรื่องรักเป็นแกน",
+      "ไม่ได้มีคดีหรือนักสืบ",
+      null
+     ]
+    },
+    {
+     "id": "ENL441-U3-03",
+     "skill": "ENL441-U3",
+     "difficulty": 1,
+     "stem": "Literary fiction usually puts more focus on ____.",
+     "options": [
+      "following the rules of one genre exactly",
+      "fast action scenes in every chapter",
+      "a surprise twist on the final page",
+      "character, language and theme"
+     ],
+     "answer": 3,
+     "explanation_th": "บันเทิงคดีเชิงวรรณศิลป์เน้นตัวละคร ภาษา และแก่นเรื่อง",
+     "why_wrong": [
+      "การทำตามขนบอย่างเคร่งเป็นลักษณะของ genre fiction",
+      "ฉากแอ็กชันเร็ว ๆ เป็นจุดเด่นของ thriller มากกว่า",
+      "จุดหักมุมมีได้ในทุกแบบ ไม่ใช่จุดเน้นหลัก",
+      null
+     ]
+    },
+    {
+     "id": "ENL441-U3-04",
+     "skill": "ENL441-U3",
+     "difficulty": 1,
+     "stem": "Passage: \"The rain hit the window. Somebody had locked the library from the outside, and the only key was in a dead man's pocket.\" **Which genre does this opening suggest most strongly?**",
+     "options": [
+      "crime or mystery",
+      "science fiction",
+      "romance",
+      "fantasy"
+     ],
+     "answer": 0,
+     "explanation_th": "ห้องที่ถูกล็อก ศพ และกุญแจ เป็นขนบนิยายสืบสวน",
+     "why_wrong": [
+      null,
+      "ไม่มีเทคโนโลยีอนาคต",
+      "ไม่มีเรื่องรักในข้อความ",
+      "ไม่มีเวทมนตร์หรือโลกแฟนตาซี"
+     ]
+    },
+    {
+     "id": "ENL441-U3-05",
+     "skill": "ENL441-U3",
+     "difficulty": 2,
+     "stem": "Passage: \"Pim stood at the old ferry for an hour, not getting on. She thought about her father's hands, and about how quiet the river was, and still she did not get on.\" **Which kind of fiction does this passage suggest most strongly?**",
+     "options": [
+      "a horror story full of monsters",
+      "literary fiction that focuses on inner life",
+      "a science fiction story about space travel",
+      "a crime story about a bank robbery"
+     ],
+     "answer": 1,
+     "explanation_th": "เหตุการณ์แทบไม่เกิด แต่เน้นความคิด ความทรงจำ และบรรยากาศ",
+     "why_wrong": [
+      "ไม่มีสัตว์ประหลาดหรือความน่ากลัว",
+      null,
+      "ไม่มีอวกาศหรือเทคโนโลยี",
+      "ไม่มีอาชญากรรม"
+     ]
+    },
+    {
+     "id": "ENL441-U3-06",
+     "skill": "ENL441-U3",
+     "difficulty": 2,
+     "stem": "Which statement about genre fiction and literary fiction is most accurate?",
+     "options": [
+      "Genre fiction can never be studied at a university.",
+      "A book can belong to only one genre.",
+      "The line is not fixed, and many books mix both.",
+      "Literary fiction never has any plot at all."
+     ],
+     "answer": 2,
+     "explanation_th": "เส้นแบ่งไม่ตายตัว และงานร่วมสมัยหลายเรื่องผสมกัน",
+     "why_wrong": [
+      "มหาวิทยาลัยศึกษาบันเทิงคดีตามประเภทด้วย",
+      "หนังสือหนึ่งเล่มผสมได้หลายประเภท",
+      null,
+      "บันเทิงคดีเชิงวรรณศิลป์ก็มีโครงเรื่อง แค่ไม่ใช่จุดเน้นเดียว"
+     ]
+    },
+    {
+     "id": "ENL441-U3-07",
+     "skill": "ENL441-U3",
+     "difficulty": 1,
+     "stem": "Genre-blending means ____.",
+     "options": [
+      "mixing features of two or more genres in one story",
+      "removing every genre feature from a story",
+      "writing many books in exactly the same genre for years",
+      "translating a story into a different language"
+     ],
+     "answer": 0,
+     "explanation_th": "ผสมขนบหลายประเภท เช่น romance + science fiction",
+     "why_wrong": [
+      null,
+      "ตัดขนบทิ้งหมดไม่ใช่การผสม",
+      "เขียนประเภทเดิมซ้ำไม่ใช่การผสม",
+      "การแปลไม่เกี่ยวกับประเภท"
+     ]
+    },
+    {
+     "id": "ENL441-U3-08",
+     "skill": "ENL441-U3",
+     "difficulty": 2,
+     "stem": "A romance novel usually promises readers ____.",
+     "options": [
+      "a murder to solve",
+      "a monster that scares them",
+      "a central love story",
+      "a future world full of robots"
+     ],
+     "answer": 2,
+     "explanation_th": "แกนของนิยายรักคือความสัมพันธ์ความรัก",
+     "why_wrong": [
+      "การไขคดีเป็นของนิยายอาชญากรรม",
+      "สัตว์ประหลาดเป็นของเรื่องสยองขวัญ",
+      null,
+      "โลกอนาคตเป็นของนิยายวิทยาศาสตร์"
+     ]
+    },
+    {
+     "id": "ENL441-U3-09",
+     "skill": "ENL441-U3",
+     "difficulty": 3,
+     "stem": "Why do conventions matter to readers of genre fiction?",
+     "options": [
+      "They stop writers from using any new ideas.",
+      "They make every book in a genre exactly the same.",
+      "They are laws made by the government.",
+      "They create expectations that a writer can meet or surprise."
+     ],
+     "answer": 3,
+     "explanation_th": "ขนบสร้างความคาดหวัง ผู้เขียนเลือกทำตามหรือหักมุมได้",
+     "why_wrong": [
+      "ผู้เขียนใส่ความคิดใหม่ในขนบได้เสมอ",
+      "ขนบเหมือนกันแต่เรื่องไม่จำเป็นต้องเหมือนกันทุกอย่าง",
+      "ขนบเป็นธรรมเนียม ไม่ใช่กฎหมาย",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "Crime fiction usually has a detective and clues.",
+    "Literary fiction focuses on character and language.",
+    "Many books mix two genres."
+   ],
+   "task_th": "เลือกหนังสือ ซีรีส์ หรือเกมที่ชอบ 3 เรื่อง เขียนภาษาอังกฤษเรื่องละ 1 ประโยคว่าเป็นประเภทอะไร ยกขนบ 1 อย่างที่เห็น และบอกว่ามีการผสมประเภทหรือไม่"
+  },
+  {
+   "id": "ENL441-U4",
+   "title_th": "สกุลความคิด 1: อ่านละเอียดและผู้อ่าน",
+   "title_en": "Literary theory 1: close reading and reader-response",
+   "covers": "สกุลความคิดทางวรรณกรรม",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "ทฤษฎีคือแว่นตา",
+     "body_th": "สกุลความคิดทางวรรณกรรม (literary theory หรือ critical lens) เหมือนแว่นตาคนละสี เรื่องเดียวกัน แต่แต่ละแว่นทำให้เราตั้งคำถามคนละแบบ"
+    },
+    {
+     "title_th": "รูปแบบนิยม (formalism) และการอ่านละเอียด",
+     "body_th": "ดูที่ตัวบทเป็นหลัก ทั้งคำ ภาพ สัญลักษณ์ โครงสร้าง และความขัดแย้งในภาษา ไม่ได้ใช้ชีวิตผู้เขียนเป็นหลักฐานหลัก แนว New Criticism อยู่ในกลุ่มนี้"
+    },
+    {
+     "title_th": "อ่านละเอียดทำอย่างไร",
+     "body_th": "อ่านช่วงสั้นช้า ๆ จดคำที่ซ้ำ ภาพที่ตัดกัน และสิ่งที่แปลก แล้วถามว่า ทำไมผู้เขียนเลือกแบบนี้",
+     "example": "white, white, white... red"
+    },
+    {
+     "title_th": "ผู้อ่านสร้างความหมาย (reader-response)",
+     "body_th": "ความหมายเกิดตอนผู้อ่านพบตัวบท ผู้อ่านต่างประสบการณ์อาจได้ความหมายต่างกัน แต่ยังต้องอ้างตัวบทเป็นหลักฐาน"
+    }
+   ],
+   "vocab": [
+    [
+     "literary theory",
+     "ทฤษฎีวรรณกรรม"
+    ],
+    [
+     "critical lens",
+     "มุมมองเชิงวิจารณ์"
+    ],
+    [
+     "formalism",
+     "รูปแบบนิยม"
+    ],
+    [
+     "close reading",
+     "การอ่านละเอียด"
+    ],
+    [
+     "imagery",
+     "จินตภาพ"
+    ],
+    [
+     "symbol",
+     "สัญลักษณ์"
+    ],
+    [
+     "reader-response",
+     "ทฤษฎีการตอบสนองของผู้อ่าน"
+    ],
+    [
+     "interpretation",
+     "การตีความ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL441-U4-01",
+     "skill": "ENL441-U4",
+     "difficulty": 1,
+     "stem": "Literary theory works like ____ for reading a story.",
+     "options": [
+      "a summary that replaces the story",
+      "a lens that helps you ask certain questions",
+      "a rule that every reader must agree",
+      "a dictionary that gives one correct meaning"
+     ],
+     "answer": 1,
+     "explanation_th": "ทฤษฎีเป็นแว่นช่วยตั้งคำถามบางแบบ ไม่ได้ให้คำตอบเดียว",
+     "why_wrong": [
+      "ยังต้องอ่านตัวเรื่องจริง",
+      null,
+      "ผู้อ่านไม่ต้องเห็นตรงกันทุกคน",
+      "ทฤษฎีไม่ได้ให้ความหมายถูกเพียงหนึ่งเดียว"
+     ]
+    },
+    {
+     "id": "ENL441-U4-02",
+     "skill": "ENL441-U4",
+     "difficulty": 1,
+     "stem": "A formalist (close) reading mainly looks at ____.",
+     "options": [
+      "the author's income and private bank account",
+      "the words, images and structure of the text",
+      "how many copies the book has sold",
+      "the reader's own private diary"
+     ],
+     "answer": 1,
+     "explanation_th": "รูปแบบนิยมใช้ตัวบทเป็นหลักฐานหลัก",
+     "why_wrong": [
+      "รายได้ผู้เขียนอยู่นอกตัวบท",
+      null,
+      "ยอดขายอยู่นอกตัวบท",
+      "ไดอารี่ของผู้อ่านอยู่นอกตัวบท"
+     ]
+    },
+    {
+     "id": "ENL441-U4-03",
+     "skill": "ENL441-U4",
+     "difficulty": 2,
+     "stem": "Passage: \"The house was white. The walls were white. Her dress was white. Only the letter on the table was red.\" **What would a close reader notice first?**",
+     "options": [
+      "the exact age of the author on the day the story was written",
+      "the price of the house in the story",
+      "the repeated 'white' and its contrast with the red letter",
+      "the year that the story was first published"
+     ],
+     "answer": 2,
+     "explanation_th": "คำซ้ำและสีที่ตัดกันเป็นรายละเอียดในตัวบทที่การอ่านละเอียดให้ความสำคัญ",
+     "why_wrong": [
+      "อายุผู้เขียนไม่อยู่ในข้อความ",
+      "ข้อความไม่ได้พูดถึงราคาบ้าน",
+      null,
+      "ปีที่พิมพ์ไม่อยู่ในตัวบท"
+     ]
+    },
+    {
+     "id": "ENL441-U4-04",
+     "skill": "ENL441-U4",
+     "difficulty": 1,
+     "stem": "Reader-response criticism says that meaning ____.",
+     "options": [
+      "is made when a reader meets the text",
+      "lives only in the author's mind",
+      "comes from the design of the cover",
+      "is fixed and the same for every reader"
+     ],
+     "answer": 0,
+     "explanation_th": "ทฤษฎีนี้มองว่าความหมายเกิดจากผู้อ่านกับตัวบทร่วมกัน",
+     "why_wrong": [
+      null,
+      "ไม่ได้ให้ผู้เขียนเป็นเจ้าของความหมายคนเดียว",
+      "ปกหนังสือไม่ใช่แหล่งความหมาย",
+      "ทฤษฎีนี้ยอมรับว่าผู้อ่านต่างกันได้ความหมายต่างกัน"
+     ]
+    },
+    {
+     "id": "ENL441-U4-05",
+     "skill": "ENL441-U4",
+     "difficulty": 2,
+     "stem": "A Thai student and a Canadian student read the same story about leaving home. Each one connects it to different memories. Which lens focuses on this?",
+     "options": [
+      "ecocriticism",
+      "formalism",
+      "Marxist criticism",
+      "reader-response"
+     ],
+     "answer": 3,
+     "explanation_th": "ประสบการณ์ของผู้อ่านที่ต่างกันเป็นจุดสนใจของ reader-response",
+     "why_wrong": [
+      "ecocriticism ดูธรรมชาติ",
+      "formalism ดูตัวบท ไม่ได้ดูความทรงจำของผู้อ่าน",
+      "Marxist ดูชนชั้นและเงิน",
+      null
+     ]
+    },
+    {
+     "id": "ENL441-U4-06",
+     "skill": "ENL441-U4",
+     "difficulty": 2,
+     "stem": "Which question is a formalist question?",
+     "options": [
+      "Which characters are rich, and which are poor?",
+      "What did this story make me remember about my life?",
+      "How much money did the author earn from this book?",
+      "How does the repeated image of a locked door build tension?"
+     ],
+     "answer": 3,
+     "explanation_th": "ถามถึงภาพที่ซ้ำในตัวบทและผลที่เกิด เป็นคำถามแบบอ่านละเอียด",
+     "why_wrong": [
+      "คำถามเรื่องชนชั้นเป็นแนว Marxist",
+      "คำถามเรื่องความทรงจำของผู้อ่านเป็นแนว reader-response",
+      "รายได้ผู้เขียนอยู่นอกตัวบท",
+      null
+     ]
+    },
+    {
+     "id": "ENL441-U4-07",
+     "skill": "ENL441-U4",
+     "difficulty": 2,
+     "stem": "Which question is a reader-response question?",
+     "options": [
+      "What did this story make me remember about my life?",
+      "Which characters are rich, and which are poor?",
+      "How does the story show the river and the forest?",
+      "How does the repeated image of a locked door build tension?"
+     ],
+     "answer": 0,
+     "explanation_th": "ถามถึงประสบการณ์ของผู้อ่านเอง จึงเป็น reader-response",
+     "why_wrong": [
+      null,
+      "ดูชนชั้น เป็นแนว Marxist",
+      "ดูธรรมชาติ เป็นแนว ecocriticism",
+      "ดูภาพในตัวบท เป็นแนว formalism"
+     ]
+    },
+    {
+     "id": "ENL441-U4-08",
+     "skill": "ENL441-U4",
+     "difficulty": 1,
+     "stem": "Close reading means ____.",
+     "options": [
+      "reading only a summary on the internet",
+      "reading the whole book as fast as you can",
+      "reading a short part slowly and noticing details",
+      "reading the author's life story instead"
+     ],
+     "answer": 2,
+     "explanation_th": "อ่านช่วงสั้นอย่างช้าและละเอียด",
+     "why_wrong": [
+      "บทสรุปไม่ใช่ตัวบทจริง",
+      "อ่านเร็วทำให้พลาดรายละเอียด",
+      null,
+      "ชีวประวัติผู้เขียนไม่ใช่การอ่านตัวบท"
+     ]
+    },
+    {
+     "id": "ENL441-U4-09",
+     "skill": "ENL441-U4",
+     "difficulty": 3,
+     "stem": "Even in a reader-response reading, a good student still needs ____.",
+     "options": [
+      "agreement from every other reader",
+      "evidence from the text to support the response",
+      "a film version of the same story",
+      "written permission from the author"
+     ],
+     "answer": 1,
+     "explanation_th": "ความรู้สึกส่วนตัวต้องผูกกับข้อความในเรื่องจึงเป็นการวิจารณ์",
+     "why_wrong": [
+      "ทฤษฎีนี้ยอมรับความเห็นที่ต่างกัน",
+      null,
+      "ภาพยนตร์ไม่จำเป็น",
+      "ไม่ต้องขออนุญาตผู้เขียนเพื่อตีความ"
+     ]
+    }
+   ],
+   "say": [
+    "A critical lens helps me ask new questions.",
+    "Close reading means reading slowly and carefully.",
+    "Different readers can find different meanings."
+   ],
+   "task_th": "เลือกย่อหน้าสั้น ๆ จากเรื่องภาษาอังกฤษที่หมดลิขสิทธิ์หรือที่คุณเขียนเอง อ่านช้า ๆ จดคำซ้ำ 2 คำและภาพที่ตัดกัน 1 คู่ แล้วเขียนภาษาอังกฤษ 2 ประโยค ประโยคแรกแบบ formalist ประโยคที่สองแบบ reader-response"
+  },
+  {
+   "id": "ENL441-U5",
+   "title_th": "สกุลความคิด 2: เพศ ชนชั้น และอาณานิคม",
+   "title_en": "Literary theory 2: feminist, Marxist and postcolonial",
+   "covers": "สกุลความคิดทางวรรณกรรม",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "สตรีนิยม (feminist criticism)",
+     "body_th": "ดูบทบาททางเพศ อำนาจระหว่างเพศ ใครได้พูด ใครถูกทำให้เงียบ และผู้หญิงถูกเล่าอย่างไร"
+    },
+    {
+     "title_th": "มาร์กซิสต์ (Marxist criticism)",
+     "body_th": "ดูชนชั้น เงิน งาน และใครเป็นเจ้าของ ใครทำงาน ใครได้ประโยชน์ ตั้งชื่อตาม Karl Marx"
+    },
+    {
+     "title_th": "หลังอาณานิคม (postcolonial criticism)",
+     "body_th": "ดูผลของลัทธิอาณานิคมต่อผู้คน ภาษา วัฒนธรรม และอัตลักษณ์ รวมถึงการมองกลุ่มหนึ่งเป็น 'คนอื่น' (the Other) Things Fall Apart ของ Chinua Achebe มักถูกอ่านด้วยแว่นนี้"
+    },
+    {
+     "title_th": "เรื่องเดียว หลายแว่น",
+     "body_th": "เรื่องเดียวกันอ่านได้หลายแว่น แต่ละแว่นเห็นคนละอย่าง ไม่มีแว่นเดียวที่ถูกต้อง",
+     "example": "Noi ทำงานที่รีสอร์ต: สามีเอาค่าจ้าง (feminist) | แรงงานค่าแรงต่ำ (Marxist) | แขกต่างชาติไม่ถามชื่อ (postcolonial)"
+    }
+   ],
+   "vocab": [
+    [
+     "feminist criticism",
+     "การวิจารณ์แนวสตรีนิยม"
+    ],
+    [
+     "gender role",
+     "บทบาททางเพศ"
+    ],
+    [
+     "Marxist criticism",
+     "การวิจารณ์แนวมาร์กซิสต์"
+    ],
+    [
+     "social class",
+     "ชนชั้นทางสังคม"
+    ],
+    [
+     "labour",
+     "แรงงาน"
+    ],
+    [
+     "postcolonial criticism",
+     "การวิจารณ์แนวหลังอาณานิคม"
+    ],
+    [
+     "colonialism",
+     "ลัทธิอาณานิคม"
+    ],
+    [
+     "the Other",
+     "คนอื่น กลุ่มที่ถูกมองว่าแตกต่างและด้อยกว่า"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL441-U5-01",
+     "skill": "ENL441-U5",
+     "difficulty": 1,
+     "stem": "A feminist critic is most interested in ____.",
+     "options": [
+      "gender roles and power between women and men",
+      "how nature and animals are shown",
+      "social class, wages and who owns the big factories",
+      "the hidden fears in a character's dreams"
+     ],
+     "answer": 0,
+     "explanation_th": "สตรีนิยมดูบทบาทและอำนาจทางเพศ",
+     "why_wrong": [
+      null,
+      "ธรรมชาติเป็นแนว ecocriticism",
+      "เรื่องชนชั้นและค่าแรงเป็นแนว Marxist",
+      "ความกลัวในฝันเป็นแนว psychoanalytic"
+     ]
+    },
+    {
+     "id": "ENL441-U5-02",
+     "skill": "ENL441-U5",
+     "difficulty": 1,
+     "stem": "A Marxist critic is most interested in ____.",
+     "options": [
+      "the reader's personal memories",
+      "the sounds and rhythm of single words",
+      "social class, money and who controls work",
+      "the effects of colonial rule on local languages"
+     ],
+     "answer": 2,
+     "explanation_th": "Marxist ดูชนชั้น เงิน และอำนาจเหนือแรงงาน",
+     "why_wrong": [
+      "ความทรงจำผู้อ่านเป็นแนว reader-response",
+      "เสียงและจังหวะคำเป็นแนว formalism",
+      null,
+      "ผลของอาณานิคมเป็นแนว postcolonial"
+     ]
+    },
+    {
+     "id": "ENL441-U5-03",
+     "skill": "ENL441-U5",
+     "difficulty": 1,
+     "stem": "Postcolonial criticism studies ____.",
+     "options": [
+      "how rich and poor people share a city",
+      "the effects of colonialism on people, culture and identity",
+      "the role of dreams and the unconscious mind",
+      "the rules of rhyme and rhythm in old poems"
+     ],
+     "answer": 1,
+     "explanation_th": "หลังอาณานิคมดูผลที่ลัทธิอาณานิคมทิ้งไว้",
+     "why_wrong": [
+      "ชนชั้นรวยจนเป็นจุดเน้นของ Marxist",
+      null,
+      "ความฝันและจิตใต้สำนึกเป็นแนว psychoanalytic",
+      "เป็นเรื่องรูปแบบบทกวี"
+     ]
+    },
+    {
+     "id": "ENL441-U5-04",
+     "skill": "ENL441-U5",
+     "difficulty": 2,
+     "stem": "Passage: \"At the resort, Noi cleaned rooms from six in the morning until six at night. The guests, mostly from abroad, called her 'sweetie' and never asked her name. Every Friday, her husband took her wages before she got home.\" **Which question would a FEMINIST critic most likely ask?**",
+     "options": [
+      "Why do the foreign guests never learn a local worker's name?",
+      "How does the resort change the beach and the sea?",
+      "What hidden fear might Noi's dreams reveal?",
+      "Why does Noi's husband take control of her wages?"
+     ],
+     "answer": 3,
+     "explanation_th": "สามีควบคุมเงินของภรรยา เป็นประเด็นอำนาจระหว่างเพศ",
+     "why_wrong": [
+      "แขกต่างชาติกับคนท้องถิ่นเป็นประเด็นของแว่น postcolonial มากกว่า",
+      "ชายหาดและทะเลเป็นแนว ecocriticism",
+      "ความฝันเป็นแนว psychoanalytic",
+      null
+     ]
+    },
+    {
+     "id": "ENL441-U5-05",
+     "skill": "ENL441-U5",
+     "difficulty": 2,
+     "stem": "Passage: \"The factory owner drove home in a new car. The workers who built the car walked home in the rain.\" **Which lens fits this passage best?**",
+     "options": [
+      "Marxist criticism",
+      "feminist criticism",
+      "ecocriticism",
+      "psychoanalytic criticism"
+     ],
+     "answer": 0,
+     "explanation_th": "เจ้าของโรงงานกับคนงานที่สร้างรถแต่ไม่ได้ใช้ เป็นประเด็นชนชั้นและแรงงาน",
+     "why_wrong": [
+      null,
+      "ข้อความไม่ได้พูดถึงเพศ",
+      "ฝนเป็นแค่ฉาก ไม่ใช่ประเด็นธรรมชาติ",
+      "ไม่มีความฝันหรือจิตใต้สำนึก"
+     ]
+    },
+    {
+     "id": "ENL441-U5-06",
+     "skill": "ENL441-U5",
+     "difficulty": 2,
+     "stem": "Passage: \"At school, Kofi was punished for speaking his own language. 'English is the language of the future,' the teacher said, pointing at a map of the old empire.\" **Which lens fits this passage best?**",
+     "options": [
+      "ecocriticism",
+      "reader-response",
+      "formalism",
+      "postcolonial criticism"
+     ],
+     "answer": 3,
+     "explanation_th": "ภาษาท้องถิ่นถูกลงโทษและแผนที่จักรวรรดิ เป็นประเด็นอาณานิคม ภาษา และอัตลักษณ์",
+     "why_wrong": [
+      "ไม่มีประเด็นธรรมชาติ",
+      "ไม่ได้เน้นประสบการณ์ของผู้อ่าน",
+      "formalism ใช้ได้กับทุกข้อความ แต่ข้อความนี้ชี้ไปที่ประเด็นอาณานิคมอย่างชัดเจน",
+      null
+     ]
+    },
+    {
+     "id": "ENL441-U5-07",
+     "skill": "ENL441-U5",
+     "difficulty": 2,
+     "stem": "Passage: \"In every family photo, the father sits in the middle. The mother stands at the edge, half cut off by the frame.\" **Which lens fits this passage best?**",
+     "options": [
+      "Marxist criticism",
+      "ecocriticism",
+      "feminist criticism",
+      "postcolonial criticism"
+     ],
+     "answer": 2,
+     "explanation_th": "พ่ออยู่กลาง แม่ถูกตัดขอบ ชี้ไปที่ตำแหน่งและความสำคัญตามเพศ",
+     "why_wrong": [
+      "ไม่มีประเด็นเงินหรือชนชั้น",
+      "ไม่มีประเด็นธรรมชาติ",
+      null,
+      "ไม่มีประเด็นอาณานิคม"
+     ]
+    },
+    {
+     "id": "ENL441-U5-08",
+     "skill": "ENL441-U5",
+     "difficulty": 3,
+     "stem": "In postcolonial criticism, 'the Other' means ____.",
+     "options": [
+      "the second most important character in a story",
+      "a group that people in power see as different and lower",
+      "a twin brother or sister of the narrator",
+      "a second book that continues the first one"
+     ],
+     "answer": 1,
+     "explanation_th": "the Other คือการมองกลุ่มหนึ่งว่าแปลกและด้อยกว่า",
+     "why_wrong": [
+      "ไม่ได้หมายถึงลำดับความสำคัญของตัวละคร",
+      null,
+      "ไม่เกี่ยวกับพี่น้องฝาแฝด",
+      "ภาคต่อเรียกว่า sequel"
+     ]
+    },
+    {
+     "id": "ENL441-U5-09",
+     "skill": "ENL441-U5",
+     "difficulty": 2,
+     "stem": "Which statement about critical lenses is most accurate?",
+     "options": [
+      "One story can be read through several lenses.",
+      "Each story allows only one correct lens, chosen by the author.",
+      "A lens means you do not need to read the text.",
+      "Only women can use a feminist lens."
+     ],
+     "answer": 0,
+     "explanation_th": "แว่นหลายแบบใช้กับเรื่องเดียวได้ แต่ละแบบเห็นคนละมุม",
+     "why_wrong": [
+      null,
+      "เรื่องหนึ่งอ่านได้หลายแว่น",
+      "ทุกแว่นยังต้องใช้หลักฐานจากตัวบท",
+      "ทุกคนใช้แว่นสตรีนิยมได้"
+     ]
+    }
+   ],
+   "say": [
+    "A feminist reading looks at gender and power.",
+    "A Marxist reading looks at class and money.",
+    "A postcolonial reading looks at the effects of empire."
+   ],
+   "task_th": "เลือกละครหรือซีรีส์ที่คุณดูอยู่ 1 เรื่อง เขียนภาษาอังกฤษ 3 ประโยค ประโยคละแว่น (feminist, Marxist, postcolonial) แต่ละประโยคชี้ฉากหรือรายละเอียด 1 อย่างที่แว่นนั้นจะสนใจ"
+  },
+  {
+   "id": "ENL441-U6",
+   "title_th": "สกุลความคิด 3: จิตวิเคราะห์ ธรรมชาติ และการเลือกแว่น",
+   "title_en": "Literary theory 3: psychoanalytic, ecocriticism and choosing a lens",
+   "covers": "สกุลความคิดทางวรรณกรรม",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "จิตวิเคราะห์ (psychoanalytic criticism)",
+     "body_th": "ใช้แนวคิดของ Sigmund Freud ดูจิตใต้สำนึก ความปรารถนาและความกลัวที่ซ่อนอยู่ ความฝัน และวัยเด็กของตัวละคร"
+    },
+    {
+     "title_th": "การกดเก็บ (repression)",
+     "body_th": "การผลักความทรงจำหรือความคิดที่เจ็บปวดออกจากการรับรู้ แต่มันมักกลับมาในฝัน คำพูดหลุด หรือพฤติกรรมซ้ำ ๆ"
+    },
+    {
+     "title_th": "วรรณกรรมเชิงนิเวศ (ecocriticism)",
+     "body_th": "ดูว่าเรื่องแสดงธรรมชาติและความสัมพันธ์ระหว่างมนุษย์กับสิ่งแวดล้อมอย่างไร ธรรมชาติเป็นแค่ฉากหลัง หรือเป็นเหมือนตัวละครตัวหนึ่ง"
+    },
+    {
+     "title_th": "เลือกแว่นอย่างไร",
+     "body_th": "ให้รายละเอียดในตัวบทเป็นตัวเลือก ถ้าเรื่องเต็มไปด้วยความฝัน ลองจิตวิเคราะห์ ถ้าเต็มไปด้วยแม่น้ำ ป่า มลพิษ ลอง ecocriticism และวิเคราะห์ตัวละคร ไม่ใช่วินิจฉัยตัวผู้เขียน"
+    }
+   ],
+   "vocab": [
+    [
+     "psychoanalytic criticism",
+     "การวิจารณ์แนวจิตวิเคราะห์"
+    ],
+    [
+     "unconscious",
+     "จิตใต้สำนึก"
+    ],
+    [
+     "repression",
+     "การกดเก็บ"
+    ],
+    [
+     "desire",
+     "ความปรารถนา"
+    ],
+    [
+     "ecocriticism",
+     "การวิจารณ์เชิงนิเวศ"
+    ],
+    [
+     "environment",
+     "สิ่งแวดล้อม"
+    ],
+    [
+     "nature",
+     "ธรรมชาติ"
+    ],
+    [
+     "evidence",
+     "หลักฐาน"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL441-U6-01",
+     "skill": "ENL441-U6",
+     "difficulty": 1,
+     "stem": "Psychoanalytic criticism draws mainly on the ideas of ____.",
+     "options": [
+      "Charles Darwin",
+      "Sigmund Freud",
+      "Karl Marx",
+      "William Shakespeare"
+     ],
+     "answer": 1,
+     "explanation_th": "จิตวิเคราะห์มาจากแนวคิดของ Freud",
+     "why_wrong": [
+      "Darwin เป็นนักชีววิทยาเรื่องวิวัฒนาการ",
+      null,
+      "Marx เป็นที่มาของแนว Marxist",
+      "Shakespeare เป็นนักเขียนบทละคร ไม่ใช่ผู้ตั้งทฤษฎีนี้"
+     ]
+    },
+    {
+     "id": "ENL441-U6-02",
+     "skill": "ENL441-U6",
+     "difficulty": 1,
+     "stem": "Ecocriticism studies ____.",
+     "options": [
+      "how literature shows the hidden wishes of characters",
+      "how literature shows the power of one social class",
+      "how literature shows the rules of a single genre",
+      "how literature shows nature and the human relationship with it"
+     ],
+     "answer": 3,
+     "explanation_th": "ecocriticism ดูธรรมชาติและความสัมพันธ์ระหว่างมนุษย์กับสิ่งแวดล้อม",
+     "why_wrong": [
+      "ความปรารถนาที่ซ่อนเป็นแนว psychoanalytic",
+      "อำนาจของชนชั้นเป็นแนว Marxist",
+      "ขนบประเภทเป็นเรื่องของ genre",
+      null
+     ]
+    },
+    {
+     "id": "ENL441-U6-03",
+     "skill": "ENL441-U6",
+     "difficulty": 2,
+     "stem": "Passage: \"Every night Arun dreamed of the locked room in his childhood home. Every morning he told his wife that he had slept well.\" **Which lens fits this passage best?**",
+     "options": [
+      "Marxist criticism",
+      "postcolonial criticism",
+      "psychoanalytic criticism",
+      "ecocriticism"
+     ],
+     "answer": 2,
+     "explanation_th": "ความฝันซ้ำ ห้องในวัยเด็ก และการปิดบัง ชี้ไปที่จิตใต้สำนึก",
+     "why_wrong": [
+      "ไม่มีประเด็นชนชั้นหรือเงิน",
+      "ไม่มีประเด็นอาณานิคม",
+      null,
+      "ไม่มีประเด็นธรรมชาติ"
+     ]
+    },
+    {
+     "id": "ENL441-U6-04",
+     "skill": "ENL441-U6",
+     "difficulty": 2,
+     "stem": "Passage: \"The river used to be loud with fish. Now the resort's pipes pour warm water into it, and the village children swim in the hotel pool instead.\" **Which lens would focus most on what happened to the river itself?**",
+     "options": [
+      "ecocriticism",
+      "feminist criticism",
+      "reader-response",
+      "psychoanalytic criticism"
+     ],
+     "answer": 0,
+     "explanation_th": "คำถามเน้นที่แม่น้ำและผลกระทบต่อสิ่งแวดล้อม",
+     "why_wrong": [
+      null,
+      "ไม่มีประเด็นเพศ",
+      "ไม่ได้ถามถึงประสบการณ์ผู้อ่าน",
+      "ไม่มีความฝันหรือจิตใต้สำนึก"
+     ]
+    },
+    {
+     "id": "ENL441-U6-05",
+     "skill": "ENL441-U6",
+     "difficulty": 2,
+     "stem": "In psychoanalytic criticism, 'repression' means ____.",
+     "options": [
+      "printing the same book again with a new cover",
+      "pushing painful memories out of conscious awareness",
+      "repeating one word many times for effect",
+      "writing a story again in a shorter form"
+     ],
+     "answer": 1,
+     "explanation_th": "repression ในจิตวิเคราะห์คือการกดความทรงจำเจ็บปวดลงจิตใต้สำนึก",
+     "why_wrong": [
+      "พิมพ์ใหม่คือ reprint",
+      null,
+      "การซ้ำคำคือ repetition",
+      "เขียนให้สั้นลงคือ summary หรือ adaptation"
+     ]
+    },
+    {
+     "id": "ENL441-U6-06",
+     "skill": "ENL441-U6",
+     "difficulty": 2,
+     "stem": "Which question would an ecocritic ask?",
+     "options": [
+      "Who owns the land, and who works on it for low pay?",
+      "How did I personally feel about the ending?",
+      "Which character hides a fear from childhood?",
+      "Is nature only a background here, or does it act like a character?"
+     ],
+     "answer": 3,
+     "explanation_th": "ถามบทบาทของธรรมชาติในเรื่อง เป็นคำถามแนวนิเวศ",
+     "why_wrong": [
+      "เจ้าของที่ดินกับแรงงานค่าแรงต่ำเป็นแนว Marxist",
+      "ความรู้สึกส่วนตัวเป็นแนว reader-response",
+      "ความกลัวจากวัยเด็กเป็นแนว psychoanalytic",
+      null
+     ]
+    },
+    {
+     "id": "ENL441-U6-07",
+     "skill": "ENL441-U6",
+     "difficulty": 2,
+     "stem": "A character keeps washing her hands after an accident that she says she 'does not remember'. Which lens would explore this most?",
+     "options": [
+      "Marxist criticism",
+      "ecocriticism",
+      "psychoanalytic criticism",
+      "formalism of rhyme and metre"
+     ],
+     "answer": 2,
+     "explanation_th": "พฤติกรรมซ้ำ ๆ กับความทรงจำที่ปฏิเสธ ชี้ไปที่การกดเก็บ",
+     "why_wrong": [
+      "ไม่มีประเด็นชนชั้น",
+      "ไม่มีประเด็นธรรมชาติ",
+      null,
+      "ไม่ใช่บทกวี และไม่เกี่ยวกับสัมผัส"
+     ]
+    },
+    {
+     "id": "ENL441-U6-08",
+     "skill": "ENL441-U6",
+     "difficulty": 1,
+     "stem": "What is the BEST way to choose a lens for a short essay?",
+     "options": [
+      "Pick the lens that the details in the text support best.",
+      "Pick the lens that your friend used.",
+      "Always pick the newest lens.",
+      "Pick a lens first and then ignore any details that do not fit."
+     ],
+     "answer": 0,
+     "explanation_th": "ให้หลักฐานในตัวบทนำทาง",
+     "why_wrong": [
+      null,
+      "แว่นของเพื่อนอาจไม่เหมาะกับหลักฐานของเรา",
+      "ความใหม่ของทฤษฎีไม่ได้ทำให้เหมาะกับเรื่อง",
+      "การมองข้ามหลักฐานทำให้การวิเคราะห์อ่อน"
+     ]
+    },
+    {
+     "id": "ENL441-U6-09",
+     "skill": "ENL441-U6",
+     "difficulty": 3,
+     "stem": "Which is a FAIR use of a psychoanalytic lens?",
+     "options": [
+      "checking the price of the book in different shops",
+      "reading a character's dreams as signs of hidden fears",
+      "counting how many trees appear in the story",
+      "claiming that the real author must be mentally ill"
+     ],
+     "answer": 1,
+     "explanation_th": "วิเคราะห์ตัวละครจากหลักฐานในเรื่อง ไม่ใช่วินิจฉัยผู้เขียน",
+     "why_wrong": [
+      "ราคาไม่เกี่ยวกับทฤษฎีนี้",
+      null,
+      "การนับต้นไม้เป็นงานแนวนิเวศ ไม่ใช่จิตวิเคราะห์",
+      "การตัดสินสุขภาพจิตผู้เขียนจากเรื่องแต่งไม่ยุติธรรมและไม่มีหลักฐาน"
+     ]
+    }
+   ],
+   "say": [
+    "A psychoanalytic reading looks at dreams and hidden fears.",
+    "Ecocriticism asks how a story shows nature.",
+    "I choose a lens that fits the evidence."
+   ],
+   "task_th": "เขียนย่อหน้าสั้น 3 ประโยคเป็นภาษาอังกฤษ เล่าตัวละครที่คุณแต่งเองซึ่งมีความฝันแปลก ๆ หรืออยู่ใกล้ธรรมชาติที่กำลังเปลี่ยน แล้วเขียนอีก 1 ประโยคว่าแว่นไหนเหมาะ เพราะรายละเอียดอะไร"
+  },
+  {
+   "id": "ENL441-U7",
+   "title_th": "ฝึกเขียนบทวิจารณ์สั้น",
+   "title_en": "Writing a short critical response",
+   "covers": "และฝึกวิเคราะห์วิจารณ์",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "สรุปกับวิเคราะห์ต่างกัน",
+     "body_th": "สรุป (summary) เล่าว่าเกิดอะไรขึ้น วิเคราะห์ (analysis) อธิบายว่าทำไมและหมายความว่าอะไร บทวิจารณ์ต้องวิเคราะห์เป็นหลัก",
+     "example": "Summary: The clock is broken. | Analysis: The broken clock suggests the family is stuck in the past."
+    },
+    {
+     "title_th": "ข้อโต้แย้งหลัก (claim)",
+     "body_th": "ประโยคที่คนอื่นเถียงได้และพิสูจน์ด้วยตัวบท ไม่ใช่ข้อเท็จจริงล้วน ๆ และไม่ใช่แค่ชอบหรือไม่ชอบ"
+    },
+    {
+     "title_th": "ย่อหน้า 4 ขั้น",
+     "body_th": "ข้อโต้แย้ง (claim) → หลักฐาน (evidence) ยกคำพูดสั้น ๆ ในเครื่องหมายคำพูด → อธิบาย (explanation) ว่าหลักฐานสนับสนุนอย่างไร → เชื่อมกลับ (link) ไปที่ข้อโต้แย้งหรือแว่นที่ใช้"
+    },
+    {
+     "title_th": "ภาษาของบทวิจารณ์",
+     "body_th": "เล่าเหตุการณ์ในเรื่องด้วย present simple ใช้คำอย่างระวัง เช่น suggests, may show, seems to แทนการฟันธง 100%",
+     "example": "When Mali says 'I am fine', her shaking hands suggest that she is not."
+    }
+   ],
+   "vocab": [
+    [
+     "critical response",
+     "บทวิจารณ์สั้น"
+    ],
+    [
+     "claim",
+     "ข้อโต้แย้งหลัก"
+    ],
+    [
+     "evidence",
+     "หลักฐาน"
+    ],
+    [
+     "analysis",
+     "การวิเคราะห์"
+    ],
+    [
+     "summary",
+     "การสรุปความ"
+    ],
+    [
+     "quotation",
+     "ข้อความที่ยกมา"
+    ],
+    [
+     "suggest",
+     "ชี้ให้เห็น บอกเป็นนัย"
+    ],
+    [
+     "hedging",
+     "การใช้ภาษาอย่างระมัดระวัง"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL441-U7-01",
+     "skill": "ENL441-U7",
+     "difficulty": 1,
+     "stem": "Which sentence is analysis, not summary?",
+     "options": [
+      "In chapter two, the father goes to work and comes home late.",
+      "The family lives in an old wooden house near the river.",
+      "The broken clock suggests that the family is stuck in the past.",
+      "The story has twelve chapters and a short ending."
+     ],
+     "answer": 2,
+     "explanation_th": "อธิบายความหมายของสัญลักษณ์ จึงเป็นการวิเคราะห์",
+     "why_wrong": [
+      "เล่าเหตุการณ์ เป็นการสรุป",
+      "เล่าข้อเท็จจริงเรื่องฉาก เป็นการสรุป",
+      null,
+      "บอกข้อมูลรูปเล่ม ไม่ใช่การวิเคราะห์"
+     ]
+    },
+    {
+     "id": "ENL441-U7-02",
+     "skill": "ENL441-U7",
+     "difficulty": 2,
+     "stem": "Which is the best claim for a short critical response?",
+     "options": [
+      "I really liked this story, and it was very sad.",
+      "The story was first published in a magazine.",
+      "This story is about a woman who works at a resort.",
+      "Noi's silence shows how low-paid workers become invisible."
+     ],
+     "answer": 3,
+     "explanation_th": "เป็นข้อโต้แย้งที่เถียงได้และพิสูจน์ด้วยตัวบท",
+     "why_wrong": [
+      "เป็นความชอบส่วนตัว ไม่ใช่ข้อโต้แย้ง",
+      "เป็นข้อมูลการพิมพ์ ไม่ใช่การตีความ",
+      "เป็นแค่การบอกเนื้อเรื่อง ไม่มีอะไรให้พิสูจน์",
+      null
+     ]
+    },
+    {
+     "id": "ENL441-U7-03",
+     "skill": "ENL441-U7",
+     "difficulty": 1,
+     "stem": "In literary analysis, we usually describe events in the story in the ____ tense.",
+     "options": [
+      "past",
+      "future",
+      "present",
+      "past perfect"
+     ],
+     "answer": 2,
+     "explanation_th": "ธรรมเนียมการเขียนวิจารณ์ใช้ present เช่น Mali opens the door.",
+     "why_wrong": [
+      "past ใช้ในการเล่าเรื่องเอง แต่บทวิจารณ์ใช้ present",
+      "เหตุการณ์ในเรื่องไม่ได้อยู่ในอนาคต",
+      null,
+      "past perfect ทำให้ซับซ้อนและไม่ใช่ธรรมเนียม"
+     ]
+    },
+    {
+     "id": "ENL441-U7-04",
+     "skill": "ENL441-U7",
+     "difficulty": 1,
+     "stem": "After you give a quotation as evidence, the next step is to ____.",
+     "options": [
+      "start a new topic in the next sentence",
+      "explain how the quotation supports your claim",
+      "add a second quotation right away",
+      "retell the whole plot from the start"
+     ],
+     "answer": 1,
+     "explanation_th": "หลังหลักฐานต้องอธิบายเสมอ",
+     "why_wrong": [
+      "ยังไม่ได้อธิบายหลักฐานก็เปลี่ยนเรื่องแล้ว",
+      null,
+      "หลักฐานซ้อนกันโดยไม่อธิบายทำให้ไม่ชัด",
+      "การเล่าเรื่องใหม่เป็นการสรุป ไม่ใช่การวิเคราะห์"
+     ]
+    },
+    {
+     "id": "ENL441-U7-05",
+     "skill": "ENL441-U7",
+     "difficulty": 2,
+     "stem": "Which sentence uses careful, academic hedging?",
+     "options": [
+      "The red door is obviously danger, period.",
+      "Everyone knows the red door is danger.",
+      "The red door means danger, one hundred percent.",
+      "The red door may symbolise danger."
+     ],
+     "answer": 3,
+     "explanation_th": "may symbolise เป็นภาษาที่ระวังและเปิดให้มีหลักฐาน",
+     "why_wrong": [
+      "obviously และ period เป็นการฟันธง",
+      "อ้างว่าทุกคนรู้ ไม่มีหลักฐาน",
+      "ฟันธง 100% ไม่ใช่ภาษาวิชาการ",
+      null
+     ]
+    },
+    {
+     "id": "ENL441-U7-06",
+     "skill": "ENL441-U7",
+     "difficulty": 2,
+     "stem": "Which sentence uses a short quotation correctly?",
+     "options": [
+      "When Mali says 'I am fine', her shaking hands suggest she is not.",
+      "Mali says something like she is fine, I think, maybe, in chapter two of the story.",
+      "'I am fine.' This quote is good and shows a lot.",
+      "Mali says I am fine she is not fine because hands."
+     ],
+     "answer": 0,
+     "explanation_th": "ยกคำพูดสั้นในเครื่องหมายคำพูดและผูกกับการวิเคราะห์ในประโยคเดียว",
+     "why_wrong": [
+      null,
+      "ไม่ได้ยกคำพูดจริงและไม่ชัดเจน",
+      "ยกคำพูดลอย ๆ แล้วไม่ได้อธิบายว่าแสดงอะไร",
+      "ไม่มีเครื่องหมายคำพูดและประโยคผิดไวยากรณ์"
+     ]
+    },
+    {
+     "id": "ENL441-U7-07",
+     "skill": "ENL441-U7",
+     "difficulty": 3,
+     "stem": "Passage: \"The new mall opened where the rice fields used to be. Pim's father took a job there, pushing trolleys in the car park. In the evenings he still looked toward the place where the paddies had been.\" **Which response sentence uses an ECOCRITICAL lens?**",
+     "options": [
+      "The mall built on the rice fields shows how development erases the land.",
+      "As a reader, this passage reminds me of my own grandfather.",
+      "The father's new job shows how farmers become low-paid workers.",
+      "The father's long look at the empty fields may reveal a grief he cannot speak."
+     ],
+     "answer": 0,
+     "explanation_th": "เน้นผลต่อผืนนาและแผ่นดิน จึงเป็นแนวนิเวศ",
+     "why_wrong": [
+      null,
+      "เน้นความทรงจำของผู้อ่าน เป็นแนว reader-response",
+      "เน้นชนชั้นและแรงงาน เป็นแนว Marxist",
+      "เน้นความเศร้าที่พูดไม่ได้ เป็นแนว psychoanalytic"
+     ]
+    },
+    {
+     "id": "ENL441-U7-08",
+     "skill": "ENL441-U7",
+     "difficulty": 2,
+     "stem": "Which is the best order for a short critical paragraph?",
+     "options": [
+      "evidence, link, claim, explanation",
+      "claim, evidence, explanation, link",
+      "link, evidence, explanation, claim",
+      "explanation, claim, link, evidence"
+     ],
+     "answer": 1,
+     "explanation_th": "เริ่มด้วยข้อโต้แย้ง ตามด้วยหลักฐาน อธิบาย แล้วเชื่อมกลับ",
+     "why_wrong": [
+      "ยกหลักฐานก่อนบอกว่าจะพิสูจน์อะไร ผู้อ่านจะงง",
+      null,
+      "เชื่อมกลับตั้งแต่ต้นทั้งที่ยังไม่มีอะไรให้เชื่อม",
+      "อธิบายก่อนมีข้อโต้แย้งและหลักฐาน"
+     ]
+    },
+    {
+     "id": "ENL441-U7-09",
+     "skill": "ENL441-U7",
+     "difficulty": 2,
+     "stem": "A short critical response should be ____.",
+     "options": [
+      "a list of your favourite characters, with no reasons given",
+      "a full retelling of the plot from beginning to end",
+      "an argued reading supported by evidence from the text",
+      "a copy of the back cover"
+     ],
+     "answer": 2,
+     "explanation_th": "บทวิจารณ์คือการตีความที่มีข้อโต้แย้งและหลักฐาน",
+     "why_wrong": [
+      "รายชื่อตัวละครที่ชอบไม่มีข้อโต้แย้ง",
+      "การเล่าเรื่องทั้งหมดเป็นการสรุป",
+      null,
+      "การคัดลอกปกหลังไม่ใช่งานของเราเอง"
+     ]
+    }
+   ],
+   "say": [
+    "My claim is that the broken clock shows a family stuck in the past.",
+    "The text says this, and it suggests that.",
+    "I use the present tense when I write about a story."
+   ],
+   "task_th": "ใช้เรื่องสั้นตัวอย่างในแอปหรือที่คุณเขียนเอง เขียนย่อหน้าวิจารณ์ภาษาอังกฤษ 4 ประโยคตามลำดับ claim, evidence (ยกคำสั้น ๆ ในเครื่องหมายคำพูด), explanation, link ใช้ present simple และใช้คำว่า suggests หรือ may อย่างน้อย 1 ครั้ง"
+  }
+ ]
+}

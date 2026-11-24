@@ -1,0 +1,1820 @@
+{
+ "code": "ENL431",
+ "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+ "in_class_th": [
+  "น่าจะได้แยกคำเป็นหน่วยคำ บอกชนิดของหน่วยคำ และอธิบายว่าคำใหม่สร้างขึ้นด้วยวิธีไหน ต่อยอดจากหน่วยสัณฐานวิทยาใน ENL231",
+  "คาดว่าจะได้วิเคราะห์วลีว่าคำไหนเป็นคำหลัก (head) คำไหนขยาย และอาจต้องวาดแผนภูมิต้นไม้หรือใส่วงเล็บแบ่งวลี",
+  "น่าจะต้องระบุส่วนประกอบของประโยค S V O C A และบอกชนิดของอนุประโยคในตัวอย่างจริง",
+  "อาจได้งานเก็บตัวอย่างจากหัวข่าว โฆษณา หรือโพสต์โซเชียล แล้ววิเคราะห์โครงสร้างหรือความกำกวมเป็นรายงานหรือนำเสนอ",
+  "ตัวอย่างในแอปนี้เขียนขึ้นเองทั้งหมด ศัพท์เฉพาะที่อาจารย์ใช้อาจต่างไปตามตำราที่เลือก"
+ ],
+ "units": [
+  {
+   "id": "ENL431-U1",
+   "title_th": "หน่วยคำ: ราก หน่วยเติม และลำดับ",
+   "title_en": "Morphemes: roots, affixes and order",
+   "covers": "ส่วนประกอบและโครงสร้างของคำ",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "ต่อยอดจาก ENL231",
+     "body_th": "ใน ENL231 เราแยกหน่วยคำอิสระ (free) กับไม่อิสระ (bound) และหน่วยคำผันรูป (inflectional) กับสร้างคำ (derivational) แล้ว วิชานี้ใช้ความรู้นั้นวิเคราะห์คำยาว ๆ ทีละชั้น",
+     "example": "un + break + able = unbreakable"
+    },
+    {
+     "title_th": "ราก (root) กับฐาน (base)",
+     "body_th": "ราก คือแกนความหมายที่เล็กที่สุด ฐาน คือส่วนที่เรากำลังเติมหน่วยคำเข้าไป รากบางตัวเป็นหน่วยคำไม่อิสระ (bound root) อยู่เดี่ยว ๆ ไม่ได้ เช่น -ceive ใน receive, deceive",
+     "example": "teach (ราก) → teacher (ฐานของ -s) → teachers"
+    },
+    {
+     "title_th": "หน่วยคำผันรูป 8 ตัว",
+     "body_th": "พหูพจน์ -s, แสดงเจ้าของ -'s, กริยาเอกพจน์บุรุษที่ 3 -s, อดีต -ed, กริยาช่องสาม -en/-ed, -ing, ขั้นกว่า -er, ขั้นสุด -est หน่วยเหล่านี้ไม่เปลี่ยนชนิดคำ",
+     "example": "The two girls' brother walks faster."
+    },
+    {
+     "title_th": "ลำดับในคำ",
+     "body_th": "หน่วยคำสร้างคำอยู่ใกล้รากกว่า หน่วยคำผันรูปอยู่นอกสุด จึงได้ organ + ize + er + s ไม่ใช่ organ + ize + s + er",
+     "example": "organizers"
+    },
+    {
+     "title_th": "หน่วยคำเดียว หลายรูป (allomorph)",
+     "body_th": "หน่วยคำเดียวกันออกเสียงหรือเขียนได้หลายแบบตามเสียงรอบข้าง เช่น พหูพจน์ -s ออกเสียง /s/ ใน cats, /z/ ใน dogs, /ɪz/ ใน buses และ in- ปฏิเสธ กลายเป็น im-, il-, ir-",
+     "example": "impossible, illegal, irregular"
+    }
+   ],
+   "vocab": [
+    [
+     "root",
+     "รากคำ"
+    ],
+    [
+     "base",
+     "ฐานคำ"
+    ],
+    [
+     "affix",
+     "หน่วยเติม"
+    ],
+    [
+     "prefix",
+     "หน่วยเติมหน้า"
+    ],
+    [
+     "suffix",
+     "หน่วยเติมท้าย"
+    ],
+    [
+     "bound root",
+     "รากที่อยู่เดี่ยวไม่ได้"
+    ],
+    [
+     "inflectional morpheme",
+     "หน่วยคำผันรูป"
+    ],
+    [
+     "derivational morpheme",
+     "หน่วยคำสร้างคำ"
+    ],
+    [
+     "allomorph",
+     "รูปแปรของหน่วยคำ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL431-U1-01",
+     "skill": "ENL431-U1",
+     "difficulty": 1,
+     "stem": "In the word 'teachers', which part is the root?",
+     "options": [
+      "teach",
+      "-er",
+      "-s",
+      "-ers"
+     ],
+     "answer": 0,
+     "explanation_th": "teach เป็นแกนความหมาย -er และ -s เติมทีหลัง",
+     "why_wrong": [
+      null,
+      "-er เป็นหน่วยคำสร้างคำที่เติมเข้ากับราก ไม่ใช่ราก",
+      "-s เป็นหน่วยคำผันรูปพหูพจน์ อยู่นอกสุด",
+      "-ers คือหน่วยเติม 2 ตัวรวมกัน ไม่ใช่ราก"
+     ]
+    },
+    {
+     "id": "ENL431-U1-02",
+     "skill": "ENL431-U1",
+     "difficulty": 2,
+     "stem": "In 'receive' and 'deceive', the part '-ceive' cannot stand alone as a word. It is ____.",
+     "options": [
+      "a prefix",
+      "a bound root",
+      "an inflectional suffix",
+      "a free morpheme"
+     ],
+     "answer": 1,
+     "explanation_th": "-ceive เป็นแกนความหมายของคำ แต่อยู่เดี่ยว ๆ ไม่ได้ จึงเป็นรากไม่อิสระ",
+     "why_wrong": [
+      "prefix อยู่หน้าคำ ส่วน re- และ de- ต่างหากที่เป็น prefix",
+      null,
+      "หน่วยคำผันรูปมีแค่ 8 ตัว เช่น -s, -ed และ -ceive ไม่อยู่ในนั้น",
+      "หน่วยคำอิสระต้องอยู่เดี่ยวเป็นคำได้ แต่ ceive ไม่ใช่คำ"
+     ]
+    },
+    {
+     "id": "ENL431-U1-03",
+     "skill": "ENL431-U1",
+     "difficulty": 1,
+     "stem": "A post says: 'My sister runs faster than me.' Which word has an inflectional suffix that shows comparison?",
+     "options": [
+      "runs",
+      "than",
+      "faster",
+      "sister"
+     ],
+     "answer": 2,
+     "explanation_th": "-er ใน faster เป็นหน่วยคำผันรูปขั้นกว่า",
+     "why_wrong": [
+      "-s ใน runs เป็นหน่วยคำผันรูปก็จริง แต่บอกบุรุษที่ 3 ไม่ได้บอกการเปรียบเทียบ",
+      "than เป็นคำเดี่ยว ไม่มีหน่วยเติม",
+      null,
+      "-er ใน sister ไม่ใช่หน่วยคำ sister เป็นหน่วยคำเดียว"
+     ]
+    },
+    {
+     "id": "ENL431-U1-04",
+     "skill": "ENL431-U1",
+     "difficulty": 2,
+     "stem": "In 'organizers', the suffixes come in which order?",
+     "options": [
+      "-er, then -ize, then -s",
+      "-ize, then -s, then -er",
+      "-s, then -er, then -ize",
+      "-ize, then -er, then -s"
+     ],
+     "answer": 3,
+     "explanation_th": "organ + ize (นาม→กริยา) + er (กริยา→นาม) + s (พหูพจน์) หน่วยผันรูปอยู่นอกสุด",
+     "why_wrong": [
+      "-er ต้องเติมกับกริยา organize ก่อน organer ไม่ใช่คำ",
+      "หน่วยคำผันรูป -s ต้องอยู่หลังหน่วยคำสร้างคำทั้งหมด",
+      "-s ผันรูปต้องอยู่ท้ายสุด ไม่ใช่ติดราก",
+      null
+     ]
+    },
+    {
+     "id": "ENL431-U1-05",
+     "skill": "ENL431-U1",
+     "difficulty": 2,
+     "stem": "The plural ending in 'buses' is pronounced ____.",
+     "options": [
+      "/z/",
+      "/d/",
+      "/ɪz/",
+      "/s/"
+     ],
+     "answer": 2,
+     "explanation_th": "หลังเสียงแบบ s, z, sh, ch พหูพจน์ออกเสียง /ɪz/ เพิ่มพยางค์",
+     "why_wrong": [
+      "/z/ ใช้หลังเสียงก้องทั่วไป เช่น dogs",
+      "/d/ เป็นเสียงหนึ่งของ -ed อดีต ไม่ใช่พหูพจน์",
+      null,
+      "/s/ ใช้หลังเสียงไม่ก้อง เช่น cats"
+     ]
+    },
+    {
+     "id": "ENL431-U1-06",
+     "skill": "ENL431-U1",
+     "difficulty": 2,
+     "stem": "'Impossible', 'illegal' and 'irregular' use different forms of one negative prefix. These forms are called ____.",
+     "options": [
+      "allomorphs",
+      "clippings",
+      "compounds",
+      "free morphemes"
+     ],
+     "answer": 0,
+     "explanation_th": "im-, il-, ir- เป็นรูปแปรของ in- หน่วยคำเดียวกัน เรียกว่า allomorph",
+     "why_wrong": [
+      null,
+      "clipping คือการตัดคำให้สั้น เช่น lab",
+      "compound คือการเอาคำ 2 คำมารวมกัน",
+      "prefix อยู่เดี่ยวไม่ได้ จึงไม่ใช่หน่วยคำอิสระ"
+     ]
+    },
+    {
+     "id": "ENL431-U1-07",
+     "skill": "ENL431-U1",
+     "difficulty": 1,
+     "stem": "An ad says: 'Unbreakable phone cases!' How many morphemes are in 'unbreakable'?",
+     "options": [
+      "1",
+      "4",
+      "2",
+      "3"
+     ],
+     "answer": 3,
+     "explanation_th": "un + break + able = 3 หน่วยคำ",
+     "why_wrong": [
+      "un- และ -able มีความหมายของตัวเอง จึงไม่ใช่หน่วยคำเดียว",
+      "ไม่มีหน่วยคำที่ 4 ในคำนี้",
+      "ถ้านับ 2 แปลว่ารวม un-break หรือ break-able เป็นหน่วยเดียว ซึ่งไม่ถูก",
+      null
+     ]
+    },
+    {
+     "id": "ENL431-U1-08",
+     "skill": "ENL431-U1",
+     "difficulty": 2,
+     "stem": "Which word has a derivational suffix that changes a verb into an adjective?",
+     "options": [
+      "washer",
+      "washable",
+      "washes",
+      "rewash"
+     ],
+     "answer": 1,
+     "explanation_th": "-able เปลี่ยนกริยา wash เป็นคุณศัพท์ washable",
+     "why_wrong": [
+      "-er เปลี่ยนกริยาเป็นนาม ไม่ใช่คุณศัพท์",
+      null,
+      "-es เป็นหน่วยผันรูปบุรุษที่ 3 ยังเป็นกริยาอยู่",
+      "re- เป็น prefix และ rewash ยังเป็นกริยา"
+     ]
+    },
+    {
+     "id": "ENL431-U1-09",
+     "skill": "ENL431-U1",
+     "difficulty": 3,
+     "stem": "Headline: 'Students' Voices Matter'. The ending of the first word, Students', shows ____.",
+     "options": [
+      "plural and possession",
+      "comparison",
+      "a change from verb to noun",
+      "past tense"
+     ],
+     "answer": 0,
+     "explanation_th": "s คือพหูพจน์ และ ' หลัง s คือความเป็นเจ้าของ (เสียงของนักเรียนหลายคน)",
+     "why_wrong": [
+      null,
+      "การเปรียบเทียบใช้ -er, -est กับคุณศัพท์",
+      "student เป็นนามอยู่แล้ว ไม่มีการเปลี่ยนชนิดคำ",
+      "อดีตใช้ -ed กับกริยา ไม่ใช่กับนาม"
+     ]
+    }
+   ],
+   "say": [
+    "Unbreakable has three morphemes.",
+    "Inflectional suffixes come at the end of a word.",
+    "Im-, il- and ir- are forms of the same prefix."
+   ],
+   "task_th": "เปิดโซเชียลหรือป้ายโฆษณารอบตัว 10 นาที เก็บคำภาษาอังกฤษยาว ๆ 5 คำ แยกแต่ละคำเป็นหน่วยคำด้วยเครื่องหมาย + แล้วเขียนกำกับใต้แต่ละส่วนว่าเป็น root, derivational หรือ inflectional"
+  },
+  {
+   "id": "ENL431-U2",
+   "title_th": "การสร้างคำใหม่",
+   "title_en": "Word formation",
+   "covers": "โครงสร้างของคำ",
+   "minutes": 13,
+   "cards": [
+    {
+     "title_th": "คำประสม (compounding)",
+     "body_th": "เอาคำเต็ม 2 คำขึ้นไปมารวมกัน เขียนติดกัน แยกกัน หรือมีขีดก็ได้ คำหลังมักเป็นคำหลัก",
+     "example": "smartphone, bus stop, mother-in-law"
+    },
+    {
+     "title_th": "คำผสม (blending)",
+     "body_th": "เอาบางส่วนของ 2 คำมาต่อกัน ต่างจากคำประสมตรงที่ไม่ได้ใช้คำเต็มทั้งสอง",
+     "example": "brunch = breakfast + lunch, smog = smoke + fog"
+    },
+    {
+     "title_th": "ตัดคำ (clipping)",
+     "body_th": "ตัดคำยาวให้สั้น ความหมายเดิมและชนิดคำเดิม",
+     "example": "laboratory → lab, advertisement → ad, application → app"
+    },
+    {
+     "title_th": "อักษรย่อ (acronym กับ initialism)",
+     "body_th": "ในความหมายแคบ acronym อ่านเป็นคำเดียว เช่น NATO, UNESCO ส่วน initialism อ่านทีละตัวอักษร เช่น BBC, FBI"
+    },
+    {
+     "title_th": "เปลี่ยนชนิดคำโดยไม่เปลี่ยนรูป (conversion)",
+     "body_th": "คำเดิมทุกตัวอักษร แต่ใช้เป็นชนิดคำใหม่ เช่น นามเป็นกริยา และมีอีกวิธีที่ควรรู้ คือ back-formation ตัดส่วนที่ดูเหมือนหน่วยเติมออก",
+     "example": "text (n.) → to text (v.) | editor → edit"
+    }
+   ],
+   "vocab": [
+    [
+     "word formation",
+     "การสร้างคำ"
+    ],
+    [
+     "compounding",
+     "การประสมคำ"
+    ],
+    [
+     "blending",
+     "การผสมคำ"
+    ],
+    [
+     "clipping",
+     "การตัดคำ"
+    ],
+    [
+     "acronym",
+     "อักษรย่อที่อ่านเป็นคำ"
+    ],
+    [
+     "initialism",
+     "อักษรย่อที่อ่านทีละตัว"
+    ],
+    [
+     "conversion",
+     "การเปลี่ยนชนิดคำโดยไม่เปลี่ยนรูป"
+    ],
+    [
+     "back-formation",
+     "การสร้างคำโดยตัดหน่วยเติมออก"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL431-U2-01",
+     "skill": "ENL431-U2",
+     "difficulty": 1,
+     "stem": "'Brunch' comes from 'breakfast' + 'lunch'. This is an example of ____.",
+     "options": [
+      "conversion",
+      "compounding",
+      "blending",
+      "clipping"
+     ],
+     "answer": 2,
+     "explanation_th": "ใช้ส่วนหน้าของ breakfast กับส่วนท้ายของ lunch จึงเป็นคำผสม",
+     "why_wrong": [
+      "conversion ไม่เปลี่ยนรูปคำเลย แค่เปลี่ยนชนิดคำ",
+      "คำประสมใช้คำเต็มทั้งสองคำ เช่น bus stop",
+      null,
+      "clipping ตัดคำเดียวให้สั้น ไม่ได้รวม 2 คำ"
+     ]
+    },
+    {
+     "id": "ENL431-U2-02",
+     "skill": "ENL431-U2",
+     "difficulty": 1,
+     "stem": "Which word is formed by clipping?",
+     "options": [
+      "smog (from smoke and fog)",
+      "NASA (from its first letters)",
+      "bookshelf (from book and shelf)",
+      "lab (from laboratory)"
+     ],
+     "answer": 3,
+     "explanation_th": "lab ตัดมาจาก laboratory คำเดียว",
+     "why_wrong": [
+      "smog ผสมส่วนของ 2 คำ จึงเป็น blend",
+      "NASA สร้างจากอักษรตัวแรก จึงเป็น acronym",
+      "bookshelf ใช้คำเต็ม 2 คำ จึงเป็นคำประสม",
+      null
+     ]
+    },
+    {
+     "id": "ENL431-U2-03",
+     "skill": "ENL431-U2",
+     "difficulty": 2,
+     "stem": "A post says: 'Just google it!' The verb 'google' comes from a company name, with no change in form. This process is called ____.",
+     "options": [
+      "acronym formation",
+      "conversion",
+      "blending",
+      "clipping"
+     ],
+     "answer": 1,
+     "explanation_th": "ชื่อ (นาม) ถูกใช้เป็นกริยาโดยไม่เปลี่ยนรูป คือ conversion",
+     "why_wrong": [
+      "google ไม่ได้มาจากอักษรตัวแรกของหลายคำ",
+      null,
+      "ไม่ได้รวมส่วนของ 2 คำ",
+      "ไม่ได้ตัดคำให้สั้นลง"
+     ]
+    },
+    {
+     "id": "ENL431-U2-04",
+     "skill": "ENL431-U2",
+     "difficulty": 1,
+     "stem": "Which word is a compound?",
+     "options": [
+      "motel",
+      "UNESCO",
+      "smartphone",
+      "ad"
+     ],
+     "answer": 2,
+     "explanation_th": "smart + phone เป็นคำเต็ม 2 คำรวมกัน",
+     "why_wrong": [
+      "motel มาจาก motor + hotel ใช้แค่บางส่วน จึงเป็น blend",
+      "UNESCO สร้างจากอักษรตัวแรก",
+      null,
+      "ad ตัดมาจาก advertisement"
+     ]
+    },
+    {
+     "id": "ENL431-U2-05",
+     "skill": "ENL431-U2",
+     "difficulty": 2,
+     "stem": "'BBC' is said letter by letter. 'NATO' is said as one word. Using the narrow terms from linguistics, which is correct?",
+     "options": [
+      "NATO is an acronym and BBC is an initialism.",
+      "Both are clippings of one long word.",
+      "BBC is an acronym and NATO is an initialism.",
+      "Both are blends made from two words."
+     ],
+     "answer": 0,
+     "explanation_th": "ความหมายแคบ: อ่านเป็นคำเดียว = acronym, อ่านทีละตัว = initialism",
+     "why_wrong": [
+      null,
+      "ไม่ได้ตัดมาจากคำยาวคำเดียว",
+      "สลับกัน BBC อ่านทีละตัวจึงเป็น initialism",
+      "ทั้งสองมาจากอักษรตัวแรกหลายคำ ไม่ใช่การผสมบางส่วนของ 2 คำ"
+     ]
+    },
+    {
+     "id": "ENL431-U2-06",
+     "skill": "ENL431-U2",
+     "difficulty": 1,
+     "stem": "In the ad 'Get the app today!', 'app' comes from 'application'. This is ____.",
+     "options": [
+      "blending",
+      "conversion",
+      "compounding",
+      "clipping"
+     ],
+     "answer": 3,
+     "explanation_th": "ตัด application ให้สั้นเหลือ app ความหมายเดิม",
+     "why_wrong": [
+      "ไม่ได้รวม 2 คำ",
+      "รูปคำเปลี่ยน (สั้นลง) จึงไม่ใช่ conversion",
+      "ไม่ได้เอาคำเต็ม 2 คำมาต่อกัน",
+      null
+     ]
+    },
+    {
+     "id": "ENL431-U2-07",
+     "skill": "ENL431-U2",
+     "difficulty": 2,
+     "stem": "Which sentence shows conversion (a noun used as a verb with no change in form)?",
+     "options": [
+      "The bottle is on the table.",
+      "Let's bottle the juice tonight.",
+      "I need a new water bottle.",
+      "This bottle holds exactly one litre of juice."
+     ],
+     "answer": 1,
+     "explanation_th": "bottle ใน Let's bottle เป็นกริยา (บรรจุขวด) ใช้รูปเดิมของนาม",
+     "why_wrong": [
+      "bottle ในประโยคนี้ยังเป็นนาม",
+      null,
+      "water bottle เป็นคำประสมที่ bottle เป็นนาม",
+      "bottle เป็นนามที่เป็นประธาน"
+     ]
+    },
+    {
+     "id": "ENL431-U2-08",
+     "skill": "ENL431-U2",
+     "difficulty": 3,
+     "stem": "'Edit' was made by removing what looked like a suffix from the older word 'editor'. This is called ____.",
+     "options": [
+      "acronym formation",
+      "blending",
+      "compounding",
+      "back-formation"
+     ],
+     "answer": 3,
+     "explanation_th": "ตัด -or ที่ดูเหมือนหน่วยเติมออกจาก editor ได้กริยาใหม่ edit นี่คือ back-formation",
+     "why_wrong": [
+      "ไม่ได้มาจากอักษรตัวแรกของหลายคำ",
+      "ไม่ได้รวมส่วนของ 2 คำ",
+      "ไม่ได้เอาคำเต็ม 2 คำมาต่อกัน",
+      null
+     ]
+    },
+    {
+     "id": "ENL431-U2-09",
+     "skill": "ENL431-U2",
+     "difficulty": 2,
+     "stem": "A café names a new drink 'Thaipresso', from 'Thai' + 'espresso'. Which process is this?",
+     "options": [
+      "compounding",
+      "blending",
+      "conversion",
+      "clipping"
+     ],
+     "answer": 1,
+     "explanation_th": "ใช้ Thai เต็มคำ แต่ใช้แค่ส่วน -presso ของ espresso จึงเป็นคำผสม",
+     "why_wrong": [
+      "คำประสมต้องใช้คำเต็มทั้งสองคำ แต่ espresso ถูกตัดบางส่วน",
+      null,
+      "conversion ไม่สร้างรูปคำใหม่",
+      "clipping ตัดคำเดียว ไม่ได้รวมกับคำอื่น"
+     ]
+    }
+   ],
+   "say": [
+    "Brunch is a blend of breakfast and lunch.",
+    "Lab is a clipping of laboratory.",
+    "When we google something, we use a noun as a verb."
+   ],
+   "task_th": "ไล่ดูเมนูร้านกาแฟ แอป หรือหัวข้อข่าว 10 นาที หาคำที่สร้างด้วยวิธีต่างกันให้ได้ 5 วิธี (compound, blend, clipping, acronym/initialism, conversion) วิธีละ 1 คำ เขียนว่ามาจากอะไร"
+  },
+  {
+   "id": "ENL431-U3",
+   "title_th": "ชนิดของคำ: ส่วนประกอบพื้นฐาน",
+   "title_en": "Word classes as building blocks",
+   "covers": "ส่วนประกอบ",
+   "minutes": 12,
+   "cards": [
+    {
+     "title_th": "คำเปิดกับคำปิด",
+     "body_th": "คำกลุ่มเปิด (open class) รับคำใหม่ได้เรื่อย ๆ คือ นาม กริยา คุณศัพท์ กริยาวิเศษณ์ คำกลุ่มปิด (closed class) แทบไม่มีคำใหม่ คือ สรรพนาม คำกำหนด (determiner) บุพบท สันธาน กริยาช่วย"
+    },
+    {
+     "title_th": "คำเนื้อหากับคำหน้าที่",
+     "body_th": "คำเนื้อหา (content word) บอกความหมายหลัก คำหน้าที่ (function word) ทำงานทางไวยากรณ์ เช่น the, a, is, of หัวข่าวมักตัดคำหน้าที่ทิ้ง",
+     "example": "Flood Hits Town = A flood has hit the town."
+    },
+    {
+     "title_th": "ทดสอบด้วยรูปคำ",
+     "body_th": "ดูว่าคำรับหน่วยคำผันรูปอะไรได้ นามรับ -s พหูพจน์ กริยารับ -ed, -ing คุณศัพท์รับ -er, -est",
+     "example": "tall, taller, tallest → คุณศัพท์"
+    },
+    {
+     "title_th": "ทดสอบด้วยตำแหน่ง",
+     "body_th": "ลองใส่คำในช่องว่าง เช่น The ____ is broken. คำที่ใส่ได้เป็นนาม ช่อง She ____ quickly. ใส่กริยา"
+    },
+    {
+     "title_th": "คำเดียวหลายชนิด",
+     "body_th": "ชนิดคำขึ้นกับหน้าที่ในประโยค ไม่ใช่ตัวคำ",
+     "example": "round: a round table (adj.) | won the first round (n.) | round the number up (v.)"
+    }
+   ],
+   "vocab": [
+    [
+     "word class",
+     "ชนิดของคำ"
+    ],
+    [
+     "open class",
+     "คำกลุ่มเปิด"
+    ],
+    [
+     "closed class",
+     "คำกลุ่มปิด"
+    ],
+    [
+     "content word",
+     "คำเนื้อหา"
+    ],
+    [
+     "function word",
+     "คำหน้าที่"
+    ],
+    [
+     "determiner",
+     "คำกำหนดนาม"
+    ],
+    [
+     "auxiliary verb",
+     "กริยาช่วย"
+    ],
+    [
+     "conjunction",
+     "คำสันธาน"
+    ],
+    [
+     "preposition",
+     "คำบุพบท"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL431-U3-01",
+     "skill": "ENL431-U3",
+     "difficulty": 1,
+     "stem": "Which word class is an OPEN class, where new words are added easily?",
+     "options": [
+      "determiners",
+      "prepositions",
+      "nouns",
+      "pronouns"
+     ],
+     "answer": 2,
+     "explanation_th": "นามรับคำใหม่ตลอด เช่น podcast, selfie",
+     "why_wrong": [
+      "คำกำหนดเช่น the, this เป็นกลุ่มปิด",
+      "บุพบทเป็นกลุ่มปิด แทบไม่มีคำใหม่",
+      null,
+      "สรรพนามเป็นกลุ่มปิด"
+     ]
+    },
+    {
+     "id": "ENL431-U3-02",
+     "skill": "ENL431-U3",
+     "difficulty": 1,
+     "stem": "In the ad 'Buy the new X10 phone', the word 'the' belongs to which class?",
+     "options": [
+      "determiner",
+      "pronoun",
+      "preposition",
+      "conjunction"
+     ],
+     "answer": 0,
+     "explanation_th": "the อยู่หน้านามเพื่อกำหนดนาม จึงเป็นคำกำหนด (determiner) หรือ article",
+     "why_wrong": [
+      null,
+      "สรรพนามใช้แทนนาม แต่ the ใช้คู่กับนาม",
+      "บุพบทบอกตำแหน่งหรือความสัมพันธ์ เช่น in, on",
+      "สันธานเชื่อมคำหรือประโยค เช่น and"
+     ]
+    },
+    {
+     "id": "ENL431-U3-03",
+     "skill": "ENL431-U3",
+     "difficulty": 1,
+     "stem": "Slot test: 'The ____ is broken.' Which word fits this slot?",
+     "options": [
+      "and",
+      "under",
+      "screen",
+      "quickly"
+     ],
+     "answer": 2,
+     "explanation_th": "ช่องหลัง The และก่อน is ต้องเป็นนาม screen ใส่ได้",
+     "why_wrong": [
+      "and เป็นสันธาน ใช้เชื่อม ไม่ใช่ประธาน",
+      "under เป็นบุพบท ทำหน้าที่ประธานไม่ได้",
+      null,
+      "quickly เป็นกริยาวิเศษณ์ ใส่หลัง The ไม่ได้"
+     ]
+    },
+    {
+     "id": "ENL431-U3-04",
+     "skill": "ENL431-U3",
+     "difficulty": 1,
+     "stem": "In 'Can you hear me?', the word 'can' is ____.",
+     "options": [
+      "an auxiliary (modal) verb",
+      "a noun",
+      "a conjunction",
+      "a preposition"
+     ],
+     "answer": 0,
+     "explanation_th": "can ช่วยกริยาหลัก hear เพื่อบอกความสามารถ",
+     "why_wrong": [
+      null,
+      "can เป็นนามได้ (a can = กระป๋อง) แต่ในประโยคนี้ทำหน้าที่ช่วยกริยา",
+      "can ไม่ได้เชื่อมคำหรือประโยค",
+      "can ไม่ได้บอกความสัมพันธ์เชิงตำแหน่ง"
+     ]
+    },
+    {
+     "id": "ENL431-U3-05",
+     "skill": "ENL431-U3",
+     "difficulty": 2,
+     "stem": "Headline: 'Flood Hits Town; Mayor Visits'. Which kind of words do headlines often leave out?",
+     "options": [
+      "names of people, cities and places in the news",
+      "function words such as 'a', 'the' and 'is'",
+      "main verbs such as 'hits' and 'visits'",
+      "nouns such as 'flood' and 'town'"
+     ],
+     "answer": 1,
+     "explanation_th": "หัวข่าวตัดคำหน้าที่ เหลือคำเนื้อหาที่บอกข่าว",
+     "why_wrong": [
+      "ชื่อคนและสถานที่เป็นข้อมูลหลัก ไม่ถูกตัด",
+      null,
+      "กริยาหลักยังอยู่ (Hits, Visits)",
+      "นามยังอยู่ในหัวข่าว เพราะเป็นข้อมูลหลัก"
+     ]
+    },
+    {
+     "id": "ENL431-U3-06",
+     "skill": "ENL431-U3",
+     "difficulty": 2,
+     "stem": "In 'She works hard', the word 'hard' is ____.",
+     "options": [
+      "an adjective",
+      "a preposition",
+      "a noun",
+      "an adverb"
+     ],
+     "answer": 3,
+     "explanation_th": "hard ขยายกริยา works (ทำงานอย่างหนัก) จึงเป็นกริยาวิเศษณ์",
+     "why_wrong": [
+      "hard เป็นคุณศัพท์ได้ เช่น a hard test แต่ที่นี่ขยายกริยา",
+      "hard ไม่มีนามตามหลังแบบบุพบท",
+      "hard ไม่ได้เป็นชื่อสิ่งของ",
+      null
+     ]
+    },
+    {
+     "id": "ENL431-U3-07",
+     "skill": "ENL431-U3",
+     "difficulty": 1,
+     "stem": "In the menu item 'tea and cake', the word 'and' is ____.",
+     "options": [
+      "a conjunction",
+      "a preposition",
+      "a pronoun",
+      "a determiner"
+     ],
+     "answer": 0,
+     "explanation_th": "and เชื่อมนาม 2 คำ จึงเป็นสันธาน",
+     "why_wrong": [
+      null,
+      "บุพบทมีนามตามหลังเพื่อบอกความสัมพันธ์ เช่น with",
+      "สรรพนามแทนนาม เช่น it",
+      "คำกำหนดอยู่หน้านาม เช่น the, some"
+     ]
+    },
+    {
+     "id": "ENL431-U3-08",
+     "skill": "ENL431-U3",
+     "difficulty": 2,
+     "stem": "Which word can take the endings -er and -est, so it is probably an adjective?",
+     "options": [
+      "from",
+      "table",
+      "they",
+      "tall"
+     ],
+     "answer": 3,
+     "explanation_th": "tall, taller, tallest แสดงว่าเป็นคุณศัพท์",
+     "why_wrong": [
+      "from เป็นบุพบท ไม่ผันรูป",
+      "table รับ -s ได้ (นาม) แต่ไม่รับ -er, -est",
+      "they เป็นสรรพนาม ไม่ผันรูปแบบนี้",
+      null
+     ]
+    },
+    {
+     "id": "ENL431-U3-09",
+     "skill": "ENL431-U3",
+     "difficulty": 3,
+     "stem": "Which sentence uses 'round' as a verb?",
+     "options": [
+      "She won the first round.",
+      "Let's round the number up to 100.",
+      "We walked slowly round the lake at night.",
+      "We sat at a round table."
+     ],
+     "answer": 1,
+     "explanation_th": "round the number up = ปัดตัวเลข เป็นกริยาหลังกริยาช่วย Let's",
+     "why_wrong": [
+      "the first round เป็นนาม (รอบ)",
+      null,
+      "round the lake บอกตำแหน่งแบบบุพบท",
+      "round ขยายนาม table จึงเป็นคุณศัพท์"
+     ]
+    }
+   ],
+   "say": [
+    "Nouns and verbs are open classes.",
+    "Headlines often drop small function words.",
+    "The same word can be a noun or a verb."
+   ],
+   "task_th": "เลือกโพสต์ภาษาอังกฤษสั้น ๆ 1 โพสต์ (2 ถึง 3 ประโยค) เขียนลงสมุด แล้วกำกับชนิดคำใต้ทุกคำ ใช้ตัวย่อ N, V, Adj, Adv, Det, Prep, Conj, Pron, Aux ใช้เวลาไม่เกิน 10 นาที"
+  },
+  {
+   "id": "ENL431-U4",
+   "title_th": "โครงสร้างวลี: คำหลักและคำขยาย",
+   "title_en": "Phrase structure: heads and modifiers",
+   "covers": "วลี",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "คำหลักตั้งชื่อวลี",
+     "body_th": "วลีแต่ละแบบตั้งชื่อตามคำหลัก (head) นามเป็นหลัก = NP, กริยาเป็นหลัก = VP, คุณศัพท์ = AdjP, กริยาวิเศษณ์ = AdvP, บุพบท = PP",
+     "example": "[NP the old bus] [VP has stopped] [PP at the market]"
+    },
+    {
+     "title_th": "โครงของนามวลี",
+     "body_th": "(คำกำหนด) + (คำขยายหน้า) + คำหลัก + (คำขยายหลัง) คำขยายหลังมักเป็น PP หรืออนุประโยค",
+     "example": "a | cheap | ticket | to Chiang Mai"
+    },
+    {
+     "title_th": "บุพบทวลี",
+     "body_th": "PP = บุพบท + ส่วนเติมเต็ม (complement) ซึ่งมักเป็นนามวลี บุพบทอยู่เดี่ยว ๆ ไม่ครบความหมาย",
+     "example": "under + the old bridge"
+    },
+    {
+     "title_th": "กริยาวลี",
+     "body_th": "กริยาช่วยอยู่หน้า กริยาหลักตัวสุดท้ายคือคำหลัก",
+     "example": "will have been waiting → head = waiting"
+    },
+    {
+     "title_th": "คุณศัพท์วลีและกริยาวิเศษณ์วลี",
+     "body_th": "มีคำขยายความเข้ม เช่น very, quite และบางทีมีส่วนเติมเต็มต่อท้าย",
+     "example": "very proud of her son (AdjP) | quite slowly (AdvP)"
+    }
+   ],
+   "vocab": [
+    [
+     "phrase",
+     "วลี"
+    ],
+    [
+     "head",
+     "คำหลัก"
+    ],
+    [
+     "modifier",
+     "คำขยาย"
+    ],
+    [
+     "pre-modifier",
+     "คำขยายหน้าคำหลัก"
+    ],
+    [
+     "post-modifier",
+     "คำขยายหลังคำหลัก"
+    ],
+    [
+     "complement",
+     "ส่วนเติมเต็ม"
+    ],
+    [
+     "noun phrase (NP)",
+     "นามวลี"
+    ],
+    [
+     "prepositional phrase (PP)",
+     "บุพบทวลี"
+    ],
+    [
+     "intensifier",
+     "คำเน้นความเข้ม"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL431-U4-01",
+     "skill": "ENL431-U4",
+     "difficulty": 1,
+     "stem": "In the noun phrase 'a cheap ticket to Chiang Mai', what is the head?",
+     "options": [
+      "cheap",
+      "a",
+      "ticket",
+      "Chiang Mai"
+     ],
+     "answer": 2,
+     "explanation_th": "ticket คือสิ่งที่วลีพูดถึง คำอื่นขยาย ticket",
+     "why_wrong": [
+      "cheap เป็นคำขยายหน้า",
+      "a เป็นคำกำหนด",
+      null,
+      "Chiang Mai อยู่ในบุพบทวลีที่ขยาย ticket"
+     ]
+    },
+    {
+     "id": "ENL431-U4-02",
+     "skill": "ENL431-U4",
+     "difficulty": 2,
+     "stem": "In 'a cheap ticket to Chiang Mai', the part 'to Chiang Mai' is ____.",
+     "options": [
+      "a determiner",
+      "a pre-modifier",
+      "a post-modifier",
+      "the head"
+     ],
+     "answer": 2,
+     "explanation_th": "to Chiang Mai อยู่หลังคำหลักและขยายคำหลัก จึงเป็นคำขยายหลัง",
+     "why_wrong": [
+      "คำกำหนดคือ a",
+      "คำขยายหน้าอยู่ก่อนคำหลัก เช่น cheap",
+      null,
+      "คำหลักคือ ticket"
+     ]
+    },
+    {
+     "id": "ENL431-U4-03",
+     "skill": "ENL431-U4",
+     "difficulty": 1,
+     "stem": "Which phrase is an adjective phrase (AdjP)?",
+     "options": [
+      "has finished",
+      "the proud mother",
+      "in the morning",
+      "very proud of her son"
+     ],
+     "answer": 3,
+     "explanation_th": "คำหลักคือคุณศัพท์ proud มี very ขยายหน้าและ of her son เติมเต็ม",
+     "why_wrong": [
+      "คำหลักคือกริยา finished จึงเป็น VP",
+      "คำหลักคือนาม mother จึงเป็น NP",
+      "คำหลักคือบุพบท in จึงเป็น PP",
+      null
+     ]
+    },
+    {
+     "id": "ENL431-U4-04",
+     "skill": "ENL431-U4",
+     "difficulty": 1,
+     "stem": "What type of phrase is 'under the old bridge'?",
+     "options": [
+      "a prepositional phrase (PP)",
+      "an adverb phrase (AdvP)",
+      "a noun phrase (NP)",
+      "a verb phrase (VP)"
+     ],
+     "answer": 0,
+     "explanation_th": "ขึ้นต้นด้วยบุพบท under ซึ่งเป็นคำหลัก ตามด้วยนามวลี",
+     "why_wrong": [
+      null,
+      "คำหลักไม่ใช่กริยาวิเศษณ์",
+      "the old bridge เป็น NP ก็จริง แต่เป็นแค่ส่วนหนึ่งของวลีทั้งหมด",
+      "ไม่มีกริยาในวลีนี้"
+     ]
+    },
+    {
+     "id": "ENL431-U4-05",
+     "skill": "ENL431-U4",
+     "difficulty": 2,
+     "stem": "In 'will have been waiting', which word is the head of the verb phrase?",
+     "options": [
+      "have",
+      "waiting",
+      "will",
+      "been"
+     ],
+     "answer": 1,
+     "explanation_th": "กริยาหลักตัวสุดท้ายคือคำหลัก ตัวหน้าเป็นกริยาช่วย",
+     "why_wrong": [
+      "have เป็นกริยาช่วยของ perfect",
+      null,
+      "will เป็นกริยาช่วยบอกอนาคต",
+      "been เป็นกริยาช่วยของ progressive"
+     ]
+    },
+    {
+     "id": "ENL431-U4-06",
+     "skill": "ENL431-U4",
+     "difficulty": 1,
+     "stem": "What type of phrase is 'quite slowly'?",
+     "options": [
+      "a noun phrase (NP)",
+      "an adjective phrase (AdjP)",
+      "a prepositional phrase (PP)",
+      "an adverb phrase (AdvP)"
+     ],
+     "answer": 3,
+     "explanation_th": "คำหลัก slowly เป็นกริยาวิเศษณ์ quite ขยายความเข้ม",
+     "why_wrong": [
+      "ไม่มีนามเป็นคำหลัก",
+      "slowly ไม่ใช่คุณศัพท์ (คุณศัพท์คือ slow)",
+      "ไม่มีบุพบท",
+      null
+     ]
+    },
+    {
+     "id": "ENL431-U4-07",
+     "skill": "ENL431-U4",
+     "difficulty": 2,
+     "stem": "A sign at a market says: 'Fresh coffee from local farms'. What is the head of this noun phrase?",
+     "options": [
+      "local",
+      "farms",
+      "coffee",
+      "fresh"
+     ],
+     "answer": 2,
+     "explanation_th": "สิ่งที่ขายคือ coffee คำอื่นขยาย coffee",
+     "why_wrong": [
+      "local ขยาย farms ไม่ใช่คำหลักของวลีทั้งหมด",
+      "farms อยู่ใน PP from local farms ที่ขยาย coffee",
+      null,
+      "fresh เป็นคำขยายหน้า"
+     ]
+    },
+    {
+     "id": "ENL431-U4-08",
+     "skill": "ENL431-U4",
+     "difficulty": 2,
+     "stem": "In 'the girl with the red bag', the phrase 'with the red bag' modifies ____.",
+     "options": [
+      "the noun 'bag'",
+      "the noun 'girl'",
+      "the word 'the'",
+      "the adjective 'red'"
+     ],
+     "answer": 1,
+     "explanation_th": "with the red bag บอกว่าเด็กผู้หญิงคนไหน จึงขยาย girl",
+     "why_wrong": [
+      "bag อยู่ข้างใน PP เอง",
+      null,
+      "the เป็นคำกำหนด ไม่ถูกขยาย",
+      "red ขยาย bag อีกที ไม่ได้ถูก PP ขยาย"
+     ]
+    },
+    {
+     "id": "ENL431-U4-09",
+     "skill": "ENL431-U4",
+     "difficulty": 3,
+     "stem": "Which analysis of 'smart students in Bangkok' is correct?",
+     "options": [
+      "pre: smart | head: students | post: in Bangkok",
+      "pre: students | head: smart | post: in Bangkok",
+      "pre: smart students | head: in | post: Bangkok",
+      "pre: in Bangkok | head: students | post: smart"
+     ],
+     "answer": 0,
+     "explanation_th": "smart อยู่หน้า students (คำหลัก) และ in Bangkok ขยายหลัง",
+     "why_wrong": [
+      null,
+      "smart เป็นคุณศัพท์ขยาย จึงไม่ใช่คำหลัก",
+      "in เป็นคำหลักของ PP ข้างใน ไม่ใช่ของนามวลีทั้งหมด",
+      "สลับตำแหน่ง in Bangkok อยู่หลัง ไม่ใช่หน้า"
+     ]
+    }
+   ],
+   "say": [
+    "The head word gives the phrase its name.",
+    "In 'a cheap ticket', the head is ticket.",
+    "A prepositional phrase starts with a preposition."
+   ],
+   "task_th": "เลือกหัวข้อสินค้า 3 อันจากเว็บช้อปปิ้งภาษาอังกฤษ เช่น Wireless earbuds with long battery life เขียนลงสมุด วงกลมคำหลัก ขีดเส้นใต้คำขยายหน้า และใส่วงเล็บคำขยายหลัง"
+  },
+  {
+   "id": "ENL431-U5",
+   "title_th": "ส่วนประกอบของประโยค S V O C A",
+   "title_en": "Clause elements: S, V, O, C, A",
+   "covers": "และประโยค",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "5 ส่วนประกอบ",
+     "body_th": "ประธาน (Subject) กริยา (Verb) กรรม (Object) ส่วนเติมเต็ม (Complement) และส่วนขยายแบบกริยาวิเศษณ์ (Adverbial) แต่ละส่วนอาจเป็นคำเดียวหรือทั้งวลี",
+     "example": "[S Our team] [V won] [O the cup] [A last night]."
+    },
+    {
+     "title_th": "กรรม 2 แบบ",
+     "body_th": "กรรมตรง (direct object) คือสิ่งที่ถูกกระทำ กรรมรอง (indirect object) คือผู้รับ มักเป็นคน",
+     "example": "Mina gave [Oi her brother] [Od a book]."
+    },
+    {
+     "title_th": "ส่วนเติมเต็ม 2 แบบ",
+     "body_th": "ส่วนเติมเต็มประธาน (subject complement) บอกว่าประธานเป็นอย่างไร หลัง be, become, seem ส่วนเติมเต็มกรรม (object complement) บอกว่ากรรมเป็นอย่างไร",
+     "example": "The movie was [Cs boring]. | The news made everyone [Co angry]."
+    },
+    {
+     "title_th": "Adverbial บอก ที่ไหน เมื่อไร อย่างไร",
+     "body_th": "ส่วนใหญ่ตัดทิ้งได้ แต่กริยาบางตัวต้องมี เช่น put ต้องมีที่วาง",
+     "example": "Tom put the keys [A on the table] [A in the morning]."
+    },
+    {
+     "title_th": "7 รูปแบบพื้นฐาน",
+     "body_th": "SV, SVO, SVC, SVA, SVOO, SVOC, SVOA ใช้เป็นแผนที่วิเคราะห์ประโยคยาว ๆ ได้"
+    }
+   ],
+   "vocab": [
+    [
+     "subject",
+     "ประธาน"
+    ],
+    [
+     "object",
+     "กรรม"
+    ],
+    [
+     "direct object",
+     "กรรมตรง"
+    ],
+    [
+     "indirect object",
+     "กรรมรอง"
+    ],
+    [
+     "subject complement",
+     "ส่วนเติมเต็มประธาน"
+    ],
+    [
+     "object complement",
+     "ส่วนเติมเต็มกรรม"
+    ],
+    [
+     "adverbial",
+     "ส่วนขยายแบบกริยาวิเศษณ์"
+    ],
+    [
+     "clause element",
+     "ส่วนประกอบของอนุประโยค"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL431-U5-01",
+     "skill": "ENL431-U5",
+     "difficulty": 1,
+     "stem": "In 'My cat sleeps on the sofa', the part 'on the sofa' is the ____.",
+     "options": [
+      "complement",
+      "object",
+      "subject",
+      "adverbial"
+     ],
+     "answer": 3,
+     "explanation_th": "on the sofa บอกสถานที่ จึงเป็น adverbial",
+     "why_wrong": [
+      "ส่วนเติมเต็มบอกว่าประธานเป็นอะไร ไม่ได้บอกที่",
+      "sleep ไม่มีกรรม และ PP บอกที่ ไม่ใช่สิ่งที่ถูกกระทำ",
+      "ประธานคือ My cat",
+      null
+     ]
+    },
+    {
+     "id": "ENL431-U5-02",
+     "skill": "ENL431-U5",
+     "difficulty": 1,
+     "stem": "In 'The movie was boring', the word 'boring' is the ____.",
+     "options": [
+      "subject complement",
+      "indirect object",
+      "direct object",
+      "adverbial"
+     ],
+     "answer": 0,
+     "explanation_th": "boring อยู่หลัง was และบอกว่าประธาน The movie เป็นอย่างไร",
+     "why_wrong": [
+      null,
+      "ไม่มีผู้รับในประโยคนี้",
+      "be ไม่มีกรรม และ boring ไม่ใช่สิ่งที่ถูกกระทำ",
+      "boring บอกลักษณะของประธาน ไม่ได้บอกที่ เวลา หรือวิธี"
+     ]
+    },
+    {
+     "id": "ENL431-U5-03",
+     "skill": "ENL431-U5",
+     "difficulty": 2,
+     "stem": "In 'Mina gave her brother a book', the part 'her brother' is the ____.",
+     "options": [
+      "adverbial",
+      "subject complement",
+      "indirect object",
+      "direct object"
+     ],
+     "answer": 2,
+     "explanation_th": "her brother คือผู้รับ ส่วน a book คือสิ่งที่ถูกให้",
+     "why_wrong": [
+      "her brother ไม่ได้บอกที่ เวลา หรือวิธี",
+      "ไม่มี be หรือ become ในประโยค",
+      null,
+      "กรรมตรงคือ a book"
+     ]
+    },
+    {
+     "id": "ENL431-U5-04",
+     "skill": "ENL431-U5",
+     "difficulty": 2,
+     "stem": "In 'The news made everyone angry', the word 'angry' is ____.",
+     "options": [
+      "a subject complement",
+      "an object complement",
+      "an adverbial",
+      "a direct object"
+     ],
+     "answer": 1,
+     "explanation_th": "angry บอกว่ากรรม everyone เป็นอย่างไร",
+     "why_wrong": [
+      "angry ไม่ได้บอกลักษณะของประธาน The news",
+      null,
+      "angry เป็นคุณศัพท์บอกสภาพ ไม่ได้บอกที่ เวลา หรือวิธี",
+      "กรรมตรงคือ everyone"
+     ]
+    },
+    {
+     "id": "ENL431-U5-05",
+     "skill": "ENL431-U5",
+     "difficulty": 2,
+     "stem": "Which pattern matches 'Sam bought a new laptop yesterday'?",
+     "options": [
+      "S V C A",
+      "S V O O",
+      "S V O C",
+      "S V O A"
+     ],
+     "answer": 3,
+     "explanation_th": "Sam (S) bought (V) a new laptop (O) yesterday (A)",
+     "why_wrong": [
+      "a new laptop เป็นสิ่งที่ถูกซื้อ จึงเป็นกรรม ไม่ใช่ส่วนเติมเต็ม",
+      "yesterday ไม่ใช่ผู้รับหรือสิ่งที่ถูกซื้อ",
+      "yesterday บอกเวลา ไม่ได้บอกลักษณะของกรรม",
+      null
+     ]
+    },
+    {
+     "id": "ENL431-U5-06",
+     "skill": "ENL431-U5",
+     "difficulty": 2,
+     "stem": "Which sentence has the pattern S V C?",
+     "options": [
+      "My brother became a nurse.",
+      "My brother gave me a gift.",
+      "My brother works at night.",
+      "My brother called a nurse."
+     ],
+     "answer": 0,
+     "explanation_th": "a nurse หลัง became บอกว่าประธานเป็นอะไร จึงเป็นส่วนเติมเต็มประธาน",
+     "why_wrong": [
+      null,
+      "มีกรรม 2 ตัว (SVOO)",
+      "at night บอกเวลา (SVA)",
+      "a nurse เป็นคนถูกเรียก จึงเป็นกรรม (SVO)"
+     ]
+    },
+    {
+     "id": "ENL431-U5-07",
+     "skill": "ENL431-U5",
+     "difficulty": 1,
+     "stem": "A post says: 'Our team won the cup last night!' Which part is the direct object?",
+     "options": [
+      "Our team",
+      "the cup",
+      "last night",
+      "won"
+     ],
+     "answer": 1,
+     "explanation_th": "the cup คือสิ่งที่ได้มา",
+     "why_wrong": [
+      "Our team เป็นประธาน",
+      null,
+      "last night บอกเวลา จึงเป็น adverbial",
+      "won เป็นกริยา"
+     ]
+    },
+    {
+     "id": "ENL431-U5-08",
+     "skill": "ENL431-U5",
+     "difficulty": 3,
+     "stem": "In 'Tom put the keys on the table in the morning', which part can you remove and still have a grammatical sentence?",
+     "options": [
+      "on the table",
+      "the keys",
+      "in the morning",
+      "put"
+     ],
+     "answer": 2,
+     "explanation_th": "put ต้องมีทั้งกรรมและที่วาง แต่ in the morning ตัดได้",
+     "why_wrong": [
+      "Tom put the keys in the morning ไม่ครบ เพราะ put ต้องบอกที่วาง",
+      "put ต้องมีกรรม",
+      null,
+      "ประโยคต้องมีกริยา"
+     ]
+    },
+    {
+     "id": "ENL431-U5-09",
+     "skill": "ENL431-U5",
+     "difficulty": 3,
+     "stem": "In 'They elected Nok captain', the pattern is ____.",
+     "options": [
+      "S V O O",
+      "S V C",
+      "S V O C",
+      "S V O A"
+     ],
+     "answer": 2,
+     "explanation_th": "Nok เป็นกรรม และ captain บอกว่า Nok กลายเป็นอะไร จึงเป็น object complement",
+     "why_wrong": [
+      "captain ไม่ใช่ผู้รับหรือสิ่งที่ถูกให้ จึงไม่ใช่กรรมตัวที่สอง",
+      "มีกรรม Nok อยู่ด้วย จึงไม่ใช่แค่ SVC",
+      null,
+      "captain บอกตำแหน่งหน้าที่ของ Nok ไม่ได้บอกที่ เวลา หรือวิธี"
+     ]
+    }
+   ],
+   "say": [
+    "The subject usually comes before the verb.",
+    "In 'The movie was boring', boring is a complement.",
+    "Most adverbials tell us where, when or how."
+   ],
+   "task_th": "เลือกแคปชันหรือหัวข่าวภาษาอังกฤษ 5 ประโยค เขียนลงสมุด แล้วใส่วงเล็บพร้อมป้าย S V O C A ให้ทุกส่วน เช่น [S The city] [V opened] [O a new park] [A today] จากนั้นเขียนรูปแบบของแต่ละประโยค"
+  },
+  {
+   "id": "ENL431-U6",
+   "title_th": "ชนิดของอนุประโยคและประโยค",
+   "title_en": "Clause types",
+   "covers": "วลี และประโยค",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "4 รูปแบบตามโครงสร้าง",
+     "body_th": "บอกเล่า (declarative) คำถาม (interrogative) คำสั่ง (imperative) อุทาน (exclamative) ดูที่รูปประโยค ไม่ใช่เครื่องหมาย",
+     "example": "Download the app now! = imperative | What a great idea this is! = exclamative"
+    },
+    {
+     "title_th": "รูปกับหน้าที่ไม่ตรงกันได้",
+     "body_th": "Can you close the door? มีรูปแบบคำถาม แต่ใช้ขอร้อง"
+    },
+    {
+     "title_th": "อนุประโยคหลักกับอนุประโยครอง",
+     "body_th": "อนุประโยคหลัก (main clause) อยู่เดี่ยวได้ อนุประโยครอง (subordinate clause) ต้องพึ่งอนุประโยคหลัก มักขึ้นต้นด้วย because, when, that, who",
+     "example": "[When the bell rang], [everyone left]."
+    },
+    {
+     "title_th": "อนุประโยครอง 3 แบบ",
+     "body_th": "นามานุประโยค (noun clause) ทำหน้าที่แบบนาม คุณานุประโยค (relative clause) ขยายนาม วิเศษณานุประโยค (adverbial clause) บอกเหตุ เวลา เงื่อนไข",
+     "example": "I know [that she is busy]. | The phone [that I bought] broke. | We stayed in [because it rained]."
+    },
+    {
+     "title_th": "finite กับ non-finite",
+     "body_th": "อนุประโยคแบบ finite มีกริยาแสดงกาล (bought, is) แบบ non-finite ใช้ to-infinitive, -ing หรือ -ed ไม่มีกาลของตัวเอง",
+     "example": "Feeling tired after the exam, I went to bed."
+    }
+   ],
+   "vocab": [
+    [
+     "clause",
+     "อนุประโยค"
+    ],
+    [
+     "main clause",
+     "อนุประโยคหลัก"
+    ],
+    [
+     "subordinate clause",
+     "อนุประโยครอง"
+    ],
+    [
+     "declarative",
+     "ประโยคบอกเล่า"
+    ],
+    [
+     "interrogative",
+     "ประโยคคำถาม"
+    ],
+    [
+     "imperative",
+     "ประโยคคำสั่ง"
+    ],
+    [
+     "exclamative",
+     "ประโยคอุทาน"
+    ],
+    [
+     "relative clause",
+     "คุณานุประโยค"
+    ],
+    [
+     "finite",
+     "มีกาล"
+    ],
+    [
+     "non-finite",
+     "ไม่มีกาล"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL431-U6-01",
+     "skill": "ENL431-U6",
+     "difficulty": 1,
+     "stem": "An ad says: 'Download the app now!' What clause type is this?",
+     "options": [
+      "interrogative",
+      "imperative",
+      "declarative",
+      "exclamative"
+     ],
+     "answer": 1,
+     "explanation_th": "ขึ้นต้นด้วยกริยาไม่มีประธาน เป็นประโยคคำสั่ง แม้จะมีเครื่องหมาย !",
+     "why_wrong": [
+      "ไม่มีรูปคำถาม",
+      null,
+      "ประโยคบอกเล่าต้องมีประธานก่อนกริยา",
+      "ประโยคอุทานมีรูป What a ... หรือ How ... ไม่ใช่ดูจากเครื่องหมาย ! อย่างเดียว"
+     ]
+    },
+    {
+     "id": "ENL431-U6-02",
+     "skill": "ENL431-U6",
+     "difficulty": 2,
+     "stem": "'What a great idea this is!' is ____.",
+     "options": [
+      "interrogative",
+      "declarative",
+      "imperative",
+      "exclamative"
+     ],
+     "answer": 3,
+     "explanation_th": "รูป What a + นาม + ประธาน + กริยา เป็นประโยคอุทาน",
+     "why_wrong": [
+      "ขึ้นต้นด้วย What ก็จริง แต่ไม่ได้สลับกริยาช่วยแบบคำถาม",
+      "ประโยคบอกเล่าเรียงแบบ This is a great idea ไม่มี What a",
+      "ไม่ได้ขึ้นต้นด้วยกริยาแบบคำสั่ง",
+      null
+     ]
+    },
+    {
+     "id": "ENL431-U6-03",
+     "skill": "ENL431-U6",
+     "difficulty": 2,
+     "stem": "'Can you close the door?' has the FORM of one clause type but is often used as a request. Which form is it?",
+     "options": [
+      "interrogative",
+      "declarative",
+      "imperative",
+      "exclamative"
+     ],
+     "answer": 0,
+     "explanation_th": "กริยาช่วย Can มาก่อนประธาน you จึงเป็นรูปคำถาม",
+     "why_wrong": [
+      null,
+      "ประโยคบอกเล่าเรียงประธานก่อนกริยาช่วย",
+      "หน้าที่คล้ายคำสั่ง แต่รูปไม่ใช่ เพราะคำสั่งขึ้นต้นด้วยกริยา",
+      "ไม่มีรูป What a หรือ How"
+     ]
+    },
+    {
+     "id": "ENL431-U6-04",
+     "skill": "ENL431-U6",
+     "difficulty": 2,
+     "stem": "In 'I know that she is busy', the part 'that she is busy' is ____.",
+     "options": [
+      "a noun clause",
+      "a relative clause",
+      "an adverbial clause",
+      "a main clause"
+     ],
+     "answer": 0,
+     "explanation_th": "ตอบคำถามว่า know อะไร ทำหน้าที่เป็นกรรมแบบนาม",
+     "why_wrong": [
+      null,
+      "ไม่ได้ขยายนามตัวไหน",
+      "ไม่ได้บอกเหตุ เวลา หรือเงื่อนไข",
+      "อยู่เดี่ยวไม่ได้เพราะมี that นำ"
+     ]
+    },
+    {
+     "id": "ENL431-U6-05",
+     "skill": "ENL431-U6",
+     "difficulty": 2,
+     "stem": "In 'The phone that I bought broke', the part 'that I bought' is ____.",
+     "options": [
+      "an adverbial clause",
+      "a noun clause",
+      "a main clause",
+      "a relative clause"
+     ],
+     "answer": 3,
+     "explanation_th": "that I bought ขยายนาม The phone ว่าเครื่องไหน",
+     "why_wrong": [
+      "ไม่ได้บอกเหตุ เวลา หรือเงื่อนไข",
+      "ไม่ได้ทำหน้าที่เป็นประธานหรือกรรมของกริยา",
+      "อนุประโยคหลักคือ The phone ... broke",
+      null
+     ]
+    },
+    {
+     "id": "ENL431-U6-06",
+     "skill": "ENL431-U6",
+     "difficulty": 1,
+     "stem": "In 'When the bell rang, everyone left', which part is the main clause?",
+     "options": [
+      "When the bell rang",
+      "When",
+      "everyone left",
+      "the bell rang, everyone"
+     ],
+     "answer": 2,
+     "explanation_th": "everyone left อยู่เดี่ยวเป็นประโยคสมบูรณ์ได้",
+     "why_wrong": [
+      "มี When นำ จึงเป็นอนุประโยครอง",
+      "When เป็นแค่คำเชื่อม ไม่ใช่อนุประโยค",
+      null,
+      "ตัดคร่อมสองอนุประโยค ไม่ใช่หน่วยไวยากรณ์"
+     ]
+    },
+    {
+     "id": "ENL431-U6-07",
+     "skill": "ENL431-U6",
+     "difficulty": 2,
+     "stem": "Which of these is a non-finite clause?",
+     "options": [
+      "that she finished it",
+      "to finish the report",
+      "because she finished it",
+      "she finished the report"
+     ],
+     "answer": 1,
+     "explanation_th": "to finish ไม่มีกาลและไม่มีประธาน จึงเป็น non-finite",
+     "why_wrong": [
+      "มีกริยาแสดงกาล finished จึงเป็น finite",
+      null,
+      "มีกริยาแสดงกาล finished จึงเป็น finite",
+      "finished แสดงอดีต จึงเป็น finite"
+     ]
+    },
+    {
+     "id": "ENL431-U6-08",
+     "skill": "ENL431-U6",
+     "difficulty": 3,
+     "stem": "A post says: 'Feeling tired after the exam, I went straight to bed.' The part 'Feeling tired after the exam' is ____.",
+     "options": [
+      "an interrogative clause",
+      "a main clause",
+      "a finite relative clause",
+      "a non-finite -ing clause"
+     ],
+     "answer": 3,
+     "explanation_th": "ใช้ -ing ไม่มีกาลและอยู่เดี่ยวไม่ได้",
+     "why_wrong": [
+      "ไม่มีรูปคำถาม",
+      "อนุประโยคหลักคือ I went straight to bed",
+      "ไม่มีกริยาแสดงกาล และไม่ได้ขึ้นต้นด้วย who, which, that",
+      null
+     ]
+    },
+    {
+     "id": "ENL431-U6-09",
+     "skill": "ENL431-U6",
+     "difficulty": 2,
+     "stem": "Which sentence has an adverbial clause of reason?",
+     "options": [
+      "The man who called you this morning is here.",
+      "We stayed inside because it was raining.",
+      "I think that it will rain.",
+      "Close the window, please."
+     ],
+     "answer": 1,
+     "explanation_th": "because it was raining บอกเหตุผล",
+     "why_wrong": [
+      "who called you เป็นคุณานุประโยคขยาย man",
+      null,
+      "that it will rain เป็นนามานุประโยค",
+      "เป็นประโยคคำสั่งที่ไม่มีอนุประโยครอง"
+     ]
+    }
+   ],
+   "say": [
+    "'Download the app now!' is an imperative.",
+    "A relative clause tells us more about a noun.",
+    "A main clause can stand alone."
+   ],
+   "task_th": "ดูโฆษณาหรือโพสต์ภาษาอังกฤษ 10 นาที หาประโยคให้ครบ 4 รูปแบบ (declarative, interrogative, imperative, exclamative) อย่างละ 1 แล้วหาอนุประโยครองอีก 2 ตัว บอกว่าเป็น noun, relative หรือ adverbial clause"
+  },
+  {
+   "id": "ENL431-U7",
+   "title_th": "วิเคราะห์ความกำกวมในสื่อสิ่งพิมพ์และสื่อดิจิทัล",
+   "title_en": "Ambiguity in printed and digital texts",
+   "covers": "และฝึกวิเคราะห์จากสื่อสิ่งพิมพ์และสื่อดิจิทัล",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "กำกวมที่คำ (lexical ambiguity)",
+     "body_th": "คำเดียวมีได้ 2 ความหมาย หรือเป็นได้ 2 ชนิด",
+     "example": "Hotel Fires Cook: fire = ไล่ออก หรือ จุดไฟเผา"
+    },
+    {
+     "title_th": "กำกวมที่โครงสร้าง (structural ambiguity)",
+     "body_th": "คำเหมือนเดิม แต่จัดกลุ่มได้ 2 แบบ",
+     "example": "Big dogs and cats welcome: [big dogs] and cats หรือ big [dogs and cats]"
+    },
+    {
+     "title_th": "ภาษาหัวข่าว (headlinese)",
+     "body_th": "ตัด a, the และ be ใช้ present simple แทนเหตุการณ์ที่เพิ่งเกิด ใช้ to + กริยาแทนอนาคต",
+     "example": "Fire Destroys Market = A fire has destroyed a market. | PM To Visit Phuket = will visit"
+    },
+    {
+     "title_th": "นามซ้อน (noun stack)",
+     "body_th": "นามหลายตัวเรียงกัน คำหลักคือนามตัวสุดท้าย อ่านจากขวาไปซ้าย",
+     "example": "University Parking Fee Rise Protest = การประท้วง (เรื่องการขึ้นค่าที่จอดรถในมหาวิทยาลัย)"
+    },
+    {
+     "title_th": "แก้ความกำกวม",
+     "body_th": "สลับลำดับคำ เติมคำ หรือใส่เครื่องหมายวรรคตอน",
+     "example": "Time to eat everyone! → Time to eat, everyone!"
+    }
+   ],
+   "vocab": [
+    [
+     "ambiguity",
+     "ความกำกวม"
+    ],
+    [
+     "lexical ambiguity",
+     "ความกำกวมที่คำ"
+    ],
+    [
+     "structural ambiguity",
+     "ความกำกวมที่โครงสร้าง"
+    ],
+    [
+     "headline",
+     "หัวข่าว"
+    ],
+    [
+     "headlinese",
+     "ภาษาหัวข่าว"
+    ],
+    [
+     "noun stack",
+     "นามเรียงซ้อน"
+    ],
+    [
+     "punctuation",
+     "เครื่องหมายวรรคตอน"
+    ],
+    [
+     "reading",
+     "การตีความแบบหนึ่ง"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "ENL431-U7-01",
+     "skill": "ENL431-U7",
+     "difficulty": 2,
+     "stem": "Headline: 'Hotel Fires Cook'. Why can this headline be read in two ways?",
+     "options": [
+      "'Cook' is a verb, so the headline has no object.",
+      "'Hotel' can be a noun or a verb in this headline.",
+      "'Fires' can mean 'dismisses from a job' or 'sets on fire'.",
+      "The headline uses the past tense by mistake."
+     ],
+     "answer": 2,
+     "explanation_th": "fire มี 2 ความหมาย จึงเป็นความกำกวมที่คำ",
+     "why_wrong": [
+      "Cook ที่นี่เป็นนาม (พ่อครัว) และเป็นกรรม",
+      "Hotel ในหัวข่าวนี้เป็นนามที่เป็นประธานเท่านั้น",
+      null,
+      "Fires เป็น present simple ซึ่งเป็นแบบปกติของหัวข่าว"
+     ]
+    },
+    {
+     "id": "ENL431-U7-02",
+     "skill": "ENL431-U7",
+     "difficulty": 2,
+     "stem": "A hotel website says: 'Big dogs and cats welcome!' What makes it ambiguous?",
+     "options": [
+      "We do not know if 'big' describes only dogs or both dogs and cats.",
+      "The word 'cats' could be a verb.",
+      "We do not know if 'welcome' is spelled correctly here.",
+      "There is no subject or verb, so the sign has no clear meaning at all."
+     ],
+     "answer": 0,
+     "explanation_th": "big จัดกลุ่มได้ 2 แบบ จึงเป็นความกำกวมเชิงโครงสร้าง",
+     "why_wrong": [
+      null,
+      "cats ในที่นี้เป็นนามชัดเจน",
+      "การสะกดไม่ใช่ปัญหา welcome สะกดถูก",
+      "ป้ายแบบนี้ตัดคำหน้าที่ได้ ยังเข้าใจได้ ปัญหาอยู่ที่การจัดกลุ่ม"
+     ]
+    },
+    {
+     "id": "ENL431-U7-03",
+     "skill": "ENL431-U7",
+     "difficulty": 1,
+     "stem": "Headline: 'PM To Visit Phuket'. In headline style, 'To Visit' usually means ____.",
+     "options": [
+      "visits every year",
+      "will visit",
+      "visited yesterday",
+      "wants to visit but cannot"
+     ],
+     "answer": 1,
+     "explanation_th": "to + กริยาในหัวข่าวบอกอนาคต",
+     "why_wrong": [
+      "ไม่มีคำบอกความถี่",
+      null,
+      "อดีตในหัวข่าวมักใช้ present simple เช่น PM Visits Phuket",
+      "ไม่มีคำบอกว่าไปไม่ได้"
+     ]
+    },
+    {
+     "id": "ENL431-U7-04",
+     "skill": "ENL431-U7",
+     "difficulty": 2,
+     "stem": "Headline: 'Fire Destroys Market'. In full English, this most likely means ____.",
+     "options": [
+      "A fire will destroy a market next year.",
+      "Fires always destroy markets.",
+      "Someone wants to destroy a fire.",
+      "A fire has destroyed a market."
+     ],
+     "answer": 3,
+     "explanation_th": "present simple ในหัวข่าวใช้เล่าเหตุการณ์ที่เพิ่งเกิด",
+     "why_wrong": [
+      "อนาคตในหัวข่าวใช้ to + กริยา",
+      "หัวข่าวรายงานเหตุการณ์ ไม่ได้บอกความจริงทั่วไป",
+      "Fire เป็นประธาน ไม่ใช่กรรม",
+      null
+     ]
+    },
+    {
+     "id": "ENL431-U7-05",
+     "skill": "ENL431-U7",
+     "difficulty": 3,
+     "stem": "Headline: 'University Parking Fee Rise Protest'. What is the head noun of this whole phrase?",
+     "options": [
+      "Parking",
+      "University",
+      "Protest",
+      "Rise"
+     ],
+     "answer": 2,
+     "explanation_th": "ในนามเรียงซ้อน นามตัวสุดท้ายเป็นคำหลัก ข่าวนี้พูดถึงการประท้วง",
+     "why_wrong": [
+      "Parking ขยาย Fee",
+      "University เป็นคำขยายตัวแรกสุด",
+      null,
+      "Rise ขยาย Protest ว่าประท้วงเรื่องอะไร"
+     ]
+    },
+    {
+     "id": "ENL431-U7-06",
+     "skill": "ENL431-U7",
+     "difficulty": 2,
+     "stem": "Which rewrite of 'Big dogs and cats welcome!' clearly means that only the dogs must be big?",
+     "options": [
+      "Cats and big dogs welcome!",
+      "Big dogs and cats are welcome!",
+      "Welcome, big dogs and cats!",
+      "We welcome big dogs and cats!"
+     ],
+     "answer": 0,
+     "explanation_th": "ย้าย cats ไปหน้า big จึงไม่มีทางที่ big จะขยาย cats",
+     "why_wrong": [
+      null,
+      "เติม are ไม่ได้แก้การจัดกลุ่ม ยังกำกวม",
+      "สลับลำดับประโยคแต่ big ยังอยู่หน้า dogs and cats",
+      "เปลี่ยนเป็นประโยคเต็มแต่ big ยังอยู่หน้า dogs and cats จึงยังกำกวม"
+     ]
+    },
+    {
+     "id": "ENL431-U7-07",
+     "skill": "ENL431-U7",
+     "difficulty": 1,
+     "stem": "A shop sign says: 'Fine for parking here'. Why is it ambiguous?",
+     "options": [
+      "'Parking' can be a noun or a verb, so the sign has two subjects.",
+      "'Here' can mean a place or a time.",
+      "The sign has no verb, so it cannot be ambiguous.",
+      "'Fine' can mean 'okay' or 'money paid as a punishment'."
+     ],
+     "answer": 3,
+     "explanation_th": "fine มี 2 ความหมาย (ได้เลย / ค่าปรับ) จึงกำกวมที่คำ",
+     "why_wrong": [
+      "ประเด็นไม่ได้อยู่ที่ parking และป้ายนี้ไม่มีประธาน 2 ตัว",
+      "here ในที่นี้บอกสถานที่ชัดเจน",
+      "ป้ายไม่มีกริยาก็กำกวมได้ และป้ายนี้กำกวมเพราะคำว่า fine",
+      null
+     ]
+    },
+    {
+     "id": "ENL431-U7-08",
+     "skill": "ENL431-U7",
+     "difficulty": 3,
+     "stem": "Comment: 'I watched the video of the cat on my phone.' Which phrase causes the structural ambiguity?",
+     "options": [
+      "the video",
+      "on my phone",
+      "I watched",
+      "of the cat"
+     ],
+     "answer": 1,
+     "explanation_th": "on my phone ขยาย watched (ดูบนมือถือ) หรือ the cat (แมวอยู่บนมือถือ) ก็ได้",
+     "why_wrong": [
+      "the video เป็นกรรมที่ชัดเจน",
+      null,
+      "ประธานและกริยาไม่ได้จัดกลุ่มได้หลายแบบ",
+      "of the cat ขยาย video ได้แบบเดียว"
+     ]
+    },
+    {
+     "id": "ENL431-U7-09",
+     "skill": "ENL431-U7",
+     "difficulty": 1,
+     "stem": "A post says: 'Time to eat everyone!' Which version makes the meaning clear and polite?",
+     "options": [
+      "Time to eat, everyone!",
+      "Time to, eat everyone!",
+      "Time, to eat everyone!",
+      "Time to eat everyone."
+     ],
+     "answer": 0,
+     "explanation_th": "จุลภาคแยกคำเรียก everyone ออกจากกรรมของ eat",
+     "why_wrong": [
+      null,
+      "จุลภาคตัด to ออกจาก eat ผิดไวยากรณ์และยังกำกวม",
+      "จุลภาคผิดที่ ยังอ่านได้ว่าจะกิน everyone",
+      "เปลี่ยนแค่เครื่องหมายท้าย ความหมายแปลกยังอยู่"
+     ]
+    }
+   ],
+   "say": [
+    "This headline is ambiguous.",
+    "One word can have two meanings.",
+    "A comma can change the meaning of a post."
+   ],
+   "task_th": "ไล่หัวข่าวภาษาอังกฤษหรือโพสต์โซเชียล 10 นาที หาประโยคที่อ่านได้ 2 ความหมายหรือสั้นจนต้องเดา 2 อัน เขียนลงสมุด บอกว่ากำกวมที่คำหรือที่โครงสร้าง แล้วเขียนใหม่ให้ชัดเป็นภาษาอังกฤษเต็มประโยค"
+  }
+ ]
+}

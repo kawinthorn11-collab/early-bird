@@ -10,22 +10,14 @@ const args = process.argv.slice(2);
 const onlyArg = args.includes('--only') ? args[args.indexOf('--only') + 1] : '';
 const ONLY = onlyArg ? onlyArg.split(',').map((s) => s.trim().toUpperCase()) : null;
 
-const extract = await readFile(path.join(ROOT, 'source/curriculum-extract.md'), 'utf8');
-const lines = extract.split('\n');
 const norm = (s) => s.replace(/\s+/g, ' ').trim();
 const THAI = /[฀-๿]/;
-
-function thaiDescription(code) {
-  const start = lines.findIndex((l) => l.startsWith('**') && new RegExp(`/\\s*${code}\\s`).test(l));
-  if (start < 0) return null;
-  for (let i = start + 1; i < lines.length; i++) {
-    const l = lines[i].trim();
-    if (!l || l.startsWith('>') || l.startsWith('|') || l.startsWith('_') || l.startsWith('วิชาบังคับก่อน')) continue;
-    if (l.startsWith('**') || l.startsWith('#')) return null;
-    if (THAI.test(l)) return norm(l);
-  }
-  return null;
-}
+// catalog.json is built from source/curriculum-extract.md and checked by validate, so it is the one source of descriptions
+const CATALOG = JSON.parse(await readFile(path.join(ROOT, 'content/catalog.json'), 'utf8')).courses;
+const thaiDescription = (code) => {
+  const d = CATALOG.find((c) => c.code === code)?.desc_th;
+  return d ? norm(d) : null;
+};
 
 const files = (await readdir(DIR)).filter((f) => f.endsWith('.json')).sort();
 const ROOT_DIR = path.dirname(DIR);

@@ -1,0 +1,1781 @@
+{
+ "code": "CO301",
+ "basis_th": "เตรียมตัวจากคำอธิบายรายวิชาในหลักสูตร V.67.3 เนื้อหาจริงในห้องขึ้นกับอาจารย์ผู้สอน",
+ "in_class_th": [
+  "น่าจะได้เรียนว่าสหกิจศึกษาคืออะไร และขั้นตอนตั้งแต่เลือกสถานประกอบการจนถึงไปปฏิบัติงาน ข้อนี้คาดจากคำอธิบายรายวิชา ขั้นตอนจริงของ BU ให้สอบถามสาขาหรือฝ่ายสหกิจ",
+  "อาจต้องเตรียมเอกสารสมัครงาน เช่น CV และจดหมายสมัครงาน แล้วฝึกสัมภาษณ์งาน เป็นการเดาจากหัวข้อการเตรียมเอกสารสมัครงานและเทคนิคการเข้ารับการสัมภาษณ์",
+  "น่าจะมีกิจกรรมกลุ่มเรื่องการทำงานเป็นทีม การสื่อสารข้ามวัฒนธรรม และการปรับตัว เพราะคำอธิบายรายวิชาพูดถึงหัวข้อเหล่านี้",
+  "อาจได้ฝึกเขียนรายงานและนำเสนอ และเรียนเรื่องความปลอดภัยและจรรยาบรรณในที่ทำงาน ข้อนี้เป็นการคาด รูปแบบงานจริงขึ้นกับอาจารย์ผู้สอน"
+ ],
+ "units": [
+  {
+   "id": "CO301-U1",
+   "title_th": "สหกิจศึกษาคืออะไร และตั้งเป้าหมาย",
+   "title_en": "What co-op is, and setting goals",
+   "covers": "แนวคิดและความเข้าใจระบบสหกิจศึกษา และการเตรียมความพร้อมในการทำงาน",
+   "minutes": 12,
+   "interview": [
+    "I14",
+    "I31"
+   ],
+   "cards": [
+    {
+     "title_th": "สหกิจศึกษา (cooperative education)",
+     "body_th": "โดยทั่วไป สหกิจศึกษาคือการไปทำงานจริงในสถานประกอบการเป็นส่วนหนึ่งของหลักสูตร ทำงานเหมือนพนักงาน มีงานจริงและมีคนดูแล ในแผนของคุณ CO301 อยู่ปี 4 ภาค 1 และ EN400 (ปฏิบัติงานไม่น้อยกว่า 16 สัปดาห์) อยู่ปี 4 ภาค 2"
+    },
+    {
+     "title_th": "CO301 คือช่วงเตรียมตัว",
+     "body_th": "วิชานี้เตรียมทุกอย่างก่อนออกไปทำงาน ทั้งเอกสาร สัมภาษณ์ การสื่อสาร การทำงานเป็นทีม และจรรยาบรรณ เพื่อให้วันแรกที่ทำงานไม่ตื่นเต้นจนทำอะไรไม่ถูก"
+    },
+    {
+     "title_th": "ตั้งเป้าแบบ SMART",
+     "body_th": "Specific ชัดเจน, Measurable วัดได้, Achievable ทำได้จริง, Relevant เกี่ยวกับงาน, Time-bound มีกำหนดเวลา",
+     "example": "I will handle five check-ins in English by myself by week 4."
+    },
+    {
+     "title_th": "เรื่องที่ขึ้นกับ BU ให้ถามก่อน",
+     "body_th": "วิธีเลือกที่ฝึก การอนุมัติ เอกสาร กำหนดส่ง และเกณฑ์ประเมิน เป็นเรื่องของมหาวิทยาลัย แอปนี้ไม่เดา ให้สอบถามสาขาหรือฝ่ายสหกิจ"
+    }
+   ],
+   "vocab": [
+    [
+     "cooperative education (co-op)",
+     "สหกิจศึกษา"
+    ],
+    [
+     "placement",
+     "การไปปฏิบัติงาน ที่ฝึกงาน"
+    ],
+    [
+     "workplace",
+     "สถานประกอบการ ที่ทำงาน"
+    ],
+    [
+     "supervisor",
+     "หัวหน้า ผู้ดูแลงาน"
+    ],
+    [
+     "goal",
+     "เป้าหมาย"
+    ],
+    [
+     "measurable",
+     "วัดได้"
+    ],
+    [
+     "achievable",
+     "ทำได้จริง"
+    ],
+    [
+     "deadline",
+     "กำหนดเวลา"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "CO301-U1-01",
+     "skill": "CO301-U1",
+     "difficulty": 1,
+     "stem": "In general, what is cooperative education (co-op)?",
+     "options": [
+      "Working at a real workplace as part of your degree",
+      "Visiting a company for one afternoon on a school trip",
+      "Finding a weekend job just for extra money",
+      "Taking an online business course at home"
+     ],
+     "answer": 0,
+     "explanation_th": "สหกิจศึกษาคือทำงานจริงในสถานประกอบการเป็นส่วนหนึ่งของการเรียน",
+     "why_wrong": [
+      null,
+      "การไปดูงานครึ่งวันไม่ใช่การทำงานจริงเป็นส่วนหนึ่งของหลักสูตร",
+      "งานพิเศษทั่วไปไม่ได้เป็นส่วนหนึ่งของหลักสูตร",
+      "เรียนออนไลน์ไม่ใช่การทำงานในสถานประกอบการ"
+     ]
+    },
+    {
+     "id": "CO301-U1-02",
+     "skill": "CO301-U1",
+     "difficulty": 1,
+     "stem": "Passage (EN400 course description): 'Practical work experience in an organization or company in the field of the students' major for a minimum of 16 weeks, with students presenting a report as required by the department.' What is the minimum length of the placement?",
+     "options": [
+      "Exactly 4 weeks",
+      "At least 16 weeks",
+      "At least 1 year",
+      "Only 10 days"
+     ],
+     "answer": 1,
+     "explanation_th": "คำอธิบายรายวิชา EN400 เขียนว่าต้องปฏิบัติงานไม่น้อยกว่า 16 สัปดาห์",
+     "why_wrong": [
+      "คำอธิบายรายวิชาเขียนว่าไม่น้อยกว่า 16 สัปดาห์",
+      null,
+      "นานเกินกว่าที่คำอธิบายรายวิชาเขียนไว้",
+      "สั้นกว่าที่คำอธิบายรายวิชากำหนดมาก"
+     ]
+    },
+    {
+     "id": "CO301-U1-03",
+     "skill": "CO301-U1",
+     "difficulty": 2,
+     "stem": "Which goal is SMART?",
+     "options": [
+      "I want to be much better at English one day.",
+      "I will be perfect at every single task from my first day.",
+      "I will learn 10 hotel phrases a week for 8 weeks.",
+      "I hope my work goes well at some point."
+     ],
+     "answer": 2,
+     "explanation_th": "เป้านี้ชัดเจน วัดได้ ทำได้ เกี่ยวกับงาน และมีเวลา",
+     "why_wrong": [
+      "ไม่ชัดเจน วัดไม่ได้ และไม่มีกำหนดเวลา",
+      "ทำไม่ได้จริง และวัดยาก",
+      null,
+      "เป็นความหวัง ไม่ใช่เป้าที่วัดได้"
+     ]
+    },
+    {
+     "id": "CO301-U1-04",
+     "skill": "CO301-U1",
+     "difficulty": 1,
+     "stem": "What does the 'M' in SMART stand for?",
+     "options": [
+      "Mandatory: your boss forces you to do it",
+      "Massive: it must be a very big goal",
+      "Modern: it must use new technology",
+      "Measurable: you can count or check it"
+     ],
+     "answer": 3,
+     "explanation_th": "M = Measurable วัดผลได้",
+     "why_wrong": [
+      "M ใน SMART ไม่ได้แปลว่าบังคับ",
+      "เป้าใหญ่มากอาจทำไม่ได้ ขัดกับ Achievable",
+      "ไม่เกี่ยวกับเทคโนโลยี",
+      null
+     ]
+    },
+    {
+     "id": "CO301-U1-05",
+     "skill": "CO301-U1",
+     "difficulty": 1,
+     "stem": "You are not sure how BU approves co-op workplaces. What is the best step?",
+     "options": [
+      "Copy what a friend at another school did.",
+      "Assume that any company will be fine.",
+      "Ask the faculty or the co-op office.",
+      "Wait until week 1 of the placement."
+     ],
+     "answer": 2,
+     "explanation_th": "เรื่องที่ขึ้นกับ BU ให้สอบถามสาขาหรือฝ่ายสหกิจ",
+     "why_wrong": [
+      "กฎแต่ละมหาวิทยาลัยต่างกัน",
+      "คำอธิบายรายวิชาบอกว่าต้องได้รับความเห็นชอบจากสาขา",
+      null,
+      "ช้าเกินไป ควรถามก่อนเลือกที่ฝึก"
+     ]
+    },
+    {
+     "id": "CO301-U1-06",
+     "skill": "CO301-U1",
+     "difficulty": 2,
+     "stem": "A student writes, 'My goal is to improve.' What is the main problem?",
+     "options": [
+      "It is not specific, and you cannot measure it.",
+      "It is far too long, and it has too many small details.",
+      "It has too many numbers and dates in it.",
+      "It is written in English, not in Thai."
+     ],
+     "answer": 0,
+     "explanation_th": "improve อย่างเดียวไม่บอกว่าพัฒนาอะไร เท่าไร เมื่อไร",
+     "why_wrong": [
+      null,
+      "ประโยคสั้นมาก ไม่ได้ยาวเกิน",
+      "ไม่มีตัวเลขเลย",
+      "ภาษาที่เขียนไม่ใช่ปัญหา"
+     ]
+    },
+    {
+     "id": "CO301-U1-07",
+     "skill": "CO301-U1",
+     "difficulty": 2,
+     "stem": "You will do your co-op at a hotel front desk. Which goal fits best?",
+     "options": [
+      "Become the hotel manager in my first month there.",
+      "Learn to cook three Thai dishes at home this year.",
+      "Be a nice person at work sometimes, if I can.",
+      "Handle five check-ins in English alone by week 4."
+     ],
+     "answer": 3,
+     "explanation_th": "เป้านี้เกี่ยวกับงาน วัดได้ และมีกำหนดเวลา",
+     "why_wrong": [
+      "ทำไม่ได้จริงสำหรับนักศึกษาฝึกงาน",
+      "ไม่เกี่ยวกับงานหน้าเคาน์เตอร์",
+      "ไม่ชัดเจนและวัดไม่ได้",
+      null
+     ]
+    },
+    {
+     "id": "CO301-U1-08",
+     "skill": "CO301-U1",
+     "difficulty": 2,
+     "stem": "Interview question: 'What job do you want to do after you graduate?' Which answer is strongest?",
+     "options": [
+      "I don't really know yet, so anything is fine for me.",
+      "I'd like to be a translator, and co-op will help me test that.",
+      "Translator. That is all I can say about it right now.",
+      "I just want whichever job pays the most money, to be completely honest."
+     ],
+     "answer": 1,
+     "explanation_th": "คำตอบที่ดีบอกเป้าหมายและเชื่อมกับประสบการณ์สหกิจ",
+     "why_wrong": [
+      "ไม่แสดงทิศทางหรือความตั้งใจ",
+      null,
+      "ตอบสั้นเกินไป ไม่มีเหตุผลหรือความเชื่อมโยง",
+      "ไม่เชื่อมกับสาขาและการฝึกงาน"
+     ]
+    },
+    {
+     "id": "CO301-U1-09",
+     "skill": "CO301-U1",
+     "difficulty": 2,
+     "stem": "Why does CO301 come before the EN400 placement?",
+     "options": [
+      "To give you a job offer so you can skip the placement.",
+      "To finish the final placement report before you start the work there.",
+      "To let you choose a workplace without asking anyone.",
+      "To prepare documents, interview skills and work habits first."
+     ],
+     "answer": 3,
+     "explanation_th": "คำอธิบายรายวิชา CO301 คือการเตรียมความพร้อมในการทำงาน และ EN400 มี CO301 เป็นวิชาบังคับก่อน",
+     "why_wrong": [
+      "CO301 เป็นวิชาเตรียมตัว ไม่ได้ทำให้ข้ามการปฏิบัติงาน",
+      "รายงานการฝึกปฏิบัติงานเขียนจากงานจริง ทำล่วงหน้าไม่ได้",
+      "คำอธิบาย EN400 บอกว่าต้องได้รับความเห็นชอบจากสาขา",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "Co-op means real work as part of my degree.",
+    "My goal is clear, and I can measure it.",
+    "I'll check that with the co-op office."
+   ],
+   "task_th": "เขียนเป้าหมายสหกิจแบบ SMART ภาษาอังกฤษ 3 ข้อ (ภาษา ทักษะงาน นิสัยการทำงาน) แล้วเช็กทีละข้อว่าครบ S M A R T ไหม"
+  },
+  {
+   "id": "CO301-U2",
+   "title_th": "เลือกที่ฝึก เขียน CV และจดหมายสมัครงาน",
+   "title_en": "Choosing a workplace, CV, and cover letter",
+   "covers": "เสริมสร้างทักษะด้านต่าง ๆ อาทิ การเตรียมเอกสารสมัครงาน การเลือกสถานประกอบการ",
+   "minutes": 15,
+   "cards": [
+    {
+     "title_th": "ที่ฝึกที่เข้ากับเอกภาษาอังกฤษ",
+     "body_th": "ตัวอย่างงานที่ใช้ภาษาอังกฤษเยอะ เช่น บริษัทแปล โรงแรม สายการบิน บริษัททัวร์ บริษัทต่างชาติ โรงเรียนหรือสถาบันสอนภาษา และงานทำคอนเทนต์ ส่วนรายชื่อที่ BU รับรอง ให้สอบถามสาขาหรือฝ่ายสหกิจ"
+    },
+    {
+     "title_th": "เลือกจากงานที่จะได้ทำ",
+     "body_th": "ถามว่าจะได้ทำงานอะไร ใช้ภาษาอังกฤษแค่ไหน ใครดูแล และตรงกับเป้าหมายของเราไหม ชื่อบริษัทดังอย่างเดียวไม่พอ"
+    },
+    {
+     "title_th": "CV ภาษาอังกฤษ",
+     "body_th": "ส่วนหลัก: ชื่อและช่องทางติดต่อ การศึกษา ทักษะ ประสบการณ์และกิจกรรม เขียนสั้น ใช้กริยาที่แสดงการกระทำ (action verbs) และมีตัวเลขถ้ามี",
+     "example": "Translated 20 menu items for a school café."
+    },
+    {
+     "title_th": "จดหมายสมัครงาน (cover letter)",
+     "body_th": "บอกว่าสมัครตำแหน่งอะไร ทำไมอยากทำที่นี่ และเรามีอะไรให้ ยาวไม่เกินหนึ่งหน้า",
+     "example": "I am writing to apply for the co-op position in your guest services team."
+    },
+    {
+     "title_th": "ห้ามแต่งเรื่อง",
+     "body_th": "ใส่เฉพาะทักษะและประสบการณ์ที่มีจริง ถ้ายังไม่มี ให้ใช้งานในห้องเรียนหรือกิจกรรมเป็นตัวอย่างแทน"
+    }
+   ],
+   "vocab": [
+    [
+     "CV / résumé",
+     "ประวัติย่อสำหรับสมัครงาน"
+    ],
+    [
+     "cover letter",
+     "จดหมายสมัครงาน"
+    ],
+    [
+     "position",
+     "ตำแหน่งงาน"
+    ],
+    [
+     "action verb",
+     "กริยาที่แสดงการกระทำ"
+    ],
+    [
+     "skill",
+     "ทักษะ"
+    ],
+    [
+     "experience",
+     "ประสบการณ์"
+    ],
+    [
+     "apply for",
+     "สมัคร"
+    ],
+    [
+     "translation agency",
+     "บริษัทรับแปล"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "CO301-U2-01",
+     "skill": "CO301-U2",
+     "difficulty": 1,
+     "stem": "A student wants to use English with guests every day. Which placement fits best?",
+     "options": [
+      "The stock room of a store with no customers",
+      "Night guard at an empty office building",
+      "Front desk at an international hotel",
+      "Data entry at a Thai-only accounting firm"
+     ],
+     "answer": 2,
+     "explanation_th": "เคาน์เตอร์โรงแรมนานาชาติได้ใช้ภาษาอังกฤษกับแขกทุกวัน",
+     "why_wrong": [
+      "ไม่มีลูกค้า จึงแทบไม่ได้ใช้ภาษาอังกฤษกับคน",
+      "ไม่ได้พบแขกและไม่เกี่ยวกับเอก",
+      null,
+      "งานใช้ภาษาไทยอย่างเดียว ไม่ตรงเป้า"
+     ]
+    },
+    {
+     "id": "CO301-U2-02",
+     "skill": "CO301-U2",
+     "difficulty": 1,
+     "stem": "What usually goes at the top of a CV?",
+     "options": [
+      "A long list of your hobbies",
+      "Your name and contact details",
+      "The salary you hope to get each month",
+      "Your favourite movie quotes"
+     ],
+     "answer": 1,
+     "explanation_th": "หัว CV คือชื่อและช่องทางติดต่อ",
+     "why_wrong": [
+      "งานอดิเรกถ้าใส่ก็อยู่ท้าย ๆ และไม่ใช่ส่วนหลัก",
+      null,
+      "เงินเดือนไม่ใส่หัว CV",
+      "ไม่เกี่ยวกับการสมัครงาน"
+     ]
+    },
+    {
+     "id": "CO301-U2-03",
+     "skill": "CO301-U2",
+     "difficulty": 2,
+     "stem": "Which CV line uses a strong action verb?",
+     "options": [
+      "Translated 20 menu items for a school café",
+      "Was responsible for some stuff about menus",
+      "Menus were a thing that I helped with a bit",
+      "I really like reading menus in English a lot"
+     ],
+     "answer": 0,
+     "explanation_th": "Translated เป็น action verb และมีตัวเลขชัดเจน",
+     "why_wrong": [
+      null,
+      "กว้างและไม่บอกว่าทำอะไร",
+      "อ้อม ไม่มีกริยาแสดงการกระทำ",
+      "บอกความชอบ ไม่ใช่สิ่งที่ทำ"
+     ]
+    },
+    {
+     "id": "CO301-U2-04",
+     "skill": "CO301-U2",
+     "difficulty": 1,
+     "stem": "What should you never do on a CV?",
+     "options": [
+      "Use clear headings for each part",
+      "Add skills or jobs you do not really have",
+      "Check spelling before you send it",
+      "List your education and your major"
+     ],
+     "answer": 1,
+     "explanation_th": "การแต่งเรื่องใน CV ผิดจรรยาบรรณและอาจถูกจับได้ตอนสัมภาษณ์",
+     "why_wrong": [
+      "หัวข้อชัดเจนเป็นสิ่งที่ดี",
+      null,
+      "ตรวจคำผิดเป็นสิ่งที่ควรทำ",
+      "การศึกษาเป็นส่วนหลักของ CV"
+     ]
+    },
+    {
+     "id": "CO301-U2-05",
+     "skill": "CO301-U2",
+     "difficulty": 2,
+     "stem": "What is the main job of a cover letter?",
+     "options": [
+      "To repeat your whole CV again, word for word",
+      "To ask how much the salary is in the first line",
+      "To tell your full life story, starting from early childhood",
+      "To say why you want the role and what you can offer"
+     ],
+     "answer": 3,
+     "explanation_th": "cover letter บอกเหตุผลที่สมัครและสิ่งที่เรามีให้",
+     "why_wrong": [
+      "จดหมายควรเสริม CV ไม่ใช่ลอกซ้ำ",
+      "ไม่เหมาะเปิดจดหมายด้วยเรื่องเงินเดือน",
+      "ยาวเกินและไม่ตรงประเด็น",
+      null
+     ]
+    },
+    {
+     "id": "CO301-U2-06",
+     "skill": "CO301-U2",
+     "difficulty": 2,
+     "stem": "Which opening is best for a cover letter?",
+     "options": [
+      "I am writing to apply for the co-op role in your guest team.",
+      "Hey! I really need a job now, so please read this.",
+      "You should hire me today because I am the best.",
+      "I am writing to complain about your guest team."
+     ],
+     "answer": 0,
+     "explanation_th": "ประโยคแรกบอกจุดประสงค์และตำแหน่งชัดเจน",
+     "why_wrong": [
+      null,
+      "สบายเกินไปและไม่บอกตำแหน่ง",
+      "อวดเกินไปและไม่บอกตำแหน่ง",
+      "จุดประสงค์ผิด เป็นจดหมายร้องเรียน"
+     ]
+    },
+    {
+     "id": "CO301-U2-07",
+     "skill": "CO301-U2",
+     "difficulty": 2,
+     "stem": "When you compare two possible workplaces, which question matters most?",
+     "options": [
+      "Which company has the longest and coolest name on its sign?",
+      "Which office has the nicest coffee machine?",
+      "What tasks will I do, and how much English will I use?",
+      "Which one does my friend's cousin like more?"
+     ],
+     "answer": 2,
+     "explanation_th": "งานที่ได้ทำและการใช้ภาษาอังกฤษตรงกับเป้าหมายของเอก",
+     "why_wrong": [
+      "ชื่อบริษัทไม่บอกว่าจะได้เรียนรู้อะไร",
+      "เรื่องเล็ก ไม่เกี่ยวกับการเรียนรู้",
+      null,
+      "ความชอบของคนอื่นไม่ได้บอกว่าเหมาะกับเรา"
+     ]
+    },
+    {
+     "id": "CO301-U2-08",
+     "skill": "CO301-U2",
+     "difficulty": 2,
+     "stem": "Passage: 'I am a fourth-year English student. I have translated menus for my faculty café and helped foreign visitors at an open-house booth. I would like to join your team for my co-op placement.' What kind of text is this?",
+     "options": [
+      "Part of a cover letter",
+      "A daily work log",
+      "A customer review",
+      "A meeting agenda"
+     ],
+     "answer": 0,
+     "explanation_th": "ข้อความแนะนำตัว เล่าประสบการณ์ และขอเข้าร่วมทีม เป็นลักษณะของจดหมายสมัครงาน",
+     "why_wrong": [
+      null,
+      "บันทึกประจำวันเล่างานที่ทำในวันนั้น ไม่ได้ขอเข้าร่วมทีม",
+      "รีวิวพูดถึงสินค้าหรือบริการ",
+      "agenda เป็นรายการหัวข้อประชุม"
+     ]
+    },
+    {
+     "id": "CO301-U2-09",
+     "skill": "CO301-U2",
+     "difficulty": 2,
+     "stem": "In a CV, which is the best way to show a skill?",
+     "options": [
+      "Write \"very good English\" and give no example at all.",
+      "Give an example: \"Guided 30 visitors in English at an open house.\"",
+      "List every skill you have ever heard about online.",
+      "Copy the skills part from a friend's CV word for word."
+     ],
+     "answer": 1,
+     "explanation_th": "ตัวอย่างพร้อมตัวเลขเป็นหลักฐานของทักษะ",
+     "why_wrong": [
+      "ไม่มีหลักฐาน ผู้อ่านเชื่อได้ยาก",
+      null,
+      "ใส่ทักษะที่ไม่มีจริงและยาวเกิน",
+      "ไม่ใช่ทักษะของเรา และไม่ซื่อสัตย์"
+     ]
+    }
+   ],
+   "say": [
+    "I am applying for the co-op position.",
+    "I translated twenty menu items for a café.",
+    "How much English will I use in this role?"
+   ],
+   "task_th": "เขียนบรรทัด CV ภาษาอังกฤษ 3 บรรทัดจากกิจกรรมที่เคยทำจริง ขึ้นต้นด้วย action verb และใส่ตัวเลข 1 ตัวต่อบรรทัด"
+  },
+  {
+   "id": "CO301-U3",
+   "title_th": "เทคนิคสัมภาษณ์งาน",
+   "title_en": "Job interview techniques",
+   "covers": "เทคนิคการเข้ารับการสัมภาษณ์",
+   "minutes": 15,
+   "interview": [
+    "I01",
+    "I25",
+    "I26",
+    "I28",
+    "I61"
+   ],
+   "cards": [
+    {
+     "title_th": "แนะนำตัว: ตอนนี้ อดีต อนาคต",
+     "body_th": "ตอบ Tell me about yourself ด้วยสามส่วน ตอนนี้เป็นใคร เคยทำอะไรที่เกี่ยวข้อง และอยากทำอะไรต่อ ไม่ต้องเล่าตั้งแต่เกิด"
+    },
+    {
+     "title_th": "STAR",
+     "body_th": "Situation สถานการณ์, Task หน้าที่, Action สิ่งที่ทำ, Result ผลลัพธ์ ใช้ตอบคำถามที่ขอให้เล่าเหตุการณ์ เช่น ปัญหาที่เคยแก้"
+    },
+    {
+     "title_th": "จุดแข็งและจุดอ่อน",
+     "body_th": "จุดแข็งให้มีตัวอย่าง จุดอ่อนให้บอกของจริงที่ไม่ร้ายแรง แล้วตามด้วยสิ่งที่กำลังทำเพื่อพัฒนา"
+    },
+    {
+     "title_th": "ฟังไม่ทัน ขอให้พูดซ้ำได้",
+     "body_th": "Sorry, could you say that again, please? ดีกว่าเดาแล้วตอบผิดเรื่อง"
+    },
+    {
+     "title_th": "ปิดท้ายด้วยคำถาม",
+     "body_th": "เมื่อถูกถามว่า Do you have any questions? ให้ถามเรื่องงาน เช่น What does a typical day look like for a co-op student here?"
+    }
+   ],
+   "vocab": [
+    [
+     "interviewer",
+     "ผู้สัมภาษณ์"
+    ],
+    [
+     "strength",
+     "จุดแข็ง"
+    ],
+    [
+     "weakness",
+     "จุดอ่อน"
+    ],
+    [
+     "example",
+     "ตัวอย่าง"
+    ],
+    [
+     "situation",
+     "สถานการณ์"
+    ],
+    [
+     "result",
+     "ผลลัพธ์"
+    ],
+    [
+     "prepare",
+     "เตรียมตัว"
+    ],
+    [
+     "typical day",
+     "วันทำงานปกติ"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "CO301-U3-01",
+     "skill": "CO301-U3",
+     "difficulty": 2,
+     "stem": "The interviewer asks, 'Could you tell us a little about yourself?' Which answer is best?",
+     "options": [
+      "I was born in a small hospital, then I went to kindergarten, and after that I went to primary school.",
+      "Everything is on my CV, so please just read it. I don't have much more to add today.",
+      "I'm a fourth-year English student. I enjoy helping visitors, and I want to use English in hotels.",
+      "I'm a fourth-year English student. To be honest, I don't really know why I applied here."
+     ],
+     "answer": 2,
+     "explanation_th": "คำตอบที่ดีบอกตอนนี้ ประสบการณ์ที่เกี่ยวข้อง และสิ่งที่อยากทำ",
+     "why_wrong": [
+      "เล่ายาวตั้งแต่เกิด ไม่ตรงกับงาน",
+      "ไม่ให้ข้อมูลและดูไม่ใส่ใจ",
+      null,
+      "ทำให้ผู้สัมภาษณ์คิดว่าไม่ตั้งใจ"
+     ]
+    },
+    {
+     "id": "CO301-U3-02",
+     "skill": "CO301-U3",
+     "difficulty": 1,
+     "stem": "What does STAR stand for in interview answers?",
+     "options": [
+      "Smile, Talk, Agree, Repeat",
+      "Start, Teach, Ask, Return",
+      "Skill, Time, Answer, Reason",
+      "Situation, Task, Action, Result"
+     ],
+     "answer": 3,
+     "explanation_th": "STAR คือโครงเล่าเหตุการณ์ สถานการณ์ หน้าที่ การกระทำ ผลลัพธ์",
+     "why_wrong": [
+      "ไม่ใช่ความหมายของ STAR",
+      "ไม่ใช่ความหมายของ STAR",
+      "ไม่ใช่ความหมายของ STAR",
+      null
+     ]
+    },
+    {
+     "id": "CO301-U3-03",
+     "skill": "CO301-U3",
+     "difficulty": 2,
+     "stem": "'What is your greatest strength?' Which answer is strongest?",
+     "options": [
+      "I'm good at everything, so honestly I don't think I have any weak points.",
+      "My greatest strength is that I can sleep for twelve hours without waking up.",
+      "I'm patient. At an open house, I calmly helped lost visitors find their rooms.",
+      "I'm patient. I think so, anyway. I'm not really sure I can give you an example of it."
+     ],
+     "answer": 2,
+     "explanation_th": "บอกจุดแข็งพร้อมตัวอย่างจริง",
+     "why_wrong": [
+      "อวดเกินจริงและไม่มีตัวอย่าง",
+      "ไม่เกี่ยวกับงาน",
+      null,
+      "ไม่มีตัวอย่างสนับสนุน"
+     ]
+    },
+    {
+     "id": "CO301-U3-04",
+     "skill": "CO301-U3",
+     "difficulty": 2,
+     "stem": "'What is your weakness?' Which answer is best?",
+     "options": [
+      "I get nervous on the phone, so I practise short calls with a friend every week.",
+      "I have no weaknesses at all. I'm the same in every situation, so it's never a problem.",
+      "I'm often late, and I don't really plan to change that, because it's just who I am.",
+      "I'm lazy sometimes, but every student is lazy, so I don't think it matters much."
+     ],
+     "answer": 0,
+     "explanation_th": "บอกจุดอ่อนจริงที่ไม่ร้ายแรง แล้วตามด้วยวิธีพัฒนา",
+     "why_wrong": [
+      null,
+      "ไม่น่าเชื่อ และไม่แสดงการรู้จักตัวเอง",
+      "จุดอ่อนร้ายแรงและไม่มีแผนแก้",
+      "ไม่มีแผนพัฒนา และลดความสำคัญของปัญหา"
+     ]
+    },
+    {
+     "id": "CO301-U3-05",
+     "skill": "CO301-U3",
+     "difficulty": 2,
+     "stem": "'Tell us about a mistake you made.' Which answer is best?",
+     "options": [
+      "I have never made a mistake, so I can't really answer this question for you.",
+      "It was my teammate's fault, not mine. He sent the file to the wrong person.",
+      "I made a mistake once, but I really forget what it was, so I cannot tell you about it.",
+      "I once sent a file to the wrong person. Now I check the names twice before I send."
+     ],
+     "answer": 3,
+     "explanation_th": "เล่าความผิดพลาดจริง แล้วบอกบทเรียนที่ได้",
+     "why_wrong": [
+      "ไม่น่าเชื่อและเลี่ยงคำถาม",
+      "โทษคนอื่น ไม่แสดงความรับผิดชอบ",
+      "ไม่มีเรื่องเล่าและบทเรียน",
+      null
+     ]
+    },
+    {
+     "id": "CO301-U3-06",
+     "skill": "CO301-U3",
+     "difficulty": 2,
+     "stem": "At the end, the interviewer asks, 'Do you have any questions for me?' Which is best?",
+     "options": [
+      "No, I think I have nothing to ask you about the job.",
+      "What does a typical day look like for a co-op student here?",
+      "Can I leave early on my very first day of work here?",
+      "How many days off can I take without telling anyone?"
+     ],
+     "answer": 1,
+     "explanation_th": "ถามเรื่องงานแสดงความสนใจและช่วยให้เราเตรียมตัว",
+     "why_wrong": [
+      "เสียโอกาสแสดงความสนใจ",
+      null,
+      "ทำให้ดูไม่ตั้งใจทำงาน",
+      "แสดงว่าจะหยุดงานโดยไม่แจ้ง ไม่เป็นมืออาชีพ"
+     ]
+    },
+    {
+     "id": "CO301-U3-07",
+     "skill": "CO301-U3",
+     "difficulty": 1,
+     "stem": "Before an interview, what is the most useful thing to do?",
+     "options": [
+      "Learn answers that you wrote for another company.",
+      "Stay up all night so you feel ready in the morning.",
+      "Plan to arrive at the exact start time, and not a minute earlier.",
+      "Read about the company and practise answers out loud."
+     ],
+     "answer": 3,
+     "explanation_th": "รู้จักบริษัทและฝึกพูดออกเสียงช่วยให้ตอบได้ลื่น",
+     "why_wrong": [
+      "คำตอบควรตรงกับบริษัทที่สัมภาษณ์",
+      "อดนอนทำให้คิดช้า",
+      "ควรเผื่อเวลา ถ้ารถติดจะไปสาย",
+      null
+     ]
+    },
+    {
+     "id": "CO301-U3-08",
+     "skill": "CO301-U3",
+     "difficulty": 1,
+     "stem": "In an online interview, which habit is best?",
+     "options": [
+      "Keep your camera off for the whole interview.",
+      "Join from a busy café with music playing.",
+      "Test your camera, microphone and internet before it starts.",
+      "Read your messages while they ask questions."
+     ],
+     "answer": 2,
+     "explanation_th": "ตรวจอุปกรณ์ก่อนช่วยกันปัญหาเทคนิคกลางสัมภาษณ์",
+     "why_wrong": [
+      "ผู้สัมภาษณ์มักอยากเห็นหน้า ถ้าไม่ได้บอกเป็นอย่างอื่น",
+      "เสียงดังรบกวนการสื่อสาร",
+      null,
+      "ไม่ตั้งใจฟังและไม่สุภาพ"
+     ]
+    },
+    {
+     "id": "CO301-U3-09",
+     "skill": "CO301-U3",
+     "difficulty": 1,
+     "stem": "You do not understand a question. What is best to say?",
+     "options": [
+      "What? Say it again.",
+      "Sorry, could you say that again, please?",
+      "That question is not important.",
+      "Yes, I agree with that."
+     ],
+     "answer": 1,
+     "explanation_th": "ขอให้พูดซ้ำอย่างสุภาพดีกว่าเดา",
+     "why_wrong": [
+      "ห้วนและไม่สุภาพ",
+      null,
+      "ไม่สุภาพและเลี่ยงคำถาม",
+      "เดาตอบโดยไม่เข้าใจ อาจตอบผิดเรื่อง"
+     ]
+    }
+   ],
+   "say": [
+    "I'm a fourth-year English student.",
+    "Sorry, could you say that again, please?",
+    "What does a typical day look like here?"
+   ],
+   "task_th": "เปิดคำถาม I01 I25 I26 ในห้องฝึกพูด ตอบแต่ละข้อภายใน 45 วินาที อัดเสียงไว้ ฟังซ้ำแล้วเช็กว่ามีตัวอย่างจริงอย่างน้อย 1 อย่างในแต่ละคำตอบ"
+  },
+  {
+   "id": "CO301-U4",
+   "title_th": "สื่อสารข้ามรุ่น ข้ามวัฒนธรรม และอีเมลงาน",
+   "title_en": "Communicating across generations and cultures",
+   "covers": "การพัฒนาทักษะในการสื่อสาร ทั้งในรูปแบบการสื่อสารระหว่าง Generation และการใช้ภาษาสากลเพื่อการสื่อสาร รวมถึงการสื่อสารข้ามวัฒนธรรม",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "ต่าง Generation ชอบช่องทางต่างกันได้",
+     "body_th": "บางคนชอบโทร บางคนชอบแชต บางคนชอบอีเมล อย่าเดาจากอายุ ให้ถามว่าแต่ละคนสะดวกให้ติดต่อแบบไหน"
+    },
+    {
+     "title_th": "ภาษาอังกฤษสากลในที่ทำงาน",
+     "body_th": "เขียนสั้น ชัด ไม่ใช้สแลงหรือคำไทยปน เช่น 555, na, krub เพราะคนต่างชาติอาจไม่เข้าใจ",
+     "example": "I will send the report by 3 p.m. today."
+    },
+    {
+     "title_th": "วัฒนธรรมต่างกัน ความตรงต่างกัน",
+     "body_th": "บางวัฒนธรรมพูดตรง บางวัฒนธรรมพูดอ้อม ถ้าไม่แน่ใจ ให้ถามยืนยันอย่างสุภาพ",
+     "example": "Just to confirm, you mean...?"
+    },
+    {
+     "title_th": "อีเมลงาน 5 ส่วน",
+     "body_th": "หัวเรื่อง (subject) ที่บอกเรื่องชัด, คำขึ้นต้น, จุดประสงค์ในประโยคแรก, รายละเอียดหรือคำขอ, คำลงท้าย",
+     "example": "Subject: Request: meeting room for Friday 2 p.m."
+    }
+   ],
+   "vocab": [
+    [
+     "generation",
+     "รุ่นอายุ"
+    ],
+    [
+     "channel",
+     "ช่องทางการสื่อสาร"
+    ],
+    [
+     "international English",
+     "ภาษาอังกฤษสำหรับสื่อสารสากล"
+    ],
+    [
+     "slang",
+     "คำสแลง"
+    ],
+    [
+     "cross-cultural",
+     "ข้ามวัฒนธรรม"
+    ],
+    [
+     "direct",
+     "ตรงไปตรงมา"
+    ],
+    [
+     "subject line",
+     "หัวเรื่องอีเมล"
+    ],
+    [
+     "misunderstanding",
+     "ความเข้าใจผิด"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "CO301-U4-01",
+     "skill": "CO301-U4",
+     "difficulty": 1,
+     "stem": "Which email subject line is best?",
+     "options": [
+      "Request: meeting room for Friday 2 p.m.",
+      "Hi there, it is me again from the office",
+      "URGENT!!!! PLEASE READ THIS NOW!!!!",
+      "a thing about the room, maybe Friday"
+     ],
+     "answer": 0,
+     "explanation_th": "หัวเรื่องที่ดีบอกเรื่องและรายละเอียดหลักทันที",
+     "why_wrong": [
+      null,
+      "ไม่บอกว่าอีเมลเรื่องอะไร",
+      "ตัวพิมพ์ใหญ่และเครื่องหมายเยอะดูก้าวร้าว และไม่บอกเรื่อง",
+      "คลุมเครือ ไม่ชัดเจน"
+     ]
+    },
+    {
+     "id": "CO301-U4-02",
+     "skill": "CO301-U4",
+     "difficulty": 1,
+     "stem": "Which closing is best for a work email to a manager?",
+     "options": [
+      "Bye bye 555",
+      "Best regards,",
+      "Love you,",
+      "Whatever,"
+     ],
+     "answer": 1,
+     "explanation_th": "Best regards, เป็นคำลงท้ายอีเมลงานที่ใช้ได้ทั่วไป",
+     "why_wrong": [
+      "555 เป็นภาษาแชตไทย ไม่เหมาะกับอีเมลงาน",
+      null,
+      "ใช้กับคนสนิท ไม่ใช่หัวหน้า",
+      "ดูไม่สุภาพ"
+     ]
+    },
+    {
+     "id": "CO301-U4-03",
+     "skill": "CO301-U4",
+     "difficulty": 1,
+     "stem": "In a chat with a foreign colleague, which message is clearest?",
+     "options": [
+      "Will send na krub 555, wait a bit",
+      "Report soon-soon, OK OK? Later!",
+      "I send report later maybe, na.",
+      "I will send the report by 3 p.m. today."
+     ],
+     "answer": 3,
+     "explanation_th": "ภาษาอังกฤษสากลบอกสิ่งที่จะทำและเวลาชัดเจน",
+     "why_wrong": [
+      "มีคำไทยและ 555 คนต่างชาติอาจไม่เข้าใจ",
+      "ไม่บอกเวลาชัดเจน",
+      "ไม่บอกเวลา และมีคำไทยปน",
+      null
+     ]
+    },
+    {
+     "id": "CO301-U4-04",
+     "skill": "CO301-U4",
+     "difficulty": 2,
+     "stem": "An older colleague prefers phone calls. A younger one prefers chat. What is the best approach?",
+     "options": [
+      "Ask each person how they like to be contacted, and use that.",
+      "Use chat with everyone, because chat is always the fastest way to reach people.",
+      "Avoid contacting older colleagues unless it is urgent.",
+      "Decide for each person by guessing from their age."
+     ],
+     "answer": 0,
+     "explanation_th": "ถามความสะดวกของแต่ละคน ดีกว่าเดาจากรุ่นอายุ",
+     "why_wrong": [
+      null,
+      "ไม่เคารพความสะดวกของแต่ละคน",
+      "ตัดการสื่อสารกับคนกลุ่มหนึ่ง ทำให้งานติดขัด",
+      "การเดาจากอายุเป็นการเหมารวม"
+     ]
+    },
+    {
+     "id": "CO301-U4-05",
+     "skill": "CO301-U4",
+     "difficulty": 2,
+     "stem": "A colleague from another country says, 'That's an interesting idea, but...' What is the best response?",
+     "options": [
+      "Stop the discussion now, because they clearly agree with you already.",
+      "Leave the meeting, because they sound angry.",
+      "Ask politely what concerns they have about the idea.",
+      "Say your idea again, but this time louder."
+     ],
+     "answer": 2,
+     "explanation_th": "บางวัฒนธรรมแย้งแบบอ้อม ถามข้อกังวลตรง ๆ อย่างสุภาพช่วยให้เข้าใจกัน",
+     "why_wrong": [
+      "คำว่า but อาจแปลว่ามีข้อกังวล ไม่ได้เห็นด้วยทั้งหมด",
+      "ไม่มีอะไรบอกว่าโกรธ",
+      null,
+      "การพูดดังขึ้นไม่ช่วยให้เข้าใจกัน"
+     ]
+    },
+    {
+     "id": "CO301-U4-06",
+     "skill": "CO301-U4",
+     "difficulty": 1,
+     "stem": "Which phrase is best for international English at work?",
+     "options": [
+      "Could you check this, please?",
+      "Pls chk dis krub",
+      "Check this na, quick quick",
+      "You check, OK or not OK?"
+     ],
+     "answer": 0,
+     "explanation_th": "ประโยคเต็ม สุภาพ และไม่มีสแลง",
+     "why_wrong": [
+      null,
+      "ย่อคำและมีคำไทย อ่านยาก",
+      "มีคำไทยปนและห้วน",
+      "ไวยากรณ์ไม่ครบและห้วน"
+     ]
+    },
+    {
+     "id": "CO301-U4-07",
+     "skill": "CO301-U4",
+     "difficulty": 1,
+     "stem": "Passage: 'Dear Mr Brown, I am writing to ask about the training on Monday. Could you tell me what time it starts? Best regards, Nok' What is the purpose of this email?",
+     "options": [
+      "To cancel the training",
+      "To ask when the training starts",
+      "To complain about Mr Brown",
+      "To invite Mr Brown to lunch on Monday"
+     ],
+     "answer": 1,
+     "explanation_th": "ประโยค Could you tell me what time it starts? บอกจุดประสงค์",
+     "why_wrong": [
+      "ในอีเมลไม่ได้ขอยกเลิก",
+      null,
+      "ไม่มีการร้องเรียน",
+      "ไม่ได้พูดถึงอาหารกลางวัน"
+     ]
+    },
+    {
+     "id": "CO301-U4-08",
+     "skill": "CO301-U4",
+     "difficulty": 2,
+     "stem": "You want to avoid misunderstandings with colleagues from other cultures. What helps most?",
+     "options": [
+      "Assume that everyone thinks the same way that you do.",
+      "Use lots of slang so you sound friendly and relaxed.",
+      "Check the meaning politely: 'Just to confirm, you mean...?'",
+      "Speak faster so that the conversation ends sooner."
+     ],
+     "answer": 2,
+     "explanation_th": "ถามยืนยันความหมายช่วยกันเข้าใจผิด",
+     "why_wrong": [
+      "การคิดว่าทุกคนเหมือนเราทำให้เข้าใจผิดง่าย",
+      "สแลงทำให้คนต่างวัฒนธรรมเข้าใจยาก",
+      null,
+      "พูดเร็วทำให้ฟังยากขึ้น"
+     ]
+    },
+    {
+     "id": "CO301-U4-09",
+     "skill": "CO301-U4",
+     "difficulty": 1,
+     "stem": "Which greeting fits a first email to someone you have never met?",
+     "options": [
+      "Yo Lee!",
+      "Hey babe,",
+      "Lee!!!",
+      "Dear Ms Lee,"
+     ],
+     "answer": 3,
+     "explanation_th": "อีเมลแรกถึงคนที่ไม่รู้จักใช้ Dear + Ms/Mr + นามสกุล",
+     "why_wrong": [
+      "สบายเกินไป",
+      "ไม่เหมาะกับที่ทำงาน",
+      "ห้วนและดูตะโกน",
+      null
+     ]
+    }
+   ],
+   "say": [
+    "How do you prefer to be contacted?",
+    "Just to confirm, you mean next Monday?",
+    "I will send the report by three today."
+   ],
+   "task_th": "เขียนอีเมลภาษาอังกฤษ 5 ส่วน (หัวเรื่อง ขึ้นต้น จุดประสงค์ คำขอ ลงท้าย) ถึงหัวหน้าสมมติ ขอนัดคุยเรื่องงาน 15 นาที ไม่ใช้สแลงหรือคำไทยปน"
+  },
+  {
+   "id": "CO301-U5",
+   "title_th": "ทำงานเป็นทีม อารมณ์ และการปรับตัว",
+   "title_en": "Teamwork, emotions, and adapting",
+   "covers": "นอกจากนี้ยังมุ่งเน้นทักษะการทำงานเป็นทีมอย่างสร้างสรรค์ในวัฒนธรรมองค์กรที่แตกต่าง มีจิตวิทยาในการทำงานร่วมกับผู้อื่น มีเทคนิคในการพัฒนาอารมณ์และปรับตัวได้",
+   "minutes": 14,
+   "interview": [
+    "I29",
+    "I43"
+   ],
+   "cards": [
+    {
+     "title_th": "วัฒนธรรมองค์กร (organisational culture)",
+     "body_th": "แต่ละที่มีนิสัยร่วมกันต่างกัน บางที่ทางการ บางที่สบาย ๆ สัปดาห์แรกให้สังเกตว่าคนแต่งตัว พูด และประชุมกันแบบไหน แล้วปรับตาม"
+    },
+    {
+     "title_th": "ทีมที่สร้างสรรค์",
+     "body_th": "ฟังความคิดคนอื่นก่อนแย้ง ลองรวมส่วนดีของหลายความคิด แบ่งงานชัด และให้เครดิตคนที่ช่วย",
+     "example": "I've finished my part. Can I help anyone?"
+    },
+    {
+     "title_th": "จิตวิทยาการทำงานกับคนอื่น",
+     "body_th": "คิดไว้ก่อนว่าอีกฝ่ายตั้งใจดี ถ้ามีปัญหา คุยเป็นส่วนตัวก่อน ไม่ประจานในกลุ่ม"
+    },
+    {
+     "title_th": "หยุด หายใจ ค่อยตอบ",
+     "body_th": "เวลาโกรธหรือเครียด ให้หยุด หายใจช้า ๆ บอกตัวเองว่ารู้สึกอะไร แล้วค่อยตอบเมื่อใจเย็นลง ข้อความที่ส่งตอนโกรธมักทำให้เรื่องแย่ลง"
+    },
+    {
+     "title_th": "ปรับตัวทีละนิด",
+     "body_th": "สัปดาห์แรกรู้สึกหลงทางเป็นเรื่องปกติ ถามเมื่อไม่รู้ จดสิ่งที่เรียนรู้ทุกวัน"
+    }
+   ],
+   "vocab": [
+    [
+     "teamwork",
+     "การทำงานเป็นทีม"
+    ],
+    [
+     "organisational culture",
+     "วัฒนธรรมองค์กร"
+    ],
+    [
+     "adapt",
+     "ปรับตัว"
+    ],
+    [
+     "emotion",
+     "อารมณ์"
+    ],
+    [
+     "calm down",
+     "ใจเย็นลง"
+    ],
+    [
+     "feedback",
+     "คำติชม"
+    ],
+    [
+     "conflict",
+     "ความขัดแย้ง"
+    ],
+    [
+     "credit",
+     "การให้เครดิต"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "CO301-U5-01",
+     "skill": "CO301-U5",
+     "difficulty": 2,
+     "stem": "In a team project, one member does not do any work. What is the best first step?",
+     "options": [
+      "Complain about them by name in the group chat.",
+      "Do all of their work quietly and never say anything.",
+      "Talk to them privately and ask if they need any help.",
+      "Report them to the manager first, before you talk to them at all."
+     ],
+     "answer": 2,
+     "explanation_th": "คุยเป็นส่วนตัวก่อน เผื่อเขามีปัญหาที่เราไม่รู้",
+     "why_wrong": [
+      "ประจานในกลุ่มทำให้ขัดแย้งมากขึ้น",
+      "ไม่แก้ปัญหาและเราจะรับงานเกิน",
+      null,
+      "ข้ามการคุยกันเองซึ่งควรเป็นขั้นแรก"
+     ]
+    },
+    {
+     "id": "CO301-U5-02",
+     "skill": "CO301-U5",
+     "difficulty": 1,
+     "stem": "Your new office is very formal. What should you do?",
+     "options": [
+      "Watch how others dress and speak, then follow them.",
+      "Keep your own casual style, and let them adapt to you.",
+      "Ask everyone in the office to be much less formal.",
+      "Avoid talking to anyone for the first few weeks."
+     ],
+     "answer": 0,
+     "explanation_th": "สังเกตแล้วปรับตามคือวิธีปรับตัวเข้ากับวัฒนธรรมองค์กร",
+     "why_wrong": [
+      null,
+      "ผู้มาใหม่ควรปรับตามวัฒนธรรมองค์กร",
+      "ไม่เหมาะที่ผู้มาใหม่จะขอเปลี่ยนวัฒนธรรมองค์กร",
+      "ทำให้ปรับตัวและเรียนรู้ช้า"
+     ]
+    },
+    {
+     "id": "CO301-U5-03",
+     "skill": "CO301-U5",
+     "difficulty": 1,
+     "stem": "You feel angry after a rude comment. What is the best first move?",
+     "options": [
+      "Reply right away in capital letters to show you are upset.",
+      "Post about it on social media to get some support.",
+      "Quit the placement that same day without telling anyone.",
+      "Pause, breathe, and reply later when you are calm."
+     ],
+     "answer": 3,
+     "explanation_th": "หยุดและหายใจช่วยให้ตอบอย่างมืออาชีพ",
+     "why_wrong": [
+      "ตอบตอนโกรธมักทำให้เรื่องแย่ลง",
+      "เรื่องงานไม่ควรเอาไปโพสต์ และอาจผิดกฎบริษัท",
+      "ตัดสินใจเร็วเกินไปและไม่รับผิดชอบ",
+      null
+     ]
+    },
+    {
+     "id": "CO301-U5-04",
+     "skill": "CO301-U5",
+     "difficulty": 2,
+     "stem": "Which sentence shows good teamwork?",
+     "options": [
+      "My part is done, so the rest is not my problem now.",
+      "I've finished my part. Can I help anyone with theirs?",
+      "I'll do my part, but only if my own name goes first on the slide.",
+      "I changed your part last night without telling you."
+     ],
+     "answer": 1,
+     "explanation_th": "เสนอช่วยคนอื่นหลังทำส่วนของตัวเองเสร็จ",
+     "why_wrong": [
+      "ไม่ช่วยทีม",
+      null,
+      "สนใจแต่เครดิตของตัวเอง",
+      "ทำงานของคนอื่นโดยไม่บอก ทำให้ไม่ไว้ใจกัน"
+     ]
+    },
+    {
+     "id": "CO301-U5-05",
+     "skill": "CO301-U5",
+     "difficulty": 2,
+     "stem": "Interview question: 'Do you prefer working alone or in a team?' Which answer is best?",
+     "options": [
+      "Alone. Other people always slow me down, so I avoid teams if I can.",
+      "A team, because then other people can do most of my work for me.",
+      "Honestly, I don't really like working at all, either alone or with other people.",
+      "I can do both. Teams are good for ideas, and alone is good for focus."
+     ],
+     "answer": 3,
+     "explanation_th": "คำตอบที่ดีแสดงว่าทำได้ทั้งสองแบบพร้อมเหตุผล",
+     "why_wrong": [
+      "ทำให้ดูทำงานกับคนอื่นไม่ได้",
+      "แสดงว่าจะเอาเปรียบทีม",
+      "ไม่แสดงความตั้งใจทำงาน",
+      null
+     ]
+    },
+    {
+     "id": "CO301-U5-06",
+     "skill": "CO301-U5",
+     "difficulty": 1,
+     "stem": "What does 'organisational culture' mean?",
+     "options": [
+      "The paintings and art shown on the office walls",
+      "The country where the company first opened",
+      "The shared habits, values and ways of working in a company",
+      "The type of food sold in the staff canteen"
+     ],
+     "answer": 2,
+     "explanation_th": "วัฒนธรรมองค์กรคือนิสัย ค่านิยม และวิธีทำงานร่วมกันของคนในองค์กร",
+     "why_wrong": [
+      "ศิลปะบนผนังไม่ใช่วัฒนธรรมองค์กร",
+      "ประเทศที่ตั้งบริษัทไม่ใช่ความหมายนี้",
+      null,
+      "อาหารในโรงอาหารไม่ใช่ความหมายนี้"
+     ]
+    },
+    {
+     "id": "CO301-U5-07",
+     "skill": "CO301-U5",
+     "difficulty": 2,
+     "stem": "A senior colleague gives feedback that feels harsh. Which reply is best?",
+     "options": [
+      "That's not fair. I did my best, and it's fine.",
+      "Thank you. Could you show me how to do it better?",
+      "You're wrong, and I don't need your advice.",
+      "OK. (Then you ignore the feedback and change nothing at all.)"
+     ],
+     "answer": 1,
+     "explanation_th": "รับคำติชมแล้วขอวิธีปรับปรุงแสดงความเป็นมืออาชีพ",
+     "why_wrong": [
+      "ปฏิเสธคำติชมทำให้ไม่ได้พัฒนา",
+      null,
+      "ไม่สุภาพและปิดการเรียนรู้",
+      "ไม่ได้นำคำติชมไปใช้"
+     ]
+    },
+    {
+     "id": "CO301-U5-08",
+     "skill": "CO301-U5",
+     "difficulty": 2,
+     "stem": "Your teammate's idea is different from yours. What is the most creative way to work?",
+     "options": [
+      "Combine the best parts of both ideas and test them.",
+      "Vote right away so nobody has to discuss anything.",
+      "Use your own idea because you thought of it first.",
+      "Drop both ideas so that there is no conflict at all."
+     ],
+     "answer": 0,
+     "explanation_th": "รวมส่วนดีของหลายความคิดคือการทำงานเป็นทีมอย่างสร้างสรรค์",
+     "why_wrong": [
+      null,
+      "ไม่ได้ฟังเหตุผลของแต่ละความคิด",
+      "ไม่เปิดรับความคิดของคนอื่น",
+      "เสียความคิดดี ๆ ไปทั้งสองอย่าง"
+     ]
+    },
+    {
+     "id": "CO301-U5-09",
+     "skill": "CO301-U5",
+     "difficulty": 1,
+     "stem": "Week 1 at a new workplace feels hard. Which thought helps you adapt?",
+     "options": [
+      "If it's hard now, it will always be this hard here.",
+      "Feeling lost at first is normal. I'll ask and learn a bit each day.",
+      "Nobody else in the world ever feels this way.",
+      "I should already know everything on day one."
+     ],
+     "answer": 1,
+     "explanation_th": "มองว่าการปรับตัวต้องใช้เวลา และเรียนทีละนิด",
+     "why_wrong": [
+      "คิดเหมารวมทำให้หมดกำลังใจ",
+      null,
+      "ไม่จริง และทำให้รู้สึกโดดเดี่ยว",
+      "คาดหวังเกินจริงสำหรับคนเพิ่งเริ่มงาน"
+     ]
+    }
+   ],
+   "say": [
+    "I've finished my part. Can I help?",
+    "Thank you for the feedback. I'll fix it.",
+    "Can I take a minute and get back to you?"
+   ],
+   "task_th": "นึกถึงงานกลุ่มครั้งล่าสุดที่มีปัญหา เขียนภาษาอังกฤษ 4 ประโยคด้วยโครง STAR ว่าเกิดอะไร เราทำอะไร และถ้าเจออีกจะทำต่างไปอย่างไร"
+  },
+  {
+   "id": "CO301-U6",
+   "title_th": "ทักษะวิชาชีพ จิตผู้ประกอบการ รายงาน และการนำเสนอ",
+   "title_en": "Professional skills, reports, and presentations",
+   "covers": "มีทักษะเฉพาะด้านวิชาชีพ มีจิตวิญญาณผู้ประกอบการ เทคนิคการเขียนรายงาน การนำเสนอ",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "ทักษะวิชาชีพของเอกภาษาอังกฤษ",
+     "body_th": "เช่น เขียนอีเมลอังกฤษ แปลเอกสารสั้น ตรวจภาษา ดูแลลูกค้าต่างชาติ และทำคอนเทนต์ ลองเลือก 2 ทักษะที่อยากโชว์ตอนฝึกงาน"
+    },
+    {
+     "title_th": "จิตวิญญาณผู้ประกอบการ (entrepreneurial spirit)",
+     "body_th": "ไม่ได้แปลว่าต้องเปิดบริษัท แต่คือการเห็นปัญหา เสนอวิธีแก้เล็ก ๆ และรับผิดชอบงานเหมือนเป็นเจ้าของ",
+     "example": "Guests often ask the same thing. Could I make an English FAQ sheet?"
+    },
+    {
+     "title_th": "โครงรายงานสั้น",
+     "body_th": "บทนำ (เขียนเรื่องอะไร) ผลหรือเนื้อหาหลัก (พบอะไร) และสรุป (แล้วยังไงต่อ) ใช้หัวข้อชัดเจนและภาษาทางการ"
+    },
+    {
+     "title_th": "นำเสนอให้คนตามทัน",
+     "body_th": "บอกโครงก่อน ใช้คำนำทาง (signposting) เช่น First, Next, Finally สไลด์ละหนึ่งความคิด ซ้อมจับเวลาออกเสียง แล้วปิดด้วยสรุปและเปิดให้ถาม",
+     "example": "Today I'll talk about three things."
+    }
+   ],
+   "vocab": [
+    [
+     "professional skill",
+     "ทักษะวิชาชีพ"
+    ],
+    [
+     "entrepreneurial spirit",
+     "จิตวิญญาณผู้ประกอบการ"
+    ],
+    [
+     "initiative",
+     "ความริเริ่ม"
+    ],
+    [
+     "report",
+     "รายงาน"
+    ],
+    [
+     "findings",
+     "สิ่งที่พบ"
+    ],
+    [
+     "conclusion",
+     "บทสรุป"
+    ],
+    [
+     "signposting",
+     "คำนำทางในการนำเสนอ"
+    ],
+    [
+     "rehearse",
+     "ซ้อม"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "CO301-U6-01",
+     "skill": "CO301-U6",
+     "difficulty": 2,
+     "stem": "Which action shows entrepreneurial spirit at work?",
+     "options": [
+      "Waiting for someone to tell you every small task, every single day",
+      "Hiding a small problem so that nobody in the office ever sees it",
+      "Starting your own online shop and selling things to colleagues during work hours",
+      "Seeing guests ask the same question and suggesting an English FAQ sheet"
+     ],
+     "answer": 3,
+     "explanation_th": "เห็นปัญหาแล้วเสนอวิธีแก้คือจิตวิญญาณผู้ประกอบการในที่ทำงาน",
+     "why_wrong": [
+      "ไม่แสดงความริเริ่ม",
+      "ซ่อนปัญหาตรงข้ามกับการแก้ปัญหา",
+      "ใช้เวลางานทำธุรกิจส่วนตัวผิดจรรยาบรรณ",
+      null
+     ]
+    },
+    {
+     "id": "CO301-U6-02",
+     "skill": "CO301-U6",
+     "difficulty": 1,
+     "stem": "Which is a common order for a short report?",
+     "options": [
+      "Introduction, main findings, conclusion",
+      "Conclusion first, then nothing else",
+      "Random notes written in any order that you like",
+      "A title page and nothing more"
+     ],
+     "answer": 0,
+     "explanation_th": "โครงรายงานทั่วไปคือ บทนำ เนื้อหาหลัก สรุป",
+     "why_wrong": [
+      null,
+      "ขาดเนื้อหาหลักและบทนำ",
+      "ไม่มีโครงสร้าง อ่านตามยาก",
+      "ไม่มีเนื้อหา"
+     ]
+    },
+    {
+     "id": "CO301-U6-03",
+     "skill": "CO301-U6",
+     "difficulty": 2,
+     "stem": "Which sentence is the best way to start a presentation?",
+     "options": [
+      "Um, so, yeah, I don't really know where I should start today.",
+      "This is going to be quite boring, so I am sorry in advance.",
+      "Today I'll talk about three things I learned at the front desk.",
+      "I'll read every word on my slides, so please read along with me."
+     ],
+     "answer": 2,
+     "explanation_th": "บอกหัวข้อและโครงช่วยให้ผู้ฟังตามทัน",
+     "why_wrong": [
+      "ไม่มั่นใจและไม่บอกโครง",
+      "ทำให้ผู้ฟังหมดความสนใจตั้งแต่แรก",
+      null,
+      "อ่านสไลด์ทั้งหมดทำให้น่าเบื่อ"
+     ]
+    },
+    {
+     "id": "CO301-U6-04",
+     "skill": "CO301-U6",
+     "difficulty": 1,
+     "stem": "What is a signposting phrase?",
+     "options": [
+      "A phrase that shows where the talk is going, like 'Next, ...'",
+      "A printed sign that hangs on the meeting room door",
+      "A long list of numbers shown on one single slide",
+      "A funny joke that you tell at the end of a talk"
+     ],
+     "answer": 0,
+     "explanation_th": "signposting คือคำนำทางที่บอกว่ากำลังจะพูดอะไรต่อ",
+     "why_wrong": [
+      null,
+      "ไม่ใช่ป้ายจริง",
+      "ไม่ใช่ตัวเลข",
+      "ไม่ใช่มุกตลก"
+     ]
+    },
+    {
+     "id": "CO301-U6-05",
+     "skill": "CO301-U6",
+     "difficulty": 1,
+     "stem": "Which slide design is best?",
+     "options": [
+      "A full page of small text written in one very long paragraph",
+      "A short title, a few key words, and one clear picture",
+      "Ten different fonts and colours on the same slide",
+      "No title at all and one small, blurry photo"
+     ],
+     "answer": 1,
+     "explanation_th": "สไลด์ละหนึ่งความคิด ข้อความน้อย ภาพชัด",
+     "why_wrong": [
+      "ข้อความเยอะเกิน ผู้ฟังอ่านไม่ทัน",
+      null,
+      "รกและอ่านยาก",
+      "ไม่บอกเรื่องและภาพไม่ชัด"
+     ]
+    },
+    {
+     "id": "CO301-U6-06",
+     "skill": "CO301-U6",
+     "difficulty": 1,
+     "stem": "Which professional skill best fits an English major at a company?",
+     "options": [
+      "Repairing the air conditioner in the meeting room",
+      "Driving the delivery truck to customers every day",
+      "Writing clear English emails and translating short documents",
+      "Fixing the office network cables and computers"
+     ],
+     "answer": 2,
+     "explanation_th": "การเขียนและแปลภาษาอังกฤษเป็นทักษะวิชาชีพของเอกนี้",
+     "why_wrong": [
+      "ไม่เกี่ยวกับเอกภาษาอังกฤษ",
+      "ไม่เกี่ยวกับเอกภาษาอังกฤษ",
+      null,
+      "เป็นงานไอที ไม่ใช่ทักษะของเอกภาษา"
+     ]
+    },
+    {
+     "id": "CO301-U6-07",
+     "skill": "CO301-U6",
+     "difficulty": 2,
+     "stem": "In a report, which sentence is the most formal?",
+     "options": [
+      "Guests asked lots and lots of stuff about getting around town, lol.",
+      "So, like, people wanted taxis and stuff, I guess.",
+      "Transport!!! Everyone wanted it so badly!!!",
+      "The survey showed that most guests asked about transport."
+     ],
+     "answer": 3,
+     "explanation_th": "รายงานใช้ภาษาทางการ มีข้อมูล ไม่มีสแลง",
+     "why_wrong": [
+      "มีสแลงและ lol",
+      "ภาษาพูด ไม่เป็นทางการ",
+      "เครื่องหมายเยอะ ไม่เป็นทางการ",
+      null
+     ]
+    },
+    {
+     "id": "CO301-U6-08",
+     "skill": "CO301-U6",
+     "difficulty": 1,
+     "stem": "Your talk ended four minutes early because you rushed. What should you do next time?",
+     "options": [
+      "Add more text to every slide.",
+      "Skip practice and just relax.",
+      "Rehearse out loud and time yourself.",
+      "Speak even faster to finish."
+     ],
+     "answer": 2,
+     "explanation_th": "ซ้อมออกเสียงและจับเวลาช่วยคุมจังหวะ",
+     "why_wrong": [
+      "ไม่ได้แก้ปัญหาการพูดเร็ว",
+      "ไม่ซ้อมทำให้คุมเวลาไม่ได้",
+      null,
+      "ทำให้ปัญหาแย่ลง"
+     ]
+    },
+    {
+     "id": "CO301-U6-09",
+     "skill": "CO301-U6",
+     "difficulty": 1,
+     "stem": "What is the best way to end a presentation?",
+     "options": [
+      "Sum up the main points and invite questions.",
+      "Say 'That's it, I'm done' and then walk away quickly.",
+      "Start a completely new topic at the end.",
+      "Say sorry for the whole presentation."
+     ],
+     "answer": 0,
+     "explanation_th": "สรุปและเปิดให้ถามช่วยปิดงานอย่างมืออาชีพ",
+     "why_wrong": [
+      null,
+      "ไม่มีสรุปและไม่เปิดให้ถาม",
+      "ทำให้ผู้ฟังสับสน",
+      "ทำให้งานดูแย่ลงโดยไม่จำเป็น"
+     ]
+    }
+   ],
+   "say": [
+    "Today I'll talk about three things.",
+    "Next, let me show you the results.",
+    "To sum up, thank you. Any questions?"
+   ],
+   "task_th": "ทำสไลด์ 3 หน้า (เปิด เนื้อหา สรุป) เรื่อง ทักษะ 2 อย่างที่อยากพัฒนาตอนสหกิจ แล้วซ้อมพูดภาษาอังกฤษ จับเวลาให้อยู่ใน 2 นาที"
+  },
+  {
+   "id": "CO301-U7",
+   "title_th": "ข้อควรปฏิบัติ ความปลอดภัย และจรรยาบรรณ",
+   "title_en": "Workplace conduct, safety, and ethics",
+   "covers": "และข้อควรปฏิบัติในระหว่างปฏิบัติงาน และความปลอดภัยในสถานประกอบการ รวมถึงคุณธรรม จริยธรรม และจรรยาบรรณในวิชาชีพ",
+   "minutes": 14,
+   "cards": [
+    {
+     "title_th": "ข้อควรปฏิบัติพื้นฐาน",
+     "body_th": "มาตรงเวลา ถ้าจะสายหรือป่วยให้แจ้งหัวหน้าก่อนเวลาเริ่มงาน แต่งกายตามที่กำหนด ใช้โทรศัพท์ตามกฎของที่ทำงาน ถ้าไม่แน่ใจให้ถามก่อน"
+    },
+    {
+     "title_th": "ความปลอดภัย",
+     "body_th": "จำทางหนีไฟ ทำตามป้ายและคำสั่งเจ้าหน้าที่ เห็นสิ่งอันตราย เช่น พื้นเปียก สายไฟหลุด ให้แจ้งทันที เวลามีไฟไหม้ห้ามใช้ลิฟต์"
+    },
+    {
+     "title_th": "ความลับของบริษัท (confidentiality)",
+     "body_th": "เอกสาร ข้อมูลลูกค้า และรูปหน้าจอที่ทำงาน ห้ามส่งต่อหรือโพสต์ ถ้าไม่แน่ใจว่าแชร์ได้ไหม ให้ถามหัวหน้า"
+    },
+    {
+     "title_th": "ซื่อสัตย์",
+     "body_th": "บันทึกเวลาทำงานตามจริง ไม่รับของขวัญหรือสินน้ำใจที่ขัดกับกฎบริษัท และยอมรับเมื่อทำผิด"
+    },
+    {
+     "title_th": "จรรยาบรรณของคนทำงานภาษา",
+     "body_th": "แปลให้ตรงความหมาย ไม่ตัด ไม่เติม ไม่บิดเพื่อให้ใครดูดี และเก็บความลับของเอกสาร"
+    }
+   ],
+   "vocab": [
+    [
+     "punctual",
+     "ตรงต่อเวลา"
+    ],
+    [
+     "dress code",
+     "กฎการแต่งกาย"
+    ],
+    [
+     "hazard",
+     "สิ่งที่เป็นอันตราย"
+    ],
+    [
+     "emergency exit",
+     "ทางออกฉุกเฉิน"
+    ],
+    [
+     "confidential",
+     "เป็นความลับ"
+    ],
+    [
+     "ethics",
+     "จริยธรรม"
+    ],
+    [
+     "professional ethics",
+     "จรรยาบรรณวิชาชีพ"
+    ],
+    [
+     "honest",
+     "ซื่อสัตย์"
+    ]
+   ],
+   "questions": [
+    {
+     "id": "CO301-U7-01",
+     "skill": "CO301-U7",
+     "difficulty": 2,
+     "stem": "You will be late because of heavy traffic. What should you do?",
+     "options": [
+      "Arrive late and say nothing, because the traffic is not your fault at all.",
+      "Skip the whole day, then explain everything to them next week.",
+      "Ask a friend who works there to sign in on time for you.",
+      "Message your supervisor before the start time with a new arrival time."
+     ],
+     "answer": 3,
+     "explanation_th": "แจ้งหัวหน้าก่อนเวลาเริ่มงานและบอกเวลาที่จะถึง",
+     "why_wrong": [
+      "ไม่แจ้งทำให้ทีมวางแผนงานไม่ได้",
+      "ขาดงานโดยไม่แจ้งเป็นเรื่องร้ายแรง",
+      "ลงเวลาแทนกันเป็นการทุจริต",
+      null
+     ]
+    },
+    {
+     "id": "CO301-U7-02",
+     "skill": "CO301-U7",
+     "difficulty": 1,
+     "stem": "You see a wet floor with no warning sign near the lobby. What is the best action?",
+     "options": [
+      "Ignore it, because cleaning the floors is not part of your job.",
+      "Report it to staff right away so they can make it safe.",
+      "Take a photo of it and post it on social media.",
+      "Walk around it carefully and then forget about it."
+     ],
+     "answer": 1,
+     "explanation_th": "เห็นสิ่งอันตรายต้องแจ้งทันที",
+     "why_wrong": [
+      "อาจมีคนลื่นล้มบาดเจ็บ",
+      null,
+      "ไม่ได้แก้อันตรายและอาจผิดกฎบริษัท",
+      "คนอื่นยังเสี่ยงล้ม"
+     ]
+    },
+    {
+     "id": "CO301-U7-03",
+     "skill": "CO301-U7",
+     "difficulty": 1,
+     "stem": "You translate a private company document. A friend asks to see it. What should you do?",
+     "options": [
+      "Send your friend a quick photo of it.",
+      "Show only the most interesting page.",
+      "Post a short summary of it online.",
+      "Say no, because the document is confidential."
+     ],
+     "answer": 3,
+     "explanation_th": "เอกสารบริษัทเป็นความลับ ห้ามให้คนนอกดู",
+     "why_wrong": [
+      "เปิดเผยความลับของบริษัท",
+      "แม้แค่บางหน้าก็ยังเป็นความลับ",
+      "เปิดเผยข้อมูลบริษัทต่อสาธารณะ",
+      null
+     ]
+    },
+    {
+     "id": "CO301-U7-04",
+     "skill": "CO301-U7",
+     "difficulty": 1,
+     "stem": "Which is honest in a daily time log?",
+     "options": [
+      "Add extra hours so you look busy.",
+      "Copy a friend's log for the week.",
+      "Write the hours you really worked.",
+      "Fill in all of next week on Monday."
+     ],
+     "answer": 2,
+     "explanation_th": "บันทึกเวลาตามจริงคือความซื่อสัตย์",
+     "why_wrong": [
+      "บันทึกเกินจริงคือการโกหก",
+      "ไม่ใช่งานของเราและไม่ตรงความจริง",
+      null,
+      "เขียนล่วงหน้าโดยยังไม่รู้ว่าทำจริงเท่าไร"
+     ]
+    },
+    {
+     "id": "CO301-U7-05",
+     "skill": "CO301-U7",
+     "difficulty": 1,
+     "stem": "During a fire alarm, what should you do?",
+     "options": [
+      "Take the lift down, because it is the fastest way out.",
+      "Leave by the nearest safe exit and follow staff instructions.",
+      "Finish writing your email first, then walk out slowly.",
+      "Hide in the toilet and wait until the alarm stops."
+     ],
+     "answer": 1,
+     "explanation_th": "ออกทางหนีไฟที่ใกล้และปลอดภัย ทำตามเจ้าหน้าที่",
+     "why_wrong": [
+      "ห้ามใช้ลิฟต์เวลาไฟไหม้ อาจติดอยู่ข้างใน",
+      null,
+      "เสียเวลาและเสี่ยงอันตราย",
+      "อันตรายและเจ้าหน้าที่หาตัวไม่เจอ"
+     ]
+    },
+    {
+     "id": "CO301-U7-06",
+     "skill": "CO301-U7",
+     "difficulty": 2,
+     "stem": "A customer offers you a gift for faster service. What is best?",
+     "options": [
+      "Thank them, politely decline, and follow the company's gift rules.",
+      "Take the gift, and then serve this customer before everyone else.",
+      "Ask the customer for a bigger gift so you can serve them first.",
+      "Take the gift secretly, so that your supervisor never finds out about it."
+     ],
+     "answer": 0,
+     "explanation_th": "ปฏิเสธอย่างสุภาพและทำตามกฎบริษัท",
+     "why_wrong": [
+      null,
+      "รับของเพื่อแลกบริการพิเศษไม่ยุติธรรมกับลูกค้าคนอื่น",
+      "เรียกรับประโยชน์เป็นการทุจริต",
+      "ปิดบังหัวหน้าไม่ซื่อสัตย์"
+     ]
+    },
+    {
+     "id": "CO301-U7-07",
+     "skill": "CO301-U7",
+     "difficulty": 2,
+     "stem": "As a translator, which shows professional ethics?",
+     "options": [
+      "Changing some facts so the client looks better to readers",
+      "Translating the meaning accurately, even when you dislike the message",
+      "Leaving out the hard parts without telling anyone at all",
+      "Adding your own opinions into the text to make it richer"
+     ],
+     "answer": 1,
+     "explanation_th": "จรรยาบรรณผู้แปลคือแปลให้ตรง ไม่ตัด ไม่เติม ไม่บิด",
+     "why_wrong": [
+      "บิดข้อเท็จจริงผิดจรรยาบรรณผู้แปล",
+      null,
+      "ตัดเนื้อหาโดยไม่แจ้งทำให้ผู้อ่านได้ข้อมูลไม่ครบ",
+      "เติมความเห็นตัวเองไม่ตรงกับต้นฉบับ"
+     ]
+    },
+    {
+     "id": "CO301-U7-08",
+     "skill": "CO301-U7",
+     "difficulty": 1,
+     "stem": "What is a good habit with your phone at work?",
+     "options": [
+      "Watch videos on your phone at your desk while you work.",
+      "Take personal calls loudly in a meeting.",
+      "Post photos of office screens online.",
+      "Keep it on silent and check it at break time."
+     ],
+     "answer": 3,
+     "explanation_th": "ปิดเสียงและใช้ช่วงพักเป็นมารยาทพื้นฐาน ถ้างานต้องใช้โทรศัพท์ให้ทำตามที่หัวหน้าบอก",
+     "why_wrong": [
+      "ไม่ตั้งใจทำงาน",
+      "รบกวนคนอื่นและไม่สุภาพ",
+      "อาจเปิดเผยข้อมูลบริษัท",
+      null
+     ]
+    },
+    {
+     "id": "CO301-U7-09",
+     "skill": "CO301-U7",
+     "difficulty": 1,
+     "stem": "You are not sure about the dress code. What should you do?",
+     "options": [
+      "Ask your supervisor or HR before your first day.",
+      "Wear whatever feels the most comfortable.",
+      "Guess, and then wear shorts and sandals to work on day one.",
+      "Copy the outfit of a famous actor online."
+     ],
+     "answer": 0,
+     "explanation_th": "ไม่แน่ใจให้ถามก่อน",
+     "why_wrong": [
+      null,
+      "อาจไม่ตรงกับกฎของที่ทำงาน",
+      "เสี่ยงแต่งกายไม่เหมาะสม",
+      "ไม่เกี่ยวกับกฎการแต่งกายของที่ทำงาน"
+     ]
+    }
+   ],
+   "say": [
+    "I'm sorry, I'll be about fifteen minutes late.",
+    "There is a wet floor near the lobby.",
+    "Sorry, I can't share that. It's confidential."
+   ],
+   "task_th": "ทำรายการภาษาอังกฤษ 8 ข้อ My workplace rules (เวลา การแต่งกาย โทรศัพท์ ความปลอดภัย ความลับ ความซื่อสัตย์) แล้วเขียนข้อความแจ้งหัวหน้าว่าจะสาย 1 ข้อความ"
+  }
+ ]
+}
