@@ -44,6 +44,7 @@ async function status() {
   return {
     mlxWhisper: !!(await findMlxWhisper()),
     elevenlabs: !!process.env.ELEVENLABS_API_KEY,
+    jev: !!process.env.TYPESAFE_API_KEY,
     routerKey: !!process.env.NINEROUTER_API_KEY,
     routerModels: await routerModels(),
   };
@@ -118,6 +119,28 @@ function readBody(req, limit = 25 * 1024 * 1024) {
   });
 }
 
+// Jev (TypeSafe) reads a free-text dream and says which career paths it points to. Dev server only: the key stays here.
+async function dreamToCareers(text) {
+  if (!process.env.TYPESAFE_API_KEY) throw new Error('TYPESAFE_API_KEY is not set');
+  const goals = JSON.parse(await readFile(path.join(ROOT, 'content/advisor/goals.json'), 'utf8'));
+  const r = await fetch('https://api.typesafe.ai/v1/systemone', {
+    method: 'POST',
+    headers: { authorization: `Bearer ${process.env.TYPESAFE_API_KEY}`, 'content-type': 'application/json' },
+    body: JSON.stringify({
+      model: 'jev-latest',
+      state: { dream: text },
+      questions: Object.fromEntries(goals.careers.map((g) => [g.id, {
+        type: 'noul',
+        instructions: `The student's dream or future plan in \`dream\` would be fulfilled by working as: ${g.about}`,
+      }])),
+    }),
+    signal: AbortSignal.timeout(20000),
+  });
+  if (!r.ok) throw new Error(`TypeSafe ${r.status}`);
+  const d = await r.json();
+  return { model: d.model, careers: Object.entries(d.answers).map(([id, a]) => ({ id, p: a.noul })).sort((a, b) => b.p - a.p) };
+}
+
 function send(res, code, obj) {
   res.statusCode = code;
   res.setHeader('content-type', 'application/json; charset=utf-8');
@@ -147,6 +170,13 @@ export function apiMiddleware() {
         if (!body.model) return send(res, 400, { error: 'model required' });
         const content = await chat(body.model, body.messages, { json: !!body.json, maxTokens: body.maxTokens || 600 });
         return send(res, 200, { content });
+      }
+
+      if (url.pathname === '/api/dream' && req.method === 'POST') {
+        const body = JSON.parse((await readBody(req, 1e5)).toString('utf8'));
+        const text = String(body.text || '').trim().slice(0, 1000);
+        if (!text) return send(res, 400, { error: 'text required' });
+        return send(res, 200, await dreamToCareers(text));
       }
 
       if (url.pathname === '/api/translate' && req.method === 'POST') {

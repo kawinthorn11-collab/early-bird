@@ -1,0 +1,176 @@
+{
+  "about": "Career paths, interests and skills the elective advisor asks about. scripts/jev-advisor.mjs sends the `about` text to Jev; the app shows `th`.",
+  "careers": [
+    {
+      "id": "translator",
+      "th": "นักแปลและล่าม",
+      "about": "Translator or interpreter: translates documents, websites and subtitles between Thai and English, or interprets spoken meetings and events.",
+      "si_th": "มองหากลุ่มวิชาภาษาที่สาม หรือกลุ่มวิชาการแปลที่ภาควิชาในคณะมนุษยศาสตร์ฯ กำหนด"
+    },
+    {
+      "id": "teacher",
+      "th": "ครูหรือติวเตอร์ภาษาอังกฤษ",
+      "about": "English teacher or tutor at a school, language institute or online: plans lessons, explains grammar and vocabulary, designs tests and gives feedback to learners.",
+      "si_th": "มองหากลุ่มวิชาที่ภาควิชาภาษาอังกฤษกำหนดด้านการสอน หรือกลุ่มวิชาจิตวิทยาและการสื่อสารที่คณะอนุมัติ"
+    },
+    {
+      "id": "tourism",
+      "th": "งานโรงแรม ท่องเที่ยว และสายการบิน",
+      "about": "Hotel, travel agency, tour guide or airline staff: welcomes international guests, handles bookings and requests, explains places and services in English.",
+      "si_th": "มองหากลุ่มวิชาด้านการท่องเที่ยวและการโรงแรมของคณะมนุษยศาสตร์และการจัดการการท่องเที่ยวเอง"
+    },
+    {
+      "id": "creator",
+      "th": "ครีเอเตอร์และนักทำคอนเทนต์ภาษาอังกฤษ",
+      "about": "Content creator or English-language influencer: plans, films, edits and posts videos and social media content in English, builds a personal brand and an audience.",
+      "si_th": "มองหากลุ่มวิชาจากคณะดิจิทัลมีเดียและศิลปะภาพยนตร์ หรือคณะนิเทศศาสตร์ ที่คณะอนุมัติ"
+    },
+    {
+      "id": "marketing",
+      "th": "การตลาดดิจิทัลและโซเชียลมีเดีย",
+      "about": "Digital marketing or social media officer at a company: writes campaign copy and posts in English, plans content, studies customers and online trends.",
+      "si_th": "มองหากลุ่มวิชาการตลาดจากคณะบริหารธุรกิจ หรือกลุ่มวิชาจากคณะนิเทศศาสตร์ ที่คณะอนุมัติ"
+    },
+    {
+      "id": "writer",
+      "th": "นักเขียน copywriter และบรรณาธิการ",
+      "about": "Writer, copywriter or editor: writes and edits articles, stories, advertising copy, scripts and books in English.",
+      "si_th": "มองหากลุ่มวิชาการเขียนจากคณะนิเทศศาสตร์ หรือกลุ่มวิชาที่ภาควิชาภาษาอังกฤษกำหนด"
+    },
+    {
+      "id": "business",
+      "th": "งานบริษัทต่างชาติและประสานงานต่างประเทศ",
+      "about": "Office job at an international company: writes emails and reports in English, joins meetings with foreign partners, coordinates projects between Thai and overseas teams.",
+      "si_th": "มองหากลุ่มวิชาจากคณะบริหารธุรกิจ หรือภาษาที่สามที่ภาควิชาในคณะมนุษยศาสตร์ฯ กำหนด"
+    },
+    {
+      "id": "service",
+      "th": "บริการลูกค้าและ customer success",
+      "about": "Customer service or customer success staff: answers customers in English by chat, phone and email, solves problems politely and keeps customers happy.",
+      "si_th": "มองหากลุ่มวิชาด้านการโรงแรมและการบริการในคณะมนุษยศาสตร์และการจัดการการท่องเที่ยว"
+    },
+    {
+      "id": "announcer",
+      "th": "พิธีกร ผู้ประกาศ และสื่อมวลชน",
+      "about": "Master of ceremonies, announcer, news presenter or reporter: speaks clearly on stage, on camera or on radio in English and hosts events.",
+      "si_th": "มองหากลุ่มวิชาจากคณะนิเทศศาสตร์ที่คณะอนุมัติ"
+    },
+    {
+      "id": "localization",
+      "th": "ซับไตเติล localization เกมและสตรีมมิ่ง",
+      "about": "Localization specialist: translates and adapts subtitles, games, apps and streaming content between English and Thai so they feel natural to local users.",
+      "si_th": "มองหากลุ่มวิชาจากคณะดิจิทัลมีเดียและศิลปะภาพยนตร์ หรือคณะเทคโนโลยีสารสนเทศและนวัตกรรม ที่คณะอนุมัติ"
+    },
+    {
+      "id": "hr",
+      "th": "HR และการสื่อสารองค์กร",
+      "about": "Human resources or internal communication officer: recruits and trains staff, writes announcements and policies, communicates inside an organization in English.",
+      "si_th": "มองหากลุ่มวิชาจากคณะบริหารธุรกิจที่คณะอนุมัติ"
+    },
+    {
+      "id": "entrepreneur",
+      "th": "เจ้าของธุรกิจของตัวเอง",
+      "about": "Entrepreneur who starts and runs their own business: pitches ideas, sells to customers, markets the brand and negotiates with partners, often in English.",
+      "si_th": "มองหากลุ่มวิชาจากคณะการสร้างเจ้าของธุรกิจและการบริหารกิจการ หรือคณะบริหารธุรกิจ ที่คณะอนุมัติ"
+    }
+  ],
+  "interests": [
+    {
+      "id": "meet_people",
+      "th": "คุยกับคนใหม่ ๆ",
+      "about": "talking with new people and making them feel welcome"
+    },
+    {
+      "id": "on_stage",
+      "th": "พูดหน้าคนหรือออกกล้อง",
+      "about": "speaking in front of an audience, on stage or on camera"
+    },
+    {
+      "id": "write",
+      "th": "เขียนหรือเล่าเรื่อง",
+      "about": "writing texts or telling stories"
+    },
+    {
+      "id": "language_puzzles",
+      "th": "เล่นกับภาษา แปลคำ หาคำที่ใช่",
+      "about": "working carefully with words, comparing two languages and finding the exact right expression"
+    },
+    {
+      "id": "help",
+      "th": "ช่วยแก้ปัญหาให้คนอื่น",
+      "about": "helping other people solve their problems patiently"
+    },
+    {
+      "id": "explain",
+      "th": "อธิบายให้คนอื่นเข้าใจ",
+      "about": "explaining ideas step by step so that someone else understands and improves"
+    },
+    {
+      "id": "make_media",
+      "th": "ถ่าย ตัดต่อ ทำคลิป โพสต์โซเชียล",
+      "about": "filming, editing and posting videos or social media content"
+    },
+    {
+      "id": "entertainment",
+      "th": "เกม หนัง ซีรีส์ และเพลง",
+      "about": "games, films, series and music"
+    },
+    {
+      "id": "travel",
+      "th": "เที่ยวและเจอวัฒนธรรมต่างชาติ",
+      "about": "travelling and meeting people from other cultures"
+    },
+    {
+      "id": "sell",
+      "th": "ขายของและทำธุรกิจ",
+      "about": "selling, persuading customers and making money from a business idea"
+    },
+    {
+      "id": "organize",
+      "th": "วางแผน จัดระบบ ทำเอกสาร",
+      "about": "planning, organizing information and preparing documents"
+    }
+  ],
+  "skills": [
+    {
+      "id": "business_english",
+      "th": "ภาษาอังกฤษธุรกิจและการทำงานในองค์กร",
+      "about": "English for business and office work: emails, meetings, reports and professional communication"
+    },
+    {
+      "id": "digital_content",
+      "th": "ทำคอนเทนต์และสื่อดิจิทัล",
+      "about": "creating digital and social media content in English"
+    },
+    {
+      "id": "translation",
+      "th": "การแปลและ localization",
+      "about": "translating and localizing texts and media between English and Thai"
+    },
+    {
+      "id": "teaching",
+      "th": "การสอนภาษาอังกฤษ",
+      "about": "teaching English: planning lessons, making materials and assessing learners"
+    },
+    {
+      "id": "public_speaking",
+      "th": "พูดในที่สาธารณะให้มั่นใจ",
+      "about": "speaking confidently in public: presenting, hosting and using the voice well"
+    },
+    {
+      "id": "creative_writing",
+      "th": "เขียนสร้างสรรค์และเล่าเรื่อง",
+      "about": "creative writing and storytelling in English"
+    },
+    {
+      "id": "customer_service",
+      "th": "งานบริการและดูแลลูกค้า",
+      "about": "serving and caring for customers in English in service industries"
+    },
+    {
+      "id": "culture_arts",
+      "th": "วรรณกรรม หนัง และวัฒนธรรม",
+      "about": "understanding literature, film, arts and cultures through English"
+    }
+  ]
+}

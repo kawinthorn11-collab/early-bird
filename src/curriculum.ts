@@ -49,6 +49,8 @@ export type Profile = {
   termDates: Record<string, TermDates>;
   /** Slot id → chosen catalog code, or free text for a course outside the catalog. */
   slots: Record<string, string>;
+  /** The elective advisor's questions: dream careers, interests and skills to grow (ids from content/advisor/goals.json). */
+  advisor?: { dreams: string[]; interests: string[]; skills: string[] };
 };
 export const defaultProfile = (): Profile => ({ cohort: '1/1', track: 'coop', termDates: {}, slots: {} });
 

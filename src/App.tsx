@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { useStore, level } from './store';
 import { Home, DailyPage, PlanPage, CalendarPage, SettingsPage, useTheme } from './pages';
+import { AdvisorPage } from './AdvisorPage';
 import { CoursePage, UnitPlayer } from './Course';
 import { LessonPlayer } from './Lesson';
 import { SpeakHub, Survival, Calm, VoiceProgress } from './Speak';
@@ -54,7 +55,7 @@ function XpChip({ xp }: { xp: number }) {
 
 const TABS: { path: string; label: string; match: string[] }[] = [
   { path: '', label: 'วันนี้', match: ['', 'run', 'daily'] },
-  { path: 'plan', label: 'แผน 4 ปี', match: ['plan', 'course', 'lesson'] },
+  { path: 'plan', label: 'แผน 4 ปี', match: ['plan', 'course', 'lesson', 'advisor'] },
   { path: 'calendar', label: 'ปฏิทิน', match: ['calendar'] },
   { path: 'speak', label: 'ฝึกพูด', match: ['speak', 'interview', 'builder', 'survival', 'calm', 'voice-progress', 'videos', 'video', 'vocab'] },
   { path: 'settings', label: 'ตั้งค่า', match: ['settings', 'learn'] },
@@ -74,6 +75,7 @@ export default function App() {
     case 'run': page = <QuickRun />; break;
     case 'daily': page = <DailyPage />; break;
     case 'plan': page = <PlanPage />; break;
+    case 'advisor': page = <AdvisorPage />; break;
     case 'course': page = c ? <UnitPlayer key={c} code={b} unitId={c} /> : <CoursePage key={b} code={b} />; break;
     case 'lesson': page = <LessonPlayer key={b} id={b} />; break;
     case 'calendar': page = <CalendarPage />; break;

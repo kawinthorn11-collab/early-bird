@@ -183,6 +183,7 @@ export function PlanPage() {
       <p className="eyebrow">{s.profile.cohort === '2' ? 'รุ่น 2' : `รุ่น ${s.profile.cohort}`} · {TRACKS[s.profile.track]}</p>
       <h1 className="page-title">แผน 4 ปีของฉัน</h1>
       <p className="muted">ตาม Year Plan 2570 รวม <b>{totalCredits(terms)} หน่วยกิต</b> แตะวิชาเพื่อดูคำอธิบายรายวิชาและหน่วยเตรียมตัว เปลี่ยนรุ่นหรือแผนได้ใน <a href="#/settings">ตั้งค่า</a></p>
+      <a className="card clickable adv-cta" href="#/advisor"><b>ยังไม่รู้จะลงวิชาเลือกอะไร?</b><span>ตอบ 3 ข้อเรื่องอาชีพในฝัน แล้ว Jev ช่วยวางวิชาเลือกทุกช่อง พร้อมตัวสำรองถ้าวิชาเต็ม →</span></a>
       <ul className="legend" aria-label="สถานะ">
         {(['pre-study', 'now', 'later', 'past'] as TermStatus[]).map((k) => <li key={k} className={`status ${k}`}>{STATUS[k]}</li>)}
       </ul>
@@ -264,7 +265,7 @@ function PlanRow({ it, at, terms, order }: { it: PlanItem; at: number; terms: Te
           </select>
         ) : <input value={it.choice ?? ''} placeholder="พิมพ์ชื่อวิชาที่เลือก" onChange={(e) => choose(e.target.value)} />}
       </label>
-      {it.course ? <a className="small" href={`#/course/${it.course.code}`}>ดูคำอธิบาย {it.course.code} →</a> : <p className="small muted slot-rule">{SLOT_RULE_TH[it.slot]}</p>}
+      {it.course ? <a className="small" href={`#/course/${it.course.code}`}>ดูคำอธิบาย {it.course.code} →</a> : <p className="small muted slot-rule">{SLOT_RULE_TH[it.slot]} <a href="#/advisor">ให้ Jev ช่วยเลือก →</a></p>}
       {it.course && <Prereqs code={it.course.code} at={at} terms={terms} order={order} />}
     </li>
   );

@@ -74,6 +74,23 @@ for (const t of c.plan.terms) for (const list of Object.values(t.courses)) for (
   }
 }
 
+/* advisor: Jev scores exist for every elective x goal and career x interest (rerun scripts/jev-advisor.mjs after edits) */
+{
+  const fs = await import('node:fs');
+  const read = (f) => JSON.parse(fs.readFileSync(path.join(ROOT, f), 'utf8'));
+  const g = read('content/advisor/goals.json'); const sc = read('content/advisor/scores.json');
+  for (const course of c.catalog.courses.filter((x) => x.elective)) {
+    const row = sc.courses[course.code];
+    if (!row) { err('advisor/scores.json', `${course.code} has no Jev scores`); continue; }
+    for (const x of g.careers) if (!row.careers[x.id]) err('advisor/scores.json', `${course.code} missing career ${x.id}`);
+    for (const x of g.skills) if (!row.skills[x.id]) err('advisor/scores.json', `${course.code} missing skill ${x.id}`);
+  }
+  for (const x of g.careers) {
+    if (!x.si_th) err('advisor/goals.json', `career ${x.id} needs si_th`);
+    for (const i of g.interests) if (!sc.careers[x.id]?.[i.id]) err('advisor/scores.json', `career ${x.id} missing interest ${i.id}`);
+  }
+}
+
 /* grammar lessons reused by course units */
 for (const l of c.lessons) {
   const w = l.__file;
