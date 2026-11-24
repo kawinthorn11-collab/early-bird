@@ -271,42 +271,94 @@ function PlanRow({ it, at, terms, order }: { it: PlanItem; at: number; terms: Te
 }
 
 /* ---------------- ปฏิทิน ---------------- */
-const TERM_TAG: Record<string, string> = { '1': 'ภาค 1', '2': 'ภาค 2', S: 'ฤดูร้อน' };
+type CalTermId = (typeof calendar.terms)[number]['id'];
+const cellEnd = (c: { from: string; to?: string }) => c.to ?? c.from;
+const countdown = (today: string, c: { from: string; to?: string }) => {
+  if (c.from <= today && today <= cellEnd(c)) return c.to ? 'อยู่ในช่วงนี้' : 'วันนี้';
+  const d = daysBetween(today, c.from);
+  return d > 0 ? `อีก ${d} วัน` : 'ผ่านแล้ว';
+};
 
 export function CalendarPage() {
   const { terms, today } = usePlan();
-  const split = terms.find((t) => t.season === 't1-2' && t.year === 1);
-  const events = [
-    ...calendar.events.map((e) => ({ ...e, est: false })),
-    ...(split ? [{ date: split.start, term: '1', th: `เริ่มภาค 1/2${split.startKnown ? ' (ตามที่ตั้งไว้)' : ''}`, est: !split.startKnown, end: undefined, key: 'split' }] : []),
-  ].sort((a, b) => (a.date < b.date ? -1 : a.date > b.date ? 1 : 0));
-  const nextIdx = events.findIndex((e) => (e.end ?? e.date) >= today);
-  let month = '';
+  // the first date that has not finished yet, across the whole table
+  const upcoming = calendar.rows
+    .flatMap((r) => calendar.terms.flatMap((t) => (r.cells[t.id] ?? []).map((c) => ({ r, t, c }))))
+    .filter((x) => cellEnd(x.c) >= today)
+    .sort((a, b) => (a.c.from < b.c.from ? -1 : a.c.from > b.c.from ? 1 : 0))[0];
+  const [term, setTerm] = useState<CalTermId>(upcoming?.t.id ?? '1');
+  const { s } = useStore();
+  const fresh = s.profile.cohort === '1/1' ? calendar.freshman : null;
+  const prep = terms.find((t) => t.season === 't1-1' && t.year === 1);
   return (
     <div className="calendar-page">
       <h1 className="page-title">ปฏิทินการศึกษา 2570</h1>
-      <p className="muted">วันสำคัญระดับปริญญาตรีของมหาวิทยาลัย เรียงตามเวลา {calendar.note_th} · ที่มา <a href="https://www.bu.ac.th/th/calendar/bachelor-degree/2027" target="_blank" rel="noreferrer">bu.ac.th/th/calendar</a></p>
-      <ol className="cal">
-        {events.map((e, i) => {
-          const m = e.date.slice(0, 7);
-          const head = m !== month ? (month = m, thaiDate(`${m}-01`).replace(/^1 /, '')) : null;
-          const d = daysBetween(today, e.date);
-          const live = e.end && e.date <= today && today <= e.end;
-          const when = live ? 'วันนี้อยู่ในช่วงนี้' : d === 0 ? 'วันนี้' : d > 0 ? `อีก ${d} วัน` : 'ผ่านแล้ว';
-          return (
-            <li key={`${e.date}-${i}`} className={`cal-row ${i === nextIdx ? 'next' : ''} ${i < nextIdx ? 'past' : ''} ${e.key?.endsWith('start') ? 'key' : ''}`}>
-              {head && <h2 className="cal-month">{head}</h2>}
-              <div className="cal-item">
-                <span className="cal-date">{thaiRange(e.date, e.end)}</span>
-                <span className="cal-what">{e.th}{e.est && <span className="est-tag">{ESTIMATE_NOTE}</span>}</span>
-                <span className="cal-tag">{TERM_TAG[e.term] ?? e.term}</span>
-                <span className="cal-when">{i === nextIdx && <b className="next-tag">ถัดไป</b>}{when}</span>
-              </div>
-            </li>
-          );
-        })}
-      </ol>
-      <p className="small muted">วันสอบกลางภาค ปลายภาค และวันปฐมนิเทศไม่อยู่ในปฏิทินที่ได้มา ดูประกาศของมหาวิทยาลัยหรือ registration.bu.ac.th</p>
+      <p className="muted">ระดับปริญญาตรี ภาคการศึกษาที่ 1/2570 ถึงภาคฤดูร้อน/2570 ตามตารางของมหาวิทยาลัย {calendar.note_th} · ที่มา <a href="https://www.bu.ac.th/th/calendar/bachelor-degree/2027" target="_blank" rel="noreferrer">bu.ac.th/th/calendar</a> (ข้อมูลล่าสุด ณ วันที่ 9 พ.ย. 2569)</p>
+      {fresh && (
+        <section className="card cal-fresh">
+          <h2>{fresh.th}</h2>
+          <p>{fresh.how_th}</p>
+          <ol className="cal-fresh-list">
+            {fresh.items.map((it) => {
+              const past = (it.to ?? it.from) < today && it.precision !== 'unknown';
+              return (
+                <li key={it.th} className={past ? 'past' : ''}>
+                  <span className="cal-date">{it.text}</span>
+                  <span>
+                    <b>{it.th}</b>
+                    {it.precision !== 'day' && <span className="est-tag">{it.precision === 'month' ? 'รู้แค่เดือน' : 'ยังไม่ประกาศ'}</span>}
+                    {it.precision === 'day' && <span className="cal-when">{countdown(today, it)}</span>}
+                    {it.note_th && <small>{it.note_th}</small>}
+                  </span>
+                </li>
+              );
+            })}
+          </ol>
+          {prep && <p className="small">ระบบใช้วันภาค 1/1 เป็น {thaiRange(prep.start, prep.end)}{prep.edited ? ' (ตามที่คุณแก้)' : ` (${ESTIMATE_NOTE})`} <button className="link" onClick={() => go('/settings')}>แก้วัน</button></p>}
+        </section>
+      )}
+      {upcoming && (
+        <div className="cal-next">
+          <span className="next-tag">ถัดไป</span>
+          <b>{upcoming.r.th}</b>
+          <span>{upcoming.t.th} · {upcoming.c.text}{upcoming.c.time ? ` ${upcoming.c.time}` : ''}</span>
+          <span className="cal-when">{countdown(today, upcoming.c)}</span>
+        </div>
+      )}
+      <div className="tabs cal-tabs" role="tablist" aria-label="เลือกภาคการศึกษา">
+        {calendar.terms.map((t) => <button key={t.id} role="tab" aria-selected={t.id === term} className={t.id === term ? 'on' : ''} onClick={() => setTerm(t.id)}>{t.th.replace('ภาคการศึกษาที่ ', 'ภาค ').replace('ภาคฤดูร้อน', 'ฤดูร้อน')}</button>)}
+      </div>
+      <table className="cal-table" data-term={term}>
+        <thead>
+          <tr><th scope="col">กำหนดการ</th>{calendar.terms.map((t) => <th key={t.id} scope="col" data-t={t.id}>{t.th}</th>)}</tr>
+        </thead>
+        <tbody>
+          {calendar.rows.map((r) => (
+            <tr key={r.th} className={r.key === 'start' || r.key === 'end' ? 'key' : ''}>
+              <th scope="row">{r.th}{r.sub && <small>{r.sub}</small>}</th>
+              {calendar.terms.map((t) => {
+                const cells = r.cells[t.id];
+                return (
+                  <td key={t.id} data-t={t.id}>
+                    {!cells ? <span className="muted">-</span> : cells.map((c) => {
+                      const past = cellEnd(c) < today;
+                      const isNext = upcoming?.c === c;
+                      return (
+                        <div key={c.text} className={`cal-cell ${past ? 'past' : ''} ${isNext ? 'next' : ''}`}>
+                          <span className="cal-date">{c.text}</span>
+                          {c.time && <span className="cal-time">{c.time}</span>}
+                          <span className="cal-when">{countdown(today, c)}</span>
+                        </div>
+                      );
+                    })}
+                  </td>
+                );
+              })}
+            </tr>
+          ))}
+        </tbody>
+      </table>
+      <p className="small muted">วันสอบกลางภาค ปลายภาค และวันปฐมนิเทศไม่อยู่ในปฏิทินนี้ ดูประกาศของมหาวิทยาลัยหรือ registration.bu.ac.th</p>
     </div>
   );
 }
@@ -341,7 +393,7 @@ export function SettingsPage() {
         </Card>
         <Card>
           <h3>วันเปิดและปิดภาค</h3>
-          <p className="small muted">ค่าเริ่มต้นมาจากปฏิทิน 2570 ภาค 1 เปิด 16 ส.ค. 2570 ปิด 5 ธ.ค. 2570 ปฏิทินไม่ได้แยกภาค 1/1 กับ 1/2 จึงแบ่งครึ่งไว้ก่อน ({ESTIMATE_NOTE}) ปี 2 ถึง 4 เลื่อนไปปีละ 1 ปี แก้ได้เมื่อมหาวิทยาลัยประกาศ</p>
+          <p className="small muted">ค่าเริ่มต้นมาจากปฏิทิน 2570 และหน้ารับสมัคร Dek70: ภาค 1/1 (ภาคเตรียมความพร้อม) เริ่มเรียนมิถุนายน 2570 ยังไม่ประกาศวันที่ ระบบนับจาก 1 มิ.ย. ถึง 31 ก.ค. ไว้ก่อน ({ESTIMATE_NOTE}) ภาค 1/2 คือภาคเรียนที่ 1 ของมหาวิทยาลัย 16 ส.ค. ถึง 5 ธ.ค. 2570 ปี 2 ถึง 4 เลื่อนไปปีละ 1 ปี แก้ได้เมื่อมหาวิทยาลัยประกาศ</p>
           <ol className="date-list">
             {terms.map((t) => (
               <li key={t.id} className="date-row">

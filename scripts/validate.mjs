@@ -51,8 +51,28 @@ catch (e) { err('content/catalog.json', String(e.stdout || e.message).trim()); }
 /* plan → catalog */
 for (const t of c.plan.terms) for (const list of Object.values(t.courses)) for (const code of list)
   if (!/^(SI|FE|ME)-\d+$/.test(code) && !codes.has(code)) err(`plan.json ${t.id}`, `${code} is not in catalog.json`);
-for (const key of ['term1-start', 'term1-end', 'term2-start', 'term2-end', 'summer-start', 'summer-end'])
-  if (!c.calendar.events.some((e) => e.key === key)) err('calendar.json', `missing event key ${key}`);
+/* calendar.json is the official BU table: every date text is printed in the source, and its ISO dates say the same thing */
+{
+  const src = (await import('node:fs')).readFileSync(path.join(ROOT, 'source/calendar-2570.txt'), 'utf8').replace(/\s+/g, ' ');
+  const MONTHS = ['ม.ค.', 'ก.พ.', 'มี.ค.', 'เม.ย.', 'พ.ค.', 'มิ.ย.', 'ก.ค.', 'ส.ค.', 'ก.ย.', 'ต.ค.', 'พ.ย.', 'ธ.ค.'];
+  const iso = (d, mon, yy) => `${2570 + Number(yy) - 70 - 543}-${String(MONTHS.indexOf(mon.endsWith('.') ? mon : `${mon}.`) + 1).padStart(2, '0')}-${String(d).padStart(2, '0')}`;
+  // "23, 26 - 27 ก.ค. 70" -> first and last day; "6 ก.ย. 70 - 4 ธ.ค. 70" -> both ends
+  const span = (text) => {
+    const dated = [...text.matchAll(/(\d+)\s+([^\s\d,-]+?)\.?\s+(\d{2})(?!\d)/g)].map((m) => iso(m[1], m[2], m[3]));
+    if (dated.length === 2) return dated;
+    const m = text.match(/^(\d+)(?:[\d,\s-]*?(\d+))?\s+([^\s\d,-]+?)\.?\s+(\d{2})/);
+    return m ? [iso(m[1], m[3], m[4]), iso(m[2] ?? m[1], m[3], m[4])] : [];
+  };
+  const terms = c.calendar.terms.map((t) => t.id);
+  for (const key of ['start', 'end']) if (!c.calendar.rows.some((r) => r.key === key)) err('calendar.json', `missing row key ${key}`);
+  for (const r of c.calendar.rows) for (const t of terms) for (const cell of r.cells[t] ?? []) {
+    const w = `calendar.json "${r.th}" ${t}`;
+    if (!src.includes(cell.text)) err(w, `"${cell.text}" is not in source/calendar-2570.txt`);
+    if (cell.time && !src.includes(cell.time.trim())) err(w, `"${cell.time}" is not in the source`);
+    const [a, b] = span(cell.text);
+    if (a !== cell.from || (b ?? a) !== (cell.to ?? cell.from)) err(w, `"${cell.text}" reads as ${a}..${b} but from/to say ${cell.from}..${cell.to ?? cell.from}`);
+  }
+}
 
 /* grammar lessons reused by course units */
 for (const l of c.lessons) {

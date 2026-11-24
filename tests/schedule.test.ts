@@ -8,34 +8,34 @@ const terms = myPlan(defaultProfile());
 const Y1 = new Set(terms.filter((t) => t.year === 1).flatMap((t) => t.items.flatMap((it) => (it.kind === 'course' ? [it.code] : []))));
 const unitsOf = (code: string) => (Y1.has(code) ? [1, 2, 3, 4, 5].map((n) => `${code}-U${n}`) : []);
 
-// 23 Nov 2026: semester 1 (both 1/1 and 1/2 courses) is what to prepare, earliest course first
+// 23 Nov 2026: year 1 term 1/1 (June 2027) and 1/2 (August) courses are what to prepare, earliest course first
 {
   const s = preStudy('2026-11-23', terms, unitsOf, {});
   assert.equal(s.nextStart?.term.id, 'y1t1-1');
-  assert.equal(s.nextStart?.days, 266, '266 days until 16 Aug 2027');
+  assert.equal(s.nextStart?.days, 190, '190 days until 1/1 opens on 1 Jun 2027');
   assert.equal(s.termStatus['y1t1-1'], 'pre-study');
   assert.equal(s.termStatus['y1t1-2'], 'pre-study', '1/2 courses are prepared before the semester opens too');
   assert.equal(s.termStatus['y1t2'], 'later');
   assert.equal(s.courseMode.GE011, 'pre-study');
   assert.equal(s.courseMode.ENL102, 'later');
   assert.deepEqual(s.queue.slice(0, 6).map((q) => q.unitId), ['GE011-U1', 'GE011-U2', 'GE011-U3', 'GE011-U4', 'GE011-U5', 'ENL181-U1']);
-  assert.ok(s.queue.slice(0, 30).every((q) => q.prepBy === '2027-08-16'), 'all 30 semester-1 units are due by 16 Aug');
+  assert.ok(s.queue.slice(0, 30).every((q) => q.prepBy === '2027-06-01'), 'all 30 units of 1/1 and 1/2 are due by 1 Jun');
   assert.deepEqual(s.todayUnits.map((q) => q.unitId), ['GE011-U1'], "a fresh start has today's new unit");
   assert.equal(s.pace?.perDay, 1);
-  // 30 units in 266 days, or 60 units by 10 Jan 2028: one unit every 6 days covers both
+  // 30 units in 190 days, or 60 units by 10 Jan 2028: one unit every 6 days covers both
   assert.equal(s.pace?.everyDays, 6);
   assert.deepEqual([...s.unlocked], ['GE011-U1'], 'only today\'s unit is open before anything is done');
 }
 
-// pacing: a unit finished 2 days ago means no new unit is due today. 59 units left by 10 Jan 2028 = one every 7 days
+// pacing: a unit finished 2 days ago means no new unit is due today. 29 units left by 1 Jun 2027 = one every 6 days
 {
   const done = { 'GE011-U1': '2026-11-21' };
   const s = preStudy('2026-11-23', terms, unitsOf, done);
   assert.deepEqual(s.todayUnits, [], 'nothing new is due two days later');
-  assert.equal(s.nextDue, '2026-11-28');
+  assert.equal(s.nextDue, '2026-11-27');
   assert.equal(s.queue[0].unitId, 'GE011-U2', 'the queue still shows what comes next');
   assert.ok(s.unlocked.has('GE011-U1') && !s.unlocked.has('GE011-U2'));
-  const later = preStudy('2026-11-28', terms, unitsOf, done);
+  const later = preStudy('2026-11-27', terms, unitsOf, done);
   assert.deepEqual(later.todayUnits.map((q) => q.unitId), ['GE011-U2']);
 }
 
@@ -48,15 +48,15 @@ const unitsOf = (code: string) => (Y1.has(code) ? [1, 2, 3, 4, 5].map((n) => `${
 
 // behind schedule: two weeks before term with 30 units left needs more than one unit a day
 {
-  const s = preStudy('2027-08-02', terms, unitsOf, {});
+  const s = preStudy('2027-05-18', terms, unitsOf, {});
   assert.equal(s.pace?.everyDays, 1);
   assert.equal(s.pace?.perDay, 3, '30 units in 14 days');
   assert.deepEqual(s.todayUnits.map((q) => q.unitId), ['GE011-U1', 'GE011-U2', 'GE011-U3']);
 }
 
-// after 1/1 starts: its courses become review (all units open); 1/2 is now prepared before 11 Oct; semester 2 waits
+// after 1/1 starts: its courses become review (all units open); 1/2 is now prepared before 16 Aug; semester 2 waits
 {
-  const s = preStudy('2027-08-20', terms, unitsOf, {});
+  const s = preStudy('2027-06-10', terms, unitsOf, {});
   assert.equal(s.termStatus['y1t1-1'], 'now');
   assert.equal(s.courseMode.GE011, 'review');
   assert.equal(s.courseMode.ENL181, 'review');
@@ -64,7 +64,7 @@ const unitsOf = (code: string) => (Y1.has(code) ? [1, 2, 3, 4, 5].map((n) => `${
   assert.equal(s.termStatus['y1t1-2'], 'pre-study');
   assert.equal(s.termStatus['y1t2'], 'later');
   assert.equal(s.queue[0].unitId, 'GE013-U1');
-  assert.equal(s.queue[0].prepBy, '2027-10-11');
+  assert.equal(s.queue[0].prepBy, '2027-08-16');
   assert.equal(s.nextStart?.term.id, 'y1t1-2');
 }
 

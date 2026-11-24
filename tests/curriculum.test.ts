@@ -36,9 +36,10 @@ for (const p of [{ cohort: '1/1', track: 'normal' }, { cohort: '1/2', track: 'co
   assert.equal(totalCredits(myPlan({ ...defaultProfile(), ...p })), 135, `cohort ${p.cohort} ${p.track} totals 135`);
 assert.ok(!myPlan({ ...defaultProfile(), track: 'normal' }).some((t) => t.items.some((it) => it.kind === 'course' && ['CO301', 'EN400'].includes(it.code))), 'the normal plan has no co-op courses');
 
-// term dates: semester 1 is 16 Aug – 5 Dec 2027, split at the midpoint and flagged as an estimate
-assert.deepEqual(defaultTermDates('y1t1-1'), { start: '2027-08-16', end: '2027-10-10', estimate: true, startKnown: true }, 'the 1/1 start is the printed semester start');
-assert.deepEqual(defaultTermDates('y1t1-2'), { start: '2027-10-11', end: '2027-12-05', estimate: true, startKnown: false });
+// term dates: cohort 1/1 starts in June 2027 with the preparatory term 1/1 (BU prints only the month);
+// term 1/2 is the university's semester 1, 16 Aug – 5 Dec 2027
+assert.deepEqual(defaultTermDates('y1t1-1'), { start: '2027-06-01', end: '2027-07-31', estimate: true, startKnown: false }, '1/1 starts in June, day not printed');
+assert.deepEqual(defaultTermDates('y1t1-2'), { start: '2027-08-16', end: '2027-12-05', estimate: false, startKnown: true }, '1/2 is the printed semester 1');
 assert.deepEqual(defaultTermDates('y1t2'), { start: '2028-01-10', end: '2028-05-14', estimate: false, startKnown: true });
 assert.deepEqual(defaultTermDates('y1s'), { start: '2028-06-12', end: '2028-08-06', estimate: false, startKnown: true });
 assert.deepEqual(defaultTermDates('y2t1'), { start: '2028-08-16', end: '2028-12-05', estimate: true, startKnown: false }, 'later years shift by one year and are estimates');
@@ -46,9 +47,9 @@ assert.deepEqual(defaultTermDates('y4t2'), { start: '2031-01-10', end: '2031-05-
 assert.match(ESTIMATE_NOTE, /registration\.bu\.ac\.th/);
 
 // an edited date wins and is no longer an estimate; a broken edit falls back to the default
-const edited = myPlan({ ...defaultProfile(), termDates: { 'y1t1-1': { start: '2027-08-16', end: '2027-09-30' }, 'y1t1-2': { start: '2027-12-01', end: '2027-11-01' } } });
-assert.deepEqual([edited[0].end, edited[0].estimate, edited[0].edited], ['2027-09-30', false, true]);
-assert.deepEqual([edited[1].start, edited[1].edited], ['2027-10-11', false], 'an end before the start is ignored');
+const edited = myPlan({ ...defaultProfile(), termDates: { 'y1t1-1': { start: '2027-06-07', end: '2027-07-24' }, 'y1t1-2': { start: '2027-12-01', end: '2027-11-01' } } });
+assert.deepEqual([edited[0].end, edited[0].estimate, edited[0].edited], ['2027-07-24', false, true]);
+assert.deepEqual([edited[1].start, edited[1].edited], ['2027-08-16', false], 'an end before the start is ignored');
 
 // a chosen slot resolves to its catalog course and keeps 3 credits
 const slotted = myPlan({ ...defaultProfile(), slots: { 'ME-1': 'ENL522', 'SI-1': 'วิชาจากคณะอื่น' } });

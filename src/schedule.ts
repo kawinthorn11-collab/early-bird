@@ -26,8 +26,8 @@ export type Schedule = {
 };
 
 /**
- * Units of a term must be finished by its deadline. The two halves of semester 1 (1/1 and 1/2) share the semester's
- * opening day as their first deadline; once that day passes, a 1/2 course still pending may be finished before 1/2 opens.
+ * Units of a term must be finished by its deadline. Year 1's terms 1/1 (June) and 1/2 (semester 1, August) share the
+ * day 1/1 opens as their first deadline; once that day passes, a 1/2 course still pending may be finished before 1/2 opens.
  */
 function prepBy(term: Term, terms: Term[], today: ISODate): ISODate {
   const first = term.season === 't1-2' ? terms.find((t) => t.year === term.year && t.season === 't1-1')?.start : undefined;

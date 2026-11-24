@@ -2,7 +2,7 @@
 import planJson from '../content/plan.json';
 import calendarJson from '../content/calendar.json';
 import catalogJson from '../content/catalog.json';
-import { addDays, addYears, daysBetween, midpoint, isISODate, type ISODate } from './dates';
+import { addDays, addYears, daysBetween, isISODate, type ISODate } from './dates';
 
 export type Cohort = '1/1' | '1/2' | '2';
 export type Track = 'normal' | 'coop';
@@ -57,17 +57,30 @@ export type Season = 't1-1' | 't1-2' | 't1' | 't2' | 's';
 export const seasonOf = (id: string): Season => id.replace(/^y\d+/, '') as Season;
 const yearOf = (id: string) => Number(id.match(/^y(\d+)/)?.[1] ?? 1);
 
-type CalEvent = { date: ISODate; end?: ISODate; term: string; th: string; key?: string };
-export const calendar = calendarJson as { year: string; source: string; note_th: string; events: CalEvent[] };
-const keyDate = (key: string) => {
-  const e = calendar.events.find((x) => x.key === key);
-  if (!e) throw new Error(`calendar.json has no "${key}" event`);
-  return e.date;
+export type CalCell = { text: string; time?: string; from: ISODate; to?: ISODate };
+export type CalTermId = '1' | '2' | 'S';
+export type CalRow = { th: string; sub?: string; key?: 'start' | 'end' | 'pay'; cells: Record<CalTermId, CalCell[] | null> };
+/** BU's official calendar table, row for row (validate checks every date text against source/calendar-2570.txt). */
+export type FreshmanItem = { th: string; text: string; from: ISODate; to?: ISODate; precision: 'day' | 'month' | 'unknown'; key?: string; source?: string; note_th?: string };
+export const calendar = calendarJson as {
+  year: string; source: string; note_th: string; terms: { id: CalTermId; th: string }[]; rows: CalRow[];
+  /** Cohort 1/1 starts in June with the preparatory term 1/1; term 1/2 is the university's semester 1. */
+  freshman: { th: string; how_th: string; items: FreshmanItem[] };
 };
-const SEM1 = { start: keyDate('term1-start'), end: keyDate('term1-end') };
-const SEM2 = { start: keyDate('term2-start'), end: keyDate('term2-end') };
-const SUMMER = { start: keyDate('summer-start'), end: keyDate('summer-end') };
-const SPLIT = midpoint(SEM1.start, SEM1.end);
+const keyDate = (key: 'start' | 'end', term: CalTermId) => {
+  const cell = calendar.rows.find((r) => r.key === key)?.cells[term]?.[0];
+  if (!cell) throw new Error(`calendar.json has no "${key}" row for term ${term}`);
+  return cell.from;
+};
+const SEM1 = { start: keyDate('start', '1'), end: keyDate('end', '1') };
+const SEM2 = { start: keyDate('start', '2'), end: keyDate('end', '2') };
+const SUMMER = { start: keyDate('start', 'S'), end: keyDate('end', 'S') };
+const freshDate = (key: string) => {
+  const it = calendar.freshman.items.find((x) => x.key === key);
+  if (!it) throw new Error(`calendar.json freshman has no "${key}"`);
+  return it.from;
+};
+const PREP = { start: freshDate('t1-1-start'), end: freshDate('t1-1-end') };
 
 export const ESTIMATE_NOTE = 'ค่าประมาณ ยืนยันที่ registration.bu.ac.th';
 
@@ -76,13 +89,14 @@ export function defaultTermDates(id: string): TermDates & { estimate: boolean; s
   const season = seasonOf(id);
   const shift = yearOf(id) - 1;
   const base: Record<Season, TermDates> = {
-    't1-1': { start: SEM1.start, end: SPLIT },
-    't1-2': { start: addDays(SPLIT, 1), end: SEM1.end },
+    't1-1': PREP,
+    't1-2': SEM1,
     t1: SEM1, t2: SEM2, s: SUMMER,
   };
   const b = base[season];
-  const split = season === 't1-1' || season === 't1-2';
-  return { start: addYears(b.start, shift), end: addYears(b.end, shift), estimate: shift > 0 || split, startKnown: shift === 0 && season !== 't1-2' };
+  // BU prints only the month 1/1 starts and not its end; 1/2 is semester 1, printed in full
+  const prep = season === 't1-1';
+  return { start: addYears(b.start, shift), end: addYears(b.end, shift), estimate: shift > 0 || prep, startKnown: shift === 0 && !prep };
 }
 
 /* ---------- the resolved plan ---------- */

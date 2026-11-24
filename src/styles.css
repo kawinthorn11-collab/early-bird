@@ -764,17 +764,33 @@ button, a, label, .card.clickable { touch-action: manipulation; }
 .prereq.after { background: var(--accent-wash); color: var(--ink); }
 
 /* calendar */
-.cal { margin: 16px 0; padding: 0; list-style: none; }
-.cal-month { margin: 24px 0 6px; padding-top: 8px; border-top: 3px solid var(--ink); font-size: 18px; }
-.cal-item { display: grid; grid-template-columns: 9.5em minmax(0, 1fr) auto; gap: 2px 12px; align-items: baseline; padding: 10px 8px; border-bottom: 2px dotted var(--line-strong); }
-.cal-date { font: 600 15px/1.4 var(--font-head); font-variant-numeric: tabular-nums; }
-.cal-what { grid-column: 2; }
-.cal-tag { grid-column: 3; grid-row: 1; font: 600 12px/1.6 var(--font-head); color: var(--muted); white-space: nowrap; }
-.cal-when { grid-column: 2 / 4; font-size: 14px; color: var(--muted); }
-.cal-row.past .cal-item { opacity: .55; }
-.cal-row.key .cal-what { font-weight: 600; }
-.cal-row.next .cal-item { border: 2px solid var(--ink); border-radius: var(--r); background: var(--hl); color: var(--hl-ink); box-shadow: 4px 4px 0 var(--pink); }
-.cal-row.next .cal-when, .cal-row.next .cal-tag { color: inherit; }
+/* calendar: BU's official table; one term column at a time below 760px */
+.cal-next { display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: baseline; margin: 16px 0; padding: 12px 14px; border: 2px solid var(--ink); border-radius: var(--r); background: var(--hl); color: var(--hl-ink); box-shadow: 4px 4px 0 var(--pink); }
+.cal-next .cal-when { color: inherit; font-weight: 600; }
+.cal-table { width: 100%; margin: 4px 0 20px; border-collapse: collapse; table-layout: fixed; }
+.cal-table th, .cal-table td { padding: 10px 8px; border-bottom: 2px dotted var(--line-strong); text-align: left; vertical-align: top; overflow-wrap: anywhere; }
+.cal-table thead th { border-bottom: 3px solid var(--ink); font: 600 14px/1.4 var(--font-head); }
+.cal-table tbody th { width: 34%; font-weight: 600; }
+.cal-table tbody th small { display: block; margin-top: 2px; color: var(--muted); font-size: 13px; font-weight: 400; }
+.cal-table tr.key th, .cal-table tr.key .cal-date { color: var(--accent); }
+.cal-cell + .cal-cell { margin-top: 8px; }
+.cal-date { display: block; font: 600 15px/1.4 var(--font-head); font-variant-numeric: tabular-nums; }
+.cal-time, .cal-when { display: block; font-size: 13px; color: var(--muted); }
+.cal-cell.past { opacity: .5; }
+.cal-cell.next { margin: -4px; padding: 4px; border-radius: 8px; background: var(--hl); color: var(--hl-ink); }
+.cal-cell.next .cal-when, .cal-cell.next .cal-time { color: inherit; }
+.cal-tabs { display: none; }
+@media (max-width: 759px) {
+  .cal-tabs { display: flex; }
+  .cal-table thead { display: none; }
+  .cal-table, .cal-table tbody { display: block; }
+  .cal-table tr { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: 0 12px; padding: 10px 0; border-bottom: 2px dotted var(--line-strong); }
+  .cal-table tbody th, .cal-table td { width: auto; padding: 0; border: 0; }
+  .cal-table[data-term="1"] [data-t]:not([data-t="1"]),
+  .cal-table[data-term="2"] [data-t]:not([data-t="2"]),
+  .cal-table[data-term="S"] [data-t]:not([data-t="S"]) { display: none; }
+}
+.cal-est ul { margin: 8px 0; }
 .next-tag { margin-right: 8px; padding: 0 8px; border-radius: 6px; background: var(--pink); color: #1c1a20; font: 700 12px/1.6 var(--font-head); }
 
 /* settings */
@@ -842,10 +858,6 @@ button, a, label, .card.clickable { touch-action: manipulation; }
   .tabs-nav button { flex: 1; justify-content: center; padding: 8px 2px; font-size: 13px; }
   .tabs-nav button::after { inset: auto 22% 2px 22%; }
   .foot { padding-bottom: calc(88px + env(safe-area-inset-bottom)); }
-  .cal-item { grid-template-columns: minmax(0, 1fr) auto; }
-  .cal-what { grid-column: 1 / 3; }
-  .cal-tag { grid-column: 2; }
-  .cal-when { grid-column: 1 / 3; }
   .vocab-list li { grid-template-columns: auto minmax(0, 1fr); }
   .vocab-list li span { grid-column: 2; }
   .brand-sub { display: none; }
@@ -859,3 +871,9 @@ button, a, label, .card.clickable { touch-action: manipulation; }
   .ready i { width: 32px; }
   .course-link .ready.none { display: none; }
 }
+.cal-fresh h2 { margin-top: 0; }
+.cal-fresh-list { margin: 12px 0; padding: 0; list-style: none; }
+.cal-fresh-list li { display: grid; grid-template-columns: 8.5em minmax(0, 1fr); gap: 2px 12px; padding: 10px 0; border-bottom: 2px dotted var(--line-strong); }
+.cal-fresh-list li.past { opacity: .5; }
+.cal-fresh-list small { display: block; margin-top: 2px; color: var(--muted); font-size: 13px; }
+@media (max-width: 759px) { .cal-fresh-list li { grid-template-columns: minmax(0, 1fr); } }
